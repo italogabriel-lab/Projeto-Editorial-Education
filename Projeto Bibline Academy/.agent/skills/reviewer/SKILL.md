@@ -186,6 +186,18 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ---
 
+### 14. Condução pelo Contexto Artístico
+
+- [ ] Parágrafo introdutório (Definir) situa o termo no **período artístico e movimento** da aula
+- [ ] Perceber descreve uma **obra de arte real** do período estudado
+- [ ] Reflexão teológica conecta-se ao **contexto artístico**, não é genérica
+- [ ] Narrar referencia **artista, obra ou técnica** do período
+- [ ] Perguntas remetem ao **conteúdo artístico** da aula
+- [ ] A aula NUNCA parece uma aula genérica de vocabulário ou teologia
+- [ ] A condução mantém ênfase na **arte, história da arte e contexto da aula**
+
+---
+
 ## ERROS CONHECIDOS DA IA (Verificação Prioritária)
 
 | # | Erro | O que verificar |

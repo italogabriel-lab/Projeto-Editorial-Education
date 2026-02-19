@@ -411,6 +411,8 @@ Catacumbas ✅
 
 # Semana 36
 Narrativa Biblica ✅
+Forma simples ✅
+Didática ✅
 
 ## Semana 37 – **Arte Bizantina**
 

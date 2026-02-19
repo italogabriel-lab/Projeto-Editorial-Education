@@ -46,10 +46,17 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 2. Plano Pedagógico da semana/aula
 3. Lista de termos já definidos
 
+## Diretriz de Condução — Contexto Artístico (OBRIGATÓRIO)
+
+> **Toda aula DEVE ser conduzida com ênfase no contexto da arte e da história da arte.**
+> O conteúdo nunca deve parecer uma aula genérica de vocabulário ou teologia.
+> Cada hábito deve situar o aluno no período artístico, no movimento estético e no contexto específico da aula.
+> A definição, a observação, a prática e a narrativa devem sempre remeter à obra, ao artista, à técnica ou ao período histórico em questão.
+
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
-- Parágrafo introdutório: 3-4 frases no imperativo, contextualizando o tema
+- Parágrafo introdutório: 3-4 frases no imperativo, contextualizando o tema **dentro do período artístico e do movimento estudado**
 - Definição formal do termo em frase curta e clara ao final do parágrafo
 - Primeira frase: NÃO repetir o título
 - Verbos cognitivos obrigatórios: Reconheça, Observe, Entenda, Confirme
