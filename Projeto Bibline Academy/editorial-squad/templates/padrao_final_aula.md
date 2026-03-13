@@ -116,6 +116,12 @@ Hora de memorizar com música
 
 [-HEADING]
 
+[+PARAGRAPH]
+
+Clique abaixo para ouvir a música sobre o tema da aula e reforçar o aprendizado.
+
+[-PARAGRAPH]
+
 [+IMAGE_TEXT_ON]
 
 @link_png@
@@ -125,6 +131,52 @@ Hora de memorizar com música
 [Nome da música]
 
 [-IMAGE_TEXT_ON]
+
+### Variante B — RIMA (quando especificado ou 3º ano)
+
+> Use esta variante NO LUGAR da Variante A acima.
+
+[+HEADING]
+
+Hora de memorizar com rima
+
+[-HEADING]
+
+[+PARAGRAPH]
+
+Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula].
+
+[-PARAGRAPH]
+
+[+STATEMENT_A]
+
+[MP3/]
+
+#11L:9pDzHy2OpOgeXM8SeL0t
+
+*[Título da rima]*
+
+[Verso 1 rimando com o tema da aula]
+
+[Verso 2]
+
+[Verso 3]
+
+[Verso 4]
+
+[MP3\]
+
+*[Título da rima]*
+
+[Verso 1]
+
+[Verso 2]
+
+[Verso 3]
+
+[Verso 4]
+
+[-STATEMENT_A]
 
 ## Praticar
 
@@ -191,6 +243,12 @@ Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cris
 Perguntas
 
 [-HEADING]
+
+[+PARAGRAPH]
+
+Responda oralmente às perguntas abaixo sobre o texto.
+
+[-PARAGRAPH]
 
 [+LIST_NUMBERED]
 

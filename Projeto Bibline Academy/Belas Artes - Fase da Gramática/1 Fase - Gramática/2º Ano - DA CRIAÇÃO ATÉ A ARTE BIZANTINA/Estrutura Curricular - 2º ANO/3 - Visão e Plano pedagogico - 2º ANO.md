@@ -3187,7 +3187,7 @@ Formar no aluno a compreensão de que:
 2. **36.2 – Forma simples**  
    → Identifique traços simples e poucos detalhes.  
    → Valorize clareza acima de ornamentação.  
-   → Discira simplicidade como escolha teológica.
+   → Discirna simplicidade como escolha teológica.
 
 3. **36.3 – Função didática**  
    → Reconheça a arte como instrumento de ensino cristão.  
@@ -3361,25 +3361,25 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                        | Tema central                                                            | Versículo-chave    |
 | -------- | ----------------------------- | ----------------------------------------------------------------------- | ------------------ |
-| **38.1** | **Frontalidade e hierarquia** | A forma fixa como linguagem de autoridade, presença e ordem divina.     | Colossenses 1:17   |
-| **38.2** | **Arquitetura centralizada**  | O espaço centralizado como símbolo de unidade e transcendência.         | 1 Coríntios 14:40  |
-| **38.3** | **Santa Sofia**               | A obra-prima de Bizâncio como marco de arquitetura e símbolo de poder.  | Isaías 6:1         |
+| **38.1** | **Arte bizantina e frontalidade e hierarquia** | A forma fixa como linguagem de autoridade, presença e ordem divina.     | Colossenses 1:17   |
+| **38.2** | **Arte bizantina e arquitetura centralizada**  | O espaço centralizado como símbolo de unidade e transcendência.         | 1 Coríntios 14:40  |
+| **38.3** | **Arte bizantina e a grandeza arquitetônica**               | A obra-prima de Bizâncio como marco de arquitetura e símbolo de poder.  | Isaías 6:1         |
 
 ---
 
 ## 🔁 **progressão pedagógica**
 
-1. **38.1 – Frontalidade e hierarquia**  
+1. **38.1 – Arte bizantina e frontalidade e hierarquia**  
    → Observe a posição fixa e frontal dos personagens nos ícones bizantinos.  
    → Compreenda a frontalidade como linguagem de autoridade e eternidade.  
    → Discirna entre hierarquia visual legítima e exaltação do poder humano.
 
-2. **38.2 – Arquitetura centralizada**  
+2. **38.2 – Arte bizantina e arquitetura centralizada**  
    → Identifique a planta centralizada como escolha teológica e simbólica.  
    → Reconheça cúpulas e abóbadas como representações do céu sobre a terra.  
    → Relacione espaço, luz e ordem como expressões da soberania divina.
 
-3. **38.3 – Santa Sofia**  
+3. **38.3 – Arte bizantina e a grandeza arquitetônica**  
    → Conheça a história e a grandeza arquitetônica da Hagia Sophia.  
    → Observe como pedra, luz e ouro se unem para comunicar transcendência.  
    → Julgue o legado de Bizâncio com discernimento cristão e espírito reformado.

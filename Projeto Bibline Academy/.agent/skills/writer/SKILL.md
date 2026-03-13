@@ -53,6 +53,16 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 > Cada hábito deve situar o aluno no período artístico, no movimento estético e no contexto específico da aula.
 > A definição, a observação, a prática e a narrativa devem sempre remeter à obra, ao artista, à técnica ou ao período histórico em questão.
 
+## Diretriz de Perspectiva Protestante (OBRIGATÓRIO)
+
+> **Sempre que o conteúdo tratar de algo apresentado como "sagrado" — ícones, relíquias, espaços, peregrinações, imagens — o texto DEVE:**
+> 1. Apresentar o fato histórico/artístico como expressão artística de uma época e cosmovisão.
+> 2. Rejeitar a atribuição de sacralidade ao objeto artístico à luz das Escrituras.
+> 3. Distinguir claramente entre apreciar a arte e venerar/adorar o objeto.
+> 4. Incluir um qualificador reformado explícito (ex: "O cristão reformado reconhece que somente Deus é santo", "A verdadeira adoração acontece no coração transformado pela graça").
+> 5. NUNCA usar "sagrado" referindo-se ao objeto artístico sem qualificador protestante. Preferir "considerado sagrado pela tradição [católica/ortodoxa/islâmica]" ou "dedicado à adoração".
+> 6. Quando descrever a arte como "sagrada", usar aspas ou reformular para "arte devocional", "arte de temática religiosa", "expressão artística da fé".
+
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
@@ -62,6 +72,7 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 - Verbos cognitivos obrigatórios: Reconheça, Observe, Entenda, Confirme
 - Vídeo de abertura: `[+VIDEO][-VIDEO]`
 - Accordion com: pergunta, `@link_png@` logo após a pergunta, definição dentro do MP3, definição com negrito, reflexão teológica
+- **REGRA FIXA — Accordion**: A definição dentro do MP3 e a versão com negrito NÃO devem repetir o nome do termo. Usar "É [definição]..." em vez de "Termo é [definição]...". O termo já aparece na pergunta "O que é [Termo]?"
 
 ### Perceber (Observar)
 - 3-4 frases no imperativo descrevendo o que observar
@@ -71,7 +82,17 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
 - Statement_D com definição CURTA (9-10 palavras) — mesma definição do Accordion
-- Image Text On com versículo ou música para memorizar
+
+#### Modo MÚSICA (padrão para 1º, 2º, 4º e 5º ano)
+- Parágrafo obrigatório: "Clique abaixo para ouvir a música sobre o tema da aula e reforçar o aprendizado."
+- Image Text On com título sobre o tema que foi ensinado que será o titulo da música para memorizar
+
+#### Modo RIMA (padrão para 3º ano)
+- Parágrafo contextualizando: "Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula]."
+- Statement_A com MP3, título da rima em itálico, e 4 versos rimados sobre o tema da aula
+- Os versos devem reforçar a definição aprendida de forma poética e memorável
+
+> **Regra de seleção:** Usar modo RIMA quando o usuário especificar "rima" na solicitação ou quando o ano for **3º ano**. Usar modo MÚSICA nos demais casos. Se o usuário especificar explicitamente, a escolha dele prevalece sobre o padrão.
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
@@ -81,7 +102,8 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas
 - Atribuição com autor, obra, referência bíblica
-- 3 perguntas com interrogação e espaçamento entre elas
+- Heading "Perguntas" seguido OBRIGATORIAMENTE de um bloco `[+PARAGRAPH]` com o texto: "Responda oralmente às perguntas abaixo sobre o texto." `[-PARAGRAPH]`
+- 3 perguntas com interrogação e espaçamento entre elas (dentro de `[+LIST_NUMBERED]`)
 
 ## Regras de Estilo (Obrigatórias)
 

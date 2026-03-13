@@ -36,6 +36,7 @@ A Bibline Academy adota a **Educação Clássica Cristã** como modelo pedagógi
 3. **O cristão não teme a arte** — avalia com discernimento usando três critérios: é verdadeiro? É belo? É bom? (Filipenses 4:8)
 4. **A criação proclama a glória de Deus** — a natureza e a arte apontam para o Criador (Salmo 19:1).
 5. **Provar tudo, reter o que é bom** (1 Tessalonicenses 5:21) — o cristão reformado não rejeita toda arte secular nem aceita toda arte religiosa. Discerne.
+6. **A arte não é sagrada, somente Deus é santo** (Êxodo 20:4-5, Isaías 42:8) — a perspectiva protestante distingue entre apreciar a arte como expressão e atribuir sacralidade ao objeto. Obras de arte cristã (ícones, retábulos, vitrais, catedrais) são expressões artísticas da fé, não objetos de veneração. Quando o conteúdo tratar de temas como "arte sagrada", "ícones sagrados", "espaço sagrado" ou "relíquias", SEMPRE explicitar a posição reformada: a arte instrui e embeleza, mas nunca é objeto de adoração. Refutar gentilmente, à luz das Escrituras, qualquer confusão entre expressão artística e veneração católica ou ortodoxa.
 
 ### A Pedagogia do Belo
 

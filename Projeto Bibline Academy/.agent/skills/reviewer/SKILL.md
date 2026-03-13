@@ -70,6 +70,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Accordion: pergunta "O que é [Termo]?"
 - [ ] Accordion: `@link_png@` logo após a pergunta (sem definição texto plano antes)
 - [ ] Accordion: definição SOMENTE dentro do `[MP3/]...[MP3\]` e na versão com negrito
+- [ ] Accordion: definição NÃO repete o nome do termo (usar "É [definição]" em vez de "Termo é [definição]")
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
 - [ ] Definição dentro do MP3 idêntica à do Recordar
 - [ ] Reflexão com "Entenda que..." e cosmovisão cristã
@@ -94,7 +95,16 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
 - [ ] Definição idêntica à do Accordion
+
+**Se MÚSICA (padrão para 1º, 2º, 4º e 5º ano):**
+- [ ] `[+HEADING] Hora de memorizar com música [-HEADING]`
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
+
+**Se RIMA (padrão para 3º ano):**
+- [ ] `[+HEADING] Hora de memorizar com rima [-HEADING]`
+- [ ] `[+PARAGRAPH]` contextualizando a rima e o tema da aula
+- [ ] `[+STATEMENT_A]` com `[MP3/]` + título em itálico + 4 versos rimados
+- [ ] Versos rimam corretamente e reforçam o conteúdo da aula
 
 ---
 
@@ -195,6 +205,16 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Perguntas remetem ao **conteúdo artístico** da aula
 - [ ] A aula NUNCA parece uma aula genérica de vocabulário ou teologia
 - [ ] A condução mantém ênfase na **arte, história da arte e contexto da aula**
+
+---
+
+### 15. Perspectiva Protestante sobre o Sagrado
+
+- [ ] Nenhum objeto artístico é chamado de "sagrado" sem qualificador protestante
+- [ ] Distinção clara entre expressão artística e veneração/adoração
+- [ ] Posição reformada explícita quando o tema envolver ícones, relíquias, santos ou espaços de culto
+- [ ] Sem confusão entre apreciar arte e atribuir sacralidade ao objeto
+- [ ] Termos como "sagrado" usados entre aspas ou reformulados quando referentes a objetos/espaços
 
 ---
 

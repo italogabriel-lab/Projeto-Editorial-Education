@@ -86,6 +86,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
   - `**Reflexão**` + texto teológico no imperativo
 - **CRÍTICO**: A definição dentro do MP3 DEVE ser idêntica à do Recordar/Praticar
 - **CRÍTICO**: NÃO colocar definição em texto plano antes do `@link_png@`
+- **CRÍTICO**: NÃO repetir o nome do termo na definição do Accordion. Usar "É [definição]..." em vez de "Termo é [definição]...". O termo já está na pergunta "O que é [Termo]?"
 
 ### 2. Perceber
 - `## Perceber` (H2)
@@ -98,8 +99,18 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (9-10 palavras)
 - **CRÍTICO**: Definição IDÊNTICA à do Accordion
-- Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
+
+#### Modo MÚSICA (padrão para 1º, 2º, 4º e 5º ano)
+- `[+HEADING] Hora de memorizar com música [-HEADING]`
+- `[+PARAGRAPH]` com "Clique abaixo para ouvir a música sobre o tema da aula e reforçar o aprendizado." `[-PARAGRAPH]`
 - `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@`, nome da música
+
+#### Modo RIMA (padrão para 3º ano)
+- `[+HEADING] Hora de memorizar com rima [-HEADING]`
+- `[+PARAGRAPH]` com "Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula]."
+- `[+STATEMENT_A]` com:
+  - `[MP3/]` voice ID + título em itálico (`*Título*`) + 4 versos rimados `[MP3\]`
+  - Título em itálico + 4 versos rimados (repetição fora do MP3)
 
 ### 4. Praticar
 - `## Praticar` (H2)
@@ -115,6 +126,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+HEADING] Leitura [-HEADING]`
 - `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com **negrito** e *itálico*
 - `[+HEADING] Perguntas [-HEADING]`
+- `[+PARAGRAPH]` Responda oralmente às perguntas abaixo sobre o texto. `[-PARAGRAPH]`
 - `[+LIST_NUMBERED]` com 3 perguntas, interrogação, 1 linha de espaço entre elas
 
 ## Regras Fixas do Output

@@ -407,7 +407,7 @@ Catacumbas ✅
 - Dia 2: Forma simples
     
 - Dia 3: Função didática
-    
+
 
 # Semana 36
 Narrativa Biblica ✅
@@ -416,11 +416,11 @@ Didática ✅
 
 ## Semana 37 – **Arte Bizantina**
 
-- Dia 1: Império cristão
+- Dia 1: Arte Bizantina e  o império cristão
     
-- Dia 2: Mosaicos e ouro
+- Dia 2: Arte Bizantina  e Mosaicos de ouro
     
-- Dia 3: Ícones
+- Dia 3: Arte Bizantina  e Ícones
     
 
 # Semana 37
@@ -434,7 +434,7 @@ Tessela ✅
     
 - Dia 2: Arquitetura centralizada
     
-- Dia 3: Santa Sofia
+- Dia 3: Basílica Santa Sofia
 
 # Semana 38
 Frontalidade ✅

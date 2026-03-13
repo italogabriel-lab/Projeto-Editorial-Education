@@ -8,6 +8,11 @@ Este workflow cria uma aula do zero, seguindo o plano pedagógico, o controle de
 
 **Entrada**: O usuário informa o número da aula (ex: `36.3`) e o ano (ex: `5º ano`). Se o ano não for informado, pergunte.
 
+**Tipo de Recordar**: O usuário pode especificar `rima` ou `música` na solicitação. Regra padrão:
+- **3º ano** → Rima (padrão)
+- **Todos os outros anos** → Música (padrão)
+- Se o usuário especificar explicitamente, a escolha dele prevalece sobre o padrão.
+
 ---
 
 ## Resolução de Caminhos
@@ -105,7 +110,29 @@ Execute o workflow `/publish`:
 
 ---
 
-## Passo 5 — Registrar ✅ no Currículo Macro
+## Passo 5 — Criar Revisão Semanal (quando semana completa)
+
+> **EXECUTAR SOMENTE** quando as 3 aulas da semana estiverem prontas (X.1, X.2, X.3).
+
+// turbo
+- Leia o skill: `.agent/skills/review-builder/SKILL.md`
+- Extraia a definição curta do Recordar de cada aula (9-10 palavras)
+- Crie o arquivo `[Semana].4.md` seguindo o padrão de revisão (revisão = 4ª aula da semana)
+- **Output:** Arquivo de revisão semanal salvo localmente
+
+## Passo 5.5 — Criar Prova Semanal (quando semana completa)
+
+> **EXECUTAR SOMENTE** quando as 3 aulas + revisão da semana estiverem prontas (X.1, X.2, X.3, X.4).
+
+// turbo
+- Leia o skill: `.agent/skills/exam-builder/SKILL.md`
+- Extraia definições completas do Definir e conteúdo das 3 aulas
+- Crie o arquivo `[Semana].5.md` seguindo o padrão CANVAS_QUIZ (prova = 5ª aula da semana)
+- **Output:** Arquivo de prova semanal salvo localmente
+
+---
+
+## Passo 6 — Registrar ✅ no Currículo Macro
 
 > **OBRIGATÓRIO**: Executar automaticamente ao final de cada aula.
 
@@ -127,7 +154,7 @@ Termo3 ✅
 
 ---
 
-## Passo 6 — Confirmar ao Usuário
+## Passo 7 — Confirmar ao Usuário
 
 Reporte:
 - ✅ Aula criada com base no plano pedagógico do **[X]º Ano**
@@ -135,3 +162,4 @@ Reporte:
 - ✅ Context Loop: Writer → Standardizer → Reviewer → Copywriter
 - ✅ Salvo localmente em `[caminho]`
 - ✅ Currículo Macro: `Dia N` + termo marcado ✅
+
