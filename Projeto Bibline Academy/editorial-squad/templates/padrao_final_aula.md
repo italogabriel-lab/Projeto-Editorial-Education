@@ -14,9 +14,11 @@ Todas as aulas geradas pelo Editorial Squad devem usar EXATAMENTE este esqueleto
 
 [+PARAGRAPH]
 
-[Parágrafo introdutório: 3-4 frases no imperativo, contextualizando o tema.]
+[Frase curta começando com 'Reconheça que...' e o contexto principal]
 
-[Definição formal do termo em uma frase curta e clara.]
+[Frase curta começando com 'Observe que...' e um argumento extra]
+
+[Definição extremamente curta e direta ao assunto do termo (Ex: X é Y)]
 
 Veja o vídeo abaixo.
 

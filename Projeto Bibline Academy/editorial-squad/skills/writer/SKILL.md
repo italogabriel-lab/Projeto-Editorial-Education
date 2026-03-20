@@ -49,12 +49,14 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
-- Parágrafo introdutório: 3-4 frases no imperativo, contextualizando o tema
-- Definição formal do termo em frase curta e clara ao final do parágrafo
-- Primeira frase: NÃO repetir o título
-- Verbos cognitivos obrigatórios: Reconheça, Observe, Entenda, Confirme
-- Vídeo de abertura: `[+VIDEO][-VIDEO]`
-- Accordion com: pergunta, `@link_png@` logo após a pergunta, definição dentro do MP3, definição com negrito, reflexão teológica
+- ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO. (sem limites longos).
+- Bloco deve ter quebras de linha limpas. NUNCA misture tudo num blocão.
+- Frase 1: "Reconheça que..." + contexto principal.
+- Frase 2: "Observe que..." + argumento/reflexão secundária.
+- Frase 3: A definição curtíssima e direta da palavra-chave.
+- Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
+- Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
+- Accordion: pergunta, `@link_png@` logo após, definição dentro do MP3, definição com negrito e reflexão teológica.
 
 ### Perceber (Observar)
 - 3-4 frases no imperativo descrevendo o que observar
