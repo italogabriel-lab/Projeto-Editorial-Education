@@ -1,1 +1,61 @@
-Projeto Bibline Academy/Base de Conhecimento/3-PDFs Referencias/
+##################################
+# 🔒 SISTEMA E ARQUIVOS OCULTOS
+##################################
+.DS_Store
+Thumbs.db
+
+##################################
+# ⚙️ OBSIDIAN (CONFIGURAÇÕES LOCAIS)
+##################################
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/workspaces.json
+.obsidian/plugins/*
+!.obsidian/plugins/seu-plugin-importante/   # opcional manter plugins específicos
+
+##################################
+# 🗂️ BACKUPS E TEMPORÁRIOS
+##################################
+*.tmp
+*.bak
+*.swp
+*.log
+
+##################################
+# 🚫 ARQUIVOS PESADOS (CRÍTICO)
+##################################
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+*.mp3
+*.wav
+
+*.zip
+*.rar
+*.7z
+
+*.pdf
+
+##################################
+# 🖼️ IMAGENS PESADAS (opcional)
+##################################
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+##################################
+# 🧠 PASTAS QUE NÃO DEVEM IR PARA GIT
+##################################
+5.Referências/
+4.Cursos/
+3.Projetos/Arquivos-Pesados/
+
+##################################
+# 🧾 EXCEÇÕES (SE QUISER VERSIONAR ALGUNS)
+##################################
+!README.md
+!*.md
+!*.canvas
