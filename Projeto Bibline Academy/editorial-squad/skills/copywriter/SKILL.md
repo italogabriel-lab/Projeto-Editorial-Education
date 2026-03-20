@@ -26,7 +26,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] O título é criativo e engajante (não genérico)
 - [ ] Desperta curiosidade no aluno
 - [ ] Reflete o conteúdo sem ser literal demais
-- [ ] Sentence-style capitalization
+- [ ] Capitalização padrão europeu (ver `skills/capitalizer/SKILL.md`)
 
 ### 2. Enunciados
 - [ ] Cada enunciado é claro e direto

@@ -58,10 +58,11 @@ Estrutura: `[Base]/Estrutura Curricular/`
 1. Ler a skill `editorial-squad/skills/standardizer/SKILL.md`
 2. Consultar `editorial-squad/knowledge-base/rise-blocks-reference.md`
 3. Aplicar correções editoriais proativas (sinais proibidos, voz passiva, aspas)
-4. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
-5. Remover metadados, emojis de seção, separadores `---`
-6. Verificar definição idêntica em todos os locais obrigatórios
-7. **Output**: aula formatada com Rise Blocks
+4. **Aplicar capitalização padrão europeu** conforme `editorial-squad/skills/capitalizer/SKILL.md`
+5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
+6. Remover metadados, emojis de seção, separadores `---`
+7. Verificar definição idêntica em todos os locais obrigatórios (inclusive capitalização)
+8. **Output**: aula formatada com Rise Blocks
 
 ---
 
@@ -110,6 +111,14 @@ Termo3 ✅
 
 5. **Cada termo** deve ser o termo principal definido na aula (o do Accordion/Definir)
 6. Confirmar ao usuário: `Semana X: 3/3 aulas + 3 termos marcados ✅`
+
+> **REGRA DE SINCRONIZAÇÃO CURRICULAR (MANUTENÇÃO)**:
+> Se você estiver **modificando/atualizando** uma aula já existente (em vez de criar uma nova), você DEVE obrigatoriamente refletir as mudanças nestes 5 arquivos:
+> 1. `1 - Curriculo Macro *.md`: Se o título (H1) da aula mudar.
+> 2. `2 - Matriz-Curricular-objetivos *.md`: Se o objetivo teológico-pedagógico ou os conceitos da semana mudarem.
+> 3. `3 - Visão e Plano pedagogico *.md`: Se a abordagem da aula (Definir/Perceber), a visão teológica ou a progressão pedagógica mudarem.
+> 4. `4 - Links-para-imagens-perceber *.md`: Se a seção **Perceber** mudar (especialmente se o contexto, a cena ou a arte sugerida no texto mudar, exigindo links novos).
+> 5. **Aula de Revisão (`X.4.md`)**: Se alterar ou refinar qualquer definição, foco temático ou conteúdo do Perceber, a aula de revisão correspondente DEVE ser idêntica (textos intro, flashcards, tabelas e quizzes).
 
 > **Formato completo de referência** (exemplo do 2º ano):
 > ```

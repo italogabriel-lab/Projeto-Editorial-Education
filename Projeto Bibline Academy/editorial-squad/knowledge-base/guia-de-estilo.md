@@ -35,8 +35,16 @@ description: Regras de escrita, tom de voz, formatação e Rise Blocks para toda
 - Parágrafos com no máximo **70 palavras**
 - Primeiro parágrafo **NUNCA** repete o conteúdo do título ou subtítulo
 
-### Capitalização
-- **Sentence-style**: maiúscula apenas na primeira letra da primeira palavra e nomes próprios
+### Capitalização (padrão europeu — Acordo Ortográfico 1990)
+
+> **Referência completa**: `editorial-squad/skills/capitalizer/SKILL.md`
+
+- **Sentence-case** como padrão: maiúscula apenas na primeira palavra e nomes próprios
+- **Nomes próprios** (Constantinopla, Bizâncio, Justiniano) → sempre maiúscula
+- **Nomes institucionais consolidados** (Império Bizantino, Igreja Católica) → maiúscula
+- **Termos descritivos/genéricos** (império romano, oriente, ocidente, arte bizantina) → minúscula no corpo
+- **Preposições e artigos** (de, da, do, em, o, a, e) → minúscula no meio de títulos
+- **Consistência obrigatória**: o mesmo termo deve ter a mesma capitalização em todas as seções
 - **Não** usar maiúscula após dois-pontos (exceto nomes próprios, siglas, itens de lista)
 
 ### Negrito

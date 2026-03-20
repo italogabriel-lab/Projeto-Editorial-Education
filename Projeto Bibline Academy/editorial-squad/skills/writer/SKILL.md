@@ -87,7 +87,7 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 - Aspas somente no trecho literário do Narrar
 - **Sem** emojis no corpo do texto
 - **Sem** termos em inglês na versão final (exceto definição Webster no Accordion)
-- Sentence-style capitalization
+- Capitalização padrão europeu (ver `skills/capitalizer/SKILL.md`)
 
 ## Output
 

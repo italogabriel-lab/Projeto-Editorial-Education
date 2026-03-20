@@ -4,9 +4,9 @@
 
 ## Semana 1 – **Arte Bizantina: o Império e a fé** ✅
 
-- Dia 1: Império Romano do Oriente ✅
+- Dia 1: Império Romano do oriente e arte bizantina ✅
 - Dia 2: Constantinopla como centro ✅
-- Dia 3: Cristianismo oficializado ✅
+- Dia 3: Cristianismo e transformação da arte pública ✅
 
 # Semana 1
 Império ✅

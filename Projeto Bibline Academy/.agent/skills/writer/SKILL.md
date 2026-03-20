@@ -100,8 +100,17 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 - Atividade extra com instrução no imperativo + PDF attachment
 
 ### Narrar (Contextualizar)
-- Trecho literário cristão/puritano/poético entre aspas retas
-- Atribuição com autor, obra, referência bíblica
+
+#### Modo IMAGE_TEXT_ASIDE (padrão para 1º, 2º, 4º e 5º ano)
+- `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho literário cristão/puritano/poético entre aspas retas, atribuição com autor, obra, referência bíblica
+- `[-IMAGE_TEXT_ASIDE]`
+
+#### Modo PARAGRAPH (padrão para 3º ano)
+- `[+PARAGRAPH]` com trecho literário cristão/puritano/poético entre aspas retas, atribuição com autor, obra, referência bíblica — **SEM** `@link_png@`
+- `[-PARAGRAPH]`
+
+> **Regra de seleção:** Usar modo PARAGRAPH quando o ano for **3º ano**. Usar modo IMAGE_TEXT_ASIDE nos demais casos (1º, 2º, 4º e 5º ano). Se o usuário especificar explicitamente, a escolha dele prevalece.
+
 - Heading "Perguntas" seguido OBRIGATORIAMENTE de um bloco `[+PARAGRAPH]` com o texto: "Responda oralmente às perguntas abaixo sobre o texto." `[-PARAGRAPH]`
 - 3 perguntas com interrogação e espaçamento entre elas (dentro de `[+LIST_NUMBERED]`)
 

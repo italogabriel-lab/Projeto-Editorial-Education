@@ -226,6 +226,8 @@ Leitura
 
 [-HEADING]
 
+### Variante A — IMAGE_TEXT_ASIDE (padrão para 1º, 2º, 4º e 5º ano)
+
 [+IMAGE_TEXT_ASIDE]
 
 @link_png@
@@ -237,6 +239,20 @@ Leitura
 Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século] ([Breve descrição da conexão com o tema da aula])
 
 [-IMAGE_TEXT_ASIDE]
+
+### Variante B — PARAGRAPH (padrão para 3º ano)
+
+> Use esta variante NO LUGAR da Variante A acima.
+
+[+PARAGRAPH]
+
+"[Primeiro parágrafo do trecho literário, em prosa corrida, conectando o tema da aula à verdade bíblica.]
+
+[Segundo parágrafo do trecho literário, aprofundando a reflexão com linguagem elevada e poética.]"
+
+Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século] ([Breve descrição da conexão com o tema da aula])
+
+[-PARAGRAPH]
 
 [+HEADING]
 

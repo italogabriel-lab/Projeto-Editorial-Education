@@ -241,6 +241,37 @@ Terceira pergunta?
 
 ---
 
+## TABS
+
+Bloco com abas nomeadas, cada aba contendo uma imagem e um texto descritivo. Usado no Perceber de aulas de revisão para apresentar imagens lado a lado com análise.
+
+```markdown
+[+TABS]
+
+Título descritivo da aba 1
+
+@link_png@
+
+Texto de observação da imagem 1.
+
+--
+
+Título descritivo da aba 2
+
+@link_png@
+
+Texto de observação da imagem 2.
+
+[-TABS]
+```
+
+**Regras:**
+- Sempre 2 abas por bloco.
+- Cada aba tem: título, imagem e texto descritivo.
+- Separador entre abas: `--`
+
+---
+
 ## Estrutura Completa de uma Aula
 
 ```

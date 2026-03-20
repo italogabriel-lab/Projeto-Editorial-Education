@@ -39,28 +39,28 @@ Formar no aluno a compreensão de que:
 
 | Aula    | Título                                           | Tema central                                                 | Versículo-chave |
 | ------- | ------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| **1.1** | **Império Romano do Oriente**                    | A formação de Bizâncio como herdeiro de Roma e da fé cristã. | Daniel 2:21     |
-| **1.2** | **Constantinopla como centro**                   | A capital como centro da cristandade oriental e da arte.     | Atos 17:26      |
-| **1.3** | **Cristianismo e transformação da arte pública** | A oficialização da fé e sua transformação da arte pública.   | Romanos 13:1    |
+| **1.1** | **Império Romano do oriente e arte bizantina**   | A formação de Bizâncio como herdeiro de Roma e berço da arte cristã oriental. | Daniel 2:21     |
+| **1.2** | **Constantinopla como centro**                   | A capital como centro estratégico e grande oficina de arte monumental. | Atos 17:26      |
+| **1.3** | **Cristianismo e transformação da arte pública** | A oficialização da fé e sua transformação colossal na arte pública.   | Romanos 13:1    |
 
 ---
 
 ## 🔁 **progressão pedagógica**
 
-1. **1.1 – Império Romano do Oriente**
-   → Reconheça a divisão do Império Romano e o surgimento de Bizâncio.
-   → Identifique a herança romana na organização, lei e cultura.
-   → Compreenda que Deus governa sobre a ascensão e queda dos impérios.
+1. **1.1 – Império Romano do oriente e arte bizantina**
+   → Reconheça a divisão do Império Romano e a sobrevivência do lado oriental.
+   → Identifique que essa herança gerou uma das tradições artísticas mais ricas (mosaicos, ícones).
+   → Compreenda que Deus preservou esse império para que a arte servisse à proclamação da fé.
 
 2. **1.2 – Constantinopla como centro**
-   → Observe a posição geográfica estratégica de Constantinopla.
-   → Reconheça a cidade como ponto de encontro entre Oriente e Ocidente.
-   → Entenda que a cultura bizantina uniu tradições gregas, romanas e cristãs.
+   → Observe a posição estratégica de Constantinopla entre dois continentes.
+   → Reconheça a cidade como grande centro irradiador de arte e arquitetura (cúpulas).
+   → Entenda que Deus determinou os tempos e os limites para que ali florescesse a beleza cristã.
 
-3. **1.3 – Cristianismo oficializado**
-   → Identifique o Édito de Milão e a liberdade religiosa.
-   → Compreenda como a fé oficial transformou a arte em linguagem pública.
-   → Discerna entre o uso legítimo da arte para o ensino e o risco de confundir poder com fé.
+3. **1.3 – Cristianismo e transformação da arte pública**
+   → Identifique a oficialização da fé cristã e a sua saída das catacumbas.
+   → Compreenda como a arte mudou de escala e função, tornando-se monumental.
+   → Valorize a arte grandiosa que passou a proclamar publicamente a soberania de Cristo.
 
 **transição para o módulo 2**
 O aluno agora compreende o contexto histórico. Na semana seguinte, estudará como a arte bizantina se tornou **teologia visual**.
@@ -83,9 +83,9 @@ O aluno agora compreende o contexto histórico. Na semana seguinte, estudará co
 - **habilidade formativa**: distinguir entre o poder terreno e a autoridade divina na arte.
 - **símbolo-chave**: Constantinopla, a cidade entre dois mundos.
 - **resultado esperado**:
-  → O aluno compreende a formação do Império Bizantino.
-  → Reconhece Constantinopla como centro da cristandade oriental.
-  → Discerne o impacto da oficialização do cristianismo sobre a arte.
+  → O aluno compreende a formação do Império Bizantino e sua tradição de arte cristã.
+  → Reconhece Constantinopla como centro estratégico e oficina de arte monumental.
+  → Discerne como a oficialização do cristianismo elevou a arte cristã a uma escala pública e majestosa.
 
 ---
 
@@ -416,7 +416,7 @@ Formar no aluno a compreensão de que:
    → Identifique cenas bíblicas e figuras imperiais nas composições.
    → Compreenda Ravena como ponto de encontro entre Roma e Bizâncio.
 
-2. **5.2 – Basílica de Santa Sofia**
+2. **5.2 – A cúpula que toca o céu**
    → Conheça a história da construção de Santa Sofia por Justiniano.
    → Observe a cúpula que parece flutuar sobre o espaço.
    → Reconheça a grandeza da obra e discirna que Deus não habita em templos feitos por mãos.

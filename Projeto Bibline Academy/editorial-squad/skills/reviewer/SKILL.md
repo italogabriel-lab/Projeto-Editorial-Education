@@ -56,9 +56,15 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Parágrafos ≤ **70 palavras**
 - [ ] Primeiro parágrafo NÃO repete o título
 
-#### 1.4 Capitalização
-- [ ] Sentence-style
+#### 1.4 Capitalização (padrão europeu — ver `skills/capitalizer/SKILL.md`)
+- [ ] Sentence-case em títulos e corpo do texto
+- [ ] Nomes próprios e topônimos em maiúscula (Constantinopla, Roma, Bizâncio)
+- [ ] Nomes institucionais consolidados em maiúscula (Império Bizantino)
+- [ ] Termos descritivos/genéricos em minúscula (império romano, oriente, ocidente)
+- [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
+- [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
+- [ ] Definição no Accordion = Recordar = Praticar (capitalização idêntica)
 
 ---
 

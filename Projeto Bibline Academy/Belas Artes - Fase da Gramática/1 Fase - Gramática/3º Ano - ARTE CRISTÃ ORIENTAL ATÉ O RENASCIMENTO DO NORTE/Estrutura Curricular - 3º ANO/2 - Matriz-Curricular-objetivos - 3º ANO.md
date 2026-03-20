@@ -14,9 +14,9 @@
 
 | Aula | Título                                            | Objetivo Teológico-Pedagógico                                                             |
 | ---- | ------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 1.1  | ****Arte Bizantina no império Romano do Oriente** | Compreender a formação do Império Bizantino como herdeiro de Roma e da fé cristã.         |
-| 1.2  | **Constantinopla como centro**                    | Reconhecer Constantinopla como capital da cristandade oriental e centro cultural.         |
-| 1.3  | **Cristianismo oficializado**                     | Entender como a oficialização da fé transformou a arte em linguagem pública do Evangelho. |
+| 1.1  | **Império Romano do oriente e arte bizantina** | Compreender a formação do Império Bizantino como herdeiro de Roma e berço de uma imensa tradição artística cristã. |
+| 1.2  | **Constantinopla como centro**                    | Reconhecer Constantinopla como capital da cristandade oriental e grande centro irradiador de arte monumental.     |
+| 1.3  | **Cristianismo e transformação da arte pública**  | Entender como a oficialização transformou a função e a escala da arte cristã em grandes espaços públicos. |
 
 **Conceitos da semana:** Império, Cristandade, Oficialização
 

@@ -43,8 +43,15 @@ Você é o **Arquiteto** da Squad Editorial Bibline. Sua missão é transformar 
 - Frases com no máximo **30 palavras**
 - Parágrafos com no máximo **70 palavras**
 
-### 6. Capitalização
-- Sentence-style: maiúscula apenas na primeira letra e nomes próprios
+### 6. Capitalização (padrão europeu)
+
+> **Consultar obrigatoriamente**: `editorial-squad/skills/capitalizer/SKILL.md`
+
+- Sentence-case: maiúscula apenas na primeira palavra e nomes próprios
+- Nomes institucionais consolidados (Império Bizantino) → maiúscula
+- Termos descritivos/genéricos (império romano, oriente, arte bizantina) → minúscula no corpo
+- Garantir **consistência** do mesmo termo em todas as seções da aula
+- Aplicar o checklist de auditoria de capitalização da skill antes de entregar
 
 ## Rise Blocks — Formato Estrito
 

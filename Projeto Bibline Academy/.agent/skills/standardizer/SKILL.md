@@ -124,7 +124,12 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 5. Narrar
 - `## Narrar` (H2)
 - `[+HEADING] Leitura [-HEADING]`
+
+#### Modo IMAGE_TEXT_ASIDE (padrão para 1º, 2º, 4º e 5º ano)
 - `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com **negrito** e *itálico*
+
+#### Modo PARAGRAPH (padrão para 3º ano)
+- `[+PARAGRAPH]` com trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com **negrito** e *itálico* — **SEM** `@link_png@`
 - `[+HEADING] Perguntas [-HEADING]`
 - `[+PARAGRAPH]` Responda oralmente às perguntas abaixo sobre o texto. `[-PARAGRAPH]`
 - `[+LIST_NUMBERED]` com 3 perguntas, interrogação, 1 linha de espaço entre elas
