@@ -32,8 +32,9 @@ Cada etapa do pipeline é dominada por um perfil de agente, configurado via arqu
 - **`capitalizer/SKILL.md`**: Especialista filológico focado no Acordo Ortográfico de 1990 (PT-PT) para garantir o "Sentence-case" europeu.
 - **`reviewer/SKILL.md`**: Auditor de qualidade rigoroso e protetor do "Golden Template".
 - **`copywriter/SKILL.md`**: Lapidador de textos, focado no engajamento e ritmo.
-- **`publisher/SKILL.md`**: Especialista em versionamento (Git) e salvamento de arquivos.
+- **`publisher/SKILL.md`**: Especialista em versionamento (Git) e salvamento de arquivos individuais de aula.
 - **`review-builder/SKILL.md`**: Construtor lógico de aulas de revisão usando componentes interativos.
+- **`devops/SKILL.md`**: Engenheiro técnico focado em gestão estrutural, sincronização segura de repositório (via GitHub), bypass de mídia pesada e gatekeeper do `.gitignore`.
 
 ---
 
