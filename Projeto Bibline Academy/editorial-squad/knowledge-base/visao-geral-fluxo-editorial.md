@@ -35,6 +35,7 @@ Cada etapa do pipeline é dominada por um perfil de agente, configurado via arqu
 - **`publisher/SKILL.md`**: Especialista em versionamento (Git) e salvamento de arquivos individuais de aula.
 - **`review-builder/SKILL.md`**: Construtor lógico de aulas de revisão usando componentes interativos.
 - **`devops/SKILL.md`**: Engenheiro técnico focado em gestão estrutural, sincronização segura de repositório (via GitHub), bypass de mídia pesada e gatekeeper do `.gitignore`.
+- **`orchestrator/SKILL.md`**: Diretor Editorial — diagnostica o estado do projeto, prioriza ações, delega ao skill/workflow correto e audita consistência curricular.
 
 ---
 
