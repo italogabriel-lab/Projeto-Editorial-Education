@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""GERADOR MASSIVO: Reconstrói o arquivo 6 (Descrições para tickets) inteiro, incluindo provas e bimestres, do zero. Uso: Criação original ou regeneração profunda (sobrescreve tudo)."""
-"""Generate the full updated descriptions file."""
-
+"""
+GERADOR MASSIVO: Reconstrói o arquivo 6 (Descrições para tickets) inteiro, incluindo provas e bimestres, do zero. 
+Uso: Criação original ou regeneração profunda (sobrescreve tudo).
+"""
 import re
 
 # Read original file
@@ -172,16 +173,7 @@ weeks = {
     ]),
 }
 
-def generate_week_listing(week_nums):
-    """Generate week listing for bimestral content."""
-    lines = []
-    for wn in week_nums:
-        theme, lessons = weeks[wn]
-        lines.append(f"## {wn}ª Semana: **{theme}**\n")
-        for lid, ltitle in lessons:
-            lines.append(f"- {lid} {ltitle}\n")
-        lines.append("")
-    return "\n".join(lines)
+# Utility functions for generating text blocks
 
 def generate_weekly_review_desc(week_num):
     """Generate weekly review description content."""
@@ -271,13 +263,7 @@ while i < len(lines):
 # After week 28 (before week 31): Semana 29 (Revisão) + Semana 30 (Prova)
 # After week 38 (at end): Semana 39 (Revisão Final) + Semana 40 (Prova Final)
 
-bimesters_data = [
-    (1, [1,2,3,4,5,6,7,8], "Módulo 1", "8.5", "11"),
-    (2, [11,12,13,14,15,16,17,18], "Módulo 2", "18.5", "21"),
-    (3, [21,22,23,24,25,26,27,28], "Módulo 3", "28.5", "31"),
-    (4, [31,32,33,34,35,36,37,38], "Volume 2", "38.5", None),
-]
-
+# Configuration for bimesters is defined implicitly during generation.
 def generate_bimestral_section(bim_num, week_list, module_name, is_final=False):
     """Generate a full bimestral review + exam section."""
     lines_out = []
