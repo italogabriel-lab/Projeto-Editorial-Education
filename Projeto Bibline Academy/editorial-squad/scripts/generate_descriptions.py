@@ -227,14 +227,19 @@ while i < len(lines):
             new_lines.append(line)
             i += 1
             # Skip to after "# Description" line
-            while i < len(lines) and not lines[i].startswith('# Description'):
-                new_lines.append(lines[i])
+            while i < len(lines):
+                curr: str = str(lines[i])
+                if curr.startswith('# Description'):
+                    break
+                new_lines.append(curr)
                 i += 1
             if i < len(lines):
-                new_lines.append(lines[i])  # "# Description"
+                new_lines.append(str(lines[i]))  # "# Description"
                 i += 1
             # Skip the old content until next ---
-            while i < len(lines) and lines[i].strip() != '---':
+            while i < len(lines):
+                if str(lines[i]).strip() == '---':
+                    break
                 i += 1
             # Insert new content
             new_lines.append("")
