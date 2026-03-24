@@ -31,3 +31,14 @@ Este diretório contém todos os scripts de automação e sincronização usados
 - **`generate_descriptions.py`**
   - **Uso:** Em caso de perda total ou necessidade de refazer do zero a estrutura do arquivo `6 - Descrições para tickets`. 
   - **Função:** Tem toda as semanas hardcoded e injeta marcadores de 1º Bimestre, Módulo Final, Revisões, etc. (Cuidado: reescreve o documento inteiro).
+
+## 📂 Subdiretórios de Scripts
+
+### `converters/` (Conversores de Conteúdo)
+Scripts dedicados a transformar formatos e blocos de conteúdo em massa.
+- **`convert_recordar.py`**: Converte os blocos "Recordar" do 3º ano do formato de 'Música' para o formato de 'Rimas Contextuais', injetando automaticamente as estrofes.
+- **`convert_recordar_to_rhyme.py`**: Utilitário auxiliar/checker para extrair definições e checar quais aulas possuem ou não o bloco de música no 3º ano.
+
+### `formatters/` (Formatadores e Limpeza)
+Scripts focados em arrumar erros de digitação sistêmicos ou formatação Markdown corrompida.
+- **`fix_accordion.py`**: Arruma as definições do bloco "Recordar" (Accordion) nas aulas do 4º ano, removendo repetições redundantes do termo em negrito.
