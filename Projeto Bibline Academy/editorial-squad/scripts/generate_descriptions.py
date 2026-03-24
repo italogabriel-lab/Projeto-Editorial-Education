@@ -5,6 +5,7 @@ Uso: Criação original ou regeneração profunda (sobrescreve tudo).
 """
 import os
 import re
+from typing import List
 
 # Base paths
 BASE_DIR = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy"
@@ -188,7 +189,7 @@ weeks = {
 # Utility functions for generating text blocks
 
 
-def generate_weekly_review_desc(week_num):
+def generate_weekly_review_desc(week_num: int) -> str:
     """Generate weekly review description content."""
     theme, lessons = weeks[week_num]
     lines = [f"Revisar os conhecimentos das aulas da semana {week_num}\n"]
@@ -198,7 +199,7 @@ def generate_weekly_review_desc(week_num):
     return "\n".join(lines)
 
 
-def generate_weekly_exam_desc(week_num):
+def generate_weekly_exam_desc(week_num: int) -> str:
     """Generate weekly exam description content."""
     theme, lessons = weeks[week_num]
     lines = [f"Avaliar os conhecimentos das aulas da semana {week_num}\n"]
@@ -209,8 +210,8 @@ def generate_weekly_exam_desc(week_num):
 
 
 # Process the file line by line
-lines = content.split('\n')
-new_lines = []
+lines: List[str] = content.split('\n')
+new_lines: List[str] = []
 i = 0
 while i < len(lines):
     line = lines[i]
@@ -280,7 +281,7 @@ while i < len(lines):
 # Configuration for bimesters is defined implicitly during generation.
 
 
-def generate_bimestral_section(bim_num, week_list, module_name, is_final=False):
+def generate_bimestral_section(bim_num: int, week_list: List[int], module_name: str, is_final: bool = False) -> List[str]:
     """Generate a full bimestral review + exam section."""
     lines_out = []
     
@@ -367,8 +368,8 @@ insertions = [
     ("## Semana 31", generate_bimestral_section(3, [21,22,23,24,25,26,27,28], "Módulo 3")),
 ]
 
-result_lines = result.split('\n')
-final_lines = []
+result_lines: List[str] = result.split('\n')
+final_lines: List[str] = []
 for line in result_lines:
     for marker, section_lines in insertions:
         if line.strip().startswith(marker):
