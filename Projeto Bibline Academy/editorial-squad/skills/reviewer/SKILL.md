@@ -37,6 +37,11 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ## CHECKLIST DE AUDITORIA COMPLETO
 
+### 0. Título da Aula (H1) — Fonte de Verdade
+- [ ] Título H1 é **idêntico** ao título no `1 - Curriculo Macro`
+- [ ] Se divergente, **REJEITAR** e devolver ao Writer para correção
+- [ ] O Curriculo Macro é a **única fonte oficial** de títulos de aula
+
 ### 1. Estrutura e Escrita (Style Conventions)
 
 #### 1.1 Voz e Tempo Verbal

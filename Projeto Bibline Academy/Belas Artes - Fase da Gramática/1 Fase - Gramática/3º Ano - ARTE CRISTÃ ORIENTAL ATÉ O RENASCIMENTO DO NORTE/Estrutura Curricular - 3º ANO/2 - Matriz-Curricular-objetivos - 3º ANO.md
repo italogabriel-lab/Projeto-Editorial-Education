@@ -134,7 +134,7 @@
 | ---- | ------ | ----------------------------- |
 | 11.1 | **Expansão do Islã** | Compreender o contexto histórico da expansão islâmica e seu impacto na arte. |
 | 11.2 | **Formação de grandes impérios** | Reconhecer os impérios islâmicos como produtores de uma arte refinada e distinta. |
-| 11.3 | **Transcendência e evitação da figura humana** | Entender por que a arte islâmica evita representar a figura humana. |
+| 11.3 | **Transcendência divina e evitação da figura humana** | Entender por que a arte islâmica evita representar a figura humana. |
 
 **Conceitos da semana:** Expansão, Transcendência, Aniconismo
 
@@ -189,8 +189,8 @@
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
 | 15.1 | **Alhambra** | Estudar a Alhambra como obra-prima da arte islâmica na Europa. |
-| 15.2 | **Influência decorativa na Europa** | Reconhecer a influência dos padrões islâmicos na decoração europeia medieval. |
-| 15.3 | **Arte islâmica e cosmovisão cristã** | Comparar as cosmovisões cristã e islâmica sobre imagem, beleza e adoração. |
+| 15.2 | **Influência decorativa na Europa medieval** | Reconhecer a influência dos padrões islâmicos na decoração europeia medieval. |
+| 15.3 | **Arte islâmica e cosmovisão cristã comparada** | Comparar as cosmovisões cristã e islâmica sobre imagem, beleza e adoração. |
 
 **Conceitos da semana:** Alhambra, Influência, Cosmovisão
 
@@ -412,7 +412,7 @@
 | ---- | ------ | ----------------------------- |
 | 34.1 | **Albrecht Dürer** | Conhecer Dürer como mestre da gravura e defensor da arte como vocação divina. |
 | 34.2 | **Hans Holbein** | Estudar Holbein como retratista que revelou caráter e verdade em cada rosto. |
-| 34.3 | **O artista como testemunha** | Discernir o papel do artista cristão como testemunha da verdade e da beleza. |
+| 34.3 | **O artista como testemunha da verdade** | Discernir o papel do artista cristão como testemunha da verdade e da beleza. |
 
 **Conceitos da semana:** Dürer, Holbein, Testemunho
 

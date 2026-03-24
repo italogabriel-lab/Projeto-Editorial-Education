@@ -416,7 +416,7 @@ Formar no aluno a compreensão de que:
    → Identifique cenas bíblicas e figuras imperiais nas composições.
    → Compreenda Ravena como ponto de encontro entre Roma e Bizâncio.
 
-2. **5.2 – A cúpula que toca o céu**
+2. **5.2 – Basílica de Santa Sofia**
    → Conheça a história da construção de Santa Sofia por Justiniano.
    → Observe a cúpula que parece flutuar sobre o espaço.
    → Reconheça a grandeza da obra e discirna que Deus não habita em templos feitos por mãos.
@@ -766,25 +766,25 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                                         | Tema central                                                 | Versículo-chave  |
 | -------- | ---------------------------------------------- | ------------------------------------------------------------ | ---------------- |
-| **11.1** | **Arte Islâmica e as formas de arte**          | O contexto histórico do surgimento e expansão islâmica.      | Atos 17:24       |
-| **11.2** | **Impérios islâmicos como produtores de arte** | Os impérios islâmicos como produtores de arte refinada.      | 1 Timóteo 2:5    |
-| **11.3** | **Transcendência e evitação da figura humana** | A teologia por trás da ausência de figuras na arte islâmica. | Colossenses 1:15 |
+| **11.1** | **Expansão do Islã**          | O contexto histórico do surgimento e expansão islâmica.      | Atos 17:24       |
+| **11.2** | **Formação de grandes impérios** | Os impérios islâmicos como produtores de arte refinada.      | 1 Timóteo 2:5    |
+| **11.3** | **Transcendência divina e evitação da figura humana** | A teologia por trás da ausência de figuras na arte islâmica. | Colossenses 1:15 |
 
 ---
 
 ## 🔁 **progressão pedagógica**
 
-1. **11.1 – Arte Islâmica e as formas de arte**
+1. **11.1 – Expansão do Islã**
    → Reconheça o contexto histórico da expansão islâmica no século VII.
    → Identifique a rapidez da expansão e seu impacto cultural.
    → Compreenda que diferentes civilizações produzem diferentes formas de arte.
 
-2. **11.2 – Impérios islâmicos como produtores de arte**
+2. **11.2 – Formação de grandes impérios**
    → Observe a extensão dos impérios islâmicos do Norte da África à Ásia.
    → Reconheça a sofisticação cultural dessas civilizações.
    → Entenda que a arte floresce onde há prosperidade e organização social.
 
-3. **11.3 – Transcendência e evitação da figura humana**
+3. **11.3 – Transcendência divina e evitação da figura humana**
    → Compreenda a ênfase islâmica na distância absoluta entre Deus e o homem.
    → Identifique a proibição da representação figurativa como decisão teológica.
    → Compare com a cosmovisão cristã: Deus se fez visível na encarnação de Cristo.
@@ -1134,8 +1134,8 @@ Formar no aluno a compreensão de que:
 | Aula | Título | Tema central | Versículo-chave |
 | ---- | ------ | ------------ | --------------- |
 | **15.1** | **Alhambra** | A Alhambra como obra-prima da arte islâmica na Europa. | Filipenses 4:8 |
-| **15.2** | **Influência decorativa na Europa** | A penetração dos padrões islâmicos na arte europeia. | Provérbios 4:7 |
-| **15.3** | **Arte islâmica e cosmovisão cristã** | Comparação entre cosmovisões sobre imagem e adoração. | 1 Tessalonicenses 5:21 |
+| **15.2** | **Influência decorativa na Europa medieval** | A penetração dos padrões islâmicos na arte europeia. | Provérbios 4:7 |
+| **15.3** | **Arte islâmica e cosmovisão cristã comparada** | Comparação entre cosmovisões sobre imagem e adoração. | 1 Tessalonicenses 5:21 |
 
 ---
 
@@ -1146,12 +1146,12 @@ Formar no aluno a compreensão de que:
    → Identifique a harmonia entre água, luz e padrão geométrico.
    → Compreenda a Alhambra como síntese da beleza islâmica.
 
-2. **15.2 – Influência decorativa na Europa**
+2. **15.2 – Influência decorativa na Europa medieval**
    → Identifique padrões islâmicos em objetos e edifícios europeus.
    → Reconheça que culturas se influenciam mesmo em conflito.
    → Compreenda a arte como ponte entre civilizações.
 
-3. **15.3 – Arte islâmica e cosmovisão cristã**
+3. **15.3 – Arte islâmica e cosmovisão cristã comparada**
    → Compare a proibição islâmica de figuras com a tradição cristã.
    → Afirme a encarnação como fundamento para a representação.
    → Discirna o que pode ser apreciado e o que deve ser avaliado criticamente.
@@ -1225,7 +1225,7 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                                     | Tema central                                      | Versículo-chave  |
 | -------- | ------------------------------------------ | ------------------------------------------------- | ---------------- |
-| **16.1** | **Europa feudal e a arte românica**        | O contexto feudal como cenário da arte românica.  | Salmo 90:12      |
+| **16.1** | **Europa feudal**        | O contexto feudal como cenário da arte românica.  | Salmo 90:12      |
 | **16.2** | **Peregrinações e centralidade da Igreja** | As peregrinações como motor de construção e arte. | Hebreus 9:27     |
 | **16.3** | **Juízo, eternidade e reverência**         | A cosmovisão centrada no juízo e na eternidade.   | Eclesiastes 12:1 |
 
@@ -1233,7 +1233,7 @@ Formar no aluno a compreensão de que:
 
 ## 🔁 **progressão pedagógica**
 
-1. **16.1 – Europa feudal e a arte românica**
+1. **16.1 – Europa feudal**
    → Reconheça a estrutura feudal: senhor, vassalo, servo.
    → Identifique a Igreja como centro espiritual e cultural.
    → Compreenda que a arte reflete o contexto social em que nasce.
@@ -1501,7 +1501,7 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                                 | Tema central                                         | Versículo-chave |
 | -------- | -------------------------------------- | ---------------------------------------------------- | --------------- |
-| **21.1** | **Arte Gótica e o crescimento urbano** | O contexto urbano como cenário do nascimento gótico. | Mateus 5:14     |
+| **21.1** | **Crescimento das cidades** | O contexto urbano como cenário do nascimento gótico. | Mateus 5:14     |
 | **21.2** | **Nova espiritualidade urbana**        | Mudança espiritual do rural para o urbano.           | 1 João 1:5      |
 | **21.3** | **Luz como símbolo divino**            | A luz como elemento central da cosmovisão gótica.    | João 8:12       |
 
@@ -1509,7 +1509,7 @@ Formar no aluno a compreensão de que:
 
 ## 🔁 **progressão pedagógica**
 
-1. **21.1 – Arte Gótica e o crescimento urbano**
+1. **21.1 – Crescimento das cidades**
    → Reconheça o crescimento urbano como fato histórico transformador.
    → Identifique a catedral como centro da cidade medieval.
    → Compreenda que a arte responde às mudanças sociais.
@@ -1592,7 +1592,7 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                              | Tema central                                             | Versículo-chave |
 | -------- | ----------------------------------- | -------------------------------------------------------- | --------------- |
-| **22.1** | **Inspirar devoção na arte gótica** | A função da arte gótica como inspiração para a adoração. | Isaías 2:5      |
+| **22.1** | **Inspirar devoção** | A função da arte gótica como inspiração para a adoração. | Isaías 2:5      |
 | **22.2** | **Vitrais como ensino visual**      | Os vitrais como meio de contar histórias bíblicas.       | 2 Timóteo 3:16  |
 | **22.3** | **Arcos ogivais e abóbadas**        | O arco ogival como inovação que permite altura e luz.    | Salmo 36:9      |
 
@@ -1600,7 +1600,7 @@ Formar no aluno a compreensão de que:
 
 ## 🔁 **progressão pedagógica**
 
-1. **22.1 – Inspirar devoção na arte gótica**
+1. **22.1 – Inspirar devoção**
    → Observe o efeito emocional de entrar numa catedral gótica.
    → Reconheça a intenção de provocar admiração e reverência.
    → Discirna entre admiração estética e adoração verdadeira.
@@ -1683,8 +1683,8 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                                  | Tema central                                                   | Versículo-chave |
 | -------- | --------------------------------------- | -------------------------------------------------------------- | --------------- |
-| **23.1** | **Verticalidade como expressão visual** | A verticalidade como expressão visual da busca pelo celestial. | Colossenses 3:1 |
-| **23.2** | **Luminosidade na arte gótica**         | A luz abundante como símbolo da graça divina.                  | Isaías 40:26    |
+| **23.1** | **Verticalidade** | A verticalidade como expressão visual da busca pelo celestial. | Colossenses 3:1 |
+| **23.2** | **Luminosidade**         | A luz abundante como símbolo da graça divina.                  | Isaías 40:26    |
 | **23.3** | **Detalhamento crescente**              | O detalhe como reflexo de contemplação e meditação.            | Hebreus 12:2    |
 
 ---
@@ -1960,25 +1960,25 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                                      | Tema central                                            | Versículo-chave   |
 | -------- | ------------------------------------------- | ------------------------------------------------------- | ----------------- |
-| **26.1** | **Pré-Renascimento e o contexto artístico** | O surgimento da burguesia como novo contexto artístico. | 1 Coríntios 10:31 |
-| **26.2** | **Vida urbana e fonte de temas artísticos** | A vida urbana como fonte de novos temas artísticos.     | Deuteronômio 6:7  |
-| **26.3** | **Espiritualidade como marca da arte**      | A espiritualidade do lar como marca da arte do norte.   | Colossenses 3:23  |
+| **26.1** | **Burguesia emergente** | O surgimento da burguesia como novo contexto artístico. | 1 Coríntios 10:31 |
+| **26.2** | **Vida urbana no norte da Europa** | A vida urbana como fonte de novos temas artísticos.     | Deuteronômio 6:7  |
+| **26.3** | **Espiritualidade doméstica**      | A espiritualidade do lar como marca da arte do norte.   | Colossenses 3:23  |
 
 ---
 
 ## 🔁 **progressão pedagógica**
 
-1. **26.1 – Pré-Renascimento e o contexto artístico**
+1. **26.1 – Burguesia emergente**
    → Reconheça a burguesia como classe que valorizava o trabalho e o comércio.
    → Identifique as diferenças entre mecenato aristocrático e patronato burguês.
    → Compreenda que a arte acompanha as mudanças sociais.
 
-2. **26.2 – Vida urbana e fonte de temas artísticos**
+2. **26.2 – Vida urbana no norte da Europa**
    → Observe interiores domésticos retratados na arte do norte.
    → Identifique objetos cotidianos que aparecem nas pinturas.
    → Perceba que a arte do norte valoriza o real e o próximo.
 
-3. **26.3 – Espiritualidade como marca da arte**
+3. **26.3 – Espiritualidade doméstica**
    → Compreenda a fé vivida no lar como característica do norte europeu.
    → Identifique símbolos religiosos escondidos em cenas cotidianas.
    → Relacione essa espiritualidade com o princípio reformado: toda a vida é coram Deo.
@@ -2249,25 +2249,25 @@ Formar no aluno a compreensão de que:
 
 | Aula     | Título                            | Tema central                                            | Versículo-chave |
 | -------- | --------------------------------- | ------------------------------------------------------- | --------------- |
-| **31.1** | **Renascimento do Norte**         | O movimento intelectual que uniu fé e razão no norte.   | 2 Timóteo 2:15  |
-| **31.2** | **Reformas religiosas e cultura** | O impacto da pré-Reforma e da Reforma na cultura.       | Atos 17:11      |
-| **31.3** | **Observação da natureza**        | A observação da natureza como leitura do livro de Deus. | Salmo 119:130   |
+| **31.1** | **Humanismo cristão**         | O movimento intelectual que uniu fé e razão no norte.   | 2 Timóteo 2:15  |
+| **31.2** | **Reformas religiosas** | O impacto da pré-Reforma e da Reforma na cultura.       | Atos 17:11      |
+| **31.3** | **Observação detalhada da criação**        | A observação da natureza como leitura do livro de Deus. | Salmo 119:130   |
 
 ---
 
 ## 🔁 **progressão pedagógica**
 
-1. **31.1 – Renascimento do Norte**
+1. **31.1 – Humanismo cristão**
    → Conheça Erasmo de Roterdã e o ideal de "Ad Fontes".
    → Compreenda que o estudo sério das línguas e textos serviu à fé.
    → Reconheça que a mente iluminada pela verdade glorifica a Deus.
 
-2. **31.2 – Reformas religiosas e cultura**
+2. **31.2 – Reformas religiosas**
    → Identifique o clima de insatisfação com a corrupção religiosa.
    → Compreenda como a arte começou a criticar vícios e superstições.
    → Relacione a busca pela verdade teológica com a busca pela verdade artística.
 
-3. **31.3 – Observação da natureza**
+3. **31.3 – Observação detalhada da criação**
    → Observe estudos de natureza de Dürer (plantas, animais).
    → Reconheça a precisão científica como ato de reverência ao Criador.
    → Entenda que "ler o mundo" corretamente exige atenção e fidelidade.
@@ -2343,7 +2343,7 @@ Formar no aluno a compreensão de que:
 | -------- | --------------------------------- | --------------------------------------------------------------- | ---------------- |
 | **32.1** | **Moralidade visual**             | A arte como advertência contra o pecado e a loucura.            | Gálatas 6:7      |
 | **32.2** | **Ensino moral pela arte**        | O uso de provérbios e alegorias visuais para ensinar sabedoria. | Provérbios 14:12 |
-| **32.3** | **Representação da vida na arte** | A valorização do cotidiano e do trabalho na arte.               | Tiago 1:22       |
+| **32.3** | **Representação da vida comum** | A valorização do cotidiano e do trabalho na arte.               | Tiago 1:22       |
 
 ---
 
@@ -2434,7 +2434,7 @@ Formar no aluno a compreensão de que:
 | Aula | Título | Tema central | Versículo-chave |
 | ---- | ------ | ------------ | --------------- |
 | **33.1** | **Óleo refinado** | A perfeição técnica do óleo no Renascimento do Norte. | Salmo 19:4 |
-| **33.2** | **Gravura (xilogravura e metal)** | A revolução da imagem reproduzível e acessível. | Salmo 68:11 |
+| **33.2** | **Gravura** | A revolução da imagem reproduzível e acessível. | Salmo 68:11 |
 | **33.3** | **Precisão e luz simbólica** | O uso da luz e do detalhe para comunicar verdades espirituais. | Habacuque 2:2 |
 
 ---
@@ -2446,7 +2446,7 @@ Formar no aluno a compreensão de que:
    → Compreenda que o óleo permite "pintar a luz".
    → Valorize a excelência técnica como mordomia do talento.
 
-2. **33.2 – Gravura (xilogravura e metal)**
+2. **33.2 – Gravura**
    → Entenda o processo de gravura: matriz, tinta, impressão.
    → Reconheça o impacto social: arte barata e portátil.
    → Identifique a gravura como veículo de ideias teológicas (especialmente na Reforma).
@@ -2527,7 +2527,7 @@ Formar no aluno a compreensão de que:
 | ---- | ------ | ------------ | --------------- |
 | **34.1** | **Albrecht Dürer** | A vida e obra do "Apóstolo da Gravura" e sua fé luterana. | Salmo 45:1 |
 | **34.2** | **Hans Holbein** | O mestre do retrato realista e a verdade humana. | Provérbios 12:17 |
-| **34.3** | **O artista como testemunha** | O papel do artista cristão na sociedade e na igreja. | Isaías 43:10 |
+| **34.3** | **O artista como testemunha da verdade** | O papel do artista cristão na sociedade e na igreja. | Isaías 43:10 |
 
 ---
 
@@ -2543,7 +2543,7 @@ Formar no aluno a compreensão de que:
    → Reconheça a capacidade de capturar a psicologia e o caráter além da aparência.
    → Compreenda o retrato como afirmação da dignidade e individualidade humana.
 
-3. **34.3 – O artista como testemunha**
+3. **34.3 – O artista como testemunha da verdade**
    → Discuta o chamado do artista para servir à verdade em seu tempo.
    → Relacione com a vocação de cada cristão de ser testemunha.
    → Conclua que a arte não é fuga da realidade, mas compromisso com ela.
@@ -2752,9 +2752,9 @@ Concluir o ano letivo com gratidão, revisão dos principais aprendizados e moti
 
 | Aula     | Título                                    | Tema central                                                | Versículo-chave |
 | -------- | ----------------------------------------- | ----------------------------------------------------------- | --------------- |
-| **38.1** | **Síntese dos grandes marcos artisticos** | Síntese dos grandes marcos e lições do 3º Ano.              | Salmo 126:3     |
-| **38.2** | **A arte e o cristão reformado        **  | Aplicação prática: como viver a fé no mundo das artes hoje. | 2 Pedro 3:18    |
-| **37.3** | **Introdução Impressionismo**             | Expectativa para o Impressionismo                           | Filipenses 3:14 |
+| **38.1** | **O que aprendemos neste ano** | Síntese dos grandes marcos e lições do 3º Ano.              | Salmo 126:3     |
+| **38.2** | **A arte e o cristão reformado**  | Aplicação prática: como viver a fé no mundo das artes hoje. | 2 Pedro 3:18    |
+| **37.3** | **A arte como linguagem da fé**             | Expectativa para o Impressionismo                           | Filipenses 3:14 |
 
 ---
 

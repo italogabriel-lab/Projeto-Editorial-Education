@@ -36,6 +36,8 @@ Cada etapa do pipeline é dominada por um perfil de agente, configurado via arqu
 - **`review-builder/SKILL.md`**: Construtor lógico de aulas de revisão usando componentes interativos.
 - **`devops/SKILL.md`**: Engenheiro técnico focado em gestão estrutural, sincronização segura de repositório (via GitHub), bypass de mídia pesada e gatekeeper do `.gitignore`.
 - **`orchestrator/SKILL.md`**: Diretor Editorial — diagnostica o estado do projeto, prioriza ações, delega ao skill/workflow correto e audita consistência curricular.
+- **`bimester-review-builder/SKILL.md`**: Construtor de revisões bimestrais — monta a prova de revisão de 8 semanas a partir das aulas `.4` e do Currículo Macro.
+- **`bimester-exam-builder/SKILL.md`**: Construtor de provas bimestrais — monta prova CANVAS_QUIZ de 10 questões (8 extraídas das provas `.5` + 2 criadas).
 
 ---
 
@@ -56,16 +58,31 @@ A organização de longo prazo do conteúdo vive dentro da pasta de cada ano (ex
 
 Existem 4 arquivos fundamentais que **sustentam a coerência** de todo o ano letivo.
 
-### REGRA DE OURO (Manutenção Editorial)
+### REGRA DE OURO (Fonte de Verdade para Títulos)
+
+> **O arquivo `1 - Curriculo Macro` é a ÚNICA FONTE OFICIAL dos títulos de cada aula.**
+> Todos os demais arquivos devem usar **exatamente** os mesmos títulos do Macro.
+
+| Arquivo | O que deve ser idêntico ao Curriculo Macro |
+| :--- | :--- |
+| **Arquivo de aula (`.md`)** | O **H1 (`# Título`)** deve ser idêntico ao título no Macro. |
+| **`2 - Matriz-Curricular-objetivos`** | Os títulos nas **tabelas de aulas** (`**Título**`) devem ser idênticos. |
+| **`3 - Visão e Plano pedagogico`** | Os títulos nas **tabelas de estrutura** e na **progressão pedagógica** devem ser idênticos. |
+| **`6 - Descrições para tickets`** | Os títulos nas linhas `[Belas artes] - Ano X - X.Y Título` e nas listagens de revisão/prova devem ser idênticos. |
+
+> **Se um título precisa ser alterado**, a mudança deve ser feita **primeiro no Curriculo Macro** e depois propagada para todos os demais arquivos.
+
+### REGRA DE SINCRONIZAÇÃO (Alterações de Conteúdo)
 Se uma aula **existente** sofrer alterações *significativas*, o agente **DEVE OBRIGATORIAMENTE** sincronizar as edições com os seguintes arquivos:
 
 | Arquivo que deve ser atualizado | Gatilho: Quando a aula é modificada gerando... |
 | :--- | :--- |
-| **`1 - Curriculo Macro`** | ...mudança no **Título Principal (H1)** da aula. O título no Macro deve ser um espelho exato do arquivo da aula. |
+| **`1 - Curriculo Macro`** | ...mudança no **Título Principal (H1)** da aula. O título no Macro deve ser atualizado primeiro e depois propagado para todos os demais arquivos. |
 | **`2 - Matriz-Curricular-objetivos`** | ...mudança na **abordagem pedagógica ou teológica**. Se a aula focava em "Guerra" e passou a focar em "Arte", o objetivo na Matriz deve ser reescrito. |
 | **`3 - Visão e Plano pedagogico`** | ...mudança no **tema central** ou na **progressão pedagógica**. O texto deste arquivo deve prever e amarrar a narrativa exata que a nova aula ensina. |
 | **`4 - Links-para-imagens-perceber`** | ...mudança na seção **Perceber**. Se a aula troca de análise arquitetônica para pintura de mosaico, os links de pesquisa em banco de imagens devem ser trocados neste arquivo. |
 | **`5 - Prompts-para-imagens-narrar`** | ...mudança na seção **Narrar**. Se o texto literário da Leitura for alterado, o prompt de geração de imagem deve ser regenerado com base no novo texto. |
+| **`6 - Descrições para tickets`** | ...mudança no **título** ou na **estrutura da semana**. Os títulos e listagens devem refletir exatamente o Curriculo Macro. |
 | **Aula de Revisão (`X.4.md`)** | ...mudança em **definições principais, abordagens ou atividades do Perceber**. Flashcards, quizzes, tabelas e textos da revisão devem ser sempre idênticos à aula base. |
 
 ### Fluxo de Evolução Contínua

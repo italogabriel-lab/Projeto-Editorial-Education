@@ -31,6 +31,11 @@ Abra o arquivo do Plano Pedagógico e extraia: título, tema central, versículo
 Consulte o Currículo Macro. Todos os termos marcados com ✅ estão **PROIBIDOS**.
 Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 
+### 4. Título da Aula — Fonte de Verdade
+O título da aula (H1) **deve ser exatamente** o título que consta no `1 - Curriculo Macro`.
+**NUNCA** invente, modifique ou use títulos criativos/poéticos diferentes do Currículo Macro.
+O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos os demais arquivos (Matriz, Visão, Descrições, Issues) devem refletir os mesmos títulos.
+
 ## Base de Conhecimento — Referência Obrigatória
 
 | Arquivo | O que consultar |
