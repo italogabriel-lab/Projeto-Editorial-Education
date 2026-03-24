@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""SQUAD SCRIPT MESTRE: Alinha integralmente Matriz, Visão, Descrições e Aulas com a Fonte de Verdade (Currículo Macro). Uso: OBRIGATÓRIO após qualquer mudança no Macro."""
 import re
 import os
 
