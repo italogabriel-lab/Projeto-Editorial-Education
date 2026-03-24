@@ -3,10 +3,22 @@
 GERADOR MASSIVO: Reconstrói o arquivo 6 (Descrições para tickets) inteiro, incluindo provas e bimestres, do zero. 
 Uso: Criação original ou regeneração profunda (sobrescreve tudo).
 """
+import os
 import re
 
+# Base paths
+BASE_DIR = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy"
+TARGET_FILE = os.path.join(
+    BASE_DIR,
+    "Belas Artes - Fase da Gramática",
+    "1 Fase - Gramática",
+    "3º Ano - ARTE CRISTÃ ORIENTAL ATÉ O RENASCIMENTO DO NORTE",
+    "Estrutura Curricular - 3º ANO",
+    "6 - Descrições para tickets - 3º ANO.md"
+)
+
 # Read original file
-with open("/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy/Belas Artes - Fase da Gramática/1 Fase - Gramática/3º Ano - ARTE CRISTÃ ORIENTAL ATÉ O RENASCIMENTO DO NORTE/Estrutura Curricular - 3º ANO/6 - Descrições para tickets - 3º ANO.md", "r") as f:
+with open(TARGET_FILE, "r", encoding="utf-8") as f:
     content = f.read()
 
 # Data structure: week_num -> (week_theme, [(lesson_id, lesson_title), ...])
@@ -175,6 +187,7 @@ weeks = {
 
 # Utility functions for generating text blocks
 
+
 def generate_weekly_review_desc(week_num):
     """Generate weekly review description content."""
     theme, lessons = weeks[week_num]
@@ -183,6 +196,7 @@ def generate_weekly_review_desc(week_num):
     for lid, ltitle in lessons:
         lines.append(f"- {lid} {ltitle}\n")
     return "\n".join(lines)
+
 
 def generate_weekly_exam_desc(week_num):
     """Generate weekly exam description content."""
@@ -264,6 +278,8 @@ while i < len(lines):
 # After week 38 (at end): Semana 39 (Revisão Final) + Semana 40 (Prova Final)
 
 # Configuration for bimesters is defined implicitly during generation.
+
+
 def generate_bimestral_section(bim_num, week_list, module_name, is_final=False):
     """Generate a full bimestral review + exam section."""
     lines_out = []
@@ -368,8 +384,7 @@ final_lines.extend(bim4_lines)
 output = "\n".join(final_lines)
 
 # Write output
-output_path = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy/Belas Artes - Fase da Gramática/1 Fase - Gramática/3º Ano - ARTE CRISTÃ ORIENTAL ATÉ O RENASCIMENTO DO NORTE/Estrutura Curricular - 3º ANO/6 - Descrições para tickets - 3º ANO.md"
-with open(output_path, "w") as f:
+with open(TARGET_FILE, "w", encoding="utf-8") as f:
     f.write(output)
 
 print(f"File written successfully. Total lines: {len(final_lines)}")
