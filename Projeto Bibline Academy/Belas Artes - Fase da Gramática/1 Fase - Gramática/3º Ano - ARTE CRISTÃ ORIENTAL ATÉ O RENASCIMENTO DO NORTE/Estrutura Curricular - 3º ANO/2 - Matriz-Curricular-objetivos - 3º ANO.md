@@ -132,9 +132,9 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 11.1 | **Expansão do Islã** | Compreender o contexto histórico da expansão islâmica e seu impacto na arte. |
-| 11.2 | **Formação de grandes impérios** | Reconhecer os impérios islâmicos como produtores de uma arte refinada e distinta. |
-| 11.3 | **Transcendência divina e evitação da figura humana** | Entender por que a arte islâmica evita representar a figura humana. |
+| 11.1 | **Arte Islâmica e as formas de arte** | Compreender o contexto histórico da expansão islâmica e seu impacto na arte. |
+| 11.2 | **Impérios islâmicos como produtores de arte** | Reconhecer os impérios islâmicos como produtores de uma arte refinada e distinta. |
+| 11.3 | **Transcendência e evitação da figura humana** | Entender por que a arte islâmica evita representar a figura humana. |
 
 **Conceitos da semana:** Expansão, Transcendência, Aniconismo
 
@@ -189,8 +189,8 @@
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
 | 15.1 | **Alhambra** | Estudar a Alhambra como obra-prima da arte islâmica na Europa. |
-| 15.2 | **Influência decorativa na Europa medieval** | Reconhecer a influência dos padrões islâmicos na decoração europeia medieval. |
-| 15.3 | **Arte islâmica e cosmovisão cristã comparada** | Comparar as cosmovisões cristã e islâmica sobre imagem, beleza e adoração. |
+| 15.2 | **Influência decorativa na Europa** | Reconhecer a influência dos padrões islâmicos na decoração europeia medieval. |
+| 15.3 | **Arte islâmica e cosmovisão cristã** | Comparar as cosmovisões cristã e islâmica sobre imagem, beleza e adoração. |
 
 **Conceitos da semana:** Alhambra, Influência, Cosmovisão
 
@@ -202,7 +202,7 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 16.1 | **Europa feudal** | Compreender o contexto feudal como cenário da arte românica. |
+| 16.1 | **Europa feudal e a arte românica** | Compreender o contexto feudal como cenário da arte românica. |
 | 16.2 | **Peregrinações e centralidade da Igreja** | Reconhecer as peregrinações como motor da construção de igrejas e arte. |
 | 16.3 | **Juízo, eternidade e reverência** | Entender a cosmovisão românica centrada no juízo final e na eternidade. |
 
@@ -250,7 +250,7 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 21.1 | **Crescimento das cidades** | Compreender o contexto urbano como cenário do nascimento da arte gótica. |
+| 21.1 | **Arte Gótica e o crescimento urbano** | Compreender o contexto urbano como cenário do nascimento da arte gótica. |
 | 21.2 | **Nova espiritualidade urbana** | Reconhecer a mudança de uma fé rural para uma espiritualidade urbana e comunitária. |
 | 21.3 | **Luz como símbolo divino** | Entender a luz como elemento central da cosmovisão gótica e símbolo da presença de Deus. |
 
@@ -264,7 +264,7 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 22.1 | **Inspirar devoção** | Identificar a função da arte gótica como inspiração para a adoração e a oração. |
+| 22.1 | **Inspirar devoção na arte gótica** | Identificar a função da arte gótica como inspiração para a adoração e a oração. |
 | 22.2 | **Vitrais como ensino visual** | Estudar os vitrais como meio de contar histórias bíblicas por meio da luz. |
 | 22.3 | **Arcos ogivais e abóbadas** | Compreender o arco ogival como inovação técnica que permite altura e luminosidade. |
 
@@ -278,8 +278,8 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 23.1 | **Verticalidade** | Reconhecer a verticalidade como expressão visual da busca pelo celestial. |
-| 23.2 | **Luminosidade** | Compreender a luz abundante na catedral gótica como símbolo da graça divina. |
+| 23.1 | **Verticalidade como expressão visual** | Reconhecer a verticalidade como expressão visual da busca pelo celestial. |
+| 23.2 | **Luminosidade na arte gótica** | Compreender a luz abundante na catedral gótica como símbolo da graça divina. |
 | 23.3 | **Detalhamento crescente** | Estudar o detalhamento crescente como reflexo de uma fé que contempla e medita. |
 
 **Conceitos da semana:** Verticalidade, Graça, Contemplação
@@ -320,9 +320,9 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 26.1 | **Burguesia emergente** | Compreender o surgimento da burguesia como novo contexto para a arte. |
-| 26.2 | **Vida urbana no norte da Europa** | Reconhecer a vida urbana como fonte de novos temas artísticos. |
-| 26.3 | **Espiritualidade doméstica** | Entender a espiritualidade doméstica como marca da arte do norte europeu. |
+| 26.1 | **Pré-Renascimento e o contexto artístico** | Compreender o surgimento da burguesia como novo contexto para a arte. |
+| 26.2 | **Vida urbana e fonte de temas artísticos** | Reconhecer a vida urbana como fonte de novos temas artísticos. |
+| 26.3 | **Espiritualidade como marca da arte** | Entender a espiritualidade doméstica como marca da arte do norte europeu. |
 
 **Conceitos da semana:** Burguesia, Cotidiano, Domesticidade
 
@@ -368,9 +368,9 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 31.1 | **Humanismo cristão** | Compreender o humanismo do norte como valorizacão do ser humano à luz da Escritura. |
-| 31.2 | **Reformas religiosas** | Reconhecer o impacto das reformas na forma de pensar e produzir arte. |
-| 31.3 | **Observação detalhada da criação** | Entender a observação minuciosa como forma de reverência ao Criador. |
+| 31.1 | **Renascimento do Norte** | Compreender o humanismo do norte como valorizacão do ser humano à luz da Escritura. |
+| 31.2 | **Reformas religiosas e cultura** | Reconhecer o impacto das reformas na forma de pensar e produzir arte. |
+| 31.3 | **Observação da natureza** | Entender a observação minuciosa como forma de reverência ao Criador. |
 
 **Conceitos da semana:** Humanismo, Reforma, Observação
 
@@ -384,7 +384,7 @@
 | ---- | ------ | ----------------------------- |
 | 32.1 | **Moralidade visual** | Identificar a arte como instrumento de ensino moral na tradição do norte. |
 | 32.2 | **Ensino moral pela arte** | Compreender como obras de arte comunicaram virtudes e advertências. |
-| 32.3 | **Representação da vida comum** | Reconhecer a vida cotidiana como tema digno de arte e reflexão cristã. |
+| 32.3 | **Representação da vida na arte** | Reconhecer a vida cotidiana como tema digno de arte e reflexão cristã. |
 
 **Conceitos da semana:** Moralidade, Virtude, Cotidiano
 
@@ -397,7 +397,7 @@
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
 | 33.1 | **Óleo refinado** | Estudar o refinamento da técnica a óleo como busca pela perfeição na representação. |
-| 33.2 | **Gravura** | Compreender a gravura como meio de difusão da arte e do conhecimento. |
+| 33.2 | **Gravura, xilogravura e metal** | Compreender a gravura como meio de difusão da arte e do conhecimento. |
 | 33.3 | **Precisão e luz simbólica** | Reconhecer a precisão e a luz como expressões de clareza e verdade. |
 
 **Conceitos da semana:** Refinamento, Gravura, Difusão
@@ -412,7 +412,7 @@
 | ---- | ------ | ----------------------------- |
 | 34.1 | **Albrecht Dürer** | Conhecer Dürer como mestre da gravura e defensor da arte como vocação divina. |
 | 34.2 | **Hans Holbein** | Estudar Holbein como retratista que revelou caráter e verdade em cada rosto. |
-| 34.3 | **O artista como testemunha da verdade** | Discernir o papel do artista cristão como testemunha da verdade e da beleza. |
+| 34.3 | **O artista como testemunha** | Discernir o papel do artista cristão como testemunha da verdade e da beleza. |
 
 **Conceitos da semana:** Dürer, Holbein, Testemunho
 
@@ -466,9 +466,9 @@
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 38.1 | **O que aprendemos neste ano** | Consolidar os conhecimentos adquiridos ao longo do 3º ano. |
+| 38.1 | **Síntese dos grandes marcos artisticos** | Consolidar os conhecimentos adquiridos ao longo do 3º ano. |
 | 38.2 | **A arte e o cristão reformado** | Reafirmar os critérios bíblicos para avaliar toda forma de arte. |
-| 38.3 | **Preparação para o próximo ano** | Despertar expectativa e preparo para os movimentos do Maneirismo ao Realismo. |
+| 38.3 | **Introdução ao Renascimento Italiano e Maneirismo** | Despertar expectativa e preparo para os movimentos do Maneirismo ao Realismo. |
 
 **Conceitos da semana:** Consolidação, Critério, Preparação
 

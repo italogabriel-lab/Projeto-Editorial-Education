@@ -712,7 +712,7 @@ Avaliar os conhecimentos das aulas da semana 8
 
 ---
 
-[Belas artes] - Ano 3 - 11.1 Expansão do Islã
+[Belas artes] - Ano 3 - 11.1 Arte Islâmica e as formas de arte
 
 # Description
 
@@ -723,7 +723,7 @@ Avaliar os conhecimentos das aulas da semana 8
 
 ---
 
-[Belas artes] - Ano 3 - 11.2 Formação de grandes impérios
+[Belas artes] - Ano 3 - 11.2 Impérios islâmicos como produtores de arte
 
 # Description
 
@@ -734,7 +734,7 @@ Avaliar os conhecimentos das aulas da semana 8
 
 ---
 
-[Belas artes] - Ano 3 - 11.3 Transcendência divina e evitação da figura humana
+[Belas artes] - Ano 3 - 11.3 Transcendência e evitação da figura humana
 
 # Description
 
@@ -753,11 +753,11 @@ Revisar os conhecimentos das aulas da semana 11
 
 ## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
 
-- 11.1 Expansão do Islã
+- 11.1 Arte Islâmica e as formas de arte
 
-- 11.2 Formação de grandes impérios
+- 11.2 Impérios islâmicos como produtores de arte
 
-- 11.3 Transcendência divina e evitação da figura humana
+- 11.3 Transcendência e evitação da figura humana
 
 ---
 
@@ -769,11 +769,11 @@ Avaliar os conhecimentos das aulas da semana 11
 
 ## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
 
-- 11.1 Expansão do Islã
+- 11.1 Arte Islâmica e as formas de arte
 
-- 11.2 Formação de grandes impérios
+- 11.2 Impérios islâmicos como produtores de arte
 
-- 11.3 Transcendência divina e evitação da figura humana
+- 11.3 Transcendência e evitação da figura humana
 
 ---
 
@@ -983,7 +983,7 @@ Avaliar os conhecimentos das aulas da semana 14
 
 ---
 
-[Belas artes] - Ano 3 - 15.2 Influência decorativa na Europa medieval
+[Belas artes] - Ano 3 - 15.2 Influência decorativa na Europa
 
 # Description
 
@@ -994,7 +994,7 @@ Avaliar os conhecimentos das aulas da semana 14
 
 ---
 
-[Belas artes] - Ano 3 - 15.3 Arte islâmica e cosmovisão cristã comparada
+[Belas artes] - Ano 3 - 15.3 Arte islâmica e cosmovisão cristã
 
 # Description
 
@@ -1015,9 +1015,9 @@ Revisar os conhecimentos das aulas da semana 15
 
 - 15.1 Alhambra
 
-- 15.2 Influência decorativa na Europa medieval
+- 15.2 Influência decorativa na Europa
 
-- 15.3 Arte islâmica e cosmovisão cristã comparada
+- 15.3 Arte islâmica e cosmovisão cristã
 
 ---
 
@@ -1031,9 +1031,9 @@ Avaliar os conhecimentos das aulas da semana 15
 
 - 15.1 Alhambra
 
-- 15.2 Influência decorativa na Europa medieval
+- 15.2 Influência decorativa na Europa
 
-- 15.3 Arte islâmica e cosmovisão cristã comparada
+- 15.3 Arte islâmica e cosmovisão cristã
 
 ---
 
@@ -1041,7 +1041,7 @@ Avaliar os conhecimentos das aulas da semana 15
 
 ---
 
-[Belas artes] - Ano 3 - 16.1 Europa feudal
+[Belas artes] - Ano 3 - 16.1 Europa feudal e a arte românica
 
 # Description
 
@@ -1082,7 +1082,7 @@ Revisar os conhecimentos das aulas da semana 16
 
 ## 16ª Semana: **Arte Românica: contexto e cosmovisão**
 
-- 16.1 Europa feudal
+- 16.1 Europa feudal e a arte românica
 
 - 16.2 Peregrinações e centralidade da Igreja
 
@@ -1098,7 +1098,7 @@ Avaliar os conhecimentos das aulas da semana 16
 
 ## 16ª Semana: **Arte Românica: contexto e cosmovisão**
 
-- 16.1 Europa feudal
+- 16.1 Europa feudal e a arte românica
 
 - 16.2 Peregrinações e centralidade da Igreja
 
@@ -1256,11 +1256,11 @@ Avaliar os conhecimentos das aulas da semana 18
 
 ## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
 
-- 11.1 Expansão do Islã
+- 11.1 Arte Islâmica e as formas de arte
 
-- 11.2 Formação de grandes impérios
+- 11.2 Impérios islâmicos como produtores de arte
 
-- 11.3 Transcendência divina e evitação da figura humana
+- 11.3 Transcendência e evitação da figura humana
 
 ## 12ª Semana: **Arte Islâmica: ornamentação e materiais**
 
@@ -1290,13 +1290,13 @@ Avaliar os conhecimentos das aulas da semana 18
 
 - 15.1 Alhambra
 
-- 15.2 Influência decorativa na Europa medieval
+- 15.2 Influência decorativa na Europa
 
-- 15.3 Arte islâmica e cosmovisão cristã comparada
+- 15.3 Arte islâmica e cosmovisão cristã
 
 ## 16ª Semana: **Arte Românica: contexto e cosmovisão**
 
-- 16.1 Europa feudal
+- 16.1 Europa feudal e a arte românica
 
 - 16.2 Peregrinações e centralidade da Igreja
 
@@ -1332,11 +1332,11 @@ Avaliar os conhecimentos das aulas da semana 18
 
 ## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
 
-- 11.1 Expansão do Islã
+- 11.1 Arte Islâmica e as formas de arte
 
-- 11.2 Formação de grandes impérios
+- 11.2 Impérios islâmicos como produtores de arte
 
-- 11.3 Transcendência divina e evitação da figura humana
+- 11.3 Transcendência e evitação da figura humana
 
 ## 12ª Semana: **Arte Islâmica: ornamentação e materiais**
 
@@ -1366,13 +1366,13 @@ Avaliar os conhecimentos das aulas da semana 18
 
 - 15.1 Alhambra
 
-- 15.2 Influência decorativa na Europa medieval
+- 15.2 Influência decorativa na Europa
 
-- 15.3 Arte islâmica e cosmovisão cristã comparada
+- 15.3 Arte islâmica e cosmovisão cristã
 
 ## 16ª Semana: **Arte Românica: contexto e cosmovisão**
 
-- 16.1 Europa feudal
+- 16.1 Europa feudal e a arte românica
 
 - 16.2 Peregrinações e centralidade da Igreja
 
@@ -1400,7 +1400,7 @@ Avaliar os conhecimentos das aulas da semana 18
 
 ---
 
-[Belas artes] - Ano 3 - 21.1 Crescimento das cidades
+[Belas artes] - Ano 3 - 21.1 Arte Gótica e o crescimento urbano
 
 # Description
 
@@ -1441,7 +1441,7 @@ Revisar os conhecimentos das aulas da semana 21
 
 ## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
 
-- 21.1 Crescimento das cidades
+- 21.1 Arte Gótica e o crescimento urbano
 
 - 21.2 Nova espiritualidade urbana
 
@@ -1457,7 +1457,7 @@ Avaliar os conhecimentos das aulas da semana 21
 
 ## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
 
-- 21.1 Crescimento das cidades
+- 21.1 Arte Gótica e o crescimento urbano
 
 - 21.2 Nova espiritualidade urbana
 
@@ -1469,7 +1469,7 @@ Avaliar os conhecimentos das aulas da semana 21
 
 ---
 
-[Belas artes] - Ano 3 - 22.1 Inspirar devoção
+[Belas artes] - Ano 3 - 22.1 Inspirar devoção na arte gótica
 
 # Description
 
@@ -1510,7 +1510,7 @@ Revisar os conhecimentos das aulas da semana 22
 
 ## 22ª Semana: **Arte Gótica: função e materiais**
 
-- 22.1 Inspirar devoção
+- 22.1 Inspirar devoção na arte gótica
 
 - 22.2 Vitrais como ensino visual
 
@@ -1526,7 +1526,7 @@ Avaliar os conhecimentos das aulas da semana 22
 
 ## 22ª Semana: **Arte Gótica: função e materiais**
 
-- 22.1 Inspirar devoção
+- 22.1 Inspirar devoção na arte gótica
 
 - 22.2 Vitrais como ensino visual
 
@@ -1538,7 +1538,7 @@ Avaliar os conhecimentos das aulas da semana 22
 
 ---
 
-[Belas artes] - Ano 3 - 23.1 Verticalidade
+[Belas artes] - Ano 3 - 23.1 Verticalidade como expressão visual
 
 # Description
 
@@ -1549,7 +1549,7 @@ Avaliar os conhecimentos das aulas da semana 22
 
 ---
 
-[Belas artes] - Ano 3 - 23.2 Luminosidade
+[Belas artes] - Ano 3 - 23.2 Luminosidade na arte gótica
 
 # Description
 
@@ -1579,9 +1579,9 @@ Revisar os conhecimentos das aulas da semana 23
 
 ## 23ª Semana: **Arte Gótica: forma e composição**
 
-- 23.1 Verticalidade
+- 23.1 Verticalidade como expressão visual
 
-- 23.2 Luminosidade
+- 23.2 Luminosidade na arte gótica
 
 - 23.3 Detalhamento crescente
 
@@ -1595,9 +1595,9 @@ Avaliar os conhecimentos das aulas da semana 23
 
 ## 23ª Semana: **Arte Gótica: forma e composição**
 
-- 23.1 Verticalidade
+- 23.1 Verticalidade como expressão visual
 
-- 23.2 Luminosidade
+- 23.2 Luminosidade na arte gótica
 
 - 23.3 Detalhamento crescente
 
@@ -1745,7 +1745,7 @@ Avaliar os conhecimentos das aulas da semana 25
 
 ---
 
-[Belas artes] - Ano 3 - 26.1 Burguesia emergente
+[Belas artes] - Ano 3 - 26.1 Pré-Renascimento e o contexto artístico
 
 # Description
 
@@ -1756,7 +1756,7 @@ Avaliar os conhecimentos das aulas da semana 25
 
 ---
 
-[Belas artes] - Ano 3 - 26.2 Vida urbana no norte da Europa
+[Belas artes] - Ano 3 - 26.2 Vida urbana e fonte de temas artísticos
 
 # Description
 
@@ -1767,7 +1767,7 @@ Avaliar os conhecimentos das aulas da semana 25
 
 ---
 
-[Belas artes] - Ano 3 - 26.3 Espiritualidade doméstica
+[Belas artes] - Ano 3 - 26.3 Espiritualidade como marca da arte
 
 # Description
 
@@ -1786,11 +1786,11 @@ Revisar os conhecimentos das aulas da semana 26
 
 ## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
 
-- 26.1 Burguesia emergente
+- 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana no norte da Europa
+- 26.2 Vida urbana e fonte de temas artísticos
 
-- 26.3 Espiritualidade doméstica
+- 26.3 Espiritualidade como marca da arte
 
 ---
 
@@ -1802,11 +1802,11 @@ Avaliar os conhecimentos das aulas da semana 26
 
 ## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
 
-- 26.1 Burguesia emergente
+- 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana no norte da Europa
+- 26.2 Vida urbana e fonte de temas artísticos
 
-- 26.3 Espiritualidade doméstica
+- 26.3 Espiritualidade como marca da arte
 
 ---
 
@@ -1960,7 +1960,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
 
-- 21.1 Crescimento das cidades
+- 21.1 Arte Gótica e o crescimento urbano
 
 - 21.2 Nova espiritualidade urbana
 
@@ -1968,7 +1968,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 22ª Semana: **Arte Gótica: função e materiais**
 
-- 22.1 Inspirar devoção
+- 22.1 Inspirar devoção na arte gótica
 
 - 22.2 Vitrais como ensino visual
 
@@ -1976,9 +1976,9 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 23ª Semana: **Arte Gótica: forma e composição**
 
-- 23.1 Verticalidade
+- 23.1 Verticalidade como expressão visual
 
-- 23.2 Luminosidade
+- 23.2 Luminosidade na arte gótica
 
 - 23.3 Detalhamento crescente
 
@@ -2000,11 +2000,11 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
 
-- 26.1 Burguesia emergente
+- 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana no norte da Europa
+- 26.2 Vida urbana e fonte de temas artísticos
 
-- 26.3 Espiritualidade doméstica
+- 26.3 Espiritualidade como marca da arte
 
 ## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
 
@@ -2036,7 +2036,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
 
-- 21.1 Crescimento das cidades
+- 21.1 Arte Gótica e o crescimento urbano
 
 - 21.2 Nova espiritualidade urbana
 
@@ -2044,7 +2044,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 22ª Semana: **Arte Gótica: função e materiais**
 
-- 22.1 Inspirar devoção
+- 22.1 Inspirar devoção na arte gótica
 
 - 22.2 Vitrais como ensino visual
 
@@ -2052,9 +2052,9 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 23ª Semana: **Arte Gótica: forma e composição**
 
-- 23.1 Verticalidade
+- 23.1 Verticalidade como expressão visual
 
-- 23.2 Luminosidade
+- 23.2 Luminosidade na arte gótica
 
 - 23.3 Detalhamento crescente
 
@@ -2076,11 +2076,11 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
 
-- 26.1 Burguesia emergente
+- 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana no norte da Europa
+- 26.2 Vida urbana e fonte de temas artísticos
 
-- 26.3 Espiritualidade doméstica
+- 26.3 Espiritualidade como marca da arte
 
 ## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
 
@@ -2104,7 +2104,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ---
 
-[Belas artes] - Ano 3 - 31.1 Humanismo cristão
+[Belas artes] - Ano 3 - 31.1 Renascimento do Norte
 
 # Description
 
@@ -2115,7 +2115,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ---
 
-[Belas artes] - Ano 3 - 31.2 Reformas religiosas
+[Belas artes] - Ano 3 - 31.2 Reformas religiosas e cultura
 
 # Description
 
@@ -2126,7 +2126,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ---
 
-[Belas artes] - Ano 3 - 31.3 Observação detalhada da criação
+[Belas artes] - Ano 3 - 31.3 Observação da natureza
 
 # Description
 
@@ -2145,11 +2145,11 @@ Revisar os conhecimentos das aulas da semana 31
 
 ## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
 
-- 31.1 Humanismo cristão
+- 31.1 Renascimento do Norte
 
-- 31.2 Reformas religiosas
+- 31.2 Reformas religiosas e cultura
 
-- 31.3 Observação detalhada da criação
+- 31.3 Observação da natureza
 
 ---
 
@@ -2179,7 +2179,7 @@ Revisar os conhecimentos das aulas da semana 31
 
 ---
 
-[Belas artes] - Ano 3 - 32.3 Representação da vida comum
+[Belas artes] - Ano 3 - 32.3 Representação da vida na arte
 
 # Description
 
@@ -2202,7 +2202,7 @@ Revisar os conhecimentos das aulas da semana 32
 
 - 32.2 Ensino moral pela arte
 
-- 32.3 Representação da vida comum
+- 32.3 Representação da vida na arte
 
 ---
 
@@ -2221,7 +2221,7 @@ Revisar os conhecimentos das aulas da semana 32
 
 ---
 
-[Belas artes] - Ano 3 - 33.2 Gravura
+[Belas artes] - Ano 3 - 33.2 Gravura, xilogravura e metal
 
 # Description
 
@@ -2253,7 +2253,7 @@ Revisar os conhecimentos das aulas da semana 33
 
 - 33.1 Óleo refinado
 
-- 33.2 Gravura
+- 33.2 Gravura, xilogravura e metal
 
 - 33.3 Precisão e luz simbólica
 
@@ -2269,7 +2269,7 @@ Avaliar os conhecimentos das aulas da semana 33
 
 - 33.1 Óleo refinado
 
-- 33.2 Gravura
+- 33.2 Gravura, xilogravura e metal
 
 - 33.3 Precisão e luz simbólica
 
@@ -2301,7 +2301,7 @@ Avaliar os conhecimentos das aulas da semana 33
 
 ---
 
-[Belas artes] - Ano 3 - 34.3 O artista como testemunha da verdade
+[Belas artes] - Ano 3 - 34.3 O artista como testemunha
 
 # Description
 
@@ -2324,7 +2324,7 @@ Revisar os conhecimentos das aulas da semana 34
 
 - 34.2 Hans Holbein
 
-- 34.3 O artista como testemunha da verdade
+- 34.3 O artista como testemunha
 
 ---
 
@@ -2340,7 +2340,7 @@ Avaliar os conhecimentos das aulas da semana 34
 
 - 34.2 Hans Holbein
 
-- 34.3 O artista como testemunha da verdade
+- 34.3 O artista como testemunha
 
 ---
 
@@ -2555,7 +2555,7 @@ Avaliar os conhecimentos das aulas da semana 37
 
 ---
 
-[Belas artes] - Ano 3 - 38.1 O que aprendemos neste ano
+[Belas artes] - Ano 3 - 38.1 Síntese dos grandes marcos artisticos
 
 # Description
 
@@ -2577,7 +2577,7 @@ Avaliar os conhecimentos das aulas da semana 37
 
 ---
 
-[Belas artes] - Ano 3 - 38.3 Preparação para o próximo ano
+[Belas artes] - Ano 3 - 38.3 Introdução ao Renascimento Italiano e Maneirismo
 
 # Description
 
@@ -2596,11 +2596,11 @@ Revisar os conhecimentos das aulas da semana 38
 
 ## 38ª Semana: **Encerramento do Volume 2**
 
-- 38.1 O que aprendemos neste ano
+- 38.1 Síntese dos grandes marcos artisticos
 
 - 38.2 A arte e o cristão reformado
 
-- 38.3 Preparação para o próximo ano
+- 38.3 Introdução ao Renascimento Italiano e Maneirismo
 
 ---
 
@@ -2612,11 +2612,11 @@ Avaliar os conhecimentos das aulas da semana 38
 
 ## 38ª Semana: **Encerramento do Volume 2**
 
-- 38.1 O que aprendemos neste ano
+- 38.1 Síntese dos grandes marcos artisticos
 
 - 38.2 A arte e o cristão reformado
 
-- 38.3 Preparação para o próximo ano
+- 38.3 Introdução ao Renascimento Italiano e Maneirismo
 
 
 ## Semana 39 – Revisão Final
@@ -2631,11 +2631,11 @@ Avaliar os conhecimentos das aulas da semana 38
 
 ## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
 
-- 31.1 Humanismo cristão
+- 31.1 Renascimento do Norte
 
-- 31.2 Reformas religiosas
+- 31.2 Reformas religiosas e cultura
 
-- 31.3 Observação detalhada da criação
+- 31.3 Observação da natureza
 
 ## 32ª Semana: **Renascimento do Norte: função e cosmovisão**
 
@@ -2643,13 +2643,13 @@ Avaliar os conhecimentos das aulas da semana 38
 
 - 32.2 Ensino moral pela arte
 
-- 32.3 Representação da vida comum
+- 32.3 Representação da vida na arte
 
 ## 33ª Semana: **Renascimento do Norte: materiais e forma**
 
 - 33.1 Óleo refinado
 
-- 33.2 Gravura
+- 33.2 Gravura, xilogravura e metal
 
 - 33.3 Precisão e luz simbólica
 
@@ -2659,7 +2659,7 @@ Avaliar os conhecimentos das aulas da semana 38
 
 - 34.2 Hans Holbein
 
-- 34.3 O artista como testemunha da verdade
+- 34.3 O artista como testemunha
 
 ## 35ª Semana: **Renascimento do Norte: legado**
 
@@ -2687,11 +2687,11 @@ Avaliar os conhecimentos das aulas da semana 38
 
 ## 38ª Semana: **Encerramento do Volume 2**
 
-- 38.1 O que aprendemos neste ano
+- 38.1 Síntese dos grandes marcos artisticos
 
 - 38.2 A arte e o cristão reformado
 
-- 38.3 Preparação para o próximo ano
+- 38.3 Introdução ao Renascimento Italiano e Maneirismo
 
 ---
 
@@ -2707,11 +2707,11 @@ Avaliar os conhecimentos das aulas da semana 38
 
 ## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
 
-- 31.1 Humanismo cristão
+- 31.1 Renascimento do Norte
 
-- 31.2 Reformas religiosas
+- 31.2 Reformas religiosas e cultura
 
-- 31.3 Observação detalhada da criação
+- 31.3 Observação da natureza
 
 ## 32ª Semana: **Renascimento do Norte: função e cosmovisão**
 
@@ -2719,13 +2719,13 @@ Avaliar os conhecimentos das aulas da semana 38
 
 - 32.2 Ensino moral pela arte
 
-- 32.3 Representação da vida comum
+- 32.3 Representação da vida na arte
 
 ## 33ª Semana: **Renascimento do Norte: materiais e forma**
 
 - 33.1 Óleo refinado
 
-- 33.2 Gravura
+- 33.2 Gravura, xilogravura e metal
 
 - 33.3 Precisão e luz simbólica
 
@@ -2735,7 +2735,7 @@ Avaliar os conhecimentos das aulas da semana 38
 
 - 34.2 Hans Holbein
 
-- 34.3 O artista como testemunha da verdade
+- 34.3 O artista como testemunha
 
 ## 35ª Semana: **Renascimento do Norte: legado**
 
@@ -2763,10 +2763,10 @@ Avaliar os conhecimentos das aulas da semana 38
 
 ## 38ª Semana: **Encerramento do Volume 2**
 
-- 38.1 O que aprendemos neste ano
+- 38.1 Síntese dos grandes marcos artisticos
 
 - 38.2 A arte e o cristão reformado
 
-- 38.3 Preparação para o próximo ano
+- 38.3 Introdução ao Renascimento Italiano e Maneirismo
 
 ---

@@ -105,9 +105,9 @@ Idolatria ✅
 
 ## Semana 11 – **Arte Islâmica: contexto e cosmovisão**
 
-- Dia 1: Expansão do Islã
-- Dia 2: Formação de grandes impérios
-- Dia 3: Transcendência divina e evitação da figura humana
+- Dia 1: Arte Islâmica e as formas de arte
+- Dia 2: Impérios islâmicos como produtores de arte
+- Dia 3: Transcendência e evitação da figura humana
 
 ## Semana 12 – **Arte Islâmica: ornamentação e materiais**
 
@@ -130,12 +130,12 @@ Idolatria ✅
 ## Semana 15 – **Arte Islâmica: obras e legado**
 
 - Dia 1: Alhambra
-- Dia 2: Influência decorativa na Europa medieval
-- Dia 3: Arte islâmica e cosmovisão cristã comparada
+- Dia 2: Influência decorativa na Europa
+- Dia 3: Arte islâmica e cosmovisão cristã
 
 ## Semana 16 – **Arte Românica: contexto e cosmovisão**
 
-- Dia 1: Europa feudal
+- Dia 1: Europa feudal e a arte românica
 - Dia 2: Peregrinações e centralidade da Igreja
 - Dia 3: Juízo, eternidade e reverência
 
@@ -165,20 +165,20 @@ Idolatria ✅
 
 ## Semana 21 – **Arte Gótica: contexto e cosmovisão**
 
-- Dia 1: Crescimento das cidades
+- Dia 1: Arte Gótica e o crescimento urbano
 - Dia 2: Nova espiritualidade urbana
 - Dia 3: Luz como símbolo divino
 
 ## Semana 22 – **Arte Gótica: função e materiais**
 
-- Dia 1: Inspirar devoção
+- Dia 1: Inspirar devoção na arte gótica
 - Dia 2: Vitrais como ensino visual
 - Dia 3: Arcos ogivais e abóbadas
 
 ## Semana 23 – **Arte Gótica: forma e composição**
 
-- Dia 1: Verticalidade
-- Dia 2: Luminosidade
+- Dia 1: Verticalidade como expressão visual
+- Dia 2: Luminosidade na arte gótica
 - Dia 3: Detalhamento crescente
 
 ## Semana 24 – **Arte Gótica: arquitetura e escultura**
@@ -195,9 +195,9 @@ Idolatria ✅
 
 ## Semana 26 – **Pré-Renascimento do Norte: contexto e cosmovisão**
 
-- Dia 1: Burguesia emergente
-- Dia 2: Vida urbana no norte da Europa
-- Dia 3: Espiritualidade doméstica
+- Dia 1: Pré-Renascimento e o contexto artístico
+- Dia 2: Vida urbana e fonte de temas artísticos
+- Dia 3: Espiritualidade como marca da arte
 
 ## Semana 27 – **Pré-Renascimento do Norte: materiais e forma**
 
@@ -225,27 +225,27 @@ Idolatria ✅
 
 ## Semana 31 – **Renascimento do Norte: contexto e cosmovisão**
 
-- Dia 1: Humanismo cristão
-- Dia 2: Reformas religiosas
-- Dia 3: Observação detalhada da criação
+- Dia 1: Renascimento do Norte
+- Dia 2: Reformas religiosas e cultura
+- Dia 3: Observação da natureza
 
 ## Semana 32 – **Renascimento do Norte: função e cosmovisão**
 
 - Dia 1: Moralidade visual
 - Dia 2: Ensino moral pela arte
-- Dia 3: Representação da vida comum
+- Dia 3: Representação da vida na arte
 
 ## Semana 33 – **Renascimento do Norte: materiais e forma**
 
 - Dia 1: Óleo refinado
-- Dia 2: Gravura
+- Dia 2: Gravura, xilogravura e metal
 - Dia 3: Precisão e luz simbólica
 
 ## Semana 34 – **Renascimento do Norte: artistas**
 
 - Dia 1: Albrecht Dürer
 - Dia 2: Hans Holbein
-- Dia 3: O artista como testemunha da verdade
+- Dia 3: O artista como testemunha
 
 ## Semana 35 – **Renascimento do Norte: legado**
 
@@ -267,9 +267,9 @@ Idolatria ✅
 
 ## Semana 38 – **Encerramento do Volume 2**
 
-- Dia 1: O que aprendemos neste ano
+- Dia 1: Síntese dos grandes marcos artisticos
 - Dia 2: A arte e o cristão reformado
-- Dia 3: Preparação para o próximo ano
+- Dia 3: Introdução ao Renascimento Italiano e Maneirismo
 
 ## Semana 39 – **Revisão Final**
 
