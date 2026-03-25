@@ -70,6 +70,7 @@ Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 - Definição formal do termo em frase curta e clara ao final do parágrafo
 - Primeira frase: NÃO repetir o título
 - Verbos cognitivos obrigatórios: Reconheça, Observe, Entenda, Confirme
+- **REGRA FIXA — Atividade Inicial**: No parágrafo introdutório da Atividade ("Leia a definição e ouça o áudio. Reconheça que..."), **NÃO inclua nenhuma referência bíblica** (ex: ", conforme Isaías 42.8."). Deixe apenas a afirmação teológica / conceito de forma direta (ex: "Reconheça que a glória de Deus não será dada a imagens."). A passagem bíblica será exposta apenas na aba "Reflexão" do Accordion logo a seguir.
 - Vídeo de abertura: `[+VIDEO][-VIDEO]`
 - Accordion com: pergunta, `@link_png@` logo após a pergunta, definição dentro do MP3, definição com negrito, reflexão teológica
 - **REGRA FIXA — Accordion**: A definição dentro do MP3 e a versão com negrito NÃO devem repetir o nome do termo. Usar "É [definição]..." em vez de "Termo é [definição]...". O termo já aparece na pergunta "O que é [Termo]?"
