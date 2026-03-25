@@ -63,12 +63,18 @@ Palavras como **de, da, do, em, no, na, o, a, os, as, e, ou, que, com, por, para
 > Correto: "Império Romano do oriente e arte bizantina"
 > Errado: "Império Romano Do Oriente E Arte Bizantina"
 
-### Regra 5 — Subtítulos após dois pontos
+### Regra 5 — Proibição de dois-pontos em títulos de seção
 
-Após dois pontos, a primeira palavra recomeça com maiúscula **somente se iniciar uma frase nova completa**. Caso contrário, minúscula.
+Títulos de seção (H1, H2, headings de semana) **NÃO devem usar dois-pontos (`:`)** como separador entre tema e subtema. Substitua por **vírgula (`,`)** ou por um **conectivo natural** (`e`, `com`, `sobre`, etc.), conforme o que soar mais fluente.
 
-> Correto: "Definição: a continuação cristã do império romano"
-> Correto: "Atividade: Complete as lacunas"
+| Errado | Correto |
+|---|---|
+| Arte bizantina: o Império e a fé | Arte bizantina, o Império e a fé |
+| Iconoclastia: legado teológico | Iconoclastia e legado teológico |
+
+**Critério:** use **vírgula** para enumeração/especificação; use **conectivo** quando o subtítulo forma par semântico com o tema.
+
+> **Nota:** Dois-pontos permanecem válidos dentro do corpo do texto (ex: "Definição: a continuação cristã...") e em enunciados de atividades (ex: "Atividade: complete as lacunas").
 
 ### Regra 6 — Títulos de seção (H1, H2, headings)
 

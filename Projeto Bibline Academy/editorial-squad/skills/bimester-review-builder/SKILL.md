@@ -108,14 +108,19 @@ Os títulos das semanas no arquivo de revisão bimestral DEVEM seguir o padrão 
 | **Termos descritivos** | Minúscula (arte bizantina, arte gótica, arte islâmica, arte românica) |
 | **Preposições e artigos** | Sempre minúscula no meio do título (de, da, do, e, ou, no, na) |
 
-**Exemplos de aplicação:**
+**IMPORTANTE — Substituição de dois-pontos nos títulos:**
 
-| Macro (pode estar inconsistente) | Título corrigido no arquivo de revisão |
+Os títulos de semana **NÃO devem usar dois-pontos (`:`)** como separador. Substitua por **vírgula (`,`)** ou por um **conectivo natural** (`e`, `com`, `sobre`, etc.), conforme o que soar mais fluente em português.
+
+| Macro (com dois-pontos) | Título corrigido no arquivo de revisão |
 |---|---|
-| Arte Bizantina: o Império e a fé | Arte bizantina: o Império e a fé |
-| Iconoclastia: A Crise Das Imagens | Iconoclastia: a crise das imagens |
-| Arte Islâmica: Contexto E Cosmovisão | Arte islâmica: contexto e cosmovisão |
-| Pré-Renascimento Do Norte: Materiais E Forma | Pré-Renascimento do Norte: materiais e forma |
+| Arte Bizantina: o Império e a fé | Arte bizantina, o Império e a fé |
+| Iconoclastia: A Crise Das Imagens | Iconoclastia, a crise das imagens |
+| Arte Islâmica: Contexto E Cosmovisão | Arte islâmica e cosmovisão |
+| Pré-Renascimento Do Norte: Materiais E Forma | Pré-Renascimento do Norte, materiais e forma |
+| Iconoclastia: Legado Teológico | Iconoclastia e legado teológico |
+
+**Critério de escolha:** use **vírgula** quando o subtítulo é uma enumeração ou especificação; use **conectivo** quando o subtítulo forma um par semântico natural com o tema (ex: "Iconoclastia e legado teológico").
 
 > **Referência obrigatória**: `editorial-squad/skills/capitalizer/SKILL.md` — consulte antes de aplicar os títulos.
 
