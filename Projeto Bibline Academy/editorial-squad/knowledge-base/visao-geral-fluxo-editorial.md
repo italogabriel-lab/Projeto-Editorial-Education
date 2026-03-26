@@ -277,7 +277,18 @@ A organizacao de longo prazo do conteudo vive dentro da pasta de cada ano:
 | `3 - Visao e Plano pedagogico` | Narrativa e progressao pedagogica | Todos os anos |
 | `4 - Links-para-imagens-perceber` | Links de banco de imagens para secao Perceber | Apenas 3o ano |
 | `5 - Prompts-para-imagens-narrar` | Prompts de geracao de imagem para secao Narrar | Apenas 3o ano |
-| `6 - Descricoes para tickets` | Descricoes de tarefas para gestao de projetos | Apenas 3o ano |
+| `6 - Descricoes para tickets` | Descricoes de tarefas para gestao de projetos (em transicao/legado) | Apenas Arte |
+
+### 8.1.1 Arquivos Multi-Disciplinares (Novos Tickets)
+
+A nova estrutura de gestao de operacoes agora suporta as demais disciplinas do Trivium. Os arquivos descritivos estao centralizados em:
+`Belas Artes - Fase da Gramatica/0-Descricoes e criacao de tickets para as disciplinas/`
+
+| Disciplina/Ano | Arquivo de Tickets | Status |
+| :--- | :--- | :--- |
+| **Ciencias (4o Ano)** | `ciencias-4-ano.md` | Ativo |
+| **Geografia (3o Ano)** | `geografia-3-ano.md` | Ativo |
+| **Arte (Todos)** | Em processo de migracao para o padrao centralizado | Em transicao |
 
 ### 8.2 REGRA DE OURO (Fonte de Verdade para Titulos)
 
