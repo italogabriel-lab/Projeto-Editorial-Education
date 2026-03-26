@@ -1,6 +1,11 @@
 let teamChartInstance = null;
 
 const META_POR_DISCIPLINA = 168;
+const NUM_DISCIPLINAS = 7;
+const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
+const NUM_ANOS = 5;
+const META_TOTAL = META_EQUIPE_ANO * NUM_ANOS;
+
 const goalsList = {
     1: { monthName: "Maio", monthNum: 4 },
     2: { monthName: "Março", monthNum: 2 },
@@ -8,6 +13,19 @@ const goalsList = {
     4: { monthName: "Junho", monthNum: 5 },
     5: { monthName: "Julho", monthNum: 6 }
 };
+
+function getProgressColorHex(pct) {
+    if (pct >= 100) return '#34d399';
+    if (pct >= 50) return '#60a5fa';
+    if (pct > 0) return '#fb923c';
+    return '#94a3b8';
+}
+
+function renderProgressBar(pct, width = 20) {
+    const filled = Math.round((pct / 100) * width);
+    const empty = width - filled;
+    return '█'.repeat(Math.max(0, filled)) + '░'.repeat(Math.max(0, empty));
+}
 
 function getDaysRemainingInMonth(targetMonth) {
     const now = new Date();
