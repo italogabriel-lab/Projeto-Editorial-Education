@@ -4,7 +4,7 @@ let subjectChartInstance = null;
 const META_POR_ANO = 168;
 
 function normalizeSubject(name) {
-    if (!name) return 'Outros';
+    if (!name) return null;
     const lower = name.toLowerCase().trim();
     const map = {
         'historia': 'História',
@@ -75,6 +75,7 @@ function renderMetas(items) {
     
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
+        if (!sub) return;
         const y = i.year;
         
         if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0, years: {1:{}, 2:{}, 3:{}, 4:{}, 5:{}}};
