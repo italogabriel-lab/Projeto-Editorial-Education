@@ -32,7 +32,7 @@ function runAnalyzer(items) {
     const done = doneItems.length;
     const inReviewItems = items.filter(i => i.status && i.status.toLowerCase().includes('review'));
     const inReview = inReviewItems.length;
-    const inProgressItems = items.filter(i => i.status === 'In Progress');
+    const inProgressItems = items.filter(i => i.status && !['Done/Published', 'Backlog', 'No Status'].includes(i.status));
     const inProgress = inProgressItems.length;
     
     // Average Lead Time
