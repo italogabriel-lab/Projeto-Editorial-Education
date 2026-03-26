@@ -402,6 +402,14 @@ Os scripts automatizam tarefas de sincronizacao e manutencao que seriam propensa
 3. Executar fix_accordion.py --> normalizar definicoes
 ```
 
+### 9.7 Automacao de Carga e Gestao de Tickets no GitHub (GitHub API)
+
+| Script | Funcao | Escopo |
+| :--- | :--- | :--- |
+| **`update_fast.py`** | Atualiza os titulos e bodys das Issues que estao na coluna `Backlog` do GitHub Projects via GraphQL | Projetos e Issues remotas (Single Source of Truth -> Cloud) |
+| **`check_project_items.py`** | Audita e lista os itens ativos em um ProjectV2 do GitHub | Leitura remota |
+| **`build_year1_tickets.py`** | Constroi a base local estruturada de tickets para carga massiva (Ano 1) | Geracao local |
+
 ---
 
 ## 10. Alternancia de Blocos (Variantes Permitidas)
@@ -543,6 +551,7 @@ RISE BLOCKS REFERENCE (rise-blocks-reference.md)
 | Status geral do projeto | `skills/orchestrator/SKILL.md` | @orchestrator |
 | Sincronizar titulos | `scripts/sync_titles.py` | Executar via terminal |
 | Auditar alinhamento | `scripts/check_matriz.py` | Executar via terminal |
+| Atualizar Tickets Github | `scripts/update_fast.py` | Executar via terminal |
 
 ---
 

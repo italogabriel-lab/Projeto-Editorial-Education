@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision Board | Bibline Academy</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="public/styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="logo-area">
+                <div class="logo-icon">V</div>
+                <h2>Vision Board</h2>
+                <span class="badge">Live Sync</span>
+            </div>
+            
+            <nav class="menu">
+                <a href="#" class="active">
+                    <span class="icon">📊</span> Overview Geral
+                </a>
+                <a href="#">
+                    <span class="icon">🎯</span> Metas (Anos)
+                </a>
+                <a href="#">
+                    <span class="icon">👥</span> Produtividade
+                </a>
+            </nav>
+
+            <div class="sync-status">
+                <p>Última Sincronização:</p>
+                <div id="last-sync-time" class="time-badge">Aguardando...</div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1>Inteligência Operacional</h1>
+                    <p class="subtitle">Monitoramento em tempo real do GitHub Projects</p>
+                </div>
+            </header>
+
+            <!-- KPI Cards -->
+            <section class="kpi-grid">
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon blue">📁</div>
+                    <div class="kpi-data">
+                        <h3>Total de Tarefas</h3>
+                        <p id="kpi-total">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon green">✅</div>
+                    <div class="kpi-data">
+                        <h3>Concluídas (Done)</h3>
+                        <p id="kpi-done">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon purple">⚡</div>
+                    <div class="kpi-data">
+                        <h3>Lead Time Médio</h3>
+                        <p id="kpi-leadtime">0 dias</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon red">⚠️</div>
+                    <div class="kpi-data">
+                        <h3>Em Risco / Atraso</h3>
+                        <p id="kpi-risk">0</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Row -->
+            <section class="charts-row">
+                <div class="chart-container glass-panel">
+                    <h3>Progresso por Ano Escolar</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="yearChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container glass-panel">
+                    <h3>Distribuição por Disciplina</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="subjectChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- AI Engine Row -->
+            <section class="ai-insights-row">
+                <!-- Meta Engine -->
+                <div class="insight-panel glass-panel">
+                    <div class="panel-header">
+                        <span class="icon">🎯</span>
+                        <h3>Motor de Metas</h3>
+                    </div>
+                    <div id="meta-container" class="insight-list">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+                
+                <!-- Gargalo Detector -->
+                <div class="insight-panel glass-panel">
+                    <div class="panel-header">
+                        <span class="icon">🚨</span>
+                        <h3>Detector de Gargalos</h3>
+                    </div>
+                    <div id="gargalo-container" class="insight-list">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="public/app.js"></script>
+</body>
+</html>

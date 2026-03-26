@@ -16,11 +16,11 @@ Atalho para ativar o Orquestrador da Squad e obter direção sobre o projeto.
 1. Ler a skill do orquestrador: `editorial-squad/skills/orchestrator/SKILL.md`
 
 // turbo
-2. Identificar o ano em questão. Se o usuário não especificar, usar o contexto dos arquivos abertos ou perguntar.
+2. Identificar a *Disciplina* e o *Ano* em questão. Se o usuário não especificar, usar o contexto dos arquivos abertos ou perguntar.
 
 // turbo
-3. Ler o **Currículo Macro** do ano correspondente:
-   - Caminho: `[Base do Ano]/Estrutura Curricular - [N]º ANO/1 - Curriculo Macro - *.md`
+3. Ler o **Currículo Macro** da disciplina/ano correspondente:
+   - Caminho: `[Disciplina]/.../Estrutura Curricular - [N]º ANO/1 - Curriculo Macro - *.md`
 
 4. Executar o **Diagnóstico de Progresso** (seção 1 do SKILL.md):
    - Contar semanas ✅ completas

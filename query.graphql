@@ -1,0 +1,11 @@
+query {
+  organization(login: "bibline") {
+    login
+    projectsV2(first: 10) {
+      nodes {
+        id
+        title
+      }
+    }
+  }
+}
