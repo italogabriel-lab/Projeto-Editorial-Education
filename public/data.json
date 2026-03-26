@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T18:45:03.784Z",
-  "total_items": 2444,
+  "last_updated": "2026-03-26T19:01:55.219Z",
+  "total_items": 2445,
   "items": [
     {
       "id": "I_kwDOPFPmMM7b2p_w",
@@ -18891,7 +18891,7 @@
       "id": "I_kwDOPFPmMM7lU3AL",
       "number": 1399,
       "title": "[Matemática] - ANO 2 - 34.2 Menor que",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Decioayres",
       "subject": "Matemática",
@@ -35611,6 +35611,20 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-03-26T18:41:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73JpAi",
+      "number": 2595,
+      "title": "[Português] - Ano 3 - 10. Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-26T18:45:31Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
