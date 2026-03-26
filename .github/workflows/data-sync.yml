@@ -1,0 +1,38 @@
+name: Vision Board Live Sync
+
+on:
+  schedule:
+    # Rodar a cada 5 minutos
+    - cron: '*/5 * * * *'
+  # Permitir rodar manualmente
+  workflow_dispatch:
+
+jobs:
+  sync_kanban_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 🔄 Execute Sync Script (GitHub GraphQL Integration)
+        env:
+          # Injection de múltiplas varíaveis de secret para garantir cobertura
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN_CLASSIC: ${{ secrets.GITHUB_TOKEN_CLASSIC }}
+          GITHUB_TOKEN_FINE: ${{ secrets.GITHUB_TOKEN_FINE }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: node src/sync.js
+
+      - name: 💾 Commit & Push data.json (Real-Time Database)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Vision Board Bot"
+          git add public/data.json
+          git commit -m "chore: atualizacao em tempo real do data.json via Kanban" || echo "Sem mudancas"
+          # Utilizamos o próprio token injetado para forçar o push de volta ao repositório
+          git push

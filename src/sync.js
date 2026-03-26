@@ -192,11 +192,17 @@ async function sync() {
 }
 
 async function startDaemon() {
-    console.log("Iniciando Daemon do Vision Board (Sync a cada 60s)...");
-    await sync(); // run immediately
-    setInterval(() => {
-        sync().catch(e => console.error("Erro no sync em background:", e));
-    }, 60000);
+    if (process.env.CI) {
+        console.log("Running in CI mode. Single execution.");
+        await sync();
+        process.exit(0);
+    } else {
+        console.log("Iniciando Daemon do Vision Board (Sync a cada 60s)...");
+        await sync(); // run immediately
+        setInterval(() => {
+            sync().catch(e => console.error("Erro no sync em background:", e));
+        }, 60000);
+    }
 }
 
 startDaemon().catch(console.error);
