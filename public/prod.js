@@ -28,7 +28,7 @@ function renderProdutividade(items) {
         if (!assignees[user]) assignees[user] = { t: 0, d: 0, wip: 0, leadTimeSum: 0, leadTimeCount: 0 };
         
         assignees[user].t++;
-        if (i.status === 'Done') {
+        if (i.status === 'Done/Published') {
             assignees[user].d++;
             if (i.lead_time_days !== null && i.lead_time_days > 0) {
                 assignees[user].leadTimeSum += i.lead_time_days;

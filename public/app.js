@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 function runAnalyzer(items) {
     const total = items.length;
-    const doneItems = items.filter(i => i.status === 'Done');
+    const doneItems = items.filter(i => i.status === 'Done/Published');
     const done = doneItems.length;
     
     // Average Lead Time
@@ -64,7 +64,7 @@ function runProgressEngine(items) {
         const y = i.year;
         if (yearStats[y]) {
             yearStats[y].total++;
-            if (i.status === 'Done') yearStats[y].done++;
+            if (i.status === 'Done/Published') yearStats[y].done++;
         }
     });
     
@@ -170,7 +170,7 @@ function runGargaloDetector(items) {
         const user = i.assignee || 'Unassigned';
         if (!assignees[user]) assignees[user] = { total: 0, done: 0 };
         assignees[user].total++;
-        if (i.status === 'Done') assignees[user].done++;
+        if (i.status === 'Done/Published') assignees[user].done++;
     });
     
     let gargaloHTML = '';
