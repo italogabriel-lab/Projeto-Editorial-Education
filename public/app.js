@@ -148,31 +148,61 @@ function runProgressEngine(items) {
     });
 }
 
+const META_POR_ANO = 168;
+
 function runGargaloDetector(items) {
-    const assignees = {};
     const subjects = {};
+    const assignees = {};
+    
+    const ACTIVE_STATUSES = ['Backlog', 'In Progress'];
+    const DONE_STATUS = 'Done/Published';
+    const EXCLUDED_STATUSES = ['In Review', 'Video', 'Block', 'No Status'];
     
     items.forEach(i => {
-        // Subjects mapping
-        const sub = i.subject || 'Outros';
-        if (!subjects[sub]) subjects[sub] = 0;
-        subjects[sub]++;
+        const sub = i.subject || null;
+        if (sub) {
+            if (!subjects[sub]) subjects[sub] = 0;
+            subjects[sub]++;
+        }
         
-        // Assignees mapping
         const user = i.assignee || 'Unassigned';
-        if (!assignees[user]) assignees[user] = { total: 0, done: 0 };
-        assignees[user].total++;
-        if (i.status === 'Done/Published') assignees[user].done++;
+        if (!assignees[user]) {
+            assignees[user] = { 
+                pending: 0, 
+                done: 0, 
+                years: { 1: {p:0, d:0}, 2: {p:0, d:0}, 3: {p:0, d:0}, 4: {p:0, d:0}, 5: {p:0, d:0} },
+                subjects: {}
+            };
+        }
+        
+        const status = i.status;
+        const year = i.year;
+        
+        if (ACTIVE_STATUSES.includes(status)) {
+            assignees[user].pending++;
+            if (year && assignees[user].years[year]) {
+                assignees[user].years[year].p++;
+            }
+        } else if (status === DONE_STATUS) {
+            assignees[user].done++;
+            if (year && assignees[user].years[year]) {
+                assignees[user].years[year].d++;
+            }
+        }
+        
+        if (sub && (ACTIVE_STATUSES.includes(status) || status === DONE_STATUS)) {
+            if (!assignees[user].subjects[sub]) assignees[user].subjects[sub] = 0;
+            assignees[user].subjects[sub]++;
+        }
     });
     
     let gargaloHTML = '';
     
-    // Find unassigned tasks
-    if (assignees['Unassigned']) {
+    if (assignees['Unassigned'] && assignees['Unassigned'].pending > 0) {
         gargaloHTML += `
             <div class="insight-item warning">
                 <div class="insight-item-title">Tickets Órfãos</div>
-                <div class="insight-item-desc">Existem ${assignees['Unassigned'].total} tarefas sem nenhum usuário atribuído. Elas podem ser esquecidas na fila.</div>
+                <div class="insight-item-desc">Existem ${assignees['Unassigned'].pending} tarefas pendentes sem nenhum usuário atribuído.</div>
             </div>
         `;
     }
@@ -180,19 +210,39 @@ function runGargaloDetector(items) {
     Object.keys(assignees).forEach(u => {
         if (u === 'Unassigned') return;
         const o = assignees[u];
-        const pct = Math.round((o.done / o.total) * 100) || 0;
-        if (pct < 10 && o.total > 5) {
+        if (o.pending === 0 && o.done === 0) return;
+        
+        const totalAssigned = o.pending + o.done;
+        const totalMeta = META_POR_ANO * 5;
+        const pct = Math.round((o.done / totalMeta) * 100) || 0;
+        
+        let yearDetails = '';
+        [1,2,3,4,5].forEach(yr => {
+            const yrData = o.years[yr];
+            if (yrData.p === 0 && yrData.d === 0) return;
+            const yrPct = Math.round((yrData.d / META_POR_ANO) * 100) || 0;
+            yearDetails += `<div style="margin-top:4px; font-size:0.8rem;"><span style="color:#94a3b8;">Ano ${yr}:</span> ${yrData.d}/${META_POR_ANO} (${yrPct}%)</div>`;
+        });
+        
+        if (pct < 20) {
             gargaloHTML += `
                 <div class="insight-item danger">
-                    <div class="insight-item-title">Alerta Usuário: @${u}</div>
-                    <div class="insight-item-desc">Baixa produtividade ou alta carga de trabalho: apenas ${pct}% de conclusão (${o.done}/${o.total}). Risco de gargalo operacional localizado.</div>
+                    <div class="insight-item-title">⚠️ @${u} - Baixa Performance</div>
+                    <div class="insight-item-desc">
+                        <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
+                        <span style="color:#fb923c;">Pendente: ${o.pending}</span> | Concluído: ${o.done}<br>
+                        ${yearDetails}
+                    </div>
                 </div>
             `;
-        } else if (pct > 90) {
+        } else if (pct >= 50) {
             gargaloHTML += `
                 <div class="insight-item success">
-                    <div class="insight-item-title">Alta Perfomance: @${u}</div>
-                    <div class="insight-item-desc">Ritmo excelente com ${pct}% de conclusão na sua fila.</div>
+                    <div class="insight-item-title">✅ @${u} - Boa Performance</div>
+                    <div class="insight-item-desc">
+                        <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
+                        ${yearDetails}
+                    </div>
                 </div>
             `;
         }
@@ -200,8 +250,7 @@ function runGargaloDetector(items) {
     
     document.getElementById('gargalo-container').innerHTML = gargaloHTML || '<div class="insight-item">Nenhum gargalo de performance detectado no grupo ativo.</div>';
     
-    // Draw subject chart
-    const subLabels = Object.keys(subjects).slice(0, 5); // top 5
+    const subLabels = Object.keys(subjects).slice(0, 5);
     const subData = subLabels.map(l => subjects[l]);
     
     const ctx = document.getElementById('subjectChart').getContext('2d');
@@ -212,19 +261,14 @@ function runGargaloDetector(items) {
             labels: subLabels,
             datasets: [{
                 data: subData,
-                backgroundColor: [
-                    '#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'
-                ],
+                backgroundColor: ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'],
                 borderWidth: 0
             }]
         },
         options: {
             responsive: true,
             maintainAspectRatio: false,
-            plugins: {
-                legend: { position: 'right', labels: { color: '#cbd5e1' } }
-            }
+            plugins: { legend: { position: 'right', labels: { color: '#cbd5e1' } } }
         }
     });
-
 }
