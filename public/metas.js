@@ -14,8 +14,8 @@ function normalizeSubject(name) {
         'ciencias': 'Ciências',
         'geogrfia': 'Geografia',
         'matemática': 'Matemática',
-        'portugues': 'Português',
-        'português': 'Português'
+        'portugues': 'Linguagem',
+        'português': 'Linguagem'
     };
     return map[lower] || name;
 }
