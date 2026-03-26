@@ -32,6 +32,8 @@ function runAnalyzer(items) {
     const done = doneItems.length;
     const inReviewItems = items.filter(i => i.status && i.status.toLowerCase().includes('review'));
     const inReview = inReviewItems.length;
+    const inProgressItems = items.filter(i => i.status === 'In Progress');
+    const inProgress = inProgressItems.length;
     
     // Average Lead Time
     let totalLeadTime = 0;
@@ -47,6 +49,7 @@ function runAnalyzer(items) {
     
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
+    document.getElementById('kpi-in-progress').textContent = inProgress;
     document.getElementById('kpi-review').textContent = inReview;
     document.getElementById('kpi-leadtime').textContent = `${avgLeadTime} dias`;
 }
