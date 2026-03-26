@@ -207,8 +207,8 @@ body {
 .kpi-icon.green { color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
 .kpi-icon.purple { color: #a78bfa; border: 1px solid rgba(139, 92, 246, 0.3); }
 .kpi-icon.red { color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3); }
-
-.kpi-data h3 {
+.kpi-icon.gray { color: #94a3b8; border: 1px solid rgba(148, 163, 184, 0.3); }
+.kpi-icon.orange { color: #fb923c; border: 1px solid rgba(251, 146, 60, 0.3); }
     font-size: 0.85rem;
     color: var(--text-muted);
     font-weight: 500;
