@@ -6,10 +6,11 @@ const META_POR_ANO = 168;
 function normalizeSubject(name) {
     if (!name) return null;
     const lower = name.toLowerCase().trim();
+    if (lower === 'outros') return null;
+    
     const map = {
         'historia': 'História',
         'história': 'História',
-        'hi stória': 'História',
         'ciência': 'Ciências',
         'ciencias': 'Ciências',
         'geogrfia': 'Geografia',
@@ -72,6 +73,9 @@ function renderMetas(items) {
     
     const yearStats = { 1: {t:0, d:0}, 2: {t:0, d:0}, 3: {t:0, d:0}, 4: {t:0, d:0}, 5: {t:0, d:0} };
     const subjectStats = {};
+    const META_POR_DISCIPLINA = 168;
+    const NUM_DISCIPLINAS = 7;
+    const META_POR_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
     
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
@@ -198,10 +202,6 @@ function renderMetas(items) {
     });
 
     // --- 4. Timeline do Currículo ---
-    const META_POR_DISCIPLINA = 168;
-    const NUM_DISCIPLINAS = 7;
-    const META_POR_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
-    
     let timelineHTML = '';
     const renderOrder = [2, 3, 1, 4, 5]; 
     renderOrder.forEach(y => {
@@ -213,8 +213,8 @@ function renderMetas(items) {
             <div class="insight-item">
                 <div class="insight-item-title">${icon} ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
                 <div class="insight-item-desc">
-                    <strong>${pct}%</strong> da meta da equipe.<br>
-                    Produzido: ${st.d}/${META_POR_ANO} aulas | Faltando: ${META_POR_ANO - st.d}
+                    <strong>${pct}%</strong> da meta da equipe (1176 aulas).<br>
+                    Produzido: ${st.d}/${META_POR_ANO} | Faltando: ${META_POR_ANO - st.d}
                 </div>
             </div>
         `;
