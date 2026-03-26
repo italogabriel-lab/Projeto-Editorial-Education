@@ -1,0 +1,3766 @@
+{
+  "data": {
+    "node": {
+      "items": {
+        "nodes": [
+          {
+            "content": {
+              "title": "[Matemática] - Ano 2 - 4.1 Antecessor e sucessor"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Backlog",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Matemática] - Ano 2 - 4.1 Antecessor e sucessor",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/25",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Matemática] - Ano 2 - 1.2 (Número e origem)"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Matemática] - Ano 2 - 1.2 (Número e origem)",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "1411/25",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 -  1.1 Geografia"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 -  1.1 Geografia",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 1.2 A ordem e a beleza de Deus na criação"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 1.2 A ordem e a beleza de Deus na criação",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Belas artes] - Ano 2 - 1.1 A arte vem de Deus"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Belas artes] - Ano 2 - 1.1 A arte vem de Deus",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Belas artes] - Ano 2 - 1.2 A criação é bela"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Belas artes] - Ano 2 - 1.2 A criação é bela",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Belas artes] - Ano 2 - 1.3 Feitos à imagem do criador"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Belas artes] - Ano 2 - 1.3 Feitos à imagem do criador",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "14/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 1.3 As formas da Terra"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 1.3 As formas da Terra",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 1.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 1.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 1.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 1.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 2.1 Montanha"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 2.1 Montanha",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 2.2 Vale"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 2.2 Vale",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 2.3 Planície"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 2.3 Planície",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 2.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 2.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 2.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 2.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciência] - Ano 2 - 1.1 Como a luz revela a criação"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciência] - Ano 2 - 1.1 Como a luz revela a criação",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciência] - Ano 2 - 1.2 Onde a luz nasce"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciência] - Ano 2 - 1.2 Onde a luz nasce",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciência] - Ano 2 - 1.3 Fonte de luz"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciência] - Ano 2 - 1.3 Fonte de luz",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Historia] - Ano 2 - 1.1 As estradas romanas e o caminho do evangelho"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Historia] - Ano 2 - 1.1 As estradas romanas e o caminho do evangelho",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 1.2 A igreja primitiva e a vida cotidiana"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 1.2 A igreja primitiva e a vida cotidiana",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História]- Ano 2 - 1.3 Paulo antes de seguir a Jesus"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História]- Ano 2 - 1.3 Paulo antes de seguir a Jesus",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Matemática] - Ano 2 - 1.1 Números na essência"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Matemática] - Ano 2 - 1.1 Números na essência",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "13/11/25",
+                  "field": {
+                    "name": "Data início"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 1.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 1.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 1.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 1.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 1.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 1.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 1.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 1.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 2.1 A conversão de Paulo"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 2.1 A conversão de Paulo",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 2.2 As viagens missionárias de Paulo"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 2.2 As viagens missionárias de Paulo",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História] - Ano 2 - 2.3 As cartas de Paulo para igrejas distantes"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História] - Ano 2 - 2.3 As cartas de Paulo para igrejas distantes",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 2.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 2.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 2.1 A reflexão da luz"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 2.1 A reflexão da luz",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[História] - Ano 2 - 2.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[História] - Ano 2 - 2.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 3.1 A prisão de Paulo em Roma "
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 3.1 A prisão de Paulo em Roma ",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História] - Ano 2- 3.2 As cartas da prisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História] - Ano 2- 3.2 As cartas da prisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 3.1 Planalto"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 3.1 Planalto",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Linguagem] - Ano 3 - 1.1 (Sons Nasais)"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Linguagem] - Ano 3 - 1.1 (Sons Nasais)",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 2.2 A refração da luz"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 2.2 A refração da luz",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 3.3  As pregações da prisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 3.3  As pregações da prisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 3.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 3.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 3.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 3.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 4.1 Nero, o imperador que odiava a verdade"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 4.1 Nero, o imperador que odiava a verdade",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 3.2 Deserto"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 3.2 Deserto",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 4.2 O incêndio de Roma"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 4.2 O incêndio de Roma",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências] - Ano 1 - 1.1 A Ciência"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências] - Ano 1 - 1.1 A Ciência",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 4.3 Cristãos perseguidos por Nero"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 4.3 Cristãos perseguidos por Nero",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 2.3 As cores da luz"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 2.3 As cores da luz",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 4.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 4.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "Exemplo"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "Exemplo",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Backlog",
+                  "field": {
+                    "name": "Status"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 4.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 4.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 3.3 Floresta"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 3.3 Floresta",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 5.1 O Coliseu de Roma"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 5.1 O Coliseu de Roma",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 5.2  O pão e o circo no Império Romano"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 5.2  O pão e o circo no Império Romano",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 5.3 Mártires que cantavam nas arenas "
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 5.3 Mártires que cantavam nas arenas ",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 5.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 5.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/225",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 3.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 3.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 2.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 2.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 3.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 3.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "11/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 6.1 As catacumbas e sua utilização"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 6.1 As catacumbas e sua utilização",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 2.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 2.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "25/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 6.2 Símbolos cristãos nas catacumbas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 6.2 Símbolos cristãos nas catacumbas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 6.3 A carta de Plínio a Trajano"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 6.3 A carta de Plínio a Trajano",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 4.1 Rio"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 4.1 Rio",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 6.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 6.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 6.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 6.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 7.1 O imperador Constantino"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 7.1 O imperador Constantino",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 7.2 A conversão de Constantino"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 7.2 A conversão de Constantino",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 7.3 O Édito de Milão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 7.3 O Édito de Milão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 4.2 Lago"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 4.2 Lago",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 7.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 7.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 7.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 7.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "03/12/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 8.1 O Concílio de Niceia"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 8.1 O Concílio de Niceia",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 4.3 Oceano"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 4.3 Oceano",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 8.2 O Credo Niceno"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 8.2 O Credo Niceno",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 8.3 A defesa da igreja contra o arianismo"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 8.3 A defesa da igreja contra o arianismo",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 8.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 8.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 8.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 8.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 9 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 9 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "In Review",
+                  "field": {
+                    "name": "Status"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 10 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 10 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/23/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Linguagem] - Ano 2 - 1.1 Ditongo "
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Linguagem] - Ano 2 - 1.1 Ditongo ",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "13/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 3.1 O arco de Deus e as cores da criação"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 3.1 O arco de Deus e as cores da criação",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "14/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 3.2 Iluminação e contraste"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 3.2 Iluminação e contraste",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "14/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 11.1 A queda do Império Romano do Ocidente"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 11.1 A queda do Império Romano do Ocidente",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 11.2 Cidades em ruínas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 11.2 Cidades em ruínas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Belas artes] - Ano 2 - 1.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Belas artes] - Ano 2 - 1.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "17/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 11.3 Caos e desordem após a queda de Roma"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 11.3 Caos e desordem após a queda de Roma",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 4.4 Revisão "
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 4.4 Revisão ",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 -  11.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 -  11.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 11.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 11.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 12.1 Átila, o líder dos hunos"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 12.1 Átila, o líder dos hunos",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 12.2  O saque de Roma"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 12.2  O saque de Roma",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Belas artes] - Ano 2 - 1.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Belas artes] - Ano 2 - 1.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "17/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ Linguagem] - Ano 2 - 1.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ Linguagem] - Ano 2 - 1.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Backlog",
+                  "field": {
+                    "name": "Status"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - ANo 2 - 12.3  Os vândalos e seus navios"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - ANo 2 - 12.3  Os vândalos e seus navios",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 4.5 Prova"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 4.5 Prova",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 3.3 A Luz e a Visão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 3.3 A Luz e a Visão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "14/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 12.5 Provas"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 12.5 Provas",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Matemática] - Ano 2 - 1.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Matemática] - Ano 2 - 1.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/25",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Geografia] - Ano 2 - 5.1 Vista da Terra pelo satélite"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldLabelValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Geografia] - Ano 2 - 5.1 Vista da Terra pelo satélite",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "12/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[Ciências]- Ano 2 - 3.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[Ciências]- Ano 2 - 3.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "17/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "content": {
+              "title": "[ História ] - Ano 2 - 12.4 Revisão"
+            },
+            "fieldValues": {
+              "nodes": [
+                {
+                  "__typename": "ProjectV2ItemFieldUserValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldRepositoryValue"
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldSingleSelectValue",
+                  "name": "Done/Published",
+                  "field": {
+                    "name": "Status"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "[ História ] - Ano 2 - 12.4 Revisão",
+                  "field": {
+                    "name": "Title"
+                  }
+                },
+                {
+                  "__typename": "ProjectV2ItemFieldTextValue",
+                  "text": "23/11/2025",
+                  "field": {
+                    "name": "Data início"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

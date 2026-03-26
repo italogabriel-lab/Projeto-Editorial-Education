@@ -132,6 +132,12 @@ async function sync() {
                 assignee = content.assignees.nodes[0].login;
             }
             
+            // Extract Labels
+            let labels = [];
+            if (content.labels && content.labels.nodes) {
+                labels = content.labels.nodes.map(n => n.name);
+            }
+            
             // Parse Subject and Year from title: "[Ciência] - Ano 4 - 8.1..."
             let subject = "Outros";
             let year = 0;
@@ -164,7 +170,8 @@ async function sync() {
                 year: year,
                 created_at: content.createdAt,
                 closed_at: content.closedAt,
-                lead_time_days: lead_time_days
+                lead_time_days: lead_time_days,
+                labels: labels
             });
         }
         

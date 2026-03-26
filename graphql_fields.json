@@ -1,0 +1,74 @@
+{
+  "data": {
+    "node": {
+      "fields": {
+        "nodes": [
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Title"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Assignees"
+          },
+          {
+            "__typename": "ProjectV2SingleSelectField",
+            "name": "Status",
+            "options": [
+              {
+                "name": "Backlog"
+              },
+              {
+                "name": "In Progress"
+              },
+              {
+                "name": "In Review"
+              },
+              {
+                "name": "Video"
+              },
+              {
+                "name": "Block"
+              },
+              {
+                "name": "Done/Published"
+              }
+            ]
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Labels"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Linked pull requests"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Milestone"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Repository"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Reviewers"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Parent issue"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Sub-issues progress"
+          },
+          {
+            "__typename": "ProjectV2Field",
+            "name": "Data início"
+          }
+        ]
+      }
+    }
+  }
+}
