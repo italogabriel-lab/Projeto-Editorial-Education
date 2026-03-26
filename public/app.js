@@ -35,23 +35,10 @@ function runAnalyzer(items) {
     const inProgressItems = items.filter(i => i.status && !['Done/Published', 'Backlog', 'No Status'].includes(i.status));
     const inProgress = inProgressItems.length;
     
-    // Average Lead Time
-    let totalLeadTime = 0;
-    let countLeadTime = 0;
-    doneItems.forEach(i => {
-        if (i.lead_time_days !== null) {
-            totalLeadTime += i.lead_time_days;
-            countLeadTime++;
-        }
-    });
-    
-    const avgLeadTime = countLeadTime > 0 ? (totalLeadTime / countLeadTime).toFixed(1) : 0;
-    
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
     document.getElementById('kpi-in-progress').textContent = inProgress;
     document.getElementById('kpi-review').textContent = inReview;
-    document.getElementById('kpi-leadtime').textContent = `${avgLeadTime} dias`;
 }
 
 function runProgressEngine(items) {
@@ -126,7 +113,6 @@ function runProgressEngine(items) {
     });
     
     document.getElementById('meta-container').innerHTML = metaHTML || '<div class="insight-item">Sem dados o suficiente.</div>';
-    document.getElementById('kpi-risk').textContent = riskCount;
     
     // Render Chart
     const ctx = document.getElementById('yearChart').getContext('2d');
