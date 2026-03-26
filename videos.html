@@ -6,12 +6,10 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <title>Vision Board | Bibline Academy</title>
-    <!-- Google Fonts -->
+    <title>Videos Pipeline | Bibline Academy</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="public/styles.css?v=3">
+    <link rel="stylesheet" href="public/styles.css?v=4">
 </head>
 <body>
     <div class="dashboard-container">
@@ -24,7 +22,7 @@
             </div>
             
             <nav class="menu">
-                <a href="index.html" class="active">
+                <a href="index.html">
                     <span class="icon">📊</span> Overview Geral
                 </a>
                 <a href="metas.html">
@@ -33,7 +31,7 @@
                 <a href="prod.html">
                     <span class="icon">👥</span> Produtividade
                 </a>
-                <a href="videos.html">
+                <a href="videos.html" class="active">
                     <span class="icon">🎬</span> Videos Pipeline
                 </a>
             </nav>
@@ -48,39 +46,39 @@
         <main class="main-content">
             <header class="top-header">
                 <div>
-                    <h1>Inteligência Operacional</h1>
-                    <p class="subtitle">Monitoramento em tempo real do GitHub Projects</p>
+                    <h1>Pipeline de Videos</h1>
+                    <p class="subtitle">Monitoramento em tempo real da produção de videos por fase, disciplina e responsável</p>
                 </div>
             </header>
 
             <!-- KPI Cards -->
             <section class="kpi-grid">
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon blue">📁</div>
+                    <div class="kpi-icon purple">🎬</div>
                     <div class="kpi-data">
-                        <h3>Total de Tarefas</h3>
+                        <h3>Total de Videos</h3>
                         <p id="kpi-total">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
                     <div class="kpi-icon green">✅</div>
                     <div class="kpi-data">
-                        <h3>Concluídas (Done)</h3>
-                        <p id="kpi-done">0</p>
+                        <h3>Concluídos (Em Revisão)</h3>
+                        <p id="kpi-review">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon purple">⚡</div>
+                    <div class="kpi-icon blue">⚡</div>
                     <div class="kpi-data">
-                        <h3>Lead Time Médio</h3>
-                        <p id="kpi-leadtime">0 dias</p>
+                        <h3>Em Produção</h3>
+                        <p id="kpi-producing">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon red">⚠️</div>
+                    <div class="kpi-icon red">⛔</div>
                     <div class="kpi-data">
-                        <h3>Em Risco / Atraso</h3>
-                        <p id="kpi-risk">0</p>
+                        <h3>Bloqueados</h3>
+                        <p id="kpi-blocked">0</p>
                     </div>
                 </div>
             </section>
@@ -88,15 +86,28 @@
             <!-- Charts Row -->
             <section class="charts-row">
                 <div class="chart-container glass-panel">
-                    <h3>Progresso por Ano Escolar</h3>
+                    <h3>Videos por Ano Escolar</h3>
                     <div class="chart-wrapper">
-                        <canvas id="yearChart"></canvas>
+                        <canvas id="videosYearChart"></canvas>
                     </div>
                 </div>
                 <div class="chart-container glass-panel">
-                    <h3>Distribuição por Disciplina</h3>
+                    <h3>Videos por Disciplina</h3>
                     <div class="chart-wrapper">
-                        <canvas id="subjectChart"></canvas>
+                        <canvas id="videosSubjectChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Responsáveis Grid -->
+            <section class="assignee-section">
+                <div class="glass-panel" style="padding: 1.5rem;">
+                    <div class="panel-header">
+                        <span class="icon">👥</span>
+                        <h3>Por Responsável</h3>
+                    </div>
+                    <div id="assignee-grid" class="assignee-grid">
+                        <!-- Populated by JS -->
                     </div>
                 </div>
             </section>
@@ -107,7 +118,7 @@
                 <div class="insight-panel glass-panel">
                     <div class="panel-header">
                         <span class="icon">🎯</span>
-                        <h3>Motor de Metas</h3>
+                        <h3>Motor de Metas (Videos)</h3>
                     </div>
                     <div id="meta-container" class="insight-list">
                         <!-- Populated by JS -->
@@ -128,6 +139,6 @@
         </main>
     </div>
 
-    <script src="public/app.js?v=3"></script>
+    <script src="public/videos.js?v=2"></script>
 </body>
 </html>
