@@ -76,8 +76,9 @@ function renderMetas(items) {
     const yearStats = { 1: {t:0, d:0}, 2: {t:0, d:0}, 3: {t:0, d:0}, 4: {t:0, d:0}, 5: {t:0, d:0} };
     const subjectStats = {};
     const META_POR_DISCIPLINA = 168;
-    const META_POR_ANO_EQUIPE = 840;
-    const META_TOTAL = META_POR_ANO_EQUIPE * 5;
+    const NUM_DISCIPLINAS = 7;
+    const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
+    const META_TOTAL = META_EQUIPE_ANO * 5;
     
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
@@ -161,7 +162,7 @@ function renderMetas(items) {
     [1,2,3,4,5].forEach(y => {
         yLabels.push(`${y}º Ano (${goalsList[y].monthName})`);
         yDone.push(yearStats[y].d);
-        yPend.push(META_POR_ANO_EQUIPE - yearStats[y].d);
+        yPend.push(META_EQUIPE_ANO - yearStats[y].d);
     });
 
     const ctxY = document.getElementById('metasYearChart').getContext('2d');
@@ -206,14 +207,14 @@ function renderMetas(items) {
     const renderOrder = [2, 3, 1, 4, 5]; 
     renderOrder.forEach(y => {
         const st = yearStats[y];
-        const pct = Math.round((st.d / META_POR_ANO_EQUIPE) * 100);
+        const pct = Math.round((st.d / META_EQUIPE_ANO) * 100);
         let icon = pct === 100 ? '✅' : (pct >= 50 ? '📗' : '⏳');
         timelineHTML += `
             <div class="insight-item">
                 <div class="insight-item-title">${icon} ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
                 <div class="insight-item-desc">
-                    <strong>${pct}%</strong> da meta da equipe (840 aulas).<br>
-                    Produzido: ${st.d}/${META_POR_ANO_EQUIPE} | Faltando: ${META_POR_ANO_EQUIPE - st.d}
+                    <strong>${pct}%</strong> da meta da equipe (1176 aulas).<br>
+                    Produzido: ${st.d}/${META_EQUIPE_ANO} | Faltando: ${META_EQUIPE_ANO - st.d}
                 </div>
             </div>
         `;
