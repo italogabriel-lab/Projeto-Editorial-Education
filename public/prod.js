@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function renderProdutividade(items) {
     const userStats = {};
+    const META_POR_DISCIPLINA = 168;
     
     items.forEach(i => {
         const user = i.assignee || 'Unassigned';
@@ -75,9 +76,7 @@ function renderProdutividade(items) {
         if (!userStats[user]) {
             userStats[user] = {
                 subjects: {},
-                years: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 },
-                done: 0,
-                pending: 0
+                years: { 1: {done: 0, pending: 0}, 2: {done: 0, pending: 0}, 3: {done: 0, pending: 0}, 4: {done: 0, pending: 0}, 5: {done: 0, pending: 0} }
             };
         }
         
@@ -86,14 +85,12 @@ function renderProdutividade(items) {
             userStats[user].subjects[sub]++;
         }
         
-        if (year) {
-            userStats[user].years[year]++;
-        }
-        
-        if (status === 'Done/Published') {
-            userStats[user].done++;
-        } else if (status === 'Backlog' || status === 'In Progress') {
-            userStats[user].pending++;
+        if (year && userStats[user].years[year]) {
+            if (status === 'Done/Published') {
+                userStats[user].years[year].done++;
+            } else if (status === 'Backlog' || status === 'In Progress') {
+                userStats[user].years[year].pending++;
+            }
         }
     });
     
@@ -102,121 +99,108 @@ function renderProdutividade(items) {
     let rankingHTML = '';
     userKeys.forEach(u => {
         const o = userStats[u];
-        
-        const disciplinesCount = Object.keys(o.subjects).length;
-        const metaTarget = META_POR_DISCIPLINA;
-        const done = o.done;
-        const pending = o.pending;
-        const remaining = metaTarget - done;
-        
         const now = new Date();
         const currentMonth = now.getMonth() + 1;
-        const monthNames = ['', 'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
         
-        let targetMonth = null;
-        let targetMonthName = '';
+        let totalDoneAllYears = 0;
+        let totalPendingAllYears = 0;
         
-        Object.keys(goalsList).forEach(yr => {
-            const gm = goalsList[yr];
-            if (gm.monthNum >= currentMonth) {
-                if (!targetMonth || gm.monthNum < targetMonth) {
-                    targetMonth = gm.monthNum;
-                    targetMonthName = gm.monthName;
-                }
+        let yearsHTML = '';
+        [1,2,3,4,5].forEach(yr => {
+            const yrData = o.years[yr];
+            const done = yrData.done;
+            const pending = yrData.pending;
+            const remaining = META_POR_DISCIPLINA - done;
+            
+            totalDoneAllYears += done;
+            totalPendingAllYears += pending;
+            
+            const targetMonth = goalsList[yr].monthNum;
+            const targetMonthName = goalsList[yr].monthName;
+            
+            let targetYear = now.getFullYear();
+            if (targetMonth < currentMonth) {
+                targetYear = now.getFullYear() + 1;
             }
+            
+            const lastDayOfMonth = new Date(targetYear, targetMonth, 0).getDate();
+            const daysRemaining = lastDayOfMonth - now.getDate();
+            const velocityNeeded = daysRemaining > 0 ? Math.ceil(remaining / daysRemaining) : remaining;
+            
+            const pct = Math.round((done / META_POR_DISCIPLINA) * 100);
+            
+            let yrStatusColor = '#94a3b8';
+            if (pct >= 100) yrStatusColor = '#10b981';
+            else if (pct >= 50) yrStatusColor = '#3b82f6';
+            else if (pct > 0) yrStatusColor = '#fb923c';
+            else yrStatusColor = '#ef4444';
+            
+            const progressBar = '█'.repeat(Math.min(pct, 100) / 5) + '░'.repeat(20 - Math.min(pct, 100) / 5);
+            
+            yearsHTML += `
+                <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid ${yrStatusColor};">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                        <span style="font-weight: 600; font-size: 0.9rem;">Ano ${yr} (${targetMonthName})</span>
+                        <span style="font-weight: 700; color: ${yrStatusColor};">${pct}%</span>
+                    </div>
+                    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; font-size: 0.75rem; margin-bottom: 6px;">
+                        <div><span style="color: #94a3b8;">Feito:</span> <span style="color: #10b981; font-weight: 600;">${done}</span></div>
+                        <div><span style="color: #94a3b8;">Faltam:</span> <span style="color: #fb923c; font-weight: 600;">${remaining}</span></div>
+                        <div><span style="color: #94a3b8;">Dias:</span> <span style="font-weight: 600;">${daysRemaining}</span></div>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.7rem; margin-bottom: 4px;">
+                        <span style="color: #94a3b8;">${progressBar}</span>
+                        <span style="font-weight: 700; color: ${yrStatusColor};">⚡ ${velocityNeeded}/dia</span>
+                    </div>
+                </div>
+            `;
         });
         
-        if (!targetMonth) {
-            targetMonth = 12;
-            targetMonthName = 'Dezembro';
-        }
+        const totalMeta = META_POR_DISCIPLINA * 5;
+        const totalPct = Math.round((totalDoneAllYears / totalMeta) * 100);
         
-        const daysRemaining = getDaysRemainingInMonth(targetMonth);
-        const velocityNeeded = daysRemaining > 0 ? Math.ceil(remaining / daysRemaining) : remaining;
+        let totalStatusColor = '#f59e0b';
+        if (totalPct >= 100) totalStatusColor = '#10b981';
+        else if (totalPct >= 50) totalStatusColor = '#3b82f6';
+        else if (totalPct > 0) totalStatusColor = '#fb923c';
+        else totalStatusColor = '#ef4444';
         
-        const pct = Math.round((done / metaTarget) * 100);
-        
-        let statusClass = 'warning';
-        let statusMsg = 'Atenção';
-        let velocityColor = '#f59e0b';
-        
-        if (pct >= 100) {
-            statusClass = 'success';
-            statusMsg = 'Meta Alcançada! 🎉';
-            velocityColor = '#10b981';
-        } else if (pct >= 50) {
-            statusClass = 'warning';
-            statusMsg = 'No caminho';
-            velocityColor = '#3b82f6';
-        } else if (pct < 20) {
-            statusClass = 'danger';
-            statusMsg = 'Precisa acelerar!';
-            velocityColor = '#ef4444';
-        }
-        
-        const progressBar = '█'.repeat(Math.min(pct, 100) / 5) + '░'.repeat(20 - Math.min(pct, 100) / 5);
+        const totalProgressBar = '█'.repeat(Math.min(totalPct, 100) / 5) + '░'.repeat(20 - Math.min(totalPct, 100) / 5);
         
         rankingHTML += `
-            <div class="insight-item ${statusClass}" style="margin: 0;">
+            <div class="insight-item" style="margin: 0; border-left: 3px solid ${totalStatusColor};">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                     <div class="insight-item-title" style="font-size: 1.1rem;">@${u}</div>
                     <div style="text-align: right;">
-                        <strong style="font-size: 1.4rem; color: ${velocityColor};">${pct}%</strong>
-                        <div style="font-size: 0.75rem; opacity: 0.7;">${statusMsg}</div>
-                    </div>
-                </div>
-                
-                <div style="background: rgba(255,255,255,0.05); padding: 12px; border-radius: 8px; margin-bottom: 12px;">
-                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 0.9rem;">
-                        <div>
-                            <div style="color: #94a3b8; font-size: 0.75rem;">JÁ PRODUZIDO</div>
-                            <div style="font-weight: 600; color: #10b981;">${done} aulas</div>
-                        </div>
-                        <div>
-                            <div style="color: #94a3b8; font-size: 0.75rem;">META TOTAL</div>
-                            <div style="font-weight: 600;">${metaTarget} aulas</div>
-                        </div>
+                        <strong style="font-size: 1.4rem; color: ${totalStatusColor};">${totalPct}%</strong>
+                        <div style="font-size: 0.75rem; opacity: 0.7;">${totalDoneAllYears}/${totalMeta} aulas</div>
                     </div>
                 </div>
                 
                 <div style="margin-bottom: 12px;">
                     <div style="display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 6px;">
-                        <span style="color: #94a3b8;">Progresso</span>
-                        <span>${progressBar}</span>
-                    </div>
-                    <div style="width: 100%; height: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden;">
-                        <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${velocityColor}; transition: width 0.3s;"></div>
+                        <span style="color: #94a3b8;">Progresso Total (5 anos)</span>
+                        <span>${totalProgressBar}</span>
                     </div>
                 </div>
                 
-                <div style="background: rgba(0,0,0,0.2); padding: 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);">
-                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; font-size: 0.9rem;">
-                        <div>
-                            <div style="color: #94a3b8; font-size: 0.75rem;">FALTAM</div>
-                            <div style="font-weight: 600; color: #fb923c;">${remaining} aulas</div>
-                        </div>
-                        <div>
-                            <div style="color: #94a3b8; font-size: 0.75rem;">DIAS ATÉ ${targetMonthName.toUpperCase()}</div>
-                            <div style="font-weight: 600;">${daysRemaining} dias</div>
-                        </div>
-                    </div>
-                    
-                    <div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center;">
-                        <div style="color: #94a3b8; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px;">VELOCIDADE NECESSÁRIA</div>
-                        <div style="font-size: 1.8rem; font-weight: 700; color: ${velocityColor};">${velocityNeeded}</div>
-                        <div style="font-size: 0.85rem; color: #94a3b8;">aulas/dia</div>
-                    </div>
+                <div style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 12px;">
+                    <div style="font-size: 0.75rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Detalhamento por Ano</div>
+                    ${yearsHTML}
                 </div>
             </div>
         `;
     });
     
     rankingHTML += `
-        <div class="insight-item warning" style="margin: 0; opacity: 0.7;">
-            <div class="insight-item-title">📊 Meta da Equipe</div>
+        <div class="insight-item" style="margin: 0; opacity: 0.7; background: rgba(255,255,255,0.02);">
+            <div class="insight-item-title">📊 Meta por Colaborador</div>
             <div class="insight-item-desc">
-                Cada colaborador precisa produzir <strong>${META_POR_DISCIPLINA} aulas</strong> por ano (168/disciplina × 1 disciplina).<br>
-                Prazo: ${targetMonthName} ${now.getFullYear()}
+                Cada colaborador: <strong>${META_POR_DISCIPLINA} aulas/ano</strong> × 5 anos = <strong>840 aulas</strong> no total.<br>
+                <br>
+                <strong>Mês de entrega por ano:</strong><br>
+                • Ano 2 → Março | Ano 3 → Abril | Ano 1 → Maio<br>
+                • Ano 4 → Junho | Ano 5 → Julho
             </div>
         </div>
     `;
@@ -226,23 +210,30 @@ function renderProdutividade(items) {
     // --- 2. Bottlenecks (Gargalos) ---
     let bottleneckHTML = '';
     
-    if (userStats['Unassigned'] && userStats['Unassigned'].pending > 0) {
-        bottleneckHTML += `
-            <div class="insight-item danger">
-                <div class="insight-item-title">⚠️ Tarefas Órfãs</div>
-                <div class="insight-item-desc">Há ${userStats['Unassigned'].pending} tarefas sem dono.</div>
-            </div>
-        `;
+    if (userStats['Unassigned']) {
+        const totalPending = Object.values(userStats['Unassigned'].years).reduce((sum, yr) => sum + yr.pending, 0);
+        if (totalPending > 0) {
+            bottleneckHTML += `
+                <div class="insight-item danger">
+                    <div class="insight-item-title">⚠️ Tarefas Órfãs</div>
+                    <div class="insight-item-desc">Há ${totalPending} tarefas sem dono.</div>
+                </div>
+            `;
+        }
     }
     
     userKeys.forEach(u => {
         const o = userStats[u];
-        const pct = Math.round((o.done / META_POR_DISCIPLINA) * 100) || 0;
-        if (o.pending > 15 && pct < 40) {
+        const totalDone = Object.values(o.years).reduce((sum, yr) => sum + yr.done, 0);
+        const totalPending = Object.values(o.years).reduce((sum, yr) => sum + yr.pending, 0);
+        const totalMeta = META_POR_DISCIPLINA * 5;
+        const pct = Math.round((totalDone / totalMeta) * 100) || 0;
+        
+        if (totalPending > 15 && pct < 40) {
             bottleneckHTML += `
                 <div class="insight-item warning">
                     <div class="insight-item-title">Sobrecarga: @${u}</div>
-                    <div class="insight-item-desc">Fila de ${o.pending} itens com baixa taxa de conclusão.</div>
+                    <div class="insight-item-desc">Fila de ${totalPending} itens com baixa taxa de conclusão (${pct}%).</div>
                 </div>
             `;
         }
@@ -255,7 +246,9 @@ function renderProdutividade(items) {
     const ctx = document.getElementById('teamChart').getContext('2d');
     if(teamChartInstance) teamChartInstance.destroy();
     
-    const doneData = userKeys.map(u => userStats[u].done);
+    const doneData = userKeys.map(u => {
+        return Object.values(userStats[u].years).reduce((sum, yr) => sum + yr.done, 0);
+    });
     
     teamChartInstance = new Chart(ctx, {
         type: 'doughnut',
