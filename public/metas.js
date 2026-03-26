@@ -120,6 +120,7 @@ function renderMetas(items) {
             const hasData = yr.t > 0;
             const yrPct = hasData ? Math.round((yr.d / META_POR_DISCIPLINA) * 100) : 0;
             const yrColorHex = hasData ? getProgressColorHex(yrPct) : '#94a3b8';
+            const doneCount = hasData ? yr.d : 0;
             
             yearRowsHTML += `
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 8px 12px; background: rgba(255,255,255,0.03); border-radius: 6px;">
@@ -127,7 +128,7 @@ function renderMetas(items) {
                     <div style="display: flex; align-items: center; gap: 10px;">
                         <span style="font-size: 0.85rem; color: #94a3b8;">${renderProgressBar(yrPct, 10)}</span>
                         <strong style="color: ${yrColorHex}; font-size: 0.9rem;">
-                            ${hasData ? yr.d + '/' + META_POR_DISCIPLINA + ' (' + yrPct + '%)' : '-/-'}
+                            ${doneCount}/${META_POR_DISCIPLINA} (${yrPct}%)
                         </strong>
                     </div>
                 </div>
