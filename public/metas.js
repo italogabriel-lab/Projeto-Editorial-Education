@@ -38,14 +38,14 @@ function renderMetas(items) {
         // Ano
         if (i.year && yearStats[i.year]) {
             yearStats[i.year].t++;
-            if (i.status === 'Done') yearStats[i.year].d++;
+            if (i.status === 'Done/Published') yearStats[i.year].d++;
         }
         
         // Disciplina
         const sub = i.subject || 'Outros';
         if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0};
         subjectStats[sub].t++;
-        if (i.status === 'Done') subjectStats[sub].d++;
+        if (i.status === 'Done/Published') subjectStats[sub].d++;
     });
 
     // --- 1. Cards de Disciplina ---
