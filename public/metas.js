@@ -43,9 +43,19 @@ function renderMetas(items) {
         
         // Disciplina
         const sub = i.subject || 'Outros';
-        if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0};
+        if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0, years: {}};
+        
+        // Track specific year in subject
+        const y = i.year || 'N/A';
+        if (!subjectStats[sub].years[y]) subjectStats[sub].years[y] = {t:0, d:0};
+        
         subjectStats[sub].t++;
-        if (i.status === 'Done/Published') subjectStats[sub].d++;
+        subjectStats[sub].years[y].t++;
+        
+        if (i.status === 'Done/Published') {
+            subjectStats[sub].d++;
+            subjectStats[sub].years[y].d++;
+        }
     });
 
     // --- 1. Cards de Disciplina ---
@@ -54,14 +64,34 @@ function renderMetas(items) {
     sortedSubs.forEach(sub => {
         const st = subjectStats[sub];
         if(st.t === 0) return;
-        const pct = Math.round((st.d / st.t)*100);
+        
+        // Build Drilldown Details
+        let yearDetailsHTML = '<div class="year-breakdown" style="display:none; margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 10px;">';
+        const sortedYears = Object.keys(st.years).sort();
+        sortedYears.forEach(y => {
+            const yr = st.years[y];
+            if(yr.t === 0) return;
+            const yrPct = Math.round((yr.d / yr.t)*100) || 0;
+            yearDetailsHTML += `
+                <div style="display: flex; justify-content: space-between; font-size: 0.9rem; margin-bottom: 5px;">
+                    <span style="color: #cbd5e1;">Ano ${y}:</span>
+                    <strong style="color: #fff;">${yrPct}% (${yr.d}/${yr.t})</strong>
+                </div>
+            `;
+        });
+        yearDetailsHTML += '</div>';
+
+        const pct = Math.round((st.d / st.t)*100) || 0;
         let color = pct === 100 ? 'green' : (pct > 50 ? 'blue' : 'purple');
+        
         discHTML += `
-            <div class="kpi-card glass-panel">
+            <div class="kpi-card glass-panel" style="cursor: pointer; transition: 0.3s; padding-bottom: 15px;" onclick="const b = this.querySelector('.year-breakdown'); b.style.display = b.style.display === 'none' ? 'block' : 'none'">
                 <div class="kpi-icon ${color}">📚</div>
-                <div class="kpi-data">
+                <div class="kpi-data" style="width: 100%;">
                     <h3>${sub}</h3>
-                    <p>${pct}% (${st.d}/${st.t})</p>
+                    <p style="margin-bottom: 5px; font-size: 1.5rem;">${pct}% <span style="font-size: 1rem; opacity: 0.8">(${st.d}/${st.t})</span></p>
+                    <small style="opacity: 0.6; display:block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px;">Clique para detalhar 👇</small>
+                    ${yearDetailsHTML}
                 </div>
             </div>
         `;
