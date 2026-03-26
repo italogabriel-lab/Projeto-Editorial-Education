@@ -1,7 +1,9 @@
 let yearChartInstance = null;
 let subjectChartInstance = null;
 
-const META_POR_ANO = 168;
+const META_POR_DISCIPLINA = 168;
+const NUM_ANOS = 5;
+const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_ANOS;
 
 function normalizeSubject(name) {
     if (!name) return null;
@@ -74,8 +76,8 @@ function renderMetas(items) {
     const yearStats = { 1: {t:0, d:0}, 2: {t:0, d:0}, 3: {t:0, d:0}, 4: {t:0, d:0}, 5: {t:0, d:0} };
     const subjectStats = {};
     const META_POR_DISCIPLINA = 168;
-    const NUM_DISCIPLINAS = 7;
-    const META_POR_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
+    const META_POR_ANO_EQUIPE = 840;
+    const META_TOTAL = META_POR_ANO_EQUIPE * 5;
     
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
@@ -107,15 +109,15 @@ function renderMetas(items) {
         const st = subjectStats[sub];
         if(st.t === 0) return;
         
-        const totalMeta = META_POR_ANO * 5;
-        const pct = Math.round((st.d / totalMeta) * 100) || 0;
+        const totalMetaDisciplina = META_POR_DISCIPLINA * 5;
+        const pct = Math.round((st.d / totalMetaDisciplina) * 100) || 0;
         const color = getProgressColor(pct);
         
         let yearRowsHTML = '';
         [1,2,3,4,5].forEach(ano => {
             const yr = st.years[ano] || {t:0, d:0};
             const hasData = yr.t > 0;
-            const yrPct = hasData ? Math.round((yr.d / META_POR_ANO) * 100) : 0;
+            const yrPct = hasData ? Math.round((yr.d / META_POR_DISCIPLINA) * 100) : 0;
             const yrColorHex = hasData ? getProgressColorHex(yrPct) : '#94a3b8';
             
             yearRowsHTML += `
@@ -124,7 +126,7 @@ function renderMetas(items) {
                     <div style="display: flex; align-items: center; gap: 10px;">
                         <span style="font-size: 0.85rem; color: #94a3b8;">${renderProgressBar(yrPct, 10)}</span>
                         <strong style="color: ${yrColorHex}; font-size: 0.9rem;">
-                            ${hasData ? yr.d + '/' + META_POR_ANO + ' (' + yrPct + '%)' : '-/-'}
+                            ${hasData ? yr.d + '/' + META_POR_DISCIPLINA + ' (' + yrPct + '%)' : '-/-'}
                         </strong>
                     </div>
                 </div>
@@ -137,12 +139,12 @@ function renderMetas(items) {
                 <div class="kpi-data" style="width: 100%;">
                     <h3>${sub}</h3>
                     <p style="margin-bottom: 12px; font-size: 1.3rem;">
-                        <strong>${pct}%</strong> <span style="font-size: 1rem; opacity: 0.8">(${st.d}/${totalMeta})</span>
+                        <strong>${pct}%</strong> <span style="font-size: 1rem; opacity: 0.8">(${st.d}/${totalMetaDisciplina})</span>
                     </p>
                     <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; margin-bottom: 15px; overflow: hidden;">
                         <div style="width: ${pct}%; height: 100%; background: ${getProgressColorHex(pct)}; transition: width 0.3s;"></div>
                     </div>
-                    <small style="opacity: 0.6; display:block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px; margin-bottom: 10px;">Meta: ${META_POR_ANO} aulas/ano</small>
+                    <small style="opacity: 0.6; display:block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px; margin-bottom: 10px;">Meta: ${META_POR_DISCIPLINA} aulas/ano</small>
                     <div style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 10px;">
                         ${yearRowsHTML}
                     </div>
@@ -159,7 +161,7 @@ function renderMetas(items) {
     [1,2,3,4,5].forEach(y => {
         yLabels.push(`${y}º Ano (${goalsList[y].monthName})`);
         yDone.push(yearStats[y].d);
-        yPend.push(META_POR_ANO - yearStats[y].d);
+        yPend.push(META_POR_ANO_EQUIPE - yearStats[y].d);
     });
 
     const ctxY = document.getElementById('metasYearChart').getContext('2d');
@@ -204,14 +206,14 @@ function renderMetas(items) {
     const renderOrder = [2, 3, 1, 4, 5]; 
     renderOrder.forEach(y => {
         const st = yearStats[y];
-        const pct = Math.round((st.d / META_POR_ANO) * 100);
+        const pct = Math.round((st.d / META_POR_ANO_EQUIPE) * 100);
         let icon = pct === 100 ? '✅' : (pct >= 50 ? '📗' : '⏳');
         timelineHTML += `
             <div class="insight-item">
                 <div class="insight-item-title">${icon} ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
                 <div class="insight-item-desc">
-                    <strong>${pct}%</strong> da meta da equipe (1176 aulas).<br>
-                    Produzido: ${st.d}/${META_POR_ANO} | Faltando: ${META_POR_ANO - st.d}
+                    <strong>${pct}%</strong> da meta da equipe (840 aulas).<br>
+                    Produzido: ${st.d}/${META_POR_ANO_EQUIPE} | Faltando: ${META_POR_ANO_EQUIPE - st.d}
                 </div>
             </div>
         `;
