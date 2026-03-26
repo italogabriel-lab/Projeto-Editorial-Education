@@ -157,11 +157,9 @@ function renderMetas(items) {
     const yDone = [];
     const yPend = [];
     [1,2,3,4,5].forEach(y => {
-        if(yearStats[y].t > 0) {
-            yLabels.push(`${y}º Ano (${goalsList[y].monthName})`);
-            yDone.push(yearStats[y].d);
-            yPend.push(yearStats[y].t - yearStats[y].d);
-        }
+        yLabels.push(`${y}º Ano (${goalsList[y].monthName})`);
+        yDone.push(yearStats[y].d);
+        yPend.push(META_POR_ANO - yearStats[y].d);
     });
 
     const ctxY = document.getElementById('metasYearChart').getContext('2d');
@@ -206,7 +204,6 @@ function renderMetas(items) {
     const renderOrder = [2, 3, 1, 4, 5]; 
     renderOrder.forEach(y => {
         const st = yearStats[y];
-        if(st.t === 0) return;
         const pct = Math.round((st.d / META_POR_ANO) * 100);
         let icon = pct === 100 ? '✅' : (pct >= 50 ? '📗' : '⏳');
         timelineHTML += `
