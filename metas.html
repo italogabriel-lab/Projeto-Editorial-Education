@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Metas do Currículo | Bibline Academy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="public/styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="logo-area">
+                <div class="logo-icon">V</div>
+                <h2>Vision Board</h2>
+                <span class="badge">Live Sync</span>
+            </div>
+            
+            <nav class="menu">
+                <a href="index.html">
+                    <span class="icon">📊</span> Overview Geral
+                </a>
+                <a href="metas.html" class="active">
+                    <span class="icon">🎯</span> Metas (Currículo)
+                </a>
+                <a href="prod.html">
+                    <span class="icon">👥</span> Produtividade
+                </a>
+            </nav>
+
+            <div class="sync-status">
+                <p>Última Sincronização:</p>
+                <div id="last-sync-time" class="time-badge">Aguardando...</div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1>Metas e Progresso</h1>
+                    <p class="subtitle">Acompanhamento acumulativo por Disciplina, Mês e Ano de Estudo</p>
+                </div>
+            </header>
+
+            <!-- Cards de Disciplinas -->
+            <section class="kpi-grid" id="disciplines-grid">
+               <!-- Preenchido via JS -->
+            </section>
+
+            <!-- Charts Row -->
+            <section class="charts-row">
+                <div class="chart-container glass-panel" style="flex: 2;">
+                    <h3>Cumprimento de Ensino (Ano a Ano)</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="metasYearChart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container glass-panel" style="flex: 1;">
+                    <h3>Volume Total (Por Disciplina)</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="metasSubjectChart"></canvas>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Lista Analítica -->
+            <section class="ai-insights-row">
+                <div class="insight-panel glass-panel" style="width: 100%">
+                    <div class="panel-header">
+                        <span class="icon">📅</span>
+                        <h3>Timeline do Currículo Escolar</h3>
+                    </div>
+                    <div id="timeline-container" class="insight-list">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <script src="public/metas.js"></script>
+</body>
+</html>
