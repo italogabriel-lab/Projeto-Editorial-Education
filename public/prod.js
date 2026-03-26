@@ -76,7 +76,13 @@ function renderProdutividade(items) {
         if (!userStats[user]) {
             userStats[user] = {
                 subjects: {},
-                years: { 1: {done: 0, pending: 0}, 2: {done: 0, pending: 0}, 3: {done: 0, pending: 0}, 4: {done: 0, pending: 0}, 5: {done: 0, pending: 0} }
+                years: { 
+                    1: {done: 0, pending: 0, inProgress: 0, review: 0, video: 0, backlog: 0}, 
+                    2: {done: 0, pending: 0, inProgress: 0, review: 0, video: 0, backlog: 0},
+                    3: {done: 0, pending: 0, inProgress: 0, review: 0, video: 0, backlog: 0},
+                    4: {done: 0, pending: 0, inProgress: 0, review: 0, video: 0, backlog: 0},
+                    5: {done: 0, pending: 0, inProgress: 0, review: 0, video: 0, backlog: 0}
+                }
             };
         }
         
@@ -88,8 +94,16 @@ function renderProdutividade(items) {
         if (year && userStats[user].years[year]) {
             if (status === 'Done/Published') {
                 userStats[user].years[year].done++;
-            } else if (status === 'Backlog' || status === 'In Progress') {
+            } else if (status === 'Backlog') {
+                userStats[user].years[year].backlog++;
                 userStats[user].years[year].pending++;
+            } else if (status === 'In Progress') {
+                userStats[user].years[year].inProgress++;
+                userStats[user].years[year].pending++;
+            } else if (status === 'In Review') {
+                userStats[user].years[year].review++;
+            } else if (status === 'Video') {
+                userStats[user].years[year].video++;
             }
         }
     });
@@ -109,11 +123,15 @@ function renderProdutividade(items) {
         [1,2,3,4,5].forEach(yr => {
             const yrData = o.years[yr];
             const done = yrData.done;
-            const pending = yrData.pending;
+            const inProgress = yrData.inProgress;
+            const backlog = yrData.backlog;
+            const review = yrData.review;
+            const video = yrData.video;
+            const pendingNow = inProgress + backlog;
             const remaining = META_POR_DISCIPLINA - done;
             
             totalDoneAllYears += done;
-            totalPendingAllYears += pending;
+            totalPendingAllYears += pendingNow;
             
             const targetMonth = goalsList[yr].monthNum;
             const targetMonthName = goalsList[yr].monthName;
@@ -137,20 +155,31 @@ function renderProdutividade(items) {
             
             const progressBar = '█'.repeat(Math.min(pct, 100) / 5) + '░'.repeat(20 - Math.min(pct, 100) / 5);
             
+            let statusBadge = '';
+            if (inProgress > 0 || backlog > 0) {
+                statusBadge = `<span style="background: #f59e0b; color: #000; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; margin-left: 8px;">${inProgress + backlog} pendentes</span>`;
+            } else if (review > 0 || video > 0) {
+                statusBadge = `<span style="background: #8b5cf6; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 0.65rem; margin-left: 8px;">${review + video} em fluxo</span>`;
+            }
+            
             yearsHTML += `
                 <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid ${yrStatusColor};">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
                         <span style="font-weight: 600; font-size: 0.9rem;">Ano ${yr} (${targetMonthName})</span>
                         <span style="font-weight: 700; color: ${yrStatusColor};">${pct}%</span>
                     </div>
-                    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; font-size: 0.75rem; margin-bottom: 6px;">
-                        <div><span style="color: #94a3b8;">Feito:</span> <span style="color: #10b981; font-weight: 600;">${done}</span></div>
-                        <div><span style="color: #94a3b8;">Faltam:</span> <span style="color: #fb923c; font-weight: 600;">${remaining}</span></div>
-                        <div><span style="color: #94a3b8;">Dias:</span> <span style="font-weight: 600;">${daysRemaining}</span></div>
+                    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 6px;">
+                        <div style="text-align: center;"><div style="color: #10b981;">✅ ${done}</div><div style="color: #94a3b8;">Feito</div></div>
+                        <div style="text-align: center;"><div style="color: #f59e0b;">🔄 ${pendingNow}</div><div style="color: #94a3b8;">Pendente</div></div>
+                        <div style="text-align: center;"><div style="color: #8b5cf6;">⏳ ${review + video}</div><div style="color: #94a3b8;">Em fluxo</div></div>
                     </div>
                     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.7rem; margin-bottom: 4px;">
                         <span style="color: #94a3b8;">${progressBar}</span>
                         <span style="font-weight: 700; color: ${yrStatusColor};">⚡ ${velocityNeeded}/dia</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; font-size: 0.65rem; color: #94a3b8;">
+                        <span>Faltam: ${remaining}</span>
+                        <span>Dias: ${daysRemaining}</span>
                     </div>
                 </div>
             `;
@@ -194,13 +223,17 @@ function renderProdutividade(items) {
     
     rankingHTML += `
         <div class="insight-item" style="margin: 0; opacity: 0.7; background: rgba(255,255,255,0.02);">
-            <div class="insight-item-title">📊 Meta por Colaborador</div>
-            <div class="insight-item-desc">
-                Cada colaborador: <strong>${META_POR_DISCIPLINA} aulas/ano</strong> × 5 anos = <strong>840 aulas</strong> no total.<br>
+            <div class="insight-item-title">📊 Legenda de Status</div>
+            <div class="insight-item-desc" style="font-size: 0.85rem;">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+                    <div>✅ <strong>Feito</strong> - Concluído</div>
+                    <div>🔄 <strong>Pendente</strong> - Backlog + In Progress</div>
+                    <div>⏳ <strong>Em fluxo</strong> - In Review + Video</div>
+                    <div>⚡ <strong>/dia</strong> - Velocidade necessária</div>
+                </div>
                 <br>
-                <strong>Mês de entrega por ano:</strong><br>
-                • Ano 2 → Março | Ano 3 → Abril | Ano 1 → Maio<br>
-                • Ano 4 → Junho | Ano 5 → Julho
+                <strong>Meta por colaborador:</strong> 168 aulas/ano × 5 anos = 840 aulas<br>
+                <strong>Meses de entrega:</strong> Ano 2→Março | Ano 3→Abril | Ano 1→Maio | Ano 4→Junho | Ano 5→Julho
             </div>
         </div>
     `;
@@ -211,7 +244,7 @@ function renderProdutividade(items) {
     let bottleneckHTML = '';
     
     if (userStats['Unassigned']) {
-        const totalPending = Object.values(userStats['Unassigned'].years).reduce((sum, yr) => sum + yr.pending, 0);
+        const totalPending = Object.values(userStats['Unassigned'].years).reduce((sum, yr) => sum + (yr.inProgress + yr.backlog), 0);
         if (totalPending > 0) {
             bottleneckHTML += `
                 <div class="insight-item danger">
@@ -225,7 +258,7 @@ function renderProdutividade(items) {
     userKeys.forEach(u => {
         const o = userStats[u];
         const totalDone = Object.values(o.years).reduce((sum, yr) => sum + yr.done, 0);
-        const totalPending = Object.values(o.years).reduce((sum, yr) => sum + yr.pending, 0);
+        const totalPending = Object.values(o.years).reduce((sum, yr) => sum + (yr.inProgress + yr.backlog), 0);
         const totalMeta = META_POR_DISCIPLINA * 5;
         const pct = Math.round((totalDone / totalMeta) * 100) || 0;
         
