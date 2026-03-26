@@ -198,19 +198,23 @@ function renderMetas(items) {
     });
 
     // --- 4. Timeline do Currículo ---
+    const META_POR_DISCIPLINA = 168;
+    const NUM_DISCIPLINAS = 7;
+    const META_POR_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
+    
     let timelineHTML = '';
-    // Sorted by deliverable month order (Mar, Apr, May, Jun, Jul => 2,3,1,4,5)
     const renderOrder = [2, 3, 1, 4, 5]; 
     renderOrder.forEach(y => {
         const st = yearStats[y];
         if(st.t === 0) return;
-        const pct = Math.round((st.d / st.t)*100);
-        let icon = pct === 100 ? '✅' : '⏳';
+        const pct = Math.round((st.d / META_POR_ANO) * 100);
+        let icon = pct === 100 ? '✅' : (pct >= 50 ? '📗' : '⏳');
         timelineHTML += `
             <div class="insight-item">
-                <div class="insight-item-title">${icon} Entrega de ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
+                <div class="insight-item-title">${icon} ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
                 <div class="insight-item-desc">
-                    <strong>${pct}%</strong> pronto. Falta produzir ${st.t - st.d} aulas oficiais do total de ${st.t}.
+                    <strong>${pct}%</strong> da meta da equipe.<br>
+                    Produzido: ${st.d}/${META_POR_ANO} aulas | Faltando: ${META_POR_ANO - st.d}
                 </div>
             </div>
         `;
