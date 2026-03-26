@@ -21,7 +21,7 @@ jobs:
 
       - name: 🔄 Execute Sync Script (GitHub GraphQL Integration)
         env:
-          # Injection de múltiplas varíaveis de secret para garantir cobertura
+          # Injeta o secret token real do GitHub Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN_CLASSIC: ${{ secrets.GITHUB_TOKEN_CLASSIC }}
           GITHUB_TOKEN_FINE: ${{ secrets.GITHUB_TOKEN_FINE }}
@@ -33,6 +33,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Vision Board Bot"
           git add public/data.json
-          git commit -m "chore: atualizacao em tempo real do data.json via Kanban" || echo "Sem mudancas"
-          # Utilizamos o próprio token injetado para forçar o push de volta ao repositório
+          git commit -m "chore: atualizacao em tempo real do data.json via Kanban" || echo "Sem mudanças"
+          # Utilizamos o proprio secret gerado para o Action subir
           git push
