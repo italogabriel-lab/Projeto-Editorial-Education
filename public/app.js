@@ -28,17 +28,36 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 function runAnalyzer(items) {
     const total = items.length;
+    
     const doneItems = items.filter(i => i.status === 'Done/Published');
     const done = doneItems.length;
-    const inReviewItems = items.filter(i => i.status && i.status.toLowerCase().includes('review'));
-    const inReview = inReviewItems.length;
-    const inProgressItems = items.filter(i => i.status && !['Done/Published', 'Backlog', 'No Status'].includes(i.status));
+    
+    const backlogItems = items.filter(i => i.status === 'Backlog');
+    const backlog = backlogItems.length;
+    
+    const inProgressItems = items.filter(i => i.status === 'In Progress');
     const inProgress = inProgressItems.length;
+    
+    const reviewItems = items.filter(i => i.status === 'In Review');
+    const review = reviewItems.length;
+    
+    const videoItems = items.filter(i => i.status === 'Video');
+    const video = videoItems.length;
+    
+    const blockItems = items.filter(i => i.status === 'Block');
+    const block = blockItems.length;
+    
+    const noStatusItems = items.filter(i => i.status === 'No Status' || !i.status);
+    const noStatus = noStatusItems.length;
     
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
+    document.getElementById('kpi-backlog').textContent = backlog;
     document.getElementById('kpi-in-progress').textContent = inProgress;
-    document.getElementById('kpi-review').textContent = inReview;
+    document.getElementById('kpi-review').textContent = review;
+    document.getElementById('kpi-video').textContent = video;
+    document.getElementById('kpi-block').textContent = block;
+    document.getElementById('kpi-no-status').textContent = noStatus;
 }
 
 function runProgressEngine(items) {
@@ -156,7 +175,9 @@ function runGargaloDetector(items) {
     
     const ACTIVE_STATUSES = ['Backlog', 'In Progress'];
     const DONE_STATUS = 'Done/Published';
-    const EXCLUDED_STATUSES = ['In Review', 'Video', 'Block', 'No Status'];
+    const REVIEW_STATUS = 'In Review';
+    const VIDEO_STATUS = 'Video';
+    const BLOCK_STATUS = 'Block';
     
     items.forEach(i => {
         const sub = i.subject || null;
@@ -178,12 +199,12 @@ function runGargaloDetector(items) {
         const status = i.status;
         const year = i.year;
         
-        if (ACTIVE_STATUSES.includes(status)) {
+        if (status === 'Backlog' || status === 'In Progress') {
             assignees[user].pending++;
             if (year && assignees[user].years[year]) {
                 assignees[user].years[year].p++;
             }
-        } else if (status === DONE_STATUS) {
+        } else if (status === 'Done/Published') {
             assignees[user].done++;
             if (year && assignees[user].years[year]) {
                 assignees[user].years[year].d++;
