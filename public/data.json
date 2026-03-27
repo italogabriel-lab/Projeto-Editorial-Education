@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-26T19:11:18.481Z",
-  "total_items": 2445,
+  "last_updated": "2026-03-27T13:46:25.356Z",
+  "total_items": 2452,
   "items": [
     {
       "id": "I_kwDOPFPmMM7b2p_w",
@@ -10627,7 +10627,9 @@
       "created_at": "2025-12-12T15:28:18Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7d9UaA",
@@ -10641,7 +10643,9 @@
       "created_at": "2025-12-12T15:30:58Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7d9Wi9",
@@ -10655,7 +10659,9 @@
       "created_at": "2025-12-12T15:33:26Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7d9agT",
@@ -11297,7 +11303,9 @@
       "created_at": "2025-12-19T13:46:06Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fX9Ob",
@@ -11311,7 +11319,9 @@
       "created_at": "2025-12-19T13:47:51Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7wM6NV",
@@ -11381,7 +11391,9 @@
       "created_at": "2025-12-19T14:01:20Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fYJU1",
@@ -11395,7 +11407,9 @@
       "created_at": "2025-12-19T14:04:49Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fYMAD",
@@ -11409,7 +11423,9 @@
       "created_at": "2025-12-19T14:08:42Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7wNGiz",
@@ -11479,7 +11495,9 @@
       "created_at": "2025-12-19T14:29:21Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fZIBD",
@@ -11597,7 +11615,9 @@
       "created_at": "2025-12-19T18:23:47Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fbEvx",
@@ -11611,7 +11631,9 @@
       "created_at": "2025-12-19T18:30:58Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7wNVBd",
@@ -11653,7 +11675,9 @@
       "created_at": "2026-01-12T23:56:22Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7i4cv6",
@@ -11667,7 +11691,9 @@
       "created_at": "2026-01-12T23:59:18Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7i4fTL",
@@ -11681,7 +11707,9 @@
       "created_at": "2026-01-13T00:03:27Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7fbGJI",
@@ -12439,7 +12467,9 @@
       "created_at": "2025-12-23T20:05:20Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gBS7C",
@@ -12453,7 +12483,9 @@
       "created_at": "2025-12-23T20:08:44Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gBVA2",
@@ -12467,7 +12499,9 @@
       "created_at": "2025-12-23T20:11:46Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gBXgb",
@@ -13223,7 +13257,9 @@
       "created_at": "2025-12-29T14:57:51Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gkVnO",
@@ -13237,7 +13273,9 @@
       "created_at": "2025-12-29T15:00:31Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gkXFc",
@@ -13279,7 +13317,9 @@
       "created_at": "2025-12-29T17:54:37Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7glxK0",
@@ -13287,13 +13327,15 @@
       "title": "[Matemática] - ANO 2 - 12.2 Subtração com zero",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2025-12-29T17:57:40Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7glyI4",
@@ -13307,7 +13349,9 @@
       "created_at": "2025-12-29T18:00:02Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7glzMm",
@@ -13549,7 +13593,9 @@
       "created_at": "2025-12-30T14:42:04Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gu_0_",
@@ -13563,7 +13609,9 @@
       "created_at": "2025-12-30T14:43:41Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gvBY5",
@@ -13571,13 +13619,15 @@
       "title": "[Matemática] - ANO 2 -13.3 Subtração com reserva",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "ViniciusOsvaldo",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2025-12-30T14:45:49Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7gvC4q",
@@ -13725,7 +13775,9 @@
       "created_at": "2026-01-02T17:36:45Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hHjSv",
@@ -13739,7 +13791,9 @@
       "created_at": "2026-01-02T17:38:50Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hHk0z",
@@ -13753,7 +13807,9 @@
       "created_at": "2026-01-02T17:41:47Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hHl2v",
@@ -13795,7 +13851,9 @@
       "created_at": "2026-01-02T23:26:50Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hJytK",
@@ -13809,7 +13867,9 @@
       "created_at": "2026-01-02T23:30:05Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hJzQo",
@@ -13823,7 +13883,9 @@
       "created_at": "2026-01-02T23:32:19Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hJzwF",
@@ -13881,7 +13943,9 @@
       "created_at": "2026-01-05T12:48:19Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hY2f5",
@@ -13895,7 +13959,9 @@
       "created_at": "2026-01-05T12:51:52Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hY3eT",
@@ -13909,7 +13975,9 @@
       "created_at": "2026-01-05T12:53:27Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hY4s-",
@@ -14053,13 +14121,15 @@
       "title": "[Matemática] - ANO 2 - 17.1 Divisão por 2",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-05T19:23:35Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hdkVt",
@@ -14067,13 +14137,15 @@
       "title": "[Matemática] - ANO 2 - 17.2 Divisão por 3",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-05T19:25:52Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hdmJK",
@@ -14081,13 +14153,15 @@
       "title": "[Matemática] - ANO 2 - 17.3 Divisão por 4",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-05T19:28:54Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7hdmpb",
@@ -14263,13 +14337,15 @@
       "title": "[Matemática] - ANO 2 - 18.1 Repartir em partes iguais",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-09T00:23:21Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7iMqth",
@@ -14277,13 +14353,15 @@
       "title": "[Matemática] - ANO 2 - 18.2 Divisão exata",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-09T00:26:28Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7iMsgt",
@@ -14291,13 +14369,15 @@
       "title": "[Matemática] - ANO 2 - 18.3 Aplicando a divisão no dia a dia",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-09T00:28:50Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7iMwhN",
@@ -15073,13 +15153,15 @@
       "title": "[Matemática] - ANO 2 - 21.1 Ponto, reta e plano",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-14T20:21:35Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYGVC",
@@ -15093,7 +15175,9 @@
       "created_at": "2026-01-14T20:24:00Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYIVR",
@@ -15107,7 +15191,9 @@
       "created_at": "2026-01-14T20:26:51Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYLI5",
@@ -15149,7 +15235,9 @@
       "created_at": "2026-01-14T20:34:50Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYQpq",
@@ -15163,7 +15251,9 @@
       "created_at": "2026-01-14T20:38:13Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYRuN",
@@ -15177,7 +15267,9 @@
       "created_at": "2026-01-14T20:39:47Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7jYSyF",
@@ -15355,7 +15447,9 @@
       "created_at": "2026-01-19T12:24:16Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kQW53",
@@ -15369,7 +15463,9 @@
       "created_at": "2026-01-19T12:25:43Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kQZFF",
@@ -15411,7 +15507,9 @@
       "created_at": "2026-01-19T12:31:51Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kQfs7",
@@ -15419,13 +15517,15 @@
       "title": "[Matemática] - ANO 2 - 24.2 Área de um retângulo",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "ViniciusOsvaldo",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T12:33:37Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kQjA9",
@@ -15439,7 +15539,9 @@
       "created_at": "2026-01-19T12:36:47Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kQt4H",
@@ -15481,7 +15583,9 @@
       "created_at": "2026-01-19T13:31:23Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kRWsY",
@@ -15511,7 +15615,9 @@
       "created_at": "2026-01-19T13:33:16Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kRaXk",
@@ -15525,7 +15631,9 @@
       "created_at": "2026-01-19T13:35:40Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kRdH6",
@@ -15879,13 +15987,15 @@
       "title": "[Matemática] - ANO 2 - 26.2 Convertendo unidades",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:38:04Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kWp9y",
@@ -15893,13 +16003,15 @@
       "title": "[Matemática] - ANO 2 - 26.3 Medindo com instrumentos",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:39:24Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kWrkC",
@@ -15935,13 +16047,15 @@
       "title": "[Matemática] - ANO 2 - 27.1 Segundos, minutos e horas",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:45:38Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kWupS",
@@ -15949,13 +16063,15 @@
       "title": "[Matemática] - ANO 2 - 27.2 Dias, semanas e mes",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:47:22Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kWvYH",
@@ -15963,13 +16079,15 @@
       "title": "[Matemática] - ANO 2 - 27.3 Marcando o tempo",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:48:35Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kWwFU",
@@ -16019,13 +16137,15 @@
       "title": "[Matemática] - ANO 2 - 28.2 Medidas",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:56:38Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kW0gn",
@@ -16033,13 +16153,15 @@
       "title": "[Matemática] - ANO 2 - 28.3 Ritmos",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-19T20:57:58Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kW1OJ",
@@ -16179,13 +16301,15 @@
       "title": "[Matemática] - ANO 2 - 31.1 Medindo as temperaturas (°C, °F,  K)",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T12:10:49Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kws8l",
@@ -16193,13 +16317,15 @@
       "title": "[Matemática] - ANO 2 - 31.2 Lendo o termômetro",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T12:12:44Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kwvHd",
@@ -16207,13 +16333,15 @@
       "title": "[Matemática] - ANO 2 - 31.3 Medidas de volume",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T12:14:52Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7kwy5X",
@@ -16693,13 +16821,15 @@
       "title": "[Matemática] - ANO 2 - 32.1 Litro e mililitro",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T17:57:31Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2HKO",
@@ -16735,13 +16865,15 @@
       "title": "[Matemática] - ANO 2 - 32.2 Estimando capacidades",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T17:59:22Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2KM1",
@@ -16781,13 +16913,15 @@
       "title": "[Matemática] - ANO 2 - 32.3 Comparando capacidades",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T18:01:37Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2LUS",
@@ -16943,13 +17077,15 @@
       "title": "[Matemática] - ANO 2 - 33.1 Sistema de numeração decimal",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T18:10:08Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2T0R",
@@ -16971,13 +17107,15 @@
       "title": "[Matemática] - ANO 2 - 33.2 Valor posicional",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T18:11:51Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2Us4",
@@ -16999,13 +17137,15 @@
       "title": "[Matemática] - ANO 2 - 33.3 Leitura e escrita de números",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-21T18:14:27Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k2Y7w",
@@ -17697,7 +17837,7 @@
       "id": "I_kwDOPFPmMM7k3UQL",
       "number": 1314,
       "title": "[Historia] - Ano 3 - 21.3 O surgimento dos Puritanos",
-      "status": "Block",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Historia",
@@ -18879,13 +19019,15 @@
       "title": "[Matemática] - ANO 2 - 34.1 Maior que",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-23T13:25:46Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7lU3AL",
@@ -18893,13 +19035,15 @@
       "title": "[Matemática] - ANO 2 - 34.2 Menor que",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-23T13:27:09Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7lU4W7",
@@ -18907,13 +19051,15 @@
       "title": "[Matemática] - ANO 2 - 34.3 Igualdade",
       "status": "Video",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "created_at": "2026-01-23T13:28:50Z",
       "closed_at": null,
       "lead_time_days": null,
-      "labels": []
+      "labels": [
+        "Backlog"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7lU5mX",
@@ -32791,9 +32937,9 @@
       "id": "I_kwDOPFPmMM72-qlf",
       "number": 2393,
       "title": "[Belas artes] - Ano 3 - 12.1 Ornamentação religiosa",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas artes",
       "year": 3,
       "created_at": "2026-03-26T12:50:15Z",
@@ -35625,6 +35771,104 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-03-26T18:45:31Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73Ks2g",
+      "number": 2596,
+      "title": "[Português] - Ano 3 - 14.1 Vírgula",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-26T19:26:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73LaBt",
+      "number": 2597,
+      "title": "[Português] - Ano 3 - 14.2 Ponto e vírgula",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-26T19:57:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73fhP-",
+      "number": 2598,
+      "title": "[Português] - Ano 3 - 14.3 Dois-pontos",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-27T12:31:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73gGda",
+      "number": 2599,
+      "title": "[Português] - Ano 3 - 14.4 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-27T12:53:35Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73gXS5",
+      "number": 2600,
+      "title": "[Português] - Ano 3 - 14.5 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-27T13:02:08Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73g9ns",
+      "number": 2601,
+      "title": "[Português] - Ano 3 - 15.1 Aspas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-27T13:22:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73hXSV",
+      "number": 2602,
+      "title": "[Português] - Ano 3 - 15.2 Travessão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-03-27T13:35:30Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
