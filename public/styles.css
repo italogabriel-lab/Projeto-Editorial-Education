@@ -226,21 +226,26 @@ body {
 .logo-icon {
     width: 56px;
     height: 56px;
-    background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+    background: transparent;
     border-radius: var(--radius-lg);
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: var(--text-2xl);
-    font-weight: var(--font-bold);
-    color: white;
-    box-shadow: var(--shadow-glow-blue);
     transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.logo-icon svg {
+    width: 48px;
+    height: 48px;
+    filter: drop-shadow(0 4px 12px rgba(59, 130, 246, 0.4));
 }
 
 .logo-icon:hover {
     transform: scale(1.05);
-    box-shadow: var(--shadow-glow-purple);
+}
+
+.logo-icon:hover svg {
+    filter: drop-shadow(0 4px 16px rgba(139, 92, 246, 0.5));
 }
 
 .logo-area h2 {
