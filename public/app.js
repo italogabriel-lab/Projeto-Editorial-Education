@@ -1,6 +1,19 @@
 let yearChartInstance = null;
 let subjectChartInstance = null;
 
+const META_POR_DISCIPLINA = 168;
+const NUM_DISCIPLINAS = 7;
+const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
+const META_TOTAL = META_EQUIPE_ANO * 5;
+
+const GOALS_LIST = {
+    2: { month: 2, label: "Março" },
+    3: { month: 3, label: "Abril" },
+    1: { month: 4, label: "Maio" },
+    4: { month: 5, label: "Junho" },
+    5: { month: 6, label: "Julho" }
+};
+
 async function performSync() {
     try {
         console.log('Fetching data.json...');
@@ -74,66 +87,132 @@ function runAnalyzer(items) {
 function runProgressEngine(items) {
     console.log('Running progress engine...');
     
-    const goalsList = {
-        2: { month: 2, label: "Março" },
-        3: { month: 3, label: "Abril" },
-        1: { month: 4, label: "Maio" },
-        4: { month: 5, label: "Junho" },
-        5: { month: 6, label: "Julho" }
+    const currentDate = new Date();
+    const currentMonth = currentDate.getMonth() + 1;
+    const currentYear = currentDate.getFullYear();
+    const dayOfMonth = currentDate.getDate();
+    
+    const yearStats = { 
+        1: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
+        2: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
+        3: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
+        4: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
+        5: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}
     };
     
-    const yearStats = { 1: {total:0, done:0}, 2: {total:0, done:0}, 3: {total:0, done:0}, 4: {total:0, done:0}, 5: {total:0, done:0} };
+    const subjects = {};
     
     items.forEach(i => {
         const y = i.year;
+        const status = i.status;
+        const sub = i.subject || 'Outros';
+        
+        if (!subjects[sub]) subjects[sub] = 0;
+        subjects[sub]++;
+        
         if (yearStats[y]) {
             yearStats[y].total++;
-            if (i.status === 'Done/Published') yearStats[y].done++;
+            if (status === 'Done/Published') yearStats[y].done++;
+            else if (status === 'Backlog') yearStats[y].backlog++;
+            else if (status === 'In Progress') yearStats[y].inProgress++;
+            else if (status === 'In Review') yearStats[y].review++;
+            else if (status === 'Video') yearStats[y].video++;
         }
     });
     
-    const currentMonth = new Date().getMonth();
-    
     let metaHTML = '';
-    const labels = [];
-    const doneData = [];
-    const pendingData = [];
+    const renderOrder = [2, 3, 1, 4, 5];
     
-    Object.keys(yearStats).forEach(y => {
+    renderOrder.forEach(y => {
         const stats = yearStats[y];
         if (stats.total === 0) return;
         
-        labels.push(`${y}º Ano`);
-        doneData.push(stats.done);
-        pendingData.push(stats.total - stats.done);
+        const goal = GOALS_LIST[y];
+        const pct = Math.round((stats.done / META_EQUIPE_ANO) * 100);
+        const remaining = META_EQUIPE_ANO - stats.done;
         
-        const pct = Math.round((stats.done / stats.total) * 100);
+        const targetMonth = goal.month;
+        let monthsLeft = 0;
+        let isOverdue = false;
         
-        const goal = goalsList[y];
-        let riskClass = 'success';
-        let riskMsg = 'Dentro da meta';
-        
-        if (goal) {
-            const monthsLeft = goal.month - currentMonth;
-            if (pct < 100 && monthsLeft < 0) {
-                riskClass = 'danger';
-                riskMsg = `Atrasado! Meta era ${goal.label}.`;
-            } else if (pct < 50 && monthsLeft <= 1) {
-                riskClass = 'warning';
-                riskMsg = `Risco: Alto. Meta para ${goal.label} e só tem ${pct}% pronto.`;
-            } else if (pct === 100) {
-                riskClass = 'success';
-                riskMsg = 'Concluído!';
-            } else {
-                riskClass = 'success';
-                riskMsg = `Ritmo normal. Prazo: ${goal.label}.`;
-            }
+        if (targetMonth < currentMonth) {
+            monthsLeft = 0;
+            isOverdue = true;
+        } else {
+            monthsLeft = targetMonth - currentMonth;
         }
         
+        const daysInTargetMonth = new Date(currentYear, targetMonth, 0).getDate();
+        const daysRemainingInMonth = daysInTargetMonth - dayOfMonth;
+        
+        let velocityNeeded = 0;
+        if (monthsLeft === 0 && remaining > 0) {
+            velocityNeeded = remaining;
+        } else if (monthsLeft > 0 && remaining > 0) {
+            velocityNeeded = Math.ceil(remaining / monthsLeft);
+        }
+        
+        let statusClass = 'success';
+        let statusIcon = '<i class="ph ph-check-circle"></i>';
+        let statusMsg = '';
+        
+        if (pct >= 100) {
+            statusClass = 'success';
+            statusIcon = '<i class="ph ph-check-circle"></i>';
+            statusMsg = '<span style="color: var(--color-success-light);">Concluído!</span>';
+        } else if (isOverdue) {
+            statusClass = 'danger';
+            statusIcon = '<i class="ph ph-warning-circle"></i>';
+            statusMsg = `<span style="color: var(--color-danger-light);">ATRASADO! Meta era ${goal.label}.</span>`;
+        } else if (pct < 25 && monthsLeft <= 1) {
+            statusClass = 'danger';
+            statusIcon = '<i class="ph ph-warning"></i>';
+            statusMsg = `<span style="color: var(--color-danger-light);">Risco Alto! Precisa acelerar.</span>`;
+        } else if (pct < 50 && monthsLeft <= 2) {
+            statusClass = 'warning';
+            statusIcon = '<i class="ph ph-warning"></i>';
+            statusMsg = `<span style="color: var(--color-warning-light);">Atenção! Ritmo precisa aumentar.</span>`;
+        } else {
+            statusClass = 'success';
+            statusIcon = '<i class="ph ph-clock"></i>';
+            statusMsg = `<span style="color: var(--color-success-light);">No prazo. Prazo: ${goal.label}.</span>`;
+        }
+        
+        const progressBarPct = Math.min(pct, 100);
+        
         metaHTML += `
-            <div class="insight-item ${riskClass} animate-fade-in">
-                <div class="insight-item-title"><i class="ph ph-graduation-cap"></i> ${y}º Ano Escolar</div>
-                <div class="insight-item-desc">${pct}% Concluído (${stats.done}/${stats.total}). ${riskMsg}</div>
+            <div class="insight-item ${statusClass} animate-fade-in" style="margin-bottom: 12px;">
+                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center;">
+                    <span>${statusIcon} ${y}º Ano — ${goal.label}</span>
+                    <span style="font-size: 1.1rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : 'inherit')};">${pct}%</span>
+                </div>
+                <div class="insight-item-desc">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.85rem;">
+                        <span>Produzido: <strong style="color: var(--color-success-light);">${stats.done}</strong> / ${META_EQUIPE_ANO}</span>
+                        <span>Faltando: <strong>${remaining}</strong></span>
+                    </div>
+                    <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden; margin-bottom: 8px;">
+                        <div style="width: ${progressBarPct}%; height: 100%; background: ${pct >= 100 ? 'var(--color-success)' : (isOverdue ? 'var(--color-danger)' : (pct < 50 ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
+                    </div>
+                    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-size: 0.75rem; margin-bottom: 8px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
+                            <div style="color: var(--text-muted);">Backlog</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-primary-light); font-weight: 600;">${stats.inProgress + stats.review + stats.video}</div>
+                            <div style="color: var(--text-muted);">Em Fluxo</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
+                            <div style="color: var(--text-muted);">Concluído</div>
+                        </div>
+                    </div>
+                    <div style="font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border-glass); padding-top: 8px; display: flex; justify-content: space-between;">
+                        <span>${statusMsg}</span>
+                        ${velocityNeeded > 0 ? `<span><i class="ph ph-lightning"></i> Precisa: <strong>${velocityNeeded}/mês</strong></span>` : ''}
+                    </div>
+                </div>
             </div>
         `;
     });
@@ -143,6 +222,10 @@ function runProgressEngine(items) {
     // Render Year Chart
     const ctxYear = document.getElementById('yearChart');
     if (ctxYear) {
+        const labels = renderOrder.map(y => `${y}º Ano`);
+        const doneData = renderOrder.map(y => yearStats[y].done);
+        const pendingData = renderOrder.map(y => Math.max(0, META_EQUIPE_ANO - yearStats[y].done));
+        
         if (yearChartInstance) yearChartInstance.destroy();
         yearChartInstance = new Chart(ctxYear.getContext('2d'), {
             type: 'bar',
@@ -152,7 +235,7 @@ function runProgressEngine(items) {
                     {
                         label: 'Concluídas',
                         data: doneData,
-                        backgroundColor: 'rgba(52, 211, 153, 0.8)'
+                        backgroundColor: 'rgba(16, 185, 129, 0.8)'
                     },
                     {
                         label: 'Pendentes',
@@ -176,13 +259,6 @@ function runProgressEngine(items) {
     }
     
     // Render Subject Chart (Distribution)
-    const subjects = {};
-    items.forEach(i => {
-        const sub = i.subject || 'Outros';
-        if (!subjects[sub]) subjects[sub] = 0;
-        subjects[sub]++;
-    });
-    
     const subLabels = Object.keys(subjects).slice(0, 5);
     const subData = subLabels.map(l => subjects[l]);
     
