@@ -334,9 +334,12 @@ body {
 }
 
 .menu a .icon {
-    font-size: var(--text-lg);
+    font-size: var(--text-xl);
     width: 24px;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Sync Status */
@@ -1156,7 +1159,53 @@ body {
 .insight-item:nth-child(5) { animation-delay: 200ms; }
 
 /* --------------------------------------------------------------------------
-   18. ACCESSIBILITY
+   16. ICONS - PHOSPHOR ICONS SYSTEM
+   -------------------------------------------------------------------------- */
+
+/* Icon sizing */
+.ph {
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.kpi-icon .ph {
+    font-size: 1.5rem;
+}
+
+.panel-header .ph {
+    font-size: 1.25rem;
+}
+
+/* Icon color variations - following design system palette */
+.icon-primary { color: var(--color-primary-light); }
+.icon-secondary { color: var(--color-secondary-light); }
+.icon-success { color: var(--color-success-light); }
+.icon-warning { color: var(--color-warning-light); }
+.icon-danger { color: var(--color-danger-light); }
+.icon-info { color: var(--color-info-light); }
+
+/* Icon backgrounds for KPI cards */
+.kpi-icon .ph {
+    transition: transform var(--transition-base);
+}
+
+.kpi-card:hover .kpi-icon .ph {
+    transform: scale(1.1);
+}
+
+/* Icon in menu */
+.menu .ph {
+    font-size: 1.25rem;
+    opacity: 0.9;
+}
+
+.menu a:hover .ph,
+.menu a.active .ph {
+    opacity: 1;
+}
+
+/* --------------------------------------------------------------------------
+   17. ACCESSIBILITY
    -------------------------------------------------------------------------- */
 
 /* Focus states for keyboard navigation */

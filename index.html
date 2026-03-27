@@ -9,9 +9,11 @@
     <title>Vision Board | Bibline Academy</title>
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons (Premium) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="public/styles.css?v=6">
+    <link rel="stylesheet" href="public/styles.css?v=7">
 </head>
 <body>
     <div class="dashboard-container">
@@ -25,16 +27,16 @@
             
             <nav class="menu">
                 <a href="index.html" class="active">
-                    <span class="icon">📊</span> Overview Geral
+                    <i class="ph ph-chart-pie-slice icon"></i> Overview Geral
                 </a>
                 <a href="metas.html">
-                    <span class="icon">🎯</span> Metas (Currículo)
+                    <i class="ph ph-target icon"></i> Metas (Currículo)
                 </a>
                 <a href="prod.html">
-                    <span class="icon">👥</span> Produtividade
+                    <i class="ph ph-users-three icon"></i> Produtividade
                 </a>
                 <a href="videos.html">
-                    <span class="icon">🎬</span> Videos Pipeline
+                    <i class="ph ph-video-camera icon"></i> Videos Pipeline
                 </a>
             </nav>
 
@@ -56,28 +58,28 @@
             <!-- KPI Cards -->
             <section class="kpi-grid">
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon blue">📁</div>
+                    <div class="kpi-icon blue"><i class="ph ph-folder-simple"></i></div>
                     <div class="kpi-data">
                         <h3>Total de Tarefas</h3>
                         <p id="kpi-total">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon green">✅</div>
+                    <div class="kpi-icon green"><i class="ph ph-check-circle"></i></div>
                     <div class="kpi-data">
                         <h3>Concluídas (Done)</h3>
                         <p id="kpi-done">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon yellow">🚀</div>
+                    <div class="kpi-icon purple"><i class="ph ph-play-circle"></i></div>
                     <div class="kpi-data">
                         <h3>Em Progresso</h3>
                         <p id="kpi-in-progress">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon orange">🔍</div>
+                    <div class="kpi-icon orange"><i class="ph ph-magnifying-glass"></i></div>
                     <div class="kpi-data">
                         <h3>Em Revisão</h3>
                         <p id="kpi-review">0</p>
@@ -106,7 +108,7 @@
                 <!-- Meta Engine -->
                 <div class="insight-panel glass-panel">
                     <div class="panel-header">
-                        <span class="icon">🎯</span>
+                        <i class="ph ph-target icon"></i>
                         <h3>Motor de Metas</h3>
                     </div>
                     <div id="meta-container" class="insight-list">
@@ -117,7 +119,7 @@
                 <!-- Gargalo Detector -->
                 <div class="insight-panel glass-panel">
                     <div class="panel-header">
-                        <span class="icon">🚨</span>
+                        <i class="ph ph-warning icon"></i>
                         <h3>Detector de Gargalos</h3>
                     </div>
                     <div id="gargalo-container" class="insight-list">
@@ -128,6 +130,6 @@
         </main>
     </div>
 
-    <script src="public/app.js?v=5"></script>
+    <script src="public/app.js?v=6"></script>
 </body>
 </html>
