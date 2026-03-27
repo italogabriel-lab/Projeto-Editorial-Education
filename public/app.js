@@ -17,7 +17,7 @@ async function performSync() {
     } catch (e) {
         console.error("Error loading data:", e);
         document.getElementById('kpi-total').textContent = "ERROR";
-        document.getElementById('meta-container').innerHTML = `<div class="insight-item danger"><div class="insight-item-title">Data Error</div><div class="insight-item-desc">Não foi possível carregar data.json.</div></div>`;
+        document.getElementById('meta-container').innerHTML = `<div class="insight-item danger animate-fade-in"><div class="insight-item-title">⚠️ Erro de Dados</div><div class="insight-item-desc">Não foi possível carregar data.json. Verifique a conexão.</div></div>`;
     }
 }
 
@@ -105,8 +105,8 @@ function runProgressEngine(items) {
         }
         
         metaHTML += `
-            <div class="insight-item ${riskClass}">
-                <div class="insight-item-title">${y}º Ano Escolar</div>
+            <div class="insight-item ${riskClass} animate-fade-in">
+                <div class="insight-item-title">🎓 ${y}º Ano Escolar</div>
                 <div class="insight-item-desc">${pct}% Concluído (${stats.done}/${stats.total}). ${riskMsg}</div>
             </div>
         `;
@@ -200,9 +200,9 @@ function runGargaloDetector(items) {
     
     if (assignees['Unassigned'] && assignees['Unassigned'].pending > 0) {
         gargaloHTML += `
-            <div class="insight-item warning">
-                <div class="insight-item-title">Tickets Órfãos</div>
-                <div class="insight-item-desc">Existem ${assignees['Unassigned'].pending} tarefas pendentes sem nenhum usuário atribuído.</div>
+            <div class="insight-item warning animate-fade-in">
+                <div class="insight-item-title">⚠️ Tickets Órfãos</div>
+                <div class="insight-item-desc">Existen ${assignees['Unassigned'].pending} tarefas pendentes sem nenhum usuário atribuído.</div>
             </div>
         `;
     }
@@ -226,19 +226,19 @@ function runGargaloDetector(items) {
         
         if (pct < 20) {
             gargaloHTML += `
-                <div class="insight-item danger">
-                    <div class="insight-item-title">⚠️ @${u} - Baixa Performance</div>
+                <div class="insight-item danger animate-fade-in">
+                    <div class="insight-item-title">⚠️ @${u} — Baixa Performance</div>
                     <div class="insight-item-desc">
                         <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
-                        <span style="color:#fb923c;">Pendente: ${o.pending}</span> | Concluído: ${o.done}<br>
+                        <span style="color:var(--color-warning-light);">Pendente: ${o.pending}</span> | Concluído: ${o.done}<br>
                         ${yearDetails}
                     </div>
                 </div>
             `;
         } else if (pct >= 50) {
             gargaloHTML += `
-                <div class="insight-item success">
-                    <div class="insight-item-title">✅ @${u} - Boa Performance</div>
+                <div class="insight-item success animate-fade-in">
+                    <div class="insight-item-title">✅ @${u} — Excelente Performance</div>
                     <div class="insight-item-desc">
                         <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
                         ${yearDetails}
