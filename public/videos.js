@@ -207,7 +207,7 @@ function runVideoProgressEngine(items) {
         
         metaHTML += `
             <div class="insight-item ${riskClass} animate-fade-in">
-                <div class="insight-item-title">🎬 ${y}º Ano Escolar</div>
+                <div class="insight-item-title"><i class="ph ph-video-camera"></i> ${y}º Ano Escolar</div>
                 <div class="insight-item-desc">${pct}% Concluído (${stats.review}/${stats.total} em revisão). ${riskMsg}</div>
             </div>
         `;
@@ -247,7 +247,7 @@ function runVideoGargaloDetector(items) {
             if (u === 'Unassigned') return;
             gargaloHTML += `
                 <div class="insight-item danger animate-fade-in">
-                    <div class="insight-item-title">⛔ Bloqueado: @${u}</div>
+                    <div class="insight-item-title"><i class="ph ph-prohibit"></i> Bloqueado: @${u}</div>
                     <div class="insight-item-desc">${byAssignee[u]} video(s) bloqueado(s) aguardando desbloqueio.</div>
                 </div>
             `;
@@ -258,7 +258,7 @@ function runVideoGargaloDetector(items) {
     if (assignees['Unassigned']) {
         gargaloHTML += `
             <div class="insight-item warning animate-fade-in">
-                <div class="insight-item-title">⚠️ Videos Órfãos</div>
+                <div class="insight-item-title"><i class="ph ph-warning"></i> Videos Órfãos</div>
                 <div class="insight-item-desc">${assignees['Unassigned'].total} videos sem responsável atribuído.</div>
             </div>
         `;
@@ -272,14 +272,14 @@ function runVideoGargaloDetector(items) {
         if (pct < 20 && a.total > 10) {
             gargaloHTML += `
                 <div class="insight-item warning animate-fade-in">
-                    <div class="insight-item-title">⚠️ Baixa Performance: @${u}</div>
+                    <div class="insight-item-title"><i class="ph ph-warning"></i> Baixa Performance: @${u}</div>
                     <div class="insight-item-desc">Apenas ${pct}% em revisão (${a.review}/${a.total}). Ritmo abaixo do esperado.</div>
                 </div>
             `;
         } else if (pct >= 80 && a.total > 5) {
             gargaloHTML += `
                 <div class="insight-item success animate-fade-in">
-                    <div class="insight-item-title">✅ Alta Performance: @${u}</div>
+                    <div class="insight-item-title"><i class="ph ph-check-circle"></i> Alta Performance: @${u}</div>
                     <div class="insight-item-desc">Excelente! ${pct}% dos videos em revisão.</div>
                 </div>
             `;
@@ -291,14 +291,14 @@ function runVideoGargaloDetector(items) {
         if (subjects[s] > 80) {
             gargaloHTML += `
                 <div class="insight-item warning animate-fade-in">
-                    <div class="insight-item-title">📚 Alto Volume: ${s}</div>
+                    <div class="insight-item-title"><i class="ph ph-book-open"></i> Alto Volume: ${s}</div>
                     <div class="insight-item-desc">${subjects[s]} videos pendentes nesta disciplina. Considere redistribuir.</div>
                 </div>
             `;
         }
     });
     
-    document.getElementById('gargalo-container').innerHTML = gargaloHTML || '<div class="insight-item success animate-fade-in">✅ Nenhum gargalo detectado. Equipe operando normalmente.</div>';
+    document.getElementById('gargalo-container').innerHTML = gargaloHTML || '<div class="insight-item success animate-fade-in"><i class="ph ph-check-circle"></i> Nenhum gargalo detectado. Equipe operando normalmente.</div>';
 }
 
 document.addEventListener('DOMContentLoaded', () => {

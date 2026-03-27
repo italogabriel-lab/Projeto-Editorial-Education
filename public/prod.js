@@ -183,17 +183,17 @@ function renderProdutividade(items) {
             yearsHTML += `
                 <div style="background: rgba(255,255,255,0.03); padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid ${yrStatusColor};">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-                        <span style="font-weight: 600; font-size: 0.9rem;">Ano ${yr} (${targetMonthName})</span>
+                        <span style="font-weight: 600; font-size: 0.9rem;"><i class="ph ph-book-open"></i> Ano ${yr} (${targetMonthName})</span>
                         <span style="font-weight: 700; color: ${yrStatusColor};">${pct}%</span>
                     </div>
                     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 6px;">
-                        <div style="text-align: center;"><div style="color: #10b981;">✅ ${done}</div><div style="color: #94a3b8;">Feito</div></div>
-                        <div style="text-align: center;"><div style="color: #f59e0b;">🔄 ${pendingNow}</div><div style="color: #94a3b8;">Pendente</div></div>
-                        <div style="text-align: center;"><div style="color: #8b5cf6;">⏳ ${review + video}</div><div style="color: #94a3b8;">Em fluxo</div></div>
+                        <div style="text-align: center;"><div style="color: #10b981;"><i class="ph ph-check-circle"></i> ${done}</div><div style="color: #94a3b8;">Feito</div></div>
+                        <div style="text-align: center;"><div style="color: #f59e0b;"><i class="ph ph-clock"></i> ${pendingNow}</div><div style="color: #94a3b8;">Pendente</div></div>
+                        <div style="text-align: center;"><div style="color: #8b5cf6;"><i class="ph ph-arrows-clockwise"></i> ${review + video}</div><div style="color: #94a3b8;">Em fluxo</div></div>
                     </div>
                     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.7rem; margin-bottom: 4px;">
                         <span style="color: #94a3b8;">${progressBar}</span>
-                        <span style="font-weight: 700; color: ${yrStatusColor};">⚡ ${velocityNeeded}/dia</span>
+                        <span style="font-weight: 700; color: ${yrStatusColor};"><i class="ph ph-lightning"></i> ${velocityNeeded}/dia</span>
                     </div>
                     <div style="display: flex; justify-content: space-between; font-size: 0.65rem; color: #94a3b8;">
                         <span>Faltam: ${remaining}</span>
@@ -217,7 +217,7 @@ function renderProdutividade(items) {
         rankingHTML += `
             <div class="insight-item animate-fade-in" style="margin: 0; border-left: 3px solid ${totalStatusColor};">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-                    <div class="insight-item-title" style="font-size: 1.1rem;">👤 @${u}</div>
+                    <div class="insight-item-title" style="font-size: 1.1rem;"><i class="ph ph-user"></i> @${u}</div>
                     <div style="text-align: right;">
                         <strong style="font-size: 1.4rem; color: ${totalStatusColor};">${totalPct}%</strong>
                         <div style="font-size: 0.75rem; opacity: 0.7;">${totalDoneAllYears}/${totalMeta} aulas</div>
@@ -232,7 +232,7 @@ function renderProdutividade(items) {
                 </div>
                 
                 <div style="border-top: 1px solid var(--border-glass); padding-top: 12px;">
-                    <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">📊 Detalhamento por Ano</div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;"><i class="ph ph-chart-bar"></i> Detalhamento por Ano</div>
                     ${yearsHTML}
                 </div>
             </div>
@@ -241,13 +241,13 @@ function renderProdutividade(items) {
     
     rankingHTML += `
         <div class="insight-item" style="margin: 0; opacity: 0.7; background: rgba(255,255,255,0.02);">
-            <div class="insight-item-title">📊 Legenda de Status</div>
+            <div class="insight-item-title"><i class="ph ph-info"></i> Legenda de Status</div>
             <div class="insight-item-desc" style="font-size: 0.85rem;">
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
-                    <div>✅ <strong>Feito</strong> - Concluído</div>
-                    <div>🔄 <strong>Pendente</strong> - Backlog + In Progress</div>
-                    <div>⏳ <strong>Em fluxo</strong> - In Review + Video</div>
-                    <div>⚡ <strong>/dia</strong> - Velocidade necessária</div>
+                    <div><i class="ph ph-check-circle"></i> <strong>Feito</strong> - Concluído</div>
+                    <div><i class="ph ph-clock"></i> <strong>Pendente</strong> - Backlog + In Progress</div>
+                    <div><i class="ph ph-arrows-clockwise"></i> <strong>Em fluxo</strong> - In Review + Video</div>
+                    <div><i class="ph ph-lightning"></i> <strong>/dia</strong> - Velocidade necessária</div>
                 </div>
                 <br>
                 <strong>Meta por colaborador:</strong> 168 aulas/ano × 5 anos = 840 aulas<br>
@@ -266,7 +266,7 @@ function renderProdutividade(items) {
         if (totalPending > 0) {
             bottleneckHTML += `
                 <div class="insight-item danger animate-fade-in">
-                    <div class="insight-item-title">⚠️ Tarefas Órfãs</div>
+                    <div class="insight-item-title"><i class="ph ph-warning"></i> Tarefas Órfãs</div>
                     <div class="insight-item-desc">Há ${totalPending} tarefas sem dono.</div>
                 </div>
             `;
@@ -283,14 +283,14 @@ function renderProdutividade(items) {
         if (totalPending > 15 && pct < 40) {
             bottleneckHTML += `
                 <div class="insight-item warning animate-fade-in">
-                    <div class="insight-item-title">🚨 Sobrecarga: @${u}</div>
+                    <div class="insight-item-title"><i class="ph ph-warning"></i> Sobrecarga: @${u}</div>
                     <div class="insight-item-desc">Fila de ${totalPending} itens com baixa taxa de conclusão (${pct}%).</div>
                 </div>
             `;
         }
     });
     
-    if(!bottleneckHTML) bottleneckHTML = '<div class="insight-item success animate-fade-in">✅ Nenhum gargalo detectado na equipe.</div>';
+    if(!bottleneckHTML) bottleneckHTML = '<div class="insight-item success animate-fade-in"><i class="ph ph-check-circle"></i> Nenhum gargalo detectado na equipe.</div>';
     document.getElementById('bottleneck-list').innerHTML = bottleneckHTML;
 
     // --- 3. Balanceamento de Equipe (Chart) ---

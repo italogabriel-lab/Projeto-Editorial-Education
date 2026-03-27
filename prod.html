@@ -8,8 +8,10 @@
     <meta http-equiv="Expires" content="0">
     <title>Produtividade da Equipe | Bibline Academy</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons (Premium) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="public/styles.css?v=6">
+    <link rel="stylesheet" href="public/styles.css?v=7">
 </head>
 <body>
     <div class="dashboard-container">
@@ -23,16 +25,16 @@
             
             <nav class="menu">
                 <a href="index.html">
-                    <span class="icon">📊</span> Overview Geral
+                    <i class="ph ph-chart-pie-slice icon"></i> Overview Geral
                 </a>
                 <a href="metas.html">
-                    <span class="icon">🎯</span> Metas (Currículo)
+                    <i class="ph ph-target icon"></i> Metas (Currículo)
                 </a>
                 <a href="prod.html" class="active">
-                    <span class="icon">👥</span> Produtividade
+                    <i class="ph ph-users-three icon"></i> Produtividade
                 </a>
                 <a href="videos.html">
-                    <span class="icon">🎬</span> Videos Pipeline
+                    <i class="ph ph-video-camera icon"></i> Videos Pipeline
                 </a>
             </nav>
 
@@ -70,7 +72,7 @@
             <section class="ai-insights-row">
                 <div class="insight-panel glass-panel" style="width: 100%">
                     <div class="panel-header">
-                        <span class="icon">🏆</span>
+                        <i class="ph ph-trophy icon"></i>
                         <h3>Ranking Individual de Produção</h3>
                     </div>
                     <div id="ranking-container" class="insight-list" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
@@ -81,6 +83,6 @@
         </main>
     </div>
 
-    <script src="public/prod.js?v=8"></script>
+    <script src="public/prod.js?v=9"></script>
 </body>
 </html>

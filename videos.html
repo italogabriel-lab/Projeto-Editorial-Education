@@ -8,8 +8,10 @@
     <meta http-equiv="Expires" content="0">
     <title>Videos Pipeline | Bibline Academy</title>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons (Premium) -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="public/styles.css?v=6">
+    <link rel="stylesheet" href="public/styles.css?v=7">
 </head>
 <body>
     <div class="dashboard-container">
@@ -23,16 +25,16 @@
             
             <nav class="menu">
                 <a href="index.html">
-                    <span class="icon">📊</span> Overview Geral
+                    <i class="ph ph-chart-pie-slice icon"></i> Overview Geral
                 </a>
                 <a href="metas.html">
-                    <span class="icon">🎯</span> Metas (Currículo)
+                    <i class="ph ph-target icon"></i> Metas (Currículo)
                 </a>
                 <a href="prod.html">
-                    <span class="icon">👥</span> Produtividade
+                    <i class="ph ph-users-three icon"></i> Produtividade
                 </a>
                 <a href="videos.html" class="active">
-                    <span class="icon">🎬</span> Videos Pipeline
+                    <i class="ph ph-video-camera icon"></i> Videos Pipeline
                 </a>
             </nav>
 
@@ -54,28 +56,28 @@
             <!-- KPI Cards -->
             <section class="kpi-grid">
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon purple">🎬</div>
+                    <div class="kpi-icon purple"><i class="ph ph-video-camera"></i></div>
                     <div class="kpi-data">
                         <h3>Total de Videos</h3>
                         <p id="kpi-total">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon green">✅</div>
+                    <div class="kpi-icon green"><i class="ph ph-check-circle"></i></div>
                     <div class="kpi-data">
                         <h3>Concluídos (Em Revisão)</h3>
                         <p id="kpi-review">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon blue">⚡</div>
+                    <div class="kpi-icon blue"><i class="ph ph-lightning"></i></div>
                     <div class="kpi-data">
                         <h3>Em Produção</h3>
                         <p id="kpi-producing">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon red">⛔</div>
+                    <div class="kpi-icon red"><i class="ph ph-prohibit"></i></div>
                     <div class="kpi-data">
                         <h3>Bloqueados</h3>
                         <p id="kpi-blocked">0</p>
@@ -103,7 +105,7 @@
             <section class="assignee-section">
                 <div class="glass-panel" style="padding: 1.5rem;">
                     <div class="panel-header">
-                        <span class="icon">👥</span>
+                        <i class="ph ph-users icon"></i>
                         <h3>Por Responsável</h3>
                     </div>
                     <div id="assignee-grid" class="assignee-grid">
@@ -117,7 +119,7 @@
                 <!-- Meta Engine -->
                 <div class="insight-panel glass-panel">
                     <div class="panel-header">
-                        <span class="icon">🎯</span>
+                        <i class="ph ph-target icon"></i>
                         <h3>Motor de Metas (Videos)</h3>
                     </div>
                     <div id="meta-container" class="insight-list">
@@ -128,7 +130,7 @@
                 <!-- Gargalo Detector -->
                 <div class="insight-panel glass-panel">
                     <div class="panel-header">
-                        <span class="icon">🚨</span>
+                        <i class="ph ph-warning icon"></i>
                         <h3>Detector de Gargalos</h3>
                     </div>
                     <div id="gargalo-container" class="insight-list">
@@ -139,6 +141,6 @@
         </main>
     </div>
 
-    <script src="public/videos.js?v=3"></script>
+    <script src="public/videos.js?v=4"></script>
 </body>
 </html>
