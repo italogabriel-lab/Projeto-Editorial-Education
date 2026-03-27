@@ -13,7 +13,7 @@
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <link rel="stylesheet" href="public/styles.css?v=7">
+    <link rel="stylesheet" href="public/styles.css?v=8">
 </head>
 <body>
     <div class="dashboard-container">
@@ -67,22 +67,54 @@
                 <div class="kpi-card glass-panel">
                     <div class="kpi-icon green"><i class="ph ph-check-circle"></i></div>
                     <div class="kpi-data">
-                        <h3>Concluídas (Done)</h3>
+                        <h3>Concluídas</h3>
                         <p id="kpi-done">0</p>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
-                    <div class="kpi-icon purple"><i class="ph ph-play-circle"></i></div>
+                    <div class="kpi-icon purple"><i class="ph ph-hourglass-medium"></i></div>
+                    <div class="kpi-data">
+                        <h3>Backlog</h3>
+                        <p id="kpi-backlog">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon cyan"><i class="ph ph-play-circle"></i></div>
                     <div class="kpi-data">
                         <h3>Em Progresso</h3>
                         <p id="kpi-in-progress">0</p>
                     </div>
                 </div>
+            </section>
+
+            <!-- KPI Cards Row 2 -->
+            <section class="kpi-grid">
                 <div class="kpi-card glass-panel">
                     <div class="kpi-icon orange"><i class="ph ph-magnifying-glass"></i></div>
                     <div class="kpi-data">
                         <h3>Em Revisão</h3>
                         <p id="kpi-review">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon pink"><i class="ph ph-video-camera"></i></div>
+                    <div class="kpi-data">
+                        <h3>Em Video</h3>
+                        <p id="kpi-video">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon red"><i class="ph ph-prohibit"></i></div>
+                    <div class="kpi-data">
+                        <h3>Bloqueadas</h3>
+                        <p id="kpi-block">0</p>
+                    </div>
+                </div>
+                <div class="kpi-card glass-panel">
+                    <div class="kpi-icon gray"><i class="ph ph-question"></i></div>
+                    <div class="kpi-data">
+                        <h3>Sem Status</h3>
+                        <p id="kpi-no-status">0</p>
                     </div>
                 </div>
             </section>
@@ -130,6 +162,6 @@
         </main>
     </div>
 
-    <script src="public/app.js?v=6"></script>
+    <script src="public/app.js?v=7"></script>
 </body>
 </html>
