@@ -61,6 +61,12 @@ Use esta tabela de roteamento para direcionar o usuário:
 | Pesquisar conteúdo | `skills/researcher/SKILL.md` | @researcher |
 | Publicar arquivo | `skills/publisher/SKILL.md` | @publisher |
 | Status geral do projeto | Este skill | @orchestrator |
+| Design Thinking | `skills/design-thinking/SKILL.md` | @design-thinking |
+| UI Designer | `skills/ui-designer/SKILL.md` | @ui-designer |
+| Criar Design System | `skills/ui-designer/SKILL.md` | @ui-designer "criar design system" |
+| Criar componentes responsivos | `skills/ui-designer/SKILL.md` | @ui-designer "criar componentes" |
+| Pesquisa UX / Personas | `skills/design-thinking/SKILL.md` | @design-thinking "pesquisa UX" |
+| Wireframes / Protótipos | `skills/design-thinking/SKILL.md` | @design-thinking "wireframes" |
 
 ### 4. Auditoria de Consistência 🔍
 
@@ -86,6 +92,8 @@ Você deve conhecer e referenciar quando necessário:
 | Golden Template | `templates/padrao_final_aula.md` | Estrutura-padrão de aula |
 | Workflow de Aula | `workflows/produce_class.md` | Pipeline de 7 etapas |
 | Workflow de Publicação | `workflows/publish.md` | Processo de push Git |
+| Design Thinking | `skills/design-thinking/SKILL.md` | Coordenação UX/Design |
+| UI Designer | `skills/ui-designer/SKILL.md` | Design System Premium |
 
 ## Output
 - Relatório de status conciso e acionável

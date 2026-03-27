@@ -215,9 +215,9 @@ function renderProdutividade(items) {
         const totalProgressBar = '█'.repeat(Math.min(totalPct, 100) / 5) + '░'.repeat(20 - Math.min(totalPct, 100) / 5);
         
         rankingHTML += `
-            <div class="insight-item" style="margin: 0; border-left: 3px solid ${totalStatusColor};">
+            <div class="insight-item animate-fade-in" style="margin: 0; border-left: 3px solid ${totalStatusColor};">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-                    <div class="insight-item-title" style="font-size: 1.1rem;">@${u}</div>
+                    <div class="insight-item-title" style="font-size: 1.1rem;">👤 @${u}</div>
                     <div style="text-align: right;">
                         <strong style="font-size: 1.4rem; color: ${totalStatusColor};">${totalPct}%</strong>
                         <div style="font-size: 0.75rem; opacity: 0.7;">${totalDoneAllYears}/${totalMeta} aulas</div>
@@ -226,13 +226,13 @@ function renderProdutividade(items) {
                 
                 <div style="margin-bottom: 12px;">
                     <div style="display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 6px;">
-                        <span style="color: #94a3b8;">Progresso Total (5 anos)</span>
+                        <span style="color: var(--text-muted);">Progresso Total (5 anos)</span>
                         <span>${totalProgressBar}</span>
                     </div>
                 </div>
                 
-                <div style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 12px;">
-                    <div style="font-size: 0.75rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">Detalhamento por Ano</div>
+                <div style="border-top: 1px solid var(--border-glass); padding-top: 12px;">
+                    <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px;">📊 Detalhamento por Ano</div>
                     ${yearsHTML}
                 </div>
             </div>
@@ -265,7 +265,7 @@ function renderProdutividade(items) {
         const totalPending = Object.values(userStats['Unassigned'].years).reduce((sum, yr) => sum + (yr.inProgress + yr.backlog), 0);
         if (totalPending > 0) {
             bottleneckHTML += `
-                <div class="insight-item danger">
+                <div class="insight-item danger animate-fade-in">
                     <div class="insight-item-title">⚠️ Tarefas Órfãs</div>
                     <div class="insight-item-desc">Há ${totalPending} tarefas sem dono.</div>
                 </div>
@@ -282,15 +282,15 @@ function renderProdutividade(items) {
         
         if (totalPending > 15 && pct < 40) {
             bottleneckHTML += `
-                <div class="insight-item warning">
-                    <div class="insight-item-title">Sobrecarga: @${u}</div>
+                <div class="insight-item warning animate-fade-in">
+                    <div class="insight-item-title">🚨 Sobrecarga: @${u}</div>
                     <div class="insight-item-desc">Fila de ${totalPending} itens com baixa taxa de conclusão (${pct}%).</div>
                 </div>
             `;
         }
     });
     
-    if(!bottleneckHTML) bottleneckHTML = '<div class="insight-item success">Nenhum gargalo detectado.</div>';
+    if(!bottleneckHTML) bottleneckHTML = '<div class="insight-item success animate-fade-in">✅ Nenhum gargalo detectado na equipe.</div>';
     document.getElementById('bottleneck-list').innerHTML = bottleneckHTML;
 
     // --- 3. Balanceamento de Equipe (Chart) ---
