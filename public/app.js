@@ -12,7 +12,6 @@ async function performSync() {
         
         runAnalyzer(items);
         runProgressEngine(items);
-        runGargaloDetector(items);
         
     } catch (e) {
         console.error("Error loading data:", e);
