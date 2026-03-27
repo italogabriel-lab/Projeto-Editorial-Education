@@ -163,9 +163,36 @@
                     </div>
                 </div>
             </section>
+
+            <!-- Saúde das Metas por Usuário e Disciplina -->
+            <section class="ai-insights-row" style="margin-top: 2rem;">
+                <!-- Por Usuário -->
+                <div class="insight-panel glass-panel" style="width: 100%;">
+                    <div class="panel-header">
+                        <i class="ph ph-user-heart icon"></i>
+                        <h3>Saúde das Metas — Por Responsável</h3>
+                    </div>
+                    <div id="user-health-container" class="insight-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px;">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </section>
+
+            <section class="ai-insights-row" style="margin-top: 2rem;">
+                <!-- Por Disciplina -->
+                <div class="insight-panel glass-panel" style="width: 100%;">
+                    <div class="panel-header">
+                        <i class="ph ph-book-open-text icon"></i>
+                        <h3>Saúde das Metas — Por Disciplina</h3>
+                    </div>
+                    <div id="subject-health-container" class="insight-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px;">
+                        <!-- Populated by JS -->
+                    </div>
+                </div>
+            </section>
         </main>
     </div>
 
-    <script src="public/app.js?v=10"></script>
+    <script src="public/app.js?v=11"></script>
 </body>
 </html>

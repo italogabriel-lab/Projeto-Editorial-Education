@@ -284,4 +284,309 @@ function runProgressEngine(items) {
     }
     
     console.log('Progress engine completed');
+    
+    // Render User Health
+    renderUserHealth(items);
+    // Render Subject Health
+    renderSubjectHealth(items);
+}
+
+function getMetaHealth(remaining, targetMonth) {
+    const currentDate = new Date();
+    const currentMonth = currentDate.getMonth() + 1;
+    const currentYear = currentDate.getFullYear();
+    const dayOfMonth = currentDate.getDate();
+    
+    let monthsLeft = 0;
+    let isOverdue = false;
+    
+    if (targetMonth < currentMonth) {
+        monthsLeft = 0;
+        isOverdue = true;
+    } else {
+        monthsLeft = targetMonth - currentMonth;
+    }
+    
+    const daysInTargetMonth = new Date(currentYear, targetMonth, 0).getDate();
+    const daysRemaining = (monthsLeft - 1) * 30 + (daysInTargetMonth - dayOfMonth);
+    
+    let velocityNeeded = 0;
+    if (remaining > 0) {
+        if (monthsLeft === 0) {
+            velocityNeeded = remaining;
+        } else {
+            velocityNeeded = Math.ceil(remaining / monthsLeft);
+        }
+    }
+    
+    let health = 'healthy';
+    let healthIcon = '<i class="ph ph-heart"></i>';
+    let healthMsg = 'No prazo';
+    let healthColor = 'var(--color-success-light)';
+    
+    if (remaining === 0) {
+        health = 'completed';
+        healthIcon = '<i class="ph ph-heart-break"></i>';
+        healthMsg = 'Meta atingida!';
+        healthColor = 'var(--color-success-light)';
+    } else if (isOverdue || (monthsLeft === 0 && remaining > 0)) {
+        health = 'critical';
+        healthIcon = '<i class="ph ph-warning-circle"></i>';
+        healthMsg = 'ATRASADO';
+        healthColor = 'var(--color-danger-light)';
+    } else if (remaining > velocityNeeded * monthsLeft * 1.5) {
+        health = 'warning';
+        healthIcon = '<i class="ph ph-heartbeat"></i>';
+        healthMsg = 'Atenção';
+        healthColor = 'var(--color-warning-light)';
+    }
+    
+    return {
+        health,
+        healthIcon,
+        healthMsg,
+        healthColor,
+        monthsLeft,
+        daysRemaining,
+        velocityNeeded,
+        isOverdue
+    };
+}
+
+function renderUserHealth(items) {
+    console.log('Rendering user health...');
+    
+    const userStats = {};
+    const META_POR_USER = META_EQUIPE_ANO;
+    
+    items.forEach(i => {
+        const user = i.assignee || 'Unassigned';
+        const status = i.status;
+        const year = i.year;
+        
+        if (!userStats[user]) {
+            userStats[user] = {
+                done: 0,
+                backlog: 0,
+                inProgress: 0,
+                review: 0,
+                video: 0,
+                years: {}
+            };
+        }
+        
+        if (status === 'Done/Published') userStats[user].done++;
+        else if (status === 'Backlog') userStats[user].backlog++;
+        else if (status === 'In Progress') userStats[user].inProgress++;
+        else if (status === 'In Review') userStats[user].review++;
+        else if (status === 'Video') userStats[user].video++;
+        
+        if (year) {
+            if (!userStats[user].years[year]) {
+                userStats[user].years[year] = { done: 0 };
+            }
+            if (status === 'Done/Published') {
+                userStats[user].years[year].done++;
+            }
+        }
+    });
+    
+    let userHealthHTML = '';
+    const sortedUsers = Object.keys(userStats)
+        .filter(u => u !== 'Unassigned')
+        .sort((a, b) => userStats[b].done - userStats[a].done);
+    
+    if (userStats['Unassigned'] && userStats['Unassigned'].backlog > 0) {
+        const orphan = userStats['Unassigned'];
+        const remaining = META_POR_USER;
+        const healthData = getMetaHealth(remaining, 6);
+        
+        userHealthHTML += `
+            <div class="insight-item warning animate-fade-in">
+                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center;">
+                    <span><i class="ph ph-user"></i> Tarefas Órfãs</span>
+                    <span style="color: var(--color-warning-light);">⚠️ ${orphan.backlog} pendentes</span>
+                </div>
+                <div class="insight-item-desc">
+                    <div style="font-size: 0.8rem; color: var(--text-muted);">Atenção: tarefas sem responsável atribuído</div>
+                </div>
+            </div>
+        `;
+    }
+    
+    sortedUsers.forEach(user => {
+        const stats = userStats[user];
+        const totalDone = stats.done;
+        const remaining = Math.max(0, META_POR_USER - totalDone);
+        const healthData = getMetaHealth(remaining, 6);
+        
+        const pct = Math.round((totalDone / META_POR_USER) * 100);
+        const inFlow = stats.inProgress + stats.review + stats.video;
+        
+        const cardStyle = healthData.health === 'critical' ? 'border-left: 4px solid var(--color-danger);' :
+                         healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
+                         healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
+        
+        userHealthHTML += `
+            <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
+                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                    <span style="display: flex; align-items: center; gap: 8px;">
+                        <i class="ph ph-user-circle" style="font-size: 1.2rem;"></i>
+                        <strong>${user}</strong>
+                    </span>
+                    <span style="font-size: 1.2rem; font-weight: 700; color: ${healthData.healthColor};">${pct}%</span>
+                </div>
+                <div class="insight-item-desc">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.85rem;">
+                        <span>Produzido: <strong style="color: var(--color-success-light);">${totalDone}</strong> / ${META_POR_USER}</span>
+                        <span>Faltando: <strong>${remaining}</strong></span>
+                    </div>
+                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
+                        <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${healthData.health === 'completed' ? 'var(--color-success)' : (healthData.health === 'critical' ? 'var(--color-danger)' : (healthData.health === 'warning' ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
+                    </div>
+                    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 10px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
+                            <div style="color: var(--text-muted);">Backlog</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-primary-light); font-weight: 600;">${inFlow}</div>
+                            <div style="color: var(--text-muted);">Em Fluxo</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
+                            <div style="color: var(--text-muted);">Feito</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.daysRemaining}</div>
+                            <div style="color: var(--text-muted);">Dias</div>
+                        </div>
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); border-top: 1px solid var(--border-glass); padding-top: 8px; display: flex; justify-content: space-between; align-items: center;">
+                        <span style="color: ${healthData.healthColor};">${healthData.healthIcon} ${healthData.healthMsg}</span>
+                        ${remaining > 0 ? `<span><i class="ph ph-lightning"></i> Precisa: <strong>${healthData.velocityNeeded}/mês</strong></span>` : ''}
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    
+    const container = document.getElementById('user-health-container');
+    if (container) {
+        container.innerHTML = userHealthHTML || '<div class="insight-item">Nenhum dado de usuário encontrado.</div>';
+    }
+}
+
+function renderSubjectHealth(items) {
+    console.log('Rendering subject health...');
+    
+    const subjectStats = {};
+    const META_POR_DISCIPLINA_ANO = 168;
+    const NUM_ANOS = 5;
+    const META_POR_DISCIPLINA_TOTAL = META_POR_DISCIPLINA_ANO * NUM_ANOS;
+    
+    items.forEach(i => {
+        const sub = i.subject || 'Outros';
+        const status = i.status;
+        const year = i.year;
+        
+        if (!subjectStats[sub]) {
+            subjectStats[sub] = {
+                done: 0,
+                backlog: 0,
+                inProgress: 0,
+                review: 0,
+                video: 0,
+                years: {}
+            };
+        }
+        
+        if (status === 'Done/Published') subjectStats[sub].done++;
+        else if (status === 'Backlog') subjectStats[sub].backlog++;
+        else if (status === 'In Progress') subjectStats[sub].inProgress++;
+        else if (status === 'In Review') subjectStats[sub].review++;
+        else if (status === 'Video') subjectStats[sub].video++;
+        
+        if (year) {
+            if (!subjectStats[sub].years[year]) {
+                subjectStats[sub].years[year] = { done: 0 };
+            }
+            if (status === 'Done/Published') {
+                subjectStats[sub].years[year].done++;
+            }
+        }
+    });
+    
+    let subjectHealthHTML = '';
+    const sortedSubjects = Object.keys(subjectStats)
+        .sort((a, b) => subjectStats[b].done - subjectStats[a].done);
+    
+    sortedSubjects.forEach(sub => {
+        const stats = subjectStats[sub];
+        const totalDone = stats.done;
+        const remaining = Math.max(0, META_POR_DISCIPLINA_TOTAL - totalDone);
+        
+        const avgYearProgress = Object.keys(stats.years).reduce((sum, yr) => {
+            const yrDone = stats.years[yr].done || 0;
+            return sum + (yrDone / META_POR_DISCIPLINA_ANO) * 100;
+        }, 0) / NUM_ANOS;
+        
+        const targetMonth = 6;
+        const healthData = getMetaHealth(remaining, targetMonth);
+        
+        const pct = Math.round((totalDone / META_POR_DISCIPLINA_TOTAL) * 100);
+        const inFlow = stats.inProgress + stats.review + stats.video;
+        
+        const cardStyle = healthData.health === 'critical' ? 'border-left: 4px solid var(--color-danger);' :
+                         healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
+                         healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
+        
+        subjectHealthHTML += `
+            <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
+                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                    <span style="display: flex; align-items: center; gap: 8px;">
+                        <i class="ph ph-book-open" style="font-size: 1.2rem;"></i>
+                        <strong>${sub}</strong>
+                    </span>
+                    <span style="font-size: 1.2rem; font-weight: 700; color: ${healthData.healthColor};">${pct}%</span>
+                </div>
+                <div class="insight-item-desc">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.85rem;">
+                        <span>Produzido: <strong style="color: var(--color-success-light);">${totalDone}</strong> / ${META_POR_DISCIPLINA_TOTAL}</span>
+                        <span>Faltando: <strong>${remaining}</strong></span>
+                    </div>
+                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
+                        <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${healthData.health === 'completed' ? 'var(--color-success)' : (healthData.health === 'critical' ? 'var(--color-danger)' : (healthData.health === 'warning' ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
+                    </div>
+                    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 10px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
+                            <div style="color: var(--text-muted);">Backlog</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-primary-light); font-weight: 600;">${inFlow}</div>
+                            <div style="color: var(--text-muted);">Em Fluxo</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
+                            <div style="color: var(--text-muted);">Feito</div>
+                        </div>
+                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                            <div style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.daysRemaining}</div>
+                            <div style="color: var(--text-muted);">Dias</div>
+                        </div>
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); border-top: 1px solid var(--border-glass); padding-top: 8px; display: flex; justify-content: space-between; align-items: center;">
+                        <span style="color: ${healthData.healthColor};">${healthData.healthIcon} ${healthData.healthMsg}</span>
+                        ${remaining > 0 ? `<span><i class="ph ph-lightning"></i> Precisa: <strong>${healthData.velocityNeeded}/mês</strong></span>` : ''}
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    
+    const container = document.getElementById('subject-health-container');
+    if (container) {
+        container.innerHTML = subjectHealthHTML || '<div class="insight-item">Nenhum dado de disciplina encontrado.</div>';
+    }
 }
