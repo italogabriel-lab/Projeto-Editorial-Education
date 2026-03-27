@@ -3,12 +3,20 @@ let subjectChartInstance = null;
 
 async function performSync() {
     try {
+        console.log('Fetching data.json...');
         const response = await fetch('public/data.json?t=' + new Date().getTime());
+        
+        if (!response.ok) {
+            throw new Error('Network response was not ok: ' + response.status);
+        }
+        
         const data = await response.json();
+        console.log('Data loaded:', data.total_items, 'items');
         
         document.getElementById('last-sync-time').textContent = new Date(data.last_updated).toLocaleString();
         
         const items = data.items || [];
+        console.log('Processing', items.length, 'items');
         
         runAnalyzer(items);
         runProgressEngine(items);
@@ -21,11 +29,13 @@ async function performSync() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    console.log('DOM loaded, starting sync...');
     performSync();
-    // Auto-refresh every 60 seconds
     setInterval(performSync, 60000);
 });
+
 function runAnalyzer(items) {
+    console.log('Running analyzer...');
     const total = items.length;
     
     const doneItems = items.filter(i => i.status === 'Done/Published');
@@ -49,6 +59,8 @@ function runAnalyzer(items) {
     const noStatusItems = items.filter(i => i.status === 'No Status' || !i.status);
     const noStatus = noStatusItems.length;
     
+    console.log('KPIs:', { total, done, backlog, inProgress, review, video, block, noStatus });
+    
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
     document.getElementById('kpi-backlog').textContent = backlog;
@@ -60,7 +72,8 @@ function runAnalyzer(items) {
 }
 
 function runProgressEngine(items) {
-    // Group by Year
+    console.log('Running progress engine...');
+    
     const goalsList = {
         2: { month: 2, label: "Março" },
         3: { month: 3, label: "Abril" },
@@ -79,14 +92,12 @@ function runProgressEngine(items) {
         }
     });
     
-    const currentMonth = new Date().getMonth(); // 0 is Jan
+    const currentMonth = new Date().getMonth();
     
     let metaHTML = '';
     const labels = [];
     const doneData = [];
     const pendingData = [];
-    
-    let riskCount = 0;
     
     Object.keys(yearStats).forEach(y => {
         const stats = yearStats[y];
@@ -98,7 +109,6 @@ function runProgressEngine(items) {
         
         const pct = Math.round((stats.done / stats.total) * 100);
         
-        // Evaluate Risk
         const goal = goalsList[y];
         let riskClass = 'success';
         let riskMsg = 'Dentro da meta';
@@ -108,11 +118,9 @@ function runProgressEngine(items) {
             if (pct < 100 && monthsLeft < 0) {
                 riskClass = 'danger';
                 riskMsg = `Atrasado! Meta era ${goal.label}.`;
-                riskCount++;
             } else if (pct < 50 && monthsLeft <= 1) {
                 riskClass = 'warning';
                 riskMsg = `Risco: Alto. Meta para ${goal.label} e só tem ${pct}% pronto.`;
-                riskCount++;
             } else if (pct === 100) {
                 riskClass = 'success';
                 riskMsg = 'Concluído!';
@@ -130,165 +138,74 @@ function runProgressEngine(items) {
         `;
     });
     
-    document.getElementById('meta-container').innerHTML = metaHTML || '<div class="insight-item">Sem dados o suficiente.</div>';
+    document.getElementById('meta-container').innerHTML = metaHTML || '<div class="insight-item">Sem dados suficientes.</div>';
     
-    // Render Chart
-    const ctx = document.getElementById('yearChart').getContext('2d');
-    if (yearChartInstance) yearChartInstance.destroy();
-    yearChartInstance = new Chart(ctx, {
-        type: 'bar',
-        data: {
-            labels: labels,
-            datasets: [
-                {
-                    label: 'Concluídas',
-                    data: doneData,
-                    backgroundColor: 'rgba(52, 211, 153, 0.8)' // Emerald
-                },
-                {
-                    label: 'Pendentes / In Progress',
-                    data: pendingData,
-                    backgroundColor: 'rgba(148, 163, 184, 0.4)' // Slate
-                }
-            ]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            scales: {
-                x: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } },
-                y: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } }
+    // Render Year Chart
+    const ctxYear = document.getElementById('yearChart');
+    if (ctxYear) {
+        if (yearChartInstance) yearChartInstance.destroy();
+        yearChartInstance = new Chart(ctxYear.getContext('2d'), {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'Concluídas',
+                        data: doneData,
+                        backgroundColor: 'rgba(52, 211, 153, 0.8)'
+                    },
+                    {
+                        label: 'Pendentes',
+                        data: pendingData,
+                        backgroundColor: 'rgba(148, 163, 184, 0.4)'
+                    }
+                ]
             },
-            plugins: {
-                legend: { labels: { color: '#cbd5e1' } }
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } },
+                    y: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } }
+                },
+                plugins: {
+                    legend: { labels: { color: '#cbd5e1' } }
+                }
             }
-        }
-    });
-}
-
-const META_POR_ANO = 168;
-
-function runGargaloDetector(items) {
-    const subjects = {};
-    const assignees = {};
-    
-    const ACTIVE_STATUSES = ['Backlog', 'In Progress'];
-    const DONE_STATUS = 'Done/Published';
-    const REVIEW_STATUS = 'In Review';
-    const VIDEO_STATUS = 'Video';
-    const BLOCK_STATUS = 'Block';
-    
-    items.forEach(i => {
-        const sub = i.subject || null;
-        if (sub) {
-            if (!subjects[sub]) subjects[sub] = 0;
-            subjects[sub]++;
-        }
-        
-        const user = i.assignee || 'Unassigned';
-        if (!assignees[user]) {
-            assignees[user] = { 
-                pending: 0, 
-                done: 0, 
-                years: { 1: {p:0, d:0}, 2: {p:0, d:0}, 3: {p:0, d:0}, 4: {p:0, d:0}, 5: {p:0, d:0} },
-                subjects: {}
-            };
-        }
-        
-        const status = i.status;
-        const year = i.year;
-        
-        if (status === 'Backlog' || status === 'In Progress') {
-            assignees[user].pending++;
-            if (year && assignees[user].years[year]) {
-                assignees[user].years[year].p++;
-            }
-        } else if (status === 'Done/Published') {
-            assignees[user].done++;
-            if (year && assignees[user].years[year]) {
-                assignees[user].years[year].d++;
-            }
-        }
-        
-        if (sub && (ACTIVE_STATUSES.includes(status) || status === DONE_STATUS)) {
-            if (!assignees[user].subjects[sub]) assignees[user].subjects[sub] = 0;
-            assignees[user].subjects[sub]++;
-        }
-    });
-    
-    let gargaloHTML = '';
-    
-    if (assignees['Unassigned'] && assignees['Unassigned'].pending > 0) {
-        gargaloHTML += `
-            <div class="insight-item warning animate-fade-in">
-                <div class="insight-item-title"><i class="ph ph-warning"></i> Tickets Órfãos</div>
-                <div class="insight-item-desc">Existen ${assignees['Unassigned'].pending} tarefas pendentes sem nenhum usuário atribuído.</div>
-            </div>
-        `;
+        });
     }
     
-    Object.keys(assignees).forEach(u => {
-        if (u === 'Unassigned') return;
-        const o = assignees[u];
-        if (o.pending === 0 && o.done === 0) return;
-        
-        const totalAssigned = o.pending + o.done;
-        const totalMeta = META_POR_ANO * 5;
-        const pct = Math.round((o.done / totalMeta) * 100) || 0;
-        
-        let yearDetails = '';
-        [1,2,3,4,5].forEach(yr => {
-            const yrData = o.years[yr];
-            if (yrData.p === 0 && yrData.d === 0) return;
-            const yrPct = Math.round((yrData.d / META_POR_ANO) * 100) || 0;
-            yearDetails += `<div style="margin-top:4px; font-size:0.8rem;"><span style="color:#94a3b8;">Ano ${yr}:</span> ${yrData.d}/${META_POR_ANO} (${yrPct}%)</div>`;
-        });
-        
-        if (pct < 20) {
-            gargaloHTML += `
-                <div class="insight-item danger animate-fade-in">
-                    <div class="insight-item-title"><i class="ph ph-warning"></i> @${u} — Baixa Performance</div>
-                    <div class="insight-item-desc">
-                        <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
-                        <span style="color:var(--color-warning-light);">Pendente: ${o.pending}</span> | Concluído: ${o.done}<br>
-                        ${yearDetails}
-                    </div>
-                </div>
-            `;
-        } else if (pct >= 50) {
-            gargaloHTML += `
-                <div class="insight-item success animate-fade-in">
-                    <div class="insight-item-title"><i class="ph ph-check-circle"></i> @${u} — Excelente Performance</div>
-                    <div class="insight-item-desc">
-                        <strong>${pct}%</strong> da meta total (${o.done}/${totalMeta}).<br>
-                        ${yearDetails}
-                    </div>
-                </div>
-            `;
-        }
+    // Render Subject Chart (Distribution)
+    const subjects = {};
+    items.forEach(i => {
+        const sub = i.subject || 'Outros';
+        if (!subjects[sub]) subjects[sub] = 0;
+        subjects[sub]++;
     });
-    
-    document.getElementById('gargalo-container').innerHTML = gargaloHTML || '<div class="insight-item">Nenhum gargalo de performance detectado no grupo ativo.</div>';
     
     const subLabels = Object.keys(subjects).slice(0, 5);
     const subData = subLabels.map(l => subjects[l]);
     
-    const ctx = document.getElementById('subjectChart').getContext('2d');
-    if (subjectChartInstance) subjectChartInstance.destroy();
-    subjectChartInstance = new Chart(ctx, {
-        type: 'doughnut',
-        data: {
-            labels: subLabels,
-            datasets: [{
-                data: subData,
-                backgroundColor: ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'],
-                borderWidth: 0
-            }]
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: { legend: { position: 'right', labels: { color: '#cbd5e1' } } }
-        }
-    });
+    const ctxSub = document.getElementById('subjectChart');
+    if (ctxSub) {
+        if (subjectChartInstance) subjectChartInstance.destroy();
+        subjectChartInstance = new Chart(ctxSub.getContext('2d'), {
+            type: 'doughnut',
+            data: {
+                labels: subLabels,
+                datasets: [{
+                    data: subData,
+                    backgroundColor: ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'],
+                    borderWidth: 0
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: { legend: { position: 'right', labels: { color: '#cbd5e1' } } }
+            }
+        });
+    }
+    
+    console.log('Progress engine completed');
 }
