@@ -261,8 +261,10 @@ body {
 .sidebar.collapsed .logo-area h2,
 .sidebar.collapsed .logo-area .badge,
 .sidebar.collapsed .menu a span,
-.sidebar.collapsed .sync-status {
-    display: none;
+.sidebar.collapsed .sync-status,
+.sidebar.collapsed .sync-status p,
+.sidebar.collapsed .sync-status .time-badge {
+    display: none !important;
 }
 
 .sidebar.collapsed .logo-icon {
@@ -270,14 +272,26 @@ body {
     height: 48px;
 }
 
+.sidebar.collapsed .menu {
+    gap: var(--space-1);
+}
+
 .sidebar.collapsed .menu a {
     justify-content: center;
-    padding: var(--space-3);
+    padding: var(--space-3) var(--space-2);
+    min-height: 48px;
+}
+
+.sidebar.collapsed .menu a .icon {
+    margin-right: 0 !important;
+    font-size: 1.5rem !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .sidebar.collapsed .menu a i {
-    margin-right: 0;
-    font-size: 1.5rem;
+    margin-right: 0 !important;
 }
 
 /* Toggle Button */
@@ -423,12 +437,30 @@ body {
     white-space: nowrap;
 }
 
+/* Hide text when sidebar is collapsed - ensure only icons visible */
+.sidebar.collapsed .menu a {
+    gap: 0 !important;
+    padding: var(--space-3) !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar.collapsed .menu a span,
+.sidebar.collapsed .menu a>*:not(.icon):not(i):not(svg) {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
 .menu a .icon {
     min-width: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: margin var(--transition-base);
+    flex-shrink: 0;
 }
 
 .menu a::before {
