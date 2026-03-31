@@ -203,8 +203,10 @@ function runProgressEngine(items) {
         const progressBarPct = Math.min(pct, 100);
         const progressColor = pct >= 100 ? 'var(--color-success)' : (isOverdue ? 'var(--color-danger)' : (pct < 50 ? 'var(--color-warning)' : 'var(--color-primary)'));
 
+        const borderColor = statusClass === 'danger' ? 'var(--color-danger)' : (statusClass === 'warning' ? 'var(--color-warning)' : (pct >= 100 ? 'var(--color-success)' : 'var(--color-primary)'));
+
         metaHTML += `
-            <div class="insight-item ${statusClass} animate-fade-in" style="margin-bottom: 16px; padding: 20px;">
+            <div class="glass-panel animate-fade-in" style="padding: 20px; border-left: 4px solid ${borderColor};">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
                     <span style="font-size: 1.05rem;">${statusIcon} ${y}º Ano — ${goal.label}</span>
                     <span style="font-size: 1.3rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : 'inherit')};">${pct}%</span>
