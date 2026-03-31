@@ -148,16 +148,14 @@
             </section>
 
             <!-- Timeline do Currículo — Full Width -->
-            <section class="ai-insights-row" style="margin-top: 2rem;">
-                <div class="insight-panel glass-panel" style="width: 100%; max-width: 100%;">
-                    <div class="panel-header" style="margin-bottom: 8px;">
-                        <i class="ph ph-target icon"></i>
-                        <h3>Timeline do Currículo — Confronto de Metas</h3>
-                        <span style="margin-left: auto; font-size: 0.75rem; color: var(--text-muted); background: rgba(16,185,129,0.1); padding: 4px 10px; border-radius: 4px;">Produzido = In Review + Video + Publicado</span>
-                    </div>
-                    <div id="meta-container" class="insight-list">
-                        <!-- Populated by JS -->
-                    </div>
+            <section style="margin-top: 2rem;">
+                <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px; padding: 0 4px;">
+                    <i class="ph ph-target icon" style="font-size: 1.3rem; color: var(--color-primary-light);"></i>
+                    <h3 style="font-size: 1.1rem; font-weight: 600; color: var(--text-primary); margin: 0;">Timeline do Currículo — Confronto de Metas</h3>
+                    <span style="margin-left: auto; font-size: 0.75rem; color: var(--text-muted); background: rgba(16,185,129,0.1); padding: 4px 10px; border-radius: 4px;">Produzido = In Review + Video + Publicado</span>
+                </div>
+                <div id="meta-container" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+                    <!-- Populated by JS -->
                 </div>
             </section>
 
@@ -190,6 +188,6 @@
         </main>
     </div>
 
-    <script src="public/app.js?v=13"></script>
+    <script src="public/app.js?v=14"></script>
 </body>
 </html>
