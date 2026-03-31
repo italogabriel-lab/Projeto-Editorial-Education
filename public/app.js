@@ -145,7 +145,6 @@ function runProgressEngine(items) {
 
     renderOrder.forEach(y => {
         const stats = yearStats[y];
-        if (stats.total === 0) return;
 
         const goal = GOALS_LIST[y];
         // Produzido = tudo que passou de In Progress (In Review + Video + Done)
@@ -186,6 +185,10 @@ function runProgressEngine(items) {
             statusClass = 'danger';
             statusIcon = '<i class="ph ph-warning-circle"></i>';
             statusMsg = `<span style="color: var(--color-danger-light);">ATRASADO! Meta era ${goal.label}.</span>`;
+        } else if (stats.total === 0) {
+            statusClass = 'success';
+            statusIcon = '<i class="ph ph-calendar-blank"></i>';
+            statusMsg = `<span style="color: var(--color-primary-light);">Tickets ainda não criados. Prazo: ${goal.label}.</span>`;
         } else if (pct < 25 && monthsLeft <= 1) {
             statusClass = 'danger';
             statusIcon = '<i class="ph ph-warning"></i>';
