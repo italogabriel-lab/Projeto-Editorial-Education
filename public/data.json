@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T10:03:39.686Z",
-  "total_items": 3177,
+  "last_updated": "2026-03-31T11:05:30.007Z",
+  "total_items": 3176,
   "items": [
     {
       "id": "I_kwDOPFPmMM7b2p_w",
@@ -724,20 +724,6 @@
       "created_at": "2025-11-12T13:08:32Z",
       "closed_at": "2025-12-22T12:25:15Z",
       "lead_time_days": 39.96994212962963,
-      "labels": []
-    },
-    {
-      "id": "I_kwDOPFPmMM7Xj0Eb",
-      "number": 50,
-      "title": "Exemplo",
-      "status": "Backlog",
-      "state": "OPEN",
-      "assignee": "ViniciusOsvaldo",
-      "subject": "Outros",
-      "year": 0,
-      "created_at": "2025-11-12T13:08:48Z",
-      "closed_at": null,
-      "lead_time_days": null,
       "labels": []
     },
     {
@@ -32949,9 +32935,9 @@
       "id": "I_kwDOPFPmMM72_VmC",
       "number": 2395,
       "title": "[Belas artes] - Ano 3 - 12.3 Geometria decorativa",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas artes",
       "year": 3,
       "created_at": "2026-03-26T13:12:25Z",
