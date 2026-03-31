@@ -282,10 +282,11 @@ function runProgressEngine(items) {
         });
     }
     
-    // Render Subject Chart (Distribution)
-    const subLabels = Object.keys(subjects).slice(0, 5);
+    // Render Subject Chart (Distribution) — todas as disciplinas
+    const subLabels = Object.keys(subjects).sort((a, b) => subjects[b] - subjects[a]);
     const subData = subLabels.map(l => subjects[l]);
-    
+    const subColors = ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444', '#ec4899', '#06b6d4'];
+
     const ctxSub = document.getElementById('subjectChart');
     if (ctxSub) {
         if (subjectChartInstance) subjectChartInstance.destroy();
@@ -295,7 +296,7 @@ function runProgressEngine(items) {
                 labels: subLabels,
                 datasets: [{
                     data: subData,
-                    backgroundColor: ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'],
+                    backgroundColor: subColors.slice(0, subLabels.length),
                     borderWidth: 0
                 }]
             },
