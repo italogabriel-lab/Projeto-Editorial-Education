@@ -29,10 +29,37 @@ Acesse o Dashboard em Tempo Real:
 
 ## Estrutura do Projeto
 ```text
-/docs        → PRD, Roadmap, Documentação Técnica
+/docs        → PRD, Roadmap, Documentação Técnica, LLMs e Opencode
+/llms        → Documentação completa de LLMs (GLM, OpenRouter, Groq)
 /src         → Backend Serverless em Node.js (`sync.js`)
 /public      → Assets estáticos (`app.js`, `styles.css`, `data.json`)
 /assets      → Recursos visuais
 index.html   → Interface HTML baseada em Glassmorphism
 .github/     → Rotinas CI/CD de sincronização (cada 5m)
+```
+
+## Documentação de LLMs e Opencode
+
+A documentação completa das LLMs configuradas está em: [docs/llms/](docs/llms/)
+
+### Principais Documentos:
+- **[README.md](docs/llms/README.md)** - Índice geral de LLMs
+- **[glm-config.md](docs/llms/glm-config.md)** - Configuração detalhada do GLM
+- **[llms.md](docs/llms/llms.md)** - Documentação de todos os provedores
+
+### Provedores Configurados:
+- ✅ **GLM (Zhipu AI)** - Modelo padrão: z-ai/glm-4.7-flash
+- ✅ OpenRouter - Multi-model routing
+- ✅ Groq - Inferência rápida
+
+### Comandos Úteis:
+```bash
+# Ver provedores configurados
+opencode providers list
+
+# Ver estatísticas de uso
+opencode stats
+
+# Usar GLM automaticamente
+opencode run "Minha tarefa"
 ```

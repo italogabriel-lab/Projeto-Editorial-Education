@@ -71,14 +71,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function renderMetas(items) {
-    const goalsList = {
-        2: { monthName: "Março" },
-        3: { monthName: "Abril" },
-        1: { monthName: "Maio" },
-        4: { monthName: "Junho" },
-        5: { monthName: "Julho" }
-    };
-    
     const yearStats = { 1: {t:0, d:0}, 2: {t:0, d:0}, 3: {t:0, d:0}, 4: {t:0, d:0}, 5: {t:0, d:0} };
     const subjectStats = {};
     const META_POR_DISCIPLINA = 168;
@@ -172,11 +164,13 @@ function renderMetas(items) {
     document.getElementById('disciplines-grid').innerHTML = discHTML;
 
     // --- 2. Chart: Cumprimento Ano a Ano ---
+    const yearMonthMap = { 2: "Março", 3: "Abril", 1: "Maio", 4: "Junho", 5: "Julho" };
+    
     const yLabels = [];
     const yDone = [];
     const yPend = [];
     [1,2,3,4,5].forEach(y => {
-        yLabels.push(`${y}º Ano (${goalsList[y].monthName})`);
+        yLabels.push(`${y}º Ano (${yearMonthMap[y]})`);
         yDone.push(yearStats[y].d);
         yPend.push(META_EQUIPE_ANO - yearStats[y].d);
     });
@@ -218,26 +212,7 @@ function renderMetas(items) {
         }
     });
 
-    // --- 4. Timeline do Currículo ---
-    let timelineHTML = '';
-    const renderOrder = [2, 3, 1, 4, 5]; 
-    renderOrder.forEach(y => {
-        const st = yearStats[y];
-        const pct = Math.round((st.d / META_EQUIPE_ANO) * 100);
-        let icon = pct === 100 ? '✅' : (pct >= 50 ? '📗' : '⏳');
-        timelineHTML += `
-            <div class="insight-item">
-                <div class="insight-item-title">${icon} ${goalsList[y].monthName}: Currículo do ${y}º Ano</div>
-                <div class="insight-item-desc">
-                    <strong>${pct}%</strong> da meta da equipe (1176 aulas).<br>
-                    Produzido: ${st.d}/${META_EQUIPE_ANO} | Faltando: ${META_EQUIPE_ANO - st.d}
-                </div>
-            </div>
-        `;
-    });
-    document.getElementById('timeline-container').innerHTML = timelineHTML;
-
-    // --- 5. Saúde das Metas por Disciplina ---
+    // --- 4. Saúde das Metas por Disciplina ---
     renderSubjectHealth(items);
 }
 
