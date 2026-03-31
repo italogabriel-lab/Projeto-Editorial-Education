@@ -1,3 +1,40 @@
+# =============================================================================
+# Vision Board Live Sync
+# =============================================================================
+#
+# Sincroniza os dados do GitHub Project "Bibline Aulas" (org: bibline)
+# para o arquivo public/data.json, que alimenta o dashboard Vision Board.
+#
+# TOKEN OBRIGATÓRIO
+#   Secret: VISIONBOARDBIBLINE
+#   Usuário: Italo-bibline (membro da org bibline)
+#   Scopes necessários: repo, project
+#
+#   O GITHUB_TOKEN padrão do Actions NÃO funciona para acessar
+#   ProjectV2 de organizações via GraphQL. Por isso usamos um PAT
+#   pessoal do Italo-bibline, armazenado no secret VISIONBOARDBIBLINE.
+#
+# PROJETO
+#   ID: PVT_kwDODLv1ac4BH1XW
+#   Nome: "Bibline Aulas"
+#   Org: bibline
+#
+# DASHBOARD
+#   URL: https://italogabriel-lab.github.io/Projeto-Editorial-Education/
+#   Source: GitHub Pages (branch main, path /)
+#
+# FLUXO
+#   1. Extrai todos os items do Project via GraphQL (paginado, 100/página)
+#   2. Grava em public/data.json
+#   3. Commita e faz push para main
+#   4. GitHub Pages serve o dashboard atualizado
+#
+# Se o token expirar, gere um novo PAT clássico em:
+#   https://github.com/settings/tokens (logado como Italo-bibline)
+#   Scopes: repo + project
+#   Depois atualize o secret VISIONBOARDBIBLINE nas Settings do repo.
+# =============================================================================
+
 name: Vision Board Live Sync
 
 on:
@@ -22,6 +59,7 @@ jobs:
 
       - name: 🔄 Sync Kanban data via GraphQL
         env:
+          # PAT do Italo-bibline (org bibline) com scopes repo + project
           PAT_TOKEN: ${{ secrets.VISIONBOARDBIBLINE }}
         run: node src/sync.js
 
