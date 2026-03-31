@@ -130,13 +130,18 @@ function runProgressEngine(items) {
         if (!subjects[sub]) subjects[sub] = 0;
         subjects[sub]++;
 
-        if (yearStats[y]) {
-            yearStats[y].total++;
-            if (status === 'Done/Published') yearStats[y].done++;
-            else if (status === 'Backlog') yearStats[y].backlog++;
-            else if (status === 'In Progress') yearStats[y].inProgress++;
-            else if (status === 'In Review') yearStats[y].review++;
-            else if (status === 'Video') yearStats[y].video++;
+        // Garante que o ano seja válido (1-5) antes de acessar yearStats
+        const validYear = y && yearStats[y] ? y : null;
+        
+        if (validYear) {
+            yearStats[validYear].total++;
+            if (status === 'Done/Published') yearStats[validYear].done++;
+            else if (status === 'Backlog') yearStats[validYear].backlog++;
+            else if (status === 'In Progress') yearStats[validYear].inProgress++;
+            else if (status === 'In Review') yearStats[validYear].review++;
+            else if (status === 'Video') yearStats[validYear].video++;
+        } else {
+            console.warn('Item com ano inválido:', i);
         }
     });
 
@@ -149,8 +154,11 @@ function runProgressEngine(items) {
         const goal = GOALS_LIST[y];
         // Produzido = tudo que passou de In Progress (In Review + Video + Done)
         const produced = stats.review + stats.video + stats.done;
-        const pct = Math.round((produced / META_EQUIPE_ANO) * 100);
+        const pct = stats.total > 0 ? Math.round((produced / META_EQUIPE_ANO) * 100) : 0;
         const remaining = Math.max(0, META_EQUIPE_ANO - produced);
+        
+        // Verifica se não há nenhum dado para este ano
+        const hasNoData = stats.total === 0;
 
         const targetMonth = goal.month;
         let monthsLeft = 0;
@@ -177,7 +185,11 @@ function runProgressEngine(items) {
         let statusIcon = '<i class="ph ph-check-circle"></i>';
         let statusMsg = '';
 
-        if (pct >= 100) {
+        if (hasNoData) {
+            statusClass = 'warning';
+            statusIcon = '<i class="ph ph-calendar-blank"></i>';
+            statusMsg = `<span style="color: var(--color-warning-light);">5º Ano — Sem dados. Prazo: ${goal.label}.</span>`;
+        } else if (pct >= 100) {
             statusClass = 'success';
             statusIcon = '<i class="ph ph-check-circle"></i>';
             statusMsg = '<span style="color: var(--color-success-light);">Meta atingida!</span>';
@@ -185,10 +197,6 @@ function runProgressEngine(items) {
             statusClass = 'danger';
             statusIcon = '<i class="ph ph-warning-circle"></i>';
             statusMsg = `<span style="color: var(--color-danger-light);">ATRASADO! Meta era ${goal.label}.</span>`;
-        } else if (stats.total === 0) {
-            statusClass = 'success';
-            statusIcon = '<i class="ph ph-calendar-blank"></i>';
-            statusMsg = `<span style="color: var(--color-primary-light);">Tickets ainda não criados. Prazo: ${goal.label}.</span>`;
         } else if (pct < 25 && monthsLeft <= 1) {
             statusClass = 'danger';
             statusIcon = '<i class="ph ph-warning"></i>';
@@ -212,7 +220,7 @@ function runProgressEngine(items) {
             <div class="glass-panel animate-fade-in" style="padding: 20px; border-left: 4px solid ${borderColor};">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
                     <span style="font-size: 1.05rem;">${statusIcon} ${y}º Ano — ${goal.label}</span>
-                    <span style="font-size: 1.3rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : 'inherit')};">${pct}%</span>
+                    <span style="font-size: 1.3rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : (hasNoData ? 'var(--color-warning-light)' : 'inherit'))};">${pct}%</span>
                 </div>
                 <div class="insight-item-desc">
                     <div style="display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 0.9rem;">
