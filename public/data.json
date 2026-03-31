@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T17:38:30.028Z",
+  "last_updated": "2026-03-31T18:08:11.153Z",
   "total_items": 3189,
   "items": [
     {
@@ -23742,12 +23742,12 @@
     {
       "id": "I_kwDOPFPmMM7xJS30",
       "number": 1760,
-      "title": "Bíblia] - Ano 2 - 33.3  Sua morte e sepultamento",
+      "title": "[Bíblia] - Ano 2 - 33.3  Sua morte e sepultamento",
       "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
-      "subject": "Outros",
-      "year": 0,
+      "subject": "Bíblia",
+      "year": 2,
       "created_at": "2026-03-09T13:53:37Z",
       "closed_at": null,
       "lead_time_days": null,
@@ -24667,20 +24667,6 @@
       "created_at": "2026-03-11T14:15:52Z",
       "closed_at": "2026-03-12T11:59:19Z",
       "lead_time_days": 0.9051736111111112,
-      "labels": []
-    },
-    {
-      "id": "I_kwDOPFPmMM7x6jlK",
-      "number": 1826,
-      "title": "[Português] - Ano 2 - 21.4 Revisão",
-      "status": "Done/Published",
-      "state": "CLOSED",
-      "assignee": "Fabiomorais87",
-      "subject": "Português",
-      "year": 2,
-      "created_at": "2026-03-11T14:42:22Z",
-      "closed_at": "2026-03-12T12:56:55Z",
-      "lead_time_days": 0.9267708333333333,
       "labels": []
     },
     {
@@ -39328,7 +39314,7 @@
       "id": "I_kwDOPFPmMM74lu_S",
       "number": 2849,
       "title": "[Bíblia] - Ano 3 - 3.1 O que é santificação",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -46810,6 +46796,20 @@
       "subject": "Português",
       "year": 2,
       "created_at": "2026-03-31T17:08:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75OPGQ",
+      "number": 3389,
+      "title": "[Bíblia] - Ano 2 - 14.4 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "created_at": "2026-03-31T18:02:00Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
