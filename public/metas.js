@@ -5,6 +5,12 @@ const META_POR_DISCIPLINA = 168;
 const NUM_ANOS = 5;
 const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_ANOS;
 
+// Tudo que passou de "In Progress" é considerado produzido pela equipe de desenvolvimento
+const PRODUCED_STATUSES = ['In Review', 'Video', 'Done/Published'];
+function isProduced(status) {
+    return PRODUCED_STATUSES.includes(status);
+}
+
 function normalizeSubject(name) {
     if (!name) return null;
     const lower = name.toLowerCase().trim();
@@ -88,17 +94,17 @@ function renderMetas(items) {
         if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0, years: {1:{}, 2:{}, 3:{}, 4:{}, 5:{}}};
         
         subjectStats[sub].t++;
-        if (i.status === 'Done/Published') subjectStats[sub].d++;
-        
+        if (isProduced(i.status)) subjectStats[sub].d++;
+
         if (y && subjectStats[sub].years[y]) {
             if (!subjectStats[sub].years[y].t) subjectStats[sub].years[y] = {t:0, d:0};
             subjectStats[sub].years[y].t++;
-            if (i.status === 'Done/Published') subjectStats[sub].years[y].d++;
+            if (isProduced(i.status)) subjectStats[sub].years[y].d++;
         }
-        
+
         if (y && yearStats[y]) {
             yearStats[y].t++;
-            if (i.status === 'Done/Published') yearStats[y].d++;
+            if (isProduced(i.status)) yearStats[y].d++;
         }
     });
 
@@ -135,9 +141,18 @@ function renderMetas(items) {
             `;
         });
         
+        const subjectIcons = {
+            'História': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h4"/></svg>',
+            'Ciências': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.31"/><path d="M14 2v7.31"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/><path d="M5.52 16h12.96"/></svg>',
+            'Geografia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/><path d="M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10"/></svg>',
+            'Matemática': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6"/><path d="M9 12h6"/><path d="M9 15h3"/><path d="M15 15h1"/><path d="M15 12h1"/></svg>',
+            'Linguagem': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>'
+        };
+        const icon = subjectIcons[sub] || '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
+        
         discHTML += `
             <div class="kpi-card glass-panel" style="padding-bottom: 15px;">
-                <div class="kpi-icon ${color}">📚</div>
+                <div class="kpi-icon ${color}">${icon}</div>
                 <div class="kpi-data" style="width: 100%;">
                     <h3>${sub}</h3>
                     <p style="margin-bottom: 12px; font-size: 1.3rem;">
@@ -173,7 +188,7 @@ function renderMetas(items) {
         data: {
             labels: yLabels,
             datasets: [
-                { label: 'Concluídas', data: yDone, backgroundColor: '#10b981' },
+                { label: 'Produzidas', data: yDone, backgroundColor: '#10b981' },
                 { label: 'Pendentes', data: yPend, backgroundColor: '#94a3b8' }
             ]
         },
