@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-31T14:45:56.147Z",
-  "total_items": 3154,
+  "last_updated": "2026-03-31T15:45:08.142Z",
+  "total_items": 3153,
   "items": [
     {
       "id": "I_kwDOPFPmMM7b2p_w",
@@ -1177,22 +1177,6 @@
       "closed_at": "2025-12-16T12:49:51Z",
       "lead_time_days": 33.974467592592596,
       "labels": []
-    },
-    {
-      "id": "I_kwDOPFPmMM7XkHCt",
-      "number": 84,
-      "title": "[Linguagem] - Ano 2 - 1.1 Ditongo ",
-      "status": "Done/Published",
-      "state": "CLOSED",
-      "assignee": "Fabiomorais87",
-      "subject": "Linguagem",
-      "year": 2,
-      "created_at": "2025-11-12T13:27:37Z",
-      "closed_at": "2025-11-27T12:44:57Z",
-      "lead_time_days": 14.97037037037037,
-      "labels": [
-        "Done"
-      ]
     },
     {
       "id": "I_kwDOPFPmMM7XkI1C",
