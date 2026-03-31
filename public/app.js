@@ -6,6 +6,12 @@ const NUM_DISCIPLINAS = 7;
 const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
 const META_TOTAL = META_EQUIPE_ANO * 5;
 
+// Tudo que passou de "In Progress" é considerado produzido pela equipe de desenvolvimento
+const PRODUCED_STATUSES = ['In Review', 'Video', 'Done/Published'];
+function isProduced(status) {
+    return PRODUCED_STATUSES.includes(status);
+}
+
 const GOALS_LIST = {
     2: { month: 2, label: "Março" },
     3: { month: 3, label: "Abril" },
@@ -106,10 +112,10 @@ function runProgressEngine(items) {
         const y = i.year;
         const status = i.status;
         const sub = i.subject || 'Outros';
-        
+
         if (!subjects[sub]) subjects[sub] = 0;
         subjects[sub]++;
-        
+
         if (yearStats[y]) {
             yearStats[y].total++;
             if (status === 'Done/Published') yearStats[y].done++;
@@ -119,47 +125,49 @@ function runProgressEngine(items) {
             else if (status === 'Video') yearStats[y].video++;
         }
     });
-    
+
     let metaHTML = '';
     const renderOrder = [2, 3, 1, 4, 5];
-    
+
     renderOrder.forEach(y => {
         const stats = yearStats[y];
         if (stats.total === 0) return;
-        
+
         const goal = GOALS_LIST[y];
-        const pct = Math.round((stats.done / META_EQUIPE_ANO) * 100);
-        const remaining = META_EQUIPE_ANO - stats.done;
-        
+        // Produzido = tudo que passou de In Progress (In Review + Video + Done)
+        const produced = stats.review + stats.video + stats.done;
+        const pct = Math.round((produced / META_EQUIPE_ANO) * 100);
+        const remaining = Math.max(0, META_EQUIPE_ANO - produced);
+
         const targetMonth = goal.month;
         let monthsLeft = 0;
         let isOverdue = false;
-        
+
         if (targetMonth < currentMonth) {
             monthsLeft = 0;
             isOverdue = true;
         } else {
             monthsLeft = targetMonth - currentMonth;
         }
-        
+
         const daysInTargetMonth = new Date(currentYear, targetMonth, 0).getDate();
         const daysRemainingInMonth = daysInTargetMonth - dayOfMonth;
-        
+
         let velocityNeeded = 0;
         if (monthsLeft === 0 && remaining > 0) {
             velocityNeeded = remaining;
         } else if (monthsLeft > 0 && remaining > 0) {
             velocityNeeded = Math.ceil(remaining / monthsLeft);
         }
-        
+
         let statusClass = 'success';
         let statusIcon = '<i class="ph ph-check-circle"></i>';
         let statusMsg = '';
-        
+
         if (pct >= 100) {
             statusClass = 'success';
             statusIcon = '<i class="ph ph-check-circle"></i>';
-            statusMsg = '<span style="color: var(--color-success-light);">Concluído!</span>';
+            statusMsg = '<span style="color: var(--color-success-light);">Meta atingida!</span>';
         } else if (isOverdue) {
             statusClass = 'danger';
             statusIcon = '<i class="ph ph-warning-circle"></i>';
@@ -177,38 +185,54 @@ function runProgressEngine(items) {
             statusIcon = '<i class="ph ph-clock"></i>';
             statusMsg = `<span style="color: var(--color-success-light);">No prazo. Prazo: ${goal.label}.</span>`;
         }
-        
+
         const progressBarPct = Math.min(pct, 100);
-        
+        const progressColor = pct >= 100 ? 'var(--color-success)' : (isOverdue ? 'var(--color-danger)' : (pct < 50 ? 'var(--color-warning)' : 'var(--color-primary)'));
+
         metaHTML += `
-            <div class="insight-item ${statusClass} animate-fade-in" style="margin-bottom: 12px;">
-                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center;">
-                    <span>${statusIcon} ${y}º Ano — ${goal.label}</span>
-                    <span style="font-size: 1.1rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : 'inherit')};">${pct}%</span>
+            <div class="insight-item ${statusClass} animate-fade-in" style="margin-bottom: 16px; padding: 20px;">
+                <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                    <span style="font-size: 1.05rem;">${statusIcon} ${y}º Ano — ${goal.label}</span>
+                    <span style="font-size: 1.3rem; font-weight: 700; color: ${pct >= 100 ? 'var(--color-success-light)' : (isOverdue ? 'var(--color-danger-light)' : 'inherit')};">${pct}%</span>
                 </div>
                 <div class="insight-item-desc">
-                    <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.85rem;">
-                        <span>Produzido: <strong style="color: var(--color-success-light);">${stats.done}</strong> / ${META_EQUIPE_ANO}</span>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 0.9rem;">
+                        <span>Produzido: <strong style="color: var(--color-success-light);">${produced}</strong> / ${META_EQUIPE_ANO}</span>
                         <span>Faltando: <strong>${remaining}</strong></span>
                     </div>
-                    <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden; margin-bottom: 8px;">
-                        <div style="width: ${progressBarPct}%; height: 100%; background: ${pct >= 100 ? 'var(--color-success)' : (isOverdue ? 'var(--color-danger)' : (pct < 50 ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
+                    <div style="width: 100%; height: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden; margin-bottom: 16px;">
+                        <div style="width: ${progressBarPct}%; height: 100%; background: ${progressColor}; transition: width 0.3s;"></div>
                     </div>
-                    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; font-size: 0.75rem; margin-bottom: 8px;">
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
-                            <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
-                            <div style="color: var(--text-muted);">Backlog</div>
+
+                    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; font-size: 0.75rem; margin-bottom: 14px;">
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(0,0,0,0.2); border-radius: 6px;">
+                            <div style="color: var(--color-warning-light); font-weight: 700; font-size: 0.95rem;">${stats.backlog}</div>
+                            <div style="color: var(--text-muted); margin-top: 2px;">Backlog</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
-                            <div style="color: var(--color-primary-light); font-weight: 600;">${stats.inProgress + stats.review + stats.video}</div>
-                            <div style="color: var(--text-muted);">Em Fluxo</div>
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(0,0,0,0.2); border-radius: 6px;">
+                            <div style="color: var(--color-primary-light); font-weight: 700; font-size: 0.95rem;">${stats.inProgress}</div>
+                            <div style="color: var(--text-muted); margin-top: 2px;">Em Progresso</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
-                            <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
-                            <div style="color: var(--text-muted);">Concluído</div>
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(59,130,246,0.15); border-radius: 6px; border: 1px solid rgba(59,130,246,0.3);">
+                            <div style="color: #93c5fd; font-weight: 700; font-size: 0.95rem;">${stats.review}</div>
+                            <div style="color: var(--text-muted); margin-top: 2px;">Em Revisão</div>
+                        </div>
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(139,92,246,0.15); border-radius: 6px; border: 1px solid rgba(139,92,246,0.3);">
+                            <div style="color: #c4b5fd; font-weight: 700; font-size: 0.95rem;">${stats.video}</div>
+                            <div style="color: var(--text-muted); margin-top: 2px;">Em Vídeo</div>
+                        </div>
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(16,185,129,0.15); border-radius: 6px; border: 1px solid rgba(16,185,129,0.3);">
+                            <div style="color: var(--color-success-light); font-weight: 700; font-size: 0.95rem;">${stats.done}</div>
+                            <div style="color: var(--text-muted); margin-top: 2px;">Publicado</div>
                         </div>
                     </div>
-                    <div style="font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border-glass); padding-top: 8px; display: flex; justify-content: space-between;">
+
+                    <div style="background: rgba(16,185,129,0.08); border: 1px solid rgba(16,185,129,0.2); border-radius: 6px; padding: 10px 14px; margin-bottom: 14px; display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
+                        <span style="color: var(--color-success-light);"><i class="ph ph-check-square"></i> Produzido pela equipe de desenvolvimento</span>
+                        <strong style="color: var(--color-success-light); font-size: 1rem;">${produced} aulas</strong>
+                    </div>
+
+                    <div style="font-size: 0.85rem; color: var(--text-muted); border-top: 1px solid var(--border-glass); padding-top: 10px; display: flex; justify-content: space-between; align-items: center;">
                         <span>${statusMsg}</span>
                         ${velocityNeeded > 0 ? `<span><i class="ph ph-lightning"></i> Precisa: <strong>${velocityNeeded}/mês</strong></span>` : ''}
                     </div>
@@ -216,15 +240,15 @@ function runProgressEngine(items) {
             </div>
         `;
     });
-    
+
     document.getElementById('meta-container').innerHTML = metaHTML || '<div class="insight-item">Sem dados suficientes.</div>';
     
     // Render Year Chart
     const ctxYear = document.getElementById('yearChart');
     if (ctxYear) {
         const labels = renderOrder.map(y => `${y}º Ano`);
-        const doneData = renderOrder.map(y => yearStats[y].done);
-        const pendingData = renderOrder.map(y => Math.max(0, META_EQUIPE_ANO - yearStats[y].done));
+        const doneData = renderOrder.map(y => yearStats[y].review + yearStats[y].video + yearStats[y].done);
+        const pendingData = renderOrder.map(y => Math.max(0, META_EQUIPE_ANO - (yearStats[y].review + yearStats[y].video + yearStats[y].done)));
         
         if (yearChartInstance) yearChartInstance.destroy();
         yearChartInstance = new Chart(ctxYear.getContext('2d'), {
@@ -233,7 +257,7 @@ function runProgressEngine(items) {
                 labels: labels,
                 datasets: [
                     {
-                        label: 'Concluídas',
+                        label: 'Produzidas',
                         data: doneData,
                         backgroundColor: 'rgba(16, 185, 129, 0.8)'
                     },
@@ -380,13 +404,13 @@ function renderUserHealth(items) {
         else if (status === 'In Progress') userStats[user].inProgress++;
         else if (status === 'In Review') userStats[user].review++;
         else if (status === 'Video') userStats[user].video++;
-        
+
         if (year) {
             if (!userStats[user].years[year]) {
-                userStats[user].years[year] = { done: 0 };
+                userStats[user].years[year] = { produced: 0 };
             }
-            if (status === 'Done/Published') {
-                userStats[user].years[year].done++;
+            if (isProduced(status)) {
+                userStats[user].years[year].produced++;
             }
         }
     });
@@ -416,8 +440,9 @@ function renderUserHealth(items) {
     
     sortedUsers.forEach(user => {
         const stats = userStats[user];
-        const totalDone = stats.done;
-        const remaining = Math.max(0, META_POR_USER - totalDone);
+        const totalProduced = stats.review + stats.video + stats.done;
+        const totalDone = totalProduced;
+        const remaining = Math.max(0, META_POR_USER - totalProduced);
         const healthData = getMetaHealth(remaining, 6);
         
         const pct = Math.round((totalDone / META_POR_USER) * 100);
@@ -506,13 +531,13 @@ function renderSubjectHealth(items) {
         else if (status === 'In Progress') subjectStats[sub].inProgress++;
         else if (status === 'In Review') subjectStats[sub].review++;
         else if (status === 'Video') subjectStats[sub].video++;
-        
+
         if (year) {
             if (!subjectStats[sub].years[year]) {
-                subjectStats[sub].years[year] = { done: 0 };
+                subjectStats[sub].years[year] = { produced: 0 };
             }
-            if (status === 'Done/Published') {
-                subjectStats[sub].years[year].done++;
+            if (isProduced(status)) {
+                subjectStats[sub].years[year].produced++;
             }
         }
     });
@@ -523,12 +548,13 @@ function renderSubjectHealth(items) {
     
     sortedSubjects.forEach(sub => {
         const stats = subjectStats[sub];
-        const totalDone = stats.done;
-        const remaining = Math.max(0, META_POR_DISCIPLINA_TOTAL - totalDone);
-        
+        const totalProduced = stats.review + stats.video + stats.done;
+        const totalDone = totalProduced;
+        const remaining = Math.max(0, META_POR_DISCIPLINA_TOTAL - totalProduced);
+
         const avgYearProgress = Object.keys(stats.years).reduce((sum, yr) => {
-            const yrDone = stats.years[yr].done || 0;
-            return sum + (yrDone / META_POR_DISCIPLINA_ANO) * 100;
+            const yrProduced = stats.years[yr].produced || 0;
+            return sum + (yrProduced / META_POR_DISCIPLINA_ANO) * 100;
         }, 0) / NUM_ANOS;
         
         const targetMonth = 6;
