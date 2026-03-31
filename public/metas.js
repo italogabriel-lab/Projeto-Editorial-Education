@@ -44,7 +44,7 @@ function getProgressColorHex(pct) {
 }
 
 function renderProgressBar(pct, width = 20) {
-    const filled = Math.round((pct / 100) * width);
+    const filled = Math.min(Math.round((pct / 100) * width), width);
     const empty = width - filled;
     return '█'.repeat(filled) + '░'.repeat(empty);
 }
