@@ -2,7 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-let GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.env.GITHUB_TOKEN;
+// PAT_TOKEN tem prioridade pois o GITHUB_TOKEN padrão do Actions
+// não tem permissão para acessar GitHub Projects (ProjectV2) via GraphQL
+let GITHUB_TOKEN = process.env.PAT_TOKEN || process.env.GITHUB_TOKEN_CLASSIC || process.env.GITHUB_TOKEN_FINE || process.env.GITHUB_TOKEN;
 
 if (!GITHUB_TOKEN) {
   try {
@@ -17,6 +19,8 @@ if (!GITHUB_TOKEN) {
   }
 }
 
+console.log("GITHUB_TOKEN status:", GITHUB_TOKEN ? "SET" : "NOT SET");
+
 if (!GITHUB_TOKEN) {
     console.error("ERRO: GITHUB_TOKEN não encontrado.");
     process.exit(1);
@@ -24,22 +28,37 @@ if (!GITHUB_TOKEN) {
 
 const PROJECT_ID = "PVT_kwDODLv1ac4BH1XW";
 
+console.log("Starting Vision Board Sync Process...");
+console.log("PROJECT_ID:", PROJECT_ID);
+
 async function runGraphQL(query, variables = {}) {
-  const res = await fetch('https://api.github.com/graphql', {
-    method: 'POST',
-    headers: {
-      'Authorization': `bearer ${GITHUB_TOKEN}`,
-      'Content-Type': 'application/json',
-      'Accept': 'application/vnd.github.v4.idl'
-    },
-    body: JSON.stringify({ query, variables })
-  });
-  
-  if (!res.ok) {
-    console.error(`GraphQL falhou: ${res.statusText}`);
+  console.log("Executing GraphQL query...");
+  try {
+    const res = await fetch('https://api.github.com/graphql', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${GITHUB_TOKEN}`,
+        'Content-Type': 'application/json',
+        'Accept': 'application/vnd.github.v4.idl'
+      },
+      body: JSON.stringify({ query, variables })
+    });
+
+    if (!res.ok) {
+      console.error(`GraphQL falhou: ${res.status} - ${res.statusText}`);
+      if (res.status === 401) {
+        console.error("Erro de autenticação: verifique o GITHUB_TOKEN e suas permissões");
+      }
+      if (res.status === 404) {
+        console.error("Projeto não encontrado: verifique o PROJECT_ID");
+      }
+      return null;
+    }
+    return await res.json();
+  } catch (error) {
+    console.error("Erro na requisição GraphQL:", error.message);
     return null;
   }
-  return await res.json();
 }
 
 const query = `
@@ -96,10 +115,12 @@ async function sync() {
     let allItems = [];
     let cursor = null;
     let hasNextPage = true;
-    
-    // To speed up local testing, we might limit pages if it's too big, 
+
+    // To speed up local testing, we might limit pages if it's too big,
     // but PRD requires full analysis.
     let pagesFetched = 0;
+    console.log("Starting GraphQL query...");
+
     while (hasNextPage) {
         process.stdout.write(`Fetching page ${pagesFetched + 1}... `);
         const data = await runGraphQL(query, { cursor });
@@ -110,7 +131,12 @@ async function sync() {
         }
         
         const items = data.data.node.items;
-        if (!items || !items.nodes) break;
+        if (!items || !items.nodes) {
+            console.log("Sem nós encontrados no projeto");
+            break;
+        }
+
+        console.log(`✓ ${items.nodes.length} registros processados nesta página`);
         
         for (const item of items.nodes) {
             if (!item || !item.content || !item.content.title) continue;
@@ -184,18 +210,26 @@ async function sync() {
         // if (pagesFetched >= 5) break; 
     }
     
-    console.log(`Total de tarefas válidas extraídas: ${allItems.length}`);
-    
+console.log(`Total de tarefas válidas extraídas: ${allItems.length}`);
+
+    if (allItems.length === 0) {
+        console.log("⚠️ Nenhum dado encontrado. Verifique o PROJECT_ID e permissões do token.");
+        console.log("⚠️ data.json NÃO será sobrescrito para preservar dados existentes.");
+        process.exit(1);
+    }
+
     const output = {
         last_updated: new Date().toISOString(),
         total_items: allItems.length,
         items: allItems
     };
-    
+
     const docsDir = path.resolve(__dirname, '../public');
     fs.writeFileSync(path.join(docsDir, 'data.json'), JSON.stringify(output, null, 2));
-    
-    console.log("\\nData gravada em vision-boa../public/data.json ✅");
+
+    console.log(`✓ Data gravada em ${docsDir}/data.json`);
+    console.log(`✓ Total de items: ${output.total_items}`);
+    console.log(`✓ Última atualização: ${new Date().toISOString()}`);
 }
 
 async function startDaemon() {

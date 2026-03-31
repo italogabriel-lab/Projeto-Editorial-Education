@@ -9,6 +9,9 @@ on:
 
 permissions:
   contents: write
+  actions: read
+  checks: read
+  packages: read
 
 jobs:
   sync_kanban_data:
@@ -22,20 +25,69 @@ jobs:
         with:
           node-version: '18'
 
+      - name: 🔍 Verify GITHUB_TOKEN
+        run: |
+          echo "GITHUB_TOKEN status:"
+          if [ -n "$GITHUB_TOKEN" ]; then
+            echo "✓ Token is set"
+            echo "Token prefix: ${GITHUB_TOKEN:0:7}..."
+            echo "Token length: ${#GITHUB_TOKEN} characters"
+          else
+            echo "✗ Token is NOT set"
+            exit 1
+          fi
+
+      - name: 🔍 Test GraphQL Access
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          response=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"query":"{__schema {types {name}}}}"' \
+            https://api.github.com/graphql)
+
+          if [ "$response" == "200" ]; then
+            echo "✓ GraphQL API access verified"
+          else
+            echo "✗ GraphQL API access failed (status $response)"
+            echo "Possible issues:"
+            echo "  1. Token may not have appropriate permissions"
+            echo "  2. Token may have expired"
+            echo "  3. Token may be invalid"
+            exit 1
+          fi
+
       - name: 🔄 Execute Sync Script (GitHub GraphQL Integration)
         env:
-          # Injeta o secret token real do GitHub Actions
+          # PAT com scope 'project' é necessário para acessar ProjectV2 via GraphQL
+          # O GITHUB_TOKEN padrão do Actions NÃO tem essa permissão
+          PAT_TOKEN: ${{ secrets.VISIONBOARDBIBLINE }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_TOKEN_CLASSIC: ${{ secrets.GITHUB_TOKEN_CLASSIC }}
-          GITHUB_TOKEN_FINE: ${{ secrets.GITHUB_TOKEN_FINE }}
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: node src/sync.js
+
+      - name: 📊 Verify data.json was created
+        run: |
+          if [ -f "public/data.json" ]; then
+            echo "✓ data.json exists"
+            items_count=$(node -e "const d=require('./public/data.json'); console.log(d.total_items || 0)")
+            echo "✓ Total items in data.json: $items_count"
+            last_updated=$(node -e "const d=require('./public/data.json'); console.log(d.last_updated || 'N/A')")
+            echo "✓ Last updated: $last_updated"
+          else
+            echo "✗ data.json was NOT created"
+            exit 1
+          fi
 
       - name: 💾 Commit & Push data.json (Real-Time Database)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Vision Board Bot"
           git add public/data.json
-          git commit -m "chore: atualizacao em tempo real do data.json via Kanban" || echo "Sem mudanças"
-          # Utilizamos o proprio secret gerado para o Action subir
-          git push
+          if git diff --cached --quiet; then
+            echo "⚠️ No changes detected, skipping commit"
+          else
+            git commit -m "chore: atualizacao em tempo real do data.json via Kanban" || echo "Sem mudanças"
+            # Utilizamos o proprio secret gerado para o Action subir
+            git push origin main || echo "⚠️ git push failed, but data.json was updated"
+          fi
