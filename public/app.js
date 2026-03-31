@@ -12,6 +12,20 @@ function isProduced(status) {
     return PRODUCED_STATUSES.includes(status);
 }
 
+function normalizeSubject(name) {
+    if (!name) return 'Outros';
+    const lower = name.toLowerCase().trim();
+    const map = {
+        'historia': 'História', 'história': 'História', 'história': 'História',
+        'ciência': 'Ciências', 'ciencias': 'Ciências', 'ciências': 'Ciências',
+        'geogrfia': 'Geografia', 'geografia': 'Geografia',
+        'matemática': 'Matemática', 'matematica': 'Matemática',
+        'portugues': 'Linguagem', 'português': 'Linguagem', 'linguagem': 'Linguagem',
+        'belas artes': 'Belas Artes', 'bíblia': 'Bíblia', 'outros': 'Outros'
+    };
+    return map[lower] || name;
+}
+
 const GOALS_LIST = {
     2: { month: 2, label: "Março" },
     3: { month: 3, label: "Abril" },
@@ -111,7 +125,7 @@ function runProgressEngine(items) {
     items.forEach(i => {
         const y = i.year;
         const status = i.status;
-        const sub = i.subject || 'Outros';
+        const sub = normalizeSubject(i.subject);
 
         if (!subjects[sub]) subjects[sub] = 0;
         subjects[sub]++;
@@ -282,8 +296,8 @@ function runProgressEngine(items) {
         });
     }
     
-    // Render Subject Chart (Distribution) — todas as disciplinas
-    const subLabels = Object.keys(subjects).sort((a, b) => subjects[b] - subjects[a]);
+    // Render Subject Chart (Distribution) — todas as disciplinas (sem "Outros")
+    const subLabels = Object.keys(subjects).filter(s => s !== 'Outros').sort((a, b) => subjects[b] - subjects[a]);
     const subData = subLabels.map(l => subjects[l]);
     const subColors = ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444', '#ec4899', '#06b6d4'];
 
@@ -512,10 +526,10 @@ function renderSubjectHealth(items) {
     const META_POR_DISCIPLINA_TOTAL = META_POR_DISCIPLINA_ANO * NUM_ANOS;
     
     items.forEach(i => {
-        const sub = i.subject || 'Outros';
+        const sub = normalizeSubject(i.subject);
         const status = i.status;
         const year = i.year;
-        
+
         if (!subjectStats[sub]) {
             subjectStats[sub] = {
                 done: 0,
