@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T20:03:52.271Z",
-  "total_items": 3190,
+  "last_updated": "2026-04-01T20:57:12.813Z",
+  "total_items": 3191,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -40722,9 +40722,9 @@
       "id": "I_kwDOPFPmMM74mTQU",
       "number": 2969,
       "title": "[Geografia] - Ano 1 - 27.3 Grama",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:33:31Z",
@@ -40736,9 +40736,9 @@
       "id": "I_kwDOPFPmMM74mTXf",
       "number": 2970,
       "title": "[Geografia] - Ano 1 - 27.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:33:35Z",
@@ -46818,6 +46818,20 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-01T19:51:20Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75ua-u",
+      "number": 3408,
+      "title": "[Português] - Ano 3 - 23.1 Pronomes demonstrativos",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-01T20:32:15Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
