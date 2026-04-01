@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-01T14:03:20.731Z",
-  "total_items": 3178,
+  "last_updated": "2026-04-01T14:11:51.860Z",
+  "total_items": 3177,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -8750,22 +8750,6 @@
       "labels": []
     },
     {
-      "id": "I_kwDOPFPmMM7bHb61",
-      "number": 721,
-      "title": "[Matemática]  - Ano 2 - 1.4 Revisão semanal",
-      "status": "In Review",
-      "state": "CLOSED",
-      "assignee": "Unassigned",
-      "subject": "Matemática",
-      "year": 2,
-      "created_at": "2025-11-29T00:41:07Z",
-      "closed_at": "2025-11-29T00:41:08Z",
-      "lead_time_days": 0.000011574074074074073,
-      "labels": [
-        "In review"
-      ]
-    },
-    {
       "id": "I_kwDOPFPmMM7behR2",
       "number": 727,
       "title": "[Ciências] - Ano 1 - 8.4 Revisão",
@@ -10772,7 +10756,7 @@
     {
       "id": "I_kwDOPFPmMM7wM-TW",
       "number": 1744,
-      "title": "[matemática] - ANO 2 - 4.5 Prova",
+      "title": "[matemática] - ANO 2 - 4.5 Provas",
       "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
@@ -11924,7 +11908,7 @@
     {
       "id": "I_kwDOPFPmMM7gUv4A",
       "number": 953,
-      "title": "[Matemática] - ANO 2 - 10 Prova",
+      "title": "[Matemática] - ANO 2 - 10 Provas",
       "status": "Done/Published",
       "state": "CLOSED",
       "assignee": "Decioayres",
@@ -13800,7 +13784,7 @@
     {
       "id": "I_kwDOPFPmMM7iM15L",
       "number": 1077,
-      "title": "[Matemática] - ANO 2 - 20 Prova",
+      "title": "[Matemática] - ANO 2 - 20 Provas",
       "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
@@ -19190,7 +19174,7 @@
     {
       "id": "I_kwDOPFPmMM7ma6po",
       "number": 1452,
-      "title": "[Matemática] - ANO 2 - 30 Prova",
+      "title": "[Matemática] - ANO 2 - 30 Provas",
       "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
@@ -19218,7 +19202,7 @@
     {
       "id": "I_kwDOPFPmMM7ma-FF",
       "number": 1454,
-      "title": "[Matemática] - ANO 2 - 40 Prova",
+      "title": "[Matemática] - ANO 2 - 40 Provas",
       "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
@@ -40570,9 +40554,9 @@
       "id": "I_kwDOPFPmMM74mSLT",
       "number": 2959,
       "title": "[Geografia] - Ano 1 - 25.2 Roupas no calor",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:32:51Z",
@@ -40584,9 +40568,9 @@
       "id": "I_kwDOPFPmMM74mSSj",
       "number": 2960,
       "title": "[Geografia] - Ano 1 - 25.3 Roupas no frio",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:32:55Z",
