@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T16:18:17.033Z",
+  "last_updated": "2026-04-01T16:31:35.938Z",
   "total_items": 3182,
   "items": [
     {
@@ -39434,7 +39434,7 @@
       "id": "I_kwDOPFPmMM74lyGR",
       "number": 2874,
       "title": "[Bíblia] - Ano 3 - 8.1 Regra que Deus revelou",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -39448,7 +39448,7 @@
       "id": "I_kwDOPFPmMM74lyNW",
       "number": 2875,
       "title": "[Bíblia] - Ano 3 - 8.2 A regra foi revelada no princípio",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
