@@ -20,7 +20,7 @@ function normalizeSubject(name) {
         'ciência': 'Ciências', 'ciencias': 'Ciências', 'ciências': 'Ciências',
         'geogrfia': 'Geografia', 'geografia': 'Geografia',
         'matemática': 'Matemática', 'matematica': 'Matemática',
-        'portugues': 'Linguagem', 'português': 'Linguagem', 'linguagem': 'Linguagem',
+        'portugues': 'Português', 'português': 'Português', 'linguagem': 'Português',
         'belas artes': 'Belas Artes', 'bíblia': 'Bíblia', 'outros': 'Outros'
     };
     return map[lower] || name;
@@ -38,22 +38,22 @@ async function performSync() {
     try {
         console.log('Fetching data.json...');
         const response = await fetch('public/data.json?t=' + new Date().getTime());
-        
+
         if (!response.ok) {
             throw new Error('Network response was not ok: ' + response.status);
         }
-        
+
         const data = await response.json();
         console.log('Data loaded:', data.total_items, 'items');
-        
+
         document.getElementById('last-sync-time').textContent = new Date(data.last_updated).toLocaleString();
-        
+
         const items = data.items || [];
         console.log('Processing', items.length, 'items');
-        
+
         runAnalyzer(items);
         runProgressEngine(items);
-        
+
     } catch (e) {
         console.error("Error loading data:", e);
         document.getElementById('kpi-total').textContent = "ERROR";
@@ -70,30 +70,30 @@ document.addEventListener('DOMContentLoaded', () => {
 function runAnalyzer(items) {
     console.log('Running analyzer...');
     const total = items.length;
-    
+
     const doneItems = items.filter(i => i.status === 'Done/Published');
     const done = doneItems.length;
-    
+
     const backlogItems = items.filter(i => i.status === 'Backlog');
     const backlog = backlogItems.length;
-    
+
     const inProgressItems = items.filter(i => i.status === 'In Progress');
     const inProgress = inProgressItems.length;
-    
+
     const reviewItems = items.filter(i => i.status === 'In Review');
     const review = reviewItems.length;
-    
+
     const videoItems = items.filter(i => i.status === 'Video');
     const video = videoItems.length;
-    
+
     const blockItems = items.filter(i => i.status === 'Block');
     const block = blockItems.length;
-    
+
     const noStatusItems = items.filter(i => i.status === 'No Status' || !i.status);
     const noStatus = noStatusItems.length;
-    
+
     console.log('KPIs:', { total, done, backlog, inProgress, review, video, block, noStatus });
-    
+
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
     document.getElementById('kpi-backlog').textContent = backlog;
@@ -106,22 +106,22 @@ function runAnalyzer(items) {
 
 function runProgressEngine(items) {
     console.log('Running progress engine...');
-    
+
     const currentDate = new Date();
     const currentMonth = currentDate.getMonth() + 1;
     const currentYear = currentDate.getFullYear();
     const dayOfMonth = currentDate.getDate();
-    
-    const yearStats = { 
-        1: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
-        2: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
-        3: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
-        4: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}, 
-        5: {total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0}
+
+    const yearStats = {
+        1: { total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0 },
+        2: { total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0 },
+        3: { total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0 },
+        4: { total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0 },
+        5: { total: 0, done: 0, backlog: 0, inProgress: 0, review: 0, video: 0 }
     };
-    
+
     const subjects = {};
-    
+
     items.forEach(i => {
         const y = i.year;
         const status = i.status;
@@ -132,7 +132,7 @@ function runProgressEngine(items) {
 
         // Garante que o ano seja válido (1-5) antes de acessar yearStats
         const validYear = y && yearStats[y] ? y : null;
-        
+
         if (validYear) {
             yearStats[validYear].total++;
             if (status === 'Done/Published') yearStats[validYear].done++;
@@ -156,7 +156,7 @@ function runProgressEngine(items) {
         const produced = stats.review + stats.video + stats.done;
         const pct = stats.total > 0 ? Math.round((produced / META_EQUIPE_ANO) * 100) : 0;
         const remaining = Math.max(0, META_EQUIPE_ANO - produced);
-        
+
         // Verifica se não há nenhum dado para este ano
         const hasNoData = stats.total === 0;
 
@@ -269,14 +269,14 @@ function runProgressEngine(items) {
     });
 
     document.getElementById('meta-container').innerHTML = metaHTML || '<div class="insight-item">Sem dados suficientes.</div>';
-    
+
     // Render Year Chart
     const ctxYear = document.getElementById('yearChart');
     if (ctxYear) {
         const labels = renderOrder.map(y => `${y}º Ano`);
         const doneData = renderOrder.map(y => yearStats[y].review + yearStats[y].video + yearStats[y].done);
         const pendingData = renderOrder.map(y => Math.max(0, META_EQUIPE_ANO - (yearStats[y].review + yearStats[y].video + yearStats[y].done)));
-        
+
         if (yearChartInstance) yearChartInstance.destroy();
         yearChartInstance = new Chart(ctxYear.getContext('2d'), {
             type: 'bar',
@@ -308,7 +308,7 @@ function runProgressEngine(items) {
             }
         });
     }
-    
+
     // Render Subject Chart (Distribution) — todas as disciplinas (sem "Outros")
     const subLabels = Object.keys(subjects).filter(s => s !== 'Outros').sort((a, b) => subjects[b] - subjects[a]);
     const subData = subLabels.map(l => subjects[l]);
@@ -334,9 +334,9 @@ function runProgressEngine(items) {
             }
         });
     }
-    
+
     console.log('Progress engine completed');
-    
+
     // Render User Health
     renderUserHealth(items);
     // Render Subject Health
@@ -348,20 +348,20 @@ function getMetaHealth(remaining, targetMonth) {
     const currentMonth = currentDate.getMonth() + 1;
     const currentYear = currentDate.getFullYear();
     const dayOfMonth = currentDate.getDate();
-    
+
     let monthsLeft = 0;
     let isOverdue = false;
-    
+
     if (targetMonth < currentMonth) {
         monthsLeft = 0;
         isOverdue = true;
     } else {
         monthsLeft = targetMonth - currentMonth;
     }
-    
+
     const daysInTargetMonth = new Date(currentYear, targetMonth, 0).getDate();
     const daysRemaining = (monthsLeft - 1) * 30 + (daysInTargetMonth - dayOfMonth);
-    
+
     let velocityNeeded = 0;
     if (remaining > 0) {
         if (monthsLeft === 0) {
@@ -370,12 +370,12 @@ function getMetaHealth(remaining, targetMonth) {
             velocityNeeded = Math.ceil(remaining / monthsLeft);
         }
     }
-    
+
     let health = 'healthy';
     let healthIcon = '<i class="ph ph-heart"></i>';
     let healthMsg = 'No prazo';
     let healthColor = 'var(--color-success-light)';
-    
+
     if (remaining === 0) {
         health = 'completed';
         healthIcon = '<i class="ph ph-heart-break"></i>';
@@ -392,7 +392,7 @@ function getMetaHealth(remaining, targetMonth) {
         healthMsg = 'Atenção';
         healthColor = 'var(--color-warning-light)';
     }
-    
+
     return {
         health,
         healthIcon,
@@ -407,15 +407,15 @@ function getMetaHealth(remaining, targetMonth) {
 
 function renderUserHealth(items) {
     console.log('Rendering user health...');
-    
+
     const userStats = {};
     const META_POR_USER = META_EQUIPE_ANO;
-    
+
     items.forEach(i => {
         const user = i.assignee || 'Unassigned';
         const status = i.status;
         const year = i.year;
-        
+
         if (!userStats[user]) {
             userStats[user] = {
                 done: 0,
@@ -426,7 +426,7 @@ function renderUserHealth(items) {
                 years: {}
             };
         }
-        
+
         if (status === 'Done/Published') userStats[user].done++;
         else if (status === 'Backlog') userStats[user].backlog++;
         else if (status === 'In Progress') userStats[user].inProgress++;
@@ -442,17 +442,17 @@ function renderUserHealth(items) {
             }
         }
     });
-    
+
     let userHealthHTML = '';
     const sortedUsers = Object.keys(userStats)
         .filter(u => u !== 'Unassigned')
         .sort((a, b) => userStats[b].done - userStats[a].done);
-    
+
     if (userStats['Unassigned'] && userStats['Unassigned'].backlog > 0) {
         const orphan = userStats['Unassigned'];
         const remaining = META_POR_USER;
         const healthData = getMetaHealth(remaining, 6);
-        
+
         userHealthHTML += `
             <div class="insight-item warning animate-fade-in">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center;">
@@ -465,21 +465,21 @@ function renderUserHealth(items) {
             </div>
         `;
     }
-    
+
     sortedUsers.forEach(user => {
         const stats = userStats[user];
         const totalProduced = stats.review + stats.video + stats.done;
         const totalDone = totalProduced;
         const remaining = Math.max(0, META_POR_USER - totalProduced);
         const healthData = getMetaHealth(remaining, 6);
-        
+
         const pct = Math.round((totalDone / META_POR_USER) * 100);
         const inFlow = stats.inProgress + stats.review + stats.video;
-        
+
         const cardStyle = healthData.health === 'critical' ? 'border-left: 4px solid var(--color-danger);' :
-                         healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
-                         healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
-        
+            healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
+                healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
+
         userHealthHTML += `
             <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
@@ -523,7 +523,7 @@ function renderUserHealth(items) {
             </div>
         `;
     });
-    
+
     const container = document.getElementById('user-health-container');
     if (container) {
         container.innerHTML = userHealthHTML || '<div class="insight-item">Nenhum dado de usuário encontrado.</div>';
@@ -532,12 +532,12 @@ function renderUserHealth(items) {
 
 function renderSubjectHealth(items) {
     console.log('Rendering subject health...');
-    
+
     const subjectStats = {};
     const META_POR_DISCIPLINA_ANO = 168;
     const NUM_ANOS = 5;
     const META_POR_DISCIPLINA_TOTAL = META_POR_DISCIPLINA_ANO * NUM_ANOS;
-    
+
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
         const status = i.status;
@@ -553,7 +553,7 @@ function renderSubjectHealth(items) {
                 years: {}
             };
         }
-        
+
         if (status === 'Done/Published') subjectStats[sub].done++;
         else if (status === 'Backlog') subjectStats[sub].backlog++;
         else if (status === 'In Progress') subjectStats[sub].inProgress++;
@@ -569,11 +569,11 @@ function renderSubjectHealth(items) {
             }
         }
     });
-    
+
     let subjectHealthHTML = '';
     const sortedSubjects = Object.keys(subjectStats)
         .sort((a, b) => subjectStats[b].done - subjectStats[a].done);
-    
+
     sortedSubjects.forEach(sub => {
         const stats = subjectStats[sub];
         const totalProduced = stats.review + stats.video + stats.done;
@@ -584,17 +584,17 @@ function renderSubjectHealth(items) {
             const yrProduced = stats.years[yr].produced || 0;
             return sum + (yrProduced / META_POR_DISCIPLINA_ANO) * 100;
         }, 0) / NUM_ANOS;
-        
+
         const targetMonth = 6;
         const healthData = getMetaHealth(remaining, targetMonth);
-        
+
         const pct = Math.round((totalDone / META_POR_DISCIPLINA_TOTAL) * 100);
         const inFlow = stats.inProgress + stats.review + stats.video;
-        
+
         const cardStyle = healthData.health === 'critical' ? 'border-left: 4px solid var(--color-danger);' :
-                         healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
-                         healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
-        
+            healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
+                healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
+
         subjectHealthHTML += `
             <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
@@ -638,7 +638,7 @@ function renderSubjectHealth(items) {
             </div>
         `;
     });
-    
+
     const container = document.getElementById('subject-health-container');
     if (container) {
         container.innerHTML = subjectHealthHTML || '<div class="insight-item">Nenhum dado de disciplina encontrado.</div>';

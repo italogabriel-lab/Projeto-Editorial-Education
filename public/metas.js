@@ -15,7 +15,7 @@ function normalizeSubject(name) {
     if (!name) return null;
     const lower = name.toLowerCase().trim();
     if (lower === 'outros') return null;
-    
+
     const map = {
         'historia': 'História',
         'história': 'História',
@@ -23,8 +23,9 @@ function normalizeSubject(name) {
         'ciencias': 'Ciências',
         'geogrfia': 'Geografia',
         'matemática': 'Matemática',
-        'portugues': 'Linguagem',
-        'português': 'Linguagem'
+        'portugues': 'Português',
+        'português': 'Português',
+        'linguagem': 'Português'
     };
     return map[lower] || name;
 }
@@ -53,13 +54,13 @@ async function performSync() {
     try {
         const response = await fetch('public/data.json?t=' + new Date().getTime());
         const data = await response.json();
-        
+
         document.getElementById('last-sync-time').textContent = new Date(data.last_updated).toLocaleString();
-        
+
         const items = data.items || [];
-        
+
         renderMetas(items);
-        
+
     } catch (e) {
         console.error("Error loading data:", e);
     }
@@ -71,25 +72,25 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function renderMetas(items) {
-    const yearStats = { 1: {t:0, d:0}, 2: {t:0, d:0}, 3: {t:0, d:0}, 4: {t:0, d:0}, 5: {t:0, d:0} };
+    const yearStats = { 1: { t: 0, d: 0 }, 2: { t: 0, d: 0 }, 3: { t: 0, d: 0 }, 4: { t: 0, d: 0 }, 5: { t: 0, d: 0 } };
     const subjectStats = {};
     const META_POR_DISCIPLINA = 168;
     const NUM_DISCIPLINAS = 7;
     const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
     const META_TOTAL = META_EQUIPE_ANO * 5;
-    
+
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
         if (!sub) return;
         const y = i.year;
-        
-        if (!subjectStats[sub]) subjectStats[sub] = {t:0, d:0, years: {1:{}, 2:{}, 3:{}, 4:{}, 5:{}}};
-        
+
+        if (!subjectStats[sub]) subjectStats[sub] = { t: 0, d: 0, years: { 1: {}, 2: {}, 3: {}, 4: {}, 5: {} } };
+
         subjectStats[sub].t++;
         if (isProduced(i.status)) subjectStats[sub].d++;
 
         if (y && subjectStats[sub].years[y]) {
-            if (!subjectStats[sub].years[y].t) subjectStats[sub].years[y] = {t:0, d:0};
+            if (!subjectStats[sub].years[y].t) subjectStats[sub].years[y] = { t: 0, d: 0 };
             subjectStats[sub].years[y].t++;
             if (isProduced(i.status)) subjectStats[sub].years[y].d++;
         }
@@ -102,24 +103,24 @@ function renderMetas(items) {
 
     // --- 1. Cards de Disciplina ---
     let discHTML = '';
-    const sortedSubs = Object.keys(subjectStats).sort((a,b) => subjectStats[b].t - subjectStats[a].t);
-    
+    const sortedSubs = Object.keys(subjectStats).sort((a, b) => subjectStats[b].t - subjectStats[a].t);
+
     sortedSubs.forEach(sub => {
         const st = subjectStats[sub];
-        if(st.t === 0) return;
-        
+        if (st.t === 0) return;
+
         const totalMetaDisciplina = META_POR_DISCIPLINA * 5;
         const pct = Math.round((st.d / totalMetaDisciplina) * 100) || 0;
         const color = getProgressColor(pct);
-        
+
         let yearRowsHTML = '';
-        [1,2,3,4,5].forEach(ano => {
-            const yr = st.years[ano] || {t:0, d:0};
+        [1, 2, 3, 4, 5].forEach(ano => {
+            const yr = st.years[ano] || { t: 0, d: 0 };
             const hasData = yr.t > 0;
             const yrPct = hasData ? Math.round((yr.d / META_POR_DISCIPLINA) * 100) : 0;
             const yrColorHex = hasData ? getProgressColorHex(yrPct) : '#94a3b8';
             const doneCount = hasData ? yr.d : 0;
-            
+
             yearRowsHTML += `
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 8px 12px; background: rgba(255,255,255,0.03); border-radius: 6px;">
                     <span style="color: #cbd5e1; font-weight: 500;">Ano ${ano}:</span>
@@ -132,16 +133,16 @@ function renderMetas(items) {
                 </div>
             `;
         });
-        
+
         const subjectIcons = {
             'História': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h4"/></svg>',
             'Ciências': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.31"/><path d="M14 2v7.31"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/><path d="M5.52 16h12.96"/></svg>',
             'Geografia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/><path d="M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10"/></svg>',
             'Matemática': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6"/><path d="M9 12h6"/><path d="M9 15h3"/><path d="M15 15h1"/><path d="M15 12h1"/></svg>',
-            'Linguagem': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>'
+            'Português': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>'
         };
         const icon = subjectIcons[sub] || '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
-        
+
         discHTML += `
             <div class="kpi-card glass-panel" style="padding-bottom: 15px;">
                 <div class="kpi-icon ${color}">${icon}</div>
@@ -165,11 +166,11 @@ function renderMetas(items) {
 
     // --- 2. Chart: Cumprimento Ano a Ano ---
     const yearMonthMap = { 2: "Março", 3: "Abril", 1: "Maio", 4: "Junho", 5: "Julho" };
-    
+
     const yLabels = [];
     const yDone = [];
     const yPend = [];
-    [1,2,3,4,5].forEach(y => {
+    [1, 2, 3, 4, 5].forEach(y => {
         yLabels.push(`${y}º Ano (${yearMonthMap[y]})`);
         yDone.push(yearStats[y].d);
         yPend.push(META_EQUIPE_ANO - yearStats[y].d);
@@ -199,11 +200,11 @@ function renderMetas(items) {
     subjectChartInstance = new Chart(ctxS, {
         type: 'doughnut',
         data: {
-            labels: sortedSubs.slice(0,5),
+            labels: sortedSubs.slice(0, 5),
             datasets: [{
-                data: sortedSubs.slice(0,5).map(s => subjectStats[s].t),
+                data: sortedSubs.slice(0, 5).map(s => subjectStats[s].t),
                 backgroundColor: ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ef4444'],
-                borderWidth:0
+                borderWidth: 0
             }]
         },
         options: {
@@ -310,8 +311,8 @@ function renderSubjectHealth(items) {
         const inFlow = stats.inProgress + stats.review + stats.video;
 
         const cardStyle = healthData.health === 'critical' ? 'border-left: 4px solid var(--color-danger);' :
-                         healthData.health === 'warning'  ? 'border-left: 4px solid var(--color-warning);' :
-                         healthData.health === 'completed'? 'border-left: 4px solid var(--color-success);' : '';
+            healthData.health === 'warning' ? 'border-left: 4px solid var(--color-warning);' :
+                healthData.health === 'completed' ? 'border-left: 4px solid var(--color-success);' : '';
 
         html += `
             <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
