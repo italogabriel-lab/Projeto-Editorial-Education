@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T16:05:34.171Z",
+  "last_updated": "2026-04-01T16:18:17.033Z",
   "total_items": 3182,
   "items": [
     {
@@ -39406,7 +39406,7 @@
       "id": "I_kwDOPFPmMM74lx4B",
       "number": 2872,
       "title": "[Bíblia] - Ano 3 - 7.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -46697,15 +46697,15 @@
       "labels": []
     },
     {
-      "id": "I_kwDOPFPmMM75oSCe",
-      "number": 3398,
-      "title": "[Geografia] - Ano 2 - 4.3 Oceano (Update)",
-      "status": "Backlog",
+      "id": "I_kwDOPFPmMM75oXtz",
+      "number": 3399,
+      "title": "[Geografia] - Ano 2- 4.3 Oceano (Update)",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 2,
-      "created_at": "2026-04-01T16:04:24Z",
+      "created_at": "2026-04-01T16:08:11Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
