@@ -1,0 +1,13 @@
+# Image Generator — Requirements
+
+# HTTP requests
+requests==2.31.0
+
+# Image processing
+Pillow==10.2.0
+
+# Progress bar
+tqdm==4.66.1
+
+# Path handling
+pathlib2==2.3.7.post1
