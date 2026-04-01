@@ -3,16 +3,22 @@
 
 """
 Generate Images — Gera imagens via APIs
+Suporta: Pollinations.ai, HuggingFace, DeepAI
 """
 
 import requests
+import os
 from urllib.parse import quote
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Carregar variáveis de ambiente
+load_dotenv()
 
 
 def optimize_prompt(prompt):
     """
-    Otimiza prompt adicionando keywords em inglês
+    Otimiza prompt adicionando keywords em inglês para melhor qualidade
     
     Args:
         prompt (str): Prompt original em português
@@ -25,7 +31,8 @@ def optimize_prompt(prompt):
     , watercolor painting, classical book illustration style,
     white background with soft diffused edges, aged paper texture,
     warm golden light, balanced color palette, detailed brushwork,
-    serene and contemplative atmosphere, Christian classical art
+    serene and contemplative atmosphere, Christian classical art,
+    high quality, masterpiece, best quality
     """
     
     return prompt.strip() + suffix
@@ -63,7 +70,9 @@ def generate_image(prompt, output_path, platform='pollinations', width=1024, hei
 
 def generate_pollinations(prompt, output_path, width=1024, height=1024, seed=42):
     """
-    Gera imagem via Pollinations.ai
+    Gera imagem via Pollinations.ai - RECOMENDADO
+    
+    Usa o modelo FLUX.1 - estado da arte em qualidade
     
     Args:
         prompt (str): Prompt otimizado
@@ -73,28 +82,38 @@ def generate_pollinations(prompt, output_path, width=1024, height=1024, seed=42)
         seed (int): Seed
         
     Returns:
-        dict: Resultado
+        dict: {'success': bool, 'error': str or None, 'url': str}
     """
     
     try:
         # URL encode
         encoded_prompt = quote(prompt)
         
-        # Construir URL
-        url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width={width}&height={height}&seed={seed}&model=flux"
+        # Construir URL com modelo FLUX.1
+        url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width={width}&height={height}&seed={seed}&model=flux&nologo=true"
         
-        # Download
+        print(f"   🎨 URL: {url[:100]}...")
+        
+        # Download com timeout
         response = requests.get(url, timeout=120)
         response.raise_for_status()
+        
+        # Verificar se é imagem válida
+        if len(response.content) < 1000:
+            return {'success': False, 'error': 'Imagem muito pequena', 'url': url}
         
         # Salvar
         with open(output_path, 'wb') as f:
             f.write(response.content)
         
-        return {'success': True, 'error': None}
+        return {'success': True, 'error': None, 'url': url}
         
+    except requests.exceptions.Timeout:
+        return {'success': False, 'error': 'Timeout (120s)', 'url': url}
+    except requests.exceptions.RequestException as e:
+        return {'success': False, 'error': f'Erro HTTP: {str(e)}', 'url': url}
     except Exception as e:
-        return {'success': False, 'error': str(e)}
+        return {'success': False, 'error': str(e), 'url': url}
 
 
 def generate_huggingface(prompt, output_path, width=1024, height=1024, seed=42):
