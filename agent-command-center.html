@@ -1,0 +1,1429 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Command Center | BEF Editorial Squad</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        /* ============================================
+           DESIGN SYSTEM - PREMIUM DARK THEME
+           ============================================ */
+        :root {
+            /* Colors - Premium Dark Palette */
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-tertiary: #1a1a25;
+            --bg-card: #15151f;
+            --bg-card-hover: #1a1a28;
+            
+            /* Accent Colors by Category */
+            --accent-core: #6366f1;
+            --accent-core-glow: rgba(99, 102, 241, 0.3);
+            --accent-specialized: #8b5cf6;
+            --accent-specialized-glow: rgba(139, 92, 246, 0.3);
+            --accent-analytics: #06b6d4;
+            --accent-analytics-glow: rgba(6, 182, 212, 0.3);
+            --accent-bimester: #f59e0b;
+            --accent-bimester-glow: rgba(245, 158, 11, 0.3);
+            --accent-legacy: #6b7280;
+            --accent-legacy-glow: rgba(107, 114, 128, 0.3);
+            
+            /* Text Colors */
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-tertiary: #64748b;
+            
+            /* Border & Divider */
+            --border-color: #27273a;
+            --border-light: rgba(255, 255, 255, 0.08);
+            
+            /* Status Colors */
+            --status-active: #10b981;
+            --status-warning: #f59e0b;
+            --status-error: #ef4444;
+            --status-legacy: #6b7280;
+            
+            /* Spacing */
+            --spacing-xs: 0.25rem;
+            --spacing-sm: 0.5rem;
+            --spacing-md: 1rem;
+            --spacing-lg: 1.5rem;
+            --spacing-xl: 2rem;
+            --spacing-2xl: 3rem;
+            
+            /* Border Radius */
+            --radius-sm: 0.375rem;
+            --radius-md: 0.5rem;
+            --radius-lg: 0.75rem;
+            --radius-xl: 1rem;
+            --radius-2xl: 1.5rem;
+            
+            /* Shadows */
+            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+            --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.6);
+            --shadow-glow: 0 0 40px rgba(99, 102, 241, 0.15);
+            
+            /* Transitions */
+            --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* ============================================
+           RESET & BASE STYLES
+           ============================================ */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* ============================================
+           BACKGROUND GRADIENT EFFECTS
+           ============================================ */
+        .bg-gradient {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(99, 102, 241, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(139, 92, 246, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(6, 182, 212, 0.05) 0%, transparent 70%);
+        }
+
+        /* ============================================
+           HEADER & NAVIGATION
+           ============================================ */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(10, 10, 15, 0.8);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-light);
+            padding: var(--spacing-md) var(--spacing-xl);
+        }
+
+        .header-content {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: var(--spacing-md);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+
+        .logo-icon {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-core), var(--accent-specialized));
+            border-radius: var(--radius-lg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 20px var(--accent-core-glow);
+        }
+
+        .logo-text h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--text-primary), var(--accent-core));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .logo-text p {
+            font-size: 0.875rem;
+            color: var(--text-tertiary);
+            font-weight: 400;
+        }
+
+        .search-bar {
+            flex: 1;
+            max-width: 500px;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: var(--spacing-sm) var(--spacing-md);
+            padding-left: 2.5rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.875rem;
+            transition: all var(--transition-base);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--accent-core);
+            box-shadow: 0 0 0 3px var(--accent-core-glow);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: var(--spacing-md);
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-tertiary);
+            font-size: 1rem;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: var(--spacing-sm);
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: var(--spacing-sm) var(--spacing-md);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            color: var(--text-secondary);
+            font-family: 'Inter', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-btn:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--accent-core);
+            color: var(--text-primary);
+        }
+
+        .filter-btn.active {
+            background: var(--accent-core);
+            border-color: var(--accent-core);
+            color: white;
+            box-shadow: 0 4px 15px var(--accent-core-glow);
+        }
+
+        /* ============================================
+           MAIN CONTENT
+           ============================================ */
+        .main {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: var(--spacing-2xl);
+        }
+
+        /* ============================================
+           WORKFLOW VISUALIZATION
+           ============================================ */
+        .workflow-section {
+            margin-bottom: var(--spacing-2xl);
+        }
+
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: var(--spacing-lg);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: linear-gradient(180deg, var(--accent-core), var(--accent-specialized));
+            border-radius: 2px;
+        }
+
+        .workflow-diagram {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: var(--spacing-md);
+            padding: var(--spacing-xl);
+            background: var(--bg-secondary);
+            border-radius: var(--radius-2xl);
+            border: 1px solid var(--border-light);
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .workflow-step {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-md);
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            min-width: 100px;
+            transition: all var(--transition-base);
+            cursor: pointer;
+        }
+
+        .workflow-step:hover {
+            transform: translateY(-4px);
+            border-color: var(--accent-core);
+            box-shadow: 0 8px 25px var(--accent-core-glow);
+        }
+
+        .workflow-step-icon {
+            width: 40px;
+            height: 40px;
+            background: var(--accent-core-glow);
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+        }
+
+        .workflow-step-name {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            text-align: center;
+        }
+
+        .workflow-step-number {
+            font-size: 0.625rem;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .workflow-arrow {
+            color: var(--accent-core);
+            font-size: 1.5rem;
+            opacity: 0.5;
+        }
+
+        /* ============================================
+           AGENT GRID
+           ============================================ */
+        .agents-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: var(--spacing-lg);
+        }
+
+        @media (max-width: 1200px) {
+            .agents-grid {
+                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            }
+        }
+
+        @media (max-width: 768px) {
+            .agents-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ============================================
+           AGENT CARD
+           ============================================ */
+        .agent-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            overflow: hidden;
+            transition: all var(--transition-slow);
+            position: relative;
+        }
+
+        .agent-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--card-accent), var(--card-accent-secondary));
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .agent-card:hover {
+            transform: translateY(-8px);
+            border-color: var(--card-accent);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5), var(--card-glow);
+        }
+
+        .agent-card:hover::before {
+            opacity: 1;
+        }
+
+        .agent-card.core { --card-accent: var(--accent-core); --card-accent-secondary: var(--accent-specialized); --card-glow: var(--accent-core-glow); }
+        .agent-card.specialized { --card-accent: var(--accent-specialized); --card-accent-secondary: var(--accent-core); --card-glow: var(--accent-specialized-glow); }
+        .agent-card.analytics { --card-accent: var(--accent-analytics); --card-accent-secondary: var(--accent-core); --card-glow: var(--accent-analytics-glow); }
+        .agent-card.bimester { --card-accent: var(--accent-bimester); --card-accent-secondary: var(--accent-specialized); --card-glow: var(--accent-bimester-glow); }
+        .agent-card.legacy { --card-accent: var(--accent-legacy); --card-accent-secondary: var(--border-color); --card-glow: var(--accent-legacy-glow); }
+
+        .agent-card-header {
+            padding: var(--spacing-lg);
+            display: flex;
+            align-items: flex-start;
+            gap: var(--spacing-md);
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .agent-icon {
+            width: 56px;
+            height: 56px;
+            background: var(--card-accent-glow, var(--accent-core-glow));
+            border-radius: var(--radius-lg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.75rem;
+            flex-shrink: 0;
+            transition: transform var(--transition-base);
+        }
+
+        .agent-card:hover .agent-icon {
+            transform: scale(1.1) rotate(5deg);
+        }
+
+        .agent-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .agent-category {
+            display: inline-block;
+            padding: var(--spacing-xs) var(--spacing-sm);
+            background: var(--card-accent, var(--accent-core));
+            color: white;
+            font-size: 0.625rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-radius: var(--radius-sm);
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .agent-name {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .agent-original-name {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .agent-role {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: var(--spacing-sm);
+            line-height: 1.5;
+        }
+
+        .agent-card-body {
+            padding: var(--spacing-lg);
+        }
+
+        .agent-description {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-lg);
+            line-height: 1.7;
+        }
+
+        /* ============================================
+           COMMANDS SECTION
+           ============================================ */
+        .commands-section {
+            margin-top: var(--spacing-lg);
+        }
+
+        .commands-title {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: var(--spacing-md);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+
+        .commands-list {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-sm);
+        }
+
+        .command-item {
+            display: flex;
+            align-items: flex-start;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-sm) var(--spacing-md);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            border: 1px solid transparent;
+            transition: all var(--transition-base);
+            cursor: pointer;
+        }
+
+        .command-item:hover {
+            border-color: var(--card-accent, var(--accent-core));
+            background: var(--bg-card-hover);
+        }
+
+        .command-icon {
+            font-size: 0.875rem;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+
+        .command-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .command-code {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--accent-core);
+            background: rgba(99, 102, 241, 0.1);
+            padding: 2px 6px;
+            border-radius: var(--radius-sm);
+            display: inline-block;
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .command-description {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .copy-hint {
+            font-size: 0.625rem;
+            color: var(--text-tertiary);
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .command-item:hover .copy-hint {
+            opacity: 1;
+        }
+
+        /* ============================================
+           USE CASES SECTION
+           ============================================ */
+        .use-cases-section {
+            margin-top: var(--spacing-lg);
+            padding-top: var(--spacing-lg);
+            border-top: 1px solid var(--border-light);
+        }
+
+        .use-cases-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-sm);
+        }
+
+        .use-case-tag {
+            padding: var(--spacing-xs) var(--spacing-sm);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            font-size: 0.6875rem;
+            color: var(--text-secondary);
+            transition: all var(--transition-base);
+        }
+
+        .use-case-tag:hover {
+            border-color: var(--card-accent, var(--accent-core));
+            color: var(--text-primary);
+        }
+
+        /* ============================================
+           STATUS INDICATOR
+           ============================================ */
+        .agent-status {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-xs);
+            margin-top: var(--spacing-md);
+            padding-top: var(--spacing-md);
+            border-top: 1px solid var(--border-light);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        .status-dot.active { background: var(--status-active); }
+        .status-dot.warning { background: var(--status-warning); }
+        .status-dot.legacy { background: var(--status-legacy); }
+
+        .status-text {
+            font-size: 0.6875rem;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* ============================================
+           CATEGORY SECTIONS
+           ============================================ */
+        .category-section {
+            margin-bottom: var(--spacing-2xl);
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: var(--spacing-lg);
+            padding-bottom: var(--spacing-md);
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+
+        .category-icon {
+            width: 40px;
+            height: 40px;
+            background: var(--category-accent);
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+        }
+
+        .category-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .category-count {
+            padding: var(--spacing-xs) var(--spacing-md);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-full);
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+
+        .category-description {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: var(--spacing-sm);
+        }
+
+        /* ============================================
+           TOAST NOTIFICATION
+           ============================================ */
+        .toast {
+            position: fixed;
+            bottom: var(--spacing-xl);
+            right: var(--spacing-xl);
+            padding: var(--spacing-md) var(--spacing-lg);
+            background: var(--bg-card);
+            border: 1px solid var(--accent-core);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-xl);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all var(--transition-base);
+            z-index: 1000;
+        }
+
+        .toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .toast-icon {
+            font-size: 1.25rem;
+        }
+
+        .toast-message {
+            font-size: 0.875rem;
+            color: var(--text-primary);
+        }
+
+        /* ============================================
+           RESPONSIVE
+           ============================================ */
+        @media (max-width: 1024px) {
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .search-bar {
+                max-width: none;
+            }
+
+            .filter-buttons {
+                justify-content: center;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .main {
+                padding: var(--spacing-lg);
+            }
+
+            .workflow-diagram {
+                flex-direction: column;
+            }
+
+            .workflow-arrow {
+                transform: rotate(90deg);
+            }
+        }
+
+        /* ============================================
+           SCROLLBAR
+           ============================================ */
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 5px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-tertiary);
+        }
+    </style>
+</head>
+<body>
+    <!-- Background Gradient -->
+    <div class="bg-gradient"></div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <span class="toast-icon">✅</span>
+        <span class="toast-message">Command copied to clipboard!</span>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">🎯</div>
+                <div class="logo-text">
+                    <h1>Agent Command Center</h1>
+                    <p>BEF Editorial Squad Management Dashboard</p>
+                </div>
+            </div>
+            
+            <div class="search-bar">
+                <span class="search-icon">🔍</span>
+                <input 
+                    type="text" 
+                    class="search-input" 
+                    id="searchInput"
+                    placeholder="Search agents by name, role, or command..."
+                >
+            </div>
+
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="core">Core</button>
+                <button class="filter-btn" data-filter="specialized">Specialized</button>
+                <button class="filter-btn" data-filter="analytics">Analytics</button>
+                <button class="filter-btn" data-filter="bimester">Bimester</button>
+                <button class="filter-btn" data-filter="legacy">Legacy</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Workflow Visualization -->
+        <section class="workflow-section">
+            <h2 class="section-title">Editorial Workflow Pipeline</h2>
+            <div class="workflow-diagram">
+                <div class="workflow-step" data-agent="orchestrator">
+                    <div class="workflow-step-icon">🎼</div>
+                    <div class="workflow-step-name">Maestro</div>
+                    <div class="workflow-step-number">Stage 0</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="researcher">
+                    <div class="workflow-step-icon">🔍</div>
+                    <div class="workflow-step-name">Seeker</div>
+                    <div class="workflow-step-number">Stage 1</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="writer">
+                    <div class="workflow-step-icon">✒️</div>
+                    <div class="workflow-step-name">Scribe</div>
+                    <div class="workflow-step-number">Stage 2</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="standardizer">
+                    <div class="workflow-step-icon">🏗️</div>
+                    <div class="workflow-step-name">Architect</div>
+                    <div class="workflow-step-number">Stage 3</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="reviewer">
+                    <div class="workflow-step-icon">🛡️</div>
+                    <div class="workflow-step-name">Guardian</div>
+                    <div class="workflow-step-number">Stage 4</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="copywriter">
+                    <div class="workflow-step-icon">✨</div>
+                    <div class="workflow-step-name">Polisher</div>
+                    <div class="workflow-step-number">Stage 5</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="publisher">
+                    <div class="workflow-step-icon">📢</div>
+                    <div class="workflow-step-name">Herald</div>
+                    <div class="workflow-step-number">Stage 7</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Category: Core Pipeline -->
+        <section class="category-section" data-category="core">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-core);">⚡</div>
+                    <div>
+                        <div class="category-name">Core Pipeline</div>
+                        <div class="category-description">Main editorial workflow — from research to publication</div>
+                    </div>
+                </div>
+                <span class="category-count">7 agents</span>
+            </div>
+            <div class="agents-grid" id="core-agents"></div>
+        </section>
+
+        <!-- Category: Specialized -->
+        <section class="category-section" data-category="specialized">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-specialized);">🎨</div>
+                    <div>
+                        <div class="category-name">Specialized Agents</div>
+                        <div class="category-description">Technical operations, design, and creative functions</div>
+                    </div>
+                </div>
+                <span class="category-count">5 agents</span>
+            </div>
+            <div class="agents-grid" id="specialized-agents"></div>
+        </section>
+
+        <!-- Category: Analytics -->
+        <section class="category-section" data-category="analytics">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-analytics);">📊</div>
+                    <div>
+                        <div class="category-name">Analytics Agents</div>
+                        <div class="category-description">Vision Board intelligence — data extraction, progress tracking, and bottleneck detection</div>
+                    </div>
+                </div>
+                <span class="category-count">4 agents</span>
+            </div>
+            <div class="agents-grid" id="analytics-agents"></div>
+        </section>
+
+        <!-- Category: Bimester -->
+        <section class="category-section" data-category="bimester">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-bimester);">📚</div>
+                    <div>
+                        <div class="category-name">Bimester Agents</div>
+                        <div class="category-description">Periodic assessment — reviews and exams compilation</div>
+                    </div>
+                </div>
+                <span class="category-count">2 agents</span>
+            </div>
+            <div class="agents-grid" id="bimester-agents"></div>
+        </section>
+
+        <!-- Category: Legacy -->
+        <section class="category-section" data-category="legacy">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-legacy);">📜</div>
+                    <div>
+                        <div class="category-name">Legacy Agents</div>
+                        <div class="category-description">Historical reference — replaced by newer agents</div>
+                    </div>
+                </div>
+                <span class="category-count">4 agents</span>
+            </div>
+            <div class="agents-grid" id="legacy-agents"></div>
+        </section>
+    </main>
+
+    <script>
+        // ============================================
+        // AGENT DATA
+        // ============================================
+        const agents = {
+            core: [
+                {
+                    id: 'orchestrator',
+                    name: 'Maestro',
+                    originalName: 'Orchestrator',
+                    icon: '🎼',
+                    role: 'Diretor Editorial — diagnostica, prioriza e delega',
+                    description: 'O Maestro é o ponto central de orientação do projeto. Conhece profundamente cada skill, workflow e regra de sincronização. Não executa o trabalho dos outros agentes: diagnostica, prioriza e delega.',
+                    status: 'active',
+                    commands: [
+                        { code: '/orchestrator status <ano>', description: 'Diagnose o progresso do ano' },
+                        { code: '/orchestrator next <ano>', description: 'Sugere próximas ações prioritárias' },
+                        { code: '/orchestrator delegate <tarefa>', description: 'Roteia para o agente correto' },
+                        { code: '/orchestrator audit <ano> <semana>', description: 'Auditoria de consistência' }
+                    ],
+                    useCases: ['Status do projeto', 'Próximos passos', 'Delegação inteligente', 'Auditoria de títulos']
+                },
+                {
+                    id: 'researcher',
+                    name: 'Seeker',
+                    originalName: 'Researcher',
+                    icon: '🔍',
+                    role: 'Investigador — coleta informações profundas e autoritativas',
+                    description: 'O Seeker é o investigador da squad. Usa metodologia Ad Fontes para coletar informações primárias, alinhadas à Educação Clássica Cristã Reformada. Foca nos 5 Hábitos da Gramática.',
+                    status: 'active',
+                    commands: [
+                        { code: '/research <tema> <ano> <semana>', description: 'Pesquisa completa do tema' },
+                        { code: '/research definition <termo>', description: 'Definição Webster 1828' },
+                        { code: '/research artwork <tema>', description: 'Obras de arte relacionadas' },
+                        { code: '/research scripture <tema>', description: 'Versículos bíblicos' }
+                    ],
+                    useCases: ['Pesquisa de aula', 'Definições de termos', 'Obras de arte', 'Referências literárias']
+                },
+                {
+                    id: 'writer',
+                    name: 'Scribe',
+                    originalName: 'Writer',
+                    icon: '✒️',
+                    role: 'Escriba — transforma pesquisa em conteúdo pedagógico',
+                    description: 'O Scribe transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática. Segue rigorosamente o golden template e a progressão pedagógica.',
+                    status: 'active',
+                    commands: [
+                        { code: '/write <aula> <ano> <pesquisa>', description: 'Escreve aula completa' }
+                    ],
+                    useCases: ['Redação de aulas', '5 Hábitos da Gramática', 'Golden template']
+                },
+                {
+                    id: 'standardizer',
+                    name: 'Architect',
+                    originalName: 'Standardizer',
+                    icon: '🏗️',
+                    role: 'Arquiteto — formata com Rise Blocks e aplica correções',
+                    description: 'O Architect transforma o rascunho do Writer em conteúdo formatado com Rise Blocks. Aplica todas as correções editoriais: voz ativa, imperativo, capitalização europeia.',
+                    status: 'active',
+                    commands: [
+                        { code: '/standardize <arquivo>', description: 'Formata com Rise Blocks' }
+                    ],
+                    useCases: ['Formatação Rise', 'Correção de estilo', 'Capitalização']
+                },
+                {
+                    id: 'reviewer',
+                    name: 'Guardian',
+                    originalName: 'Reviewer',
+                    icon: '🛡️',
+                    role: 'Guardião da qualidade — QA com checklist de 13 categorias',
+                    description: 'O Guardian é o Editor-Chefe e QA. Garante excelência técnica, precisão doutrinária e padronização. Valida 13 categorias de auditoria antes de aprovar.',
+                    status: 'active',
+                    commands: [
+                        { code: '/review <arquivo>', description: 'Revisão completa com checklist' }
+                    ],
+                    useCases: ['QA editorial', 'Validação doutrinária', 'Fact-checking']
+                },
+                {
+                    id: 'copywriter',
+                    name: 'Polisher',
+                    originalName: 'Copywriter',
+                    icon: '✨',
+                    role: 'Polidor final — otimiza títulos e enunciados',
+                    description: 'O Polisher dá o acabamento final. Otimiza títulos, enunciados, garante fluidez e tom consistente. Não altera definições validadas.',
+                    status: 'active',
+                    commands: [
+                        { code: '/polish <arquivo>', description: 'Polimento final' }
+                    ],
+                    useCases: ['Otimização de títulos', 'Fluidez', 'Tom de voz']
+                },
+                {
+                    id: 'publisher',
+                    name: 'Herald',
+                    originalName: 'Publisher',
+                    icon: '📢',
+                    role: 'Distribuidor — salva localmente e publica no GitHub',
+                    description: 'O Herald salva a aula finalizada localmente e publica no GitHub. Registra termos no Currículo Macro e gerencia o versionamento.',
+                    status: 'active',
+                    commands: [
+                        { code: '/publish <arquivo> <ano> <aula>', description: 'Publica no GitHub' }
+                    ],
+                    useCases: ['Publicação GitHub', 'Registro no Macro', 'Versionamento']
+                }
+            ],
+            specialized: [
+                {
+                    id: 'devops',
+                    name: 'Sentinel',
+                    originalName: 'DevOps',
+                    icon: '🤖',
+                    role: 'Engenheiro DevOps — gatekeeper do repositório',
+                    description: 'O Sentinel blinda o ecossistema do repositório. Git NÃO é para mídia pesada. Gerencia workflows de publicação, limpeza estrutural e conflitos.',
+                    status: 'active',
+                    commands: [
+                        { code: '/devops publish', description: 'Publicação no GitHub' },
+                        { code: '/devops cleanup', description: 'Limpeza estrutural' },
+                        { code: '/devops status', description: 'Status do repositório' },
+                        { code: '/devops fix-conflict', description: 'Resolução de conflitos' }
+                    ],
+                    useCases: ['Git push/pull', 'Large files', 'Conflitos', '.gitignore']
+                },
+                {
+                    id: 'design-thinking',
+                    name: 'Navigator',
+                    originalName: 'Design Thinking',
+                    icon: '🧭',
+                    role: 'Coordenador de UX — pesquisa, definição, ideação, prototipagem',
+                    description: 'O Navigator lidera processos de design centrado no humano. Coordena pesquisa, personas, jornadas, wireframes e validação. Delega UI visual ao Artificer.',
+                    status: 'active',
+                    commands: [
+                        { code: '/design-thinking research <tema>', description: 'Pesquisa com usuários' },
+                        { code: '/design-thinking personas <público>', description: 'Cria personas' },
+                        { code: '/design-thinking brainstorm <problema>', description: 'Sessão de ideação' },
+                        { code: '/design-thinking wireframe <componente>', description: 'Wireframes' }
+                    ],
+                    useCases: ['UX Research', 'Personas', 'Jornadas', 'Wireframes']
+                },
+                {
+                    id: 'ui-designer',
+                    name: 'Artificer',
+                    originalName: 'UI Designer',
+                    icon: '🎨',
+                    role: 'Designer UI senior — design systems premium e responsivos',
+                    description: 'O Artificer transforma conceitos em sistemas visuais coesos, escaláveis e premium. Domina tokens, responsividade, acessibilidade WCAG e componentização.',
+                    status: 'active',
+                    commands: [
+                        { code: '/ui-designer create-system <nome>', description: 'Cria design system' },
+                        { code: '/ui-designer create-component <nome>', description: 'Cria componentes' },
+                        { code: '/ui-designer apply-theme <tema>', description: 'Aplica tema' }
+                    ],
+                    useCases: ['Design System', 'Componentes', 'Tokens', 'Acessibilidade']
+                },
+                {
+                    id: 'image-generator',
+                    name: 'Illustrator',
+                    originalName: 'Image Generator',
+                    icon: '🖼️',
+                    role: 'Artista Digital — gera ilustrações em aquarela clássica',
+                    description: 'O Illustrator transforma prompts do hábito Narrar em ilustrações usando APIs gratuitas (Pollinations, HuggingFace). Estilo: aquarela, livro clássico, fundo branco.',
+                    status: 'active',
+                    commands: [
+                        { code: '/image-generator generate <ano>', description: 'Gera todas as imagens' },
+                        { code: '/image-generator generate-week <ano> <semana>', description: 'Gera semana específica' },
+                        { code: '/image-generator regenerate <aula> <ano>', description: 'Regenera imagem' },
+                        { code: '/image-generator status <ano>', description: 'Status de geração' }
+                    ],
+                    useCases: ['Imagens Narrar', 'Aquarela clássica', 'Pollinations API']
+                },
+                {
+                    id: 'capitalizer',
+                    name: 'Lexicon',
+                    originalName: 'Capitalizer',
+                    icon: '🔤',
+                    role: 'Revisor de capitalização — padrão europeu',
+                    description: 'O Lexicon aplica capitalização padrão europeu (sentence-case). Nomes próprios em maiúscula, termos descritivos em minúscula. Consistência em todas as seções.',
+                    status: 'active',
+                    commands: [
+                        { code: '/capitalize <arquivo>', description: 'Aplica capitalização' }
+                    ],
+                    useCases: ['Sentence-case', 'Consistência', 'Padrão europeu']
+                }
+            ],
+            analytics: [
+                {
+                    id: 'performance-analytics',
+                    name: 'Strategist',
+                    originalName: 'Performance Analytics',
+                    icon: '📊',
+                    role: 'Analista de performance — relatórios de produtividade',
+                    description: 'O Strategist analisa produção de tickets no Kanban. Gera relatórios individuais e da equipe: total de tickets, taxa de conclusão, ritmo de produção, ranking.',
+                    status: 'active',
+                    commands: [
+                        { code: '/performance user <username>', description: 'Performance individual' },
+                        { code: '/performance discipline <disciplina>', description: 'Performance por matéria' },
+                        { code: '/performance team', description: 'Relatório da equipe' },
+                        { code: '/performance velocity <username>', description: 'Velocidade semanal' }
+                    ],
+                    useCases: ['Performance individual', 'Ranking', 'Produtividade']
+                },
+                {
+                    id: 'vision-github-analyzer',
+                    name: 'Harvester',
+                    originalName: 'Vision GitHub Analyzer',
+                    icon: '🌾',
+                    role: 'Analista de dados — extrai e limpa dados do GitHub Projects',
+                    description: 'O Harvester conecta-se passivamente à API GraphQL do GitHub Projects. Extrai, limpa e formata dados brutos em data.json para o Vision Board.',
+                    status: 'active',
+                    commands: [
+                        { code: '/github sync', description: 'Sincroniza dados' },
+                        { code: '/github analyze <projeto>', description: 'Analisa projeto' }
+                    ],
+                    useCases: ['Extração GitHub', 'Data cleaning', 'JSON estruturado']
+                },
+                {
+                    id: 'vision-progress-engine',
+                    name: 'Oracle',
+                    originalName: 'Vision Progress Engine',
+                    icon: '🔮',
+                    role: 'Motor de metas — compara concluído vs prazos',
+                    description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
+                    status: 'active',
+                    commands: [
+                        { code: '/progress calculate <disciplina> <ano>', description: 'Calcula progresso' },
+                        { code: '/progress update', description: 'Atualiza métricas' }
+                    ],
+                    useCases: ['Meta vs Realizado', 'Projeção', 'Classificação de risco']
+                },
+                {
+                    id: 'vision-bottleneck-detector',
+                    name: 'Radar',
+                    originalName: 'Vision Bottleneck Detector',
+                    icon: '📡',
+                    role: 'Auditor operacional — detecta gargalos e alertas de SLA',
+                    description: 'O Radar procura ativamente por "sangramentos operacionais": quem está travado, qual disciplina empacou, alertas de SLA. Gera insights acionáveis.',
+                    status: 'active',
+                    commands: [
+                        { code: '/bottleneck detect [disciplina]', description: 'Detecta gargalos' },
+                        { code: '/bottleneck alert <threshold>', description: 'Configura alertas' }
+                    ],
+                    useCases: ['Gargalos', 'Alertas SLA', 'Performance por autor']
+                }
+            ],
+            bimester: [
+                {
+                    id: 'bimester-review-builder',
+                    name: 'Chronicler',
+                    originalName: 'Bimester Review Builder',
+                    icon: '📜',
+                    role: 'Construtor de revisões bimestrais — compila 8 semanas',
+                    description: 'O Chronicler monta a prova de revisão bimestral extraindo conteúdo das aulas .4. Não cria conteúdo novo: copia e organiza. 8 semanas × 3 questões = 24 questões no Quiz.',
+                    status: 'active',
+                    commands: [
+                        { code: '/review create <bimestre> <ano> <disciplina>', description: 'Cria revisão bimestral' }
+                    ],
+                    useCases: ['Revisão bimestral', 'Compilação .4', 'Quiz 24 questões']
+                },
+                {
+                    id: 'bimester-exam-builder',
+                    name: 'Examiner',
+                    originalName: 'Bimester Exam Builder',
+                    icon: '📝',
+                    role: 'Construtor de provas bimestrais — 10 questões CANVAS_QUIZ',
+                    description: 'O Examiner monta prova bimestral de 10 questões: 8 extraídas das .5 + 2 criadas. Formato CANVAS_QUIZ: FILL_IN, TRUE_OR_FALSE, MULTIPLE_CHOICE, MATCHING.',
+                    status: 'active',
+                    commands: [
+                        { code: '/exam create <bimestre> <ano> <disciplina>', description: 'Cria prova bimestral' }
+                    ],
+                    useCases: ['Prova bimestral', '10 questões', 'CANVAS_QUIZ']
+                }
+            ],
+            legacy: [
+                {
+                    id: 'review-builder',
+                    name: 'Archivist',
+                    originalName: 'Review Builder',
+                    icon: '📚',
+                    role: 'Construtor de revisão semanal (legado)',
+                    description: 'O Archivist foi substituído pelo Chronicler (Bimester Review Builder). Criava revisões semanais X.4.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Revisão semanal (histórico)']
+                },
+                {
+                    id: 'exam-builder',
+                    name: 'Assessor',
+                    originalName: 'Exam Builder',
+                    icon: '✏️',
+                    role: 'Construtor de provas individuais (legado)',
+                    description: 'O Assessor foi substituído pelo Examiner (Bimester Exam Builder). Criava provas individuais X.5.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Prova semanal (histórico)']
+                },
+                {
+                    id: 'image-link-extractor',
+                    name: 'Curator',
+                    originalName: 'Image Link Extractor',
+                    icon: '🖼️',
+                    role: 'Extrator de links de imagem (legado)',
+                    description: 'O Curator extraía links de imagens para o hábito Perceber. Funcionalidade incorporada em outros agentes.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Links de imagens (histórico)']
+                },
+                {
+                    id: 'capitalizer-legacy',
+                    name: 'Lexicon v1',
+                    originalName: 'Capitalizer (Legacy)',
+                    icon: '🔤',
+                    role: 'Capitalização (integrado ao Architect)',
+                    description: 'Funcionalidade de capitalização agora integrada ao Standardizer (Architect).',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Capitalização (histórico)']
+                }
+            ]
+        };
+
+        // ============================================
+        // RENDER FUNCTIONS
+        // ============================================
+        function createAgentCard(agent, category) {
+            const statusConfig = {
+                active: { dot: 'active', text: 'Operational' },
+                warning: { dot: 'warning', text: 'Warning' },
+                legacy: { dot: 'legacy', text: 'Legacy' }
+            };
+
+            const status = statusConfig[agent.status];
+
+            return `
+                <div class="agent-card ${category}" data-agent="${agent.id}">
+                    <div class="agent-card-header">
+                        <div class="agent-icon">${agent.icon}</div>
+                        <div class="agent-info">
+                            <span class="agent-category">${category}</span>
+                            <h3 class="agent-name">${agent.name}</h3>
+                            <div class="agent-original-name">@${agent.originalName.toLowerCase()}</div>
+                            <div class="agent-role">${agent.role}</div>
+                        </div>
+                    </div>
+                    <div class="agent-card-body">
+                        <p class="agent-description">${agent.description}</p>
+                        
+                        ${agent.commands.length > 0 ? `
+                            <div class="commands-section">
+                                <div class="commands-title">
+                                    <span>⌨️</span> Commands
+                                </div>
+                                <div class="commands-list">
+                                    ${agent.commands.map(cmd => `
+                                        <div class="command-item" onclick="copyToClipboard('${cmd.code}')">
+                                            <span class="command-icon">›</span>
+                                            <div class="command-content">
+                                                <div class="command-code">${cmd.code}</div>
+                                                <div class="command-description">${cmd.description}</div>
+                                            </div>
+                                            <span class="copy-hint">Click to copy</span>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        <div class="use-cases-section">
+                            <div class="commands-title">
+                                <span>🎯</span> Use Cases
+                            </div>
+                            <div class="use-cases-list">
+                                ${agent.useCases.map(useCase => `
+                                    <span class="use-case-tag">${useCase}</span>
+                                `).join('')}
+                            </div>
+                        </div>
+                        
+                        <div class="agent-status">
+                            <div class="status-dot ${status.dot}"></div>
+                            <span class="status-text">${status.text}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderAgents() {
+            // Core Pipeline
+            document.getElementById('core-agents').innerHTML = agents.core
+                .map(agent => createAgentCard(agent, 'core'))
+                .join('');
+
+            // Specialized
+            document.getElementById('specialized-agents').innerHTML = agents.specialized
+                .map(agent => createAgentCard(agent, 'specialized'))
+                .join('');
+
+            // Analytics
+            document.getElementById('analytics-agents').innerHTML = agents.analytics
+                .map(agent => createAgentCard(agent, 'analytics'))
+                .join('');
+
+            // Bimester
+            document.getElementById('bimester-agents').innerHTML = agents.bimester
+                .map(agent => createAgentCard(agent, 'bimester'))
+                .join('');
+
+            // Legacy
+            document.getElementById('legacy-agents').innerHTML = agents.legacy
+                .map(agent => createAgentCard(agent, 'legacy'))
+                .join('');
+        }
+
+        // ============================================
+        // INTERACTIVITY
+        // ============================================
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                showToast(`Command copied: ${text}`);
+            });
+        }
+
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            toast.querySelector('.toast-message').textContent = message;
+            toast.classList.add('show');
+            
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            const allCards = document.querySelectorAll('.agent-card');
+
+            allCards.forEach(card => {
+                const agentName = card.querySelector('.agent-name').textContent.toLowerCase();
+                const agentRole = card.querySelector('.agent-role').textContent.toLowerCase();
+                const agentDescription = card.querySelector('.agent-description').textContent.toLowerCase();
+                const commands = card.querySelectorAll('.command-code');
+                
+                let matches = agentName.includes(query) || 
+                             agentRole.includes(query) || 
+                             agentDescription.includes(query);
+
+                if (!matches && query.length > 0) {
+                    commands.forEach(cmd => {
+                        if (cmd.textContent.toLowerCase().includes(query)) {
+                            matches = true;
+                        }
+                    });
+                }
+
+                card.style.display = matches ? 'block' : 'none';
+            });
+        });
+
+        // Filter functionality
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active state
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                const filter = btn.dataset.filter;
+                const sections = document.querySelectorAll('.category-section');
+
+                sections.forEach(section => {
+                    if (filter === 'all' || section.dataset.category === filter) {
+                        section.style.display = 'block';
+                    } else {
+                        section.style.display = 'none';
+                    }
+                });
+            });
+        });
+
+        // Workflow step interaction
+        document.querySelectorAll('.workflow-step').forEach(step => {
+            step.addEventListener('click', () => {
+                const agentId = step.dataset.agent;
+                const agentCard = document.querySelector(`.agent-card[data-agent="${agentId}"]`);
+                
+                if (agentCard) {
+                    agentCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    agentCard.style.transform = 'scale(1.02)';
+                    agentCard.style.borderColor = 'var(--accent-core)';
+                    
+                    setTimeout(() => {
+                        agentCard.style.transform = '';
+                        agentCard.style.borderColor = '';
+                    }, 2000);
+                }
+            });
+        });
+
+        // Initialize
+        renderAgents();
+    </script>
+</body>
+</html>
