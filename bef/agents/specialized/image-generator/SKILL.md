@@ -54,17 +54,32 @@ assets/
 
 ## Instruções de Geração
 
-### **1. Extrair Prompts**
+### **1. Extrair Prompts do Arquivo Real**
 
-Para cada aula no arquivo de prompts:
+Arquivo base: `5 - Prompts-para-imagens-narrar-[ANO].md`
 
-```markdown
-### Aula X.Y — [Título]
-
-**Prompt:**
+**Comando:**
+```bash
+python scripts/generate_from_file.py --year 3 --week 1 --ratio 2:1
 ```
-[conteúdo do prompt]
-```
+
+**Parâmetros de Ratio (Aspect Ratio):**
+
+| Ratio | Dimensões | Uso |
+|-------|-----------|-----|
+| `2:1` | 2048x1024 | **PADRÃO** - Panorâmico |
+| `1:1` | 1024x1024 | Quadrado |
+| `3:2` | 1536x1024 | Clássico |
+| `4:3` | 1365x1024 | Standard |
+| `16:9` | 1820x1024 | Widescreen |
+
+**Variável de Ratio no Prompt:**
+```python
+# No código:
+width, height = parse_ratio(ratio_str)  # Ex: '2:1' → (2048, 1024)
+
+# URL da API:
+https://image.pollinations.ai/prompt/{PROMPT}?width={width}&height={height}&seed={seed}&model=flux
 ```
 
 ### **2. Otimizar Prompt para IA**
