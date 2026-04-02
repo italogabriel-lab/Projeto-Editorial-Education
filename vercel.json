@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "agent-command-center.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/agent-command-center.html"
+    },
+    {
+      "src": "/agent-command-center.html",
+      "dest": "/agent-command-center.html"
+    }
+  ]
+}
