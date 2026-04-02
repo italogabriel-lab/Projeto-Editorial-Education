@@ -1,6 +1,9 @@
 let yearChartInstance = null;
 let subjectChartInstance = null;
 
+// Global variable to store blocked tickets
+let blockedTickets = [];
+
 const META_POR_DISCIPLINA = 168;
 const NUM_DISCIPLINAS = 7;
 const META_EQUIPE_ANO = META_POR_DISCIPLINA * NUM_DISCIPLINAS;
@@ -89,10 +92,14 @@ function runAnalyzer(items) {
     const blockItems = items.filter(i => i.status === 'Block');
     const block = blockItems.length;
 
+    // Store blocked tickets globally
+    blockedTickets = blockItems;
+
     const noStatusItems = items.filter(i => i.status === 'No Status' || !i.status);
     const noStatus = noStatusItems.length;
 
     console.log('KPIs:', { total, done, backlog, inProgress, review, video, block, noStatus });
+    console.log('Blocked tickets:', blockedTickets.length);
 
     document.getElementById('kpi-total').textContent = total;
     document.getElementById('kpi-done').textContent = done;
@@ -102,6 +109,9 @@ function runAnalyzer(items) {
     document.getElementById('kpi-video').textContent = video;
     document.getElementById('kpi-block').textContent = block;
     document.getElementById('kpi-no-status').textContent = noStatus;
+
+    // Update blocked popup
+    updateBlockedPopup();
 }
 
 function runProgressEngine(items) {
@@ -644,3 +654,131 @@ function renderSubjectHealth(items) {
         container.innerHTML = subjectHealthHTML || '<div class="insight-item">Nenhum dado de disciplina encontrado.</div>';
     }
 }
+
+// ============================================
+// BLOCKED TICKETS POPUP
+// ============================================
+
+function updateBlockedPopup() {
+    const popupCount = document.getElementById('blocked-popup-count');
+    const popupBody = document.getElementById('blocked-popup-body');
+
+    if (!popupCount || !popupBody) return;
+
+    popupCount.textContent = blockedTickets.length;
+
+    if (blockedTickets.length === 0) {
+        popupBody.innerHTML = `
+            <div class="blocked-popup-empty">
+                <i class="ph ph-check-circle"></i>
+                <p>Nenhum ticket bloqueado no momento!</p>
+            </div>
+        `;
+        return;
+    }
+
+    let html = '';
+    blockedTickets.forEach(ticket => {
+        const daysBlocked = ticket.created_at ?
+            Math.floor((new Date() - new Date(ticket.created_at)) / (1000 * 60 * 60 * 24)) : null;
+
+        html += `
+            <div class="blocked-ticket-item">
+                <div class="blocked-ticket-number">
+                    <i class="ph ph-ticket"></i>
+                    #${ticket.number}
+                    ${daysBlocked !== null ? `<span style="margin-left: auto;">• Há ${daysBlocked} dias</span>` : ''}
+                </div>
+                <div class="blocked-ticket-title">${escapeHtml(ticket.title)}</div>
+                <div class="blocked-ticket-meta">
+                    ${ticket.assignee ? `
+                        <span class="blocked-ticket-assignee">
+                            <i class="ph ph-user"></i>
+                            ${escapeHtml(ticket.assignee)}
+                        </span>
+                    ` : ''}
+                    ${ticket.subject ? `
+                        <span class="blocked-ticket-tag">
+                            <i class="ph ph-tag"></i>
+                            ${escapeHtml(ticket.subject)}
+                        </span>
+                    ` : ''}
+                    ${ticket.year ? `
+                        <span class="blocked-ticket-date">
+                            <i class="ph ph-calendar"></i>
+                            ${ticket.year}º Ano
+                        </span>
+                    ` : ''}
+                </div>
+            </div>
+        `;
+    });
+
+    popupBody.innerHTML = html;
+}
+
+function toggleBlockedPopup() {
+    const popup = document.getElementById('blocked-popup');
+    if (!popup) return;
+
+    popup.classList.toggle('active');
+}
+
+function closeBlockedPopup() {
+    const popup = document.getElementById('blocked-popup');
+    if (popup) {
+        popup.classList.remove('active');
+    }
+}
+
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+}
+
+// Event listeners for blocked popup
+function initBlockedPopupListeners() {
+    // Click on KPI card to toggle
+    const blockCard = document.getElementById('kpi-block-card');
+    if (blockCard) {
+        blockCard.addEventListener('click', (e) => {
+            e.stopPropagation();
+            toggleBlockedPopup();
+        });
+    }
+
+    // Close button
+    const closeBtn = document.getElementById('blocked-popup-close');
+    if (closeBtn) {
+        closeBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            closeBlockedPopup();
+        });
+    }
+
+    // Close when clicking outside
+    document.addEventListener('click', (e) => {
+        const popup = document.getElementById('blocked-popup');
+        if (popup && popup.classList.contains('active')) {
+            const isClickInsidePopup = popup.contains(e.target);
+            const isClickOnCard = document.getElementById('kpi-block-card')?.contains(e.target);
+
+            if (!isClickInsidePopup && !isClickOnCard) {
+                closeBlockedPopup();
+            }
+        }
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            closeBlockedPopup();
+        }
+    });
+}
+
+// Initialize listeners when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    initBlockedPopupListeners();
+});

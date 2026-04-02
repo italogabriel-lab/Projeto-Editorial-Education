@@ -105,11 +105,28 @@
                         <p id="kpi-video">0</p>
                     </div>
                 </div>
-                <div class="kpi-card glass-panel">
+                <div class="kpi-card glass-panel" id="kpi-block-card" style="cursor: pointer;"
+                    title="Clique para ver tickets bloqueados">
                     <div class="kpi-icon red"><i class="ph ph-prohibit"></i></div>
                     <div class="kpi-data">
                         <h3>Bloqueadas</h3>
                         <p id="kpi-block">0</p>
+                    </div>
+                    <!-- Blocked Tickets Popup -->
+                    <div id="blocked-popup" class="blocked-popup">
+                        <div class="blocked-popup-header">
+                            <div class="blocked-popup-title">
+                                <i class="ph ph-prohibit" style="font-size: 1.2rem;"></i>
+                                Tickets Bloqueados
+                                <span class="blocked-popup-count" id="blocked-popup-count">0</span>
+                            </div>
+                            <button class="blocked-popup-close" id="blocked-popup-close" title="Fechar">
+                                <i class="ph ph-x" style="font-size: 1.2rem;"></i>
+                            </button>
+                        </div>
+                        <div class="blocked-popup-body" id="blocked-popup-body">
+                            <!-- Populated by JS -->
+                        </div>
                     </div>
                 </div>
                 <div class="kpi-card glass-panel">
