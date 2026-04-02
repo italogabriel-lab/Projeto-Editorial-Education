@@ -1,4 +1,11 @@
-padrão para os tickets
+# Matemática - 4º Ano
+
+**Disciplina:** Matemática
+**Ano Escolar:** 4º Ano
+**Assignee:** @deborafeijo-gif
+**Status:** Backlog
+**Total de Tickets:** 200
+**Última Atualização:** 2026-04-02
 
 ---
 
@@ -8,8 +15,6 @@ padrão para os tickets
 
 Reconhecimento e leitura de números naturais até 10.000.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -19,8 +24,6 @@ status: Backlog
 
 Decomposição de números de quatro ordens em unidades, dezenas, centenas e milhares.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -30,8 +33,6 @@ status: Backlog
 
 Localização de números naturais em reta numérica.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -41,8 +42,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -52,8 +51,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -63,8 +60,6 @@ status: Backlog
 
 Compreensão do valor posicional dos algarismos em números de quatro ordens.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -74,8 +69,6 @@ status: Backlog
 
 Entendimento do sistema de numeração decimal e suas bases.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -85,8 +78,6 @@ status: Backlog
 
 Leitura, escrita e comparação de números de cinco dígitos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -96,8 +87,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -107,8 +96,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -118,8 +105,6 @@ status: Backlog
 
 Compreensão da ordem dos termos na operação de adição.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -129,8 +114,6 @@ status: Backlog
 
 Estratégias para realizar adições usando cálculo mental.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -140,8 +123,6 @@ status: Backlog
 
 Resolução de problemas de adição usando modelos visuais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -151,8 +132,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -162,8 +141,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -173,8 +150,6 @@ status: Backlog
 
 Relação entre adição e subtração como operações inversas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -184,8 +159,6 @@ status: Backlog
 
 Resolução de equações simples com uma incógnita.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -195,8 +168,6 @@ status: Backlog
 
 Compreensão do conceito de igualdade como equilíbrio entre expressões.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -206,8 +177,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -217,8 +186,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -228,8 +195,6 @@ status: Backlog
 
 Identificação e continuação de padrões numéricos e geométricos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -239,8 +204,6 @@ status: Backlog
 
 Reconhecimento e leitura de números naturais até 20.000.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -250,8 +213,6 @@ status: Backlog
 
 Criação e análise de sequências lógicas numéricas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -261,8 +222,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -272,8 +231,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -283,8 +240,6 @@ status: Backlog
 
 Compreensão da multiplicação como adição de parcelas iguais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -294,8 +249,6 @@ status: Backlog
 
 Identificação dos termos da multiplicação e formação de agrupamentos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -305,8 +258,6 @@ status: Backlog
 
 Resolução de problemas envolvendo multiplicação.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -316,8 +267,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -327,8 +276,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -338,8 +285,6 @@ status: Backlog
 
 Compreensão da propriedade comutativa na multiplicação.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -349,8 +294,6 @@ status: Backlog
 
 Aplicação da propriedade associativa na multiplicação.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -360,8 +303,6 @@ status: Backlog
 
 Uso da propriedade distributiva para simplificar cálculos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -371,8 +312,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -382,8 +321,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -393,8 +330,6 @@ status: Backlog
 
 Compreensão do conceito de divisão como repartição equitativa.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -404,8 +339,6 @@ status: Backlog
 
 Resolução de divisões exatas sem resto.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -415,8 +348,6 @@ status: Backlog
 
 Resolução de problemas envolvendo divisão.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -426,8 +357,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -437,8 +366,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -448,8 +375,6 @@ status: Backlog
 
 Revisão dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -459,8 +384,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -470,8 +393,6 @@ status: Backlog
 
 Relação entre multiplicação e divisão como operações inversas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -481,8 +402,6 @@ status: Backlog
 
 Memorização dos fatos básicos de multiplicação e divisão.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -492,8 +411,6 @@ status: Backlog
 
 Resolução de problemas usando adição, subtração, multiplicação e divisão.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -503,8 +420,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -514,8 +429,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -525,8 +438,6 @@ status: Backlog
 
 Identificação de números primos no intervalo de 1 a 100.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -536,8 +447,6 @@ status: Backlog
 
 Diferenciação entre números primos e compostos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -547,8 +456,6 @@ status: Backlog
 
 Encontrar todos os fatores de um número natural.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -558,8 +465,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -569,8 +474,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -580,8 +483,6 @@ status: Backlog
 
 Compreensão de fração como parte de um todo.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -591,8 +492,6 @@ status: Backlog
 
 Identificação do numerador e denominador em uma fração.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -602,8 +501,6 @@ status: Backlog
 
 Resolução de problemas com frações simples.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -613,8 +510,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -624,8 +519,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -635,8 +528,6 @@ status: Backlog
 
 Identificação de frações próprias (numerador menor que denominador).
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -646,8 +537,6 @@ status: Backlog
 
 Identificação de frações impróprias (numerador maior que denominador).
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -657,8 +546,6 @@ status: Backlog
 
 Reconhecimento de frações aparentes que resultam em número natural.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -668,8 +555,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -679,8 +564,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -690,8 +573,6 @@ status: Backlog
 
 Identificação e geração de frações equivalentes.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -701,8 +582,6 @@ status: Backlog
 
 Simplificação de frações até forma irredutível.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -712,8 +591,6 @@ status: Backlog
 
 Conversão entre fração imprópria e número misto.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -723,8 +600,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -734,8 +609,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -745,8 +618,6 @@ status: Backlog
 
 Multiplicação de frações por números naturais e outras frações.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -756,8 +627,6 @@ status: Backlog
 
 Divisão de frações por números naturais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -767,8 +636,6 @@ status: Backlog
 
 Aplicações de frações em situações do dia a dia.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -778,8 +645,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -789,8 +654,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -800,8 +663,6 @@ status: Backlog
 
 Relação entre frações e números decimais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -811,8 +672,6 @@ status: Backlog
 
 Leitura e escrita de números decimais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -822,8 +681,6 @@ status: Backlog
 
 Comparação e ordenação de números decimais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -833,8 +690,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -844,8 +699,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -855,8 +708,6 @@ status: Backlog
 
 Trabalho com números mistos e frações equivalentes.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -866,8 +717,6 @@ status: Backlog
 
 Operações de multiplicação e divisão com frações.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -877,8 +726,6 @@ status: Backlog
 
 Conversão entre decimais e frações.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -888,8 +735,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -899,8 +744,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -910,8 +753,6 @@ status: Backlog
 
 Revisão dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -921,8 +762,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -932,8 +771,6 @@ status: Backlog
 
 Identificação de ponto, reta e segmento de reta.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -943,8 +780,6 @@ status: Backlog
 
 Classificação de ângulos em reto, agudo e obtuso.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -954,8 +789,6 @@ status: Backlog
 
 Identificação de figuras simétricas e assimétricas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -965,8 +798,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -976,8 +807,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -987,8 +816,6 @@ status: Backlog
 
 Diferenciação entre polígonos (2D) e poliedros (3D).
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -998,8 +825,6 @@ status: Backlog
 
 Classificação de triângulos e quadriláteros.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1009,8 +834,6 @@ status: Backlog
 
 Exploração de sólidos geométricos usando modelos físicos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1020,8 +843,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1031,8 +852,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1042,8 +861,6 @@ status: Backlog
 
 Cálculo de perímetro de figuras planas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1053,8 +870,6 @@ status: Backlog
 
 Cálculo de área de quadrados e retângulos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1064,8 +879,6 @@ status: Backlog
 
 Diferenciação entre conceitos de área e perímetro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1075,8 +888,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1086,8 +897,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1097,8 +906,6 @@ status: Backlog
 
 Compreensão das unidades de massa: quilo e grama.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1108,8 +915,6 @@ status: Backlog
 
 Uso de instrumentos para medir massas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1119,8 +924,6 @@ status: Backlog
 
 Desenvolvimento de estimativas para massas de objetos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1130,8 +933,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1141,8 +942,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1152,8 +951,6 @@ status: Backlog
 
 Conhecimento das unidades de comprimento do mm ao km.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1163,8 +960,6 @@ status: Backlog
 
 Conversão entre diferentes unidades de comprimento.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1174,8 +969,6 @@ status: Backlog
 
 Leitura e conversão de unidades de tempo.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1185,8 +978,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1196,8 +987,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1207,8 +996,6 @@ status: Backlog
 
 Leitura e conversão de temperaturas em diferentes escalas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1218,8 +1005,6 @@ status: Backlog
 
 Compreensão de volume e capacidade em litros.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1229,8 +1014,6 @@ status: Backlog
 
 Interpretação de medidas em rótulos e embalagens.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1240,8 +1023,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1251,8 +1032,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1262,8 +1041,6 @@ status: Backlog
 
 Escolha da unidade de medida apropriada para cada situação.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1273,8 +1050,6 @@ status: Backlog
 
 Desenvolvimento de habilidades de estimativa de medidas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1284,8 +1059,6 @@ status: Backlog
 
 Resolução de problemas envolvendo diferentes medidas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1295,8 +1068,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1306,8 +1077,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1317,8 +1086,6 @@ status: Backlog
 
 Reconhecimento de cédulas e moedas do sistema monetário.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1328,8 +1095,6 @@ status: Backlog
 
 Operações de adição e subtração com valores monetários.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1339,8 +1104,6 @@ status: Backlog
 
 Cálculo de preços totais e troco em compras.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1350,8 +1113,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1361,8 +1122,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1372,8 +1131,6 @@ status: Backlog
 
 Revisão dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1383,8 +1140,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1394,8 +1149,6 @@ status: Backlog
 
 Diferenciação entre preço e valor de produtos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1405,8 +1158,6 @@ status: Backlog
 
 Cálculo de descontos e promoções.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1416,8 +1167,6 @@ status: Backlog
 
 Compreensão de lucros e prejuízos em transações.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1427,8 +1176,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1438,8 +1185,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1449,8 +1194,6 @@ status: Backlog
 
 Desenvolvimento de planejamento de gastos pessoais.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1460,8 +1203,6 @@ status: Backlog
 
 Importância de economizar e guardar dinheiro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1471,8 +1212,6 @@ status: Backlog
 
 Comparação entre compra à vista e parcelada.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1482,8 +1221,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1493,8 +1230,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1504,8 +1239,6 @@ status: Backlog
 
 Identificação de despesas fixas e variáveis.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1515,8 +1248,6 @@ status: Backlog
 
 Conscientização sobre evitar desperdícios de recursos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1526,8 +1257,6 @@ status: Backlog
 
 Desenvolvimento de bons hábitos de consumo.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1537,8 +1266,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1548,8 +1275,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1559,8 +1284,6 @@ status: Backlog
 
 Introdução ao conceito de investimento.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1570,8 +1293,6 @@ status: Backlog
 
 Simulação de operações de compra, venda e troco.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1581,8 +1302,6 @@ status: Backlog
 
 Vocabulário relacionado ao mundo financeiro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1592,8 +1311,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1603,8 +1320,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1614,8 +1329,6 @@ status: Backlog
 
 Discussão sobre ética no uso do dinheiro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1625,8 +1338,6 @@ status: Backlog
 
 Relação entre caráter e decisões financeiras.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1636,8 +1347,6 @@ status: Backlog
 
 Importância do uso responsável do dinheiro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1647,8 +1356,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1658,8 +1365,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1669,8 +1374,6 @@ status: Backlog
 
 Interpretação de dados em tabelas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1680,8 +1383,6 @@ status: Backlog
 
 Leitura e construção de gráficos de barras.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1691,8 +1392,6 @@ status: Backlog
 
 Análise e comparação de dados estatísticos.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1702,8 +1401,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1713,8 +1410,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1724,8 +1419,6 @@ status: Backlog
 
 Importância do planejamento financeiro para o futuro.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1735,8 +1428,6 @@ status: Backlog
 
 Aplicações do dinheiro em situações cotidianas.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1746,8 +1437,6 @@ status: Backlog
 
 Cálculo de preço por unidade para comparação.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1757,8 +1446,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1768,8 +1455,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1779,8 +1464,6 @@ status: Backlog
 
 Aplicações práticas de cálculo de preço e troco.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1790,8 +1473,6 @@ status: Backlog
 
 Identificação de padrões e regras em sequências.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1801,8 +1482,6 @@ status: Backlog
 
 Resolução de problemas com jogos de lógica.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1812,8 +1491,6 @@ status: Backlog
 
 Revisão dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1823,8 +1500,6 @@ status: Backlog
 
 Avaliação dos conhecimentos das três semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1834,8 +1509,6 @@ status: Backlog
 
 Revisão dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
 
 ---
 
@@ -1845,5 +1518,3 @@ status: Backlog
 
 Avaliação dos conhecimentos das oito semanas anteriores.
 
-assignees: deborafeijo-gif
-status: Backlog
