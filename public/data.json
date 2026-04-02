@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-02T18:07:59.172Z",
-  "total_items": 3196,
+  "last_updated": "2026-04-02T19:12:51.729Z",
+  "total_items": 3367,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -24175,9 +24175,9 @@
       "id": "I_kwDOPFPmMM7xl4mJ",
       "number": 1806,
       "title": "[Matemática] - ANO 1 -6.2 Propriedades da adição",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "deborafeijo-gif",
+      "assignee": "Decioayres",
       "subject": "Matemática",
       "year": 1,
       "created_at": "2026-03-10T17:37:35Z",
@@ -24203,9 +24203,9 @@
       "id": "I_kwDOPFPmMM7xl8Kb",
       "number": 1808,
       "title": "[Matemática] - ANO 1 - 6.3 Adição com cálculo mental",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "deborafeijo-gif",
+      "assignee": "Decioayres",
       "subject": "Matemática",
       "year": 1,
       "created_at": "2026-03-10T17:40:24Z",
@@ -24287,9 +24287,9 @@
       "id": "I_kwDOPFPmMM7xmg6g",
       "number": 1814,
       "title": "[Matemática] - ANO 1 - 7.4 Revisão",
-      "status": "In Review",
+      "status": "Backlog",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "deborafeijo-gif",
       "subject": "Matemática",
       "year": 1,
       "created_at": "2026-03-10T18:12:18Z",
@@ -24961,9 +24961,9 @@
       "id": "I_kwDOPFPmMM7yVrLa",
       "number": 1863,
       "title": "[Ciência] - Ano 4 - 6.1 Números atômicos",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "leticiaoliveira09",
+      "assignee": "Decioayres",
       "subject": "Ciência",
       "year": 4,
       "created_at": "2026-03-12T16:16:13Z",
@@ -25115,9 +25115,9 @@
       "id": "I_kwDOPFPmMM7yZIRi",
       "number": 1874,
       "title": "[Matemática] - ANO 1 - 8.4 Revisão",
-      "status": "In Review",
+      "status": "Backlog",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "deborafeijo-gif",
       "subject": "Matemática",
       "year": 1,
       "created_at": "2026-03-12T19:09:05Z",
@@ -32409,9 +32409,9 @@
       "id": "I_kwDOPFPmMM72_WJZ",
       "number": 2403,
       "title": "[Belas artes] - Ano 3 - 14.1 Mesquitas",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas artes",
       "year": 3,
       "created_at": "2026-03-26T13:12:42Z",
@@ -34187,9 +34187,9 @@
       "id": "I_kwDOPFPmMM73A4Es",
       "number": 2529,
       "title": "[Geografia] - Ano 3 - 31.1 População mundial",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:17Z",
@@ -34201,9 +34201,9 @@
       "id": "I_kwDOPFPmMM73A4JJ",
       "number": 2530,
       "title": "[Geografia] - Ano 3 - 31.2 Áreas povoadas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:19Z",
@@ -34215,9 +34215,9 @@
       "id": "I_kwDOPFPmMM73A4OR",
       "number": 2531,
       "title": "[Geografia] - Ano 3 - 31.3 Áreas pouco povoadas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:21Z",
@@ -34229,9 +34229,9 @@
       "id": "I_kwDOPFPmMM73A4T8",
       "number": 2532,
       "title": "[Geografia] - Ano 3 - 31.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:23Z",
@@ -34243,7 +34243,7 @@
       "id": "I_kwDOPFPmMM73A4Xy",
       "number": 2533,
       "title": "[Geografia] - Ano 3 - 31.5 Provas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
       "subject": "Geografia",
@@ -34257,9 +34257,9 @@
       "id": "I_kwDOPFPmMM73A4bd",
       "number": 2534,
       "title": "[Geografia] - Ano 3 - 32.1 Migração",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:26Z",
@@ -34271,9 +34271,9 @@
       "id": "I_kwDOPFPmMM73A4f2",
       "number": 2535,
       "title": "[Geografia] - Ano 3 - 32.2 Imigração",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:28Z",
@@ -34285,9 +34285,9 @@
       "id": "I_kwDOPFPmMM73A4kJ",
       "number": 2536,
       "title": "[Geografia] - Ano 3 - 32.3 Emigração",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:30Z",
@@ -34299,9 +34299,9 @@
       "id": "I_kwDOPFPmMM73A4oy",
       "number": 2537,
       "title": "[Geografia] - Ano 3 - 32.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:33Z",
@@ -34313,7 +34313,7 @@
       "id": "I_kwDOPFPmMM73A4s8",
       "number": 2538,
       "title": "[Geografia] - Ano 3 - 32.5 Provas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
       "subject": "Geografia",
@@ -34327,9 +34327,9 @@
       "id": "I_kwDOPFPmMM73A4wn",
       "number": 2539,
       "title": "[Geografia] - Ano 3 - 33.1 Fronteiras naturais",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:36Z",
@@ -34341,9 +34341,9 @@
       "id": "I_kwDOPFPmMM73A402",
       "number": 2540,
       "title": "[Geografia] - Ano 3 - 33.2 Fronteiras políticas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:38Z",
@@ -34355,9 +34355,9 @@
       "id": "I_kwDOPFPmMM73A49K",
       "number": 2541,
       "title": "[Geografia] - Ano 3 - 33.3 Limites territoriais",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:40Z",
@@ -34369,9 +34369,9 @@
       "id": "I_kwDOPFPmMM73A5Au",
       "number": 2542,
       "title": "[Geografia] - Ano 3 - 33.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:42Z",
@@ -34383,7 +34383,7 @@
       "id": "I_kwDOPFPmMM73A5FB",
       "number": 2543,
       "title": "[Geografia] - Ano 3 - 33.5 Provas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
       "subject": "Geografia",
@@ -34397,9 +34397,9 @@
       "id": "I_kwDOPFPmMM73A5JT",
       "number": 2544,
       "title": "[Geografia] - Ano 3 - 34.1 País",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:47Z",
@@ -34411,9 +34411,9 @@
       "id": "I_kwDOPFPmMM73A5NI",
       "number": 2545,
       "title": "[Geografia] - Ano 3 - 34.2 Estado",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:49Z",
@@ -34425,9 +34425,9 @@
       "id": "I_kwDOPFPmMM73A5RO",
       "number": 2546,
       "title": "[Geografia] - Ano 3 - 34.3 Capital",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:51Z",
@@ -34439,9 +34439,9 @@
       "id": "I_kwDOPFPmMM73A5VP",
       "number": 2547,
       "title": "[Geografia] - Ano 3 - 34.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:53Z",
@@ -34453,7 +34453,7 @@
       "id": "I_kwDOPFPmMM73A5ZF",
       "number": 2548,
       "title": "[Geografia] - Ano 3 - 34.5 Provas",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Decioayres",
       "subject": "Geografia",
@@ -34467,9 +34467,9 @@
       "id": "I_kwDOPFPmMM73A5dR",
       "number": 2549,
       "title": "[Geografia] - Ano 3 - 35.1 Trocas comerciais",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:57Z",
@@ -34481,9 +34481,9 @@
       "id": "I_kwDOPFPmMM73A5jS",
       "number": 2550,
       "title": "[Geografia] - Ano 3 - 35.2 Circulação de mercadorias",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:56:59Z",
@@ -34495,9 +34495,9 @@
       "id": "I_kwDOPFPmMM73A5mz",
       "number": 2551,
       "title": "[Geografia] - Ano 3 - 35.3 Interdependência entre países",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Decioayres",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 3,
       "created_at": "2026-03-26T13:57:01Z",
@@ -40946,9 +40946,9 @@
       "id": "I_kwDOPFPmMM74mVTU",
       "number": 2986,
       "title": "[Geografia] - Ano 1 - 32.3 Serviços do bairro",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:34:42Z",
@@ -40960,9 +40960,9 @@
       "id": "I_kwDOPFPmMM74mVaP",
       "number": 2987,
       "title": "[Geografia] - Ano 1 - 32.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:34:46Z",
@@ -46902,6 +46902,3072 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-02T17:59:05Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQaf",
+      "number": 3415,
+      "title": "[Matemática] - Ano 4 - 1.1 Números até 10.000",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:27Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQck",
+      "number": 3416,
+      "title": "[Matemática] - Ano 4 - 1.2 Decompor números de quatro ordens",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQgQ",
+      "number": 3417,
+      "title": "[Matemática] - Ano 4 - 1.3 Números na reta",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQiM",
+      "number": 3418,
+      "title": "[Matemática] - Ano 4 - 1.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQj9",
+      "number": 3419,
+      "title": "[Matemática] - Ano 4 - 1.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQmO",
+      "number": 3420,
+      "title": "[Matemática] - Ano 4 - 2.1 Valor do algarismo",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQvi",
+      "number": 3423,
+      "title": "[Matemática] - Ano 4 - 2.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:45Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQoN",
+      "number": 3421,
+      "title": "[Matemática] - Ano 4 - 2.2 Sistema decimal",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQsO",
+      "number": 3422,
+      "title": "[Matemática] - Ano 4 - 2.3 Números de 5 dígitos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:43Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQyN",
+      "number": 3424,
+      "title": "[Matemática] - Ano 4 - 2.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:47Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQ1R",
+      "number": 3425,
+      "title": "[Matemática] - Ano 4 - 3.1 Ordem na adição",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:49Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQ36",
+      "number": 3426,
+      "title": "[Matemática] - Ano 4 - 3.2 Adição com cálculo mental",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQ5q",
+      "number": 3427,
+      "title": "[Matemática] - Ano 4 - 3.3 Aplicações com modelos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQ7p",
+      "number": 3428,
+      "title": "[Matemática] - Ano 4 - 3.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HQ9y",
+      "number": 3429,
+      "title": "[Matemática] - Ano 4 - 3.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:18:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRCL",
+      "number": 3430,
+      "title": "[Matemática] - Ano 4 - 4.1 Como uma operação ajuda a outra",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HREm",
+      "number": 3431,
+      "title": "[Matemática] - Ano 4 - 4.2 Equações simples",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRGi",
+      "number": 3432,
+      "title": "[Matemática] - Ano 4 - 4.3 Igualdade e equilíbrio",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRJe",
+      "number": 3433,
+      "title": "[Matemática] - Ano 4 - 4.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRMP",
+      "number": 3434,
+      "title": "[Matemática] - Ano 4 - 4.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:09Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRQS",
+      "number": 3435,
+      "title": "[Matemática] - Ano 4 - 5.1 Descobrindo padrões",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:11Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRSd",
+      "number": 3436,
+      "title": "[Matemática] - Ano 4 - 5.2 Números até 20.000",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:13Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRU2",
+      "number": 3437,
+      "title": "[Matemática] - Ano 4 - 5.3 Sequências lógicas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:15Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRZR",
+      "number": 3438,
+      "title": "[Matemática] - Ano 4 - 5.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:17Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRb8",
+      "number": 3439,
+      "title": "[Matemática] - Ano 4 - 5.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRd_",
+      "number": 3440,
+      "title": "[Matemática] - Ano 4 - 6.1 Multiplicação como repetição",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRfx",
+      "number": 3441,
+      "title": "[Matemática] - Ano 4 - 6.2 Termos e agrupamentos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:23Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRhl",
+      "number": 3442,
+      "title": "[Matemática] - Ano 4 - 6.3 Aplicações com multiplicação",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:25Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRjs",
+      "number": 3443,
+      "title": "[Matemática] - Ano 4 - 6.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRl4",
+      "number": 3444,
+      "title": "[Matemática] - Ano 4 - 6.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRps",
+      "number": 3445,
+      "title": "[Matemática] - Ano 4 - 7.1 Propriedade comutativa",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRrt",
+      "number": 3446,
+      "title": "[Matemática] - Ano 4 - 7.2 Propriedade associativa",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRtj",
+      "number": 3447,
+      "title": "[Matemática] - Ano 4 - 7.3 Propriedade distributiva",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRvZ",
+      "number": 3448,
+      "title": "[Matemática] - Ano 4 - 7.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRxh",
+      "number": 3449,
+      "title": "[Matemática] - Ano 4 - 7.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HRzm",
+      "number": 3450,
+      "title": "[Matemática] - Ano 4 - 8.1 O que é dividir",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HR4g",
+      "number": 3451,
+      "title": "[Matemática] - Ano 4 - 8.2 Divisão exata",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:44Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HR7S",
+      "number": 3452,
+      "title": "[Matemática] - Ano 4 - 8.3 Aplicações com divisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSBW",
+      "number": 3453,
+      "title": "[Matemática] - Ano 4 - 8.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:49Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSC3",
+      "number": 3454,
+      "title": "[Matemática] - Ano 4 - 8.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSEw",
+      "number": 3455,
+      "title": "[Matemática] - Ano 4 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSG1",
+      "number": 3456,
+      "title": "[Matemática] - Ano 4 - 10 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSKL",
+      "number": 3457,
+      "title": "[Matemática] - Ano 4 - 11.1 Como multiplicação e divisão se ajudam",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:19:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSNS",
+      "number": 3458,
+      "title": "[Matemática] - Ano 4 - 11.2 Fatos básicos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSPO",
+      "number": 3459,
+      "title": "[Matemática] - Ano 4 - 11.3 Aplicações com as quatro operações",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSTv",
+      "number": 3460,
+      "title": "[Matemática] - Ano 4 - 11.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSWG",
+      "number": 3461,
+      "title": "[Matemática] - Ano 4 - 11.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSZh",
+      "number": 3462,
+      "title": "[Matemática] - Ano 4 - 12.1 Números primos (1 a 100)",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSc8",
+      "number": 3463,
+      "title": "[Matemática] - Ano 4 - 12.2 Números compostos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:13Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSgW",
+      "number": 3464,
+      "title": "[Matemática] - Ano 4 - 12.3 Fatores dos números",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:15Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSiu",
+      "number": 3465,
+      "title": "[Matemática] - Ano 4 - 12.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:17Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSnM",
+      "number": 3466,
+      "title": "[Matemática] - Ano 4 - 12.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSqp",
+      "number": 3467,
+      "title": "[Matemática] - Ano 4 - 13.1 Parte do todo",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSs1",
+      "number": 3468,
+      "title": "[Matemática] - Ano 4 - 13.2 Numerador e denominador",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Unassigned",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSuH",
+      "number": 3469,
+      "title": "[Matemática] - Ano 4 - 13.3 Aplicações com frações simples",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:25Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSwL",
+      "number": 3470,
+      "title": "[Matemática] - Ano 4 - 13.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:27Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSyc",
+      "number": 3471,
+      "title": "[Matemática] - Ano 4 - 13.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HS0q",
+      "number": 3472,
+      "title": "[Matemática] - Ano 4 - 14.1 Fração própria",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HS4v",
+      "number": 3473,
+      "title": "[Matemática] - Ano 4 - 14.2 Fração imprópria",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HS7x",
+      "number": 3474,
+      "title": "[Matemática] - Ano 4 - 14.3 Fração aparente",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HS9v",
+      "number": 3475,
+      "title": "[Matemática] - Ano 4 - 14.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HS_3",
+      "number": 3476,
+      "title": "[Matemática] - Ano 4 - 14.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTCM",
+      "number": 3477,
+      "title": "[Matemática] - Ano 4 - 15.1 Fração equivalente",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:43Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTFW",
+      "number": 3478,
+      "title": "[Matemática] - Ano 4 - 15.2 Fração irredutível",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:45Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTHI",
+      "number": 3479,
+      "title": "[Matemática] - Ano 4 - 15.3 Fração mista",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:47Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTLU",
+      "number": 3480,
+      "title": "[Matemática] - Ano 4 - 15.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:49Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTOG",
+      "number": 3481,
+      "title": "[Matemática] - Ano 4 - 15.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTQS",
+      "number": 3482,
+      "title": "[Matemática] - Ano 4 - 16.1 Multiplicando frações",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTSf",
+      "number": 3483,
+      "title": "[Matemática] - Ano 4 - 16.2 Dividindo frações",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTVU",
+      "number": 3484,
+      "title": "[Matemática] - Ano 4 - 16.3 Frações no cotidiano",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:20:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTZy",
+      "number": 3486,
+      "title": "[Matemática] - Ano 4 - 16.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTXh",
+      "number": 3485,
+      "title": "[Matemática] - Ano 4 - 16.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTb4",
+      "number": 3487,
+      "title": "[Matemática] - Ano 4 - 17.1 Frações e decimais",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTgJ",
+      "number": 3488,
+      "title": "[Matemática] - Ano 4 - 17.2 Lendo e escrevendo decimais",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTir",
+      "number": 3489,
+      "title": "[Matemática] - Ano 4 - 17.3 Comparando decimais",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:09Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTkf",
+      "number": 3490,
+      "title": "[Matemática] - Ano 4 - 17.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:11Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTnc",
+      "number": 3491,
+      "title": "[Matemática] - Ano 4 - 17.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:13Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTq3",
+      "number": 3492,
+      "title": "[Matemática] - Ano 4 - 18.1 Mistos e equivalentes",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:16Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTsv",
+      "number": 3493,
+      "title": "[Matemática] - Ano 4 - 18.2 Multiplicando e dividindo frações",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:18Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTxZ",
+      "number": 3495,
+      "title": "[Matemática] - Ano 4 - 18.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:22Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HTu9",
+      "number": 3494,
+      "title": "[Matemática] - Ano 4 - 18.3 Decimais e frações",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:20Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HT2Z",
+      "number": 3496,
+      "title": "[Matemática] - Ano 4 - 18.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HT5I",
+      "number": 3497,
+      "title": "[Matemática] - Ano 4 - 19 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Unassigned",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:26Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HT63",
+      "number": 3498,
+      "title": "[Matemática] - Ano 4 - 20 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HT9X",
+      "number": 3499,
+      "title": "[Matemática] - Ano 4 - 21.1 Ponto, reta e segmento",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUB0",
+      "number": 3500,
+      "title": "[Matemática] - Ano 4 - 21.2 Ângulos reto, agudo e obtuso",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:33Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUEN",
+      "number": 3501,
+      "title": "[Matemática] - Ano 4 - 21.3 Simetria e assimetria",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:35Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUGb",
+      "number": 3502,
+      "title": "[Matemática] - Ano 4 - 21.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUIQ",
+      "number": 3503,
+      "title": "[Matemática] - Ano 4 - 21.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUKa",
+      "number": 3504,
+      "title": "[Matemática] - Ano 4 - 22.1 Polígonos e poliedros",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUO3",
+      "number": 3505,
+      "title": "[Matemática] - Ano 4 - 22.2 Triângulos e quadriláteros",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:44Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HURb",
+      "number": 3506,
+      "title": "[Matemática] - Ano 4 - 22.3 Sólidos com modelos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUT3",
+      "number": 3507,
+      "title": "[Matemática] - Ano 4 - 22.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:48Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUW_",
+      "number": 3508,
+      "title": "[Matemática] - Ano 4 - 22.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUbf",
+      "number": 3509,
+      "title": "[Matemática] - Ano 4 - 23.1 Perímetro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Unassigned",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUdP",
+      "number": 3510,
+      "title": "[Matemática] - Ano 4 - 23.2 Áreas dos quadriláteros",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUfT",
+      "number": 3511,
+      "title": "[Matemática] - Ano 4 - 23.3 Comparando área e perímetro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUhf",
+      "number": 3512,
+      "title": "[Matemática] - Ano 4 - 23.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:21:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUl8",
+      "number": 3513,
+      "title": "[Matemática] - Ano 4 - 23.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:01Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUoT",
+      "number": 3514,
+      "title": "[Matemática] - Ano 4 - 24.1 Quilo e grama",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUqg",
+      "number": 3515,
+      "title": "[Matemática] - Ano 4 - 24.2 Medindo massas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUsZ",
+      "number": 3516,
+      "title": "[Matemática] - Ano 4 - 24.3 Estimando massas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:08Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUw9",
+      "number": 3517,
+      "title": "[Matemática] - Ano 4 - 24.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HUy7",
+      "number": 3518,
+      "title": "[Matemática] - Ano 4 - 24.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:12Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HU3f",
+      "number": 3519,
+      "title": "[Matemática] - Ano 4 - 25.1 Medidas do milímetro ao quilômetro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:15Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HU5v",
+      "number": 3520,
+      "title": "[Matemática] - Ano 4 - 25.2 Convertendo medidas de comprimento",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:17Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HU7z",
+      "number": 3521,
+      "title": "[Matemática] - Ano 4 - 25.3 Segundos, minutos e horas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HU99",
+      "number": 3522,
+      "title": "[Matemática] - Ano 4 - 25.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HU_1",
+      "number": 3523,
+      "title": "[Matemática] - Ano 4 - 25.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:23Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVCE",
+      "number": 3524,
+      "title": "[Matemática] - Ano 4 - 26.1 Calculando temperatura (°C / °F / K)",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:25Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVFy",
+      "number": 3525,
+      "title": "[Matemática] - Ano 4 - 26.2 Volume e litros",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVIe",
+      "number": 3526,
+      "title": "[Matemática] - Ano 4 - 26.3 Lendo rótulos e embalagens",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVM9",
+      "number": 3527,
+      "title": "[Matemática] - Ano 4 - 26.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVO4",
+      "number": 3528,
+      "title": "[Matemática] - Ano 4 - 26.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVTG",
+      "number": 3529,
+      "title": "[Matemática] - Ano 4 - 27.1 Qual medida usar",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVVP",
+      "number": 3530,
+      "title": "[Matemática] - Ano 4 - 27.2 Estimando medidas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:39Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVXL",
+      "number": 3531,
+      "title": "[Matemática] - Ano 4 - 27.3 Aplicações com medidas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVZU",
+      "number": 3532,
+      "title": "[Matemática] - Ano 4 - 27.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:43Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVb4",
+      "number": 3533,
+      "title": "[Matemática] - Ano 4 - 27.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVgb",
+      "number": 3534,
+      "title": "[Matemática] - Ano 4 - 28.1 Cédulas e moedas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:48Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVk9",
+      "number": 3535,
+      "title": "[Matemática] - Ano 4 - 28.2 Adição e subtração com dinheiro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:50Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVpN",
+      "number": 3536,
+      "title": "[Matemática] - Ano 4 - 28.3 Calculando preços e troco",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:52Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVri",
+      "number": 3537,
+      "title": "[Matemática] - Ano 4 - 28.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVum",
+      "number": 3538,
+      "title": "[Matemática] - Ano 4 - 28.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVw1",
+      "number": 3539,
+      "title": "[Matemática] - Ano 4 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:22:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVy3",
+      "number": 3540,
+      "title": "[Matemática] - Ano 4 - 30 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:01Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HV1O",
+      "number": 3541,
+      "title": "[Matemática] - Ano 4 - 31.1 Preço × valor",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:03Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HV3V",
+      "number": 3542,
+      "title": "[Matemática] - Ano 4 - 31.2 Promoções e descontos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HV5Q",
+      "number": 3543,
+      "title": "[Matemática] - Ano 4 - 31.3 Ganhar e perder",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:08Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWAY",
+      "number": 3544,
+      "title": "[Matemática] - Ano 4 - 31.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWCe",
+      "number": 3545,
+      "title": "[Matemática] - Ano 4 - 31.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:12Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWE1",
+      "number": 3546,
+      "title": "[Matemática] - Ano 4 - 32.1 Planejar gastos",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:14Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWLf",
+      "number": 3548,
+      "title": "[Matemática] - Ano 4 - 32.3 Compra única × parcelada",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWJX",
+      "number": 3547,
+      "title": "[Matemática] - Ano 4 - 32.2 Guardar dinheiro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:16Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWNv",
+      "number": 3549,
+      "title": "[Matemática] - Ano 4 - 32.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HWQj",
+      "number": 3550,
+      "title": "[Matemática] - Ano 4 - 32.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:23:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HXps",
+      "number": 3551,
+      "title": "[Português] - Ano 3 - 24.3 Predicado",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-02T18:24:31Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hd0x",
+      "number": 3552,
+      "title": "[Matemática] - Ano 4 - 33.1 Despesas fixas e variáveis",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hd3F",
+      "number": 3553,
+      "title": "[Matemática] - Ano 4 - 33.2 Evitando desperdícios",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:49Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hd5t",
+      "number": 3554,
+      "title": "[Matemática] - Ano 4 - 33.3 Bons hábitos de consumo",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hd-4",
+      "number": 3555,
+      "title": "[Matemática] - Ano 4 - 33.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeBc",
+      "number": 3556,
+      "title": "[Matemática] - Ano 4 - 33.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeDk",
+      "number": 3557,
+      "title": "[Matemática] - Ano 4 - 34.1 O que é investir",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:29:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeFo",
+      "number": 3558,
+      "title": "[Matemática] - Ano 4 - 34.2 Compra, venda e troco",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeI-",
+      "number": 3559,
+      "title": "[Matemática] - Ano 4 - 34.3 Palavras do mundo do dinheiro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeM1",
+      "number": 3560,
+      "title": "[Matemática] - Ano 4 - 34.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeQD",
+      "number": 3561,
+      "title": "[Matemática] - Ano 4 - 34.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeTc",
+      "number": 3562,
+      "title": "[Matemática] - Ano 4 - 35.1 Ética com o dinheiro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:12Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeXi",
+      "number": 3563,
+      "title": "[Matemática] - Ano 4 - 35.2 Caráter e boas decisões",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:15Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HebA",
+      "number": 3564,
+      "title": "[Matemática] - Ano 4 - 35.3 Usar o dinheiro com responsabilidade",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:18Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hed8",
+      "number": 3565,
+      "title": "[Matemática] - Ano 4 - 35.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:20Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HegO",
+      "number": 3566,
+      "title": "[Matemática] - Ano 4 - 35.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:23Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeiW",
+      "number": 3567,
+      "title": "[Matemática] - Ano 4 - 36.1 Lendo tabelas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:25Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Heka",
+      "number": 3568,
+      "title": "[Matemática] - Ano 4 - 36.2 Gráficos de barras",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:27Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hemo",
+      "number": 3569,
+      "title": "[Matemática] - Ano 4 - 36.3 Comparando dados",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:29Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hern",
+      "number": 3570,
+      "title": "[Matemática] - Ano 4 - 36.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HeuI",
+      "number": 3571,
+      "title": "[Matemática] - Ano 4 - 36.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hewb",
+      "number": 3572,
+      "title": "[Matemática] - Ano 4 - 37.1 Planejar para o futuro",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HezM",
+      "number": 3573,
+      "title": "[Matemática] - Ano 4 - 37.2 Dinheiro no cotidiano",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:39Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76He1l",
+      "number": 3574,
+      "title": "[Matemática] - Ano 4 - 37.3 Comparar preços por unidade",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76He33",
+      "number": 3575,
+      "title": "[Matemática] - Ano 4 - 37.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:44Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76He-0",
+      "number": 3577,
+      "title": "[Matemática] - Ano 4 - 38.1 Preço e troco (aplicações)",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Unassigned",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:48Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76He8O",
+      "number": 3576,
+      "title": "[Matemática] - Ano 4 - 37.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfAo",
+      "number": 3578,
+      "title": "[Matemática] - Ano 4 - 38.2 Padrões e regras",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:50Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfDE",
+      "number": 3579,
+      "title": "[Matemática] - Ano 4 - 38.3 Jogos de lógica",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfFS",
+      "number": 3580,
+      "title": "[Matemática] - Ano 4 - 38.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfHg",
+      "number": 3581,
+      "title": "[Matemática] - Ano 4 - 38.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:30:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfKM",
+      "number": 3582,
+      "title": "[Matemática] - Ano 4 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:31:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfOw",
+      "number": 3583,
+      "title": "[Matemática] - Ano 4 - 40 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "created_at": "2026-04-02T18:31:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76Hypf",
+      "number": 3584,
+      "title": "[Português] - Ano 3 - 24.4 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-02T18:46:22Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM76H-ho",
+      "number": 3585,
+      "title": "[Português] - Ano 3 - 24.5 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-02T18:55:48Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
