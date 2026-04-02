@@ -1,51 +1,63 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Agent Command Center | BEF Editorial Squad</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
     <style>
         /* ============================================
-           DESIGN SYSTEM - PREMIUM DARK THEME
+           DESIGN SYSTEM - PREMIUM DARK (TAYKOID STYLE)
            ============================================ */
         :root {
-            /* Colors - Premium Dark Palette */
-            --bg-primary: #0a0a0f;
-            --bg-secondary: #12121a;
-            --bg-tertiary: #1a1a25;
-            --bg-card: #15151f;
-            --bg-card-hover: #1a1a28;
-            
-            /* Accent Colors by Category */
-            --accent-core: #6366f1;
-            --accent-core-glow: rgba(99, 102, 241, 0.3);
-            --accent-specialized: #8b5cf6;
-            --accent-specialized-glow: rgba(139, 92, 246, 0.3);
-            --accent-analytics: #06b6d4;
-            --accent-analytics-glow: rgba(6, 182, 212, 0.3);
-            --accent-bimester: #f59e0b;
-            --accent-bimester-glow: rgba(245, 158, 11, 0.3);
-            --accent-legacy: #6b7280;
-            --accent-legacy-glow: rgba(107, 114, 128, 0.3);
-            
+            /* Colors - Premium Dark Palette from Screenshots */
+            --bg-primary: #0d0d0d;
+            --bg-secondary: #1a1a1a;
+            --bg-card: rgba(42, 42, 42, 0.6);
+            --bg-card-hover: rgba(50, 50, 50, 0.8);
+
+            /* Accent Colors */
+            --accent-orange: #FF8C42;
+            --accent-orange-dark: #FF9500;
+            --accent-blue: #00B4D8;
+            --accent-blue-light: #4CC9F0;
+            --accent-green: #00C853;
+            --accent-red: #FF5252;
+            --accent-purple: #BB86FC;
+
+            /* Category Colors */
+            --accent-core: #FF8C42;
+            --accent-core-glow: rgba(255, 140, 66, 0.3);
+            --accent-specialized: #00B4D8;
+            --accent-specialized-glow: rgba(0, 180, 216, 0.3);
+            --accent-analytics: #BB86FC;
+            --accent-analytics-glow: rgba(187, 134, 252, 0.3);
+            --accent-bimester: #00C853;
+            --accent-bimester-glow: rgba(0, 200, 83, 0.3);
+            --accent-legacy: #888888;
+            --accent-legacy-glow: rgba(136, 136, 136, 0.3);
+
             /* Text Colors */
-            --text-primary: #f8fafc;
-            --text-secondary: #94a3b8;
-            --text-tertiary: #64748b;
-            
+            --text-primary: #FFFFFF;
+            --text-secondary: #A0A0A0;
+            --text-tertiary: #666666;
+
             /* Border & Divider */
-            --border-color: #27273a;
-            --border-light: rgba(255, 255, 255, 0.08);
-            
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-light: rgba(255, 255, 255, 0.05);
+            --border-glow: rgba(255, 140, 66, 0.2);
+
             /* Status Colors */
-            --status-active: #10b981;
-            --status-warning: #f59e0b;
-            --status-error: #ef4444;
-            --status-legacy: #6b7280;
-            
+            --status-active: #00C853;
+            --status-warning: #FFB74D;
+            --status-error: #FF5252;
+            --status-legacy: #888888;
+
             /* Spacing */
             --spacing-xs: 0.25rem;
             --spacing-sm: 0.5rem;
@@ -53,25 +65,24 @@
             --spacing-lg: 1.5rem;
             --spacing-xl: 2rem;
             --spacing-2xl: 3rem;
-            
-            /* Border Radius */
-            --radius-sm: 0.375rem;
-            --radius-md: 0.5rem;
-            --radius-lg: 0.75rem;
-            --radius-xl: 1rem;
+
+            /* Border Radius - Premium Rounded */
+            --radius-sm: 0.5rem;
+            --radius-md: 0.75rem;
+            --radius-lg: 1rem;
+            --radius-xl: 1.25rem;
             --radius-2xl: 1.5rem;
-            
-            /* Shadows */
-            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.3);
-            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
-            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
-            --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.6);
-            --shadow-glow: 0 0 40px rgba(99, 102, 241, 0.15);
-            
+
+            /* Shadows - Premium Depth */
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+            --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.6);
+            --shadow-glow: 0 0 40px rgba(255, 140, 66, 0.15);
+
             /* Transitions */
             --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-base: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 500ms cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         /* ============================================
@@ -107,10 +118,10 @@
             height: 100%;
             pointer-events: none;
             z-index: -1;
-            background: 
-                radial-gradient(ellipse at 20% 20%, rgba(99, 102, 241, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, rgba(139, 92, 246, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 50% 50%, rgba(6, 182, 212, 0.05) 0%, transparent 70%);
+            background:
+                radial-gradient(ellipse at 20% 20%, rgba(255, 140, 66, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(0, 180, 216, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(187, 134, 252, 0.05) 0%, transparent 70%);
         }
 
         /* ============================================
@@ -120,7 +131,7 @@
             position: sticky;
             top: 0;
             z-index: 100;
-            background: rgba(10, 10, 15, 0.8);
+            background: rgba(13, 13, 13, 0.8);
             backdrop-filter: blur(20px);
             border-bottom: 1px solid var(--border-light);
             padding: var(--spacing-md) var(--spacing-xl);
@@ -145,7 +156,7 @@
         .logo-icon {
             width: 48px;
             height: 48px;
-            background: linear-gradient(135deg, var(--accent-core), var(--accent-specialized));
+            background: linear-gradient(135deg, var(--accent-orange), var(--accent-orange-dark));
             border-radius: var(--radius-lg);
             display: flex;
             align-items: center;
@@ -157,7 +168,7 @@
         .logo-text h1 {
             font-size: 1.5rem;
             font-weight: 700;
-            background: linear-gradient(135deg, var(--text-primary), var(--accent-core));
+            background: linear-gradient(135deg, var(--text-primary), var(--accent-orange));
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -165,7 +176,7 @@
 
         .logo-text p {
             font-size: 0.875rem;
-            color: var(--text-tertiary);
+            color: var(--text-secondary);
             font-weight: 400;
         }
 
@@ -179,7 +190,7 @@
             width: 100%;
             padding: var(--spacing-sm) var(--spacing-md);
             padding-left: 2.5rem;
-            background: var(--bg-tertiary);
+            background: rgba(42, 42, 42, 0.5);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-lg);
             color: var(--text-primary);
@@ -190,7 +201,7 @@
 
         .search-input:focus {
             outline: none;
-            border-color: var(--accent-core);
+            border-color: var(--accent-orange);
             box-shadow: 0 0 0 3px var(--accent-core-glow);
         }
 
@@ -199,7 +210,7 @@
             left: var(--spacing-md);
             top: 50%;
             transform: translateY(-50%);
-            color: var(--text-tertiary);
+            color: var(--text-secondary);
             font-size: 1rem;
         }
 
@@ -211,7 +222,7 @@
 
         .filter-btn {
             padding: var(--spacing-sm) var(--spacing-md);
-            background: var(--bg-tertiary);
+            background: rgba(42, 42, 42, 0.5);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-md);
             color: var(--text-secondary);
@@ -225,14 +236,14 @@
         }
 
         .filter-btn:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--accent-core);
+            background: rgba(50, 50, 50, 0.8);
+            border-color: var(--accent-orange);
             color: var(--text-primary);
         }
 
         .filter-btn.active {
-            background: var(--accent-core);
-            border-color: var(--accent-core);
+            background: linear-gradient(135deg, var(--accent-orange), var(--accent-orange-dark));
+            border-color: var(--accent-orange);
             color: white;
             box-shadow: 0 4px 15px var(--accent-core-glow);
         }
@@ -277,7 +288,7 @@
             flex-wrap: wrap;
             gap: var(--spacing-md);
             padding: var(--spacing-xl);
-            background: var(--bg-secondary);
+            background: rgba(42, 42, 42, 0.4);
             border-radius: var(--radius-2xl);
             border: 1px solid var(--border-light);
             margin-bottom: var(--spacing-xl);
@@ -289,7 +300,7 @@
             align-items: center;
             gap: var(--spacing-sm);
             padding: var(--spacing-md);
-            background: var(--bg-card);
+            background: rgba(42, 42, 42, 0.6);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-lg);
             min-width: 100px;
@@ -299,14 +310,14 @@
 
         .workflow-step:hover {
             transform: translateY(-4px);
-            border-color: var(--accent-core);
+            border-color: var(--accent-orange);
             box-shadow: 0 8px 25px var(--accent-core-glow);
         }
 
         .workflow-step-icon {
             width: 40px;
             height: 40px;
-            background: var(--accent-core-glow);
+            background: rgba(255, 140, 66, 0.1);
             border-radius: var(--radius-md);
             display: flex;
             align-items: center;
@@ -359,7 +370,8 @@
            AGENT CARD
            ============================================ */
         .agent-card {
-            background: var(--bg-card);
+            background: rgba(42, 42, 42, 0.6);
+            backdrop-filter: blur(20px);
             border: 1px solid var(--border-color);
             border-radius: var(--radius-xl);
             overflow: hidden;
@@ -389,11 +401,35 @@
             opacity: 1;
         }
 
-        .agent-card.core { --card-accent: var(--accent-core); --card-accent-secondary: var(--accent-specialized); --card-glow: var(--accent-core-glow); }
-        .agent-card.specialized { --card-accent: var(--accent-specialized); --card-accent-secondary: var(--accent-core); --card-glow: var(--accent-specialized-glow); }
-        .agent-card.analytics { --card-accent: var(--accent-analytics); --card-accent-secondary: var(--accent-core); --card-glow: var(--accent-analytics-glow); }
-        .agent-card.bimester { --card-accent: var(--accent-bimester); --card-accent-secondary: var(--accent-specialized); --card-glow: var(--accent-bimester-glow); }
-        .agent-card.legacy { --card-accent: var(--accent-legacy); --card-accent-secondary: var(--border-color); --card-glow: var(--accent-legacy-glow); }
+        .agent-card.core {
+            --card-accent: var(--accent-core);
+            --card-accent-secondary: var(--accent-specialized);
+            --card-glow: var(--accent-core-glow);
+        }
+
+        .agent-card.specialized {
+            --card-accent: var(--accent-specialized);
+            --card-accent-secondary: var(--accent-core);
+            --card-glow: var(--accent-specialized-glow);
+        }
+
+        .agent-card.analytics {
+            --card-accent: var(--accent-analytics);
+            --card-accent-secondary: var(--accent-core);
+            --card-glow: var(--accent-analytics-glow);
+        }
+
+        .agent-card.bimester {
+            --card-accent: var(--accent-bimester);
+            --card-accent-secondary: var(--accent-specialized);
+            --card-glow: var(--accent-bimester-glow);
+        }
+
+        .agent-card.legacy {
+            --card-accent: var(--accent-legacy);
+            --card-accent-secondary: var(--border-color);
+            --card-glow: var(--accent-legacy-glow);
+        }
 
         .agent-card-header {
             padding: var(--spacing-lg);
@@ -406,7 +442,9 @@
         .agent-icon {
             width: 56px;
             height: 56px;
-            background: var(--card-accent-glow, var(--accent-core-glow));
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
             border-radius: var(--radius-lg);
             display: flex;
             align-items: center;
@@ -599,9 +637,17 @@
             animation: pulse 2s infinite;
         }
 
-        .status-dot.active { background: var(--status-active); }
-        .status-dot.warning { background: var(--status-warning); }
-        .status-dot.legacy { background: var(--status-legacy); }
+        .status-dot.active {
+            background: var(--status-active);
+        }
+
+        .status-dot.warning {
+            background: var(--status-warning);
+        }
+
+        .status-dot.legacy {
+            background: var(--status-legacy);
+        }
 
         .status-text {
             font-size: 0.6875rem;
@@ -611,8 +657,15 @@
         }
 
         @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
         }
 
         /* ============================================
@@ -758,6 +811,7 @@
         }
     </style>
 </head>
+
 <body>
     <!-- Background Gradient -->
     <div class="bg-gradient"></div>
@@ -772,21 +826,17 @@
     <header class="header">
         <div class="header-content">
             <div class="logo">
-                <div class="logo-icon">🎯</div>
+                <div class="logo-icon">◈</div>
                 <div class="logo-text">
                     <h1>Agent Command Center</h1>
                     <p>BEF Editorial Squad Management Dashboard</p>
                 </div>
             </div>
-            
+
             <div class="search-bar">
                 <span class="search-icon">🔍</span>
-                <input 
-                    type="text" 
-                    class="search-input" 
-                    id="searchInput"
-                    placeholder="Search agents by name, role, or command..."
-                >
+                <input type="text" class="search-input" id="searchInput"
+                    placeholder="Search agents by name, role, or command...">
             </div>
 
             <div class="filter-buttons">
@@ -807,43 +857,43 @@
             <h2 class="section-title">Editorial Workflow Pipeline</h2>
             <div class="workflow-diagram">
                 <div class="workflow-step" data-agent="orchestrator">
-                    <div class="workflow-step-icon">🎼</div>
+                    <div class="workflow-step-icon">◈</div>
                     <div class="workflow-step-name">Maestro</div>
                     <div class="workflow-step-number">Stage 0</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="researcher">
-                    <div class="workflow-step-icon">🔍</div>
+                    <div class="workflow-step-icon">⌕</div>
                     <div class="workflow-step-name">Seeker</div>
                     <div class="workflow-step-number">Stage 1</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="writer">
-                    <div class="workflow-step-icon">✒️</div>
+                    <div class="workflow-step-icon">✎</div>
                     <div class="workflow-step-name">Scribe</div>
                     <div class="workflow-step-number">Stage 2</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="standardizer">
-                    <div class="workflow-step-icon">🏗️</div>
+                    <div class="workflow-step-icon">⬢</div>
                     <div class="workflow-step-name">Architect</div>
                     <div class="workflow-step-number">Stage 3</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="reviewer">
-                    <div class="workflow-step-icon">🛡️</div>
+                    <div class="workflow-step-icon">🛡</div>
                     <div class="workflow-step-name">Guardian</div>
                     <div class="workflow-step-number">Stage 4</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="copywriter">
-                    <div class="workflow-step-icon">✨</div>
+                    <div class="workflow-step-icon">◦</div>
                     <div class="workflow-step-name">Polisher</div>
                     <div class="workflow-step-number">Stage 5</div>
                 </div>
                 <div class="workflow-arrow">→</div>
                 <div class="workflow-step" data-agent="publisher">
-                    <div class="workflow-step-icon">📢</div>
+                    <div class="workflow-step-icon">◈</div>
                     <div class="workflow-step-name">Herald</div>
                     <div class="workflow-step-number">Stage 7</div>
                 </div>
@@ -854,7 +904,7 @@
         <section class="category-section" data-category="core">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-core);">⚡</div>
+                    <div class="category-icon" style="background: var(--accent-core);">◈</div>
                     <div>
                         <div class="category-name">Core Pipeline</div>
                         <div class="category-description">Main editorial workflow — from research to publication</div>
@@ -869,7 +919,7 @@
         <section class="category-section" data-category="specialized">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-specialized);">🎨</div>
+                    <div class="category-icon" style="background: var(--accent-specialized);">◐</div>
                     <div>
                         <div class="category-name">Specialized Agents</div>
                         <div class="category-description">Technical operations, design, and creative functions</div>
@@ -884,10 +934,11 @@
         <section class="category-section" data-category="analytics">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-analytics);">📊</div>
+                    <div class="category-icon" style="background: var(--accent-analytics);">⊞</div>
                     <div>
                         <div class="category-name">Analytics Agents</div>
-                        <div class="category-description">Vision Board intelligence — data extraction, progress tracking, and bottleneck detection</div>
+                        <div class="category-description">Vision Board intelligence — data extraction, progress
+                            tracking, and bottleneck detection</div>
                     </div>
                 </div>
                 <span class="category-count">4 agents</span>
@@ -899,7 +950,7 @@
         <section class="category-section" data-category="bimester">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-bimester);">📚</div>
+                    <div class="category-icon" style="background: var(--accent-bimester);">▤</div>
                     <div>
                         <div class="category-name">Bimester Agents</div>
                         <div class="category-description">Periodic assessment — reviews and exams compilation</div>
@@ -914,7 +965,7 @@
         <section class="category-section" data-category="legacy">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-legacy);">📜</div>
+                    <div class="category-icon" style="background: var(--accent-legacy);">▢</div>
                     <div>
                         <div class="category-name">Legacy Agents</div>
                         <div class="category-description">Historical reference — replaced by newer agents</div>
@@ -936,7 +987,7 @@
                     id: 'orchestrator',
                     name: 'Maestro',
                     originalName: 'Orchestrator',
-                    icon: '🎼',
+                    icon: '◈',
                     role: 'Diretor Editorial — diagnostica, prioriza e delega',
                     description: 'O Maestro é o ponto central de orientação do projeto. Conhece profundamente cada skill, workflow e regra de sincronização. Não executa o trabalho dos outros agentes: diagnostica, prioriza e delega.',
                     status: 'active',
@@ -952,7 +1003,7 @@
                     id: 'researcher',
                     name: 'Seeker',
                     originalName: 'Researcher',
-                    icon: '🔍',
+                    icon: '⌕',
                     role: 'Investigador — coleta informações profundas e autoritativas',
                     description: 'O Seeker é o investigador da squad. Usa metodologia Ad Fontes para coletar informações primárias, alinhadas à Educação Clássica Cristã Reformada. Foca nos 5 Hábitos da Gramática.',
                     status: 'active',
@@ -968,7 +1019,7 @@
                     id: 'writer',
                     name: 'Scribe',
                     originalName: 'Writer',
-                    icon: '✒️',
+                    icon: '✎',
                     role: 'Escriba — transforma pesquisa em conteúdo pedagógico',
                     description: 'O Scribe transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática. Segue rigorosamente o golden template e a progressão pedagógica.',
                     status: 'active',
@@ -981,7 +1032,7 @@
                     id: 'standardizer',
                     name: 'Architect',
                     originalName: 'Standardizer',
-                    icon: '🏗️',
+                    icon: '⬢',
                     role: 'Arquiteto — formata com Rise Blocks e aplica correções',
                     description: 'O Architect transforma o rascunho do Writer em conteúdo formatado com Rise Blocks. Aplica todas as correções editoriais: voz ativa, imperativo, capitalização europeia.',
                     status: 'active',
@@ -994,7 +1045,7 @@
                     id: 'reviewer',
                     name: 'Guardian',
                     originalName: 'Reviewer',
-                    icon: '🛡️',
+                    icon: '🛡',
                     role: 'Guardião da qualidade — QA com checklist de 13 categorias',
                     description: 'O Guardian é o Editor-Chefe e QA. Garante excelência técnica, precisão doutrinária e padronização. Valida 13 categorias de auditoria antes de aprovar.',
                     status: 'active',
@@ -1007,7 +1058,7 @@
                     id: 'copywriter',
                     name: 'Polisher',
                     originalName: 'Copywriter',
-                    icon: '✨',
+                    icon: '◦',
                     role: 'Polidor final — otimiza títulos e enunciados',
                     description: 'O Polisher dá o acabamento final. Otimiza títulos, enunciados, garante fluidez e tom consistente. Não altera definições validadas.',
                     status: 'active',
@@ -1020,7 +1071,7 @@
                     id: 'publisher',
                     name: 'Herald',
                     originalName: 'Publisher',
-                    icon: '📢',
+                    icon: '◈',
                     role: 'Distribuidor — salva localmente e publica no GitHub',
                     description: 'O Herald salva a aula finalizada localmente e publica no GitHub. Registra termos no Currículo Macro e gerencia o versionamento.',
                     status: 'active',
@@ -1035,7 +1086,7 @@
                     id: 'devops',
                     name: 'Sentinel',
                     originalName: 'DevOps',
-                    icon: '🤖',
+                    icon: '⚙',
                     role: 'Engenheiro DevOps — gatekeeper do repositório',
                     description: 'O Sentinel blinda o ecossistema do repositório. Git NÃO é para mídia pesada. Gerencia workflows de publicação, limpeza estrutural e conflitos.',
                     status: 'active',
@@ -1051,7 +1102,7 @@
                     id: 'design-thinking',
                     name: 'Navigator',
                     originalName: 'Design Thinking',
-                    icon: '🧭',
+                    icon: '⌖',
                     role: 'Coordenador de UX — pesquisa, definição, ideação, prototipagem',
                     description: 'O Navigator lidera processos de design centrado no humano. Coordena pesquisa, personas, jornadas, wireframes e validação. Delega UI visual ao Artificer.',
                     status: 'active',
@@ -1067,7 +1118,7 @@
                     id: 'ui-designer',
                     name: 'Artificer',
                     originalName: 'UI Designer',
-                    icon: '🎨',
+                    icon: '◐',
                     role: 'Designer UI senior — design systems premium e responsivos',
                     description: 'O Artificer transforma conceitos em sistemas visuais coesos, escaláveis e premium. Domina tokens, responsividade, acessibilidade WCAG e componentização.',
                     status: 'active',
@@ -1082,7 +1133,7 @@
                     id: 'image-generator',
                     name: 'Illustrator',
                     originalName: 'Image Generator',
-                    icon: '🖼️',
+                    icon: '▣',
                     role: 'Artista Digital — gera ilustrações em aquarela clássica',
                     description: 'O Illustrator transforma prompts do hábito Narrar em ilustrações usando APIs gratuitas (Pollinations, HuggingFace). Estilo: aquarela, livro clássico, fundo branco.',
                     status: 'active',
@@ -1098,7 +1149,7 @@
                     id: 'capitalizer',
                     name: 'Lexicon',
                     originalName: 'Capitalizer',
-                    icon: '🔤',
+                    icon: 'ABC',
                     role: 'Revisor de capitalização — padrão europeu',
                     description: 'O Lexicon aplica capitalização padrão europeu (sentence-case). Nomes próprios em maiúscula, termos descritivos em minúscula. Consistência em todas as seções.',
                     status: 'active',
@@ -1113,7 +1164,7 @@
                     id: 'performance-analytics',
                     name: 'Strategist',
                     originalName: 'Performance Analytics',
-                    icon: '📊',
+                    icon: '⊞',
                     role: 'Analista de performance — relatórios de produtividade',
                     description: 'O Strategist analisa produção de tickets no Kanban. Gera relatórios individuais e da equipe: total de tickets, taxa de conclusão, ritmo de produção, ranking.',
                     status: 'active',
@@ -1129,7 +1180,7 @@
                     id: 'vision-github-analyzer',
                     name: 'Harvester',
                     originalName: 'Vision GitHub Analyzer',
-                    icon: '🌾',
+                    icon: '▤',
                     role: 'Analista de dados — extrai e limpa dados do GitHub Projects',
                     description: 'O Harvester conecta-se passivamente à API GraphQL do GitHub Projects. Extrai, limpa e formata dados brutos em data.json para o Vision Board.',
                     status: 'active',
@@ -1143,7 +1194,7 @@
                     id: 'vision-progress-engine',
                     name: 'Oracle',
                     originalName: 'Vision Progress Engine',
-                    icon: '🔮',
+                    icon: '◉',
                     role: 'Motor de metas — compara concluído vs prazos',
                     description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
                     status: 'active',
@@ -1157,7 +1208,7 @@
                     id: 'vision-bottleneck-detector',
                     name: 'Radar',
                     originalName: 'Vision Bottleneck Detector',
-                    icon: '📡',
+                    icon: '◍',
                     role: 'Auditor operacional — detecta gargalos e alertas de SLA',
                     description: 'O Radar procura ativamente por "sangramentos operacionais": quem está travado, qual disciplina empacou, alertas de SLA. Gera insights acionáveis.',
                     status: 'active',
@@ -1173,7 +1224,7 @@
                     id: 'bimester-review-builder',
                     name: 'Chronicler',
                     originalName: 'Bimester Review Builder',
-                    icon: '📜',
+                    icon: '▤',
                     role: 'Construtor de revisões bimestrais — compila 8 semanas',
                     description: 'O Chronicler monta a prova de revisão bimestral extraindo conteúdo das aulas .4. Não cria conteúdo novo: copia e organiza. 8 semanas × 3 questões = 24 questões no Quiz.',
                     status: 'active',
@@ -1186,7 +1237,7 @@
                     id: 'bimester-exam-builder',
                     name: 'Examiner',
                     originalName: 'Bimester Exam Builder',
-                    icon: '📝',
+                    icon: '▢',
                     role: 'Construtor de provas bimestrais — 10 questões CANVAS_QUIZ',
                     description: 'O Examiner monta prova bimestral de 10 questões: 8 extraídas das .5 + 2 criadas. Formato CANVAS_QUIZ: FILL_IN, TRUE_OR_FALSE, MULTIPLE_CHOICE, MATCHING.',
                     status: 'active',
@@ -1223,7 +1274,7 @@
                     id: 'image-link-extractor',
                     name: 'Curator',
                     originalName: 'Image Link Extractor',
-                    icon: '🖼️',
+                    icon: '▣',
                     role: 'Extrator de links de imagem (legado)',
                     description: 'O Curator extraía links de imagens para o hábito Perceber. Funcionalidade incorporada em outros agentes.',
                     status: 'legacy',
@@ -1234,7 +1285,7 @@
                     id: 'capitalizer-legacy',
                     name: 'Lexicon v1',
                     originalName: 'Capitalizer (Legacy)',
-                    icon: '🔤',
+                    icon: 'ABC',
                     role: 'Capitalização (integrado ao Architect)',
                     description: 'Funcionalidade de capitalização agora integrada ao Standardizer (Architect).',
                     status: 'legacy',
@@ -1350,7 +1401,7 @@
             const toast = document.getElementById('toast');
             toast.querySelector('.toast-message').textContent = message;
             toast.classList.add('show');
-            
+
             setTimeout(() => {
                 toast.classList.remove('show');
             }, 3000);
@@ -1366,10 +1417,10 @@
                 const agentRole = card.querySelector('.agent-role').textContent.toLowerCase();
                 const agentDescription = card.querySelector('.agent-description').textContent.toLowerCase();
                 const commands = card.querySelectorAll('.command-code');
-                
-                let matches = agentName.includes(query) || 
-                             agentRole.includes(query) || 
-                             agentDescription.includes(query);
+
+                let matches = agentName.includes(query) ||
+                    agentRole.includes(query) ||
+                    agentDescription.includes(query);
 
                 if (!matches && query.length > 0) {
                     commands.forEach(cmd => {
@@ -1408,12 +1459,12 @@
             step.addEventListener('click', () => {
                 const agentId = step.dataset.agent;
                 const agentCard = document.querySelector(`.agent-card[data-agent="${agentId}"]`);
-                
+
                 if (agentCard) {
                     agentCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
                     agentCard.style.transform = 'scale(1.02)';
                     agentCard.style.borderColor = 'var(--accent-core)';
-                    
+
                     setTimeout(() => {
                         agentCard.style.transform = '';
                         agentCard.style.borderColor = '';
@@ -1426,4 +1477,5 @@
         renderAgents();
     </script>
 </body>
+
 </html>
