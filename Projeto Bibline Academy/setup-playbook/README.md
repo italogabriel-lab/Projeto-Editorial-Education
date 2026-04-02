@@ -111,25 +111,133 @@ Como verificar se a configuração funcionou:
 
 ## 📖 Índice de Configurações
 
-### Deploy e Hospedagem
+### 01. Deploy e Hospedagem
 | Configuração | Status | Última Atualização |
 |--------------|--------|-------------------|
-| [Vercel](01-deployment/vercel.md) | ✅ Documentado | 2026-04-02 |
+| [Vercel Deployment](01-deployment/vercel.md) | ✅ Documentado | 2026-04-02 |
 
-### Integrações
+### 02. Integrações
 | Configuração | Status | Última Atualização |
 |--------------|--------|-------------------|
-| [GitHub MCP](02-integrations/github-mcp.md) | ⏳ Pendente | - |
+| [GitHub MCP Server](02-integrations/github-mcp.md) | ✅ Documentado | 2026-04-02 |
+| [GitHub Actions Sync](02-integrations/github-actions-sync.md) | ✅ Documentado | 2026-04-02 |
+| [AI Image Generation](02-integrations/ai-image-generation.md) | ✅ Documentado | 2026-04-02 |
 
-### Banco de Dados
+### 03. Banco de Dados
 | Configuração | Status | Última Atualização |
 |--------------|--------|-------------------|
 | PostgreSQL | ⏳ Pendente | - |
+| MongoDB | ⏳ Pendente | - |
+| S3/R2 Storage | ⏳ Pendente | - |
 
-### Autenticação
+### 04. Autenticação
 | Configuração | Status | Última Atualização |
 |--------------|--------|-------------------|
-| OAuth | ⏳ Pendente | - |
+| OAuth (Google, GitHub) | ⏳ Pendente | - |
+| JWT Authentication | ⏳ Pendente | - |
+| API Keys Management | ⏳ Pendente | - |
+
+### 05. Monitoramento
+| Configuração | Status | Última Atualização |
+|--------------|--------|-------------------|
+| Sentry (Error Tracking) | ⏳ Pendente | - |
+| Google Analytics | ⏳ Pendente | - |
+| Uptime Monitoring | ⏳ Pendente | - |
+
+### 06. Email e Notificações
+| Configuração | Status | Última Atualização |
+|--------------|--------|-------------------|
+| Resend Email | ⏳ Pendente | - |
+| SendGrid | ⏳ Pendente | - |
+| Slack Webhooks | ⏳ Pendente | - |
+
+### 07. Environment
+| Configuração | Status | Última Atualização |
+|--------------|--------|-------------------|
+| [Environment Variables](07-environment/env-setup.md) | ✅ Documentado | 2026-04-02 |
+| Secrets Management | ⏳ Pendente | - |
+
+### 08. Agentes e Automação
+| Configuração | Status | Última Atualização |
+|--------------|--------|-------------------|
+| [Python Automation Scripts](08-agents/python-automation.md) | ✅ Documentado | 2026-04-02 |
+| MCP Servers Configuration | ✅ Documentado | 2026-04-02 |
+| Workflow Automation | ⏳ Pendente | - |
+
+---
+
+## 🗺️ Mapa de Integrações do Projeto
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    ECOSYSTEM OVERVIEW                        │
+└─────────────────────────────────────────────────────────────┘
+
+┌──────────────────┐     ┌──────────────────┐
+│  GitHub Projects │────▶│  GitHub Actions  │
+│   (Kanban V2)    │     │   (data-sync.yml)│
+└──────────────────┘     └────────┬─────────┘
+         │                        │
+         │ GraphQL API            │ Node.js Script
+         │                        ▼
+         │               ┌──────────────────┐
+         │               │   public/data.json│
+         │               └────────┬─────────┘
+         │                        │
+         │                        ▼
+         │               ┌──────────────────┐
+         └──────────────▶│  GitHub Pages    │
+              Issues     │   (Vision Board) │
+                         └──────────────────┘
+
+┌──────────────────┐     ┌──────────────────┐
+│  Agent Command   │────▶│     Vercel       │
+│     Center       │     │   (Deployment)   │
+│   (HTML/JS)      │     │                  │
+└──────────────────┘     └──────────────────┘
+
+┌──────────────────┐     ┌──────────────────┐
+│  Image Generator │────▶│  Pollinations.ai │
+│    (Python)      │     │  (Primary API)   │
+└──────────────────┘     └────────┬─────────┘
+         │                        │
+         │ Fallback               │ HuggingFace
+         │                        ▼
+         │               ┌──────────────────┐
+         └──────────────▶│   HuggingFace    │
+                         │   (Backup API)   │
+                         └──────────────────┘
+
+┌──────────────────┐     ┌──────────────────┐
+│  Python Scripts  │────▶│   GitHub API     │
+│  (Automation)    │     │   (REST/GraphQL) │
+└──────────────────┘     └──────────────────┘
+         │
+         ├── sync_titles.py
+         ├── create_issues.py
+         ├── check_matriz.py
+         └── [40+ scripts]
+
+┌──────────────────┐     ┌──────────────────┐
+│   MCP Server     │────▶│  Claude/Cursor   │
+│   (GitHub)       │     │   (AI Agents)    │
+└──────────────────┘     └──────────────────┘
+```
+
+---
+
+## 📊 Resumo de Integrações Implementadas
+
+| Categoria | Quantidade | Status |
+|-----------|------------|--------|
+| **Deploy/Hosting** | 2 | ✅ Vercel + GitHub Pages |
+| **GitHub Integrations** | 3 | ✅ Actions + Projects + MCP |
+| **AI APIs** | 3 | ✅ Pollinations + HuggingFace + DeepAI |
+| **Automation Scripts** | 44+ | ✅ Python (8 categorias) |
+| **AI Agents** | 22 | ✅ Documentados (SKILL.md) |
+| **Workflows** | 3 | ✅ produce_class, publish, orchestrate |
+| **Data Sync** | 1 | ✅ Every 5 minutes |
+| **Documentation** | 683+ | ✅ Knowledge Base |
 
 ---
 
@@ -138,6 +246,11 @@ Como verificar se a configuração funcionou:
 | Data | Configuração | Mudanças |
 |------|--------------|----------|
 | 2026-04-02 | Vercel Deploy | Documentação inicial criada |
+| 2026-04-02 | GitHub MCP | Setup para AI agents |
+| 2026-04-02 | Environment Variables | Gestão de .env |
+| 2026-04-02 | GitHub Actions Sync | Vision Board data pipeline |
+| 2026-04-02 | AI Image Generation | Pollinations + HuggingFace |
+| 2026-04-02 | Python Automation | 44+ scripts documentados |
 
 ---
 
