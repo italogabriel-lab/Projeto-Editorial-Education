@@ -992,10 +992,71 @@
                     description: 'O Maestro é o ponto central de orientação do projeto. Conhece profundamente cada skill, workflow e regra de sincronização. Não executa o trabalho dos outros agentes: diagnostica, prioriza e delega.',
                     status: 'active',
                     commands: [
-                        { code: '/orchestrator status <ano>', description: 'Diagnose o progresso do ano' },
-                        { code: '/orchestrator next <ano>', description: 'Sugere próximas ações prioritárias' },
-                        { code: '/orchestrator delegate <tarefa>', description: 'Roteia para o agente correto' },
-                        { code: '/orchestrator audit <ano> <semana>', description: 'Auditoria de consistência' }
+                        {
+                            code: '/orchestrator status <ano>',
+                            description: 'Diagnose o progresso do ano',
+                            prompt: `Analise o status completo do ano letivo <ano>. Forneça um diagnóstico detalhado incluindo:
+- Quantas semanas foram concluídas vs total planejado
+- Quais disciplinas estão em dia, atrasadas ou com risco
+- Número de aulas publicadas vs pendentes por disciplina
+- Principais gargalos identificados no workflow
+- Métricas de produtividade da equipe
+- Recomendações de ações prioritárias para as próximas 48h
+
+Use dados do Vision Board, GitHub Projects e relatórios de performance para criar um panorama completo.`
+                        },
+                        {
+                            code: '/orchestrator next <ano>',
+                            description: 'Sugere próximas ações prioritárias',
+                            prompt: `Com base no status atual do ano <ano>, identifique e priorize as próximas 5-10 ações mais importantes. Para cada ação, especifique:
+- Qual agente deve executar (Researcher, Writer, Standardizer, etc.)
+- Nível de urgência (Crítico, Alto, Médio, Baixo)
+- Dependências que precisam ser resolvidas antes
+- Tempo estimado de execução
+- Impacto no cronograma geral se não for feito
+
+Considere: aulas pendentes de pesquisa, rascunhos aguardando revisão, materiais aguardando publicação, e gargalos identificados pelo Radar.`
+                        },
+                        {
+                            code: '/orchestrator delegate <tarefa>',
+                            description: 'Roteia para o agente correto',
+                            prompt: `Analise a tarefa: "<tarefa>"
+
+Determine qual agente é mais adequado para executar esta tarefa seguindo o workflow editorial:
+
+1. Identifique o tipo de tarefa (pesquisa, escrita, formatação, revisão, publicação, análise, design, etc.)
+2. Selecione o agente especializado correspondente
+3. Explique POR QUE este agente foi escolhido
+4. Liste os comandos específicos que devem ser usados
+5. Identifique dependências de outros agentes
+6. Sugira a ordem de execução se múltiplos agentes forem necessários
+
+Forneça um plano de ação claro com etapas sequenciais.`
+                        },
+                        {
+                            code: '/orchestrator audit <ano> <semana>',
+                            description: 'Auditoria de consistência',
+                            prompt: `Execute uma auditoria completa da semana <semana> do ano <ano>. Verifique:
+
+CONSISTÊNCIA EDITORIAL:
+- Todas as aulas seguem o golden template?
+- Títulos estão padronizados?
+- Capitalização europeia aplicada corretamente?
+- 5 Hábitos da Gramática presentes em cada aula?
+
+INTEGRIDADE DE CONTEÚDO:
+- Todas as seções obrigatórias presentes?
+- Links e referências funcionais?
+- Imagens geradas e vinculadas?
+- Questões de quiz/revisão criadas?
+
+WORKFLOW:
+- Todas as etapas do pipeline foram seguidas?
+- Aprovações do Guardian registradas?
+- Versionamento correto no GitHub?
+
+ Gere um relatório com: ✅ Passou, ⚠️ Atenção, ❌ Crítico para cada item.`
+                        }
                     ],
                     useCases: ['Status do projeto', 'Próximos passos', 'Delegação inteligente', 'Auditoria de títulos']
                 },
@@ -1008,10 +1069,130 @@
                     description: 'O Seeker é o investigador da squad. Usa metodologia Ad Fontes para coletar informações primárias, alinhadas à Educação Clássica Cristã Reformada. Foca nos 5 Hábitos da Gramática.',
                     status: 'active',
                     commands: [
-                        { code: '/research <tema> <ano> <semana>', description: 'Pesquisa completa do tema' },
-                        { code: '/research definition <termo>', description: 'Definição Webster 1828' },
-                        { code: '/research artwork <tema>', description: 'Obras de arte relacionadas' },
-                        { code: '/research scripture <tema>', description: 'Versículos bíblicos' }
+                        {
+                            code: '/research <tema> <ano> <semana>',
+                            description: 'Pesquisa completa do tema',
+                            prompt: `Execute uma pesquisa completa sobre "<tema>" para o ano <ano>, semana <semana>.
+
+METODOLOGIA AD FONTES:
+1. Fontes Primárias: Consulte textos originais, documentos históricos, escrituras
+2. Fontes Secundárias: Acadêmicos reconhecidos, enciclopédias especializadas
+3. Fontes Terciárias: Resumos, compilações verificadas
+
+5 HÁBITOS DA GRAMÁTICA:
+1. NOMEAR: Identifique todos os termos técnicos e conceitos-chave
+2. DEFINIR: Forneça definições precisas (Webster 1828 quando aplicável)
+3. MEMORIZAR: Crie listas mnemônicas e pontos de memorização
+4. CANTAR/MÉTRICA: Identifique padrões, ritmos, estruturas poéticas
+5. NARRAR: Desenvolva narrativas e conexões históricas
+
+ENTREGÁVEIS:
+- Definições de todos os termos técnicos
+- Referências bíblicas relevantes (com texto completo)
+- Obras de arte relacionadas (artista, período, descrição)
+- Citações de fontes primárias
+- Referências literárias e históricas
+- Contexto histórico e cultural
+- Conexões com cosmovisão cristã reformada
+
+FORMATO: Estruture em seções claras com fontes citadas para cada afirmação.`
+                        },
+                        {
+                            code: '/research definition <termo>',
+                            description: 'Definição Webster 1828',
+                            prompt: `Forneça uma análise completa do termo: "<termo>"
+
+1. DEFINIÇÃO WEBSTER 1828:
+   - Definição original completa
+   - Etimologia (raízes hebraicas/gregas/latinas quando aplicável)
+   - Uso histórico no contexto educacional clássico
+
+2. DEFINIÇÃO CONTEMPORÂNEA:
+   - Como o termo é entendido hoje
+   - Diferenças da compreensão moderna vs clássica
+
+3. CONTEXTO EDUCACIONAL:
+   - Como este termo se aplica à Educação Clássica Cristã Reformada
+   - Conexões com os 5 Hábitos da Gramática
+   - Exemplos práticos de uso
+
+4. REFERÊNCIAS CRUZADAS:
+   - Termos relacionados
+   - Conceitos dependentes
+   - Aplicações em diferentes disciplinas
+
+5. FONTES:
+   - Webster's 1828 Dictionary
+   - Fontes bíblicas relevantes
+   - Autores clássicos reconhecidos`
+                        },
+                        {
+                            code: '/research artwork <tema>',
+                            description: 'Obras de arte relacionadas',
+                            prompt: `Identifique e descreva obras de arte relacionadas ao tema: "<tema>"
+
+Para cada obra de arte (mínimo 3-5):
+
+1. IDENTIFICAÇÃO:
+   - Título da obra
+   - Artista (nome completo, nacionalidade, período de vida)
+   - Ano de criação
+   - Medium/técnica
+   - Localização atual (museu/coleção)
+
+2. DESCRIÇÃO:
+   - Análise visual detalhada
+   - Simbolismo e elementos iconográficos
+   - Contexto histórico de criação
+   - Conexões com o tema pesquisado
+
+3. RELEVÂNCIA EDUCACIONAL:
+   - Como esta obra ilustra o tema
+   - Pontos de discussão para alunos
+   - Conexões com cosmovisão cristã
+
+4. DOMÍNIO PÚBLICO:
+   - Confirmar se está em domínio público
+   - Link para imagem de alta qualidade (se disponível)
+
+FORMATO: Estruture cada obra como um perfil completo pronto para uso educacional.`
+                        },
+                        {
+                            code: '/research scripture <tema>',
+                            description: 'Versículos bíblicos',
+                            prompt: `Compile uma análise bíblica completa sobre: "<tema>"
+
+Para cada passagem relevante (mínimo 5-10):
+
+1. REFERÊNCIA:
+   - Livro, capítulo, versículo
+   - Tradução (Almeida Revista e Atualizada, King James, etc.)
+
+2. TEXTO COMPLETO:
+   - Versículo completo na tradução principal
+   - Variações de tradução quando relevante
+
+3. CONTEXTO:
+   - Contexto histórico do livro bíblico
+   - Autor, data, audiência original
+   - Contexto imediato (capítulos anteriores/posteriores)
+
+4. ANÁLISE EXEGÉTICA:
+   - Significado das palavras-chave no original (hebraico/grego)
+   - Interpretação reformada histórica
+   - Aplicações teológicas
+
+5. CONEXÕES:
+   - Referências cruzadas com outras passagens
+   - Como se conecta ao tema educacional
+   - Aplicações pedagógicas
+
+6. COSMOVISÃO:
+   - Princípios para Educação Clássica Cristã Reformada
+   - Integração com os 5 Hábitos da Gramática
+
+FORMATO: Crie um recurso de referência completo para uso pedagógico.`
+                        }
                     ],
                     useCases: ['Pesquisa de aula', 'Definições de termos', 'Obras de arte', 'Referências literárias']
                 },
@@ -1024,7 +1205,60 @@
                     description: 'O Scribe transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática. Segue rigorosamente o golden template e a progressão pedagógica.',
                     status: 'active',
                     commands: [
-                        { code: '/write <aula> <ano> <pesquisa>', description: 'Escreve aula completa' }
+                        {
+                            code: '/write <aula> <ano> <pesquisa>',
+                            description: 'Escreve aula completa',
+                            prompt: `Transforme a pesquisa fornecida em uma aula pedagógica completa seguindo o GOLDEN TEMPLATE.
+
+DADOS DA AULA:
+- Aula: <aula>
+- Ano: <ano>
+- Pesquisa base: <pesquisa>
+
+ESTRUTURA OBRIGATÓRIA (Golden Template):
+
+1. TÍTULO DA AULA
+   - Claro, descritivo, alinhado ao currículo
+   - Inclui ano e número da semana
+
+2. OBJETIVOS DE APRENDIZAGEM
+   - 3-5 objetivos mensuráveis
+   - Alinhados aos 5 Hábitos da Gramática
+   - Progressão pedagógica clara
+
+3. CONTEÚDO PRINCIPAL
+   - Seção: NOMEAR (identificar conceitos)
+   - Seção: DEFINIR (explicar cada conceito)
+   - Seção: MEMORIZAR (pontos de memorização)
+   - Seção: CANTAR/MÉTRICA (padrões e estruturas)
+   - Seção: NARRAR (histórias e conexões)
+
+4. ATIVIDADES PRÁTICAS
+   - Exercícios de fixação
+   - Atividades de narração oral
+   - Projetos criativos quando aplicável
+
+5. RECURSOS E REFERÊNCIAS
+   - Links para obras de arte
+   - Referências bíblicas completas
+   - Fontes primárias citadas
+   - Material complementar
+
+6. AVALIAÇÃO
+   - Critérios de avaliação claros
+   - Rubricas quando aplicável
+   - Conexão com questões bimestrais
+
+REGRAS DE ESCRITA:
+- Use voz ativa sempre
+- Tom imperativo para instruções
+- Linguagem clara e acessível
+- Definições precisas (não ambíguas)
+- Exemplos concretos antes de abstratos
+- Progressão do simples ao complexo
+
+FORMATO: Markdown estruturado, pronto para formatação Rise.`
+                        }
                     ],
                     useCases: ['Redação de aulas', '5 Hábitos da Gramática', 'Golden template']
                 },
@@ -1037,7 +1271,68 @@
                     description: 'O Architect transforma o rascunho do Writer em conteúdo formatado com Rise Blocks. Aplica todas as correções editoriais: voz ativa, imperativo, capitalização europeia.',
                     status: 'active',
                     commands: [
-                        { code: '/standardize <arquivo>', description: 'Formata com Rise Blocks' }
+                        {
+                            code: '/standardize <arquivo>',
+                            description: 'Formata com Rise Blocks',
+                            prompt: `Transforme o rascunho fornecido em conteúdo formatado com RISE BLOCKS.
+
+ARQUIVO DE ENTRADA: <arquivo>
+
+TIPOS DE RISE BLOCKS A APLICAR:
+
+1. HEADING BLOCK
+   - Títulos principais (H2)
+   - Subtítulos (H3)
+   - Hierarquia clara
+
+2. PARAGRAPH BLOCK
+   - Texto corrido formatado
+   - Espaçamento correto
+   - Alinhamento padrão
+
+3. LIST BLOCK
+   - Listas ordenadas
+   - Listas não-ordenadas
+   - Aninhamento quando necessário
+
+4. QUOTE BLOCK
+   - Citações de fontes primárias
+   - Versículos bíblicos
+   - Definições importantes
+
+5. IMAGE BLOCK
+   - Imagens com captions
+   - Alt text descritivo
+   - Créditos quando necessário
+
+6. VIDEO BLOCK
+   - Links de vídeos
+   - Timestamps quando aplicável
+
+7. SEPARATOR BLOCK
+   - Divisões entre seções
+   - Quebras visuais estratégicas
+
+CORREÇÕES EDITORIAIS OBRIGATÓRIAS:
+
+✓ VOZ ATIVA: Converta todas as frases para voz ativa
+✓ IMPERATIVO: Instruções no modo imperativo
+✓ CAPITALIZAÇÃO: Padrão europeu (sentence-case)
+  - Primeira letra da frase em maiúscula
+  - Nomes próprios em maiúscula
+  - Termos descritivos em minúscula
+✓ CLAREZA: Elimine ambiguidades
+✓ CONCISÃO: Remova redundâncias
+✓ FLUIDEZ: Garanta transições suaves
+
+VALIDAÇÃO:
+- Todos os 5 Hábitos da Gramática presentes?
+- Estrutura pedagógica lógica?
+- Formatação consistente em todo o documento?
+- Links e imagens funcionais?
+
+FORMATO DE SAÍDA: Markdown com Rise Blocks claramente identificados.`
+                        }
                     ],
                     useCases: ['Formatação Rise', 'Correção de estilo', 'Capitalização']
                 },
@@ -1050,7 +1345,99 @@
                     description: 'O Guardian é o Editor-Chefe e QA. Garante excelência técnica, precisão doutrinária e padronização. Valida 13 categorias de auditoria antes de aprovar.',
                     status: 'active',
                     commands: [
-                        { code: '/review <arquivo>', description: 'Revisão completa com checklist' }
+                        {
+                            code: '/review <arquivo>',
+                            description: 'Revisão completa com checklist',
+                            prompt: `Execute uma revisão completa do arquivo usando o CHECKLIST DE 13 CATEGORIAS.
+
+ARQUIVO PARA REVISÃO: <arquivo>
+
+CHECKLIST DE 13 CATEGORIAS:
+
+1. ✅ ESTRUTURA PEDAGÓGICA
+   - Golden template aplicado corretamente?
+   - 5 Hábitos da Gramática presentes?
+   - Progressão pedagógica lógica?
+
+2. ✅ PRECISÃO DOUTRINÁRIA
+   - Conteúdo alinhado à Educação Clássica Cristã Reformada?
+   - Referências bíblicas corretas?
+   - Teologia reformada precisa?
+
+3. ✅ FACT-CHECKING
+   - Todas as afirmações factuais verificadas?
+   - Datas, nomes, lugares corretos?
+   - Citações de fontes primárias precisas?
+
+4. ✅ CLAREZA E COERÊNCIA
+   - Texto claro e compreensível?
+   - Transições lógicas entre seções?
+   - Sem contradições internas?
+
+5. ✅ VOZ ATIVA
+   - Todas as frases em voz ativa?
+   - Instruções no imperativo?
+   - Sem voz passiva desnecessária?
+
+6. ✅ CAPITALIZAÇÃO
+   - Padrão europeu (sentence-case)?
+   - Nomes próprios corretos?
+   - Consistência em todo o documento?
+
+7. ✅ GRAMÁTICA E ORTOGRAFIA
+   - Sem erros gramaticais?
+   - Ortografia correta?
+   - Pontuação adequada?
+
+8. ✅ FORMATAÇÃO RISE
+   - Rise Blocks aplicados corretamente?
+   - Hierarquia de títulos consistente?
+   - Listas e citações formatadas?
+
+9. ✅ RECURSOS VISUAIS
+   - Imagens presentes e funcionais?
+   - Alt text descritivo?
+   - Legends e créditos?
+
+10. ✅ REFERÊNCIAS E LINKS
+    - Todas as fontes citadas?
+    - Links funcionais?
+    - Referências completas?
+
+11. ✅ ATIVIDADES E AVALIAÇÕES
+    - Exercícios claros?
+    - Critérios de avaliação?
+    - Alinhado aos objetivos?
+
+12. ✅ ACESSIBILIDADE
+    - WCAG 2.1 AA compliant?
+    - Alt text em imagens?
+    - Contraste adequado?
+
+13. ✅ VERSIONAMENTO
+    - Metadata completa (autor, data, versão)?
+    - Changelog atualizado?
+    - Tags corretas?
+
+RELATÓRIO DE REVISÃO:
+
+Para cada categoria, forneça:
+- ✅ APROVADO (sem problemas)
+- ⚠️ ATENÇÃO (problemas menores, lista quais)
+- ❌ REPROVADO (problemas críticos, lista quais)
+
+PROBLEMAS ENCONTRADOS:
+ Liste cada problema com:
+ - Categoria
+ - Localização exata (seção, parágrafo)
+ - Descrição do problema
+ - Sugestão de correção
+
+APROVAÇÃO FINAL:
+ - Status: APROVADO / APROVADO COM RESSALVAS / REPROVADO
+ - Justificativa
+ - Ações necessárias antes da publicação`
+                        }
                     ],
                     useCases: ['QA editorial', 'Validação doutrinária', 'Fact-checking']
                 },
@@ -1063,7 +1450,59 @@
                     description: 'O Polisher dá o acabamento final. Otimiza títulos, enunciados, garante fluidez e tom consistente. Não altera definições validadas.',
                     status: 'active',
                     commands: [
-                        { code: '/polish <arquivo>', description: 'Polimento final' }
+                        {
+                            code: '/polish <arquivo>',
+                            description: 'Polimento final',
+                            prompt: `Execute o POLIMENTO FINAL do arquivo aprovado pelo Guardian.
+
+ARQUIVO PARA POLIMENTO: <arquivo>
+
+OBJETIVO: Dar o acabamento final sem alterar conteúdo validado.
+
+OTIMIZAÇÃO DE TÍTULOS:
+✓ Títulos são claros e descritivos?
+✓ Seguem padrão de nomenclatura?
+✓ Incluídos ano/semana/disciplina?
+✓ Atraentes e profissionais?
+
+OTIMIZAÇÃO DE ENUNCIADOS:
+✓ Instruções são claras e diretas?
+✓ Usam modo imperativo corretamente?
+✓ Sem ambiguidades?
+✓ Exemplos incluídos quando necessário?
+
+FLUIDEZ DO TEXTO:
+✓ Transições suaves entre parágrafos?
+✓ Conexões lógicas entre seções?
+✓ Ritmo de leitura agradável?
+✓ Sem repetições desnecessárias?
+
+TOM DE VOZ:
+✓ Consistente em todo o documento?
+✓ Alinhado à identidade BEF Editorial?
+✓ Profissional mas acessível?
+✓ Adequado ao público-alvo?
+
+FORMATAÇÃO FINAL:
+✓ Espaçamento consistente?
+✓ Indentação correta?
+✓ Listas alinhadas?
+✓ Citações formatadas?
+
+REGRAS IMPORTANTES:
+⚠️ NÃO altere definições validadas pelo Guardian
+⚠️ NÃO mude conteúdo doutrinário aprovado
+⚠️ NÃO modifique referências bíblicas verificadas
+⚠️ NÃO reescreva seções já revisadas
+
+FOCO APENAS EM:
+- Melhorias cosméticas de apresentação
+- Otimização de títulos e subtítulos
+- Ajustes de fluidez nas transições
+- Consistência de tom e estilo
+
+ENTREGÁVEL: Versão final pronta para publicação.`
+                        }
                     ],
                     useCases: ['Otimização de títulos', 'Fluidez', 'Tom de voz']
                 },
@@ -1076,7 +1515,76 @@
                     description: 'O Herald salva a aula finalizada localmente e publica no GitHub. Registra termos no Currículo Macro e gerencia o versionamento.',
                     status: 'active',
                     commands: [
-                        { code: '/publish <arquivo> <ano> <aula>', description: 'Publica no GitHub' }
+                        {
+                            code: '/publish <arquivo> <ano> <aula>',
+                            description: 'Publica no GitHub',
+                            prompt: `Execute o processo completo de PUBLICAÇÃO.
+
+DADOS DA PUBLICAÇÃO:
+- Arquivo: <arquivo>
+- Ano: <ano>
+- Aula: <aula>
+
+ETAPAS DE PUBLICAÇÃO:
+
+1. SALVAMENTO LOCAL
+   ✓ Salve o arquivo na estrutura de diretórios correta:
+     /content/<ano>/<disciplina>/week-<semana>/<aula>.md
+   ✓ Verifique se o caminho existe
+   ✓ Confirme que o arquivo foi salvo
+
+2. METADATA
+   ✓ Adicione frontmatter completo:
+     - title: título da aula
+     - year: ano letivo
+     - week: número da semana
+     - lesson: número da aula
+     - discipline: disciplina
+     - author: autor
+     - date: data de publicação
+     - version: versão
+     - status: published
+
+3. REGISTRO NO CURRÍCULO MACRO
+   ✓ Adicione entrada no currículo macro:
+     - Tema da aula
+     - Objetivos de aprendizagem
+     - Termos principais definidos
+     - Referências bíblicas usadas
+     - Habilidades desenvolvidas
+
+4. VERSIONAMENTO GIT
+   ✓ Crie branch: publish/<ano>/week-<semana>/<aula>
+   ✓ Commit message padronizada:
+     "publish: add <aula> for <ano> week <semana> - <discipline>"
+   ✓ Push para o repositório remoto
+   ✓ Crie Pull Request
+   ✓ Adicione labels: published, <ano>, <discipline>
+
+5. REGISTRO DE PUBLICAÇÃO
+   ✓ Atualize o índice de aulas publicadas
+   ✓ Registre timestamp de publicação
+   ✓ Notifique equipe relevante
+
+6. VALIDAÇÃO PÓS-PUBLICAÇÃO
+   ✓ Verifique se o arquivo está no repositório
+   ✓ Confirme que o PR foi criado
+   ✓ Valide registro no currículo macro
+
+RELATÓRIO DE PUBLICAÇÃO:
+Gere um relatório confirmando:
+- ✅ Localização do arquivo
+- ✅ Metadata aplicada
+- ✅ Registro no Macro
+- ✅ Git commit/PR criado
+- ✅ Índices atualizados
+- ✅ Notificações enviadas
+
+Em caso de erro, especifique:
+- ❌ Etapa que falhou
+- Motivo da falha
+- Ação corretiva sugerida`
+                        }
                     ],
                     useCases: ['Publicação GitHub', 'Registro no Macro', 'Versionamento']
                 }
@@ -1091,10 +1599,145 @@
                     description: 'O Sentinel blinda o ecossistema do repositório. Git NÃO é para mídia pesada. Gerencia workflows de publicação, limpeza estrutural e conflitos.',
                     status: 'active',
                     commands: [
-                        { code: '/devops publish', description: 'Publicação no GitHub' },
-                        { code: '/devops cleanup', description: 'Limpeza estrutural' },
-                        { code: '/devops status', description: 'Status do repositório' },
-                        { code: '/devops fix-conflict', description: 'Resolução de conflitos' }
+                        {
+                            code: '/devops publish',
+                            description: 'Publicação no GitHub',
+                            prompt: `Execute o workflow de PUBLICAÇÃO no GitHub.
+
+ETAPAS:
+
+1. VALIDAÇÃO PRÉ-PUBLICAÇÃO
+   ✓ Verifique se todos os arquivos estão staged
+   ✓ Confirme que não há arquivos pesados (>10MB)
+   ✓ Valide .gitignore atualizado
+   ✓ Verifique conflitos pendentes
+
+2. GIT WORKFLOW
+   ✓ Crie branch descritivo: feature/<descricao> ou publish/<ano>/<semana>
+   ✓ Commit message convencional:
+     - type: feat|fix|docs|style|refactor|publish
+     - escopo: módulo afetado
+     - descrição: clara e concisa
+   ✓ Push para origin
+   ✓ Crie Pull Request
+
+3. LARGE FILES
+   ✓ Identifique arquivos >10MB
+   ✓ Use Git LFS quando necessário
+   ✓ Comprima imagens se possível
+   ✓ Remova binários do repositório
+
+4. VALIDAÇÃO PÓS-PUBLICAÇÃO
+   ✓ Confirme que o PR foi criado
+   ✓ Verifique CI/CD pipelines
+   ✓ Valide que arquivos estão acessíveis
+
+RELATÓRIO: Documente todas as ações realizadas.`
+                        },
+                        {
+                            code: '/devops cleanup',
+                            description: 'Limpeza estrutural',
+                            prompt: `Execute uma LIMPEZA ESTRUTURAL do repositório.
+
+ANÁLISE:
+1. Identifique arquivos órfãos (sem referências)
+2. Detecte duplicatas
+3. Encontre arquivos temporários (.tmp, .bak, etc.)
+4. Identifique branches merged/stale
+5. Verifique pastas vazias
+
+AÇÕES DE LIMPEZA:
+1. Remova arquivos temporários
+2. Consolide arquivos duplicados
+3. Arquive branches antigas (merged > 30 dias)
+4. Remova pastas vazias
+5. Organize arquivos deslocados
+
+OTIMIZAÇÃO:
+1. Execute git gc (garbage collection)
+2. Otimize histórico se necessário
+3. Verifique tamanho do repositório
+4. Sugira melhorias de estrutura
+
+RELATÓRIO:
+- Espaço liberado
+- Arquivos removidos
+- Branches arquivadas
+- Recomendações futuras`
+                        },
+                        {
+                            code: '/devops status',
+                            description: 'Status do repositório',
+                            prompt: `Forneça um DIAGNÓSTICO COMPLETO do repositório.
+
+STATUS ATUAL:
+1. Branch atual
+2. Arquivos modificados (staged/unstaged)
+3. Arquivos não rastreados
+4. Conflitos pendentes
+5. Atraso em relação ao remoto (ahead/behind)
+
+MÉTRICAS DO REPOSITÓRIO:
+1. Tamanho total
+2. Número de branches
+3. Número de tags
+4. Commits nos últimos 7/30/90 dias
+5. Contribuidores ativos
+6. Pull requests abertos/fechados
+
+SAÚDE DO REPOSITÓRIO:
+1. .gitignore está atualizado?
+2. Git LFS configurado?
+3. CI/CD pipelines funcionando?
+4. Sem arquivos pesados indevidos?
+5. Histórico limpo?
+
+ALERTAS:
+- Conflitos iminentes
+- Branches divergentes
+- Arquivos problemáticos
+- Problemas de performance
+
+RECOMENDAÇÕES: Ações preventivas e corretivas.`
+                        },
+                        {
+                            code: '/devops fix-conflict',
+                            description: 'Resolução de conflitos',
+                            prompt: `Resolva CONFLITOS de merge/rebase no repositório.
+
+IDENTIFICAÇÃO:
+1. Liste todos os arquivos em conflito
+2. Para cada conflito, identifique:
+   - Branchs envolvidos
+   - Tipo de conflito (content/structure/binary)
+   - Severidade (baixa/média/alta)
+
+RESOLUÇÃO:
+Para cada conflito:
+1. Analise as versões conflitantes
+2. Identifique a intenção de cada mudança
+3. Preserve o trabalho válido de ambos os lados
+4. Resolva de forma lógica e consistente
+5. Remova marcadores de conflito (<<<<, ====>>, <<<<)
+
+VALIDAÇÃO:
+1. Execute testes se existirem
+2. Verifique integridade dos arquivos
+3. Confirme que não há syntax errors
+4. Valide com o contexto do projeto
+
+COMMIT:
+1. Stage os arquivos resolvidos
+2. Commit com mensagem descritiva:
+   "merge: resolve conflicts in <files> between <branches>"
+3. Documente decisões tomadas
+
+RELATÓRIO:
+- Conflitos resolvidos
+- Decisões tomadas
+- Arquivos afetados
+- Recomendações para evitar futuros conflitos`
+                        }
                     ],
                     useCases: ['Git push/pull', 'Large files', 'Conflitos', '.gitignore']
                 },
@@ -1107,10 +1750,171 @@
                     description: 'O Navigator lidera processos de design centrado no humano. Coordena pesquisa, personas, jornadas, wireframes e validação. Delega UI visual ao Artificer.',
                     status: 'active',
                     commands: [
-                        { code: '/design-thinking research <tema>', description: 'Pesquisa com usuários' },
-                        { code: '/design-thinking personas <público>', description: 'Cria personas' },
-                        { code: '/design-thinking brainstorm <problema>', description: 'Sessão de ideação' },
-                        { code: '/design-thinking wireframe <componente>', description: 'Wireframes' }
+                        {
+                            code: '/design-thinking research <tema>',
+                            description: 'Pesquisa com usuários',
+                            prompt: `Execute uma pesquisa de UX completa sobre: "<tema>"
+
+FASE 1: DESCOBERTA
+1. Defina objetivos da pesquisa
+2. Identifique público-alvo
+3. Selecione métodos:
+   - Entrevistas em profundidade
+   - Questionários
+   - Observação contextual
+   - Análise de dados existentes
+
+FASE 2: COLETA DE DADOS
+Para cada participante/entrevista:
+1. Perfil do usuário
+2. Dores e frustrações
+3. Necessidades não atendidas
+4. Comportamentos observados
+5. Quotes relevantes
+
+FASE 3: SÍNTESE
+1. Agrupe insights por temas
+2. Identifique padrões
+3. Crie affinity diagram
+4. Priorize por impacto e frequência
+
+FASE 4: ENTREGÁVEIS
+1. Relatório de pesquisa completo
+2. Mapa de insights
+3. Personas atualizadas (se aplicável)
+4. Oportunidades de design
+5. Recomendações acionáveis
+
+FORMATO: Documento estruturado com dados qualitativos e quantitativos.`
+                        },
+                        {
+                            code: '/design-thinking personas <público>',
+                            description: 'Cria personas',
+                            prompt: `Crie PERSONAS detalhadas para o público: "<público>"
+
+Para cada persona (3-5 personas):
+
+1. IDENTIDADE
+   - Nome fictício
+   - Foto (descrição)
+   - Idade
+   - Profissão
+   - Contexto educacional
+
+2. OBJETIVOS
+   - O que querem alcançar?
+   - Motivações principais
+   - Success metrics pessoais
+
+3. DORES E FRUSTRAÇÕES
+   - Desafios atuais
+   - Obstáculos enfrentados
+   - Medos e preocupações
+
+4. COMPORTAMENTOS
+   - Como aprendem atualmente?
+   - Ferramentas que usam
+   - Hábitos de estudo
+   - Preferências de consumo
+
+5. NEEDS
+   - Necessidades funcionais
+   - Necessidades emocionais
+   - Necessidades sociais
+
+6. JORNADA TÍPICA
+   - Touchpoints com o produto
+   - Momentos de frustração
+   - Momentos de delight
+
+7. CENÁRIOS
+   - Cenário principal de uso
+   - Casos de borda
+   - Contexto de acesso
+
+FORMATO: Perfil completo de cada persona pronto para guiar decisões de design.`
+                        },
+                        {
+                            code: '/design-thinking brainstorm <problema>',
+                            description: 'Sessão de ideação',
+                            prompt: `Conduza uma SESSÃO DE BRAINSTORMING para o problema: "<problema>"
+
+FASE 1: DIVERGÊNCIA (Ideação)
+1. Defina o problema claramente
+2. Gere 20-30 ideias iniciais
+3. Técnicas:
+   - Brainstorming livre
+   - Worst possible idea (inverta)
+   - SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse)
+   - Crazy 8s (8 ideias em 8 minutos)
+
+FASE 2: CONVERGÊNCIA (Seleção)
+1. Agrupe ideias similares
+2. Vote por impacto e viabilidade
+3. Selecione top 3-5 ideias
+4. Para cada ideia selecionada:
+   - Descrição clara
+   - Prós e contras
+   - Esforço estimado
+   - Impacto esperado
+
+FASE 3: REFINAMENTO
+Para cada ideia finalista:
+1. Como funciona na prática?
+2. Quem é o usuário beneficiado?
+3. Quais recursos são necessários?
+4. Como testar rapidamente?
+5. Métricas de sucesso
+
+FASE 4: PRÓXIMOS PASSOS
+1. Priorize por ordem de execução
+2. Defina experimentos de validação
+3. Crie plano de prototipagem
+
+FORMATO: Documento de brainstorm com todas as ideias e análise das selecionadas.`
+                        },
+                        {
+                            code: '/design-thinking wireframe <componente>',
+                            description: 'Wireframes',
+                            prompt: `Crie WIREFRAMES para o componente: "<componente>"
+
+FASE 1: REQUISITOS
+1. Objetivo do componente
+2. Usuário primário
+3. Funcionalidades essenciais
+4. Restrições técnicas
+5. Casos de uso
+
+FASE 2: LOW-FIDELITY
+Crie wireframes em baixa fidelidade:
+1. Layout geral (estrutura)
+2. Hierarquia visual
+3. Fluxo de navegação
+4. Elementos interativos
+5. Estados (default, hover, active, disabled, error)
+
+FASE 3: MID-FIDELITY
+Refine com mais detalhe:
+1. Espaçamento e grid
+2. Tipografia (hierarquia)
+3. Componentes aninhados
+4. Responsividade (mobile, tablet, desktop)
+5. Acessibilidade (foco, contraste)
+
+FASE 4: ANOTAÇÕES
+Para cada wireframe:
+1. Descrição de cada elemento
+2. Comportamentos interativos
+3. Regras de negócio
+4. Mensagens de erro
+5. Estados vazios
+
+ENTREGÁVEIS:
+- Wireframes em ASCII/descrição textual clara
+- Anotações detalhadas
+- Especificação de interações
+- Guia de implementação`
+                        }
                     ],
                     useCases: ['UX Research', 'Personas', 'Jornadas', 'Wireframes']
                 },
@@ -1123,9 +1927,221 @@
                     description: 'O Artificer transforma conceitos em sistemas visuais coesos, escaláveis e premium. Domina tokens, responsividade, acessibilidade WCAG e componentização.',
                     status: 'active',
                     commands: [
-                        { code: '/ui-designer create-system <nome>', description: 'Cria design system' },
-                        { code: '/ui-designer create-component <nome>', description: 'Cria componentes' },
-                        { code: '/ui-designer apply-theme <tema>', description: 'Aplica tema' }
+                        {
+                            code: '/ui-designer create-system <nome>',
+                            description: 'Cria design system',
+                            prompt: `Crie um DESIGN SYSTEM completo: "<nome>"
+
+1. DESIGN TOKENS
+   Cores:
+   - Primary palette (5-7 shades)
+   - Secondary palette (5-7 shades)
+   - Neutrals (grays, 10 shades)
+   - Semantic colors (success, warning, error, info)
+   - Dark mode variants
+
+   Tipografia:
+   - Font family (headings, body, mono)
+   - Font weights (300, 400, 500, 600, 700)
+   - Font sizes (scale ratio 1.25 ou 1.333)
+   - Line heights
+   - Letter spacing
+
+   Espaçamento:
+   - Scale (4px base: 4, 8, 12, 16, 24, 32, 48, 64)
+   - Padding variants
+   - Margin variants
+
+   Border radius:
+   - Scale (2, 4, 8, 12, 16, 24, 9999)
+
+   Shadows:
+   - Elevation levels (sm, md, lg, xl)
+   - Color e blur
+
+   Breakpoints:
+   - Mobile: 320, 375, 414
+   - Tablet: 768, 834
+   - Desktop: 1024, 1280, 1440, 1920
+
+2. COMPONENTES BASE
+   Para cada componente:
+   - Nome e descrição
+   - Variantes (size, state, type)
+   - Props/API
+   - Anatomia (partes do componente)
+   - Comportamento
+   - Acessibilidade
+   - Código exemplo
+
+   Componentes essenciais:
+   - Buttons (primary, secondary, ghost, danger)
+   - Inputs (text, select, checkbox, radio)
+   - Cards (basic, interactive, media)
+   - Navigation (header, sidebar, tabs)
+   - Feedback (alert, toast, modal, tooltip)
+   - Typography (headings, paragraphs, lists)
+
+3. PADRÕES DE LAYOUT
+   - Grid system (12 colunas)
+   - Flexbox utilities
+   - Container widths
+   - Section spacing
+
+4. ACESSIBILIDADE (WCAG 2.1 AA)
+   - Contraste mínimo 4.5:1
+   - Focus visible
+   - ARIA labels
+   - Keyboard navigation
+   - Screen reader support
+
+5. DOCUMENTAÇÃO
+   - Guia de uso
+   - Princípios de design
+   - Contribuição
+   - Versionamento
+
+FORMATO: Especificação completa pronta para implementação.`
+                        },
+                        {
+                            code: '/ui-designer create-component <nome>',
+                            description: 'Cria componentes',
+                            prompt: `Crie a especificação completa do componente: "<nome>"
+
+1. VISÃO GERAL
+   - Nome do componente
+   - Descrição
+   - Quando usar
+   - Quando NÃO usar
+   - Exemplos de uso
+
+2. ANATOMIA
+   Partes do componente (diagrama textual):
+   - Container
+   - Ícone (opcional)
+   - Label/Text
+   - Elementos filhos
+   - Overlays (se aplicável)
+
+3. VARIANTES
+   Liste todas as variantes:
+   - Por tamanho (sm, md, lg, xl)
+   - Por estado (default, hover, active, focus, disabled, error)
+   - Por tipo (primary, secondary, ghost)
+   - Por contexto (light, dark, colored)
+
+4. PROPS/API
+   Para cada prop:
+   - Nome
+   - Tipo (string, boolean, enum, function)
+   - Default value
+   - Descrição
+   - Obrigatório? (required/optional)
+
+5. COMPORTAMENTO
+   - Interações (click, hover, focus, keypress)
+   - Transições e animações
+   - Estados internos
+   - Eventos emitidos
+   - Validações
+
+6. ACESSIBILIDADE
+   - ARIA attributes
+   - Keyboard interactions
+   - Focus management
+   - Screen reader announcements
+   - Color contrast ratios
+
+7. RESPONSIVIDADE
+   - Comportamento em mobile
+   - Comportamento em tablet
+   - Comportamento em desktop
+   - Breakpoints específicos
+
+8. ESPECIFICAÇÃO VISUAL
+   - Dimensions (width, height, padding, margin)
+   - Colors (all states)
+   - Typography (font size, weight, line height)
+   - Border (width, style, radius)
+   - Shadow (elevation levels)
+
+9. CÓDIGO DE EXEMPLO
+   - HTML structure
+   - CSS/Tailwind classes
+   - JavaScript interactivity
+   - Framework implementation (React/Vue se aplicável)
+
+10. TEST CASES
+    - Cenários de teste
+    - Casos de borda
+    - Validações
+
+FORMATO: Documentação técnica completa do componente.`
+                        },
+                        {
+                            code: '/ui-designer apply-theme <tema>',
+                            description: 'Aplica tema',
+                            prompt: `Aplique o tema "<tema>" ao design system existente.
+
+1. ANÁLISE DO TEMA
+   - Conceito e identidade visual
+   - Paleta de cores principal
+   - Mood e personalidade
+   - Referências visuais
+   - Público-alvo
+
+2. CUSTOMIZAÇÃO DE TOKENS
+   Atualize todos os tokens para o tema:
+
+   Cores:
+   - Primary color e shades
+   - Secondary color e shades
+   - Accent colors
+   - Background colors
+   - Text colors
+   - Border colors
+
+   Tipografia:
+   - Font family (se diferente)
+   - Font scale adjustments
+   - Heading style
+   - Body style
+
+   Efeitos visuais:
+   - Shadow intensity
+   - Border radius style
+   - Gradient usage
+   - Glass morphism (se aplicável)
+   - Animations style
+
+3. COMPONENTES TEMÁTICOS
+   Para cada componente base, aplique:
+   - Novas cores
+   - Ajustes de espaçamento
+   - Modificações visuais
+   - Estados atualizados
+
+4. DARK MODE
+   Crie variante dark completa:
+   - Inversão de cores
+   - Ajuste de contraste
+   - Sombras adaptadas
+   - Acessibilidade mantida
+
+5. VARIANTE DE ACESSIBILIDADE
+   - Verifique todos os contrastes
+   - Ajuste para WCAG 2.1 AA
+   - Focus indicators
+   - High contrast mode
+
+6. DOCUMENTAÇÃO
+   - Guia do tema
+   - Paleta de cores
+   - Exemplos de aplicação
+   - Do's and Don'ts
+
+FORMATO: Guia completo de implementação do tema com todos os tokens atualizados.`
+                        }
                     ],
                     useCases: ['Design System', 'Componentes', 'Tokens', 'Acessibilidade']
                 },
@@ -1138,10 +2154,222 @@
                     description: 'O Illustrator transforma prompts do hábito Narrar em ilustrações usando APIs gratuitas (Pollinations, HuggingFace). Estilo: aquarela, livro clássico, fundo branco.',
                     status: 'active',
                     commands: [
-                        { code: '/image-generator generate <ano>', description: 'Gera todas as imagens' },
-                        { code: '/image-generator generate-week <ano> <semana>', description: 'Gera semana específica' },
-                        { code: '/image-generator regenerate <aula> <ano>', description: 'Regenera imagem' },
-                        { code: '/image-generator status <ano>', description: 'Status de geração' }
+                        {
+                            code: '/image-generator generate <ano>',
+                            description: 'Gera todas as imagens',
+                            prompt: `Gere TODAS as imagens necessárias para o ano <ano> usando o hábito Narrar.
+
+CONFIGURAÇÃO DE GERAÇÃO:
+API: Pollinations AI ou HuggingFace
+Estilo: Aquarela clássica, livro clássico
+Fundo: Branco ou transparente
+Qualidade: Alta resolução (mínimo 1024x1024)
+
+PROCESSO:
+
+1. MAPEAMENTO DE NECESSIDADES
+   Para cada semana do ano <ano>:
+   - Identifique temas que requerem ilustração
+   - Liste conceitos visuais importantes
+   - Determine número de imagens por semana
+   - Priorize por importância pedagógica
+
+2. PROMPTS DE GERAÇÃO
+   Para cada imagem, crie prompt detalhado:
+   - Descrição do sujeito/objeto
+   - Estilo: "classical watercolor illustration"
+   - Composição
+   - Cores predominantes
+   - Nível de detalhe
+   - Contexto histórico (se aplicável)
+   - "white background, children's educational book style"
+
+3. GERAÇÃO EM LOTE
+   - Gere todas as imagens sequencialmente
+   - Salve com nomenclatura padrão:
+     year-<ano>_week-<semana>_lesson-<aula>_image-<n>.png
+   - Mantenha log de geração
+
+4. VALIDAÇÃO
+   Para cada imagem gerada:
+   - Qualidade visual adequada?
+   - Estilo consistente?
+   - Resolução suficiente?
+   - Tema pedagogamente relevante?
+   - Sem artefatos indesejados?
+
+5. REGENERAÇÃO AUTOMÁTICA
+   Se imagem não passar na validação:
+   - Regenerar com prompt ajustado
+   - Máximo 3 tentativas
+   - Documentar falhas
+
+6. RELATÓRIO
+   - Total de imagens geradas
+   - Sucessos vs falhas
+   - Links para imagens
+   - Sugestões de melhorias
+
+FORMATO: Relatório completo com links e status de cada imagem.`
+                        },
+                        {
+                            code: '/image-generator generate-week <ano> <semana>',
+                            description: 'Gera semana específica',
+                            prompt: `Gere as imagens para a semana <semana> do ano <ano>.
+
+DADOS:
+- Ano: <ano>
+- Semana: <semana>
+
+PROCESSO DETALHADO:
+
+1. ANÁLISE DO CONTEÚDO DA SEMANA
+   - Leia o conteúdo das aulas da semana
+   - Identifique conceitos que precisam de ilustração
+   - Determine número de imagens necessárias
+   - Liste temas específicos
+
+2. BRIEFING CRIATIVO
+   Para cada imagem necessária:
+   - Conceito principal a ilustrar
+   - Elementos visuais essenciais
+   - Estilo: aquarela clássica
+   - Composição sugerida
+   - Referências históricas (se aplicável)
+
+3. GERAÇÃO
+   Usando Pollinations AI:
+   - Crie prompt detalhado para cada imagem
+   - Parâmetros:
+     * width: 1024
+     * height: 1024
+     * seed: (varie para diversidade)
+   - Aguarde geração completa
+   - Salve cada imagem
+
+4. ORGANIZAÇÃO
+   - Nomeie corretamente
+   - Coloque na pasta correta
+   - Atualize referências nas aulas
+   - Adicione alt text descritivo
+
+5. QUALIDADE
+   Verifique cada imagem:
+   - Clareza visual
+   - Relevância pedagógica
+   - Estilo consistente
+   - Sem erros visuais
+
+6. DOCUMENTAÇÃO
+   - Liste todas as imagens criadas
+   - Links de acesso
+   - Prompts usados
+   - Notas de qualidade
+
+FORMATO: Relatório da semana com todas as imagens geradas e documentadas.`
+                        },
+                        {
+                            code: '/image-generator regenerate <aula> <ano>',
+                            description: 'Regenera imagem',
+                            prompt: `Regenere as imagens para a aula <aula> do ano <ano>.
+
+DADOS:
+- Aula: <aula>
+- Ano: <ano>
+
+PROCESSO DE REGENERAÇÃO:
+
+1. ANÁLISE DA IMAGEM EXISTENTE
+   - Identifique a imagem atual
+   - Avalie problemas/limitações
+   - Documente o que não funcionou
+
+2. NOVO BRIEFING
+   - Releia o conteúdo da aula
+   - Identifique conceito visual principal
+   - Crie novo prompt MELHORADO:
+     * Mais detalhado
+     * Mais específico
+     * Referências visuais claras
+     * Estilo definido
+     * Composição especificada
+
+3. GERAÇÃO MÚLTIPLA
+   - Gere 3-5 variações da mesma imagem
+   - Use seeds diferentes
+   - Varie levemente os prompts
+   - Compare resultados
+
+4. SELEÇÃO
+   Escolha a melhor imagem baseado em:
+   - Clareza visual
+   - Relevância pedagógica
+   - Qualidade estética
+   - Consistência de estilo
+   - Adequação ao conteúdo
+
+5. SUBSTITUIÇÃO
+   - Substitua a imagem antiga
+   - Atualize referências
+   - Mantenha backup da anterior
+   - Documente a mudança
+
+6. VALIDAÇÃO
+   - Imagem nova é melhor que a anterior?
+   - Links funcionando?
+   - Alt text atualizado?
+
+FORMATO: Relatório com imagem antiga vs nova e justificativa.`
+                        },
+                        {
+                            code: '/image-generator status <ano>',
+                            description: 'Status de geração',
+                            prompt: `Forneça um RELATÓRIO COMPLETO de geração de imagens para o ano <ano>.
+
+ANÁLISE COMPLETA:
+
+1. VISÃO GERAL
+   - Total de semanas no ano
+   - Total de aulas no ano
+   - Total de imagens necessárias (estimativa)
+   - Imagens geradas
+   - Imagens pendentes
+   - Taxa de conclusão (%)
+
+2. STATUS POR SEMANA
+   Para cada semana:
+   - Número de aulas
+   - Imagens necessárias
+   - Imagens geradas
+   - Status: ✅ Completo, ⚠️ Parcial, ❌ Pendente
+   - Links para imagens existentes
+
+3. QUALIDADE
+   - Imagens validadas (boa qualidade)
+   - Imagens marcadas para regeneração
+   - Problemas identificados
+   - Padrões de falha
+
+4. ESTATÍSTICAS
+   - Imagens geradas com sucesso
+   - Regenerações necessárias
+   - Taxa de sucesso na primeira tentativa
+   - Tempo médio de geração
+   - API mais usada (Pollinations vs HuggingFace)
+
+5. GAPS IDENTIFICADOS
+   - Semanas sem imagens
+   - Aulas com imagens insuficientes
+   - Oportunidades de melhoria
+
+6. RECOMENDAÇÕES
+   - Prioridade de geração
+   - Melhorias de prompt
+   - Ajustes de estilo
+   - Otimizações de workflow
+
+FORMATO: Dashboard textual completo com métricas e recomendações.`
+                        }
                     ],
                     useCases: ['Imagens Narrar', 'Aquarela clássica', 'Pollinations API']
                 },
@@ -1154,7 +2382,83 @@
                     description: 'O Lexicon aplica capitalização padrão europeu (sentence-case). Nomes próprios em maiúscula, termos descritivos em minúscula. Consistência em todas as seções.',
                     status: 'active',
                     commands: [
-                        { code: '/capitalize <arquivo>', description: 'Aplica capitalização' }
+                        {
+                            code: '/capitalize <arquivo>',
+                            description: 'Aplica capitalização',
+                            prompt: `Aplique CAPITALIZAÇÃO PADRÃO EUROPEU (sentence-case) ao arquivo.
+
+ARQUIVO: <arquivo>
+
+REGRAS DE CAPITALIZAÇÃO EUROPEIA:
+
+1. SENTENCE-CASE (Regra Geral)
+   ✓ Primeira letra da FRASE em maiúscula
+   ✓ Restante da frase em minúscula
+   ✓ Após ponto: nova frase com maiúscula
+   ✓ Após ponto de exclamação/interrogação: maiúscula
+
+2. NOMES PRÓPRIOS (Sempre Maiúsculas)
+   ✓ Nomes de pessoas
+   ✓ Nomes de lugares (países, cidades, rios, montanhas)
+   ✓ Nomes de instituições
+   ✓ Nomes de eventos históricos
+   ✓ Nomes de obras (livros, filmes, músicas)
+   ✓ Nomes de períodos/eras (Renascimento, Idade Média)
+
+3. TERMOS DESCRITIVOS (Minúsculas)
+   ✗ Conceitos gerais (democracia, filosofia, matemática)
+   ✗ Disciplinas (história, geografia, ciências)
+   ✗ Movimentos (quando descritivos: "o movimento renascentista")
+   ✗ Títulos de cargos (quando descritivos: "o rei", "o presidente")
+   ✗ Séculos e numerais ordinais (quando escritos: "século dezesseis")
+
+4. TÍTULOS DE OBRAS
+   - Primeira palavra em maiúscula
+   - Subtítulo: primeira palavra em maiúscula
+   - Nomes próprios: sempre maiúsculas
+   - Exemplo: "A história do mundo antigo"
+
+5. SEÇÕES E CABEÇALHOS
+   - Mesma regra: sentence-case
+   - Apenas primeira palavra + nomes próprios
+   - Exemplo: "Os principais eventos da semana cinco"
+
+6. TERMOS TÉCNICOS
+   - Siga regra geral: sentence-case
+   - Exceto siglas e acrônimos (NASA, ONU, PIB)
+   - Nomes de teorias com nomes próprios: "teoria de Darwin"
+   - Nomes de teorias descritivas: "teoria da evolução"
+
+7. CITAÇÕES
+   - Mantenha capitalização original se citação direta
+   - Aplique sentence-case se paráfrase
+   - Versículos bíblicos: siga tradução padrão
+
+PROCESSO DE CORREÇÃO:
+
+1. LEITURA COMPLETA
+   - Analise todo o conteúdo
+   - Identifique padrões atuais
+
+2. APLICAÇÃO DAS REGRAS
+   - Corrija sistematicamente
+   - Mantenha lista de mudanças
+
+3. VALIDAÇÃO
+   - Verifique consistência
+   - Confirme nomes próprios
+   - Valide títulos de obras
+
+4. RELATÓRIO
+   - Total de correções
+   - Tipos de correções
+   - Exemplos antes/depois
+   - Notas especiais
+
+ENTREGÁVEL: Arquivo com capitalização 100% consistente + relatório de mudanças.
+
+OBSERVAÇÃO: Esta funcionalidade agora está INTEGRADA ao Standardizer (Architect). Use /standardize para formatação completa incluindo capitalização.`
+                        }
                     ],
                     useCases: ['Sentence-case', 'Consistência', 'Padrão europeu']
                 }
@@ -1169,10 +2473,231 @@
                     description: 'O Strategist analisa produção de tickets no Kanban. Gera relatórios individuais e da equipe: total de tickets, taxa de conclusão, ritmo de produção, ranking.',
                     status: 'active',
                     commands: [
-                        { code: '/performance user <username>', description: 'Performance individual' },
-                        { code: '/performance discipline <disciplina>', description: 'Performance por matéria' },
-                        { code: '/performance team', description: 'Relatório da equipe' },
-                        { code: '/performance velocity <username>', description: 'Velocidade semanal' }
+                        {
+                            code: '/performance user <username>',
+                            description: 'Performance individual',
+                            prompt: `Gere um RELATÓRIO DE PERFORMANCE individual para: <username>
+
+PERÍODO: Últimos 30 dias (ou especifique)
+
+MÉTRICAS DE PRODUTIVIDADE:
+
+1. VOLUME DE TRABALHO
+   - Total de tickets criados
+   - Total de tickets concluídos
+   - Total de tickets em progresso
+   - Taxa de conclusão (%)
+   - Tempo médio de resolução
+
+2. QUALIDADE DO TRABALHO
+   - Tickets retornados para revisão
+   - Taxa de aprovação na primeira tentativa
+   - Erros identificados pós-publicação
+   - Feedback recebido
+
+3. CONSISTÊNCIA
+   - Dias ativos vs dias inativos
+   - Produção por dia da semana
+   - Produção por hora do dia
+   - Padrões de trabalho
+
+4. PRODUÇÃO POR TIPO
+   - Aulas pesquisadas
+   - Aulas escritas
+   - Aulas formatadas
+   - Aulas revisadas
+   - Aulas publicadas
+   - Imagens geradas
+   - Outros entregáveis
+
+5. COMPARATIVO
+   - Ranking na equipe
+   - Percentil de performance
+   - Comparação com média da equipe
+   - Evolução mês a mês
+
+6. PONTOS FORTES
+   - Disciplinas de maior performance
+   - Tipos de tarefa com melhor qualidade
+   - Contribuições únicas
+
+7. OPORTUNIDADES DE MELHORIA
+   - Áreas com menor performance
+   - Gargalos identificados
+   - Sugestões de desenvolvimento
+
+8. RECONHECIMENTO
+   - Recordes pessoais
+   - Marcos alcançados
+   - Contribuições notáveis
+
+FORMATO: Dashboard completo com gráficos textuais e métricas detalhadas.`
+                        },
+                        {
+                            code: '/performance discipline <disciplina>',
+                            description: 'Performance por matéria',
+                            prompt: `Analise a PERFORMANCE por disciplina: <disciplina>
+
+VISÃO GERAL DA DISCIPLINA:
+
+1. STATUS ATUAL
+   - Total de aulas planejadas
+   - Total de aulas concluídas
+   - Total de aulas pendentes
+   - Taxa de conclusão (%)
+   - Semana mais avançada
+   - Semana mais atrasada
+
+2. PRODUÇÃO POR ETAPA
+   Para cada etapa do workflow:
+   - Pesquisa: concluídas/pendentes
+   - Escrita: concluídas/pendentes
+   - Formatação: concluídas/pendentes
+   - Revisão: concluídas/pendentes
+   - Publicação: concluídas/pendentes
+
+3. CONTRIBUIDORES
+   - Quem trabalha nesta disciplina
+   - Produção por contribuidor
+   - Qualidade por contribuidor
+   - Velocidade por contribuidor
+
+4. QUALIDADE
+   - Taxa de aprovação geral
+   - Problemas mais comuns
+   - Tempo médio de revisão
+   - Retrabalho necessário
+
+5. CRONOGRAMA
+   - Data de início
+   - Progresso esperado vs real
+   - Projeção de conclusão
+   - Riscos identificados
+
+6. COMPARAÇÃO
+   - Ranking entre disciplinas
+   - Performance relativa
+   - Lições aplicáveis a outras
+
+7. RECOMENDAÇÕES
+   - Ações para melhorar performance
+   - Recursos adicionais necessários
+   - Ajustes de processo
+
+FORMATO: Relatório analítico completo com dados e recomendações.`
+                        },
+                        {
+                            code: '/performance team',
+                            description: 'Relatório da equipe',
+                            prompt: `Gere um RELATÓRIO COMPLETO DE PERFORMANCE DA EQUIPE
+
+VISÃO EXECUTIVA:
+
+1. MÉTRICAS GERAIS
+   - Total de membros ativos
+   - Total de tickets no período
+   - Total de tickets concluídos
+   - Taxa de conclusão geral
+   - Velocidade da equipe
+
+2. RANKING INDIVIDUAL
+   Para cada membro (ordenado por conclusão):
+   - Nome
+   - Tickets concluídos
+   - Taxa de conclusão
+   - Qualidade média
+   - Velocidade relativa
+   - Trend (subindo/stable/descendo)
+
+3. DISTRIBUIÇÃO DE TRABALHO
+   - Por tipo de tarefa
+   - Por disciplina
+   - Por etapa do workflow
+   - Balanceamento da carga
+
+4. SAÚDE DA EQUIPE
+   - Nível de atividade
+   - Membros em risco (baixa atividade)
+   - Membros sobrecarregados
+   - Capacidade ociosa
+
+5. TENDÊNCIAS
+   - Performance últimos 3 meses
+   - Crescimento/declínio
+   - Sazonalidade
+   - Projeções
+
+6. COLABORAÇÃO
+   - Pares que mais trabalham juntos
+   - Tempo médio de handoff
+   - Gargalos de dependência
+
+7. INSIGHTS ACIONÁVEIS
+   - O que está funcionando
+   - O que precisa mudar
+   - Quick wins
+   - Mudanças estruturais
+
+8. RECOMENDAÇÕES
+   - Redistribuição de carga
+   - Treinamentos necessários
+   - Processos a otimizar
+   - Celebrações merecidas
+
+FORMATO: Relatório executivo com dados, análises e plano de ação.`
+                        },
+                        {
+                            code: '/performance velocity <username>',
+                            description: 'Velocidade semanal',
+                            prompt: `Analise a VELOCIDADE SEMANAL de: <username>
+
+ANÁLISE DETALHADA:
+
+1. VELOCIDADE ATUAL
+   - Tickets na última semana
+   - Tickets na semana atual (parcial)
+   - Comparação com média pessoal
+   - Comparação com média da equipe
+
+2. HISTÓRICO SEMANAL
+   Últimas 8 semanas:
+   - Semana X: N tickets
+   - Semana Y: N tickets
+   - Trend line
+   - Picos e vales
+
+3. PADRÕES IDENTIFICADOS
+   - Dias mais produtivos
+   - Horários mais produtivos
+   - Tipos de tarefa mais rápidos
+   - Fatores de lentidão
+
+4. CAPACIDADE
+   - Capacidade máxima observada
+   - Capacidade sustentável
+   - Margem para mais trabalho
+   - Sinais de sobrecarga
+
+5. COMPARAÇÃO
+   - vs média pessoal
+   - vs média da equipe
+   - vs melhor performer
+   - Percentil
+
+6. PREVISÃO
+   - Próximas 4 semanas (estimativa)
+   - Baseado em padrões históricos
+   - Considerando backlog atual
+   - Fatores de risco
+
+7. OTIMIZAÇÃO
+   - Como aumentar velocidade
+   - Obstáculos a remover
+   - Melhores práticas
+   - Sugestões personalizadas
+
+FORMATO: Análise detalhada com gráficos de tendência e recomendações.`
+                        }
                     ],
                     useCases: ['Performance individual', 'Ranking', 'Produtividade']
                 },
@@ -1185,8 +2710,153 @@
                     description: 'O Harvester conecta-se passivamente à API GraphQL do GitHub Projects. Extrai, limpa e formata dados brutos em data.json para o Vision Board.',
                     status: 'active',
                     commands: [
-                        { code: '/github sync', description: 'Sincroniza dados' },
-                        { code: '/github analyze <projeto>', description: 'Analisa projeto' }
+                        {
+                            code: '/github sync',
+                            description: 'Sincroniza dados',
+                            prompt: `Execute SINCRONIZAÇÃO completa com a API GraphQL do GitHub Projects.
+
+CONFIGURAÇÃO:
+- Endpoint: GitHub GraphQL API
+- Query: Project V2 data
+- Campos: Todos os campos relevantes
+- Filtros: Todos os projetos BEF
+
+PROCESSO DE EXTRAÇÃO:
+
+1. AUTENTICAÇÃO
+   ✓ Token de acesso válido
+   ✓ Permissões verificadas
+   ✓ Rate limits conhecidos
+
+2. QUERY CONSTRUCTION
+   Monte query GraphQL completa:
+   - organization { login }
+   - projectV2(number: X) {
+     * title, description
+     * items (first: 100) {
+       - title, status, assignees
+       - fieldValues { all custom fields }
+       - createdAt, updatedAt
+       - content { type, url }
+     }
+     * fields { all field definitions }
+   }
+
+3. PAGINAÇÃO
+   - Implemente cursor-based pagination
+   - Colete TODOS os items
+   - Valide contagem total
+
+4. DATA CLEANING
+   Para cada item:
+   - Normalize valores
+   - Padronize formatos de data
+   - Limpe strings
+   - Valide campos obrigatórios
+   - Handle null/missing values
+
+5. TRANSFORMAÇÃO
+   - Converta para schema interno
+   - Mapeie campos customizados
+   - Calcule campos derivados
+   - Adicione metadata de sync
+
+6. SALVAMENTO
+   - Salve como data.json
+   - Estrutura hierárquica
+   - Inclua metadata:
+     * sync_timestamp
+     * total_items
+     * sync_status
+   - Backup do arquivo anterior
+
+7. VALIDAÇÃO
+   - Contagem de items
+   - Integridade de dados
+   - Campos obrigatórios presentes
+   - Formato de datas
+   - Consistência interna
+
+8. RELATÓRIO DE SYNC
+   - Items coletados
+   - Duração do sync
+   - Erros encontrados
+   - Diferença vs último sync
+   - Status: SUCESSO / PARCIAL / FALHA
+
+FORMATO: data.json estruturado + relatório de sincronização.`
+                        },
+                        {
+                            code: '/github analyze <projeto>',
+                            description: 'Analisa projeto',
+                            prompt: `Analise o projeto do GitHub: <projeto>
+
+DADOS BASE: data.json (último sync)
+
+ANÁLISE COMPLETA:
+
+1. VISÃO GERAL DO PROJETO
+   - Nome e descrição
+   - Total de items/tickets
+   - Data de criação
+   - Última atualização
+   - Status geral
+
+2. DISTRIBUIÇÃO POR STATUS
+   Para cada status:
+   - Contagem de items
+   - Percentual do total
+   - Trend (crescendo/diminuindo)
+   - Tempo médio neste status
+
+3. DISTRIBUIÇÃO POR ASSIGNEE
+   Para cada pessoa:
+   - Items atribuídos
+   - Items concluídos
+   - Items em progresso
+   - Taxa de conclusão
+   - Tempo médio de resolução
+
+4. CAMPOS CUSTOMIZADOS
+   Para cada campo customizado:
+   - Distribuição de valores
+   - Items sem valor
+   - Correlações com status
+   - Insights
+
+5. ANÁLISE TEMPORAL
+   - Items criados por semana
+   - Items concluídos por semana
+   - Velocidade do projeto
+   - Projeção de conclusão
+   - Gargalos temporais
+
+6. DEPENDÊNCIAS
+   - Items bloqueados
+   - Items bloqueadores
+   - Cadeias de dependência
+   - Impacto no cronograma
+
+7. SAÚDE DO PROJETO
+   - Taxa de progresso
+   - Idade média dos items abertos
+   - Items stale (>30 dias sem atualização)
+   - Riscos identificados
+
+8. INSIGHTS
+   - Padrões observados
+   - Anomalias
+   - Oportunidades
+   - Ameaças
+
+9. RECOMENDAÇÕES
+   - Ações imediatas
+   - Melhorias de processo
+   - Ajustes de alocação
+   - Mudanças de prioridade
+
+FORMATO: Relatório analítico completo com dados visuais e insights acionáveis.`
+                        }
                     ],
                     useCases: ['Extração GitHub', 'Data cleaning', 'JSON estruturado']
                 },
@@ -1199,8 +2869,139 @@
                     description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
                     status: 'active',
                     commands: [
-                        { code: '/progress calculate <disciplina> <ano>', description: 'Calcula progresso' },
-                        { code: '/progress update', description: 'Atualiza métricas' }
+                        {
+                            code: '/progress calculate <disciplina> <ano>',
+                            description: 'Calcula progresso',
+                            prompt: `Calcule o PROGRESSO detalhado para: <disciplina> ano <ano>
+
+DADOS BASE: data.json + calendário de metas
+
+ANÁLISE DE PROGRESSO:
+
+1. META DEFINIDA
+   - Total de semanas no ano
+   - Total de aulas esperadas
+   - Cronograma planejado
+   - Marcos intermediários
+   - Data alvo de conclusão
+
+2. REALIZADO ATUAL
+   - Aulas concluídas
+   - Aulas em progresso
+   - Aulas não iniciadas
+   - Semana atual
+   - Semana esperada
+
+3. COMPARATIVO META vs REALIZADO
+   Para cada semana:
+   - Esperado: N aulas
+   - Realizado: N aulas
+   - Diferença: +N / -N
+   - Status: ✅ Dentro, ⚠️ Risco, ❌ Atrasado
+
+4. CLASSIFICAÇÃO DE STATUS
+   ✅ DENTRO DA META:
+   - Realizado >= 90% do esperado
+   - No timeline ou adiantado
+
+   ⚠️ EM RISCO:
+   - Realizado entre 70-89% do esperado
+   - Pequeno atraso recuperável
+
+   ❌ ATRASADO:
+   - Realizado < 70% do esperado
+   - Atraso significativo
+   - Ação corretiva necessária
+
+5. ANÁLISE POR ETAPA
+   Para cada etapa do workflow:
+   - Aulas na etapa
+   - Tempo médio na etapa
+   - Gargalos identificados
+   - Sugestões de otimização
+
+6. PROJEÇÕES
+   - Ritmo atual (aulas/semana)
+   - Ritmo necessário para meta
+   - Data projetada de conclusão
+   - Semanas para recuperar atraso
+
+7. VISUALIZAÇÃO
+   - Progress bar textual
+   - Timeline esperado vs real
+   - Marcos alcançados
+   - Próximos marcos
+
+8. RECOMENDAÇÕES
+   - Ações para recuperar atraso
+   - Recursos adicionais necessários
+   - Ajustes de processo
+   - Mudanças de prioridade
+
+FORMATO: Relatório completo com métricas, projeções e plano de ação.`
+                        },
+                        {
+                            code: '/progress update',
+                            description: 'Atualiza métricas',
+                            prompt: `Atualize todas as MÉTRICAS DE PROGRESSO do Vision Board.
+
+PROCESSO DE ATUALIZAÇÃO:
+
+1. SYNC DE DADOS
+   - Execute /github sync
+   - Valide dados atualizados
+   - Compare com versão anterior
+
+2. CÁLCULO DE MÉTRICAS
+   Para cada disciplina/ano:
+   - Progresso percentual
+   - Status (✅/⚠️/❌)
+   - Velocidade atual
+   - Projeção de conclusão
+   - Dias até deadline
+
+3. AGREGAÇÃO
+   - Por ano escolar
+   - Por disciplina
+   - Por equipe
+   - Por etapa do workflow
+   - Geral do projeto
+
+4. DETECÇÃO DE MUDANÇAS
+   - Status que mudaram
+   - Métricas que pioraram
+   - Métricas que melhoraram
+   - Novos gargalos
+   - Gargalos resolvidos
+
+5. ALERTAS
+   - Novos atrasos detectados
+   - Riscos emergentes
+   - SLAs em perigo
+   - Ações urgentes necessárias
+
+6. TRENDS
+   - Direção do progresso
+   - Velocidade trend
+   - Qualidade trend
+   - Padrões sazonais
+
+7. ATUALIZAÇÃO DE DASHBOARD
+   - Atualize data.json
+   - Atualize métricas agregadas
+   - Registre timestamp
+   - Backup versão anterior
+
+8. RELATÓRIO DE UPDATE
+   - O que mudou desde última atualização
+   - Métricas críticas
+   - Alertas novos
+   - Ações recomendadas
+
+FREQUÊNCIA: Executar automaticamente a cada 6 horas ou sob demanda.
+
+FORMATO: Métricas atualizadas + relatório de mudanças + alertas.`
+                        }
                     ],
                     useCases: ['Meta vs Realizado', 'Projeção', 'Classificação de risco']
                 },
@@ -1213,8 +3014,155 @@
                     description: 'O Radar procura ativamente por "sangramentos operacionais": quem está travado, qual disciplina empacou, alertas de SLA. Gera insights acionáveis.',
                     status: 'active',
                     commands: [
-                        { code: '/bottleneck detect [disciplina]', description: 'Detecta gargalos' },
-                        { code: '/bottleneck alert <threshold>', description: 'Configura alertas' }
+                        {
+                            code: '/bottleneck detect [disciplina]',
+                            description: 'Detecta gargalos',
+                            prompt: `Detecte GARGALOS operacionais ativos no sistema.
+
+FILTRO: [disciplina] (opcional - se especificado, foca na disciplina)
+
+ANÁLISE DE GARGALOS:
+
+1. ITEMS TRAVADOS
+   Para cada item travado (>7 dias no mesmo status):
+   - Título do item
+   - Status atual
+   - Dias no status
+   - Responsável
+   - Bloqueador identificado
+   - Impacto no cronograma
+
+2. DISCIPLINAS EMPACADAS
+   Para cada disciplina:
+   - Progresso nas últimas 2 semanas
+   - Semanas sem avanço significativo
+   - Etapa do gargalo
+   - Responsáveis afetados
+   - Aulas impactadas
+
+3. ALERTAS DE SLA
+   Para cada SLA em risco:
+   - Disciplina/Ano/Semana
+   - Deadline
+   - Dias restantes
+   - Progresso atual
+   - Probabilidade de cumprir
+   - Ação necessária
+
+4. PESSOAS BLOQUEADAS
+   Para cada pessoa bloqueada:
+   - Nome
+   - Item travado
+   - Motivo do bloqueio
+   - Dependências externas
+   - Tempo bloqueado
+   - Impacto total
+
+5. ETAPAS CRÍTICAS
+   Para cada etapa do workflow:
+   - Items na etapa
+   - Tempo médio de processamento
+   - Tempo atual médio
+   - Capacidade ociosa/sobrecarga
+   - Sugestão de otimização
+
+6. DEPENDÊNCIAS CRÍTICAS
+   - Cadeias de dependência longas
+   - Items com múltiplas dependências
+   - Dependências externas não resolvidas
+   - Impacto cascata
+
+7. SEVERIDADE
+   Classifique cada gargalo:
+   🔴 CRÍTICO: Impacta múltiplas disciplinas/deadlines
+   🟠 ALTO: Impacta deadline significativo
+   🟡 MÉDIO: Atraso recuperável
+   🟢 BAIXO: Incômodo menor
+
+8. INSIGHTS ACIONÁVEIS
+   Para cada gargalo:
+   - Causa raiz
+   - Ação corretiva imediata
+   - Prevenção futura
+   - Responsável pela resolução
+   - Timeline estimada
+
+FORMATO: Relatório de gargalos classificados por severidade com plano de ação.`
+                        },
+                        {
+                            code: '/bottleneck alert <threshold>',
+                            description: 'Configura alertas',
+                            prompt: `Configure SISTEMA DE ALERTAS com threshold: <threshold>
+
+CONFIGURAÇÃO DE THRESHOLDS:
+
+1. ALERTAS DE TEMPO
+   - Item sem atualização: <threshold> dias
+   - Item no mesmo status: <threshold> dias
+   - Semana não iniciada: <threshold> dias antes do deadline
+   - Revisão pendente: <threshold> dias
+
+2. ALERTAS DE PROGRESSO
+   - Progresso abaixo de: <threshold>%
+   - Atraso maior que: <threshold> semanas
+   - Velocidade caindo por: <threshold> semanas consecutivas
+   - Taxa de conclusão abaixo: <threshold>%
+
+3. ALERTAS DE QUALIDADE
+   - Taxa de reprovação acima: <threshold>%
+   - Retrabalho acima: <threshold> vezes
+   - Erros pós-publicação: <threshold>
+
+4. ALERTAS DE CAPACIDADE
+   - Pessoa com mais de: <threshold> items ativos
+   - Etapa com mais de: <threshold> items em fila
+   - Disciplina sem progresso: <threshold> dias
+
+PROCESSO DE ALERTA:
+
+1. MONITORAMENTO CONTÍNUO
+   - Verifique thresholds a cada 6 horas
+   - Compare com dados atuais
+   - Identifique violações
+
+2. CLASSIFICAÇÃO DE ALERTA
+   Para cada alerta:
+   - Tipo (tempo/progresso/qualidade/capacidade)
+   - Severidade (crítico/alto/médio/baixo)
+   - Entidades afetadas
+   - Deadline/urgência
+
+3. NOTIFICAÇÃO
+   Gere relatório de alertas:
+   - Resumo executivo
+   - Lista de alertas ativos
+   - Novos alertas
+   - Alertas resolvidos
+   - Ações recomendadas
+
+4. ESCALATION
+   Defina escalation automático:
+   - Baixo: Notificação simples
+   - Médio: Notificação + recomendação
+   - Alto: Notificação + escalation ao Maestro
+   - Crítico: Notificação + escalation urgente + plano de ação
+
+5. HISTÓRICO DE ALERTAS
+   - Alertas ativos
+   - Alertas resolvidos (últimos 30 dias)
+   - Tempo médio de resolução
+   - Alertas recorrentes
+
+6. RELATÓRIO SEMANAL
+   Compilação semanal:
+   - Total de alertas gerados
+   - Total resolvidos
+   - Tempo médio de resposta
+   - Patterns identificados
+   - Melhorias de processo
+
+FORMATO: Configuração de alertas + relatório de monitoramento + histórico.`
+                        }
                     ],
                     useCases: ['Gargalos', 'Alertas SLA', 'Performance por autor']
                 }
@@ -1229,7 +3177,88 @@
                     description: 'O Chronicler monta a prova de revisão bimestral extraindo conteúdo das aulas .4. Não cria conteúdo novo: copia e organiza. 8 semanas × 3 questões = 24 questões no Quiz.',
                     status: 'active',
                     commands: [
-                        { code: '/review create <bimestre> <ano> <disciplina>', description: 'Cria revisão bimestral' }
+                        {
+                            code: '/review create <bimestre> <ano> <disciplina>',
+                            description: 'Cria revisão bimestral',
+                            prompt: `Crie a REVISÃO BIMESTRAL completa.
+
+DADOS:
+- Bimestre: <bimestre>
+- Ano: <ano>
+- Disciplina: <disciplina>
+
+REGRA FUNDAMENTAL:
+⚠️ NÃO crie conteúdo novo - apenas COPIE e ORGANIZE conteúdo existente!
+
+PROCESSO:
+
+1. IDENTIFICAÇÃO DAS AULAS
+   - Identifique todas as 8 semanas do bimestre
+   - Para cada semana, identifique a aula .4 (revisão semanal)
+   - Total esperado: 8 aulas .4
+
+2. EXTRAÇÃO DE CONTEÚDO
+   Para cada aula .4:
+   - Leia todo o conteúdo
+   - Identifique conceitos-chave
+   - Identifique definições importantes
+   - Identifique fatos históricos
+   - Identifique referências bíblicas
+   - NÃO modifique nada - apenas copie
+
+3. COMPILAÇÃO DO QUIZ
+   Formato: 24 questões (8 semanas × 3 questões)
+
+   Para cada semana, extraia 3 questões:
+   - Questão 1: Conceito/definição principal
+   - Questão 2: Fato/dado histórico
+   - Questão 3: Aplicação/conexão
+
+   Tipos de questão:
+   - FILL_IN_THE_BLANK
+   - TRUE_OR_FALSE
+   - MULTIPLE_CHOICE (4 opções)
+   - MATCHING
+
+4. ESTRUTURA DA REVISÃO
+   Organize em seções:
+
+   SEÇÃO 1: SEMANAS 1-2
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 2: SEMANAS 3-4
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 3: SEMANAS 5-6
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 4: SEMANAS 7-8
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+5. GABARITO
+   - Resposta correta para cada questão
+   - Referência à aula original
+   - Explicação breve quando necessário
+
+6. VALIDAÇÃO
+   - Total de 24 questões?
+   - Todas as 8 semanas cobertas?
+   - Conteúdo fiel às aulas originais?
+   - Sem conteúdo novo criado?
+   - Gabarito completo?
+
+7. FORMATAÇÃO FINAL
+   - Título: "Revisão Bimestral - Bimestre <X> - <Ano> - <Disciplina>"
+   - Instruções claras
+   - Seções bem organizadas
+   - Gabarito em seção separada
+
+FORMATO: Documento completo da revisão bimestral pronto para aplicação.`
+                        }
                     ],
                     useCases: ['Revisão bimestral', 'Compilação .4', 'Quiz 24 questões']
                 },
@@ -1242,7 +3271,129 @@
                     description: 'O Examiner monta prova bimestral de 10 questões: 8 extraídas das .5 + 2 criadas. Formato CANVAS_QUIZ: FILL_IN, TRUE_OR_FALSE, MULTIPLE_CHOICE, MATCHING.',
                     status: 'active',
                     commands: [
-                        { code: '/exam create <bimestre> <ano> <disciplina>', description: 'Cria prova bimestral' }
+                        {
+                            code: '/exam create <bimestre> <ano> <disciplina>',
+                            description: 'Cria prova bimestral',
+                            prompt: `Crie a PROVA BIMESTRAL completa no formato CANVAS_QUIZ.
+
+DADOS:
+- Bimestre: <bimestre>
+- Ano: <ano>
+- Disciplina: <disciplina>
+
+ESTRUTURA DA PROVA:
+Total: 10 questões
+- 8 questões extraídas das aulas .5 (avaliações semanais)
+- 2 questões criadas pelo Examiner (cobertura de gaps)
+
+PROCESSO:
+
+FASE 1: EXTRAÇÃO DAS AULAS .5
+1. Identifique todas as aulas .5 do bimestre (8 semanas)
+2. Para cada aula .5:
+   - Leia o conteúdo de avaliação
+   - Identifique conceitos avaliados
+   - Extraia questões existentes
+   - Classifique por tipo e dificuldade
+
+FASE 2: SELEÇÃO DAS 8 QUESTÕES
+Selecione 8 questões das aulas .5:
+- Distribua igualmente entre as 8 semanas (1 por semana)
+- Varie os tipos de questão:
+  * FILL_IN_THE_BLANK (2-3 questões)
+  * TRUE_OR_FALSE (2-3 questões)
+  * MULTIPLE_CHOICE (2-3 questões)
+  * MATCHING (1-2 questões)
+- Varie a dificuldade:
+  * Fácil: 2-3 questões
+  * Médio: 4-5 questões
+  * Difícil: 2-3 questões
+- Cubra todos os temas do bimestre
+
+FASE 3: CRIAÇÃO DAS 2 QUESTÕES ADICIONAIS
+Identifique gaps de cobertura:
+- Temas importantes não avaliados?
+- Habilidades não testadas?
+- Conexões não exploradas?
+
+Crie 2 questões para cobrir gaps:
+- Mesmo formato CANVAS_QUIZ
+- Mesma distribuição de dificuldade
+- Alinhadas aos objetivos do bimestre
+- Claramente marcadas como "criadas pelo Examiner"
+
+FASE 4: FORMATAÇÃO CANVAS_QUIZ
+Para cada questão, forneça:
+
+1. TIPO: FILL_IN | TRUE_FALSE | MULTIPLE_CHOICE | MATCHING
+
+2. ENUNCIADO:
+   - Claro e direto
+   - Contexto quando necessário
+   - Sem ambiguidades
+
+3. RESPOSTAS:
+   - Para FILL_IN: resposta exata esperada
+   - Para TRUE_FALSE: TRUE ou FALSE
+   - Para MULTIPLE_CHOICE:
+     * 4 opções (A, B, C, D)
+     * 1 correta
+     * 3 distratores plausíveis
+   - Para MATCHING:
+     * 2 colunas para relacionar
+     * Pares corretos
+
+4. METADATA:
+   - Semana de origem
+   - Tipo de questão
+   - Dificuldade
+   - Conceito avaliado
+   - Pontos (peso)
+
+FASE 5: GABARITO E RUBRICA
+1. Gabarito completo:
+   - Resposta correta para cada questão
+   - Explicação breve
+   - Referência à aula original
+
+2. Rubrica de avaliação:
+   - Pontos por questão
+   - Critérios de parcial (se aplicável)
+   - Nota mínima para aprovação
+   - Escala de conceitos
+
+FASE 6: VALIDAÇÃO
+✓ Total de 10 questões?
+✓ 8 extraídas + 2 criadas?
+✓ Todos os tipos representados?
+✓ Dificuldade balanceada?
+✓ Todos os temas cobertos?
+✓ Gabarito completo?
+✓ Formato CANVAS_QUIZ correto?
+✓ Sem erros de formatação?
+
+FASE 7: DOCUMENTAÇÃO FINAL
+Estruture o documento:
+
+CABEÇALHO:
+- Título: "Prova Bimestral - Bimestre <X> - <Ano> - <Disciplina>"
+- Instruções para o aluno
+- Duração estimada
+- Valor da prova
+
+CORPO:
+- 10 questões numeradas
+- Cada questão com tipo identificado
+- Opções claras (quando aplicável)
+
+ANEXOS:
+- Gabarito (seção separada)
+- Rubrica de avaliação
+- Mapa de cobertura de temas
+- Justificativa das 2 questões criadas
+
+FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
+                        }
                     ],
                     useCases: ['Prova bimestral', '10 questões', 'CANVAS_QUIZ']
                 }
