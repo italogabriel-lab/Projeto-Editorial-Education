@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-06T14:34:47.546Z",
-  "total_items": 3598,
+  "last_updated": "2026-04-06T15:27:15.482Z",
+  "total_items": 3599,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -41156,9 +41156,9 @@
       "id": "I_kwDOPFPmMM74mW4B",
       "number": 3001,
       "title": "[Geografia] - Ano 1 - 35.3 Percursos",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "andreacoutinho",
+      "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
       "created_at": "2026-03-30T13:35:43Z",
@@ -50144,7 +50144,7 @@
       "id": "I_kwDOPFPmMM77C5D0",
       "number": 3598,
       "title": "[Bíblia] - Ano 3 - 18.3 Deus julga o coração",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -53202,6 +53202,20 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-06T14:16:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77EkEb",
+      "number": 3817,
+      "title": "[Português] - Ano 3 - 26.3 Gênero textual anúncio publicitário",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-06T14:47:42Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
