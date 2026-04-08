@@ -1799,6 +1799,123 @@ button:focus-visible {
     display: block;
 }
 
+/* ==========================================================================
+   13. METAS POR DISCIPLINA - NEW PAGE
+   ========================================================================== */
+
+/* Discipline Cards Grid */
+.discipline-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: var(--space-5);
+    margin-bottom: var(--space-8);
+}
+
+.discipline-card {
+    padding: var(--space-6);
+    transition: all var(--transition-base);
+    position: relative;
+    overflow: hidden;
+}
+
+.discipline-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+    opacity: 0;
+    transition: opacity var(--transition-base);
+}
+
+.discipline-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl), var(--shadow-glow-blue);
+}
+
+.discipline-card:hover::before {
+    opacity: 1;
+}
+
+/* Year Filter Buttons */
+.year-filter-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-glass);
+    border-radius: var(--radius-lg);
+    color: var(--text-secondary);
+    font-family: var(--font-family);
+    font-size: var(--text-sm);
+    font-weight: var(--font-medium);
+    cursor: pointer;
+    transition: all var(--transition-base);
+}
+
+.year-filter-btn:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: var(--color-primary);
+    color: var(--text-primary);
+    transform: translateY(-2px);
+}
+
+.year-filter-btn.active {
+    background: linear-gradient(90deg, rgba(59, 130, 246, 0.2), rgba(139, 92, 246, 0.2));
+    border-color: var(--color-primary);
+    color: var(--text-primary);
+    font-weight: var(--font-semibold);
+    box-shadow: 0 0 12px rgba(59, 130, 246, 0.2);
+}
+
+.year-filter-btn i {
+    font-size: 1rem;
+}
+
+/* Year Detail Card */
+.year-detail-card {
+    padding: var(--space-5);
+    transition: all var(--transition-base);
+    position: relative;
+    overflow: hidden;
+}
+
+.year-detail-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Back Button */
+#back-to-cards-btn:hover {
+    background: rgba(255, 255, 255, 0.1) !important;
+    border-color: var(--color-primary) !important;
+    transform: translateX(-2px);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1200px) {
+    .discipline-cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+}
+
+@media (max-width: 768px) {
+    .discipline-cards-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #discipline-year-cards {
+        grid-template-columns: 1fr !important;
+    }
+
+    #discipline-metrics {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .blocked-popup {
