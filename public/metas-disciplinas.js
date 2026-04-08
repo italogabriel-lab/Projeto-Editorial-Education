@@ -36,6 +36,21 @@ function normalizeSubject(name) {
     return map[lower] || name;
 }
 
+function getSubjectIcon(subject, sizeClass = '') {
+    const icons = {
+        'História': 'ph-book-bookmark',
+        'Ciências': 'ph-flask',
+        'Geografia': 'ph-globe-hemisphere-west',
+        'Matemática': 'ph-function',
+        'Português': 'ph-text-aa',
+        'Belas Artes': 'ph-palette',
+        'Bíblia': 'ph-book-open'
+    };
+    const iconClass = icons[subject] || 'ph-book-open';
+    const style = sizeClass ? ` style="${sizeClass}"` : ' style="font-size: 1.2rem;"';
+    return `<i class="ph ${iconClass}"${style}></i>`;
+}
+
 function getProgressColor(pct) {
     if (pct >= 100) return 'green';
     if (pct >= 50) return 'blue';
@@ -442,7 +457,7 @@ function renderSubjectHealth(items) {
             <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                     <span style="display: flex; align-items: center; gap: 8px;">
-                        <i class="ph ph-book-open" style="font-size: 1.2rem;"></i>
+                        ${getSubjectIcon(sub)}
                         <strong>${sub}</strong>
                     </span>
                     <span style="font-size: 1.2rem; font-weight: 700; color: ${healthData.healthColor};">${pct}%</span>
