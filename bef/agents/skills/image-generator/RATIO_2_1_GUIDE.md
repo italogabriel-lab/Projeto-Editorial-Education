@@ -31,7 +31,7 @@ O formato **2:1 (2048x1024)** é ideal para:
 ### **1. Gerar Semana Específica (Ratio 2:1)**
 
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 
 python scripts/generate_from_file.py \
   --prompts-file "/caminho/5 - Prompts-para-imagens-narrar-3-ano .md" \

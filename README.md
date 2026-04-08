@@ -408,7 +408,7 @@ GitHub Actions → data-sync.yml
 
 ### **Agentes**
 - [Core Agents](bef/agents/core/)
-- [Specialized Agents](bef/agents/specialized/)
+- [Specialized Agents](bef/agents/skills/)
 - [Analytics Agents](bef/agents/analytics/)
 - [Bimester Agents](bef/agents/bimester/)
 - [Legacy Agents](bef/agents/legacy/)
