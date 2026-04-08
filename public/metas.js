@@ -36,6 +36,21 @@ function normalizeSubject(name) {
     return map[lower] || name;
 }
 
+function getSubjectIcon(subject, sizeClass = '') {
+    const icons = {
+        'História': 'ph-book-bookmark',
+        'Ciências': 'ph-flask',
+        'Geografia': 'ph-globe-hemisphere-west',
+        'Matemática': 'ph-function',
+        'Português': 'ph-text-aa',
+        'Belas Artes': 'ph-palette',
+        'Bíblia': 'ph-book-open'
+    };
+    const iconClass = icons[subject] || 'ph-book-open';
+    const style = sizeClass ? ` style="${sizeClass}"` : ' style="font-size: 1.2rem;"';
+    return `<i class="ph ${iconClass}"${style}></i>`;
+}
+
 function getProgressColor(pct) {
     if (pct >= 100) return 'green';
     if (pct >= 50) return 'blue';
@@ -141,15 +156,15 @@ function renderMetas(items) {
         });
 
         const subjectIcons = {
-            'História': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M8 7h8"/><path d="M8 11h8"/><path d="M8 15h4"/></svg>',
-            'Ciências': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.31"/><path d="M14 2v7.31"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/><path d="M5.52 16h12.96"/></svg>',
-            'Geografia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/><path d="M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10"/></svg>',
-            'Matemática': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6"/><path d="M9 12h6"/><path d="M9 15h3"/><path d="M15 15h1"/><path d="M15 12h1"/></svg>',
-            'Português': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>',
-            'Belas Artes': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r="2.5"/><path d="M17.5 10.5c2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4h-11c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4h11z"/><path d="M7 14.5h.01"/><path d="M10 14.5h.01"/><path d="M13 14.5h.01"/><path d="M16 14.5h.01"/></svg>',
-            'Bíblia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>'
+            'História': '<i class="ph ph-book-bookmark"></i>',
+            'Ciências': '<i class="ph ph-flask"></i>',
+            'Geografia': '<i class="ph ph-globe-hemisphere-west"></i>',
+            'Matemática': '<i class="ph ph-function"></i>',
+            'Português': '<i class="ph ph-text-aa"></i>',
+            'Belas Artes': '<i class="ph ph-palette"></i>',
+            'Bíblia': '<i class="ph ph-book-open"></i>'
         };
-        const icon = subjectIcons[sub] || '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
+        const icon = subjectIcons[sub] || '<i class="ph ph-book-open"></i>';
 
         discHTML += `
             <div class="kpi-card glass-panel" style="padding-bottom: 15px;">
@@ -326,7 +341,7 @@ function renderSubjectHealth(items) {
             <div class="insight-item animate-fade-in" style="${cardStyle} margin: 0;">
                 <div class="insight-item-title" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                     <span style="display: flex; align-items: center; gap: 8px;">
-                        <i class="ph ph-book-open" style="font-size: 1.2rem;"></i>
+                        ${getSubjectIcon(sub)}
                         <strong>${sub}</strong>
                     </span>
                     <span style="font-size: 1.2rem; font-weight: 700; color: ${healthData.healthColor};">${pct}%</span>
