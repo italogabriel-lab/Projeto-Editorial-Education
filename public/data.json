@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T15:14:14.334Z",
+  "last_updated": "2026-04-08T16:21:53.222Z",
   "total_items": 3774,
   "items": [
     {
@@ -50460,7 +50460,7 @@
       "id": "I_kwDOPFPmMM77C67A",
       "number": 3621,
       "title": "[Bíblia] - Ano 3 - 24.4 Revisão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -50488,7 +50488,7 @@
       "id": "I_kwDOPFPmMM77C7Eu",
       "number": 3623,
       "title": "[Bíblia] - Ano 3 - 25.1 O terceiro mandamento",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -50502,7 +50502,7 @@
       "id": "I_kwDOPFPmMM77C7LJ",
       "number": 3624,
       "title": "[Bíblia] - Ano 3 - 25.2 Não tomar o nome de Deus em vão",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
