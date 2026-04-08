@@ -22,10 +22,16 @@ function normalizeSubject(name) {
         'ciência': 'Ciências',
         'ciencias': 'Ciências',
         'geogrfia': 'Geografia',
+        'geografia': 'Geografia',
         'matemática': 'Matemática',
+        'matematica': 'Matemática',
         'portugues': 'Português',
         'português': 'Português',
-        'linguagem': 'Português'
+        'linguagem': 'Português',
+        'belas artes': 'Belas Artes',
+        'belasartes': 'Belas Artes',
+        'bíblia': 'Bíblia',
+        'biblia': 'Bíblia'
     };
     return map[lower] || name;
 }
@@ -139,7 +145,9 @@ function renderMetas(items) {
             'Ciências': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M10 2v7.31"/><path d="M14 2v7.31"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/><path d="M5.52 16h12.96"/></svg>',
             'Geografia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10"/><path d="M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10"/></svg>',
             'Matemática': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6"/><path d="M9 12h6"/><path d="M9 15h3"/><path d="M15 15h1"/><path d="M15 12h1"/></svg>',
-            'Português': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>'
+            'Português': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 6.1H3"/><path d="M21 12.1H3"/><path d="M15.1 18H3"/><path d="M12 6.1v12"/></svg>',
+            'Belas Artes': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="13.5" cy="6.5" r="2.5"/><path d="M17.5 10.5c2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4h-11c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4h11z"/><path d="M7 14.5h.01"/><path d="M10 14.5h.01"/><path d="M13 14.5h.01"/><path d="M16 14.5h.01"/></svg>',
+            'Bíblia': '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>'
         };
         const icon = subjectIcons[sub] || '<svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>';
 
