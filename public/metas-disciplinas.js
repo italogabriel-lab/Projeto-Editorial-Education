@@ -280,7 +280,7 @@ function showDisciplineDetail(subject) {
         const yrRemaining = Math.max(0, META_POR_DISCIPLINA_ANO - yr.d);
 
         yearCardsHTML += `
-            <div class="year-detail-card glass-panel" style="padding: 1.25rem; border-top: 3px solid ${yrColor};">
+            <div class="year-detail-card glass-panel" style="padding: 1.25rem; border-top: 3px solid ${yrColor}; cursor: pointer; transition: all 0.3s;" onclick="showYearHealthDetail('${subject}', ${ano})" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
                     <h4 style="font-size: 1rem; font-weight: 700; color: var(--text-primary); margin: 0;">
                         <i class="ph ph-graduation-cap" style="color: ${yrColor}; margin-right: 8px;"></i>
@@ -297,15 +297,9 @@ function showDisciplineDetail(subject) {
                         <span>${yrRemaining} restantes</span>
                     </div>
                 </div>
-                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; padding-top: 1rem; border-top: 1px solid var(--border-glass);">
-                    <div style="text-align: center; padding: 8px; background: rgba(0,0,0,0.2); border-radius: 6px;">
-                        <div style="font-size: 1.1rem; font-weight: 600; color: var(--color-primary-light);">${yr.t || 0}</div>
-                        <div style="font-size: 0.7rem; color: var(--text-muted);">Total</div>
-                    </div>
-                    <div style="text-align: center; padding: 8px; background: rgba(0,0,0,0.2); border-radius: 6px;">
-                        <div style="font-size: 1.1rem; font-weight: 600; color: var(--color-success-light);">${yr.d || 0}</div>
-                        <div style="font-size: 0.7rem; color: var(--text-muted);">Produzidas</div>
-                    </div>
+                <div style="display: flex; align-items: center; justify-content: center; gap: 6px; padding-top: 1rem; border-top: 1px solid var(--border-glass); font-size: 0.75rem; color: var(--color-primary-light);">
+                    <i class="ph ph-heartbeat"></i>
+                    <span>Clique para ver saúde da meta</span>
                 </div>
             </div>
         `;
@@ -343,9 +337,10 @@ function showDisciplineDetail(subject) {
         </div>
     `;
 
-    // Show detail section, hide cards
+    // Show detail section, hide cards and health overview
     document.getElementById('discipline-cards-container').style.display = 'none';
     document.getElementById('discipline-detail-section').style.display = 'block';
+    document.getElementById('year-health-detail-section').style.display = 'none';
     document.getElementById('health-overview-section').style.display = 'none';
     document.querySelector('.year-filter-section').style.display = 'none';
 
@@ -356,8 +351,362 @@ function showDisciplineDetail(subject) {
 function showDisciplineCards() {
     document.getElementById('discipline-cards-container').style.display = 'grid';
     document.getElementById('discipline-detail-section').style.display = 'none';
+    document.getElementById('year-health-detail-section').style.display = 'none';
     document.getElementById('health-overview-section').style.display = 'block';
     document.querySelector('.year-filter-section').style.display = 'block';
+}
+
+// Month target mapping for each year (based on curriculum planning)
+const YEAR_TARGET_MONTHS = {
+    1: 5,  // Maio
+    2: 3,  // Março
+    3: 4,  // Abril
+    4: 6,  // Junho
+    5: 7   // Julho
+};
+
+const MONTH_NAMES = [
+    'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+    'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
+];
+
+const MOTIVATIONAL_MESSAGES = {
+    critical: [
+        "⚠️ URGENTE: Precisamos acelerar! Cada dia conta!",
+        "🔥 ALERTA VERMELHO: Vamos nos organizar e recuperar o tempo perdido!",
+        "💪 FOCO TOTAL: Hora de dar um gás e atingir a meta!"
+    ],
+    warning: [
+        "⚡ Atenção: Podemos melhorar! Vamos manter o ritmo e acelerar um pouco!",
+        "🎯 Quase lá! Mais um pouco de esforço vamos conseguir!",
+        "📈 Bom ritmo, mas podemos acelerar mais para garantir a meta!"
+    ],
+    healthy: [
+        "🌟 Excelente ritmo! Continuemos assim, equipe!",
+        "✅ Ótimo progresso! Estamos no caminho certo!",
+        "🚀 Mandando bem! Vamos manter essa velocidade!"
+    ],
+    completed: [
+        "🏆 META ATINGIDA! Parabéns equipe! Vocês são incríveis!",
+        "🎉 CONCLUÍDO! Trabalho excepcional, orgulho de vocês!",
+        "⭐ MISSÃO CUMPRIDA! Vocês arrasaram, continue assim!"
+    ]
+};
+
+function calculateYearHealth(subject, year) {
+    const items = currentItems;
+    const META_ANO = META_POR_DISCIPLINA_ANO;
+
+    // Calculate produced lessons for this year
+    let produced = 0;
+    items.forEach(i => {
+        const sub = normalizeSubject(i.subject);
+        if (sub === subject && i.year === year && isProduced(i.status)) {
+            produced++;
+        }
+    });
+
+    const remaining = Math.max(0, META_ANO - produced);
+    const pct = Math.round((produced / META_ANO) * 100);
+
+    // Get current date
+    const currentDate = new Date();
+    const currentYear = currentDate.getFullYear();
+    const currentMonth = currentDate.getMonth() + 1; // 1-12
+    const currentDay = currentDate.getDate();
+
+    // Get target month for this year
+    const targetMonth = YEAR_TARGET_MONTHS[year];
+    const targetMonthName = MONTH_NAMES[targetMonth - 1];
+
+    // Calculate complete working days remaining in target month
+    // Count only weekdays (Monday to Friday) from current day to end of target month
+    let workingDaysRemaining = 0;
+    let isOverdue = false;
+
+    if (currentMonth > targetMonth || (currentMonth === targetMonth && currentDay > 25)) {
+        // Past the target month or very late in the month
+        isOverdue = true;
+        workingDaysRemaining = 0;
+    } else {
+        // Calculate working days from tomorrow to end of target month
+        const endDate = new Date(currentYear, targetMonth, 0); // Last day of target month
+        const startDate = new Date(currentYear, currentMonth - 1, currentDay + 1); // Tomorrow
+
+        if (startDate > endDate) {
+            isOverdue = true;
+            workingDaysRemaining = 0;
+        } else {
+            let checkDate = new Date(startDate);
+            while (checkDate <= endDate) {
+                const dayOfWeek = checkDate.getDay();
+                // Count Monday (1) through Friday (5)
+                if (dayOfWeek >= 1 && dayOfWeek <= 5) {
+                    workingDaysRemaining++;
+                }
+                checkDate.setDate(checkDate.getDate() + 1);
+            }
+        }
+    }
+
+    // Calculate daily production rate needed
+    let dailyRateNeeded = 0;
+    if (remaining > 0 && workingDaysRemaining > 0) {
+        dailyRateNeeded = Math.ceil(remaining / workingDaysRemaining);
+    } else if (remaining > 0 && workingDaysRemaining === 0) {
+        dailyRateNeeded = remaining; // All remaining must be done now
+    }
+
+    // Calculate ideal production rate based on time elapsed
+    const totalDaysInMonth = new Date(currentYear, targetMonth, 0).getDate();
+    const daysElapsed = (currentMonth === targetMonth) ? currentDay : totalDaysInMonth;
+    const daysInMonth = totalDaysInMonth;
+    const timeProgress = daysElapsed / daysInMonth;
+    const expectedProduced = Math.round(META_ANO * timeProgress);
+    const productionGap = produced - expectedProduced;
+
+    // Determine health status
+    let health = 'healthy';
+    let healthIcon = '<i class="ph ph-heart"></i>';
+    let healthMsg = 'No prazo';
+    let healthColor = 'var(--color-success-light)';
+    let healthBg = 'rgba(16, 185, 129, 0.1)';
+
+    if (remaining === 0) {
+        health = 'completed';
+        healthIcon = '<i class="ph ph-seal-check"></i>';
+        healthMsg = 'Meta atingida!';
+        healthColor = 'var(--color-success-light)';
+        healthBg = 'rgba(16, 185, 129, 0.15)';
+    } else if (isOverdue || (workingDaysRemaining === 0 && remaining > 0)) {
+        health = 'critical';
+        healthIcon = '<i class="ph ph-warning-circle"></i>';
+        healthMsg = 'ATRASADO';
+        healthColor = 'var(--color-danger-light)';
+        healthBg = 'rgba(239, 68, 68, 0.15)';
+    } else if (productionGap < -20) {
+        // More than 20 lessons behind schedule
+        health = 'critical';
+        healthIcon = '<i class="ph ph-warning-circle"></i>';
+        healthMsg = 'MUITO ATRASADO';
+        healthColor = 'var(--color-danger-light)';
+        healthBg = 'rgba(239, 68, 68, 0.15)';
+    } else if (productionGap < -10) {
+        // 10-20 lessons behind schedule
+        health = 'warning';
+        healthIcon = '<i class="ph ph-heartbeat"></i>';
+        healthMsg = 'Atenção - Ritmo lento';
+        healthColor = 'var(--color-warning-light)';
+        healthBg = 'rgba(245, 158, 11, 0.15)';
+    } else if (productionGap >= 0 && productionGap < 15) {
+        health = 'healthy';
+        healthIcon = '<i class="ph ph-trend-up"></i>';
+        healthMsg = 'Ritmo bom!';
+        healthColor = 'var(--color-success-light)';
+        healthBg = 'rgba(16, 185, 129, 0.1)';
+    } else if (productionGap >= 15) {
+        health = 'healthy';
+        healthIcon = '<i class="ph ph-rocket"></i>';
+        healthMsg = 'Excelente ritmo!';
+        healthColor = 'var(--color-success-light)';
+        healthBg = 'rgba(16, 185, 129, 0.15)';
+    }
+
+    // Get motivational message
+    const messages = MOTIVATIONAL_MESSAGES[health];
+    const motivationalMsg = messages[Math.floor(Math.random() * messages.length)];
+
+    return {
+        health,
+        healthIcon,
+        healthMsg,
+        healthColor,
+        healthBg,
+        produced,
+        remaining,
+        pct,
+        workingDaysRemaining,
+        dailyRateNeeded,
+        targetMonthName,
+        isOverdue,
+        productionGap,
+        expectedProduced,
+        motivationalMsg
+    };
+}
+
+function showYearHealthDetail(subject, year) {
+    const healthData = calculateYearHealth(subject, year);
+    const yearNames = ['', '1º Ano', '2º Ano', '3º Ano', '4º Ano', '5º Ano'];
+    const yearColor = getProgressColorHex(healthData.pct);
+
+    // Build the year health detail section
+    const container = document.getElementById('year-health-detail-section');
+
+    let html = `
+        <div class="glass-panel" style="padding: 1.5rem; border-left: 4px solid ${healthData.healthColor};">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border-glass);">
+                <div style="display: flex; align-items: center; gap: 16px;">
+                    <button id="back-to-discipline-detail-btn" style="background: rgba(255,255,255,0.05); border: 1px solid var(--border-glass); border-radius: 8px; padding: 8px 12px; cursor: pointer; color: var(--text-primary); display: flex; align-items: center; gap: 6px; transition: all 0.2s;" onclick="backToDisciplineDetail()">
+                        <i class="ph ph-arrow-left"></i> Voltar
+                    </button>
+                    <div style="width: 56px; height: 56px; background: ${healthData.healthBg}; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; color: ${healthData.healthColor};">
+                        ${getSubjectIcon(subject)}
+                    </div>
+                    <div>
+                        <h2 style="font-size: 1.5rem; font-weight: 700; color: var(--text-primary); margin: 0 0 4px 0;">
+                            ${subject} — ${yearNames[year]}
+                        </h2>
+                        <p style="font-size: 0.85rem; color: var(--text-muted); margin: 0;">
+                            Meta: ${META_POR_DISCIPLINA_ANO} aulas até ${healthData.targetMonthName}
+                        </p>
+                    </div>
+                </div>
+                <div style="text-align: right;">
+                    <div style="font-size: 2.2rem; font-weight: 700; color: ${healthData.healthColor};">${healthData.pct}%</div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted);">${healthData.produced} / ${META_POR_DISCIPLINA_ANO} aulas</div>
+                </div>
+            </div>
+
+            <!-- Status Alert -->
+            <div style="padding: 1rem; background: ${healthData.healthBg}; border-radius: 10px; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 12px;">
+                <div style="font-size: 2rem; color: ${healthData.healthColor};">
+                    ${healthData.healthIcon}
+                </div>
+                <div style="flex: 1;">
+                    <div style="font-size: 1rem; font-weight: 700; color: ${healthData.healthColor}; margin-bottom: 4px;">
+                        ${healthData.healthMsg}
+                    </div>
+                    <div style="font-size: 0.85rem; color: var(--text-secondary);">
+                        ${healthData.motivationalMsg}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Production Metrics Grid -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 1.5rem;">
+                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
+                        <i class="ph ph-check-circle"></i> Produzidas
+                    </div>
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--color-success-light);">
+                        ${healthData.produced}
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">
+                        aulas concluídas
+                    </div>
+                </div>
+
+                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
+                        <i class="ph ph-hourglass-simple"></i> Restantes
+                    </div>
+                    <div style="font-size: 2rem; font-weight: 700; color: ${healthData.healthColor};">
+                        ${healthData.remaining}
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">
+                        aulas faltando
+                    </div>
+                </div>
+
+                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
+                        <i class="ph ph-calendar"></i> Dias Úteis
+                    </div>
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--color-primary-light);">
+                        ${healthData.workingDaysRemaining}
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">
+                        até ${healthData.targetMonthName}
+                    </div>
+                </div>
+
+                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center; border: 2px solid ${healthData.healthColor};">
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
+                        <i class="ph ph-lightning"></i> Meta Diária
+                    </div>
+                    <div style="font-size: 2.5rem; font-weight: 700; color: ${healthData.healthColor};">
+                        ${healthData.dailyRateNeeded}
+                    </div>
+                    <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 4px;">
+                        aulas/dia necessárias
+                    </div>
+                </div>
+            </div>
+
+            <!-- Progress Bar -->
+            <div style="margin-bottom: 1.5rem;">
+                <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.85rem;">
+                    <span style="color: var(--text-secondary);">Progresso até ${healthData.targetMonthName}</span>
+                    <span style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.produced}/${META_POR_DISCIPLINA_ANO}</span>
+                </div>
+                <div style="width: 100%; height: 12px; background: rgba(255,255,255,0.08); border-radius: 6px; overflow: hidden;">
+                    <div style="width: ${Math.min(healthData.pct, 100)}%; height: 100%; background: ${healthData.healthColor}; transition: width 0.4s ease;"></div>
+                </div>
+                <div style="display: flex; justify-content: space-between; margin-top: 6px; font-size: 0.75rem;">
+                    <span style="color: var(--text-muted);">0</span>
+                    <span style="color: var(--text-muted);">Esperado: ${healthData.expectedProduced} aulas</span>
+                    <span style="color: var(--text-muted);">${META_POR_DISCIPLINA_ANO}</span>
+                </div>
+            </div>
+
+            <!-- Production Gap Analysis -->
+            <div style="padding: 1rem; background: rgba(0,0,0,0.15); border-radius: 8px; margin-bottom: 1.5rem;">
+                <h4 style="font-size: 0.9rem; font-weight: 600; color: var(--text-primary); margin: 0 0 12px 0; display: flex; align-items: center; gap: 8px;">
+                    <i class="ph ph-chart-line-up" style="color: var(--color-primary-light);"></i>
+                    Análise de Ritmo
+                </h4>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px;">
+                    <div>
+                        <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 4px;">Produção Esperada</div>
+                        <div style="font-size: 1.3rem; font-weight: 600; color: var(--text-primary);">${healthData.expectedProduced} aulas</div>
+                    </div>
+                    <div>
+                        <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 4px;">Produção Realizada</div>
+                        <div style="font-size: 1.3rem; font-weight: 600; color: ${healthData.productionGap >= 0 ? 'var(--color-success-light)' : 'var(--color-danger-light)'};">
+                            ${healthData.produced} aulas
+                        </div>
+                    </div>
+                    <div>
+                        <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 4px;">Diferença</div>
+                        <div style="font-size: 1.3rem; font-weight: 600; color: ${healthData.productionGap >= 0 ? 'var(--color-success-light)' : 'var(--color-danger-light)'};">
+                            ${healthData.productionGap >= 0 ? '+' : ''}${healthData.productionGap} aulas
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Action Items -->
+            <div style="padding: 1rem; background: ${healthData.healthBg}; border-radius: 8px; border-left: 3px solid ${healthData.healthColor};">
+                <h4 style="font-size: 0.9rem; font-weight: 600; color: var(--text-primary); margin: 0 0 12px 0; display: flex; align-items: center; gap: 8px;">
+                    <i class="ph ph-target" style="color: ${healthData.healthColor};"></i>
+                    Plano de Ação
+                </h4>
+                <ul style="margin: 0; padding-left: 20px; color: var(--text-secondary); font-size: 0.85rem; line-height: 1.8;">
+                    <li>Produzir <strong style="color: ${healthData.healthColor};">${healthData.dailyRateNeeded} aulas/dia</strong> até ${healthData.targetMonthName}</li>
+                    <li>Focar em ${healthData.remaining} aulas restantes com qualidade</li>
+                    <li>Manter ritmo constante e revisar pendências</li>
+                    ${healthData.isOverdue ? '<li style="color: var(--color-danger-light); font-weight: 600;">⚠️ Prioridade máxima: recuperar atraso!</li>' : ''}
+                    ${healthData.productionGap < -10 ? '<li style="color: var(--color-warning-light); font-weight: 600;">⚡ Acelerar produção para alcançar meta esperada</li>' : ''}
+                    ${healthData.productionGap >= 0 ? '<li style="color: var(--color-success-light); font-weight: 600;">✅ Excelente! Continuar nesse ritmo</li>' : ''}
+                </ul>
+            </div>
+        </div>
+    `;
+
+    container.innerHTML = html;
+
+    // Show year health detail, hide year cards
+    document.getElementById('discipline-year-cards').style.display = 'none';
+    document.getElementById('year-health-detail-section').style.display = 'block';
+
+    // Scroll to the detail section
+    container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function backToDisciplineDetail() {
+    document.getElementById('discipline-year-cards').style.display = 'grid';
+    document.getElementById('year-health-detail-section').style.display = 'none';
 }
 
 function getMetaHealth(remaining, targetMonth) {

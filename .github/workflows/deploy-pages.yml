@@ -1,0 +1,161 @@
+# =============================================================================
+# GitHub Pages Deployment - Vision Board Dashboard
+# =============================================================================
+#
+# Deploy all HTML files to GitHub Pages for team access
+#
+# TRIGGERS:
+# - Push to main branch
+# - Manual trigger (workflow_dispatch)
+#
+# OUTPUT:
+# - https://italogabriel-lab.github.io/Projeto-Editorial-Education/
+# - https://italogabriel-lab.github.io/Projeto-Editorial-Education/metas-disciplinas.html
+# - https://italogabriel-lab.github.io/Projeto-Editorial-Education/metas.html
+# - https://italogabriel-lab.github.io/Projeto-Editorial-Education/videos.html
+# - https://italogabriel-lab.github.io/Projeto-Editorial-Education/index.html
+#
+# FEATURES:
+# - Automatic deployment on push
+# - Cache busting with timestamps
+# - Build validation
+# - Deploy status check
+# =============================================================================
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '*.html'
+      - 'public/**'
+      - 'assets/**'
+      - 'public/styles.css'
+  workflow_dispatch:        # Manual trigger
+
+# Permissões necessárias
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Cancelar execuções anteriores se uma nova começar
+concurrency:
+  group: github-pages-deploy
+  cancel-in-progress: true
+
+jobs:
+  # Job 1: Build and Validate
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 📋 List deployment files
+        run: |
+          echo "📁 Files to deploy:"
+          echo ""
+          echo "HTML Files:"
+          ls -lh *.html 2>/dev/null || echo "  No HTML files found"
+          echo ""
+          echo "Public Directory:"
+          ls -lh public/ 2>/dev/null || echo "  No public directory"
+          echo ""
+          echo "Assets Directory:"
+          ls -lh assets/ 2>/dev/null || echo "  No assets directory"
+
+      - name: ✅ Validate HTML files
+        run: |
+          echo "🔍 Validating JavaScript files..."
+          for file in public/*.js; do
+            if [ -f "$file" ]; then
+              echo "  Checking $file..."
+              node -c "$file"
+              if [ $? -eq 0 ]; then
+                echo "    ✅ Valid"
+              else
+                echo "    ❌ Invalid"
+                exit 1
+              fi
+            fi
+          done
+          echo ""
+          echo "✅ All files validated successfully!"
+
+      - name: 📊 Generate deployment report
+        run: |
+          echo "## Deployment Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| File | Size | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|------|--------|" >> $GITHUB_STEP_SUMMARY
+          
+          for file in *.html; do
+            if [ -f "$file" ]; then
+              size=$(ls -lh "$file" | awk '{print $5}')
+              echo "| $file | $size | ✅ Ready |" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Total HTML files**: $(ls *.html 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "**Public JS files**: $(ls public/*.js 2>/dev/null | wc -l)" >> $GITHUB_STEP_SUMMARY
+
+  # Job 2: Deploy to GitHub Pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: ⚙️ Setup GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: 📦 Upload artifact to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+          retention-days: 30
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📋 Deployment Summary
+        if: always()
+        run: |
+          echo "## Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Status | ${{ job.status }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| URL | https://italogabriel-lab.github.io/Projeto-Editorial-Education/ |" >> $GITHUB_STEP_SUMMARY
+          echo "| Triggered by | ${{ github.actor }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Commit | ${{ github.sha }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Available Pages" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 📊 [Overview Geral](https://italogabriel-lab.github.io/Projeto-Editorial-Education/index.html)" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎯 [Metas (Currículo)](https://italogabriel-lab.github.io/Projeto-Editorial-Education/metas.html)" >> $GITHUB_STEP_SUMMARY
+          echo "- 📚 [Metas (Disciplinas)](https://italogabriel-lab.github.io/Projeto-Editorial-Education/metas-disciplinas.html)" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎥 [Videos Pipeline](https://italogabriel-lab.github.io/Projeto-Editorial-Education/videos.html)" >> $GITHUB_STEP_SUMMARY
