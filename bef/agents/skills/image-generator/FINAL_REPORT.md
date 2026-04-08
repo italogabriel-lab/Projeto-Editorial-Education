@@ -144,7 +144,7 @@ POLLINATIONS_KEY=sk_XYebI51eWx0LmXAFnRvDQyCCNn2t9yMU
 ### **Gerar Ano Completo (Ano 3)**
 
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 
 # Opção 1: Usar script principal (quando implementado)
 python scripts/main.py generate 3 --output assets/imagens-narrar/3-ano/
@@ -257,7 +257,7 @@ python scripts/generate_images.py \
 mkdir -p assets/imagens-narrar/3-ano/
 
 # Gerar todas as 120 imagens (40 semanas × 3 aulas)
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 python scripts/main.py generate 3 --output assets/imagens-narrar/3-ano/
 ```
 

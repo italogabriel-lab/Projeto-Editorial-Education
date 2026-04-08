@@ -134,7 +134,7 @@ curl -X POST \
 ### Scripts do Image Generator
 
 ```
-bef/agents/specialized/image-generator/
+bef/agents/skills/image-generator/
 ├── SKILL.md                          # Definição do agente
 ├── README.md                         # Documentação
 ├── scripts/
@@ -197,7 +197,7 @@ Vista panorâmica da cidade murada de Constantinopla...
 
 ```bash
 # Gerar todas as imagens do ano
-cd bef/agents/specialized/image-generator
+cd bef/agents/skills/image-generator
 python scripts/main.py generate --year 3
 
 # Gerar semana específica

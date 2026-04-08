@@ -65,7 +65,7 @@ POLLINATIONS_KEY=sk_XYebI51eWx0LmXAFnRvDQyCCNn2t9yMU
 ### **2. Instalar Dependências**
 
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 pip install -r requirements.txt
 ```
 
@@ -83,7 +83,7 @@ python scripts/test_api.py
 ### **Teste 1: Gerar Única Imagem**
 
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 
 python scripts/generate_images.py \
   "Ilustração em aquarela, império bizantino, luz dourada" \
@@ -142,7 +142,7 @@ python scripts/main.py generate 3 \
 
 ### **1. Instalar Dependências**
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 pip install -r requirements.txt
 ```
 

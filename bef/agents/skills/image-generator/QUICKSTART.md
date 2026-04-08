@@ -7,7 +7,7 @@
 ## ⚡ Passo 1: Instalar Dependências (5 min)
 
 ```bash
-cd bef/agents/specialized/image-generator/
+cd bef/agents/skills/image-generator/
 pip install -r requirements.txt
 ```
 

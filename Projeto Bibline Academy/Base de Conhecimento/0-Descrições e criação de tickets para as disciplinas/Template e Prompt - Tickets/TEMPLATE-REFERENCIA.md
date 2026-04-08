@@ -136,11 +136,11 @@ Avaliação dos conhecimentos das três semanas anteriores.
 
 # Description
 
-Revisão dos conhecimentos das [três/oito] semanas anteriores.
+Revisão dos conhecimentos das 3 aulas anteriores
 ```
 
 **Regra:**
-- **Semanas 1-8, 11-18, 21-28, 31-38:** "três semanas anteriores"
+- **Semanas 1-8, 11-18, 21-28, 31-38:** "3 aulas anteriores" (revisão semanal)
 - **Semanas 9, 19, 29, 39:** "oito semanas anteriores" (revisão bimestral)
 
 #### **Prova (.5)**
@@ -149,11 +149,11 @@ Revisão dos conhecimentos das [três/oito] semanas anteriores.
 
 # Description
 
-Avaliação dos conhecimentos das [três/oito] semanas anteriores.
+Avaliação dos conhecimentos das 3 aulas anteriores
 ```
 
 **Regra:**
-- **Semanas 1-8, 11-18, 21-28, 31-38:** "três semanas anteriores"
+- **Semanas 1-8, 11-18, 21-28, 31-38:** "3 aulas anteriores" (prova semanal)
 - **Semanas 10, 20, 30, 40:** "oito semanas anteriores" (prova bimestral)
 
 ---

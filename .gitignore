@@ -60,3 +60,14 @@ Thumbs.db
 !README.md
 !*.md
 !*.canvas
+
+##################################
+# 🔒 SCRIPTS DE DIAGNÓSTICO COM TOKENS
+##################################
+test_project_access.py
+check_titles.py
+diagnose_kanban.py
+diagnose_kanban_geografia.py
+.env
+*.env
+**/.env

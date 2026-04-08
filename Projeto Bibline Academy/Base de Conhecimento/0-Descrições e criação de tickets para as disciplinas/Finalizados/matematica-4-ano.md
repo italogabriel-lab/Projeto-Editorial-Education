@@ -4,8 +4,9 @@
 **Ano Escolar:** 4º Ano
 **Assignee:** @deborafeijo-gif
 **Status:** Backlog
-**Total de Tickets:** 200
-**Última Atualização:** 2026-04-02
+
+
+não criar labels apenas colocar o assignee e Status
 
 ---
 

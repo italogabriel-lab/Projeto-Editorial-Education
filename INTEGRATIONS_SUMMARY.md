@@ -102,7 +102,7 @@ bef/agents/
 │   ├── analytics/    (4 Vision Board)
 │   ├── bimester/     (2 avaliação)
 │   └── legacy/       (4 histórico)
-└── specialized/      (1 image generator)
+└── skills/image-generator/ (1 image generator)
 ```
 
 #### Agentes Core (Fluxo Principal):
