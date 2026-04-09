@@ -5007,174 +5007,19 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
         // TUTORIAL VIEWER - COURSE-STYLE DOCS
         // ============================================
         const tutorialSections = [
-            {id:'overview',number:1,title:'Visão Geral do Projeto',icon:'<i class="ph ph-target"></i>',color:'#2dd4bf',content:`
-                <h2><i class="ph ph-target" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Visão Geral do Projeto Editorial</h2>
-                <div class="tutorial-content-section">
-                    <h3>O que é o Bibline Editorial Framework?</h3>
-                    <p>O <strong>BEF</strong> é um sistema completo de produção, gestão e publicação de conteúdo educacional para a Bibline Academy. Ele integra:</p>
-                    <ul><li><strong>GitHub Projects</strong> como Kanban para gestão de tarefas</li>
-                    <li><strong>22 Agentes de IA</strong> especializados em diferentes etapas</li>
-                    <li><strong>Pipeline de 7 etapas</strong> para produção de aulas</li>
-                    <li><strong>Dashboard em tempo real</strong> para monitoramento</li>
-                    <li><strong>Deploy automático</strong> para GitHub Pages e Vercel</li></ul>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Arquitetura de Alto Nível</h3>
-                    <div class="tutorial-code-block">[GitHub Projects Kanban] ←→ [GitHub Actions Sync]
-         ↓
-   [public/data.json]
-         ↓
-[Dashboard Vision Board] ←→ [Vision Board Live Sync (5min)]
-         ↓
-   [GitHub Pages / Vercel]</div>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Principais Métricas</h3>
-                    <div class="tutorial-metrics-grid">
-                        <div class="metric-card"><div class="metric-value">22</div><div class="metric-label">Agentes Ativos</div></div>
-                        <div class="metric-card"><div class="metric-value">7</div><div class="metric-label">Etapas Pipeline</div></div>
-                        <div class="metric-card"><div class="metric-value">21</div><div class="metric-label">Skills</div></div>
-                        <div class="metric-card"><div class="metric-value">~4,200</div><div class="metric-label">Aulas</div></div>
-                    </div>
-                </div>
-            `},
-            {id:'structure',number:2,title:'Estrutura de Arquivos',icon:'<i class="ph ph-folder"></i>',color:'#67e8f9',content:`
-                <h2><i class="ph ph-folder" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Estrutura Completa de Arquivos</h2>
-                <div class="tutorial-content-section">
-                    <h3>Root Level (Vision Board UI)</h3>
-                    <div class="tutorial-code-block">Projeto-Editorial-Education/
-├── index.html, metas.html, metas-disciplinas.html
-├── videos.html, agent-command-center.html
-├── vercel.json, README.md, QUICK_REFERENCE.md
-└── public/, src/, .github/, bef/, editorial-squad/</div>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Diretórios Principais</h3>
-                    <table class="tutorial-table"><thead><tr><th>Diretório</th><th>Conteúdo</th></tr></thead>
-                    <tbody>
-                        <tr><td><code>public/</code></td><td>data.json, app.js, styles.css</td></tr>
-                        <tr><td><code>src/</code></td><td>sync.js (GraphQL → data.json)</td></tr>
-                        <tr><td><code>.github/workflows/</code></td><td>deploy-pages.yml, data-sync.yml</td></tr>
-                        <tr><td><code>editorial-squad/</code></td><td>skills, workflows, scripts, templates</td></tr>
-                    </tbody></table>
-                </div>
-            `},
-            {id:'workflows',number:3,title:'GitHub Actions Workflows',icon:'<i class="ph ph-gear"></i>',color:'#f472b6',content:`
-                <h2><i class="ph ph-gear"></i> GitHub Actions Workflows</h2>
-                <div class="tutorial-content-section">
-                    <h3>Workflow 1: Deploy to GitHub Pages</h3>
-                    <p><strong>Trigger:</strong> Push para main (HTML/CSS/JS) ou manual</p>
-                    <p><strong>Jobs:</strong> Build (valida) → Deploy (upload pages)</p>
-                    <p><strong>URL:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Workflow 2: Vision Board Live Sync</h3>
-                    <p><strong>Trigger:</strong> Cron 5 minutos ou manual</p>
-                    <p><strong>Jobs:</strong> Checkout → Sync (GraphQL) → Verify → Commit</p>
-                    <p><strong>SLA:</strong> ~3-4 minutos total</p>
-                </div>
-            `},
-            {id:'agents',number:4,title:'Agentes e Skills (22)',icon:'<i class="ph ph-robot"></i>',color:'#8b5cf6',content:`
-                <h2><i class="ph ph-robot" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Todos os 22 Agentes</h2>
-                <div class="tutorial-content-section">
-                    <h3>Core Pipeline (7)</h3>
-                    <p><strong>Orchestrator → Researcher → Writer → Standardizer → Reviewer → Copywriter → Publisher</strong></p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Specialized (4) + Analytics (4) + Bimester (2) + Legacy (4) + Image (1)</h3>
-                    <p>Design Thinking, UI Designer, DevOps, Capitalizer, Performance Analytics, Vision Progress, Bottleneck Detector, GitHub Analyzer, Exam Builder, Review Builder, Image Generator</p>
-                </div>
-            `},
-            {id:'pipeline',number:5,title:'Pipeline 7 Etapas',icon:'<i class="ph ph-arrows-left-right"></i>',color:'#34d399',content:`
-                <h2><i class="ph ph-arrows-left-right" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Pipeline Editorial de 7 Etapas</h2>
-                <div class="tutorial-content-section">
-                    <div class="tutorial-code-block">1. PESQUISA (Researcher) → research_report.md
-2. REDAÇÃO (Writer) → draft_class.md
-3. FORMATAÇÃO (Standardizer+Capitalizer) → formatted_class.md
-4. REVISÃO (Reviewer) → reviewed_class.md
-5. POLIMENTO (Copywriter) → final_class.md
-6. REGISTRO → Macro atualizado
-7. PUBLICAÇÃO (Publisher) → Local + GitHub</div>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Estrutura Semanal</h3>
-                    <p>Cada semana: <code>X.1.md</code>, <code>X.2.md</code>, <code>X.3.md</code> (aulas), <code>X.4.md</code> (review), <code>X.5.md</code> (quiz)</p>
-                </div>
-            `},
-            {id:'datasync',number:6,title:'Data Sync Processes',icon:'<i class="ph ph-link"></i>',color:'#fbbf24',content:`
-                <h2><i class="ph ph-link" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 4 Processos de Sincronização</h2>
-                <div class="tutorial-content-section">
-                    <h3>Sync 1: Kanban (5min)</h3>
-                    <p>GraphQL → ProjectV2 → data.json → Commit se mudou</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Sync 2: Titles</h3>
-                    <p>Curriculo Macro → Matriz, Visao, Tickets, H1 headers</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Sync 3: Curriculum</h3>
-                    <p>5 arquivos atualizados quando aulas mudam</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Sync 4: GitHub Issues</h3>
-                    <p>Create/update issues como cartões Kanban</p>
-                </div>
-            `},
-            {id:'ui',number:7,title:'UI Pages e Funções',icon:'<i class="ph ph-desktop"></i>',color:'#06b6d4',content:`
-                <h2><i class="ph ph-desktop" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 6 Páginas do Dashboard</h2>
-                <table class="tutorial-table"><thead><tr><th>Página</th><th>Função</th></tr></thead>
-                <tbody>
-                    <tr><td>Overview Geral</td><td>Dashboard principal com data.json</td></tr>
-                    <tr><td>Metas (Curriculo)</td><td>Tracking de metas</td></tr>
-                    <tr><td>Metas (Disciplinas)</td><td>Year Health Feature</td></tr>
-                    <tr><td>Videos Pipeline</td><td>Produção de vídeos</td></tr>
-                    <tr><td>Agent Command Center</td><td>20 agentes, workflow</td></tr>
-                    <tr><td>Tutorial (esta)</td><td>Documentação completa</td></tr>
-                </tbody></table>
-            `},
-            {id:'scripts',number:8,title:'Scripts Automação',icon:'<i class="ph ph-file-py"></i>',color:'#ef4444',content:`
-                <h2><i class="ph ph-file-py" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 18+ Scripts Python</h2>
-                <div class="tutorial-content-section">
-                    <h3>Principais Scripts</h3>
-                    <p><code>sync_titles.py</code> (MASTER), <code>fix_lesson_h1.py</code>, <code>check_matriz.py</code>, <code>create_issues.py</code>, <code>update_backlog_tickets.py</code></p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Converters e Formatters</h3>
-                    <p><code>convert_recordar.py</code> (música→rima), <code>fix_accordion.py</code></p>
-                </div>
-            `},
-            {id:'templates',number:9,title:'Templates e Conhecimento',icon:'<i class="ph ph-notepad'></i>',color:'#ec4899',content:`
-                <h2><i class="ph ph-notepad" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Templates e Base de Conhecimento</h2>
-                <div class="tutorial-content-section">
-                    <h3>Golden Template</h3>
-                    <p><code>padrao_final_aula.md</code> — esqueleto padrão de toda aula</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>5 Habits Templates</h3>
-                    <p>Definir, Perceber, Recordar, Praticar, Narrar</p>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Knowledge Base</h3>
-                    <p>visao-geral-fluxo-editorial.md (572 linhas), doutrina-pedagogica.md, guia-de-estilo.md, rise-blocks-reference.md</p>
-                </div>
-            `},
-            {id:'workflow',number:10,title:'Como Trabalhar',icon:'<i class="ph ph-compass"></i>',color:'#14b8a6',content:`
-                <h2><i class="ph ph-compass" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Fluxo de Trabalho Diário</h2>
-                <div class="tutorial-content-section">
-                    <h3>Passos Diários</h3>
-                    <ol><li>Acesse Dashboard</li><li>Verifique Agent Command Center</li><li>Use Orchestrator para diagnóstico</li><li>Execute Pipeline</li><li>Sync títulos se necessário</li><li>Commit e Push</li></ol>
-                </div>
-                <div class="tutorial-content-section">
-                    <h3>Links Importantes</h3>
-                    <p><strong>Dashboard:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/</p>
-                    <p><strong>GitHub:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education</p>
-                    <p><strong>Kanban:</strong> https://github.com/orgs/bibline/projects/2/views/1</p>
-                </div>
-            `}
+            {id:'overview',number:1,title:'Visão Geral do Projeto',icon:'<i class="ph ph-target"></i>',color:'#2dd4bf',content:`<h2>Visão Geral do Projeto Editorial</h2><p>O BEF é um sistema completo de produção, gestão e publicação de conteúdo educacional.</p>`},
+            {id:'structure',number:2,title:'Estrutura de Arquivos',icon:'<i class="ph ph-folder"></i>',color:'#67e8f9',content:`<h2>Estrutura de Arquivos</h2><p>Complete file structure documentation.</p>`},
+            {id:'workflows',number:3,title:'GitHub Actions',icon:'<i class="ph ph-gear"></i>',color:'#f472b6',content:`<h2>GitHub Actions Workflows</h2><p>Deploy e Live Sync workflows.</p>`},
+            {id:'agents',number:4,title:'22 Agentes',icon:'<i class="ph ph-robot"></i>',color:'#8b5cf6',content:`<h2>Agentes e Skills</h2><p>Todos os 22 agentes detalhados.</p>`},
+            {id:'pipeline',number:5,title:'Pipeline 7 Etapas',icon:'<i class="ph ph-arrows-left-right"></i>',color:'#34d399',content:`<h2>Pipeline Editorial</h2><p>7 etapas de produção de aulas.</p>`},
+            {id:'datasync',number:6,title:'Data Sync',icon:'<i class="ph ph-arrows-clockwise"></i>',color:'#fbbf24',content:`<h2>Data Sync Processes</h2><p>4 processos de sincronização.</p>`},
+            {id:'ui',number:7,title:'UI Pages',icon:'<i class="ph ph-desktop"></i>',color:'#06b6d4',content:`<h2>UI Pages e Funções</h2><p>6 páginas do dashboard.</p>`},
+            {id:'scripts',number:8,title:'Scripts',icon:'<i class="ph ph-code"></i>',color:'#ef4444',content:`<h2>Scripts de Automação</h2><p>18+ scripts Python.</p>`},
+            {id:'templates',number:9,title:'Templates',icon:'<i class="ph ph-file-text"></i>',color:'#ec4899',content:`<h2>Templates e Conhecimento</h2><p>Golden Template e Knowledge Base.</p>`},
+            {id:'workflow',number:10,title:'Como Trabalhar',icon:'<i class="ph ph-compass"></i>',color:'#14b8a6',content:`<h2>Fluxo de Trabalho Diário</h2><p>Rotina e comandos úteis.</p>`}
         ];
 
         let currentTutorialSection = 0;
-
         function openTutorialViewer() {
             const modal = document.getElementById('tutorial-viewer-modal');
             if (modal) {
