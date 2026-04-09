@@ -233,9 +233,16 @@ function showDisciplineDetail(subject) {
         else if (status === 'Video') subjectStats.video++;
 
         if (year && subjectStats.years[year]) {
-            if (!subjectStats.years[year].t) subjectStats.years[year] = { t: 0, d: 0 };
+            if (!subjectStats.years[year].t) subjectStats.years[year] = { t: 0, d: 0, backlog: 0, inProgress: 0, review: 0, video: 0, done: 0 };
             subjectStats.years[year].t++;
             if (isProduced(status)) subjectStats.years[year].d++;
+            
+            // Count per-year status metrics
+            if (status === 'Done/Published') subjectStats.years[year].done++;
+            else if (status === 'Backlog') subjectStats.years[year].backlog++;
+            else if (status === 'In Progress') subjectStats.years[year].inProgress++;
+            else if (status === 'In Review') subjectStats.years[year].review++;
+            else if (status === 'Video') subjectStats.years[year].video++;
         }
     });
 
@@ -273,7 +280,7 @@ function showDisciplineDetail(subject) {
     let yearCardsHTML = '';
 
     [1, 2, 3, 4, 5].forEach(ano => {
-        const yr = subjectStats.years[ano] || { t: 0, d: 0 };
+        const yr = subjectStats.years[ano] || { t: 0, d: 0, backlog: 0, inProgress: 0, review: 0, video: 0, done: 0 };
         const yrPct = yr.t > 0 ? Math.round((yr.d / META_POR_DISCIPLINA_ANO) * 100) : 0;
         const yrColor = getProgressColorHex(yrPct);
         const yrRemaining = Math.max(0, META_POR_DISCIPLINA_ANO - yr.d);
@@ -281,13 +288,11 @@ function showDisciplineDetail(subject) {
         // Calculate year-specific metrics
         const yrDone = yr.d || 0;
         const yrTotal = yr.t || 0;
-        const yrInProgress = 0;
-        const yrReview = 0;
-        const yrVideo = 0;
-        const yrBacklog = Math.max(0, yrTotal - yrDone);
-
-        // Note: For accurate per-year metrics, we need to count statuses per year
-        // For now, we'll show what we have from the year data
+        const yrBacklog = yr.backlog || 0;
+        const yrInProgress = yr.inProgress || 0;
+        const yrReview = yr.review || 0;
+        const yrVideo = yr.video || 0;
+        const yrInFlow = yrInProgress + yrReview + yrVideo;
 
         yearCardsHTML += `
             <div class="year-detail-card glass-panel" style="padding: 1.25rem; border-top: 3px solid ${yrColor}; cursor: pointer; transition: all 0.3s;" onclick="showYearHealthDetail('${subject}', ${ano})" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
@@ -309,18 +314,22 @@ function showDisciplineDetail(subject) {
                 </div>
                 
                 <!-- Year-specific metrics -->
-                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding-top: 1rem; border-top: 1px solid var(--border-glass); margin-bottom: 1rem;">
-                    <div style="text-align: center; padding: 8px; background: rgba(0,0,0,0.15); border-radius: 6px;">
-                        <div style="font-size: 1.1rem; font-weight: 600; color: var(--color-success-light);">${yrDone}</div>
-                        <div style="font-size: 0.65rem; color: var(--text-muted);">Produzidas</div>
+                <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding-top: 1rem; border-top: 1px solid var(--border-glass); margin-bottom: 1rem;">
+                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                        <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-warning-light);">${yrBacklog}</div>
+                        <div style="font-size: 0.6rem; color: var(--text-muted);">Backlog</div>
                     </div>
-                    <div style="text-align: center; padding: 8px; background: rgba(0,0,0,0.15); border-radius: 6px;">
-                        <div style="font-size: 1.1rem; font-weight: 600; color: var(--color-warning-light);">${yrRemaining}</div>
-                        <div style="font-size: 0.65rem; color: var(--text-muted);">Restantes</div>
+                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                        <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-primary-light);">${yrInFlow}</div>
+                        <div style="font-size: 0.6rem; color: var(--text-muted);">Em Fluxo</div>
                     </div>
-                    <div style="text-align: center; padding: 8px; background: rgba(0,0,0,0.15); border-radius: 6px;">
-                        <div style="font-size: 1.1rem; font-weight: 600; color: var(--color-primary-light);">${yrTotal}</div>
-                        <div style="font-size: 0.65rem; color: var(--text-muted);">Total</div>
+                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                        <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-success-light);">${yrDone}</div>
+                        <div style="font-size: 0.6rem; color: var(--text-muted);">Produzidas</div>
+                    </div>
+                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                        <div style="font-size: 0.95rem; font-weight: 600; color: ${yrColor};">${yrRemaining}</div>
+                        <div style="font-size: 0.6rem; color: var(--text-muted);">Restantes</div>
                     </div>
                 </div>
                 
@@ -367,6 +376,11 @@ const MONTH_NAMES = [
 ];
 
 const MOTIVATIONAL_MESSAGES = {
+    not_started: [
+        "📅 A meta ainda não começou. Use o tempo para se preparar!",
+        "🗓️ Mês ainda não iniciado. Planeje-se com antecedência!",
+        "⏳ Contagem regressiva! A meta começa em breve!"
+    ],
     critical: [
         "⚠️ URGENTE: Precisamos acelerar! Cada dia conta!",
         "🔥 ALERTA VERMELHO: Vamos nos organizar e recuperar o tempo perdido!",
@@ -378,14 +392,14 @@ const MOTIVATIONAL_MESSAGES = {
         "📈 Bom ritmo, mas podemos acelerar mais para garantir a meta!"
     ],
     healthy: [
-        "🌟 Excelente ritmo! Continuemos assim, equipe!",
+        "🌟 Excelente ritmo! Continuemos assim, {assignee}!",
         "✅ Ótimo progresso! Estamos no caminho certo!",
         "🚀 Mandando bem! Vamos manter essa velocidade!"
     ],
     completed: [
-        "🏆 META ATINGIDA! Parabéns equipe! Vocês são incríveis!",
-        "🎉 CONCLUÍDO! Trabalho excepcional, orgulho de vocês!",
-        "⭐ MISSÃO CUMPRIDA! Vocês arrasaram, continue assim!"
+        "🏆 META ATINGIDA! Parabéns {assignee}! Você é incrível!",
+        "🎉 CONCLUÍDO! Trabalho excepcional, orgulho de você!",
+        "⭐ MISSÃO CUMPRIDA! Você arrasou, continue assim!"
     ]
 };
 
@@ -393,12 +407,19 @@ function calculateYearHealth(subject, year) {
     const items = currentItems;
     const META_ANO = META_POR_DISCIPLINA_ANO;
 
-    // Calculate produced lessons for this year
+    // Calculate produced lessons for this year AND get assignee
     let produced = 0;
+    let assignee = null;
     items.forEach(i => {
         const sub = normalizeSubject(i.subject);
-        if (sub === subject && i.year === year && isProduced(i.status)) {
-            produced++;
+        if (sub === subject && i.year === year) {
+            if (isProduced(i.status)) {
+                produced++;
+            }
+            // Get assignee from any item of this subject+year
+            if (!assignee && i.assignee) {
+                assignee = i.assignee;
+            }
         }
     });
 
@@ -415,12 +436,29 @@ function calculateYearHealth(subject, year) {
     const targetMonth = YEAR_TARGET_MONTHS[year];
     const targetMonthName = MONTH_NAMES[targetMonth - 1];
 
+    // Check if target month hasn't started yet
+    const isMonthNotStarted = currentMonth < targetMonth;
+    
     // Calculate complete working days remaining in target month
     // Count only weekdays (Monday to Friday) from current day to end of target month
     let workingDaysRemaining = 0;
     let isOverdue = false;
 
-    if (currentMonth > targetMonth || (currentMonth === targetMonth && currentDay > 25)) {
+    if (isMonthNotStarted) {
+        // Month hasn't started yet - calculate from start of target month
+        const startDate = new Date(currentYear, targetMonth - 1, 1); // First day of target month
+        const endDate = new Date(currentYear, targetMonth, 0); // Last day of target month
+        
+        let checkDate = new Date(startDate);
+        while (checkDate <= endDate) {
+            const dayOfWeek = checkDate.getDay();
+            if (dayOfWeek >= 1 && dayOfWeek <= 5) {
+                workingDaysRemaining++;
+            }
+            checkDate.setDate(checkDate.getDate() + 1);
+        }
+        isOverdue = false;
+    } else if (currentMonth > targetMonth || (currentMonth === targetMonth && currentDay > 25)) {
         // Past the target month or very late in the month
         isOverdue = true;
         workingDaysRemaining = 0;
@@ -455,11 +493,21 @@ function calculateYearHealth(subject, year) {
 
     // Calculate ideal production rate based on time elapsed
     const totalDaysInMonth = new Date(currentYear, targetMonth, 0).getDate();
-    const daysElapsed = (currentMonth === targetMonth) ? currentDay : totalDaysInMonth;
-    const daysInMonth = totalDaysInMonth;
-    const timeProgress = daysElapsed / daysInMonth;
-    const expectedProduced = Math.round(META_ANO * timeProgress);
-    const productionGap = produced - expectedProduced;
+    let daysElapsed, timeProgress, expectedProduced, productionGap;
+    
+    if (isMonthNotStarted) {
+        // Month hasn't started yet - no expected production yet
+        daysElapsed = 0;
+        timeProgress = 0;
+        expectedProduced = 0;
+        productionGap = 0; // No gap because month hasn't started
+    } else {
+        daysElapsed = (currentMonth === targetMonth) ? currentDay : totalDaysInMonth;
+        const daysInMonth = totalDaysInMonth;
+        timeProgress = daysElapsed / daysInMonth;
+        expectedProduced = Math.round(META_ANO * timeProgress);
+        productionGap = produced - expectedProduced;
+    }
 
     // Determine health status
     let health = 'healthy';
@@ -474,6 +522,13 @@ function calculateYearHealth(subject, year) {
         healthMsg = 'Meta atingida!';
         healthColor = 'var(--color-success-light)';
         healthBg = 'rgba(16, 185, 129, 0.15)';
+    } else if (isMonthNotStarted) {
+        // Month hasn't started yet - special status
+        health = 'not_started';
+        healthIcon = '<i class="ph ph-calendar-check"></i>';
+        healthMsg = `Meta inicia em ${targetMonthName}`;
+        healthColor = 'var(--color-primary-light)';
+        healthBg = 'rgba(96, 165, 250, 0.1)';
     } else if (isOverdue || (workingDaysRemaining === 0 && remaining > 0)) {
         health = 'critical';
         healthIcon = '<i class="ph ph-warning-circle"></i>';
@@ -508,9 +563,18 @@ function calculateYearHealth(subject, year) {
         healthBg = 'rgba(16, 185, 129, 0.15)';
     }
 
-    // Get motivational message
-    const messages = MOTIVATIONAL_MESSAGES[health];
-    const motivationalMsg = messages[Math.floor(Math.random() * messages.length)];
+    // Get motivational message with assignee personalization
+    let motivationalMsg;
+    const assigneeName = assignee ? assignee.split(',')[0].trim() : 'equipe'; // Get first assignee if multiple
+    
+    if (health === 'not_started') {
+        motivationalMsg = `📅 A meta de ${targetMonthName} ainda não começou. Use o tempo restante para se preparar e planejar!`;
+    } else {
+        const messages = MOTIVATIONAL_MESSAGES[health];
+        const baseMsg = messages[Math.floor(Math.random() * messages.length)];
+        // Personalize with assignee name
+        motivationalMsg = baseMsg.replace('{assignee}', assigneeName);
+    }
 
     return {
         health,
