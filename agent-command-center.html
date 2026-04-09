@@ -4942,32 +4942,6 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
         }
 
         
-        // ============================================
-        // THEME TOGGLE
-        // ============================================
-        const themeToggle = document.getElementById('themeToggle');
-        const themeIcon = document.getElementById('themeIcon');
-        const htmlEl = document.documentElement;
-
-        const savedTheme = localStorage.getItem('theme') || 'dark';
-        htmlEl.setAttribute('data-theme', savedTheme);
-        updateThemeIcon(savedTheme);
-
-        themeToggle.addEventListener('click', () => {
-            const current = htmlEl.getAttribute('data-theme');
-            const next = current === 'dark' ? 'light' : 'dark';
-            htmlEl.setAttribute('data-theme', next);
-            localStorage.setItem('theme', next);
-            updateThemeIcon(next);
-        });
-
-        function updateThemeIcon(theme) {
-            if (theme === 'dark') {
-                themeIcon.className = 'ph ph-sun';
-            } else {
-                themeIcon.className = 'ph ph-moon';
-            }
-        }
 
 // ============================================
         // THEME TOGGLE FUNCTIONALITY
@@ -4979,7 +4953,6 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
         // Load saved theme or default to dark
         const savedTheme = localStorage.getItem('theme') || 'dark';
         html.setAttribute('data-theme', savedTheme);
-        updateThemeIcon(savedTheme);
         
         function updateThemeIcon(theme) {
             if (theme === 'light') {
@@ -4990,6 +4963,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                 themeToggle.title = 'Switch to light mode';
             }
         }
+        
+        updateThemeIcon(savedTheme);
         
         themeToggle.addEventListener('click', () => {
             const currentTheme = html.getAttribute('data-theme');
