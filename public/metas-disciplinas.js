@@ -340,6 +340,7 @@ function showDisciplineDetail(subject) {
     // Show detail section, hide cards and health overview
     document.getElementById('discipline-cards-container').style.display = 'none';
     document.getElementById('discipline-detail-section').style.display = 'block';
+    document.getElementById('discipline-year-cards').style.display = 'grid'; // Ensure year cards are visible
     document.getElementById('year-health-detail-section').style.display = 'none';
     document.getElementById('health-overview-section').style.display = 'none';
     document.querySelector('.year-filter-section').style.display = 'none';
@@ -705,8 +706,15 @@ function showYearHealthDetail(subject, year) {
 }
 
 function backToDisciplineDetail() {
+    // Show year cards back
     document.getElementById('discipline-year-cards').style.display = 'grid';
+    // Hide year health detail
     document.getElementById('year-health-detail-section').style.display = 'none';
+    // Ensure parent discipline detail section is still visible
+    document.getElementById('discipline-detail-section').style.display = 'block';
+    
+    // Scroll to discipline detail section
+    document.getElementById('discipline-detail-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function getMetaHealth(remaining, targetMonth) {
