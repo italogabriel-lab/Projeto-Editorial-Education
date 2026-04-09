@@ -1868,10 +1868,16 @@
                 <div class="tutorial-intro" style="background: rgba(45, 212, 191, 0.08); border-left: 4px solid var(--accent-primary); padding: 1.25rem; border-radius: var(--radius-md); margin-bottom: 1.5rem;">
                     <h3 style="color: var(--accent-primary-light); margin: 0 0 0.75rem 0; font-size: 1.1rem;">🎯 Bem-vindo ao Centro de Comando Editorial</h3>
                     <p style="color: var(--text-secondary); margin: 0; line-height: 1.6; font-size: 0.9rem;">
-                        Este tutorial mapeia <strong>toda a estrutura do projeto</strong>: 22 agentes, 7 etapas de pipeline, workflows automatizados, 
-                        scripts de automação, templates e base de conhecimento. Use para navegar nos arquivos e entender o fluxo completo de trabalho.
+                        Este tutorial mapeia <strong>toda a estrutura do projeto</strong>: 22 agentes, 7 etapas de pipeline, workflows automatizados,
+                        scripts de automação, templates e base de conhecimento. Clique no botão abaixo para abrir a visualização completa em estilo curso.
                     </p>
                 </div>
+
+                <button onclick="openTutorialViewer()" style="width: 100%; background: linear-gradient(135deg, #f59e0b, #fbbf24); color: white; border: none; padding: 1rem 2rem; border-radius: var(--radius-lg); cursor: pointer; font-size: 1.1rem; font-weight: 700; transition: all var(--transition-base); margin-bottom: 1.5rem; display: flex; align-items: center; justify-content: center; gap: 0.75rem; box-shadow: 0 4px 16px rgba(245, 158, 11, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(245, 158, 11, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(245, 158, 11, 0.3)';">
+                    <span style="font-size: 1.5rem;">📖</span>
+                    Abrir Tutorial Interativo Completo
+                    <span style="font-size: 1.2rem;">→</span>
+                </button>
 
                 <div class="tutorial-nav-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
                     <!-- Tutorial Section Cards -->
@@ -4794,7 +4800,299 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
 
         // Initialize
         renderAgents();
+
+        // ============================================
+        // TUTORIAL VIEWER - COURSE-STYLE DOCS
+        // ============================================
+        const tutorialSections = [
+            {id:'overview',number:1,title:'Visão Geral do Projeto',icon:'🎯',color:'#2dd4bf',content:`
+                <h2>🎯 Visão Geral do Projeto Editorial</h2>
+                <div class="tutorial-content-section">
+                    <h3>O que é o Bibline Editorial Framework?</h3>
+                    <p>O <strong>BEF</strong> é um sistema completo de produção, gestão e publicação de conteúdo educacional para a Bibline Academy. Ele integra:</p>
+                    <ul><li><strong>GitHub Projects</strong> como Kanban para gestão de tarefas</li>
+                    <li><strong>22 Agentes de IA</strong> especializados em diferentes etapas</li>
+                    <li><strong>Pipeline de 7 etapas</strong> para produção de aulas</li>
+                    <li><strong>Dashboard em tempo real</strong> para monitoramento</li>
+                    <li><strong>Deploy automático</strong> para GitHub Pages e Vercel</li></ul>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Arquitetura de Alto Nível</h3>
+                    <div class="tutorial-code-block">[GitHub Projects Kanban] ←→ [GitHub Actions Sync]
+         ↓
+   [public/data.json]
+         ↓
+[Dashboard Vision Board] ←→ [Vision Board Live Sync (5min)]
+         ↓
+   [GitHub Pages / Vercel]</div>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Principais Métricas</h3>
+                    <div class="tutorial-metrics-grid">
+                        <div class="metric-card"><div class="metric-value">22</div><div class="metric-label">Agentes Ativos</div></div>
+                        <div class="metric-card"><div class="metric-value">7</div><div class="metric-label">Etapas Pipeline</div></div>
+                        <div class="metric-card"><div class="metric-value">21</div><div class="metric-label">Skills</div></div>
+                        <div class="metric-card"><div class="metric-value">~4,200</div><div class="metric-label">Aulas</div></div>
+                    </div>
+                </div>
+            `},
+            {id:'structure',number:2,title:'Estrutura de Arquivos',icon:'📁',color:'#67e8f9',content:`
+                <h2>📁 Estrutura Completa de Arquivos</h2>
+                <div class="tutorial-content-section">
+                    <h3>Root Level (Vision Board UI)</h3>
+                    <div class="tutorial-code-block">Projeto-Editorial-Education/
+├── index.html, metas.html, metas-disciplinas.html
+├── videos.html, agent-command-center.html
+├── vercel.json, README.md, QUICK_REFERENCE.md
+└── public/, src/, .github/, bef/, editorial-squad/</div>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Diretórios Principais</h3>
+                    <table class="tutorial-table"><thead><tr><th>Diretório</th><th>Conteúdo</th></tr></thead>
+                    <tbody>
+                        <tr><td><code>public/</code></td><td>data.json, app.js, styles.css</td></tr>
+                        <tr><td><code>src/</code></td><td>sync.js (GraphQL → data.json)</td></tr>
+                        <tr><td><code>.github/workflows/</code></td><td>deploy-pages.yml, data-sync.yml</td></tr>
+                        <tr><td><code>editorial-squad/</code></td><td>skills, workflows, scripts, templates</td></tr>
+                    </tbody></table>
+                </div>
+            `},
+            {id:'workflows',number:3,title:'GitHub Actions Workflows',icon:'⚙️',color:'#f472b6',content:`
+                <h2>⚙️ GitHub Actions Workflows</h2>
+                <div class="tutorial-content-section">
+                    <h3>Workflow 1: Deploy to GitHub Pages</h3>
+                    <p><strong>Trigger:</strong> Push para main (HTML/CSS/JS) ou manual</p>
+                    <p><strong>Jobs:</strong> Build (valida) → Deploy (upload pages)</p>
+                    <p><strong>URL:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Workflow 2: Vision Board Live Sync</h3>
+                    <p><strong>Trigger:</strong> Cron 5 minutos ou manual</p>
+                    <p><strong>Jobs:</strong> Checkout → Sync (GraphQL) → Verify → Commit</p>
+                    <p><strong>SLA:</strong> ~3-4 minutos total</p>
+                </div>
+            `},
+            {id:'agents',number:4,title:'Agentes e Skills (22)',icon:'🤖',color:'#8b5cf6',content:`
+                <h2>🤖 Todos os 22 Agentes</h2>
+                <div class="tutorial-content-section">
+                    <h3>Core Pipeline (7)</h3>
+                    <p><strong>Orchestrator → Researcher → Writer → Standardizer → Reviewer → Copywriter → Publisher</strong></p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Specialized (4) + Analytics (4) + Bimester (2) + Legacy (4) + Image (1)</h3>
+                    <p>Design Thinking, UI Designer, DevOps, Capitalizer, Performance Analytics, Vision Progress, Bottleneck Detector, GitHub Analyzer, Exam Builder, Review Builder, Image Generator</p>
+                </div>
+            `},
+            {id:'pipeline',number:5,title:'Pipeline 7 Etapas',icon:'🔄',color:'#34d399',content:`
+                <h2>🔄 Pipeline Editorial de 7 Etapas</h2>
+                <div class="tutorial-content-section">
+                    <div class="tutorial-code-block">1. PESQUISA (Researcher) → research_report.md
+2. REDAÇÃO (Writer) → draft_class.md
+3. FORMATAÇÃO (Standardizer+Capitalizer) → formatted_class.md
+4. REVISÃO (Reviewer) → reviewed_class.md
+5. POLIMENTO (Copywriter) → final_class.md
+6. REGISTRO → Macro atualizado
+7. PUBLICAÇÃO (Publisher) → Local + GitHub</div>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Estrutura Semanal</h3>
+                    <p>Cada semana: <code>X.1.md</code>, <code>X.2.md</code>, <code>X.3.md</code> (aulas), <code>X.4.md</code> (review), <code>X.5.md</code> (quiz)</p>
+                </div>
+            `},
+            {id:'datasync',number:6,title:'Data Sync Processes',icon:'🔗',color:'#fbbf24',content:`
+                <h2>🔗 4 Processos de Sincronização</h2>
+                <div class="tutorial-content-section">
+                    <h3>Sync 1: Kanban (5min)</h3>
+                    <p>GraphQL → ProjectV2 → data.json → Commit se mudou</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Sync 2: Titles</h3>
+                    <p>Curriculo Macro → Matriz, Visao, Tickets, H1 headers</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Sync 3: Curriculum</h3>
+                    <p>5 arquivos atualizados quando aulas mudam</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Sync 4: GitHub Issues</h3>
+                    <p>Create/update issues como cartões Kanban</p>
+                </div>
+            `},
+            {id:'ui',number:7,title:'UI Pages e Funções',icon:'🖥️',color:'#06b6d4',content:`
+                <h2>🖥️ 6 Páginas do Dashboard</h2>
+                <table class="tutorial-table"><thead><tr><th>Página</th><th>Função</th></tr></thead>
+                <tbody>
+                    <tr><td>Overview Geral</td><td>Dashboard principal com data.json</td></tr>
+                    <tr><td>Metas (Curriculo)</td><td>Tracking de metas</td></tr>
+                    <tr><td>Metas (Disciplinas)</td><td>Year Health Feature</td></tr>
+                    <tr><td>Videos Pipeline</td><td>Produção de vídeos</td></tr>
+                    <tr><td>Agent Command Center</td><td>20 agentes, workflow</td></tr>
+                    <tr><td>Tutorial (esta)</td><td>Documentação completa</td></tr>
+                </tbody></table>
+            `},
+            {id:'scripts',number:8,title:'Scripts Automação',icon:'🐍',color:'#ef4444',content:`
+                <h2>🐍 18+ Scripts Python</h2>
+                <div class="tutorial-content-section">
+                    <h3>Principais Scripts</h3>
+                    <p><code>sync_titles.py</code> (MASTER), <code>fix_lesson_h1.py</code>, <code>check_matriz.py</code>, <code>create_issues.py</code>, <code>update_backlog_tickets.py</code></p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Converters e Formatters</h3>
+                    <p><code>convert_recordar.py</code> (música→rima), <code>fix_accordion.py</code></p>
+                </div>
+            `},
+            {id:'templates',number:9,title:'Templates e Conhecimento',icon:'📝',color:'#ec4899',content:`
+                <h2>📝 Templates e Base de Conhecimento</h2>
+                <div class="tutorial-content-section">
+                    <h3>Golden Template</h3>
+                    <p><code>padrao_final_aula.md</code> — esqueleto padrão de toda aula</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>5 Habits Templates</h3>
+                    <p>Definir, Perceber, Recordar, Praticar, Narrar</p>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Knowledge Base</h3>
+                    <p>visao-geral-fluxo-editorial.md (572 linhas), doutrina-pedagogica.md, guia-de-estilo.md, rise-blocks-reference.md</p>
+                </div>
+            `},
+            {id:'workflow',number:10,title:'Como Trabalhar',icon:'🧭',color:'#14b8a6',content:`
+                <h2>🧭 Fluxo de Trabalho Diário</h2>
+                <div class="tutorial-content-section">
+                    <h3>Passos Diários</h3>
+                    <ol><li>Acesse Dashboard</li><li>Verifique Agent Command Center</li><li>Use Orchestrator para diagnóstico</li><li>Execute Pipeline</li><li>Sync títulos se necessário</li><li>Commit e Push</li></ol>
+                </div>
+                <div class="tutorial-content-section">
+                    <h3>Links Importantes</h3>
+                    <p><strong>Dashboard:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/</p>
+                    <p><strong>GitHub:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education</p>
+                    <p><strong>Kanban:</strong> https://github.com/orgs/bibline/projects/2/views/1</p>
+                </div>
+            `}
+        ];
+
+        let currentTutorialSection = 0;
+
+        function openTutorialViewer() {
+            const modal = document.getElementById('tutorial-viewer-modal');
+            if (modal) {
+                modal.style.display = 'flex';
+                document.body.style.overflow = 'hidden';
+                showTutorialSection(0);
+            }
+        }
+
+        function closeTutorialViewer() {
+            const modal = document.getElementById('tutorial-viewer-modal');
+            if (modal) {
+                modal.style.display = 'none';
+                document.body.style.overflow = 'auto';
+            }
+        }
+
+        function showTutorialSection(index) {
+            currentTutorialSection = index;
+            const section = tutorialSections[index];
+            
+            document.querySelectorAll('.tutorial-sidebar-item').forEach((item, i) => {
+                if (i === index) {
+                    item.classList.add('active');
+                    item.style.background = 'rgba(45, 212, 191, 0.1)';
+                    item.style.borderLeft = '3px solid #2dd4bf';
+                } else {
+                    item.classList.remove('active');
+                    item.style.background = 'transparent';
+                    item.style.borderLeft = '3px solid transparent';
+                }
+            });
+            
+            const contentEl = document.getElementById('tutorial-content-area');
+            if (contentEl) {
+                contentEl.innerHTML = section.content;
+                contentEl.scrollTop = 0;
+            }
+            
+            const progressEl = document.getElementById('tutorial-progress-bar');
+            if (progressEl) progressEl.style.width = ((index + 1) / tutorialSections.length * 100) + '%';
+            
+            const counterEl = document.getElementById('tutorial-section-counter');
+            if (counterEl) counterEl.textContent = `Seção ${index + 1} de ${tutorialSections.length}`;
+            
+            const prevBtn = document.getElementById('tutorial-prev-btn');
+            const nextBtn = document.getElementById('tutorial-next-btn');
+            if (prevBtn) prevBtn.style.opacity = index === 0 ? '0.5' : '1';
+            if (nextBtn) nextBtn.style.opacity = index === tutorialSections.length - 1 ? '0.5' : '1';
+        }
+
+        function navigateTutorial(direction) {
+            const newIndex = currentTutorialSection + direction;
+            if (newIndex >= 0 && newIndex < tutorialSections.length) showTutorialSection(newIndex);
+        }
+
+        function generateTutorialSidebar() {
+            const sidebar = document.getElementById('tutorial-sidebar');
+            if (!sidebar) return;
+            sidebar.innerHTML = tutorialSections.map((s, i) => `
+                <div class="tutorial-sidebar-item" onclick="showTutorialSection(${i})" style="padding: 0.75rem 1rem; cursor: pointer; border-left: 3px solid transparent; margin: 0.25rem 0; transition: all 0.2s;">
+                    <div style="display: flex; align-items: center; gap: 0.75rem;">
+                        <span style="font-size: 1.2rem;">${s.icon}</span>
+                        <div style="color: var(--text-primary); font-size: 0.85rem; font-weight: 600;">${s.number}. ${s.title}</div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        generateTutorialSidebar();
     </script>
+
+    <!-- TUTORIAL VIEWER MODAL -->
+    <div id="tutorial-viewer-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); z-index: 10000; flex-direction: column;">
+        <div style="background: rgba(30,30,36,0.98); padding: 1rem 1.5rem; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center;">
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <span style="font-size: 1.5rem;">📚</span>
+                <div>
+                    <h2 style="margin: 0; color: var(--text-primary); font-size: 1.2rem;">Tutorial do Fluxo Editorial</h2>
+                    <p id="tutorial-section-counter" style="margin: 0; color: var(--text-muted); font-size: 0.8rem;">Seção 1 de 10</p>
+                </div>
+            </div>
+            <button onclick="closeTutorialViewer()" style="background: rgba(255,255,255,0.1); border: none; color: white; width: 36px; height: 36px; border-radius: 50%; cursor: pointer; font-size: 1.2rem;">✕</button>
+        </div>
+        <div style="flex: 1; display: flex; overflow: hidden;">
+            <div style="width: 280px; background: rgba(24,24,29,0.98); border-right: 1px solid var(--border-color); overflow-y: auto; padding: 1rem 0;">
+                <div style="padding: 0 1rem 1rem; border-bottom: 1px solid var(--border-color); margin-bottom: 1rem;">
+                    <div style="background: rgba(255,255,255,0.05); height: 6px; border-radius: 3px; overflow: hidden;">
+                        <div id="tutorial-progress-bar" style="width: 10%; height: 100%; background: linear-gradient(90deg, #2dd4bf, #67e8f9); transition: width 0.3s;"></div>
+                    </div>
+                </div>
+                <div id="tutorial-sidebar"></div>
+            </div>
+            <div style="flex: 1; overflow-y: auto; background: var(--bg-primary); padding: 2rem;" id="tutorial-content-area"></div>
+        </div>
+        <div style="background: rgba(30,30,36,0.98); padding: 1rem 1.5rem; border-top: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center;">
+            <button id="tutorial-prev-btn" onclick="navigateTutorial(-1)" style="background: var(--accent-primary); color: white; border: none; padding: 0.6rem 1.5rem; border-radius: var(--radius-md); cursor: pointer; font-weight: 600;">← Anterior</button>
+            <button id="tutorial-next-btn" onclick="navigateTutorial(1)" style="background: var(--accent-primary); color: white; border: none; padding: 0.6rem 1.5rem; border-radius: var(--radius-md); cursor: pointer; font-weight: 600;">Próximo →</button>
+        </div>
+    </div>
+
+    <style>
+        .tutorial-content-section { margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border-color); }
+        .tutorial-content-section:last-child { border-bottom: none; }
+        .tutorial-content-section h3 { color: var(--accent-primary-light); margin-bottom: 0.75rem; }
+        .tutorial-code-block { background: rgba(0,0,0,0.3); padding: 1rem; border-radius: var(--radius-md); font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; overflow-x: auto; white-space: pre; line-height: 1.6; }
+        .tutorial-table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        .tutorial-table th, .tutorial-table td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border-color); }
+        .tutorial-table th { background: rgba(255,255,255,0.05); color: var(--accent-primary-light); font-weight: 600; }
+        .tutorial-metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .metric-card { background: rgba(255,255,255,0.05); padding: 1rem; border-radius: var(--radius-md); text-align: center; }
+        .metric-value { font-size: 2rem; font-weight: 700; color: var(--accent-primary-light); }
+        .metric-label { font-size: 0.85rem; color: var(--text-secondary); margin-top: 0.5rem; }
+        .tutorial-info-card { background: rgba(45,212,191,0.08); border-left: 3px solid var(--accent-primary); padding: 1rem; border-radius: var(--radius-md); margin: 1rem 0; }
+        .tutorial-links-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 1rem 0; }
+        .tutorial-link { display: block; background: rgba(255,255,255,0.05); padding: 1rem; border-radius: var(--radius-md); text-decoration: none; color: var(--accent-primary-light); text-align: center; transition: all 0.2s; }
+        .tutorial-link:hover { background: rgba(45,212,191,0.15); transform: translateY(-2px); }
+        .tutorial-sidebar-item:hover { background: rgba(255,255,255,0.03) !important; }
+        .tutorial-sidebar-item.active { background: rgba(45,212,191,0.1) !important; border-left: 3px solid #2dd4bf !important; }
+    </style>
 </body>
 
 </html>
