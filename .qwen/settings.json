@@ -37,7 +37,8 @@
       "Bash(rm *)",
       "Bash(sed *)",
       "Bash(python3 *)",
-      "Bash(jq *)"
+      "Bash(jq *)",
+      "WebFetch(italogabriel-lab.github.io)"
     ]
   },
   "$version": 3
