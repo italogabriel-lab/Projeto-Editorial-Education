@@ -14,103 +14,175 @@
     <style>
         /* ============================================
            DESIGN SYSTEM - FLUXO EDITORIAL ACADEMY
-           Premium Modern Design
+           Premium Enterprise UI/UX Design
            ============================================ */
-        :root {
-            /* Colors - Charcoal Dark Palette (Rumah style) */
-            --bg-primary: #131316;
-            --bg-secondary: #1a1a1f;
-            --bg-tertiary: #222228;
-            --bg-card: rgba(30, 30, 36, 0.85);
-            --bg-card-hover: rgba(40, 40, 48, 0.95);
+        
+        /* Dark Theme (Default) */
+        [data-theme="dark"] {
+            --bg-primary: #0f1117;
+            --bg-secondary: #161822;
+            --bg-tertiary: #1e2030;
+            --bg-card: rgba(22, 24, 35, 0.8);
+            --bg-card-hover: rgba(30, 32, 48, 0.95);
             --bg-glass: rgba(255, 255, 255, 0.03);
-            --bg-sidebar: #18181d;
-
-            /* Accent Colors - Teal/Cyan Primary */
-            --accent-primary: #2dd4bf;
-            --accent-primary-light: #5eead4;
-            --accent-primary-glow: rgba(45, 212, 191, 0.2);
+            --bg-sidebar: #131520;
+            --bg-elevated: #1a1d2e;
             
-            --accent-secondary: #67e8f9;
-            --accent-secondary-glow: rgba(103, 232, 249, 0.15);
+            --accent-primary: #06b6d4;
+            --accent-primary-light: #22d3ee;
+            --accent-primary-dark: #0891b2;
+            --accent-primary-glow: rgba(6, 182, 212, 0.15);
             
-            --accent-tertiary: #fbbf24;
-            --accent-tertiary-glow: rgba(251, 191, 36, 0.15);
+            --accent-secondary: #8b5cf6;
+            --accent-secondary-light: #a78bfa;
+            --accent-secondary-glow: rgba(139, 92, 246, 0.15);
             
-            --accent-quaternary: #a78bfa;
-            --accent-quaternary-glow: rgba(167, 139, 250, 0.15);
+            --accent-tertiary: #f59e0b;
+            --accent-tertiary-glow: rgba(245, 158, 11, 0.15);
+            
+            --accent-quaternary: #ec4899;
+            --accent-quaternary-glow: rgba(236, 72, 153, 0.15);
+            
+            --accent-core: #10b981;
+            --accent-core-glow: rgba(16, 185, 129, 0.15);
+            --accent-specialized: #06b6d4;
+            --accent-specialized-glow: rgba(6, 182, 212, 0.15);
+            --accent-analytics: #f43f5e;
+            --accent-analytics-glow: rgba(244, 63, 94, 0.15);
+            --accent-bimester: #8b5cf6;
+            --accent-bimester-glow: rgba(139, 92, 246, 0.15);
+            --accent-legacy: #64748b;
+            --accent-legacy-glow: rgba(100, 116, 139, 0.15);
+            
+            --text-primary: #f8fafc;
+            --text-secondary: #cbd5e1;
+            --text-tertiary: #94a3b8;
+            --text-muted: #64748b;
+            --text-inverse: #0f1117;
+            
+            --border-color: rgba(148, 163, 184, 0.1);
+            --border-light: rgba(148, 163, 184, 0.05);
+            --border-strong: rgba(148, 163, 184, 0.2);
+            
+            --status-active: #10b981;
+            --status-warning: #f59e0b;
+            --status-error: #ef4444;
+            --status-info: #06b6d4;
+            --status-legacy: #64748b;
+            
+            --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.3);
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
+            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+            --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
+            --shadow-xl: 0 24px 56px rgba(0, 0, 0, 0.7);
+            --shadow-glow: 0 0 30px rgba(6, 182, 212, 0.1);
+        }
 
-            /* Category Colors - Softer tones */
-            --accent-core: #2dd4bf;
-            --accent-core-glow: rgba(45, 212, 191, 0.15);
-            --accent-specialized: #67e8f9;
-            --accent-specialized-glow: rgba(103, 232, 249, 0.15);
-            --accent-analytics: #f9a8d4;
-            --accent-analytics-glow: rgba(249, 168, 212, 0.15);
-            --accent-bimester: #a78bfa;
-            --accent-bimester-glow: rgba(167, 139, 250, 0.15);
-            --accent-legacy: #6b7280;
-            --accent-legacy-glow: rgba(107, 114, 128, 0.15);
+        /* Light Theme */
+        [data-theme="light"] {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #f1f5f9;
+            --bg-tertiary: #e2e8f0;
+            --bg-card: rgba(255, 255, 255, 0.9);
+            --bg-card-hover: rgba(255, 255, 255, 1);
+            --bg-glass: rgba(15, 17, 23, 0.02);
+            --bg-sidebar: #ffffff;
+            --bg-elevated: #ffffff;
+            
+            --accent-primary: #0891b2;
+            --accent-primary-light: #06b6d4;
+            --accent-primary-dark: #0e7490;
+            --accent-primary-glow: rgba(8, 145, 178, 0.1);
+            
+            --accent-secondary: #7c3aed;
+            --accent-secondary-light: #8b5cf6;
+            --accent-secondary-glow: rgba(124, 58, 237, 0.1);
+            
+            --accent-tertiary: #d97706;
+            --accent-tertiary-glow: rgba(217, 119, 6, 0.1);
+            
+            --accent-quaternary: #db2777;
+            --accent-quaternary-glow: rgba(219, 39, 119, 0.1);
+            
+            --accent-core: #059669;
+            --accent-core-glow: rgba(5, 150, 105, 0.1);
+            --accent-specialized: #0891b2;
+            --accent-specialized-glow: rgba(8, 145, 178, 0.1);
+            --accent-analytics: #e11d48;
+            --accent-analytics-glow: rgba(225, 29, 72, 0.1);
+            --accent-bimester: #7c3aed;
+            --accent-bimester-glow: rgba(124, 58, 237, 0.1);
+            --accent-legacy: #475569;
+            --accent-legacy-glow: rgba(71, 85, 105, 0.1);
+            
+            --text-primary: #0f172a;
+            --text-secondary: #334155;
+            --text-tertiary: #64748b;
+            --text-muted: #94a3b8;
+            --text-inverse: #ffffff;
+            
+            --border-color: rgba(15, 23, 42, 0.08);
+            --border-light: rgba(15, 23, 42, 0.04);
+            --border-strong: rgba(15, 23, 42, 0.15);
+            
+            --status-active: #059669;
+            --status-warning: #d97706;
+            --status-error: #dc2626;
+            --status-info: #0891b2;
+            --status-legacy: #64748b;
+            
+            --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.05);
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.12);
+            --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.15);
+            --shadow-xl: 0 24px 56px rgba(0, 0, 0, 0.18);
+            --shadow-glow: 0 0 30px rgba(8, 145, 178, 0.08);
+        }
 
-            /* Text Colors */
-            --text-primary: #f0f0f5;
-            --text-secondary: #9ca3af;
-            --text-tertiary: #6b7280;
-            --text-muted: #4b5563;
-
-            /* Border & Divider */
-            --border-color: rgba(255, 255, 255, 0.06);
-            --border-light: rgba(255, 255, 255, 0.03);
-            --border-glow: rgba(45, 212, 191, 0.25);
-
-            /* Status Colors */
-            --status-active: #34d399;
-            --status-warning: #fbbf24;
-            --status-error: #f87171;
-            --status-legacy: #6b7280;
-
-            /* Spacing */
-            --spacing-xs: 0.25rem;
-            --spacing-sm: 0.5rem;
-            --spacing-md: 1rem;
-            --spacing-lg: 1.5rem;
-            --spacing-xl: 2rem;
-            --spacing-2xl: 3rem;
-            --spacing-3xl: 4rem;
-
-            /* Border Radius - Extra Rounded (Rumah style) */
-            --radius-sm: 0.5rem;
-            --radius-md: 0.75rem;
-            --radius-lg: 1rem;
-            --radius-xl: 1.25rem;
-            --radius-2xl: 1.5rem;
-            --radius-3xl: 1.75rem;
+        :root {
+            /* Typography Scale */
+            --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+            
+            --text-xs: 0.75rem;
+            --text-sm: 0.875rem;
+            --text-base: 1rem;
+            --text-lg: 1.125rem;
+            --text-xl: 1.25rem;
+            --text-2xl: 1.5rem;
+            --text-3xl: 1.875rem;
+            --text-4xl: 2.25rem;
+            
+            /* Spacing System (4px base) */
+            --space-1: 0.25rem;   /* 4px */
+            --space-2: 0.5rem;    /* 8px */
+            --space-3: 0.75rem;   /* 12px */
+            --space-4: 1rem;      /* 16px */
+            --space-5: 1.25rem;   /* 20px */
+            --space-6: 1.5rem;    /* 24px */
+            --space-8: 2rem;      /* 32px */
+            --space-10: 2.5rem;   /* 40px */
+            --space-12: 3rem;     /* 48px */
+            --space-16: 4rem;     /* 64px */
+            
+            /* Border Radius */
+            --radius-sm: 0.375rem;  /* 6px */
+            --radius-md: 0.5rem;    /* 8px */
+            --radius-lg: 0.75rem;   /* 12px */
+            --radius-xl: 1rem;      /* 16px */
+            --radius-2xl: 1.25rem;  /* 20px */
             --radius-full: 9999px;
-
-            /* Shadows - Softer, less intense */
-            --shadow-xs: 0 1px 3px rgba(0, 0, 0, 0.2);
-            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
-            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.3);
-            --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.35);
-            --shadow-xl: 0 24px 56px rgba(0, 0, 0, 0.4);
-            --shadow-glow: 0 0 40px rgba(45, 212, 191, 0.1);
-            --shadow-glow-secondary: 0 0 40px rgba(103, 232, 249, 0.1);
-
+            
             /* Transitions */
             --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
-
-            /* Typography */
-            --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+            --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
         }
 
         /* ============================================
-           RESET & BASE STYLES
+           BASE RESET & GLOBAL STYLES
            ============================================ */
-        * {
+        *, *::before, *::after {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -118,15 +190,20 @@
 
         html {
             scroll-behavior: smooth;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
 
         body {
             font-family: var(--font-sans);
-            background: var(--bg-primary);
-            color: var(--text-primary);
+            font-size: var(--text-base);
+            font-weight: 400;
             line-height: 1.6;
+            color: var(--text-primary);
+            background: var(--bg-primary);
             min-height: 100vh;
             overflow-x: hidden;
+            transition: background var(--transition-slow), color var(--transition-slow);
         }
 
         /* ============================================
@@ -2135,7 +2212,7 @@ WORKFLOW:
 - Aprovações do Guardian registradas?
 - Versionamento correto no GitHub?
 
- Gere um relatório com: ✅ Passou, ⚠️ Atenção, ❌ Crítico para cada item.`
+ Gere um relatório com: <span class="icon-check"></span> Passou, <span class="icon-warning"></span> Atenção, <span class="icon-error"></span> Crítico para cada item.`
                         }
                     ],
                     skills: ['Diagnóstico de progresso', 'Priorização de tarefas', 'Delegação inteligente', 'Auditoria editorial', 'Visão holística'],
@@ -2438,67 +2515,67 @@ ARQUIVO PARA REVISÃO: <arquivo>
 
 CHECKLIST DE 13 CATEGORIAS:
 
-1. ✅ ESTRUTURA PEDAGÓGICA
+1. <span class="icon-check"></span> ESTRUTURA PEDAGÓGICA
    - Golden template aplicado corretamente?
    - 5 Hábitos da Gramática presentes?
    - Progressão pedagógica lógica?
 
-2. ✅ PRECISÃO DOUTRINÁRIA
+2. <span class="icon-check"></span> PRECISÃO DOUTRINÁRIA
    - Conteúdo alinhado à Educação Clássica Cristã Reformada?
    - Referências bíblicas corretas?
    - Teologia reformada precisa?
 
-3. ✅ FACT-CHECKING
+3. <span class="icon-check"></span> FACT-CHECKING
    - Todas as afirmações factuais verificadas?
    - Datas, nomes, lugares corretos?
    - Citações de fontes primárias precisas?
 
-4. ✅ CLAREZA E COERÊNCIA
+4. <span class="icon-check"></span> CLAREZA E COERÊNCIA
    - Texto claro e compreensível?
    - Transições lógicas entre seções?
    - Sem contradições internas?
 
-5. ✅ VOZ ATIVA
+5. <span class="icon-check"></span> VOZ ATIVA
    - Todas as frases em voz ativa?
    - Instruções no imperativo?
    - Sem voz passiva desnecessária?
 
-6. ✅ CAPITALIZAÇÃO
+6. <span class="icon-check"></span> CAPITALIZAÇÃO
    - Padrão europeu (sentence-case)?
    - Nomes próprios corretos?
    - Consistência em todo o documento?
 
-7. ✅ GRAMÁTICA E ORTOGRAFIA
+7. <span class="icon-check"></span> GRAMÁTICA E ORTOGRAFIA
    - Sem erros gramaticais?
    - Ortografia correta?
    - Pontuação adequada?
 
-8. ✅ FORMATAÇÃO RISE
+8. <span class="icon-check"></span> FORMATAÇÃO RISE
    - Rise Blocks aplicados corretamente?
    - Hierarquia de títulos consistente?
    - Listas e citações formatadas?
 
-9. ✅ RECURSOS VISUAIS
+9. <span class="icon-check"></span> RECURSOS VISUAIS
    - Imagens presentes e funcionais?
    - Alt text descritivo?
    - Legends e créditos?
 
-10. ✅ REFERÊNCIAS E LINKS
+10. <span class="icon-check"></span> REFERÊNCIAS E LINKS
     - Todas as fontes citadas?
     - Links funcionais?
     - Referências completas?
 
-11. ✅ ATIVIDADES E AVALIAÇÕES
+11. <span class="icon-check"></span> ATIVIDADES E AVALIAÇÕES
     - Exercícios claros?
     - Critérios de avaliação?
     - Alinhado aos objetivos?
 
-12. ✅ ACESSIBILIDADE
+12. <span class="icon-check"></span> ACESSIBILIDADE
     - WCAG 2.1 AA compliant?
     - Alt text em imagens?
     - Contraste adequado?
 
-13. ✅ VERSIONAMENTO
+13. <span class="icon-check"></span> VERSIONAMENTO
     - Metadata completa (autor, data, versão)?
     - Changelog atualizado?
     - Tags corretas?
@@ -2506,9 +2583,9 @@ CHECKLIST DE 13 CATEGORIAS:
 RELATÓRIO DE REVISÃO:
 
 Para cada categoria, forneça:
-- ✅ APROVADO (sem problemas)
-- ⚠️ ATENÇÃO (problemas menores, lista quais)
-- ❌ REPROVADO (problemas críticos, lista quais)
+- <span class="icon-check"></span> APROVADO (sem problemas)
+- <span class="icon-warning"></span> ATENÇÃO (problemas menores, lista quais)
+- <span class="icon-error"></span> REPROVADO (problemas críticos, lista quais)
 
 PROBLEMAS ENCONTRADOS:
  Liste cada problema com:
@@ -2575,10 +2652,10 @@ FORMATAÇÃO FINAL:
 ✓ Citações formatadas?
 
 REGRAS IMPORTANTES:
-⚠️ NÃO altere definições validadas pelo Guardian
-⚠️ NÃO mude conteúdo doutrinário aprovado
-⚠️ NÃO modifique referências bíblicas verificadas
-⚠️ NÃO reescreva seções já revisadas
+<span class="icon-warning"></span> NÃO altere definições validadas pelo Guardian
+<span class="icon-warning"></span> NÃO mude conteúdo doutrinário aprovado
+<span class="icon-warning"></span> NÃO modifique referências bíblicas verificadas
+<span class="icon-warning"></span> NÃO reescreva seções já revisadas
 
 FOCO APENAS EM:
 - Melhorias cosméticas de apresentação
@@ -2659,15 +2736,15 @@ ETAPAS DE PUBLICAÇÃO:
 
 RELATÓRIO DE PUBLICAÇÃO:
 Gere um relatório confirmando:
-- ✅ Localização do arquivo
-- ✅ Metadata aplicada
-- ✅ Registro no Macro
-- ✅ Git commit/PR criado
-- ✅ Índices atualizados
-- ✅ Notificações enviadas
+- <span class="icon-check"></span> Localização do arquivo
+- <span class="icon-check"></span> Metadata aplicada
+- <span class="icon-check"></span> Registro no Macro
+- <span class="icon-check"></span> Git commit/PR criado
+- <span class="icon-check"></span> Índices atualizados
+- <span class="icon-check"></span> Notificações enviadas
 
 Em caso de erro, especifique:
-- ❌ Etapa que falhou
+- <span class="icon-error"></span> Etapa que falhou
 - Motivo da falha
 - Ação corretiva sugerida`
                         }
@@ -3431,7 +3508,7 @@ ANÁLISE COMPLETA:
    - Número de aulas
    - Imagens necessárias
    - Imagens geradas
-   - Status: ✅ Completo, ⚠️ Parcial, ❌ Pendente
+   - Status: <span class="icon-check"></span> Completo, <span class="icon-warning"></span> Parcial, <span class="icon-error"></span> Pendente
    - Links para imagens existentes
 
 3. QUALIDADE
@@ -3960,7 +4037,7 @@ FORMATO: Relatório analítico completo com dados visuais e insights acionáveis
                     originalName: 'Vision Progress Engine',
                     icon: '<i class="ph ph-circle-half'></i>',
                     role: 'Motor de metas — compara concluído vs prazos',
-                    description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
+                    description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: <span class="icon-check"></span> Dentro da meta, <span class="icon-warning"></span> Risco, <span class="icon-error"></span> Atrasado.',
                     status: 'active',
                     commands: [
                         {
@@ -3991,18 +4068,18 @@ ANÁLISE DE PROGRESSO:
    - Esperado: N aulas
    - Realizado: N aulas
    - Diferença: +N / -N
-   - Status: ✅ Dentro, ⚠️ Risco, ❌ Atrasado
+   - Status: <span class="icon-check"></span> Dentro, <span class="icon-warning"></span> Risco, <span class="icon-error"></span> Atrasado
 
 4. CLASSIFICAÇÃO DE STATUS
-   ✅ DENTRO DA META:
+   <span class="icon-check"></span> DENTRO DA META:
    - Realizado >= 90% do esperado
    - No timeline ou adiantado
 
-   ⚠️ EM RISCO:
+   <span class="icon-warning"></span> EM RISCO:
    - Realizado entre 70-89% do esperado
    - Pequeno atraso recuperável
 
-   ❌ ATRASADO:
+   <span class="icon-error"></span> ATRASADO:
    - Realizado < 70% do esperado
    - Atraso significativo
    - Ação corretiva necessária
@@ -4049,7 +4126,7 @@ PROCESSO DE ATUALIZAÇÃO:
 2. CÁLCULO DE MÉTRICAS
    Para cada disciplina/ano:
    - Progresso percentual
-   - Status (✅/⚠️/❌)
+   - Status (<span class="icon-check"></span>/<span class="icon-warning"></span>/<span class="icon-error"></span>)
    - Velocidade atual
    - Projeção de conclusão
    - Dias até deadline
@@ -4169,10 +4246,10 @@ ANÁLISE DE GARGALOS:
 
 7. SEVERIDADE
    Classifique cada gargalo:
-   🔴 CRÍTICO: Impacta múltiplas disciplinas/deadlines
+    CRÍTICO: Impacta múltiplas disciplinas/deadlines
    🟠 ALTO: Impacta deadline significativo
-   🟡 MÉDIO: Atraso recuperável
-   🟢 BAIXO: Incômodo menor
+    MÉDIO: Atraso recuperável
+    BAIXO: Incômodo menor
 
 8. INSIGHTS ACIONÁVEIS
    Para cada gargalo:
@@ -4284,7 +4361,7 @@ DADOS:
 - Disciplina: <disciplina>
 
 REGRA FUNDAMENTAL:
-⚠️ NÃO crie conteúdo novo - apenas COPIE e ORGANIZE conteúdo existente!
+<span class="icon-warning"></span> NÃO crie conteúdo novo - apenas COPIE e ORGANIZE conteúdo existente!
 
 PROCESSO:
 
@@ -4729,7 +4806,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
             navigator.clipboard.writeText(text).then(() => {
                 btn.classList.add('copied');
                 const originalHTML = btn.innerHTML;
-                btn.innerHTML = '✅ Copiado!';
+                btn.innerHTML = '<span class="icon-check"></span> Copiado!';
                 
                 showToast('Prompt copiado para a área de transferência!');
                 
@@ -4891,6 +4968,37 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                 themeIcon.className = 'ph ph-moon';
             }
         }
+
+// ============================================
+        // THEME TOGGLE FUNCTIONALITY
+        // ============================================
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const html = document.documentElement;
+        
+        // Load saved theme or default to dark
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        html.setAttribute('data-theme', savedTheme);
+        updateThemeIcon(savedTheme);
+        
+        function updateThemeIcon(theme) {
+            if (theme === 'light') {
+                themeIcon.className = 'ph ph-moon';
+                themeToggle.title = 'Switch to dark mode';
+            } else {
+                themeIcon.className = 'ph ph-sun';
+                themeToggle.title = 'Switch to light mode';
+            }
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = html.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeIcon(newTheme);
+        });
 
 // Initialize
         renderAgents();
