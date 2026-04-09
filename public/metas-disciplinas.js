@@ -94,10 +94,30 @@ document.addEventListener('DOMContentLoaded', () => {
     // Year filter buttons
     document.querySelectorAll('.year-filter-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-            document.querySelectorAll('.year-filter-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.year-filter-btn').forEach(b => {
+                b.classList.remove('active');
+                b.style.transform = 'scale(1)';
+                b.style.boxShadow = 'none';
+            });
             btn.classList.add('active');
+            btn.style.transform = 'scale(1.05)';
+            btn.style.boxShadow = '0 4px 12px rgba(45, 212, 191, 0.3)';
+            
             const year = btn.dataset.year;
             filterByYear(year);
+        });
+        
+        // Add hover effects
+        btn.addEventListener('mouseenter', () => {
+            if (!btn.classList.contains('active')) {
+                btn.style.transform = 'scale(1.03)';
+            }
+        });
+        
+        btn.addEventListener('mouseleave', () => {
+            if (!btn.classList.contains('active')) {
+                btn.style.transform = 'scale(1)';
+            }
         });
     });
 
@@ -112,11 +132,28 @@ let currentYearFilter = 'all';
 
 function filterByYear(year) {
     currentYearFilter = year;
-    renderDisciplineCards(currentItems);
+    
+    let filteredItems = currentItems;
+    
+    if (year !== 'all') {
+        const yearNum = parseInt(year);
+        filteredItems = currentItems.filter(item => item.year === yearNum);
+    }
+    
+    renderDisciplineCards(filteredItems);
+    
+    // If currently viewing discipline detail, update it
+    const detailSection = document.getElementById('discipline-detail-section');
+    if (detailSection && detailSection.style.display === 'block') {
+        const disciplineName = document.getElementById('discipline-detail-name').textContent;
+        if (disciplineName) {
+            showDisciplineDetail(disciplineName);
+        }
+    }
 }
 
 function renderDisciplineCards(items) {
-    currentItems = items;
+    currentItems = items.length > 0 ? items : currentItems;
     const yearStats = { 1: { t: 0, d: 0 }, 2: { t: 0, d: 0 }, 3: { t: 0, d: 0 }, 4: { t: 0, d: 0 }, 5: { t: 0, d: 0 } };
     const subjectStats = {};
 
@@ -145,15 +182,37 @@ function renderDisciplineCards(items) {
     const container = document.getElementById('discipline-cards-container');
     const sortedSubs = Object.keys(subjectStats).sort((a, b) => subjectStats[b].d - subjectStats[a].d);
 
+    // Update filter subtitle to show current context
+    const filterSubtitle = document.getElementById('year-filter-subtitle');
+    if (filterSubtitle) {
+        if (currentYearFilter === 'all') {
+            filterSubtitle.textContent = 'Mostrando todos os anos combinados';
+        } else {
+            const yearNames = ['', '1º Ano', '2º Ano', '3º Ano', '4º Ano', '5º Ano'];
+            filterSubtitle.textContent = `Filtrado: ${yearNames[currentYearFilter]} apenas`;
+        }
+    }
+
     let html = '';
     sortedSubs.forEach(sub => {
         const st = subjectStats[sub];
         if (st.t === 0) return;
 
-        const totalMetaDisciplina = META_POR_DISCIPLINA_TOTAL;
-        const pct = Math.round((st.d / totalMetaDisciplina) * 100) || 0;
-        const color = getProgressColor(pct);
-        const colorHex = getProgressColorHex(pct);
+        // Calculate progress based on filter
+        let totalMeta, produced, displayPct;
+        if (currentYearFilter === 'all') {
+            totalMeta = META_POR_DISCIPLINA_TOTAL;
+            produced = st.d;
+            displayPct = Math.round((produced / totalMeta) * 100) || 0;
+        } else {
+            totalMeta = META_POR_DISCIPLINA_ANO;
+            const yearData = st.years[currentYearFilter] || { t: 0, d: 0 };
+            produced = yearData.d;
+            displayPct = Math.round((produced / totalMeta) * 100) || 0;
+        }
+        
+        const color = getProgressColor(displayPct);
+        const colorHex = getProgressColorHex(displayPct);
 
         const subjectIcons = {
             'História': '<i class="ph ph-book-bookmark"></i>',
@@ -174,19 +233,19 @@ function renderDisciplineCards(items) {
                     </div>
                     <div style="flex: 1;">
                         <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--text-primary); margin: 0 0 4px 0;">${sub}</h3>
-                        <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Clique para ver detalhes por ano</p>
+                        <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">${currentYearFilter === 'all' ? 'Clique para ver detalhes por ano' : `Dados do ${['', '1º', '2º', '3º', '4º', '5º'][currentYearFilter]} Ano`}</p>
                     </div>
                 </div>
                 <div style="margin-bottom: 1rem;">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                        <span style="font-size: 0.85rem; color: var(--text-secondary);">Progresso Total</span>
-                        <span style="font-size: 1.1rem; font-weight: 700; color: ${colorHex};">${pct}%</span>
+                        <span style="font-size: 0.85rem; color: var(--text-secondary);">Progresso ${currentYearFilter === 'all' ? 'Total' : ['', '1º Ano', '2º Ano', '3º Ano', '4º Ano', '5º Ano'][currentYearFilter]}</span>
+                        <span style="font-size: 1.1rem; font-weight: 700; color: ${colorHex};">${displayPct}%</span>
                     </div>
                     <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.08); border-radius: 4px; overflow: hidden;">
-                        <div style="width: ${pct}%; height: 100%; background: ${colorHex}; transition: width 0.3s;"></div>
+                        <div style="width: ${displayPct}%; height: 100%; background: ${colorHex}; transition: width 0.3s;"></div>
                     </div>
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: right;">
-                        ${st.d} / ${totalMetaDisciplina} aulas
+                        ${produced} / ${totalMeta} aulas
                     </div>
                 </div>
                 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; padding-top: 1rem; border-top: 1px solid var(--border-glass);">
@@ -196,10 +255,16 @@ function renderDisciplineCards(items) {
             const yr = st.years[ano] || { t: 0, d: 0 };
             const yrPct = yr.t > 0 ? Math.round((yr.d / META_POR_DISCIPLINA_ANO) * 100) : 0;
             const yrColor = getProgressColorHex(yrPct);
+            
+            // Highlight the filtered year
+            const isFilteredYear = currentYearFilter !== 'all' && parseInt(currentYearFilter) === ano;
+            const highlightStyle = isFilteredYear ? `border: 2px solid ${yrColor}; border-radius: 6px; padding: 4px 2px; background: ${yrColor}11;` : '';
+            
             html += `
-                <div style="text-align: center;">
+                <div style="text-align: center; ${highlightStyle}">
                     <div style="font-size: 0.7rem; color: var(--text-muted); margin-bottom: 4px;">${ano}º Ano</div>
                     <div style="font-size: 0.85rem; font-weight: 600; color: ${yrColor};">${yrPct}%</div>
+                    ${isFilteredYear ? '<div style="font-size: 0.6rem; color: ' + yrColor + '; margin-top: 2px;">●</div>' : ''}
                 </div>
             `;
         });
