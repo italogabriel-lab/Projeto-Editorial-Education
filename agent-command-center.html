@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="dark">
 
 <head>
     <meta charset="UTF-8">
@@ -10,6 +10,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
         rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <style>
         /* ============================================
            DESIGN SYSTEM - FLUXO EDITORIAL ACADEMY
@@ -1037,7 +1038,68 @@
         /* ============================================
            RESPONSIVE
            ============================================ */
-        @media (max-width: 1024px) {
+        
+        /* Theme Toggle Button */
+        .theme-toggle {
+            width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;
+            background: var(--bg-tertiary); border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg); color: var(--text-secondary);
+            font-size: 1.125rem; cursor: pointer; transition: all var(--transition-base);
+            flex-shrink: 0;
+        }
+        .theme-toggle:hover { background: var(--bg-card-hover); color: var(--accent-primary); border-color: var(--accent-primary); }
+        .theme-toggle i { transition: transform var(--transition-slow); }
+        .theme-toggle:hover i { transform: rotate(15deg); }
+
+        /* Light Theme Overrides */
+        [data-theme="light"] {
+            --bg-primary: #f8fafc;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f1f5f9;
+            --bg-card: rgba(255, 255, 255, 0.95);
+            --bg-card-hover: #ffffff;
+            --bg-glass: rgba(0, 0, 0, 0.02);
+            --bg-input: #ffffff;
+            --bg-sidebar: #f1f5f9;
+            --bg-elevated: #ffffff;
+
+            --accent-primary: #0891b2;
+            --accent-primary-hover: #0e7490;
+            --accent-primary-muted: rgba(8, 145, 178, 0.08);
+            --accent-primary-glow: rgba(8, 145, 178, 0.12);
+            --accent-secondary: #0284c7;
+            --accent-tertiary: #d97706;
+            --accent-quaternary: #7c3aed;
+
+            --accent-core: #0891b2; --accent-core-glow: rgba(8,145,178,0.12);
+            --accent-specialized: #0284c7; --accent-specialized-glow: rgba(2,132,199,0.12);
+            --accent-analytics: #db2777; --accent-analytics-glow: rgba(219,39,119,0.12);
+            --accent-bimester: #7c3aed; --accent-bimester-glow: rgba(124,58,237,0.12);
+            --accent-legacy: #64748b; --accent-legacy-glow: rgba(100,116,139,0.1);
+
+            --text-primary: #0f172a;
+            --text-secondary: #475569;
+            --text-tertiary: #64748b;
+            --text-muted: #94a3b8;
+
+            --border-color: rgba(15, 23, 42, 0.08);
+            --border-light: rgba(15, 23, 42, 0.05);
+            --border-focus: rgba(8, 145, 178, 0.4);
+
+            --status-active: #059669;
+            --status-warning: #d97706;
+            --status-error: #dc2626;
+
+            --shadow-xs: 0 1px 2px rgba(0,0,0,0.04);
+            --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
+            --shadow-md: 0 6px 20px rgba(0,0,0,0.08);
+            --shadow-lg: 0 12px 32px rgba(0,0,0,0.1);
+            --shadow-xl: 0 20px 48px rgba(0,0,0,0.12);
+            --shadow-glow: 0 0 32px rgba(8,145,178,0.06);
+            --shadow-glow-secondary: 0 0 32px rgba(2,132,199,0.06);
+        }
+
+@media (max-width: 1024px) {
             .header-content {
                 flex-direction: column;
                 align-items: stretch;
@@ -1443,7 +1505,7 @@
 
     <!-- Toast Notification -->
     <div class="toast" id="toast">
-        <span class="toast-icon">✅</span>
+        <i class="ph ph-check-circle toast-icon"></i>
         <span class="toast-message">Command copied to clipboard!</span>
     </div>
 
@@ -1451,7 +1513,7 @@
     <header class="header">
         <div class="header-content">
             <div class="logo">
-                <div class="logo-icon">◈</div>
+                <div class="logo-icon"><i class="ph ph-diamond"></i></div>
                 <div class="logo-text">
                     <h1>Fluxo Editorial Academy</h1>
                     <p>Plataforma de Gestão Editorial</p>
@@ -1459,12 +1521,16 @@
             </div>
 
             <div class="search-bar">
-                <span class="search-icon">🔍</span>
+                <i class="ph ph-magnifying-glass search-icon"></i>
                 <input type="text" class="search-input" id="searchInput"
                     placeholder="Search agents by name, role, or command...">
             </div>
 
-            <div class="filter-buttons">
+            <button class="theme-toggle" id="themeToggle" title="Toggle theme">
+                    <i class="ph ph-sun" id="themeIcon"></i>
+                </button>
+
+                <div class="filter-buttons">
                 <button class="filter-btn active" data-filter="all">All</button>
                 <button class="filter-btn" data-filter="core">Core</button>
                 <button class="filter-btn" data-filter="specialized">Specialized</button>
@@ -1507,7 +1573,7 @@
             <div class="pipeline-container">
                 <div class="pipeline-header">
                     <div class="pipeline-header-left">
-                        <h3>🔄 Pipeline de Desenvolvimento de Aulas</h3>
+                        <h3><i class="ph ph-arrows-left-right" style="font-size:1.25rem;color:var(--accent-primary);vertical-align:middle;margin-right:0.5rem;"></i> Pipeline de Desenvolvimento de Aulas</h3>
                         <span class="pipeline-badge">Live</span>
                     </div>
                     <div class="pipeline-tabs">
@@ -1528,7 +1594,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('orchestrator')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">◈</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-diamond"></i></div>
                                     <div class="lane-agent-name">Maestro</div>
                                 </div>
                                 <div class="lane-agent-role">Diagnostica, prioriza e delega tarefas</div>
@@ -1541,7 +1607,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated">→</div>
+                    <div class="lane-connector flow-arrow-animated"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 1: Research -->
                     <div class="swimlane" style="--lane-color: #38bdf8;">
@@ -1553,7 +1619,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('researcher')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">⌕</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-magnifying-glass"></i></div>
                                     <div class="lane-agent-name">Seeker</div>
                                 </div>
                                 <div class="lane-agent-role">Coleta informações com metodologia Ad Fontes</div>
@@ -1566,7 +1632,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.3s">→</div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.3s"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 2: Writing -->
                     <div class="swimlane" style="--lane-color: #4ade80;">
@@ -1578,7 +1644,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('writer')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">✎</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-pen-nib"></i></div>
                                     <div class="lane-agent-name">Scribe</div>
                                 </div>
                                 <div class="lane-agent-role">Transforma pesquisa em conteúdo pedagógico</div>
@@ -1590,7 +1656,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.6s">→</div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.6s"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 3: Standardization -->
                     <div class="swimlane" style="--lane-color: #f59e0b;">
@@ -1602,7 +1668,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('standardizer')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">⬢</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-hexagon"></i></div>
                                     <div class="lane-agent-name">Architect</div>
                                 </div>
                                 <div class="lane-agent-role">Formata com Rise Blocks e correções</div>
@@ -1614,7 +1680,7 @@
                             </div>
                             <div class="lane-agent-card" onclick="scrollToAgent('capitalizer')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">ABC</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-text-aa"></i></div>
                                     <div class="lane-agent-name">Lexicon</div>
                                 </div>
                                 <div class="lane-agent-role">Padrão europeu de capitalização</div>
@@ -1625,7 +1691,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.9s">→</div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.9s"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 4: Review -->
                     <div class="swimlane" style="--lane-color: #f87171;">
@@ -1637,7 +1703,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('reviewer')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">🛡</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-shield-check"></i></div>
                                     <div class="lane-agent-name">Guardian</div>
                                 </div>
                                 <div class="lane-agent-role">QA com checklist de 13 categorias</div>
@@ -1649,7 +1715,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.2s">→</div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.2s"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 5: Polish -->
                     <div class="swimlane" style="--lane-color: #c084fc;">
@@ -1661,7 +1727,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('copywriter')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">◦</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-sparkle"></i></div>
                                     <div class="lane-agent-name">Polisher</div>
                                 </div>
                                 <div class="lane-agent-role">Acabamento final de títulos e fluidez</div>
@@ -1673,7 +1739,7 @@
                             </div>
                             <div class="lane-agent-card" onclick="scrollToAgent('image-generator')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">▣</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-image"></i></div>
                                     <div class="lane-agent-name">Illustrator</div>
                                 </div>
                                 <div class="lane-agent-role">Gera ilustrações em aquarela clássica</div>
@@ -1685,7 +1751,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.5s">→</div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.5s"><i class="ph ph-caret-right"></i></div>
 
                     <!-- Stage 6: Publish -->
                     <div class="swimlane" style="--lane-color: #34d399;">
@@ -1697,7 +1763,7 @@
                         <div class="swimlane-body">
                             <div class="lane-agent-card" onclick="scrollToAgent('publisher')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">◈</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-diamond"></i></div>
                                     <div class="lane-agent-name">Herald</div>
                                 </div>
                                 <div class="lane-agent-role">Publica no GitHub e registra no Macro</div>
@@ -1709,7 +1775,7 @@
                             </div>
                             <div class="lane-agent-card" onclick="scrollToAgent('devops')">
                                 <div class="lane-agent-top">
-                                    <div class="lane-agent-icon">⚙</div>
+                                    <div class="lane-agent-icon"><i class="ph ph-gear"></i></div>
                                     <div class="lane-agent-name">Sentinel</div>
                                 </div>
                                 <div class="lane-agent-role">Gatekeeper do repositório</div>
@@ -1730,43 +1796,43 @@
             <h2 class="section-title">Editorial Workflow Pipeline</h2>
             <div class="workflow-diagram">
                 <div class="workflow-step" data-agent="orchestrator">
-                    <div class="workflow-step-icon">◈</div>
+                    <div class="workflow-step-icon"><i class="ph ph-diamond"></i></div>
                     <div class="workflow-step-name">Maestro</div>
                     <div class="workflow-step-number">Stage 0</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="researcher">
-                    <div class="workflow-step-icon">⌕</div>
+                    <div class="workflow-step-icon"><i class="ph ph-magnifying-glass"></i></div>
                     <div class="workflow-step-name">Seeker</div>
                     <div class="workflow-step-number">Stage 1</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="writer">
-                    <div class="workflow-step-icon">✎</div>
+                    <div class="workflow-step-icon"><i class="ph ph-pen-nib"></i></div>
                     <div class="workflow-step-name">Scribe</div>
                     <div class="workflow-step-number">Stage 2</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="standardizer">
-                    <div class="workflow-step-icon">⬢</div>
+                    <div class="workflow-step-icon"><i class="ph ph-hexagon"></i></div>
                     <div class="workflow-step-name">Architect</div>
                     <div class="workflow-step-number">Stage 3</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="reviewer">
-                    <div class="workflow-step-icon">🛡</div>
+                    <div class="workflow-step-icon"><i class="ph ph-shield-check"></i></div>
                     <div class="workflow-step-name">Guardian</div>
                     <div class="workflow-step-number">Stage 4</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="copywriter">
-                    <div class="workflow-step-icon">◦</div>
+                    <div class="workflow-step-icon"><i class="ph ph-sparkle"></i></div>
                     <div class="workflow-step-name">Polisher</div>
                     <div class="workflow-step-number">Stage 5</div>
                 </div>
-                <div class="workflow-arrow">→</div>
+                <div class="workflow-arrow"><i class="ph ph-caret-right"></i></div>
                 <div class="workflow-step" data-agent="publisher">
-                    <div class="workflow-step-icon">◈</div>
+                    <div class="workflow-step-icon"><i class="ph ph-diamond"></i></div>
                     <div class="workflow-step-name">Herald</div>
                     <div class="workflow-step-number">Stage 7</div>
                 </div>
@@ -1777,7 +1843,7 @@
         <section class="category-section" data-category="core">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-core);">◈</div>
+                    <div class="category-icon" style="background: var(--accent-core);"><i class="ph ph-diamond"></i></div>
                     <div>
                         <div class="category-name">Core Pipeline</div>
                         <div class="category-description">Main editorial workflow — from research to publication</div>
@@ -1792,7 +1858,7 @@
         <section class="category-section" data-category="specialized">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-specialized);">◐</div>
+                    <div class="category-icon" style="background: var(--accent-specialized);"><i class="ph ph-sliders"></i></div>
                     <div>
                         <div class="category-name">Specialized Agents</div>
                         <div class="category-description">Technical operations, design, and creative functions</div>
@@ -1807,7 +1873,7 @@
         <section class="category-section" data-category="analytics">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-analytics);">⊞</div>
+                    <div class="category-icon" style="background: var(--accent-analytics);"><i class="ph ph-chart-bar"></i></div>
                     <div>
                         <div class="category-name">Analytics Agents</div>
                         <div class="category-description">Vision Board intelligence — data extraction, progress
@@ -1823,7 +1889,7 @@
         <section class="category-section" data-category="bimester">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-bimester);">▤</div>
+                    <div class="category-icon" style="background: var(--accent-bimester);"><i class="ph ph-calendar-check"></i></div>
                     <div>
                         <div class="category-name">Bimester Agents</div>
                         <div class="category-description">Periodic assessment — reviews and exams compilation</div>
@@ -1838,7 +1904,7 @@
         <section class="category-section" data-category="legacy">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: var(--accent-legacy);">▢</div>
+                    <div class="category-icon" style="background: var(--accent-legacy);"><i class="ph ph-archive"></i></div>
                     <div>
                         <div class="category-name">Legacy Agents</div>
                         <div class="category-description">Historical reference — replaced by newer agents</div>
@@ -1855,7 +1921,7 @@
         <section class="category-section" id="editorial-flow-tutorial" style="margin-top: 2rem;">
             <div class="category-header">
                 <div class="category-title">
-                    <div class="category-icon" style="background: linear-gradient(135deg, #f59e0b, #fbbf24);">📚</div>
+                    <div class="category-icon" style="background: linear-gradient(135deg, #f59e0b, #fbbf24);"><i class="ph ph-books"></i></div>
                     <div>
                         <div class="category-name">Tutorial Completo do Fluxo Editorial</div>
                         <div class="category-description">Guia completo — estrutura, agentes, workflows, scripts e navegação</div>
@@ -1866,7 +1932,7 @@
             
             <div class="tutorial-container" style="padding: 1.5rem;">
                 <div class="tutorial-intro" style="background: rgba(45, 212, 191, 0.08); border-left: 4px solid var(--accent-primary); padding: 1.25rem; border-radius: var(--radius-md); margin-bottom: 1.5rem;">
-                    <h3 style="color: var(--accent-primary-light); margin: 0 0 0.75rem 0; font-size: 1.1rem;">🎯 Bem-vindo ao Centro de Comando Editorial</h3>
+                    <h3 style="color: var(--accent-primary-light); margin: 0 0 0.75rem 0; font-size: 1.1rem;"><i class="ph ph-target" style="vertical-align:middle;margin-right:0.5rem;"></i> Bem-vindo ao Centro de Comando Editorial</h3>
                     <p style="color: var(--text-secondary); margin: 0; line-height: 1.6; font-size: 0.9rem;">
                         Este tutorial mapeia <strong>toda a estrutura do projeto</strong>: 22 agentes, 7 etapas de pipeline, workflows automatizados,
                         scripts de automação, templates e base de conhecimento. Clique no botão abaixo para abrir a visualização completa em estilo curso.
@@ -1874,9 +1940,9 @@
                 </div>
 
                 <button onclick="openTutorialViewer()" style="width: 100%; background: linear-gradient(135deg, #f59e0b, #fbbf24); color: white; border: none; padding: 1rem 2rem; border-radius: var(--radius-lg); cursor: pointer; font-size: 1.1rem; font-weight: 700; transition: all var(--transition-base); margin-bottom: 1.5rem; display: flex; align-items: center; justify-content: center; gap: 0.75rem; box-shadow: 0 4px 16px rgba(245, 158, 11, 0.3);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(245, 158, 11, 0.4)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 16px rgba(245, 158, 11, 0.3)';">
-                    <span style="font-size: 1.5rem;">📖</span>
+                    <i class="ph ph-book-open" style="font-size:1.5rem;"></i>
                     Abrir Tutorial Interativo Completo
-                    <span style="font-size: 1.2rem;">→</span>
+                    <i class="ph ph-arrow-right" style="font-size:1.2rem;"></i>
                 </button>
 
                 <div class="tutorial-nav-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
@@ -1963,26 +2029,26 @@
                 </div>
 
                 <div class="tutorial-quick-actions" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color);">
-                    <h4 style="color: var(--text-primary); margin: 0 0 1rem 0; font-size: 0.95rem;">⚡ Ações Rápidas</h4>
+                    <h4 style="color: var(--text-primary); margin: 0 0 1rem 0; font-size: 0.95rem;"><i class="ph ph-lightning"></i> Ações Rápidas</h4>
                     <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
                         <button onclick="window.open('https://italogabriel-lab.github.io/Projeto-Editorial-Education/', '_blank')" style="background: linear-gradient(135deg, #0d9488, #2dd4bf); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
-                            🌐 Abrir Dashboard
+                            <i class="ph ph-globe"></i> Abrir Dashboard
                         </button>
                         <button onclick="window.open('https://github.com/italogabriel-lab/Projeto-Editorial-Education/actions', '_blank')" style="background: linear-gradient(135deg, #0891b2, #67e8f9); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
-                            ⚙️ GitHub Actions
+                            <i class="ph ph-gear"></i> GitHub Actions
                         </button>
                         <button onclick="alert('Arquivo: EDITORIAL_FLOW_TUTORIAL.md\n\nEste arquivo contém o tutorial completo com todas as 10 seções detalhadas.')" style="background: linear-gradient(135deg, #f59e0b, #fbbf24); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
-                            📄 Ver Tutorial Completo
+                            <i class="ph ph-file-text"></i> Ver Tutorial Completo
                         </button>
                         <button onclick="alert('Arquivos principais:\n\n- EDITORIAL_FLOW_TUTORIAL.md (tutorial)\n- README.md (framework overview)\n- QUICK_REFERENCE.md (URLs e comandos)\n- agent-command-center.html (esta página)')" style="background: linear-gradient(135deg, #8b5cf6, #a78bfa); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
-                            📁 Ver Estrutura
+                            <i class="ph ph-folder"></i> Ver Estrutura
                         </button>
                     </div>
                 </div>
 
                 <div class="tutorial-file-reference" style="margin-top: 1.5rem; padding: 1rem; background: rgba(139, 92, 246, 0.08); border-radius: var(--radius-md); border-left: 3px solid #8b5cf6;">
                     <p style="margin: 0; color: var(--text-secondary); font-size: 0.85rem; line-height: 1.6;">
-                        <strong style="color: var(--accent-quaternary);">📂 Arquivo de Referência:</strong> 
+                        <strong style="color: var(--accent-quaternary);"><i class="ph ph-folder-open" style="margin-right:0.5rem;"></i> Arquivo de Referência:</strong> 
                         <code style="background: rgba(255,255,255,0.1); padding: 0.2rem 0.5rem; border-radius: 4px; color: var(--text-primary);">EDITORIAL_FLOW_TUTORIAL.md</code> 
                         contém todas as 10 seções detalhadas com diagramas, tabelas e exemplos práticos.
                     </p>
@@ -2001,7 +2067,7 @@
                     id: 'orchestrator',
                     name: 'Maestro',
                     originalName: 'Orchestrator',
-                    icon: '◈',
+                    icon: '<i class="ph ph-diamond"></i>',
                     role: 'Diretor Editorial — diagnostica, prioriza e delega',
                     description: 'O Maestro é o ponto central de orientação do projeto. Conhece profundamente cada skill, workflow e regra de sincronização. Não executa o trabalho dos outros agentes: diagnostica, prioriza e delega.',
                     status: 'active',
@@ -2079,7 +2145,7 @@ WORKFLOW:
                     id: 'researcher',
                     name: 'Seeker',
                     originalName: 'Researcher',
-                    icon: '⌕',
+                    icon: '<i class="ph ph-magnifying-glass"></i>',
                     role: 'Investigador — coleta informações profundas e autoritativas',
                     description: 'O Seeker é o investigador da squad. Usa metodologia Ad Fontes para coletar informações primárias, alinhadas à Educação Clássica Cristã Reformada. Foca nos 5 Hábitos da Gramática.',
                     status: 'active',
@@ -2216,7 +2282,7 @@ FORMATO: Crie um recurso de referência completo para uso pedagógico.`
                     id: 'writer',
                     name: 'Scribe',
                     originalName: 'Writer',
-                    icon: '✎',
+                    icon: '<i class="ph ph-pen-nib"></i>',
                     role: 'Escriba — transforma pesquisa em conteúdo pedagógico',
                     description: 'O Scribe transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática. Segue rigorosamente o golden template e a progressão pedagógica.',
                     status: 'active',
@@ -2283,7 +2349,7 @@ FORMATO: Markdown estruturado, pronto para formatação Rise.`
                     id: 'standardizer',
                     name: 'Architect',
                     originalName: 'Standardizer',
-                    icon: '⬢',
+                    icon: '<i class="ph ph-hexagon"></i>',
                     role: 'Arquiteto — formata com Rise Blocks e aplica correções',
                     description: 'O Architect transforma o rascunho do Writer em conteúdo formatado com Rise Blocks. Aplica todas as correções editoriais: voz ativa, imperativo, capitalização europeia.',
                     status: 'active',
@@ -2358,7 +2424,7 @@ FORMATO DE SAÍDA: Markdown com Rise Blocks claramente identificados.`
                     id: 'reviewer',
                     name: 'Guardian',
                     originalName: 'Reviewer',
-                    icon: '🛡',
+                    icon: '<i class="ph ph-shield-check"></i>',
                     role: 'Guardião da qualidade — QA com checklist de 13 categorias',
                     description: 'O Guardian é o Editor-Chefe e QA. Garante excelência técnica, precisão doutrinária e padronização. Valida 13 categorias de auditoria antes de aprovar.',
                     status: 'active',
@@ -2464,7 +2530,7 @@ APROVAÇÃO FINAL:
                     id: 'copywriter',
                     name: 'Polisher',
                     originalName: 'Copywriter',
-                    icon: '◦',
+                    icon: '<i class="ph ph-sparkle"></i>',
                     role: 'Polidor final — otimiza títulos e enunciados',
                     description: 'O Polisher dá o acabamento final. Otimiza títulos, enunciados, garante fluidez e tom consistente. Não altera definições validadas.',
                     status: 'active',
@@ -2530,7 +2596,7 @@ ENTREGÁVEL: Versão final pronta para publicação.`
                     id: 'publisher',
                     name: 'Herald',
                     originalName: 'Publisher',
-                    icon: '◈',
+                    icon: '<i class="ph ph-diamond"></i>',
                     role: 'Distribuidor — salva localmente e publica no GitHub',
                     description: 'O Herald salva a aula finalizada localmente e publica no GitHub. Registra termos no Currículo Macro e gerencia o versionamento.',
                     status: 'active',
@@ -2615,7 +2681,7 @@ Em caso de erro, especifique:
                     id: 'devops',
                     name: 'Sentinel',
                     originalName: 'DevOps',
-                    icon: '⚙',
+                    icon: '<i class="ph ph-gear"></i>',
                     role: 'Engenheiro DevOps — gatekeeper do repositório',
                     description: 'O Sentinel blinda o ecossistema do repositório. Git NÃO é para mídia pesada. Gerencia workflows de publicação, limpeza estrutural e conflitos.',
                     status: 'active',
@@ -2767,7 +2833,7 @@ RELATÓRIO:
                     id: 'design-thinking',
                     name: 'Navigator',
                     originalName: 'Design Thinking',
-                    icon: '⌖',
+                    icon: '<i class="ph ph-compass"></i>',
                     role: 'Coordenador de UX — pesquisa, definição, ideação, prototipagem',
                     description: 'O Navigator lidera processos de design centrado no humano. Coordena pesquisa, personas, jornadas, wireframes e validação. Delega UI visual ao Artificer.',
                     status: 'active',
@@ -2945,7 +3011,7 @@ ENTREGÁVEIS:
                     id: 'ui-designer',
                     name: 'Artificer',
                     originalName: 'UI Designer',
-                    icon: '◐',
+                    icon: '<i class="ph ph-sliders'></i>',
                     role: 'Designer UI senior — design systems premium e responsivos',
                     description: 'O Artificer transforma conceitos em sistemas visuais coesos, escaláveis e premium. Domina tokens, responsividade, acessibilidade WCAG e componentização.',
                     status: 'active',
@@ -3173,7 +3239,7 @@ FORMATO: Guia completo de implementação do tema com todos os tokens atualizado
                     id: 'image-generator',
                     name: 'Illustrator',
                     originalName: 'Image Generator',
-                    icon: '▣',
+                    icon: '<i class="ph ph-image"></i>',
                     role: 'Artista Digital — gera ilustrações em aquarela clássica',
                     description: 'O Illustrator transforma prompts do hábito Narrar em ilustrações usando APIs gratuitas (Pollinations, HuggingFace). Estilo: aquarela, livro clássico, fundo branco.',
                     status: 'active',
@@ -3402,7 +3468,7 @@ FORMATO: Dashboard textual completo com métricas e recomendações.`
                     id: 'capitalizer',
                     name: 'Lexicon',
                     originalName: 'Capitalizer',
-                    icon: 'ABC',
+                    icon: '<i class="ph ph-text-aa"></i>',
                     role: 'Revisor de capitalização — padrão europeu',
                     description: 'O Lexicon aplica capitalização padrão europeu (sentence-case). Nomes próprios em maiúscula, termos descritivos em minúscula. Consistência em todas as seções.',
                     status: 'active',
@@ -3494,7 +3560,7 @@ OBSERVAÇÃO: Esta funcionalidade agora está INTEGRADA ao Standardizer (Archite
                     id: 'performance-analytics',
                     name: 'Strategist',
                     originalName: 'Performance Analytics',
-                    icon: '⊞',
+                    icon: '<i class="ph ph-chart-bar'></i>',
                     role: 'Analista de performance — relatórios de produtividade',
                     description: 'O Strategist analisa produção de tickets no Kanban. Gera relatórios individuais e da equipe: total de tickets, taxa de conclusão, ritmo de produção, ranking.',
                     status: 'active',
@@ -3732,7 +3798,7 @@ FORMATO: Análise detalhada com gráficos de tendência e recomendações.`
                     id: 'vision-github-analyzer',
                     name: 'Harvester',
                     originalName: 'Vision GitHub Analyzer',
-                    icon: '▤',
+                    icon: '<i class="ph ph-calendar-check'></i>',
                     role: 'Analista de dados — extrai e limpa dados do GitHub Projects',
                     description: 'O Harvester conecta-se passivamente à API GraphQL do GitHub Projects. Extrai, limpa e formata dados brutos em data.json para o Vision Board.',
                     status: 'active',
@@ -3892,7 +3958,7 @@ FORMATO: Relatório analítico completo com dados visuais e insights acionáveis
                     id: 'vision-progress-engine',
                     name: 'Oracle',
                     originalName: 'Vision Progress Engine',
-                    icon: '◉',
+                    icon: '<i class="ph ph-circle-half'></i>',
                     role: 'Motor de metas — compara concluído vs prazos',
                     description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
                     status: 'active',
@@ -4038,7 +4104,7 @@ FORMATO: Métricas atualizadas + relatório de mudanças + alertas.`
                     id: 'vision-bottleneck-detector',
                     name: 'Radar',
                     originalName: 'Vision Bottleneck Detector',
-                    icon: '◍',
+                    icon: '<i class="ph ph-radar'></i>',
                     role: 'Auditor operacional — detecta gargalos e alertas de SLA',
                     description: 'O Radar procura ativamente por "sangramentos operacionais": quem está travado, qual disciplina empacou, alertas de SLA. Gera insights acionáveis.',
                     status: 'active',
@@ -4202,7 +4268,7 @@ FORMATO: Configuração de alertas + relatório de monitoramento + histórico.`
                     id: 'bimester-review-builder',
                     name: 'Chronicler',
                     originalName: 'Bimester Review Builder',
-                    icon: '▤',
+                    icon: '<i class="ph ph-calendar-check'></i>',
                     role: 'Construtor de revisões bimestrais — compila 8 semanas',
                     description: 'O Chronicler monta a prova de revisão bimestral extraindo conteúdo das aulas .4. Não cria conteúdo novo: copia e organiza. 8 semanas × 3 questões = 24 questões no Quiz.',
                     status: 'active',
@@ -4297,7 +4363,7 @@ FORMATO: Documento completo da revisão bimestral pronto para aplicação.`
                     id: 'bimester-exam-builder',
                     name: 'Examiner',
                     originalName: 'Bimester Exam Builder',
-                    icon: '▢',
+                    icon: '<i class="ph ph-archive'></i>',
                     role: 'Construtor de provas bimestrais — 10 questões CANVAS_QUIZ',
                     description: 'O Examiner monta prova bimestral de 10 questões: 8 extraídas das .5 + 2 criadas. Formato CANVAS_QUIZ: FILL_IN, TRUE_OR_FALSE, MULTIPLE_CHOICE, MATCHING.',
                     status: 'active',
@@ -4435,7 +4501,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     id: 'review-builder',
                     name: 'Archivist',
                     originalName: 'Review Builder',
-                    icon: '📚',
+                    icon: '<i class="ph ph-books'></i>',
                     role: 'Construtor de revisão semanal (legado)',
                     description: 'O Archivist foi substituído pelo Chronicler (Bimester Review Builder). Criava revisões semanais X.4.',
                     status: 'legacy',
@@ -4446,7 +4512,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     id: 'exam-builder',
                     name: 'Assessor',
                     originalName: 'Exam Builder',
-                    icon: '✏️',
+                    icon: '<i class="ph ph-pencil'></i>',
                     role: 'Construtor de provas individuais (legado)',
                     description: 'O Assessor foi substituído pelo Examiner (Bimester Exam Builder). Criava provas individuais X.5.',
                     status: 'legacy',
@@ -4457,7 +4523,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     id: 'image-link-extractor',
                     name: 'Curator',
                     originalName: 'Image Link Extractor',
-                    icon: '▣',
+                    icon: '<i class="ph ph-image"></i>',
                     role: 'Extrator de links de imagem (legado)',
                     description: 'O Curator extraía links de imagens para o hábito Perceber. Funcionalidade incorporada em outros agentes.',
                     status: 'legacy',
@@ -4468,7 +4534,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     id: 'capitalizer-legacy',
                     name: 'Lexicon v1',
                     originalName: 'Capitalizer (Legacy)',
-                    icon: 'ABC',
+                    icon: '<i class="ph ph-text-aa"></i>',
                     role: 'Capitalização (integrado ao Architect)',
                     description: 'Funcionalidade de capitalização agora integrada ao Standardizer (Architect).',
                     status: 'legacy',
@@ -4507,7 +4573,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                         ${agent.commands.length > 0 ? `
                             <div class="commands-section">
                                 <div class="commands-title">
-                                    <span>⌨️</span> Commands
+                                    <i class="ph ph-terminal-window"></i> Commands
                                 </div>
                                 <div class="commands-list">
                                     ${agent.commands.map((cmd, idx) => `
@@ -4524,9 +4590,9 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                                             <div class="prompt-area">
                                                 <div class="prompt-container">
                                                     <div class="prompt-header">
-                                                        <span class="prompt-label">📋 Prompt Estruturado</span>
+                                                        <span class="prompt-label"><i class="ph ph-clipboard-text"></i> Prompt Estruturado</span>
                                                         <button class="copy-prompt-btn" onclick="event.stopPropagation(); copyPrompt(this, 'cmd-${agent.id}-${idx}')">
-                                                            📄 Copiar Prompt
+                                                            <i class="ph ph-clipboard"></i> Copiar Prompt
                                                         </button>
                                                     </div>
                                                     <div class="prompt-body">
@@ -4544,7 +4610,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                         ${agent.skills && agent.skills.length > 0 ? `
                             <div class="skills-section">
                                 <div class="commands-title">
-                                    <span>🧠</span> Skills & Habilidades
+                                    <i class="ph ph-brain"></i> Skills & Habilidades
                                 </div>
                                 <div class="skills-grid">
                                     ${agent.skills.map(skill => `
@@ -4559,7 +4625,7 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                         
                         <div class="use-cases-section">
                             <div class="commands-title">
-                                <span>🎯</span> Use Cases
+                                <i class="ph ph-target"></i> Use Cases
                             </div>
                             <div class="use-cases-list">
                                 ${agent.useCases.map(useCase => `
@@ -4798,15 +4864,43 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
             }
         }
 
-        // Initialize
+        
+        // ============================================
+        // THEME TOGGLE
+        // ============================================
+        const themeToggle = document.getElementById('themeToggle');
+        const themeIcon = document.getElementById('themeIcon');
+        const htmlEl = document.documentElement;
+
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        htmlEl.setAttribute('data-theme', savedTheme);
+        updateThemeIcon(savedTheme);
+
+        themeToggle.addEventListener('click', () => {
+            const current = htmlEl.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            htmlEl.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            updateThemeIcon(next);
+        });
+
+        function updateThemeIcon(theme) {
+            if (theme === 'dark') {
+                themeIcon.className = 'ph ph-sun';
+            } else {
+                themeIcon.className = 'ph ph-moon';
+            }
+        }
+
+// Initialize
         renderAgents();
 
         // ============================================
         // TUTORIAL VIEWER - COURSE-STYLE DOCS
         // ============================================
         const tutorialSections = [
-            {id:'overview',number:1,title:'Visão Geral do Projeto',icon:'🎯',color:'#2dd4bf',content:`
-                <h2>🎯 Visão Geral do Projeto Editorial</h2>
+            {id:'overview',number:1,title:'Visão Geral do Projeto',icon:'<i class="ph ph-target"></i>',color:'#2dd4bf',content:`
+                <h2><i class="ph ph-target" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Visão Geral do Projeto Editorial</h2>
                 <div class="tutorial-content-section">
                     <h3>O que é o Bibline Editorial Framework?</h3>
                     <p>O <strong>BEF</strong> é um sistema completo de produção, gestão e publicação de conteúdo educacional para a Bibline Academy. Ele integra:</p>
@@ -4836,8 +4930,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     </div>
                 </div>
             `},
-            {id:'structure',number:2,title:'Estrutura de Arquivos',icon:'📁',color:'#67e8f9',content:`
-                <h2>📁 Estrutura Completa de Arquivos</h2>
+            {id:'structure',number:2,title:'Estrutura de Arquivos',icon:'<i class="ph ph-folder"></i>',color:'#67e8f9',content:`
+                <h2><i class="ph ph-folder" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Estrutura Completa de Arquivos</h2>
                 <div class="tutorial-content-section">
                     <h3>Root Level (Vision Board UI)</h3>
                     <div class="tutorial-code-block">Projeto-Editorial-Education/
@@ -4857,8 +4951,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     </tbody></table>
                 </div>
             `},
-            {id:'workflows',number:3,title:'GitHub Actions Workflows',icon:'⚙️',color:'#f472b6',content:`
-                <h2>⚙️ GitHub Actions Workflows</h2>
+            {id:'workflows',number:3,title:'GitHub Actions Workflows',icon:'<i class="ph ph-gear"></i>',color:'#f472b6',content:`
+                <h2><i class="ph ph-gear"></i> GitHub Actions Workflows</h2>
                 <div class="tutorial-content-section">
                     <h3>Workflow 1: Deploy to GitHub Pages</h3>
                     <p><strong>Trigger:</strong> Push para main (HTML/CSS/JS) ou manual</p>
@@ -4872,8 +4966,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p><strong>SLA:</strong> ~3-4 minutos total</p>
                 </div>
             `},
-            {id:'agents',number:4,title:'Agentes e Skills (22)',icon:'🤖',color:'#8b5cf6',content:`
-                <h2>🤖 Todos os 22 Agentes</h2>
+            {id:'agents',number:4,title:'Agentes e Skills (22)',icon:'<i class="ph ph-robot"></i>',color:'#8b5cf6',content:`
+                <h2><i class="ph ph-robot" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Todos os 22 Agentes</h2>
                 <div class="tutorial-content-section">
                     <h3>Core Pipeline (7)</h3>
                     <p><strong>Orchestrator → Researcher → Writer → Standardizer → Reviewer → Copywriter → Publisher</strong></p>
@@ -4883,8 +4977,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p>Design Thinking, UI Designer, DevOps, Capitalizer, Performance Analytics, Vision Progress, Bottleneck Detector, GitHub Analyzer, Exam Builder, Review Builder, Image Generator</p>
                 </div>
             `},
-            {id:'pipeline',number:5,title:'Pipeline 7 Etapas',icon:'🔄',color:'#34d399',content:`
-                <h2>🔄 Pipeline Editorial de 7 Etapas</h2>
+            {id:'pipeline',number:5,title:'Pipeline 7 Etapas',icon:'<i class="ph ph-arrows-left-right"></i>',color:'#34d399',content:`
+                <h2><i class="ph ph-arrows-left-right" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Pipeline Editorial de 7 Etapas</h2>
                 <div class="tutorial-content-section">
                     <div class="tutorial-code-block">1. PESQUISA (Researcher) → research_report.md
 2. REDAÇÃO (Writer) → draft_class.md
@@ -4899,8 +4993,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p>Cada semana: <code>X.1.md</code>, <code>X.2.md</code>, <code>X.3.md</code> (aulas), <code>X.4.md</code> (review), <code>X.5.md</code> (quiz)</p>
                 </div>
             `},
-            {id:'datasync',number:6,title:'Data Sync Processes',icon:'🔗',color:'#fbbf24',content:`
-                <h2>🔗 4 Processos de Sincronização</h2>
+            {id:'datasync',number:6,title:'Data Sync Processes',icon:'<i class="ph ph-link"></i>',color:'#fbbf24',content:`
+                <h2><i class="ph ph-link" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 4 Processos de Sincronização</h2>
                 <div class="tutorial-content-section">
                     <h3>Sync 1: Kanban (5min)</h3>
                     <p>GraphQL → ProjectV2 → data.json → Commit se mudou</p>
@@ -4918,8 +5012,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p>Create/update issues como cartões Kanban</p>
                 </div>
             `},
-            {id:'ui',number:7,title:'UI Pages e Funções',icon:'🖥️',color:'#06b6d4',content:`
-                <h2>🖥️ 6 Páginas do Dashboard</h2>
+            {id:'ui',number:7,title:'UI Pages e Funções',icon:'<i class="ph ph-desktop"></i>',color:'#06b6d4',content:`
+                <h2><i class="ph ph-desktop" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 6 Páginas do Dashboard</h2>
                 <table class="tutorial-table"><thead><tr><th>Página</th><th>Função</th></tr></thead>
                 <tbody>
                     <tr><td>Overview Geral</td><td>Dashboard principal com data.json</td></tr>
@@ -4930,8 +5024,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <tr><td>Tutorial (esta)</td><td>Documentação completa</td></tr>
                 </tbody></table>
             `},
-            {id:'scripts',number:8,title:'Scripts Automação',icon:'🐍',color:'#ef4444',content:`
-                <h2>🐍 18+ Scripts Python</h2>
+            {id:'scripts',number:8,title:'Scripts Automação',icon:'<i class="ph ph-file-py"></i>',color:'#ef4444',content:`
+                <h2><i class="ph ph-file-py" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 18+ Scripts Python</h2>
                 <div class="tutorial-content-section">
                     <h3>Principais Scripts</h3>
                     <p><code>sync_titles.py</code> (MASTER), <code>fix_lesson_h1.py</code>, <code>check_matriz.py</code>, <code>create_issues.py</code>, <code>update_backlog_tickets.py</code></p>
@@ -4941,8 +5035,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p><code>convert_recordar.py</code> (música→rima), <code>fix_accordion.py</code></p>
                 </div>
             `},
-            {id:'templates',number:9,title:'Templates e Conhecimento',icon:'📝',color:'#ec4899',content:`
-                <h2>📝 Templates e Base de Conhecimento</h2>
+            {id:'templates',number:9,title:'Templates e Conhecimento',icon:'<i class="ph ph-notepad'></i>',color:'#ec4899',content:`
+                <h2><i class="ph ph-notepad" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Templates e Base de Conhecimento</h2>
                 <div class="tutorial-content-section">
                     <h3>Golden Template</h3>
                     <p><code>padrao_final_aula.md</code> — esqueleto padrão de toda aula</p>
@@ -4956,8 +5050,8 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                     <p>visao-geral-fluxo-editorial.md (572 linhas), doutrina-pedagogica.md, guia-de-estilo.md, rise-blocks-reference.md</p>
                 </div>
             `},
-            {id:'workflow',number:10,title:'Como Trabalhar',icon:'🧭',color:'#14b8a6',content:`
-                <h2>🧭 Fluxo de Trabalho Diário</h2>
+            {id:'workflow',number:10,title:'Como Trabalhar',icon:'<i class="ph ph-compass"></i>',color:'#14b8a6',content:`
+                <h2><i class="ph ph-compass" style="color:var(--accent-primary);margin-right:0.5rem;"></i> Fluxo de Trabalho Diário</h2>
                 <div class="tutorial-content-section">
                     <h3>Passos Diários</h3>
                     <ol><li>Acesse Dashboard</li><li>Verifique Agent Command Center</li><li>Use Orchestrator para diagnóstico</li><li>Execute Pipeline</li><li>Sync títulos se necessário</li><li>Commit e Push</li></ol>
@@ -5049,13 +5143,13 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
     <div id="tutorial-viewer-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.95); z-index: 10000; flex-direction: column;">
         <div style="background: rgba(30,30,36,0.98); padding: 1rem 1.5rem; border-bottom: 1px solid var(--border-color); display: flex; justify-content: space-between; align-items: center;">
             <div style="display: flex; align-items: center; gap: 1rem;">
-                <span style="font-size: 1.5rem;">📚</span>
+                <i class="ph ph-books" style="font-size:1.5rem;color:var(--accent-primary);"></i>
                 <div>
                     <h2 style="margin: 0; color: var(--text-primary); font-size: 1.2rem;">Tutorial do Fluxo Editorial</h2>
                     <p id="tutorial-section-counter" style="margin: 0; color: var(--text-muted); font-size: 0.8rem;">Seção 1 de 10</p>
                 </div>
             </div>
-            <button onclick="closeTutorialViewer()" style="background: rgba(255,255,255,0.1); border: none; color: white; width: 36px; height: 36px; border-radius: 50%; cursor: pointer; font-size: 1.2rem;">✕</button>
+            <button onclick="closeTutorialViewer()" class="tutorial-modal-close"><i class="ph ph-x"></i></button>
         </div>
         <div style="flex: 1; display: flex; overflow: hidden;">
             <div style="width: 280px; background: rgba(24,24,29,0.98); border-right: 1px solid var(--border-color); overflow-y: auto; padding: 1rem 0;">
