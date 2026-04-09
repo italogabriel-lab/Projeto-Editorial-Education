@@ -1848,6 +1848,141 @@
             </div>
             <div class="agents-grid" id="legacy-agents"></div>
         </section>
+
+        <!-- ============================================
+             EDITORIAL FLOW TUTORIAL SECTION
+             ============================================ -->
+        <section class="category-section" id="editorial-flow-tutorial" style="margin-top: 2rem;">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: linear-gradient(135deg, #f59e0b, #fbbf24);">📚</div>
+                    <div>
+                        <div class="category-name">Tutorial Completo do Fluxo Editorial</div>
+                        <div class="category-description">Guia completo — estrutura, agentes, workflows, scripts e navegação</div>
+                    </div>
+                </div>
+                <span class="category-count">10 seções</span>
+            </div>
+            
+            <div class="tutorial-container" style="padding: 1.5rem;">
+                <div class="tutorial-intro" style="background: rgba(45, 212, 191, 0.08); border-left: 4px solid var(--accent-primary); padding: 1.25rem; border-radius: var(--radius-md); margin-bottom: 1.5rem;">
+                    <h3 style="color: var(--accent-primary-light); margin: 0 0 0.75rem 0; font-size: 1.1rem;">🎯 Bem-vindo ao Centro de Comando Editorial</h3>
+                    <p style="color: var(--text-secondary); margin: 0; line-height: 1.6; font-size: 0.9rem;">
+                        Este tutorial mapeia <strong>toda a estrutura do projeto</strong>: 22 agentes, 7 etapas de pipeline, workflows automatizados, 
+                        scripts de automação, templates e base de conhecimento. Use para navegar nos arquivos e entender o fluxo completo de trabalho.
+                    </p>
+                </div>
+
+                <div class="tutorial-nav-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+                    <!-- Tutorial Section Cards -->
+                    <div class="tutorial-nav-card" onclick="alert('Abra o arquivo EDITORIAL_FLOW_TUTORIAL.md e vá para a Seção 1')" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #0d9488, #2dd4bf); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">1</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Visão Geral do Projeto</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Arquitetura, métricas principais, e o que é o Bibline Editorial Framework</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" onclick="alert('Abra o arquivo EDITORIAL_FLOW_TUTORIAL.md e vá para a Seção 2')" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #0891b2, #67e8f9); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">2</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Estrutura de Arquivos</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Mapeamento completo de todos os arquivos e diretórios do projeto</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" onclick="alert('Abra o arquivo EDITORIAL_FLOW_TUTORIAL.md e vá para a Seção 3')" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #f472b6, #f9a8d4); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">3</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">GitHub Actions Workflows</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Deploy Pages + Live Sync (cron 5min), triggers e jobs detalhados</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" onclick="scrollToAgent('orchestrator')" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #8b5cf6, #a78bfa); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">4</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Agentes e Skills (22 total)</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Core Pipeline (7) + Specialized (4) + Analytics (4) + Bimester (2) + Legacy (4) + Image Gen (1)</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #34d399, #6ee7b7); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">5</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Pipeline de 7 Etapas</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Pesquisa → Redação → Formatação → Revisão → Polimento → Registro → Publicação</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #fbbf24, #fcd34d); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">6</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Data Sync Processes</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Kanban Sync, Title Sync, Curriculum Sync, GitHub Issue Sync — 4 processos automatizados</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" onclick="window.open('https://italogabriel-lab.github.io/Projeto-Editorial-Education/', '_blank')" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #06b6d4, #67e8f9); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">7</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">UI Pages e Funções</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">6 páginas do dashboard: Overview, Metas, Disciplinas, Videos, Command Center</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #ef4444, #f87171); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">8</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Scripts de Automação</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">18+ scripts Python: sync_titles, fix_h1, check_matriz, create_issues, e mais</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #ec4899, #f472b6); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">9</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Templates e Conhecimento</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Golden Template, 5 habits templates, guia de estilo, Rise Blocks reference</p>
+                    </div>
+
+                    <div class="tutorial-nav-card" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); padding: 1.25rem; cursor: pointer; transition: all var(--transition-base);">
+                        <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+                            <div style="width: 32px; height: 32px; background: linear-gradient(135deg, #14b8a6, #2dd4bf); border-radius: var(--radius-sm); display: flex; align-items: center; justify-content: center; color: white; font-weight: 700;">10</div>
+                            <h4 style="margin: 0; color: var(--text-primary); font-size: 0.95rem;">Como Navegar e Trabalhar</h4>
+                        </div>
+                        <p style="margin: 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.5;">Fluxo de trabalho diário, comandos úteis, links importantes, estrutura de navegação</p>
+                    </div>
+                </div>
+
+                <div class="tutorial-quick-actions" style="margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color);">
+                    <h4 style="color: var(--text-primary); margin: 0 0 1rem 0; font-size: 0.95rem;">⚡ Ações Rápidas</h4>
+                    <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+                        <button onclick="window.open('https://italogabriel-lab.github.io/Projeto-Editorial-Education/', '_blank')" style="background: linear-gradient(135deg, #0d9488, #2dd4bf); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
+                            🌐 Abrir Dashboard
+                        </button>
+                        <button onclick="window.open('https://github.com/italogabriel-lab/Projeto-Editorial-Education/actions', '_blank')" style="background: linear-gradient(135deg, #0891b2, #67e8f9); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
+                            ⚙️ GitHub Actions
+                        </button>
+                        <button onclick="alert('Arquivo: EDITORIAL_FLOW_TUTORIAL.md\n\nEste arquivo contém o tutorial completo com todas as 10 seções detalhadas.')" style="background: linear-gradient(135deg, #f59e0b, #fbbf24); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
+                            📄 Ver Tutorial Completo
+                        </button>
+                        <button onclick="alert('Arquivos principais:\n\n- EDITORIAL_FLOW_TUTORIAL.md (tutorial)\n- README.md (framework overview)\n- QUICK_REFERENCE.md (URLs e comandos)\n- agent-command-center.html (esta página)')" style="background: linear-gradient(135deg, #8b5cf6, #a78bfa); color: white; border: none; padding: 0.6rem 1.2rem; border-radius: var(--radius-md); cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all var(--transition-base);">
+                            📁 Ver Estrutura
+                        </button>
+                    </div>
+                </div>
+
+                <div class="tutorial-file-reference" style="margin-top: 1.5rem; padding: 1rem; background: rgba(139, 92, 246, 0.08); border-radius: var(--radius-md); border-left: 3px solid #8b5cf6;">
+                    <p style="margin: 0; color: var(--text-secondary); font-size: 0.85rem; line-height: 1.6;">
+                        <strong style="color: var(--accent-quaternary);">📂 Arquivo de Referência:</strong> 
+                        <code style="background: rgba(255,255,255,0.1); padding: 0.2rem 0.5rem; border-radius: 4px; color: var(--text-primary);">EDITORIAL_FLOW_TUTORIAL.md</code> 
+                        contém todas as 10 seções detalhadas com diagramas, tabelas e exemplos práticos.
+                    </p>
+                </div>
+            </div>
+        </section>
     </main>
 
     <script>
