@@ -1434,6 +1434,42 @@
             background: var(--border-color);
             border-radius: 3px;
         }
+
+        /* ============================================
+           TUTORIAL SECTION STYLES
+           ============================================ */
+        .tutorial-section { padding: 2rem 0; }
+        .tutorial-intro { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 2rem; line-height: 1.7; }
+        .tutorial-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 1.5rem; }
+
+        .tutorial-module { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-xl); overflow: hidden; transition: all var(--transition-base); }
+        .tutorial-module:hover { border-color: var(--accent-primary); box-shadow: var(--shadow-glow); }
+
+        .module-header { display: flex; align-items: center; gap: 1rem; padding: 1.25rem 1.5rem; cursor: pointer; transition: background var(--transition-base); }
+        .module-header:hover { background: var(--bg-card-hover); }
+        .module-icon { font-size: 1.5rem; color: var(--accent-primary); flex-shrink: 0; }
+        .module-info h3 { font-size: 1rem; font-weight: 600; color: var(--text-primary); margin: 0; }
+        .module-info p { font-size: 0.8rem; color: var(--text-muted); margin: 0.25rem 0 0 0; }
+        .expand-icon { margin-left: auto; color: var(--text-muted); transition: transform var(--transition-base); font-size: 0.9rem; }
+        .module-header.active .expand-icon { transform: rotate(180deg); }
+
+        .module-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; }
+        .module-content.expanded { max-height: 3000px; }
+
+        .lesson { padding: 1.25rem 1.5rem; border-top: 1px solid var(--border-color); }
+        .lesson:first-child { border-top: none; }
+        .lesson h4 { font-size: 0.95rem; font-weight: 600; color: var(--accent-primary-light); margin: 0 0 0.75rem 0; }
+        .lesson p { font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0; line-height: 1.6; }
+        .lesson ol, .lesson ul { font-size: 0.85rem; color: var(--text-secondary); padding-left: 1.5rem; margin: 0.5rem 0; }
+        .lesson li { margin-bottom: 0.35rem; line-height: 1.6; }
+
+        .command-list { background: rgba(0,0,0,0.2); border-radius: var(--radius-md); padding: 1rem 1.25rem; margin-top: 0.75rem; }
+        .command-list code { display: inline-block; background: rgba(45,212,191,0.1); color: var(--accent-primary-light); padding: 0.15rem 0.5rem; border-radius: var(--radius-sm); font-size: 0.8rem; font-family: var(--font-mono); margin: 0.15rem 0; }
+        .command-list br { margin-bottom: 0.5rem; }
+
+        @media (max-width: 768px) {
+            .tutorial-grid { grid-template-columns: 1fr; }
+        }
     </style>
 </head>
 
@@ -1847,6 +1883,112 @@
                 <span class="category-count">4 agents</span>
             </div>
             <div class="agents-grid" id="legacy-agents"></div>
+        </section>
+
+        <!-- ============================================
+             TUTORIAL SECTION — COURSE-STYLE NAVIGATION
+             ============================================ -->
+        <section class="tutorial-section" id="tutorial-section" style="margin-top:3rem;">
+            <div class="section-title"><i class="ph ph-graduation-cap"></i>Tutorial — Guia Completo do Fluxo Editorial</div>
+            <p class="tutorial-intro">Navegue por toda a estrutura do projeto. Cada módulo é uma lição interativa com exemplos práticos, comandos de cada agente, e o fluxo completo de trabalho editorial.</p>
+
+            <div class="tutorial-grid">
+                <!-- Module 1: AIOX Agents -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-users-three module-icon"></i>
+                        <div class="module-info"><h3>Módulo 1: Os 12 Agentes AIOX</h3><p>Conheça cada agente, seus comandos e quando usar</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>1.1 — Orion (@aiox-master) — Orquestrador</h4><p><strong>Use para:</strong> Orquestração de tarefas, criação de componentes do framework, análise de padrões.</p><div class="command-list"><code>*create</code> — Criar novo componente<br><code>*workflow</code> — Iniciar workflow<br><code>*document-project</code> — Gerar documentação<br><code>*analyze-framework</code> — Analisar estrutura</div></div>
+                        <div class="lesson"><h4>1.2 — Atlas (@analyst) — Analista de Negócios</h4><p><strong>Use para:</strong> Pesquisa de mercado, análise competitiva, brainstorming, discovery.</p><div class="command-list"><code>*create-project-brief</code> — Brief do projeto<br><code>*perform-market-research</code> — Pesquisa de mercado<br><code>*brainstorm</code> — Sessão de ideação<br><code>*elicit</code> — Elicitação avançada</div></div>
+                        <div class="lesson"><h4>1.3 — Aria (@architect) — Arquiteta</h4><p><strong>Use para:</strong> Arquitetura de sistema, seleção de tecnologia, design de API.</p><div class="command-list"><code>*create-full-stack-architecture</code> — Arquitetura completa<br><code>*create-backend-architecture</code> — Backend<br><code>*create-front-end-architecture</code> — Frontend</div></div>
+                        <div class="lesson"><h4>1.4 — Dara (@data-engineer) — Engenheira de Dados</h4><p><strong>Use para:</strong> Design de banco, políticas RLS, migrações, otimização.</p><div class="command-list"><code>*create-schema</code> — Design do banco<br><code>*create-rls-policies</code> — Políticas RLS<br><code>*apply-migration</code> — Executar migração<br><code>*seed</code> — Popular dados</div></div>
+                        <div class="lesson"><h4>1.5 — Dex (@dev) — Desenvolvedor Full Stack</h4><p><strong>Use para:</strong> Implementação, debugging, refatoração, build autônomo.</p><div class="command-list"><code>*develop</code> — Implementar tarefas<br><code>*build</code> — Build autônomo completo<br><code>*run-tests</code> — Executar testes<br><code>*fix-qa-issues</code> — Corrigir issues QA</div></div>
+                        <div class="lesson"><h4>1.6 — Gage (@devops) — DevOps Specialist</h4><p><strong>Use para:</strong> Operações de repositório, CI/CD, push para GitHub.</p><p><strong>Nota:</strong> Único agente autorizado a fazer push remoto.</p><div class="command-list"><code>*push</code> — Git push após quality gates<br><code>*create-pr</code> — Criar pull request<br><code>*configure-ci</code> — Setup GitHub Actions<br><code>*health-check</code> — Diagnóstico de saúde</div></div>
+                        <div class="lesson"><h4>1.7 — Morgan (@pm) — Product Manager</h4><p><strong>Use para:</strong> Criação de PRD, estratégia, priorização, epics.</p><p><strong>Delegação:</strong> PM cria epic → delega stories para @sm.</p><div class="command-list"><code>*create-prd</code> — Criar PRD<br><code>*create-brownfield-prd</code> — PRD existente<br><code>*create-epic</code> — Criar epic<br><code>*gather-requirements</code> — Elicitação</div></div>
+                        <div class="lesson"><h4>1.8 — Pax (@po) — Product Owner</h4><p><strong>Use para:</strong> Gestão de backlog, refinamento, critérios de aceitação.</p><div class="command-list"><code>*backlog-add</code> — Adicionar ao backlog<br><code>*backlog-prioritize</code> — Priorizar<br><code>*validate-story-draft</code> — Validar story<br><code>*close-story</code> — Fechar story</div></div>
+                        <div class="lesson"><h4>1.9 — Quinn (@qa) — QA Guardian</h4><p><strong>Use para:</strong> Review de código, gate de qualidade, análise de risco.</p><div class="command-list"><code>*review</code> — Review com gate decision<br><code>*code-review</code> — Review de código<br><code>*security-check</code> — Scan 8 pontos<br><code>*test-design</code> — Cenários de teste</div></div>
+                        <div class="lesson"><h4>1.10 — River (@sm) — Scrum Master</h4><p><strong>Use para:</strong> Criação de user stories, critérios de aceitação.</p><div class="command-list"><code>*draft</code> — Criar próxima story<br><code>*story-checklist</code> — Checklist de qualidade</div></div>
+                        <div class="lesson"><h4>1.11 — Craft (@squad-creator) — Squad Manager</h4><p><strong>Use para:</strong> Criar, validar, publicar squads.</p><div class="command-list"><code>*create-squad</code> — Criar squad<br><code>*validate-squad</code> — Validar<br><code>*publish-squad</code> — Publicar</div></div>
+                        <div class="lesson"><h4>1.12 — Uma (@ux-design-expert) — UX Designer</h4><p><strong>Use para:</strong> Pesquisa de usuário, wireframes, design systems.</p><div class="command-list"><code>*user-research</code> — Pesquisa<br><code>*create-wireframe</code> — Wireframes<br><code>*design-system</code> — Design system</div></div>
+                    </div>
+                </div>
+
+                <!-- Module 2: Editorial Pipeline -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-arrows-left-right module-icon"></i>
+                        <div class="module-info"><h3>Módulo 2: Pipeline Editorial de 7 Etapas</h3><p>Fluxo completo de produção de aulas — da pesquisa à publicação</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>2.1 — Stage 0: Orquestração (Maestro)</h4><p>Lê Currículo Macro, diagnostica progresso, prioriza ações e delega para a pipeline.</p></div>
+                        <div class="lesson"><h4>2.2 — Stage 1: Pesquisa (Seeker)</h4><p>Coleta informações com metodologia <em>Ad Fontes</em>: Webster 1828, versos bíblicos, obras de arte.</p><p><strong>Output:</strong> <code>research_report.md</code></p></div>
+                        <div class="lesson"><h4>2.3 — Stage 2: Redação (Scribe)</h4><p>Transforma pesquisa em conteúdo seguindo Golden Template + 5 Hábitos.</p><p><strong>Output:</strong> <code>draft_class.md</code></p></div>
+                        <div class="lesson"><h4>2.4 — Stage 3: Formatação (Architect + Lexicon)</h4><p>Aplica Rise Blocks, remove caracteres proibidos, capitalização europeia (Acordo 1990).</p></div>
+                        <div class="lesson"><h4>2.5 — Stage 4: Revisão (Guardian)</h4><p>QA com checklist de 13 categorias.</p><p><strong>Feedback Loops:</strong> Erro conteúdo → volta Stage 2 | Erro formato → volta Stage 3</p></div>
+                        <div class="lesson"><h4>2.6 — Stage 5: Polimento (Polisher)</h4><p>Acabamento final de títulos, fluidez, tom de voz. <strong>Regra:</strong> Nunca muda a definição do hábito "Definir".</p></div>
+                        <div class="lesson"><h4>2.7 — Stage 6-7: Publicação (Herald + Sentinel)</h4><p>Publica no GitHub e registra no Currículo Macro. Sentinel é gatekeeper do repositório.</p></div>
+                    </div>
+                </div>
+
+                <!-- Module 3: Weekly Structure -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-calendar-check module-icon"></i>
+                        <div class="module-info"><h3>Módulo 3: Estrutura Semanal e Bimestral</h3><p>Como cada semana e bimestre são organizados no currículo</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>3.1 — Semanal (5 arquivos/semana)</h4><div class="command-list"><code>X.1.md</code> — Aula Dia 1<br><code>X.2.md</code> — Aula Dia 2<br><code>X.3.md</code> — Aula Dia 3<br><code>X.4.md</code> — Review Semanal<br><code>X.5.md</code> — Quiz Semanal (CANVAS_QUIZ)</div></div>
+                        <div class="lesson"><h4>3.2 — Bimestral (ciclos de 10 semanas)</h4><p>Semanas 1-8: Conteúdo (40 arquivos) | Semana 9: Review | Semana 10: Exam. <strong>Total/ano:</strong> ~168 aulas (4 bimestres).</p></div>
+                        <div class="lesson"><h4>3.3 — Os 5 Hábitos</h4><div class="command-list"><code>Definir</code> — Definição concisa (9-10 palavras, repetida 6+ vezes)<br><code>Perceber</code> — Observação guiada<br><code>Recordar</code> — Memorização com áudio/rima<br><code>Praticar</code> — Fill_In, Multiple, Matching<br><code>Narrar</code> — Texto literário + perguntas</div></div>
+                    </div>
+                </div>
+
+                <!-- Module 4: Project Structure -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-folder-notch module-icon"></i>
+                        <div class="module-info"><h3>Módulo 4: Estrutura do Projeto</h3><p>Mapa completo de diretórios e arquivos</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>4.1 — Root Level</h4><div class="command-list"><code>index.html</code> — Overview<br><code>metas-disciplinas.html</code> — Metas por Disciplina<br><code>videos.html</code> — Pipeline Vídeos<br><code>agent-command-center.html</code> — Este centro de comando<br><code>vercel.json</code> — Config Vercel</div></div>
+                        <div class="lesson"><h4>4.2 — Editorial Squad</h4><div class="command-list"><code>skills/</code> — 20 skills de agentes<br><code>workflows/</code> — produce_class, publish, orchestrate<br><code>knowledge-base/</code> — visao-geral, doutrina, estilo<br><code>templates/</code> — Golden Template, 5 habits<br><code>scripts/</code> — 18+ scripts Python</div></div>
+                        <div class="lesson"><h4>4.3 — Curriculum Vault</h4><p>Cada ano tem 6 arquivos. <strong>Regra de Ouro:</strong> Currículo Macro é a única fonte da verdade para títulos. Mudanças propagadas via <code>sync_titles.py</code>.</p></div>
+                    </div>
+                </div>
+
+                <!-- Module 5: Sync & Automation -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-arrows-clockwise module-icon"></i>
+                        <div class="module-info"><h3>Módulo 5: Data Sync e Automação</h3><p>Fluxo de dados Kanban → Dashboard + scripts</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>5.1 — Kanban Sync (5min cron)</h4><p>GraphQL → Projects → data.json → Commit se mudou → Push → Deploy Pages. <strong>SLA:</strong> ~3-4 min total.</p></div>
+                        <div class="lesson"><h4>5.2 — Scripts Python</h4><div class="command-list"><code>sync_titles.py</code> — MASTER: Propaga títulos<br><code>fix_lesson_h1.py</code> — Corrige H1<br><code>check_matriz.py</code> — Audit Matriz vs Macro<br><code>create_issues.py</code> — Cria GitHub issues</div></div>
+                    </div>
+                </div>
+
+                <!-- Module 6: Daily Workflow -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-clock module-icon"></i>
+                        <div class="module-info"><h3>Módulo 6: Fluxo Diário de Trabalho</h3><p>Como usar o framework nas tarefas diárias</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>6.1 — Rotina</h4><ol><li>Abra Vision Board para métricas</li><li>Verifique Agent Command Center</li><li>Use Maestro (@orchestrator) para diagnóstico</li><li>Identifique gargalos e priorize</li></ol></div>
+                        <div class="lesson"><h4>6.2 — Produzindo Aula</h4><ol><li>Maestro diagnostica e delega</li><li>Seeker faz pesquisa</li><li>Scribe redige (Golden Template)</li><li>Architect formata</li><li>Guardian revisa (13 categorias)</li><li>Polisher polimenta</li><li>Herald publica (GitHub + Macro)</li></ol></div>
+                        <div class="lesson"><h4>6.3 — Links Essenciais</h4><div class="command-list"><strong>Vision Board:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/<br><strong>GitHub:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education<br><strong>Actions:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education/actions<br><strong>Kanban:</strong> https://github.com/orgs/bibline/projects/2/views/1</div></div>
+                    </div>
+                </div>
+            </div>
         </section>
     </main>
 
@@ -4654,6 +4796,22 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
                 connectors.forEach((c, i) => {
                     c.style.display = i >= 5 ? '' : 'none';
                 });
+            }
+        }
+
+
+        // ============================================
+        // TUTORIAL MODULE TOGGLE
+        // ============================================
+        function toggleModule(header) {
+            const content = header.nextElementSibling;
+            const icon = header.querySelector(".expand-icon");
+            if (content.classList.contains("expanded")) {
+                content.classList.remove("expanded");
+                header.classList.remove("active");
+            } else {
+                content.classList.add("expanded");
+                header.classList.add("active");
             }
         }
 
