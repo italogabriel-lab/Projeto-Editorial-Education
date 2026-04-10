@@ -31,7 +31,7 @@ Um arquivo JavaScript contendo **10 seções detalhadas** cobrindo **TODO o Bibl
 - Diretório public/ (6 arquivos)
 - Diretório src/ (sync.js)
 - .github/workflows/ (2 workflows)
-- bef/ (framework reference)
+- trivium-method/ (framework reference)
 - editorial-squad/ (20 skills, 3 workflows, 18+ scripts)
 - Projeto Bibline Academy/ (curriculum vault)
 - 6 arquivos estruturais por ano
