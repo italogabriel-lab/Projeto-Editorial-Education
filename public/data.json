@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-10T14:20:24.805Z",
-  "total_items": 3781,
+  "last_updated": "2026-04-10T15:10:32.034Z",
+  "total_items": 3783,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -51090,7 +51090,7 @@
       "id": "I_kwDOPFPmMM77C-LD",
       "number": 3666,
       "title": "[Bíblia] - Ano 3 - 35.2 Não usar mal o dia do Senhor",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
@@ -55772,6 +55772,34 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-10T13:18:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM78tZDc",
+      "number": 4001,
+      "title": "[Português] - Ano 3 - 31.2 O personagem secundário",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-10T14:20:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM78uLgV",
+      "number": 4002,
+      "title": "[Português] - Ano 3 - 31.3 Tempo e espaço da história",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-10T14:58:22Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
