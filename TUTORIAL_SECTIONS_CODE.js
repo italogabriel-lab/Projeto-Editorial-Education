@@ -12,14 +12,14 @@ const tutorialSections = [
 <h2><i class="ph ph-target" style="color:var(--accent-primary);margin-right:0.5rem;"></i> 1. Visao Geral do Projeto Editorial</h2>
 
 <div class="tutorial-content-section">
-<h3>O que e o Bibline Editorial Framework (BEF)?</h3>
-<p>O <strong>Bibline Editorial Framework (BEF)</strong> e o sistema completo de producao, gestao e publicacao de conteudo educacional da <strong>Bibline Academy</strong>. Ele foi projetado para criar aulas de alta qualidade alinhadas a <strong>Educacao Classica Crista</strong> e ao <strong>Trivium</strong>, utilizando agentes de IA especializados, pipelines automatizados e dashboards em tempo real.</p>
-<p>Imagine uma linha de montagem editorial onde cada etapa tem um especialista dedicado, tudo e documentado, e o progresso e visivel em tempo real. Isso e o BEF.</p>
+<h3>O que e o Trivium Method?</h3>
+<p>O <strong>Trivium Method</strong> e o sistema completo de producao, gestao e publicacao de conteudo educacional da <strong>Bibline Academy</strong>. Ele foi projetado para criar aulas de alta qualidade alinhadas a <strong>Educacao Classica Crista</strong> e ao <strong>Trivium</strong>, utilizando agentes de IA especializados, pipelines automatizados e dashboards em tempo real.</p>
+<p>Imagine uma linha de montagem editorial onde cada etapa tem um especialista dedicado, tudo e documentado, e o progresso e visivel em tempo real. Isso e o Trivium Method.</p>
 </div>
 
 <div class="tutorial-content-section">
 <h3>Objetivo do Projeto</h3>
-<p>O BEF existe para prover uma estrutura <strong>escalavel e reproduzivel</strong> que permita:</p>
+<p>O Trivium Method existe para prover uma estrutura <strong>escalavel e reproduzivel</strong> que permita:</p>
 <ul>
 <li>Producao de aulas no formato <strong>Rise 360</strong> (Articulate)</li>
 <li>Revisao e padronizacao de conteudo com <strong>QA rigoroso</strong></li>
@@ -126,7 +126,7 @@ x ~168 aulas/ano (40 semanas x 3 aulas/semana + revisoes + provas)
 
 <div class="tutorial-content-section">
 <h3>Filosofia Pedagogica Subjacente</h3>
-<p>O BEF e fundamentado em tres pilares:</p>
+<p>O Trivium Method e fundamentado em tres pilares:</p>
 <ol>
 <li><strong>Trivium Classico:</strong> Gramatica (fatos, definicoes, memorizacao), Logica (relacoes, raciocinio), Retorica (expressao, aplicacao, sabedoria). Todas as aulas atuais estao na <strong>Fase da Gramatica</strong> (7-11 anos).</li>
 <li><strong>Cosmovisao Crista Reformada:</strong> Centralidade de Deus, autoridade das Escrituras, educacao como discipulado, excelencia como adoracao.</li>
@@ -143,7 +143,7 @@ x ~168 aulas/ano (40 semanas x 3 aulas/semana + revisoes + provas)
 
 <div class="tutorial-content-section">
 <h3>Visao Geral da Arvore de Diretorio</h3>
-<p>O projeto e organizado em camadas: UI publica na raiz, engine de sync no <code>src/</code>, dados no <code>public/</code>, workflows CI/CD no <code>.github/</code>, framework no <code>bef/</code>, e operacoes editoriais no <code>Projeto Bibline Academy/editorial-squad/</code>.</p>
+<p>O projeto e organizado em camadas: UI publica na raiz, engine de sync no <code>src/</code>, dados no <code>public/</code>, workflows CI/CD no <code>.github/</code>, framework no <code>trivium-method/</code>, e operacoes editoriais no <code>Projeto Bibline Academy/editorial-squad/</code>.</p>
 </div>
 
 <div class="tutorial-content-section">
@@ -159,7 +159,7 @@ x ~168 aulas/ano (40 semanas x 3 aulas/semana + revisoes + provas)
 │
 ├── vercel.json                     # Configuracao Vercel (static HTML hosting)
 ├── .gitignore                      # Exclui node_modules, media, caches
-├── README.md                       # Documentacao master do Framework BEF
+├── README.md                       # Documentacao master do Framework Trivium Method
 ├── QUICK_REFERENCE.md              # URLs rapidas e comandos uteis
 ├── requirements.txt                # Python dependencies (requests, etc.)
 ├── query.graphql                   # GraphQL query para sync do Kanban
@@ -211,9 +211,9 @@ x ~168 aulas/ano (40 semanas x 3 aulas/semana + revisoes + provas)
 </div>
 
 <div class="tutorial-content-section">
-<h3>bef/ — Bibline Editorial Framework (Canonical Reference)</h3>
-<div class="tutorial-code-block">bef/
-├── README.md                       # Documentacao do framework BEF
+<h3>trivium-method/ — Trivium Method (Canonical Reference)</h3>
+<div class="tutorial-code-block">trivium-method/
+├── README.md                       # Documentacao do framework Trivium Method
 │
 ├── core/                           # Nucleo do framework
 │   ├── README.md                   # Doc do core
@@ -396,7 +396,7 @@ x ~168 aulas/ano (40 semanas x 3 aulas/semana + revisoes + provas)
 
 <div class="tutorial-content-section">
 <h3>Mapa Geral dos Agentes por Categoria</h3>
-<p>O BEF possui <strong>22 agentes</strong> organizados em 5 categorias. Cada agente e definido por um arquivo <code>SKILL.md</code> que contem persona, atribuicoes, inputs, outputs e regras de operacao.</p>
+<p>O Trivium Method possui <strong>22 agentes</strong> organizados em 5 categorias. Cada agente e definido por um arquivo <code>SKILL.md</code> que contem persona, atribuicoes, inputs, outputs e regras de operacao.</p>
 <div class="tutorial-code-block">CATEGORIA              | AGENTES | STATUS
 -----------------------|---------|--------
 Core Pipeline          |    7    | Ativo
@@ -1617,7 +1617,7 @@ Violacao = REJEICAO AUTOMATICA na Etapa 4 (Reviewer)</div>
 
 <div class="tutorial-content-section">
 <h3>Os 3 Workflows Operacionais</h3>
-<p>O BEF opera com tres workflows principais que cobrem todo o ciclo de vida editorial:</p>
+<p>O Trivium Method opera com tres workflows principais que cobrem todo o ciclo de vida editorial:</p>
 <table class="tutorial-table">
 <thead><tr><th>Workflow</th><th>Arquivo</th><th>Cobertura</th></tr></thead>
 <tbody>
@@ -1862,7 +1862,7 @@ PROXIMAS ACOES:
 
 <div class="tutorial-content-section">
 <h3>Os 4 Processos de Sincronizacao</h3>
-<p>O BEF mantem 4 processos de sincronizacao que garantem consistencia entre todos os sistemas:</p>
+<p>O Trivium Method mantem 4 processos de sincronizacao que garantem consistencia entre todos os sistemas:</p>
 </div>
 
 <div class="tutorial-content-section">
@@ -2063,7 +2063,7 @@ python sync_titles.py</div>
 <table class="tutorial-table">
 <thead><tr><th>Propriedade</th><th>Valor</th></tr></thead>
 <tbody>
-<tr><td>Trigger</td><td>Push para main (paths: *.html, public/**, assets/**) + manual</td></tr>
+<tr><td>Trigger</td><td>Push para main (paths: *.html, public/**) + manual</td></tr>
 <tr><td>Jobs</td><td>Build (valida HTML/JS) → Deploy (upload pages)</td></tr>
 <tr><td>Output URL</td><td>https://italogabriel-lab.github.io/Projeto-Editorial-Education/</td></tr>
 <tr><td>Concurrency</td><td>Grupo github-pages-deploy, cancela execucoes anteriores</td></tr>
@@ -2249,7 +2249,7 @@ Se as mudancas nao aparecerem no dashboard, faca hard refresh: <strong>Ctrl+Shif
 
 <div class="tutorial-content-section">
 <h3>Visao Geral da Knowledge Base</h3>
-<p>A Knowledge Base e o conjunto de documentos que fundamentam TODAS as decisoes editoriais do BEF. Cada agente consulta estes documentos durante sua operacao. Sem a KB, os agentes nao teriam padroes consistentes.</p>
+<p>A Knowledge Base e o conjunto de documentos que fundamentam TODAS as decisoes editoriais do Trivium Method. Cada agente consulta estes documentos durante sua operacao. Sem a KB, os agentes nao teriam padroes consistentes.</p>
 
 <h4>Documentos Principais (editorial-squad/knowledge-base/):</h4>
 <table class="tutorial-table">
@@ -2423,7 +2423,7 @@ Se as mudancas nao aparecerem no dashboard, faca hard refresh: <strong>Ctrl+Shif
 </ul>
 
 <div class="tutorial-info-card">
-<strong>Dica:</strong> Se voce tiver tempo para ler apenas UM documento do projeto, leia o <code>visao-geral-fluxo-editorial.md</code>. Ele contem praticamente tudo que voce precisa saber para operar o BEF.
+<strong>Dica:</strong> Se voce tiver tempo para ler apenas UM documento do projeto, leia o <code>visao-geral-fluxo-editorial.md</code>. Ele contem praticamente tudo que voce precisa saber para operar o Trivium Method.
 </div>
 </div>
 
@@ -2450,7 +2450,7 @@ Se as mudancas nao aparecerem no dashboard, faca hard refresh: <strong>Ctrl+Shif
 
 <div class="tutorial-content-section">
 <h3>Rotina Diaria Completa</h3>
-<p>Este e o fluxo passo-a-passo que um operador do BEF deve seguir em um dia tipico de trabalho editorial.</p>
+<p>Este e o fluxo passo-a-passo que um operador do Trivium Method deve seguir em um dia tipico de trabalho editorial.</p>
 
 <h4>Manha — Diagnostico e Planejamento (15 min)</h4>
 <div class="tutorial-code-block">PASSO 1: Abrir o Dashboard
@@ -2718,7 +2718,7 @@ FINAL DO DIA:
 
 <div class="tutorial-content-section">
 <h3>Conclusao</h3>
-<p>O Bibline Editorial Framework e um sistema completo e sofisticado, mas que se torna simples quando voce entende seus padroes:</p>
+<p>O Trivium Method e um sistema completo e sofisticado, mas que se torna simples quando voce entende seus padroes:</p>
 <ul>
 <li><strong>7 etapas</strong> que sempre seguem a mesma sequencia</li>
 <li><strong>5 habitos</strong> que sempre seguem a mesma estrutura</li>

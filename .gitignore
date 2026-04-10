@@ -86,6 +86,7 @@ node_modules
 dist/
 build/
 logs/
+generated/
 
 # IDE & OS (AIOX)
 .idea/

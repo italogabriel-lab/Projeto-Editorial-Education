@@ -1,0 +1,26 @@
+workflow:
+  id: class-production
+  name: Class Production
+  description: Pipeline editorial principal para producao de aula.
+  orchestrator: orchestrator
+  source_reference: triviumos/workflows/workflows/produce_class.md
+  phases:
+    - id: research
+      agent: researcher
+      action: research
+    - id: writing
+      agent: writer
+      action: draft-lesson
+    - id: formatting
+      agent: standardizer
+      action: standardize
+    - id: qa
+      agent: reviewer
+      action: review
+    - id: polish
+      agent: copywriter
+      action: polish
+    - id: publish
+      agent: publisher
+      action: publish
+

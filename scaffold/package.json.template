@@ -1,0 +1,18 @@
+{
+  "name": "{{PROJECT_NAME}}",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Workspace local gerado pelo instalador oficial do TriviumOS.",
+  "scripts": {
+    "triviumos:inventory": "node .triviumos-core/scripts/inventory.mjs",
+    "triviumos:doctor": "node .triviumos-core/scripts/doctor.mjs",
+    "triviumos:sync": "node src/sync.js",
+    "lint": "node .triviumos-core/scripts/doctor.mjs --mode lint",
+    "typecheck": "node .triviumos-core/scripts/doctor.mjs --mode typecheck",
+    "test": "node .triviumos-core/scripts/doctor.mjs --mode test"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+

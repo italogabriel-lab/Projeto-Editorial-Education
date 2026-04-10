@@ -1,24 +1,46 @@
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 
 // Performance tracking
 const startTime = Date.now();
 
 // PAT_TOKEN tem prioridade pois o GITHUB_TOKEN padrão do Actions
 // não tem permissão para acessar GitHub Projects (ProjectV2) via GraphQL
-let GITHUB_TOKEN = process.env.PAT_TOKEN || process.env.GITHUB_TOKEN_CLASSIC || process.env.GITHUB_TOKEN_FINE || process.env.GITHUB_TOKEN;
+let GITHUB_TOKEN =
+  process.env.TRIVIUMOS_GITHUB_TOKEN ||
+  process.env.PAT_TOKEN ||
+  process.env.GITHUB_TOKEN_CLASSIC ||
+  process.env.GITHUB_TOKEN_FINE ||
+  process.env.GITHUB_TOKEN;
+
+function tryReadTokenFromEnvFile(envPath) {
+  try {
+    const envFile = fs.readFileSync(envPath, 'utf8');
+    const tokenMatch =
+      envFile.match(/TRIVIUMOS_GITHUB_TOKEN=(.*)/) ||
+      envFile.match(/GITHUB_TOKEN=(.*)/);
+
+    if (tokenMatch) {
+      return tokenMatch[1].trim();
+    }
+  } catch (error) {
+    return null;
+  }
+
+  return null;
+}
 
 if (!GITHUB_TOKEN) {
-  try {
-    const envPath = path.resolve(__dirname, '../Projeto Bibline Academy/.env');
-    const envFile = fs.readFileSync(envPath, 'utf8');
-    const match = envFile.match(/GITHUB_TOKEN=(.*)/);
-    if (match) {
-      GITHUB_TOKEN = match[1].trim();
+  const candidateEnvFiles = [
+    path.resolve(__dirname, '../.env'),
+    path.resolve(__dirname, '../Projeto Bibline Academy/.env')
+  ];
+
+  for (const envPath of candidateEnvFiles) {
+    GITHUB_TOKEN = tryReadTokenFromEnvFile(envPath);
+    if (GITHUB_TOKEN) {
+      break;
     }
-  } catch (e) {
-    console.warn("Could not read .env file, continuing.");
   }
 }
 
@@ -29,7 +51,10 @@ if (!GITHUB_TOKEN) {
   process.exit(1);
 }
 
-const PROJECT_ID = "PVT_kwDODLv1ac4BH1XW";
+const PROJECT_ID =
+  process.env.TRIVIUMOS_PROJECT_ID ||
+  process.env.GITHUB_PROJECT_ID ||
+  "PVT_kwDODLv1ac4BH1XW";
 
 console.log("🚀 Starting Vision Board Sync Process...");
 console.log("📋 PROJECT_ID:", PROJECT_ID);
