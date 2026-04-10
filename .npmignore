@@ -1,0 +1,7 @@
+trivium-method/reports/
+trivium-method/**/__pycache__/
+trivium-method/**/*.pyc
+trivium-method/agents/skills/image-generator/test_pollinations_output.png
+trivium-method/agents/skills/image-generator/FINAL_REPORT.md
+trivium-method/agents/skills/image-generator/IMPLEMENTATION_PLAN.md
+trivium-method/agents/skills/image-generator/REORGANIZACAO-IMAGENS-RELATORIO.md

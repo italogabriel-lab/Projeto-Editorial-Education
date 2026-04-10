@@ -1,0 +1,19 @@
+workflow:
+  id: analytics-operations
+  name: Analytics Operations
+  description: Consolida progresso, gargalos e visao operacional do pipeline editorial.
+  orchestrator: performance-analytics
+  phases:
+    - id: ingest
+      agent: vision-github-analyzer
+      action: analyze-board
+    - id: progress
+      agent: vision-progress-engine
+      action: update-progress
+    - id: bottleneck
+      agent: vision-bottleneck-detector
+      action: detect-bottleneck
+    - id: report
+      agent: performance-analytics
+      action: report-team
+

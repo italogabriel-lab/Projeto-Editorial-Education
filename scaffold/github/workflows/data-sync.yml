@@ -1,0 +1,40 @@
+name: TriviumOS Data Sync
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run board sync
+        env:
+          PAT_TOKEN: ${{ secrets.TRIVIUMOS_GITHUB_TOKEN }}
+          TRIVIUMOS_PROJECT_ID: ${{ vars.TRIVIUMOS_PROJECT_ID }}
+        run: node src/sync.js
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "TriviumOS Bot"
+          git add public/data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: sync editorial dashboard"
+            git push
+          fi
+

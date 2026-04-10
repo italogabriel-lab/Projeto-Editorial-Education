@@ -1,0 +1,16 @@
+workflow:
+  id: bimester-assessment-cycle
+  name: Bimester Assessment Cycle
+  description: Produz revisoes e provas bimestrais com base na biblioteca editorial.
+  orchestrator: orchestrator
+  phases:
+    - id: review-build
+      agent: bimester-review-builder
+      action: build-review
+    - id: exam-build
+      agent: bimester-exam-builder
+      action: build-exam
+    - id: qa
+      agent: reviewer
+      action: review
+

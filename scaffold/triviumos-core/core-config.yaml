@@ -1,0 +1,26 @@
+framework:
+  name: TriviumOS
+  version: 1.0.0
+  methodology: aiox-inspired-editorial-framework
+
+paths:
+  registry: .triviumos-core/data/asset-registry.json
+  hierarchy: .triviumos-core/data/hierarchy.json
+  agents: .triviumos-core/development/agents
+  workflows: .triviumos-core/development/workflows
+  checklists: .triviumos-core/development/checklists
+  library: triviumos
+  disciplines: disciplines
+  stories: docs/stories
+
+runtime:
+  cliFirst: true
+  observabilityEnabled: true
+  sourceLibraryRoot: triviumos
+
+quality:
+  requiredScripts:
+    - lint
+    - typecheck
+    - test
+

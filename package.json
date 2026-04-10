@@ -1,0 +1,54 @@
+{
+  "name": "create-triviumos",
+  "version": "1.0.0",
+  "description": "Scaffolder oficial do TriviumOS, um framework editorial inspirado na arquitetura do AIOX.",
+  "type": "module",
+  "bin": {
+    "create-triviumos": "bin/create-triviumos.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "scaffold/",
+    "docs/framework/TRIVIUMOS-ADJUSTMENTS.md",
+    "docs/framework/TRIVIUMOS-ARCHITECTURE.md",
+    "docs/framework/TRIVIUMOS-HIERARCHY.md",
+    "docs/guides/TRIVIUMOS-DISCIPLINE-ONBOARDING.md",
+    "docs/guides/TRIVIUMOS-INSTALLATION.md",
+    "docs/stories/README.md",
+    "trivium-method/",
+    "public/app.js",
+    "public/metas-disciplinas.js",
+    "public/metas.js",
+    "public/sidebar.js",
+    "public/styles.css",
+    "public/videos.js",
+    "index.html",
+    "metas.html",
+    "metas-disciplinas.html",
+    "videos.html",
+    "agent-command-center.html",
+    "vercel.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build:artifacts": "node scripts/generate-triviumos-artifacts.mjs",
+    "lint": "node scripts/quality/lint.mjs",
+    "typecheck": "node scripts/quality/typecheck.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [
+    "triviumos",
+    "editorial-framework",
+    "aiox-style",
+    "classical-education",
+    "npx-installer"
+  ],
+  "author": "Italo Gabriel",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
