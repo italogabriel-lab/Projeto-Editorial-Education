@@ -1,5 +1,10 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// ES module equivalent of __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Performance tracking
 const startTime = Date.now();
@@ -7,7 +12,7 @@ const startTime = Date.now();
 // PAT_TOKEN tem prioridade pois o GITHUB_TOKEN padrão do Actions
 // não tem permissão para acessar GitHub Projects (ProjectV2) via GraphQL
 let GITHUB_TOKEN =
-  process.env.TRIVIUMOS_GITHUB_TOKEN ||
+  process.env['TRIVIUM-METHOD-EDITORIAL_GITHUB_TOKEN'] ||
   process.env.PAT_TOKEN ||
   process.env.GITHUB_TOKEN_CLASSIC ||
   process.env.GITHUB_TOKEN_FINE ||
@@ -17,8 +22,9 @@ function tryReadTokenFromEnvFile(envPath) {
   try {
     const envFile = fs.readFileSync(envPath, 'utf8');
     const tokenMatch =
-      envFile.match(/TRIVIUMOS_GITHUB_TOKEN=(.*)/) ||
-      envFile.match(/GITHUB_TOKEN=(.*)/);
+      envFile.match(/TRIVIUM-METHOD-EDITORIAL_GITHUB_TOKEN=(.*)/) ||
+      envFile.match(/GITHUB_TOKEN=(.*)/) ||
+      envFile.match(/PAT_TOKEN=(.*)/);
 
     if (tokenMatch) {
       return tokenMatch[1].trim();
@@ -52,7 +58,7 @@ if (!GITHUB_TOKEN) {
 }
 
 const PROJECT_ID =
-  process.env.TRIVIUMOS_PROJECT_ID ||
+  process.env['TRIVIUM-METHOD-EDITORIAL_PROJECT_ID'] ||
   process.env.GITHUB_PROJECT_ID ||
   "PVT_kwDODLv1ac4BH1XW";
 
