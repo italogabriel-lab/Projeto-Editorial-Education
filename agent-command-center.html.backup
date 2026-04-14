@@ -1,0 +1,4848 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluxo Editorial Academy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        /* ============================================
+           DESIGN SYSTEM - FLUXO EDITORIAL ACADEMY
+           Premium Modern Design
+           ============================================ */
+        :root {
+            /* Colors - Charcoal Dark Palette (Rumah style) */
+            --bg-primary: #131316;
+            --bg-secondary: #1a1a1f;
+            --bg-tertiary: #222228;
+            --bg-card: rgba(30, 30, 36, 0.85);
+            --bg-card-hover: rgba(40, 40, 48, 0.95);
+            --bg-glass: rgba(255, 255, 255, 0.03);
+            --bg-sidebar: #18181d;
+
+            /* Accent Colors - Teal/Cyan Primary */
+            --accent-primary: #2dd4bf;
+            --accent-primary-light: #5eead4;
+            --accent-primary-glow: rgba(45, 212, 191, 0.2);
+            
+            --accent-secondary: #67e8f9;
+            --accent-secondary-glow: rgba(103, 232, 249, 0.15);
+            
+            --accent-tertiary: #fbbf24;
+            --accent-tertiary-glow: rgba(251, 191, 36, 0.15);
+            
+            --accent-quaternary: #a78bfa;
+            --accent-quaternary-glow: rgba(167, 139, 250, 0.15);
+
+            /* Category Colors - Softer tones */
+            --accent-core: #2dd4bf;
+            --accent-core-glow: rgba(45, 212, 191, 0.15);
+            --accent-specialized: #67e8f9;
+            --accent-specialized-glow: rgba(103, 232, 249, 0.15);
+            --accent-analytics: #f9a8d4;
+            --accent-analytics-glow: rgba(249, 168, 212, 0.15);
+            --accent-bimester: #a78bfa;
+            --accent-bimester-glow: rgba(167, 139, 250, 0.15);
+            --accent-legacy: #6b7280;
+            --accent-legacy-glow: rgba(107, 114, 128, 0.15);
+
+            /* Text Colors */
+            --text-primary: #f0f0f5;
+            --text-secondary: #9ca3af;
+            --text-tertiary: #6b7280;
+            --text-muted: #4b5563;
+
+            /* Border & Divider */
+            --border-color: rgba(255, 255, 255, 0.06);
+            --border-light: rgba(255, 255, 255, 0.03);
+            --border-glow: rgba(45, 212, 191, 0.25);
+
+            /* Status Colors */
+            --status-active: #34d399;
+            --status-warning: #fbbf24;
+            --status-error: #f87171;
+            --status-legacy: #6b7280;
+
+            /* Spacing */
+            --spacing-xs: 0.25rem;
+            --spacing-sm: 0.5rem;
+            --spacing-md: 1rem;
+            --spacing-lg: 1.5rem;
+            --spacing-xl: 2rem;
+            --spacing-2xl: 3rem;
+            --spacing-3xl: 4rem;
+
+            /* Border Radius - Extra Rounded (Rumah style) */
+            --radius-sm: 0.5rem;
+            --radius-md: 0.75rem;
+            --radius-lg: 1rem;
+            --radius-xl: 1.25rem;
+            --radius-2xl: 1.5rem;
+            --radius-3xl: 1.75rem;
+            --radius-full: 9999px;
+
+            /* Shadows - Softer, less intense */
+            --shadow-xs: 0 1px 3px rgba(0, 0, 0, 0.2);
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.3);
+            --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.35);
+            --shadow-xl: 0 24px 56px rgba(0, 0, 0, 0.4);
+            --shadow-glow: 0 0 40px rgba(45, 212, 191, 0.1);
+            --shadow-glow-secondary: 0 0 40px rgba(103, 232, 249, 0.1);
+
+            /* Transitions */
+            --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+            --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+
+            /* Typography */
+            --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+        }
+
+        /* ============================================
+           RESET & BASE STYLES
+           ============================================ */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: var(--font-sans);
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        /* ============================================
+           BACKGROUND EFFECTS
+           ============================================ */
+        .bg-gradient {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            background: 
+                radial-gradient(ellipse 80% 50% at 20% -20%, rgba(45, 212, 191, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse 60% 40% at 80% 100%, rgba(103, 232, 249, 0.05) 0%, transparent 50%),
+                radial-gradient(ellipse 50% 30% at 60% 50%, rgba(167, 139, 250, 0.04) 0%, transparent 50%);
+        }
+
+        .bg-mesh {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: -1;
+            opacity: 0.4;
+            background-image: 
+                linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+            background-size: 60px 60px;
+        }
+
+        /* ============================================
+           HEADER & NAVIGATION
+           ============================================ */
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(19, 19, 22, 0.9);
+            backdrop-filter: blur(30px);
+            border-bottom: 1px solid var(--border-light);
+            padding: var(--spacing-md) var(--spacing-xl);
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--accent-primary), var(--accent-secondary), transparent);
+            opacity: 0.3;
+        }
+
+        .header-content {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: var(--spacing-lg);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+
+        .logo-icon {
+            width: 52px;
+            height: 52px;
+            background: linear-gradient(135deg, #1e3a3a 0%, #0d3331 100%);
+            border: 1px solid rgba(45, 212, 191, 0.2);
+            border-radius: var(--radius-xl);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            box-shadow: 0 4px 16px rgba(45, 212, 191, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .logo-icon::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+            transform: rotate(45deg);
+            animation: shimmer 3s ease-in-out infinite;
+        }
+
+        @keyframes shimmer {
+            0%, 100% { transform: translateX(-100%) rotate(45deg); }
+            50% { transform: translateX(100%) rotate(45deg); }
+        }
+
+        .logo-text h1 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #ffffff 0%, var(--accent-primary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            letter-spacing: -0.5px;
+        }
+
+        .logo-text p {
+            font-size: 0.8rem;
+            color: var(--text-tertiary);
+            font-weight: 400;
+            letter-spacing: 0.5px;
+        }
+
+        .search-bar {
+            flex: 1;
+            max-width: 480px;
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: var(--spacing-sm) var(--spacing-lg);
+            padding-left: 3rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            color: var(--text-primary);
+            font-family: var(--font-sans);
+            font-size: 0.875rem;
+            transition: all var(--transition-base);
+        }
+
+        .search-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 0 4px var(--accent-primary-glow), var(--shadow-glow);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: var(--spacing-lg);
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 1rem;
+            pointer-events: none;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: var(--spacing-sm);
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: var(--spacing-sm) var(--spacing-lg);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            color: var(--text-secondary);
+            font-family: var(--font-sans);
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .filter-btn:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--accent-primary);
+            color: var(--text-primary);
+            transform: translateY(-2px);
+        }
+
+        .filter-btn.active {
+            background: linear-gradient(135deg, var(--accent-primary), #14b8a6);
+            border-color: var(--accent-primary);
+            color: #0d1b1a;
+            font-weight: 700;
+            box-shadow: 0 4px 16px var(--accent-primary-glow);
+        }
+
+        /* ============================================
+           MAIN CONTENT
+           ============================================ */
+        .main {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: var(--spacing-2xl);
+        }
+
+        /* ============================================
+           WORKFLOW VISUALIZATION
+           ============================================ */
+        .workflow-section {
+            margin-bottom: var(--spacing-3xl);
+        }
+
+        .section-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: var(--spacing-xl);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+            color: var(--text-primary);
+            letter-spacing: -0.3px;
+        }
+
+        .section-title::before {
+            content: '';
+            width: 4px;
+            height: 24px;
+            background: linear-gradient(180deg, var(--accent-primary), var(--accent-secondary));
+            border-radius: 2px;
+        }
+
+        .workflow-diagram {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-xl);
+            background: var(--bg-glass);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-3xl);
+            backdrop-filter: blur(10px);
+            margin-bottom: var(--spacing-xl);
+        }
+
+        .workflow-step {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: var(--spacing-xs);
+            padding: var(--spacing-md) var(--spacing-lg);
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            min-width: 90px;
+            transition: all var(--transition-base);
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .workflow-step::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .workflow-step:hover {
+            transform: translateY(-6px);
+            border-color: var(--accent-primary);
+            box-shadow: 0 12px 32px var(--accent-primary-glow);
+        }
+
+        .workflow-step:hover::before {
+            opacity: 1;
+        }
+
+        .workflow-step-icon {
+            width: 44px;
+            height: 44px;
+            background: linear-gradient(135deg, var(--accent-primary-glow), var(--accent-secondary-glow));
+            border-radius: var(--radius-lg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            transition: transform var(--transition-base);
+        }
+
+        .workflow-step:hover .workflow-step-icon {
+            transform: scale(1.1) rotate(5deg);
+        }
+
+        .workflow-step-name {
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            text-align: center;
+            letter-spacing: 0.3px;
+        }
+
+        .workflow-step-number {
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .workflow-arrow {
+            color: var(--accent-primary);
+            font-size: 1.25rem;
+            opacity: 0.6;
+            padding: 0 var(--spacing-xs);
+        }
+
+        /* ============================================
+           AGENT GRID
+           ============================================ */
+        .agents-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: var(--spacing-lg);
+        }
+
+        @media (max-width: 1200px) {
+            .agents-grid {
+                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            }
+        }
+
+        @media (max-width: 768px) {
+            .agents-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ============================================
+           AGENT CARD
+           ============================================ */
+        .agent-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-2xl);
+            overflow: hidden;
+            transition: all var(--transition-spring);
+            position: relative;
+        }
+
+        .agent-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--card-accent), var(--card-accent-secondary));
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .agent-card:hover {
+            transform: translateY(-6px) scale(1.005);
+            border-color: var(--card-accent);
+            box-shadow: 
+                0 16px 36px rgba(0, 0, 0, 0.3),
+                0 0 24px var(--card-glow);
+        }
+
+        .agent-card:hover::before {
+            opacity: 1;
+        }
+
+        .agent-card.core {
+            --card-accent: var(--accent-core);
+            --card-accent-secondary: var(--accent-secondary);
+            --card-glow: var(--accent-core-glow);
+        }
+
+        .agent-card.specialized {
+            --card-accent: var(--accent-specialized);
+            --card-accent-secondary: var(--accent-primary);
+            --card-glow: var(--accent-specialized-glow);
+        }
+
+        .agent-card.analytics {
+            --card-accent: var(--accent-analytics);
+            --card-accent-secondary: var(--accent-tertiary);
+            --card-glow: var(--accent-analytics-glow);
+        }
+
+        .agent-card.bimester {
+            --card-accent: var(--accent-bimester);
+            --card-accent-secondary: var(--accent-primary);
+            --card-glow: var(--accent-bimester-glow);
+        }
+
+        .agent-card.legacy {
+            --card-accent: var(--accent-legacy);
+            --card-accent-secondary: var(--border-color);
+            --card-glow: var(--accent-legacy-glow);
+        }
+
+        .agent-card-header {
+            padding: var(--spacing-xl);
+            display: flex;
+            align-items: flex-start;
+            gap: var(--spacing-lg);
+            border-bottom: 1px solid var(--border-light);
+            background: linear-gradient(180deg, var(--bg-glass) 0%, transparent 100%);
+        }
+
+        .agent-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--card-accent) 0%, var(--card-accent-secondary) 100%);
+            border-radius: var(--radius-xl);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+            transition: transform var(--transition-base);
+            box-shadow: 0 4px 20px var(--card-glow);
+        }
+
+        .agent-card:hover .agent-icon {
+            transform: scale(1.1) rotate(8deg);
+        }
+
+        .agent-info {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .agent-category {
+            display: inline-block;
+            padding: var(--spacing-xs) var(--spacing-md);
+            background: var(--card-accent);
+            color: white;
+            font-size: 0.625rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-radius: var(--radius-full);
+            margin-bottom: var(--spacing-sm);
+            box-shadow: 0 2px 10px var(--card-glow);
+        }
+
+        .agent-name {
+            font-size: 1.375rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: var(--spacing-xs);
+            letter-spacing: -0.3px;
+        }
+
+        .agent-original-name {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: var(--font-mono);
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .agent-role {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: var(--spacing-sm);
+            line-height: 1.5;
+        }
+
+        .agent-card-body {
+            padding: var(--spacing-xl);
+        }
+
+        .agent-description {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--spacing-xl);
+            line-height: 1.7;
+        }
+
+        /* ============================================
+           COMMANDS SECTION
+           ============================================ */
+        .commands-section {
+            margin-top: var(--spacing-lg);
+        }
+
+        .commands-title {
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: var(--spacing-md);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+        }
+
+        .commands-list {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-sm);
+        }
+
+        .command-item {
+            display: flex;
+            flex-direction: column;
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-lg);
+            border: 1px solid transparent;
+            transition: all var(--transition-base);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .command-item::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background: var(--card-accent, var(--accent-primary));
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .command-item:hover {
+            border-color: var(--card-accent, var(--accent-primary));
+            background: var(--bg-card-hover);
+        }
+
+        .command-item:hover::before {
+            opacity: 1;
+        }
+
+        .command-item.expanded {
+            border-color: var(--card-accent, var(--accent-primary));
+            background: var(--bg-card-hover);
+        }
+
+        .command-item.expanded::before {
+            opacity: 1;
+        }
+
+        /* Command Header (clickable to expand) */
+        .command-header {
+            display: flex;
+            align-items: flex-start;
+            gap: var(--spacing-md);
+            padding: var(--spacing-md) var(--spacing-lg);
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .command-icon {
+            font-size: 1rem;
+            color: var(--card-accent, var(--accent-primary));
+            flex-shrink: 0;
+            margin-top: 2px;
+            transition: transform var(--transition-base);
+        }
+
+        .command-item.expanded .command-icon {
+            transform: rotate(90deg);
+        }
+
+        .command-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .command-code {
+            font-family: var(--font-mono);
+            font-size: 0.8rem;
+            color: var(--accent-primary-light);
+            background: rgba(45, 212, 191, 0.12);
+            padding: var(--spacing-xs) var(--spacing-sm);
+            border-radius: var(--radius-sm);
+            display: inline-block;
+            margin-bottom: var(--spacing-xs);
+            font-weight: 500;
+        }
+
+        .command-description {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            line-height: 1.5;
+        }
+
+        .expand-hint {
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            opacity: 0;
+            transition: opacity var(--transition-base);
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            align-self: center;
+        }
+
+        .command-header:hover .expand-hint {
+            opacity: 1;
+        }
+
+        .command-item.expanded .expand-hint {
+            opacity: 1;
+        }
+
+        /* Expandable Prompt Area */
+        .prompt-area {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                        padding 0.3s ease,
+                        opacity 0.3s ease;
+            opacity: 0;
+            padding: 0 var(--spacing-lg);
+        }
+
+        .command-item.expanded .prompt-area {
+            max-height: 600px;
+            opacity: 1;
+            padding: 0 var(--spacing-lg) var(--spacing-lg);
+            overflow-y: auto;
+        }
+
+        .prompt-container {
+            background: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+        }
+
+        .prompt-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--spacing-sm) var(--spacing-md);
+            background: rgba(45, 212, 191, 0.06);
+            border-bottom: 1px solid var(--border-light);
+        }
+
+        .prompt-label {
+            font-size: 0.625rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent-primary-light);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .copy-prompt-btn {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            padding: 4px 12px;
+            background: linear-gradient(135deg, var(--accent-primary), #14b8a6);
+            border: none;
+            border-radius: var(--radius-full);
+            color: white;
+            font-size: 0.625rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            font-family: var(--font-sans);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .copy-prompt-btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 16px rgba(45, 212, 191, 0.3);
+        }
+
+        .copy-prompt-btn:active {
+            transform: scale(0.97);
+        }
+
+        .copy-prompt-btn.copied {
+            background: linear-gradient(135deg, #22c55e, #16a34a);
+        }
+
+        .prompt-body {
+            padding: var(--spacing-md);
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .prompt-text {
+            font-family: var(--font-mono);
+            font-size: 0.7rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+
+        .prompt-body::-webkit-scrollbar { width: 4px; }
+        .prompt-body::-webkit-scrollbar-track { background: transparent; }
+        .prompt-body::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 2px;
+        }
+
+        .prompt-area::-webkit-scrollbar { width: 4px; }
+        .prompt-area::-webkit-scrollbar-track { background: transparent; }
+        .prompt-area::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 2px;
+        }
+
+        /* ============================================
+           USE CASES SECTION
+           ============================================ */
+        .use-cases-section {
+            margin-top: var(--spacing-xl);
+            padding-top: var(--spacing-lg);
+            border-top: 1px solid var(--border-light);
+        }
+
+        .use-cases-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--spacing-sm);
+        }
+
+        .use-case-tag {
+            padding: var(--spacing-xs) var(--spacing-md);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            font-size: 0.6875rem;
+            color: var(--text-secondary);
+            transition: all var(--transition-base);
+        }
+
+        .use-case-tag:hover {
+            border-color: var(--card-accent, var(--accent-primary));
+            color: var(--text-primary);
+            background: var(--bg-card-hover);
+        }
+
+        /* ============================================
+           STATUS INDICATOR
+           ============================================ */
+        .agent-status {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-top: var(--spacing-xl);
+            padding-top: var(--spacing-lg);
+            border-top: 1px solid var(--border-light);
+        }
+
+        .status-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        .status-dot.active {
+            background: var(--status-active);
+            box-shadow: 0 0 12px var(--status-active);
+        }
+
+        .status-dot.warning {
+            background: var(--status-warning);
+            box-shadow: 0 0 12px var(--status-warning);
+        }
+
+        .status-dot.legacy {
+            background: var(--status-legacy);
+        }
+
+        .status-text {
+            font-size: 0.6875rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.7; transform: scale(0.95); }
+        }
+
+        /* ============================================
+           CATEGORY SECTIONS
+           ============================================ */
+        .category-section {
+            margin-bottom: var(--spacing-3xl);
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: var(--spacing-xl);
+            padding-bottom: var(--spacing-lg);
+            border-bottom: 2px solid var(--border-color);
+            position: relative;
+        }
+
+        .category-header::after {
+            content: '';
+            position: absolute;
+            bottom: -2px;
+            left: 0;
+            width: 80px;
+            height: 2px;
+            background: linear-gradient(90deg, var(--category-accent), transparent);
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-lg);
+        }
+
+        .category-icon {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--category-accent), var(--category-accent-secondary, transparent));
+            border-radius: var(--radius-lg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            box-shadow: 0 4px 20px var(--category-glow);
+        }
+
+        .category-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            letter-spacing: -0.5px;
+        }
+
+        .category-count {
+            padding: var(--spacing-xs) var(--spacing-lg);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-full);
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            border: 1px solid var(--border-color);
+        }
+
+        .category-description {
+            font-size: 0.875rem;
+            color: var(--text-tertiary);
+            margin-top: var(--spacing-xs);
+        }
+
+        /* ============================================
+           TOAST NOTIFICATION
+           ============================================ */
+        .toast {
+            position: fixed;
+            bottom: var(--spacing-xl);
+            right: var(--spacing-xl);
+            padding: var(--spacing-md) var(--spacing-xl);
+            background: var(--bg-card);
+            border: 1px solid var(--accent-primary);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--shadow-xl), var(--shadow-glow);
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+            transform: translateY(120px) scale(0.9);
+            opacity: 0;
+            transition: all var(--transition-spring);
+            z-index: 1000;
+            backdrop-filter: blur(20px);
+        }
+
+        .toast.show {
+            transform: translateY(0) scale(1);
+            opacity: 1;
+        }
+
+        .toast-icon {
+            font-size: 1.25rem;
+        }
+
+        .toast-message {
+            font-size: 0.875rem;
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        /* ============================================
+           RESPONSIVE
+           ============================================ */
+        @media (max-width: 1024px) {
+            .header-content {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .search-bar {
+                max-width: none;
+            }
+
+            .filter-buttons {
+                justify-content: center;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .main {
+                padding: var(--spacing-lg);
+            }
+
+            .workflow-diagram {
+                flex-direction: column;
+            }
+
+            .workflow-arrow {
+                transform: rotate(90deg);
+            }
+
+            .logo-icon {
+                width: 44px;
+                height: 44px;
+            }
+
+            .logo-text h1 {
+                font-size: 1.25rem;
+            }
+        }
+
+        /* ============================================
+           SCROLLBAR
+           ============================================ */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-muted);
+        }
+
+        /* ============================================
+           GLOBAL STATS DASHBOARD
+           ============================================ */
+        .stats-dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: var(--spacing-lg);
+            margin-bottom: var(--spacing-3xl);
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-2xl);
+            padding: var(--spacing-xl);
+            position: relative;
+            overflow: hidden;
+            transition: all var(--transition-base);
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: var(--stat-gradient);
+            opacity: 0.8;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.4);
+            border-color: rgba(255,255,255,0.12);
+        }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: var(--stat-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1.1;
+            margin-bottom: var(--spacing-xs);
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: 600;
+        }
+
+        .stat-sub {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: var(--spacing-sm);
+        }
+
+        /* ============================================
+           EDITORIAL FLOW CONTROL PANEL
+           ============================================ */
+        .flow-control-panel {
+            margin-bottom: var(--spacing-3xl);
+        }
+
+        .pipeline-container {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-2xl);
+            overflow: hidden;
+        }
+
+        .pipeline-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: var(--spacing-xl) var(--spacing-2xl);
+            border-bottom: 1px solid var(--border-light);
+            background: linear-gradient(180deg, rgba(255,255,255,0.03) 0%, transparent 100%);
+        }
+
+        .pipeline-header-left {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-md);
+        }
+
+        .pipeline-header-left h3 {
+            font-size: 1.125rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .pipeline-badge {
+            padding: 3px 10px;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            border-radius: var(--radius-full);
+            font-size: 0.625rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .pipeline-tabs {
+            display: flex;
+            gap: var(--spacing-xs);
+        }
+
+        .pipeline-tab {
+            padding: var(--spacing-sm) var(--spacing-lg);
+            background: transparent;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            color: var(--text-secondary);
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all var(--transition-base);
+            font-family: var(--font-sans);
+        }
+
+        .pipeline-tab:hover { border-color: var(--accent-primary); color: var(--text-primary); }
+        .pipeline-tab.active {
+            background: var(--accent-primary);
+            border-color: var(--accent-primary);
+            color: white;
+        }
+
+        /* Swimlane Layout */
+        .swimlane-view {
+            display: flex;
+            overflow-x: auto;
+            padding: var(--spacing-xl);
+            gap: var(--spacing-md);
+            scroll-snap-type: x proximity;
+        }
+
+        .swimlane {
+            min-width: 260px;
+            flex: 0 0 260px;
+            scroll-snap-align: start;
+        }
+
+        .swimlane-header {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-md) var(--spacing-lg);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+            border: 1px solid var(--border-color);
+            border-bottom: 2px solid var(--lane-color, var(--accent-primary));
+        }
+
+        .swimlane-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: var(--lane-color, var(--accent-primary));
+            box-shadow: 0 0 8px var(--lane-color, var(--accent-primary));
+        }
+
+        .swimlane-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-primary);
+            flex: 1;
+        }
+
+        .swimlane-count {
+            font-size: 0.625rem;
+            color: var(--text-muted);
+            background: var(--bg-primary);
+            padding: 2px 8px;
+            border-radius: var(--radius-full);
+            font-weight: 600;
+        }
+
+        .swimlane-body {
+            display: flex;
+            flex-direction: column;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-md);
+            border: 1px solid var(--border-light);
+            border-top: none;
+            border-radius: 0 0 var(--radius-xl) var(--radius-xl);
+            min-height: 200px;
+            background: rgba(10,10,15,0.4);
+        }
+
+        .lane-agent-card {
+            padding: var(--spacing-md);
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            cursor: pointer;
+            transition: all var(--transition-base);
+            position: relative;
+        }
+
+        .lane-agent-card:hover {
+            border-color: var(--lane-color, var(--accent-primary));
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        }
+
+        .lane-agent-top {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .lane-agent-icon {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, var(--lane-color, var(--accent-primary)), var(--accent-secondary));
+            border-radius: var(--radius-md);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.875rem;
+            flex-shrink: 0;
+        }
+
+        .lane-agent-name {
+            font-size: 0.8125rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .lane-agent-role {
+            font-size: 0.6875rem;
+            color: var(--text-tertiary);
+            line-height: 1.4;
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .lane-skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+
+        .lane-skill {
+            padding: 2px 8px;
+            background: rgba(45, 212, 191, 0.08);
+            border: 1px solid rgba(45, 212, 191, 0.15);
+            border-radius: var(--radius-full);
+            font-size: 0.5625rem;
+            color: var(--accent-primary-light);
+            font-weight: 600;
+            letter-spacing: 0.3px;
+        }
+
+        .lane-connector {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 24px;
+            flex: 0 0 24px;
+            align-self: center;
+            color: var(--text-muted);
+            font-size: 1.25rem;
+            opacity: 0.5;
+        }
+
+        /* ============================================
+           SKILLS DETAIL IN AGENT CARDS
+           ============================================ */
+        .skills-section {
+            margin-top: var(--spacing-lg);
+            padding-top: var(--spacing-lg);
+            border-top: 1px solid var(--border-light);
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--spacing-sm);
+            margin-top: var(--spacing-md);
+        }
+
+        .skill-item {
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-sm);
+            padding: var(--spacing-sm) var(--spacing-md);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            border: 1px solid transparent;
+            transition: all var(--transition-fast);
+        }
+
+        .skill-item:hover {
+            border-color: var(--card-accent, var(--accent-primary));
+            background: var(--bg-card-hover);
+        }
+
+        .skill-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--card-accent, var(--accent-primary));
+            flex-shrink: 0;
+        }
+
+        .skill-name {
+            font-size: 0.6875rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* Flow connector animation */
+        @keyframes flowPulse {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        .flow-arrow-animated {
+            animation: flowPulse 2s ease-in-out infinite;
+        }
+
+        /* Swimlane scrollbar */
+        .swimlane-view::-webkit-scrollbar { height: 6px; }
+        .swimlane-view::-webkit-scrollbar-track { background: transparent; }
+        .swimlane-view::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 3px;
+        }
+
+        /* ============================================
+           TUTORIAL SECTION STYLES
+           ============================================ */
+        .tutorial-section { padding: 2rem 0; }
+        .tutorial-intro { color: var(--text-secondary); font-size: 0.95rem; margin-bottom: 2rem; line-height: 1.7; }
+        .tutorial-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 1.5rem; }
+
+        .tutorial-module { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-xl); overflow: hidden; transition: all var(--transition-base); }
+        .tutorial-module:hover { border-color: var(--accent-primary); box-shadow: var(--shadow-glow); }
+
+        .module-header { display: flex; align-items: center; gap: 1rem; padding: 1.25rem 1.5rem; cursor: pointer; transition: background var(--transition-base); }
+        .module-header:hover { background: var(--bg-card-hover); }
+        .module-icon { font-size: 1.5rem; color: var(--accent-primary); flex-shrink: 0; }
+        .module-info h3 { font-size: 1rem; font-weight: 600; color: var(--text-primary); margin: 0; }
+        .module-info p { font-size: 0.8rem; color: var(--text-muted); margin: 0.25rem 0 0 0; }
+        .expand-icon { margin-left: auto; color: var(--text-muted); transition: transform var(--transition-base); font-size: 0.9rem; }
+        .module-header.active .expand-icon { transform: rotate(180deg); }
+
+        .module-content { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; }
+        .module-content.expanded { max-height: 3000px; }
+
+        .lesson { padding: 1.25rem 1.5rem; border-top: 1px solid var(--border-color); }
+        .lesson:first-child { border-top: none; }
+        .lesson h4 { font-size: 0.95rem; font-weight: 600; color: var(--accent-primary-light); margin: 0 0 0.75rem 0; }
+        .lesson p { font-size: 0.85rem; color: var(--text-secondary); margin: 0.5rem 0; line-height: 1.6; }
+        .lesson ol, .lesson ul { font-size: 0.85rem; color: var(--text-secondary); padding-left: 1.5rem; margin: 0.5rem 0; }
+        .lesson li { margin-bottom: 0.35rem; line-height: 1.6; }
+
+        .command-list { background: rgba(0,0,0,0.2); border-radius: var(--radius-md); padding: 1rem 1.25rem; margin-top: 0.75rem; }
+        .command-list code { display: inline-block; background: rgba(45,212,191,0.1); color: var(--accent-primary-light); padding: 0.15rem 0.5rem; border-radius: var(--radius-sm); font-size: 0.8rem; font-family: var(--font-mono); margin: 0.15rem 0; }
+        .command-list br { margin-bottom: 0.5rem; }
+
+        @media (max-width: 768px) {
+            .tutorial-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Background Gradient -->
+    <div class="bg-gradient"></div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast">
+        <span class="toast-icon">✅</span>
+        <span class="toast-message">Command copied to clipboard!</span>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">◈</div>
+                <div class="logo-text">
+                    <h1>Fluxo Editorial Academy</h1>
+                    <p>Plataforma de Gestão Editorial</p>
+                </div>
+            </div>
+
+            <div class="search-bar">
+                <span class="search-icon">🔍</span>
+                <input type="text" class="search-input" id="searchInput"
+                    placeholder="Search agents by name, role, or command...">
+            </div>
+
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="core">Core</button>
+                <button class="filter-btn" data-filter="specialized">Specialized</button>
+                <button class="filter-btn" data-filter="analytics">Analytics</button>
+                <button class="filter-btn" data-filter="bimester">Bimester</button>
+                <button class="filter-btn" data-filter="legacy">Legacy</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Global Stats Dashboard -->
+        <section class="stats-dashboard" id="globalStats">
+            <div class="stat-card" style="--stat-gradient: linear-gradient(135deg, #0d9488, #2dd4bf);">
+                <div class="stat-value">22</div>
+                <div class="stat-label">Agentes Ativos</div>
+                <div class="stat-sub">18 operacionais · 4 legacy</div>
+            </div>
+            <div class="stat-card" style="--stat-gradient: linear-gradient(135deg, #0891b2, #67e8f9);">
+                <div class="stat-value">7</div>
+                <div class="stat-label">Etapas Pipeline</div>
+                <div class="stat-sub">Orquestração → Publicação</div>
+            </div>
+            <div class="stat-card" style="--stat-gradient: linear-gradient(135deg, #f472b6, #f9a8d4);">
+                <div class="stat-value">21</div>
+                <div class="stat-label">Skills Registradas</div>
+                <div class="stat-sub">Habilidades operacionais mapeadas</div>
+            </div>
+            <div class="stat-card" style="--stat-gradient: linear-gradient(135deg, #8b5cf6, #a78bfa);">
+                <div class="stat-value">5</div>
+                <div class="stat-label">Categorias</div>
+                <div class="stat-sub">Core · Specialized · Analytics · Bimester · Legacy</div>
+            </div>
+        </section>
+
+        <!-- Editorial Flow Control Panel -->
+        <section class="flow-control-panel">
+            <h2 class="section-title">Painel de Controle — Fluxo Editorial</h2>
+            <div class="pipeline-container">
+                <div class="pipeline-header">
+                    <div class="pipeline-header-left">
+                        <h3>🔄 Pipeline de Desenvolvimento de Aulas</h3>
+                        <span class="pipeline-badge">Live</span>
+                    </div>
+                    <div class="pipeline-tabs">
+                        <button class="pipeline-tab active" onclick="showPipelineView('all')">Todas as Etapas</button>
+                        <button class="pipeline-tab" onclick="showPipelineView('core')">Core</button>
+                        <button class="pipeline-tab" onclick="showPipelineView('support')">Suporte</button>
+                    </div>
+                </div>
+
+                <div class="swimlane-view" id="swimlaneView">
+                    <!-- Stage 0: Orchestration -->
+                    <div class="swimlane" style="--lane-color: #a78bfa;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Orquestração</div>
+                            <div class="swimlane-count">Stage 0</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('orchestrator')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">◈</div>
+                                    <div class="lane-agent-name">Maestro</div>
+                                </div>
+                                <div class="lane-agent-role">Diagnostica, prioriza e delega tarefas</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Diagnóstico</span>
+                                    <span class="lane-skill">Priorização</span>
+                                    <span class="lane-skill">Delegação</span>
+                                    <span class="lane-skill">Auditoria</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated">→</div>
+
+                    <!-- Stage 1: Research -->
+                    <div class="swimlane" style="--lane-color: #38bdf8;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Pesquisa</div>
+                            <div class="swimlane-count">Stage 1</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('researcher')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">⌕</div>
+                                    <div class="lane-agent-name">Seeker</div>
+                                </div>
+                                <div class="lane-agent-role">Coleta informações com metodologia Ad Fontes</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Ad Fontes</span>
+                                    <span class="lane-skill">Webster 1828</span>
+                                    <span class="lane-skill">Obras de Arte</span>
+                                    <span class="lane-skill">Exegese</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.3s">→</div>
+
+                    <!-- Stage 2: Writing -->
+                    <div class="swimlane" style="--lane-color: #4ade80;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Escrita</div>
+                            <div class="swimlane-count">Stage 2</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('writer')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">✎</div>
+                                    <div class="lane-agent-name">Scribe</div>
+                                </div>
+                                <div class="lane-agent-role">Transforma pesquisa em conteúdo pedagógico</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Golden Template</span>
+                                    <span class="lane-skill">5 Hábitos</span>
+                                    <span class="lane-skill">Redação</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.6s">→</div>
+
+                    <!-- Stage 3: Standardization -->
+                    <div class="swimlane" style="--lane-color: #f59e0b;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Formatação</div>
+                            <div class="swimlane-count">Stage 3</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('standardizer')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">⬢</div>
+                                    <div class="lane-agent-name">Architect</div>
+                                </div>
+                                <div class="lane-agent-role">Formata com Rise Blocks e correções</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Rise Blocks</span>
+                                    <span class="lane-skill">Voz Ativa</span>
+                                    <span class="lane-skill">Capitalização EU</span>
+                                </div>
+                            </div>
+                            <div class="lane-agent-card" onclick="scrollToAgent('capitalizer')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">ABC</div>
+                                    <div class="lane-agent-name">Lexicon</div>
+                                </div>
+                                <div class="lane-agent-role">Padrão europeu de capitalização</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Sentence-case</span>
+                                    <span class="lane-skill">Consistência</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:0.9s">→</div>
+
+                    <!-- Stage 4: Review -->
+                    <div class="swimlane" style="--lane-color: #f87171;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Revisão</div>
+                            <div class="swimlane-count">Stage 4</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('reviewer')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">🛡</div>
+                                    <div class="lane-agent-name">Guardian</div>
+                                </div>
+                                <div class="lane-agent-role">QA com checklist de 13 categorias</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">13 Categorias</span>
+                                    <span class="lane-skill">Fact-Check</span>
+                                    <span class="lane-skill">Doutrina</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.2s">→</div>
+
+                    <!-- Stage 5: Polish -->
+                    <div class="swimlane" style="--lane-color: #c084fc;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Polimento</div>
+                            <div class="swimlane-count">Stage 5</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('copywriter')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">◦</div>
+                                    <div class="lane-agent-name">Polisher</div>
+                                </div>
+                                <div class="lane-agent-role">Acabamento final de títulos e fluidez</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Títulos</span>
+                                    <span class="lane-skill">Fluidez</span>
+                                    <span class="lane-skill">Tom de Voz</span>
+                                </div>
+                            </div>
+                            <div class="lane-agent-card" onclick="scrollToAgent('image-generator')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">▣</div>
+                                    <div class="lane-agent-name">Illustrator</div>
+                                </div>
+                                <div class="lane-agent-role">Gera ilustrações em aquarela clássica</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Aquarela</span>
+                                    <span class="lane-skill">Pollinations</span>
+                                    <span class="lane-skill">Gemini</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lane-connector flow-arrow-animated" style="animation-delay:1.5s">→</div>
+
+                    <!-- Stage 6: Publish -->
+                    <div class="swimlane" style="--lane-color: #34d399;">
+                        <div class="swimlane-header">
+                            <div class="swimlane-dot"></div>
+                            <div class="swimlane-title">Publicação</div>
+                            <div class="swimlane-count">Stage 6</div>
+                        </div>
+                        <div class="swimlane-body">
+                            <div class="lane-agent-card" onclick="scrollToAgent('publisher')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">◈</div>
+                                    <div class="lane-agent-name">Herald</div>
+                                </div>
+                                <div class="lane-agent-role">Publica no GitHub e registra no Macro</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">GitHub</span>
+                                    <span class="lane-skill">Macro</span>
+                                    <span class="lane-skill">Versioning</span>
+                                </div>
+                            </div>
+                            <div class="lane-agent-card" onclick="scrollToAgent('devops')">
+                                <div class="lane-agent-top">
+                                    <div class="lane-agent-icon">⚙</div>
+                                    <div class="lane-agent-name">Sentinel</div>
+                                </div>
+                                <div class="lane-agent-role">Gatekeeper do repositório</div>
+                                <div class="lane-skills">
+                                    <span class="lane-skill">Git Ops</span>
+                                    <span class="lane-skill">CI/CD</span>
+                                    <span class="lane-skill">Cleanup</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Workflow Visualization -->
+        <section class="workflow-section">
+            <h2 class="section-title">Editorial Workflow Pipeline</h2>
+            <div class="workflow-diagram">
+                <div class="workflow-step" data-agent="orchestrator">
+                    <div class="workflow-step-icon">◈</div>
+                    <div class="workflow-step-name">Maestro</div>
+                    <div class="workflow-step-number">Stage 0</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="researcher">
+                    <div class="workflow-step-icon">⌕</div>
+                    <div class="workflow-step-name">Seeker</div>
+                    <div class="workflow-step-number">Stage 1</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="writer">
+                    <div class="workflow-step-icon">✎</div>
+                    <div class="workflow-step-name">Scribe</div>
+                    <div class="workflow-step-number">Stage 2</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="standardizer">
+                    <div class="workflow-step-icon">⬢</div>
+                    <div class="workflow-step-name">Architect</div>
+                    <div class="workflow-step-number">Stage 3</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="reviewer">
+                    <div class="workflow-step-icon">🛡</div>
+                    <div class="workflow-step-name">Guardian</div>
+                    <div class="workflow-step-number">Stage 4</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="copywriter">
+                    <div class="workflow-step-icon">◦</div>
+                    <div class="workflow-step-name">Polisher</div>
+                    <div class="workflow-step-number">Stage 5</div>
+                </div>
+                <div class="workflow-arrow">→</div>
+                <div class="workflow-step" data-agent="publisher">
+                    <div class="workflow-step-icon">◈</div>
+                    <div class="workflow-step-name">Herald</div>
+                    <div class="workflow-step-number">Stage 7</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Category: Core Pipeline -->
+        <section class="category-section" data-category="core">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-core);">◈</div>
+                    <div>
+                        <div class="category-name">Core Pipeline</div>
+                        <div class="category-description">Main editorial workflow — from research to publication</div>
+                    </div>
+                </div>
+                <span class="category-count">7 agents</span>
+            </div>
+            <div class="agents-grid" id="core-agents"></div>
+        </section>
+
+        <!-- Category: Specialized -->
+        <section class="category-section" data-category="specialized">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-specialized);">◐</div>
+                    <div>
+                        <div class="category-name">Specialized Agents</div>
+                        <div class="category-description">Technical operations, design, and creative functions</div>
+                    </div>
+                </div>
+                <span class="category-count">5 agents</span>
+            </div>
+            <div class="agents-grid" id="specialized-agents"></div>
+        </section>
+
+        <!-- Category: Analytics -->
+        <section class="category-section" data-category="analytics">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-analytics);">⊞</div>
+                    <div>
+                        <div class="category-name">Analytics Agents</div>
+                        <div class="category-description">Vision Board intelligence — data extraction, progress
+                            tracking, and bottleneck detection</div>
+                    </div>
+                </div>
+                <span class="category-count">4 agents</span>
+            </div>
+            <div class="agents-grid" id="analytics-agents"></div>
+        </section>
+
+        <!-- Category: Bimester -->
+        <section class="category-section" data-category="bimester">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-bimester);">▤</div>
+                    <div>
+                        <div class="category-name">Bimester Agents</div>
+                        <div class="category-description">Periodic assessment — reviews and exams compilation</div>
+                    </div>
+                </div>
+                <span class="category-count">2 agents</span>
+            </div>
+            <div class="agents-grid" id="bimester-agents"></div>
+        </section>
+
+        <!-- Category: Legacy -->
+        <section class="category-section" data-category="legacy">
+            <div class="category-header">
+                <div class="category-title">
+                    <div class="category-icon" style="background: var(--accent-legacy);">▢</div>
+                    <div>
+                        <div class="category-name">Legacy Agents</div>
+                        <div class="category-description">Historical reference — replaced by newer agents</div>
+                    </div>
+                </div>
+                <span class="category-count">4 agents</span>
+            </div>
+            <div class="agents-grid" id="legacy-agents"></div>
+        </section>
+
+
+        <!-- ============================================
+             TUTORIAL SECTION — BIBLINE EDITORIAL SQUAD
+             ============================================ -->
+        <section class="tutorial-section" id="tutorial-section" style="margin-top:3rem;">
+            <div class="section-title"><i class="ph ph-graduation-cap"></i>Curso Completo — Squad Editorial Bibline</div>
+            <p class="tutorial-intro">Guia interativo de toda a estrutura do fluxo editorial. Clique em cada módulo para expandir e aprender sobre cada agente, pipeline, e ferramentas do projeto.</p>
+
+            <div class="tutorial-grid">
+                <!-- Módulo 1: Pipeline Principal -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-arrows-left-right module-icon"></i>
+                        <div class="module-info"><h3>Módulo 1: Pipeline Editorial (7 Etapas)</h3><p>Fluxo completo da pesquisa à publicação</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Etapa 0 — Orquestração (Orchestrator)</h4><p><strong>Persona:</strong> Diretor Editorial. Diagnostica, prioriza e delega.</p><p><strong>5 funções:</strong> (1) Diagnóstico de progresso via Currículo Macro; (2) Priorização inteligente (completar semana atual → sync → publicar → iniciar nova); (3) Roteamento para skills corretos (tabela com 20+ entradas); (4) Auditoria de consistência (títulos H1, definições idênticas em 5+ locais, links de imagem); (5) Conhecimento do ecossistema inteiro.</p><p><strong>Regra crítica:</strong> Nunca executa trabalho de outros agentes. Sempre roda <code>scripts/sync_titles.py</code> ao detectar divergência de títulos.</p></div>
+                        <div class="lesson"><h4>Etapa 1 — Pesquisa (Researcher)</h4><p><strong>Persona:</strong> Investigador. Coleta informações de fontes primárias.</p><p><strong>Metodologia:</strong> Ad Fontes (fontes primárias), Trivium (fase Grammar), Cosmovisão Cristã.</p><p><strong>Pré-requisitos:</strong> Resolver caminhos do ano, consultar Plano Pedagógico, verificar termos proibidos (já definidos no Currículo Macro).</p><p><strong>Pesquisa por 5 Hábitos:</strong> Definir (Webster 1828), Perceber (obras de arte), Recordar (versículos/hinos), Praticar (ideias de atividades), Narrar (trechos literários).</p><p><strong>Banco de Autores para Narrar:</strong> Pais da Igreja (Agostinho, Basílio, Gregório de Nissa), Puritanos (Owen, Baxter, Watson, Bunyan), Poetas Cristãos Clássicos (Herbert, Milton, Rossetti, Tolkien), Autores Modernos (Chesterton, Lewis, Eliot), Artistas Visuais (Giotto, Caravaggio, Rembrandt, Blake, Friedrich).</p></div>
+                        <div class="lesson"><h4>Etapa 2 — Redação (Writer)</h4><p><strong>Persona:</strong> Escriba. Transforma pesquisa em conteúdo pedagógico.</p><p><strong>Pré-requisitos:</strong> Título H1 deve corresponder EXATAMENTE ao Currículo Macro. Termos marcados com ✓ são PROIBIDOS.</p><p><strong>Framework 5 Hábitos:</strong> Definir (intro imperativa + vídeo + Accordion), Perceber (3-4 frases imperativas + 2 hotspots), Recordar (definição 9-10 palavras em Statement_D), Praticar (Fill_In com 3-4 lacunas + atividade extra PDF), Narrar (trecho literário + 3 perguntas).</p><p><strong>Regras de estilo:</strong> Voz ativa, imperativo, máx 30 palavras/frase, máx 70 palavras/parágrafo, sem <code>; : --</code>, aspas retas, sem emojis, capitalização europeia.</p><p><strong>Output:</strong> <code>draft_class.md</code></p></div>
+                        <div class="lesson"><h4>Etapa 3 — Padronização (Standardizer)</h4><p><strong>Persona:</strong> Arquiteto. Formata com Rise Blocks.</p><p><strong>Correções pré-blocos:</strong> Verificar H1 vs Macro, remover <code>; : --</code>, converter aspas curvas → retas, voz passiva → ativa, imperativo, limites de texto, capitalização europeia.</p><p><strong>14 Rise Block tags:</strong> PARAGRAPH, HEADING, ACCORDION, VIDEO, MP3, IMAGE_LABELED, STATEMENT_D, IMAGE_TEXT_ON, FILL_IN, ATTACHMENT, IMAGE_TEXT_ASIDE, LIST_NUMBERED, MATCHING, MULTIPLE.</p><p><strong>Regras fixas:</strong> Sem headers de metadados, sem emojis de seção, sem separadores <code>---</code>, sem termos em inglês.</p><p><strong>Output:</strong> <code>formatted_class.md</code></p></div>
+                        <div class="lesson"><h4>Etapa 4 — Revisão (Reviewer)</h4><p><strong>Persona:</strong> Editor-Chefe / QA. Gate de qualidade editorial.</p><p><strong>Checklist de 13 categorias:</strong> (0) Título H1 = Macro; (1) Voz/tenso (ativa, imperativo, presente, sem sinais proibidos); (2-6) Regras por hábito (Definir, Perceber, Recordar, Praticar, Narrar); (7) Repetição de definição em 5+ locais; (8) Fidelidade pedagógica; (9) Consistência doutrinária; (10) Fact-checking; (11) Termo único; (12) Integridade Rise Blocks; (13) Conformidade Golden Template.</p><p><strong>10 erros conhecidos de IA:</strong> Accordion com termo repetido, Matching invertido, definição Recordar longa, Fill_In sem enunciado, voz passiva, sinais proibidos, aspas curvas, definição inconsistente, perguntas fora de tema, primeiro parágrafo repete título.</p><p><strong>Protocolo:</strong> <code>[APPROVED_FOR_STEP_5]</code> ou <code>[REJECTED — RETURN TO STEP X]</code> com log detalhado.</p></div>
+                        <div class="lesson"><h4>Etapa 5 — Polimento (Copywriter)</h4><p><strong>Persona:</strong> Polidor Final. Otimização final antes da publicação.</p><p><strong>Checklist de 7 itens:</strong> Título H1 criativo/engajante, enunciados 100% imperativos com variação de verbos, reflexão Accordion inicia com "Entenda que...", trecho Narrar poético com atribuição, 3 perguntas abertas progressivas, fluidez geral, conformidade final.</p><p><strong>Protocolo:</strong> Problemas menores → corrige direto; Estruturais → retorna Etapa 3/4. NUNCA altera definições validadas. NUNCA adiciona/remove Rise blocks.</p><p><strong>Output:</strong> <code>final_class.md</code></p></div>
+                        <div class="lesson"><h4>Etapa 7 — Publicação (Publisher)</h4><p><strong>Persona:</strong> Distribuidor. Salva e publica no GitHub.</p><p><strong>4 etapas:</strong> (1) Salvar localmente como <code>[NUMERO].md</code>; (2) Registrar termo no Currículo Macro (marcar com ✓); (3) Push para GitHub via MCP <code>create_or_update_file</code>; (4) Confirmar ao usuário.</p><p><strong>Estrutura semanal:</strong> X.1, X.2, X.3 (conteúdo), X.4 (revisão semanal), X.5 (prova/quiz).</p><p><strong>Mapeamento de anos:</strong> 1º=Arte Cristã Primitiva, 2º=Da Criação até Arte Bizantina, 3º=Renascimento e Reforma, 4º=Barroco até Neoclassicismo, 5º=Maneirismo até Realismo Americano.</p></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 2: Skills Especializados -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-paint-brush module-icon"></i>
+                        <div class="module-info"><h3>Módulo 2: Skills Especializados</h3><p>Copywriter, Design Thinking, UI Designer, DevOps, Capitalizer</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Copywriter — Polidor Final</h4><p><strong>Etapa 5</strong> do fluxo editorial. Recebe <code>reviewed_class.md</code> aprovado do Reviewer.</p><p><strong>Responsabilidades:</strong> Otimizar títulos H1 (criativos, engajantes), garantir enunciados 100% imperativos com variação de verbos, reflexão Accordion profunda mas acessível ("Entenda que..."), trecho literário Narrar poético com atribuição completa, 3 perguntas reflexivas abertas progredindo em profundidade.</p><p><strong>Conformidade final:</strong> Sem <code>; : --</code>, sem aspas curvas, sem emojis, sem separadores <code>---</code>, sem metadados, todas as tags Rise fechadas.</p></div>
+                        <div class="lesson"><h4>Design Thinking — Coordenador de UX</h4><p><strong>5 fases:</strong> (1) Descoberta — pesquisas com usuários, personas, jornadas; (2) Definição — problem statements, insights, perguntas HMW; (3) Ideação — brainstorming (SCAMPER, Crazy 8s), wireframes; (4) Prototipação — papel, wireframe, alta fidelidade, interativo (Figma, Miro, Principle); (5) Validação — testes de usabilidade, iteração.</p><p><strong>Delegação:</strong> Design System, componentes visuais, protótipos → @ui-designer. Wireframes, testes de usabilidade, pesquisas → @design-thinking.</p></div>
+                        <div class="lesson"><h4>UI Designer — Design System Premium</h4><p><strong>5 responsabilidades:</strong> (1) Design System — tokens (cores, tipografia, espaçamento, sombras, bordas, breakpoints), paleta de cores com validação WCAG; (2) Responsivo — breakpoints (xs:320, sm:480, md:768, lg:1024, xl:1280, xxl:1536), grid 12 colunas; (3) Componentização — Atomic Design (Átomos a Páginas), props/variants com interfaces TypeScript; (4) Acessibilidade — WCAG 2.1 AA (contraste 4.5:1, foco visível, ARIA, navegação teclado, alvos 44x44px); (5) Documentação — style guide, docs de componentes.</p></div>
+                        <div class="lesson"><h4>DevOps — Gatekeeper do Repositório</h4><p><strong>Regra de Ouro:</strong> Git NÃO é para mídia pesada. Apenas texto, histórico e conhecimento.</p><p><strong>Bloqueia:</strong> <code>*.mp4</code>, <code>*.pdf</code>, <code>*.zip</code>, <code>.mp3</code>, caches/logs do Obsidian.</p><p><strong>Workflow de publicação:</strong> Segue <code>editorial-squad/workflows/publish.md</code>. Limpeza de emergência: <code>git rm -r --cached .</code> → <code>git add .</code> → commit → <code>push origin --force</code>.</p><p><strong>Convenções de commit:</strong> <code>chore:</code>, <code>content:</code>, <code>fix:</code></p></div>
+                        <div class="lesson"><h4>Capitalizer — Capitalização Europeia</h4><p><strong>Padrão:</strong> Acordo Ortográfico 1990. Aplicado na Etapa 3 (Standardizer), verificado na Etapa 4 (Reviewer).</p><p><strong>7 Regras Master:</strong> (1) Sentence-case padrão; (2) Exceções obrigatórias (nomes próprios, topônimos, títulos institucionais, obras de arte, acrônimos, nomes de Deus, referências bíblicas); (3) Termos descritivos em minúsculas (império romano, oriente, arte bizantina); (4) Preposições/artigos sempre minúsculos no meio de títulos; (5) SEM dois pontos em títulos de seção; (6) H1 sentence-case, H2 nomes fixos de hábitos; (7) Consistência obrigatória entre todas as seções.</p></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 3: Vision Board Analytics -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-chart-line-up module-icon"></i>
+                        <div class="module-info"><h3>Módulo 3: Vision Board Analytics</h3><p>Performance, progresso, gargalos e análise de dados</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Performance Analytics</h4><p><strong>Objetivo:</strong> Analisar produção de tickets no Kanban do GitHub Projects para relatórios individuais e de equipe.</p><p><strong>4 comandos:</strong> <code>/performance user &lt;username&gt; [disciplina] [ano]</code>, <code>/performance discipline &lt;disciplina&gt; [ano]</code>, <code>/performance team [disciplina] [ano]</code>, <code>/performance velocity &lt;username&gt; [weeks]</code></p><p><strong>Métricas:</strong> Produção individual (total tickets, taxa de conclusão, tickets/semana), desempenho por disciplina (tickets por matéria, meta vs realizado), status do pipeline (Backlog/In Progress/In Review/Video/Done), ritmo e velocidade (lead time, throughput, capacidade, projeção).</p><p><strong>Estrutura do relatório:</strong> Header, métricas principais, distribuição de status, ranking/comparativo, insights e ações recomendadas.</p></div>
+                        <div class="lesson"><h4>Vision Progress Engine — Motor de Metas</h4><p><strong>Input:</strong> <code>data.json</code> + calendário oficial de metas.</p><p><strong>Calendário padrão:</strong> 2º ano=Março, 3º ano=Abril, 1º ano=Maio, 4º ano=Junho, 5º ano=Julho.</p><p><strong>3 funções:</strong> (1) Agregação volumétrica — tarefas planejadas vs concluídas (Done) por ano, % real de progresso; (2) Projeção cronológica — cruza % atual com prazo da meta, determina gap de execução; (3) Classificação automática de risco: "Dentro da meta" / "Risco de atraso" / "Atrasado".</p><p><strong>Output:</strong> <code>metrics_goals.json</code> injetável no frontend + texto de diagnóstico executivo por ano escolar.</p></div>
+                        <div class="lesson"><h4>Vision Bottleneck Detector — Gargalo Detector</h4><p><strong>Persona:</strong> Auditor de Performance Operacional. Detecta "sangria operacional": quem está travado, qual disciplina está estagnada, onde o esforço da equipe está se dissipando.</p><p><strong>4 funções:</strong> (1) Auditoria de produtividade humana — calcula tempo médio global de fechamento, analisa desempenho individual, identifica desvios padrão negativos (usuários X% mais lentos que média); (2) Auditoria por disciplina — isola desempenho temporal por matéria, reporta se bloqueio é por complexidade sistêmica; (3) Motor de decisão — produz textos cognitivos de ação ("O autor @username fechou apenas 2 tarefas esta semana, 35% mais lento que a média"); (4) Ranking de produtividade — top semanal/mensal por volume de material publicado (Done).</p><p><strong>Output:</strong> <code>alerts_and_insights.json</code>, matriz de performance rankeada.</p></div>
+                        <div class="lesson"><h4>Vision GitHub Analyzer</h4><p><strong>Persona:</strong> Analista de Dados do GitHub. Extrator read-only via GraphQL.</p><p><strong>3 funções:</strong> (1) Extração passiva — NUNCA altera estado do Kanban. Extrai: ID/número, título, assignee, status, ano (de labels/título), disciplina (de labels/prefixo do título), datas createdAt e closedAt; (2) Normalização — garante closedAt para issues Done, calcula lead time em dias, padroniza nomenclaturas; (3) Contrato JSON — gera <code>data.json</code> com array estruturado de issues.</p><p><strong>Output:</strong> <code>data.json</code> limpo + relatório de integridade (tarefas indexadas, anomalias estruturais).</p></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 4: Bimester Skills -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-exam module-icon"></i>
+                        <div class="module-info"><h3>Módulo 4: Skills Bimestrais</h3><p>Provas e revisões bimestrais (CANVAS_QUIZ)</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Bimester Exam Builder</h4><p><strong>Persona:</strong> Construtor de Provas Bimestrais. Monta prova de 10 questões CANVAS_QUIZ a partir das provas semanais (.5).</p><p><strong>Composição:</strong> 8 questões extraídas (1 por semana, tipos rotativos: FILL_IN → TRUE_OR_FALSE → MULTIPLE_CHOICE → MATCHING, repete) + 2 questões extras criadas pelo agente = 10 questões, 10 pontos cada (total 100).</p><p><strong>Mapeamento de bimestres:</strong> B1=semanas 1-8, B2=11-18, B3=21-28, B4=31-38.</p><p><strong>Formatos:</strong> FILL_IN (2-3 lacunas com <code>[1]</code>, <code>[2]</code>, <code>[3]</code>), TRUE_OR_FALSE, MULTIPLE_CHOICE (4 alternativas: 1 correta + 3 plausíveis), MATCHING (3 pares termo-definição).</p><p><strong>Regras:</strong> Copiar 8 questões exatamente como estão, questões extras usam apenas definições já estudadas, capitalização europeia, separadas por <code>--</code>.</p><p><strong>Arquivos de output:</strong> <code>10.md</code>, <code>20.md</code>, <code>30.md</code>, <code>40.md</code>.</p></div>
+                        <div class="lesson"><h4>Bimester Review Builder</h4><p><strong>Persona:</strong> Construtor de Revisões Bimestrais. Monta revisão de 8 semanas a partir das aulas .4.</p><p><strong>Seção 1 — Review Semanal:</strong> Para cada uma das 8 semanas: título do Macro Currículo, PARAGRAPH do .4 Definir, TABLE do .4 Definir, MATCHING do .4 Definir.</p><p><strong>Seção 2 — Quiz:</strong> 3 questões por semana extraídas da seção QUIZ do .4 (1 MULTIPLE + 1 FILL_IN + 1 MATCHING) = 24 questões totais.</p><p><strong>Regra crítica:</strong> NUNCA cria conteúdo novo — apenas copia e organiza o que já existe nos arquivos .4.</p><p><strong>Capitalização:</strong> Títulos das semanas em sentence-case europeu, SEM dois pontos (substituir por vírgula ou conector natural).</p><p><strong>Arquivos de output:</strong> <code>9.md</code>, <code>19.md</code>, <code>29.md</code>, <code>39.md</code>.</p></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 5: Estrutura Semanal e Bimestral -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-calendar-check module-icon"></i>
+                        <div class="module-info"><h3>Módulo 5: Estrutura Semanal e Bimestral</h3><p>Como cada semana e bimestre são organizados no currículo</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Estrutura Semanal (5 arquivos/semana)</h4><p>Cada semana produz 5 arquivos no formato <code>X.Y.md</code>:</p><div class="command-list"><code>X.1.md</code> — Aula Dia 1 (5 Hábitos: Definir, Perceber, Recordar, Praticar, Narrar)<br><code>X.2.md</code> — Aula Dia 2 (mesma estrutura)<br><code>X.3.md</code> — Aula Dia 3 (mesma estrutura)<br><code>X.4.md</code> — Revisão Semanal (flashcards, matching, perguntas das 3 aulas)<br><code>X.5.md</code> — Quiz Semanal (CANVAS_QUIZ — 5 perguntas)</div></div>
+                        <div class="lesson"><h4>Estrutura Bimestral (ciclos de 10 semanas)</h4><p>Cada bimestre segue este padrão:</p><ul><li><strong>Semanas 1-8:</strong> Conteúdo (8 semanas × 5 arquivos = 40 arquivos)</li><li><strong>Semana 9:</strong> Review Bimestral (compilação dos .4 semanais)</li><li><strong>Semana 10:</strong> Exam Bimestral (CANVAS_QUIZ — 10 perguntas)</li></ul><p><strong>Semanas de review de módulo (9-10, 19-20, 29-30, 39-40)</strong> NÃO são incluídas nas revisões bimestrais.</p><p><strong>Total por bimestre:</strong> ~42 arquivos. <strong>Total por ano:</strong> ~168 aulas (4 bimestres).</p></div>
+                        <div class="lesson"><h4>Os 5 Hábitos de Cada Aula</h4><div class="command-list"><code>Definir</code> — Definição concisa (9-10 palavras, repetida 6+ vezes em locais idênticos). Intro imperativa ("Reconheça que..." + "Observe que..."). Accordion com PNG, MP3, definição em negrito, reflexão teológica.<br><code>Perceber</code> — Observação guiada com 3-4 frases imperativas. IMAGE_LABELED com exatamente 2 hotspots.<br><code>Recordar</code> — Memorização. "Ouca e repita a definição abaixo." Statement_D com 9-10 palavras (idêntico ao Accordion). IMAGE_TEXT_ON com versículo ou música.<br><code>Praticar</code> — Atividades: PARAGRAPH antes do Fill_In, 3-4 lacunas com <code>_____</code>, respostas na última linha. Atividade extra com PDF.<br><code>Narrar</code> — Texto literário cristão/poético em aspas retas, atribuição com autor/obra, 3 perguntas com espaçamento.</div></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 6: Estrutura do Projeto -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-folder-notch module-icon"></i>
+                        <div class="module-info"><h3>Módulo 6: Estrutura do Projeto</h3><p>Mapa completo de diretórios e arquivos</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Root Level (Vision Board UI)</h4><div class="command-list"><code>index.html</code> — Landing page / Overview<br><code>metas.html</code> — Metas do Currículo (tracking)<br><code>metas-disciplinas.html</code> — Metas por Disciplina + Year Health<br><code>videos.html</code> — Pipeline de Vídeos<br><code>agent-command-center.html</code> — Centro de Comando dos Agentes<br><code>vercel.json</code> — Configuração Vercel<br><code>README.md</code> — Documentação do Framework</div></div>
+                        <div class="lesson"><h4>Editorial Squad (<code>editorial-squad/</code>)</h4><div class="command-list"><code>skills/</code> — 20 skills de agentes (17 com SKILL.md, 3 legacy)<br><code>workflows/</code> — produce_class.md, publish.md, orchestrate.md<br><code>knowledge-base/</code> — visao-geral, doutrina, estilo, rise-blocks<br><code>templates/</code> — Golden Template, 5 habits templates<br><code>scripts/</code> — 18+ scripts Python de automação<br><code>AGENTS-DOCUMENTATION.md</code> — Doc central de todos os agentes</div></div>
+                        <div class="lesson"><h4>Currículo Vault (<code>Projeto Bibline Academy/</code>)</h4><p>Cada disciplina tem 5 anos. Cada ano tem 6 arquivos estruturais:</p><div class="command-list"><code>0 - Movimentos Artisticos trabalhados.md</code><br><code>1 - Curriculo Macro - *.md</code> — <strong>FONTE DA VERDADE</strong> para títulos<br><code>2 - Matriz-Curricular-objetivos - *.md</code><br><code>3 - Visão e Plano pedagogico - *.md</code><br><code>4 - Links-para-imagens-perceber - *.md</code><br><code>5 - Prompts-para-imagens-narrar - *.md</code></div><p><strong>Regra de Ouro:</strong> O Currículo Macro é a única fonte da verdade para títulos. Qualquer mudança deve ser propagada via <code>scripts/sync_titles.py</code>.</p></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 7: Data Sync e Automação -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-arrows-clockwise module-icon"></i>
+                        <div class="module-info"><h3>Módulo 7: Data Sync e Automação</h3><p>Kanban Sync + Scripts Python</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Kanban Sync (Vision Board Live)</h4><p>O <strong>GitHub Actions</strong> roda a cada 5 minutos via cron:</p><ol><li>GraphQL query no GitHub Projects (PVT_kwDODLv1ac4BH1XW)</li><li>Gera <code>public/data.json</code> com todos os itens</li><li>Commit automático se dados mudaram (atomic diff check)</li><li>Push para main → trigger do deploy para GitHub Pages</li></ol><p><strong>SLA:</strong> ~3-4 minutos total (execução ~2-3 min + deploy ~30s).</p></div>
+                        <div class="lesson"><h4>Scripts Python de Automação</h4><div class="command-list"><code>sync_titles.py</code> — <strong>MASTER:</strong> Propaga títulos do Macro para todos os arquivos<br><code>align_titles.py</code> — Alinha títulos em tickets<br><code>fix_lesson_h1.py</code> — Corrige headers H1 em aulas<br><code>check_matriz.py</code> — Audit: compara Matriz vs Macro<br><code>create_issues.py</code> — Cria issues no GitHub<br><code>update_backlog_tickets.py</code> — Atualiza tickets do backlog<br><code>convert_recordar.py</code> — Converte blocos de música para blocos de rima<br><code>fix_accordion.py</code> — Corrige redundância de accordion no 4º ano</div></div>
+                    </div>
+                </div>
+
+                <!-- Módulo 8: Fluxo Diário de Trabalho -->
+                <div class="tutorial-module">
+                    <div class="module-header" onclick="toggleModule(this)">
+                        <i class="ph ph-clock module-icon"></i>
+                        <div class="module-info"><h3>Módulo 8: Fluxo Diário de Trabalho</h3><p>Como usar o framework nas tarefas diárias</p></div>
+                        <i class="ph ph-caret-down expand-icon"></i>
+                    </div>
+                    <div class="module-content">
+                        <div class="lesson"><h4>Rotina Matinal</h4><ol><li>Abra o <strong>Vision Board</strong> para ver métricas de produção</li><li>Verifique o <strong>Agent Command Center</strong> para status de agentes</li><li>Use o <strong>Orchestrator</strong> para diagnóstico: "Qual o status do ano X?"</li><li>Identifique gargalos e priorize ações</li></ol></div>
+                        <div class="lesson"><h4>Executando a Pipeline de Produção</h4><ol><li><strong>Orchestrator</strong> diagnostica e delega</li><li><strong>Researcher</strong> faz pesquisa (Ad Fontes)</li><li><strong>Writer</strong> redige aula (Golden Template + 5 Hábitos)</li><li><strong>Standardizer</strong> formata (Rise Blocks + Capitalização)</li><li><strong>Reviewer</strong> revisa (13 categorias + 10 erros IA)</li><li><strong>Copywriter</strong> polimenta (títulos, fluidez)</li><li><strong>Publisher</strong> publica (GitHub + Macro)</li></ol></div>
+                        <div class="lesson"><h4>Sincronizando Títulos</h4><p>Quando títulos mudam no Currículo Macro:</p><div class="command-list"><code>cd editorial-squad/scripts</code><br><code>python sync_titles.py</code> — Propaga para todos os arquivos<br><code>python fix_lesson_h1.py</code> — Corrige H1 headers<br><code>git add -A && git commit -m "sync: propagate title changes
+
+Co-authored-by: Qwen-Coder <qwen-coder@alibabacloud.com>" && git push</code></div></div>
+                        <div class="lesson"><h4>Links Essenciais</h4><div class="command-list"><strong>Vision Board:</strong> https://italogabriel-lab.github.io/Projeto-Editorial-Education/<br><strong>GitHub Repo:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education<br><strong>Actions:</strong> https://github.com/italogabriel-lab/Projeto-Editorial-Education/actions<br><strong>Kanban:</strong> https://github.com/orgs/bibline/projects/2/views/1</div></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script>
+        // ============================================
+        // AGENT DATA
+        // ============================================
+        const agents = {
+            core: [
+                {
+                    id: 'orchestrator',
+                    name: 'Maestro',
+                    originalName: 'Orchestrator',
+                    icon: '◈',
+                    role: 'Diretor Editorial — diagnostica, prioriza e delega',
+                    description: 'O Maestro é o ponto central de orientação do projeto. Conhece profundamente cada skill, workflow e regra de sincronização. Não executa o trabalho dos outros agentes: diagnostica, prioriza e delega.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/orchestrator status <ano>',
+                            description: 'Diagnose o progresso do ano',
+                            prompt: `Analise o status completo do ano letivo <ano>. Forneça um diagnóstico detalhado incluindo:
+- Quantas semanas foram concluídas vs total planejado
+- Quais disciplinas estão em dia, atrasadas ou com risco
+- Número de aulas publicadas vs pendentes por disciplina
+- Principais gargalos identificados no workflow
+- Métricas de produtividade da equipe
+- Recomendações de ações prioritárias para as próximas 48h
+
+Use dados do Vision Board, GitHub Projects e relatórios de performance para criar um panorama completo.`
+                        },
+                        {
+                            code: '/orchestrator next <ano>',
+                            description: 'Sugere próximas ações prioritárias',
+                            prompt: `Com base no status atual do ano <ano>, identifique e priorize as próximas 5-10 ações mais importantes. Para cada ação, especifique:
+- Qual agente deve executar (Researcher, Writer, Standardizer, etc.)
+- Nível de urgência (Crítico, Alto, Médio, Baixo)
+- Dependências que precisam ser resolvidas antes
+- Tempo estimado de execução
+- Impacto no cronograma geral se não for feito
+
+Considere: aulas pendentes de pesquisa, rascunhos aguardando revisão, materiais aguardando publicação, e gargalos identificados pelo Radar.`
+                        },
+                        {
+                            code: '/orchestrator delegate <tarefa>',
+                            description: 'Roteia para o agente correto',
+                            prompt: `Analise a tarefa: "<tarefa>"
+
+Determine qual agente é mais adequado para executar esta tarefa seguindo o workflow editorial:
+
+1. Identifique o tipo de tarefa (pesquisa, escrita, formatação, revisão, publicação, análise, design, etc.)
+2. Selecione o agente especializado correspondente
+3. Explique POR QUE este agente foi escolhido
+4. Liste os comandos específicos que devem ser usados
+5. Identifique dependências de outros agentes
+6. Sugira a ordem de execução se múltiplos agentes forem necessários
+
+Forneça um plano de ação claro com etapas sequenciais.`
+                        },
+                        {
+                            code: '/orchestrator audit <ano> <semana>',
+                            description: 'Auditoria de consistência',
+                            prompt: `Execute uma auditoria completa da semana <semana> do ano <ano>. Verifique:
+
+CONSISTÊNCIA EDITORIAL:
+- Todas as aulas seguem o golden template?
+- Títulos estão padronizados?
+- Capitalização europeia aplicada corretamente?
+- 5 Hábitos da Gramática presentes em cada aula?
+
+INTEGRIDADE DE CONTEÚDO:
+- Todas as seções obrigatórias presentes?
+- Links e referências funcionais?
+- Imagens geradas e vinculadas?
+- Questões de quiz/revisão criadas?
+
+WORKFLOW:
+- Todas as etapas do pipeline foram seguidas?
+- Aprovações do Guardian registradas?
+- Versionamento correto no GitHub?
+
+ Gere um relatório com: ✅ Passou, ⚠️ Atenção, ❌ Crítico para cada item.`
+                        }
+                    ],
+                    skills: ['Diagnóstico de progresso', 'Priorização de tarefas', 'Delegação inteligente', 'Auditoria editorial', 'Visão holística'],
+                    useCases: ['Status do projeto', 'Próximos passos', 'Delegação inteligente', 'Auditoria de títulos']
+                },
+                {
+                    id: 'researcher',
+                    name: 'Seeker',
+                    originalName: 'Researcher',
+                    icon: '⌕',
+                    role: 'Investigador — coleta informações profundas e autoritativas',
+                    description: 'O Seeker é o investigador da squad. Usa metodologia Ad Fontes para coletar informações primárias, alinhadas à Educação Clássica Cristã Reformada. Foca nos 5 Hábitos da Gramática.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/research <tema> <ano> <semana>',
+                            description: 'Pesquisa completa do tema',
+                            prompt: `Execute uma pesquisa completa sobre "<tema>" para o ano <ano>, semana <semana>.
+
+METODOLOGIA AD FONTES:
+1. Fontes Primárias: Consulte textos originais, documentos históricos, escrituras
+2. Fontes Secundárias: Acadêmicos reconhecidos, enciclopédias especializadas
+3. Fontes Terciárias: Resumos, compilações verificadas
+
+5 HÁBITOS DA GRAMÁTICA:
+1. NOMEAR: Identifique todos os termos técnicos e conceitos-chave
+2. DEFINIR: Forneça definições precisas (Webster 1828 quando aplicável)
+3. MEMORIZAR: Crie listas mnemônicas e pontos de memorização
+4. CANTAR/MÉTRICA: Identifique padrões, ritmos, estruturas poéticas
+5. NARRAR: Desenvolva narrativas e conexões históricas
+
+ENTREGÁVEIS:
+- Definições de todos os termos técnicos
+- Referências bíblicas relevantes (com texto completo)
+- Obras de arte relacionadas (artista, período, descrição)
+- Citações de fontes primárias
+- Referências literárias e históricas
+- Contexto histórico e cultural
+- Conexões com cosmovisão cristã reformada
+
+FORMATO: Estruture em seções claras com fontes citadas para cada afirmação.`
+                        },
+                        {
+                            code: '/research definition <termo>',
+                            description: 'Definição Webster 1828',
+                            prompt: `Forneça uma análise completa do termo: "<termo>"
+
+1. DEFINIÇÃO WEBSTER 1828:
+   - Definição original completa
+   - Etimologia (raízes hebraicas/gregas/latinas quando aplicável)
+   - Uso histórico no contexto educacional clássico
+
+2. DEFINIÇÃO CONTEMPORÂNEA:
+   - Como o termo é entendido hoje
+   - Diferenças da compreensão moderna vs clássica
+
+3. CONTEXTO EDUCACIONAL:
+   - Como este termo se aplica à Educação Clássica Cristã Reformada
+   - Conexões com os 5 Hábitos da Gramática
+   - Exemplos práticos de uso
+
+4. REFERÊNCIAS CRUZADAS:
+   - Termos relacionados
+   - Conceitos dependentes
+   - Aplicações em diferentes disciplinas
+
+5. FONTES:
+   - Webster's 1828 Dictionary
+   - Fontes bíblicas relevantes
+   - Autores clássicos reconhecidos`
+                        },
+                        {
+                            code: '/research artwork <tema>',
+                            description: 'Obras de arte relacionadas',
+                            prompt: `Identifique e descreva obras de arte relacionadas ao tema: "<tema>"
+
+Para cada obra de arte (mínimo 3-5):
+
+1. IDENTIFICAÇÃO:
+   - Título da obra
+   - Artista (nome completo, nacionalidade, período de vida)
+   - Ano de criação
+   - Medium/técnica
+   - Localização atual (museu/coleção)
+
+2. DESCRIÇÃO:
+   - Análise visual detalhada
+   - Simbolismo e elementos iconográficos
+   - Contexto histórico de criação
+   - Conexões com o tema pesquisado
+
+3. RELEVÂNCIA EDUCACIONAL:
+   - Como esta obra ilustra o tema
+   - Pontos de discussão para alunos
+   - Conexões com cosmovisão cristã
+
+4. DOMÍNIO PÚBLICO:
+   - Confirmar se está em domínio público
+   - Link para imagem de alta qualidade (se disponível)
+
+FORMATO: Estruture cada obra como um perfil completo pronto para uso educacional.`
+                        },
+                        {
+                            code: '/research scripture <tema>',
+                            description: 'Versículos bíblicos',
+                            prompt: `Compile uma análise bíblica completa sobre: "<tema>"
+
+Para cada passagem relevante (mínimo 5-10):
+
+1. REFERÊNCIA:
+   - Livro, capítulo, versículo
+   - Tradução (Almeida Revista e Atualizada, King James, etc.)
+
+2. TEXTO COMPLETO:
+   - Versículo completo na tradução principal
+   - Variações de tradução quando relevante
+
+3. CONTEXTO:
+   - Contexto histórico do livro bíblico
+   - Autor, data, audiência original
+   - Contexto imediato (capítulos anteriores/posteriores)
+
+4. ANÁLISE EXEGÉTICA:
+   - Significado das palavras-chave no original (hebraico/grego)
+   - Interpretação reformada histórica
+   - Aplicações teológicas
+
+5. CONEXÕES:
+   - Referências cruzadas com outras passagens
+   - Como se conecta ao tema educacional
+   - Aplicações pedagógicas
+
+6. COSMOVISÃO:
+   - Princípios para Educação Clássica Cristã Reformada
+   - Integração com os 5 Hábitos da Gramática
+
+FORMATO: Crie um recurso de referência completo para uso pedagógico.`
+                        }
+                    ],
+                    skills: ['Metodologia Ad Fontes', 'Webster 1828', 'Análise de obras de arte', 'Exegese bíblica', '5 Hábitos da Gramática'],
+                    useCases: ['Pesquisa de aula', 'Definições de termos', 'Obras de arte', 'Referências literárias']
+                },
+                {
+                    id: 'writer',
+                    name: 'Scribe',
+                    originalName: 'Writer',
+                    icon: '✎',
+                    role: 'Escriba — transforma pesquisa em conteúdo pedagógico',
+                    description: 'O Scribe transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática. Segue rigorosamente o golden template e a progressão pedagógica.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/write <aula> <ano> <pesquisa>',
+                            description: 'Escreve aula completa',
+                            prompt: `Transforme a pesquisa fornecida em uma aula pedagógica completa seguindo o GOLDEN TEMPLATE.
+
+DADOS DA AULA:
+- Aula: <aula>
+- Ano: <ano>
+- Pesquisa base: <pesquisa>
+
+ESTRUTURA OBRIGATÓRIA (Golden Template):
+
+1. TÍTULO DA AULA
+   - Claro, descritivo, alinhado ao currículo
+   - Inclui ano e número da semana
+
+2. OBJETIVOS DE APRENDIZAGEM
+   - 3-5 objetivos mensuráveis
+   - Alinhados aos 5 Hábitos da Gramática
+   - Progressão pedagógica clara
+
+3. CONTEÚDO PRINCIPAL
+   - Seção: NOMEAR (identificar conceitos)
+   - Seção: DEFINIR (explicar cada conceito)
+   - Seção: MEMORIZAR (pontos de memorização)
+   - Seção: CANTAR/MÉTRICA (padrões e estruturas)
+   - Seção: NARRAR (histórias e conexões)
+
+4. ATIVIDADES PRÁTICAS
+   - Exercícios de fixação
+   - Atividades de narração oral
+   - Projetos criativos quando aplicável
+
+5. RECURSOS E REFERÊNCIAS
+   - Links para obras de arte
+   - Referências bíblicas completas
+   - Fontes primárias citadas
+   - Material complementar
+
+6. AVALIAÇÃO
+   - Critérios de avaliação claros
+   - Rubricas quando aplicável
+   - Conexão com questões bimestrais
+
+REGRAS DE ESCRITA:
+- Use voz ativa sempre
+- Tom imperativo para instruções
+- Linguagem clara e acessível
+- Definições precisas (não ambíguas)
+- Exemplos concretos antes de abstratos
+- Progressão do simples ao complexo
+
+FORMATO: Markdown estruturado, pronto para formatação Rise.`
+                        }
+                    ],
+                    skills: ['Golden Template', '5 Hábitos da Gramática', 'Redação pedagógica', 'Progressão curricular'],
+                    useCases: ['Redação de aulas', '5 Hábitos da Gramática', 'Golden template']
+                },
+                {
+                    id: 'standardizer',
+                    name: 'Architect',
+                    originalName: 'Standardizer',
+                    icon: '⬢',
+                    role: 'Arquiteto — formata com Rise Blocks e aplica correções',
+                    description: 'O Architect transforma o rascunho do Writer em conteúdo formatado com Rise Blocks. Aplica todas as correções editoriais: voz ativa, imperativo, capitalização europeia.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/standardize <arquivo>',
+                            description: 'Formata com Rise Blocks',
+                            prompt: `Transforme o rascunho fornecido em conteúdo formatado com RISE BLOCKS.
+
+ARQUIVO DE ENTRADA: <arquivo>
+
+TIPOS DE RISE BLOCKS A APLICAR:
+
+1. HEADING BLOCK
+   - Títulos principais (H2)
+   - Subtítulos (H3)
+   - Hierarquia clara
+
+2. PARAGRAPH BLOCK
+   - Texto corrido formatado
+   - Espaçamento correto
+   - Alinhamento padrão
+
+3. LIST BLOCK
+   - Listas ordenadas
+   - Listas não-ordenadas
+   - Aninhamento quando necessário
+
+4. QUOTE BLOCK
+   - Citações de fontes primárias
+   - Versículos bíblicos
+   - Definições importantes
+
+5. IMAGE BLOCK
+   - Imagens com captions
+   - Alt text descritivo
+   - Créditos quando necessário
+
+6. VIDEO BLOCK
+   - Links de vídeos
+   - Timestamps quando aplicável
+
+7. SEPARATOR BLOCK
+   - Divisões entre seções
+   - Quebras visuais estratégicas
+
+CORREÇÕES EDITORIAIS OBRIGATÓRIAS:
+
+✓ VOZ ATIVA: Converta todas as frases para voz ativa
+✓ IMPERATIVO: Instruções no modo imperativo
+✓ CAPITALIZAÇÃO: Padrão europeu (sentence-case)
+  - Primeira letra da frase em maiúscula
+  - Nomes próprios em maiúscula
+  - Termos descritivos em minúscula
+✓ CLAREZA: Elimine ambiguidades
+✓ CONCISÃO: Remova redundâncias
+✓ FLUIDEZ: Garanta transições suaves
+
+VALIDAÇÃO:
+- Todos os 5 Hábitos da Gramática presentes?
+- Estrutura pedagógica lógica?
+- Formatação consistente em todo o documento?
+- Links e imagens funcionais?
+
+FORMATO DE SAÍDA: Markdown com Rise Blocks claramente identificados.`
+                        }
+                    ],
+                    skills: ['Rise Blocks', 'Voz ativa/Imperativo', 'Capitalização europeia', 'Correção editorial'],
+                    useCases: ['Formatação Rise', 'Correção de estilo', 'Capitalização']
+                },
+                {
+                    id: 'reviewer',
+                    name: 'Guardian',
+                    originalName: 'Reviewer',
+                    icon: '🛡',
+                    role: 'Guardião da qualidade — QA com checklist de 13 categorias',
+                    description: 'O Guardian é o Editor-Chefe e QA. Garante excelência técnica, precisão doutrinária e padronização. Valida 13 categorias de auditoria antes de aprovar.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/review <arquivo>',
+                            description: 'Revisão completa com checklist',
+                            prompt: `Execute uma revisão completa do arquivo usando o CHECKLIST DE 13 CATEGORIAS.
+
+ARQUIVO PARA REVISÃO: <arquivo>
+
+CHECKLIST DE 13 CATEGORIAS:
+
+1. ✅ ESTRUTURA PEDAGÓGICA
+   - Golden template aplicado corretamente?
+   - 5 Hábitos da Gramática presentes?
+   - Progressão pedagógica lógica?
+
+2. ✅ PRECISÃO DOUTRINÁRIA
+   - Conteúdo alinhado à Educação Clássica Cristã Reformada?
+   - Referências bíblicas corretas?
+   - Teologia reformada precisa?
+
+3. ✅ FACT-CHECKING
+   - Todas as afirmações factuais verificadas?
+   - Datas, nomes, lugares corretos?
+   - Citações de fontes primárias precisas?
+
+4. ✅ CLAREZA E COERÊNCIA
+   - Texto claro e compreensível?
+   - Transições lógicas entre seções?
+   - Sem contradições internas?
+
+5. ✅ VOZ ATIVA
+   - Todas as frases em voz ativa?
+   - Instruções no imperativo?
+   - Sem voz passiva desnecessária?
+
+6. ✅ CAPITALIZAÇÃO
+   - Padrão europeu (sentence-case)?
+   - Nomes próprios corretos?
+   - Consistência em todo o documento?
+
+7. ✅ GRAMÁTICA E ORTOGRAFIA
+   - Sem erros gramaticais?
+   - Ortografia correta?
+   - Pontuação adequada?
+
+8. ✅ FORMATAÇÃO RISE
+   - Rise Blocks aplicados corretamente?
+   - Hierarquia de títulos consistente?
+   - Listas e citações formatadas?
+
+9. ✅ RECURSOS VISUAIS
+   - Imagens presentes e funcionais?
+   - Alt text descritivo?
+   - Legends e créditos?
+
+10. ✅ REFERÊNCIAS E LINKS
+    - Todas as fontes citadas?
+    - Links funcionais?
+    - Referências completas?
+
+11. ✅ ATIVIDADES E AVALIAÇÕES
+    - Exercícios claros?
+    - Critérios de avaliação?
+    - Alinhado aos objetivos?
+
+12. ✅ ACESSIBILIDADE
+    - WCAG 2.1 AA compliant?
+    - Alt text em imagens?
+    - Contraste adequado?
+
+13. ✅ VERSIONAMENTO
+    - Metadata completa (autor, data, versão)?
+    - Changelog atualizado?
+    - Tags corretas?
+
+RELATÓRIO DE REVISÃO:
+
+Para cada categoria, forneça:
+- ✅ APROVADO (sem problemas)
+- ⚠️ ATENÇÃO (problemas menores, lista quais)
+- ❌ REPROVADO (problemas críticos, lista quais)
+
+PROBLEMAS ENCONTRADOS:
+ Liste cada problema com:
+ - Categoria
+ - Localização exata (seção, parágrafo)
+ - Descrição do problema
+ - Sugestão de correção
+
+APROVAÇÃO FINAL:
+ - Status: APROVADO / APROVADO COM RESSALVAS / REPROVADO
+ - Justificativa
+ - Ações necessárias antes da publicação`
+                        }
+                    ],
+                    skills: ['Checklist 13 categorias', 'Fact-checking', 'Validação doutrinária', 'WCAG 2.1 AA'],
+                    useCases: ['QA editorial', 'Validação doutrinária', 'Fact-checking']
+                },
+                {
+                    id: 'copywriter',
+                    name: 'Polisher',
+                    originalName: 'Copywriter',
+                    icon: '◦',
+                    role: 'Polidor final — otimiza títulos e enunciados',
+                    description: 'O Polisher dá o acabamento final. Otimiza títulos, enunciados, garante fluidez e tom consistente. Não altera definições validadas.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/polish <arquivo>',
+                            description: 'Polimento final',
+                            prompt: `Execute o POLIMENTO FINAL do arquivo aprovado pelo Guardian.
+
+ARQUIVO PARA POLIMENTO: <arquivo>
+
+OBJETIVO: Dar o acabamento final sem alterar conteúdo validado.
+
+OTIMIZAÇÃO DE TÍTULOS:
+✓ Títulos são claros e descritivos?
+✓ Seguem padrão de nomenclatura?
+✓ Incluídos ano/semana/disciplina?
+✓ Atraentes e profissionais?
+
+OTIMIZAÇÃO DE ENUNCIADOS:
+✓ Instruções são claras e diretas?
+✓ Usam modo imperativo corretamente?
+✓ Sem ambiguidades?
+✓ Exemplos incluídos quando necessário?
+
+FLUIDEZ DO TEXTO:
+✓ Transições suaves entre parágrafos?
+✓ Conexões lógicas entre seções?
+✓ Ritmo de leitura agradável?
+✓ Sem repetições desnecessárias?
+
+TOM DE VOZ:
+✓ Consistente em todo o documento?
+✓ Alinhado à identidade BEF Editorial?
+✓ Profissional mas acessível?
+✓ Adequado ao público-alvo?
+
+FORMATAÇÃO FINAL:
+✓ Espaçamento consistente?
+✓ Indentação correta?
+✓ Listas alinhadas?
+✓ Citações formatadas?
+
+REGRAS IMPORTANTES:
+⚠️ NÃO altere definições validadas pelo Guardian
+⚠️ NÃO mude conteúdo doutrinário aprovado
+⚠️ NÃO modifique referências bíblicas verificadas
+⚠️ NÃO reescreva seções já revisadas
+
+FOCO APENAS EM:
+- Melhorias cosméticas de apresentação
+- Otimização de títulos e subtítulos
+- Ajustes de fluidez nas transições
+- Consistência de tom e estilo
+
+ENTREGÁVEL: Versão final pronta para publicação.`
+                        }
+                    ],
+                    skills: ['Otimização de títulos', 'Fluidez textual', 'Tom de voz BEF', 'Acabamento final'],
+                    useCases: ['Otimização de títulos', 'Fluidez', 'Tom de voz']
+                },
+                {
+                    id: 'publisher',
+                    name: 'Herald',
+                    originalName: 'Publisher',
+                    icon: '◈',
+                    role: 'Distribuidor — salva localmente e publica no GitHub',
+                    description: 'O Herald salva a aula finalizada localmente e publica no GitHub. Registra termos no Currículo Macro e gerencia o versionamento.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/publish <arquivo> <ano> <aula>',
+                            description: 'Publica no GitHub',
+                            prompt: `Execute o processo completo de PUBLICAÇÃO.
+
+DADOS DA PUBLICAÇÃO:
+- Arquivo: <arquivo>
+- Ano: <ano>
+- Aula: <aula>
+
+ETAPAS DE PUBLICAÇÃO:
+
+1. SALVAMENTO LOCAL
+   ✓ Salve o arquivo na estrutura de diretórios correta:
+     /content/<ano>/<disciplina>/week-<semana>/<aula>.md
+   ✓ Verifique se o caminho existe
+   ✓ Confirme que o arquivo foi salvo
+
+2. METADATA
+   ✓ Adicione frontmatter completo:
+     - title: título da aula
+     - year: ano letivo
+     - week: número da semana
+     - lesson: número da aula
+     - discipline: disciplina
+     - author: autor
+     - date: data de publicação
+     - version: versão
+     - status: published
+
+3. REGISTRO NO CURRÍCULO MACRO
+   ✓ Adicione entrada no currículo macro:
+     - Tema da aula
+     - Objetivos de aprendizagem
+     - Termos principais definidos
+     - Referências bíblicas usadas
+     - Habilidades desenvolvidas
+
+4. VERSIONAMENTO GIT
+   ✓ Crie branch: publish/<ano>/week-<semana>/<aula>
+   ✓ Commit message padronizada:
+     "publish: add <aula> for <ano> week <semana> - <discipline>"
+   ✓ Push para o repositório remoto
+   ✓ Crie Pull Request
+   ✓ Adicione labels: published, <ano>, <discipline>
+
+5. REGISTRO DE PUBLICAÇÃO
+   ✓ Atualize o índice de aulas publicadas
+   ✓ Registre timestamp de publicação
+   ✓ Notifique equipe relevante
+
+6. VALIDAÇÃO PÓS-PUBLICAÇÃO
+   ✓ Verifique se o arquivo está no repositório
+   ✓ Confirme que o PR foi criado
+   ✓ Valide registro no currículo macro
+
+RELATÓRIO DE PUBLICAÇÃO:
+Gere um relatório confirmando:
+- ✅ Localização do arquivo
+- ✅ Metadata aplicada
+- ✅ Registro no Macro
+- ✅ Git commit/PR criado
+- ✅ Índices atualizados
+- ✅ Notificações enviadas
+
+Em caso de erro, especifique:
+- ❌ Etapa que falhou
+- Motivo da falha
+- Ação corretiva sugerida`
+                        }
+                    ],
+                    skills: ['Git workflow', 'Currículo Macro', 'Metadata/frontmatter', 'Versionamento'],
+                    useCases: ['Publicação GitHub', 'Registro no Macro', 'Versionamento']
+                }
+            ],
+            specialized: [
+                {
+                    id: 'devops',
+                    name: 'Sentinel',
+                    originalName: 'DevOps',
+                    icon: '⚙',
+                    role: 'Engenheiro DevOps — gatekeeper do repositório',
+                    description: 'O Sentinel blinda o ecossistema do repositório. Git NÃO é para mídia pesada. Gerencia workflows de publicação, limpeza estrutural e conflitos.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/devops publish',
+                            description: 'Publicação no GitHub',
+                            prompt: `Execute o workflow de PUBLICAÇÃO no GitHub.
+
+ETAPAS:
+
+1. VALIDAÇÃO PRÉ-PUBLICAÇÃO
+   ✓ Verifique se todos os arquivos estão staged
+   ✓ Confirme que não há arquivos pesados (>10MB)
+   ✓ Valide .gitignore atualizado
+   ✓ Verifique conflitos pendentes
+
+2. GIT WORKFLOW
+   ✓ Crie branch descritivo: feature/<descricao> ou publish/<ano>/<semana>
+   ✓ Commit message convencional:
+     - type: feat|fix|docs|style|refactor|publish
+     - escopo: módulo afetado
+     - descrição: clara e concisa
+   ✓ Push para origin
+   ✓ Crie Pull Request
+
+3. LARGE FILES
+   ✓ Identifique arquivos >10MB
+   ✓ Use Git LFS quando necessário
+   ✓ Comprima imagens se possível
+   ✓ Remova binários do repositório
+
+4. VALIDAÇÃO PÓS-PUBLICAÇÃO
+   ✓ Confirme que o PR foi criado
+   ✓ Verifique CI/CD pipelines
+   ✓ Valide que arquivos estão acessíveis
+
+RELATÓRIO: Documente todas as ações realizadas.`
+                        },
+                        {
+                            code: '/devops cleanup',
+                            description: 'Limpeza estrutural',
+                            prompt: `Execute uma LIMPEZA ESTRUTURAL do repositório.
+
+ANÁLISE:
+1. Identifique arquivos órfãos (sem referências)
+2. Detecte duplicatas
+3. Encontre arquivos temporários (.tmp, .bak, etc.)
+4. Identifique branches merged/stale
+5. Verifique pastas vazias
+
+AÇÕES DE LIMPEZA:
+1. Remova arquivos temporários
+2. Consolide arquivos duplicados
+3. Arquive branches antigas (merged > 30 dias)
+4. Remova pastas vazias
+5. Organize arquivos deslocados
+
+OTIMIZAÇÃO:
+1. Execute git gc (garbage collection)
+2. Otimize histórico se necessário
+3. Verifique tamanho do repositório
+4. Sugira melhorias de estrutura
+
+RELATÓRIO:
+- Espaço liberado
+- Arquivos removidos
+- Branches arquivadas
+- Recomendações futuras`
+                        },
+                        {
+                            code: '/devops status',
+                            description: 'Status do repositório',
+                            prompt: `Forneça um DIAGNÓSTICO COMPLETO do repositório.
+
+STATUS ATUAL:
+1. Branch atual
+2. Arquivos modificados (staged/unstaged)
+3. Arquivos não rastreados
+4. Conflitos pendentes
+5. Atraso em relação ao remoto (ahead/behind)
+
+MÉTRICAS DO REPOSITÓRIO:
+1. Tamanho total
+2. Número de branches
+3. Número de tags
+4. Commits nos últimos 7/30/90 dias
+5. Contribuidores ativos
+6. Pull requests abertos/fechados
+
+SAÚDE DO REPOSITÓRIO:
+1. .gitignore está atualizado?
+2. Git LFS configurado?
+3. CI/CD pipelines funcionando?
+4. Sem arquivos pesados indevidos?
+5. Histórico limpo?
+
+ALERTAS:
+- Conflitos iminentes
+- Branches divergentes
+- Arquivos problemáticos
+- Problemas de performance
+
+RECOMENDAÇÕES: Ações preventivas e corretivas.`
+                        },
+                        {
+                            code: '/devops fix-conflict',
+                            description: 'Resolução de conflitos',
+                            prompt: `Resolva CONFLITOS de merge/rebase no repositório.
+
+IDENTIFICAÇÃO:
+1. Liste todos os arquivos em conflito
+2. Para cada conflito, identifique:
+   - Branchs envolvidos
+   - Tipo de conflito (content/structure/binary)
+   - Severidade (baixa/média/alta)
+
+RESOLUÇÃO:
+Para cada conflito:
+1. Analise as versões conflitantes
+2. Identifique a intenção de cada mudança
+3. Preserve o trabalho válido de ambos os lados
+4. Resolva de forma lógica e consistente
+5. Remova marcadores de conflito (<<<<, ====>>, <<<<)
+
+VALIDAÇÃO:
+1. Execute testes se existirem
+2. Verifique integridade dos arquivos
+3. Confirme que não há syntax errors
+4. Valide com o contexto do projeto
+
+COMMIT:
+1. Stage os arquivos resolvidos
+2. Commit com mensagem descritiva:
+   "merge: resolve conflicts in <files> between <branches>"
+3. Documente decisões tomadas
+
+RELATÓRIO:
+- Conflitos resolvidos
+- Decisões tomadas
+- Arquivos afetados
+- Recomendações para evitar futuros conflitos`
+                        }
+                    ],
+                    skills: ['Git operations', 'CI/CD pipelines', 'Large files/LFS', 'Resolução de conflitos'],
+                    useCases: ['Git push/pull', 'Large files', 'Conflitos', '.gitignore']
+                },
+                {
+                    id: 'design-thinking',
+                    name: 'Navigator',
+                    originalName: 'Design Thinking',
+                    icon: '⌖',
+                    role: 'Coordenador de UX — pesquisa, definição, ideação, prototipagem',
+                    description: 'O Navigator lidera processos de design centrado no humano. Coordena pesquisa, personas, jornadas, wireframes e validação. Delega UI visual ao Artificer.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/design-thinking research <tema>',
+                            description: 'Pesquisa com usuários',
+                            prompt: `Execute uma pesquisa de UX completa sobre: "<tema>"
+
+FASE 1: DESCOBERTA
+1. Defina objetivos da pesquisa
+2. Identifique público-alvo
+3. Selecione métodos:
+   - Entrevistas em profundidade
+   - Questionários
+   - Observação contextual
+   - Análise de dados existentes
+
+FASE 2: COLETA DE DADOS
+Para cada participante/entrevista:
+1. Perfil do usuário
+2. Dores e frustrações
+3. Necessidades não atendidas
+4. Comportamentos observados
+5. Quotes relevantes
+
+FASE 3: SÍNTESE
+1. Agrupe insights por temas
+2. Identifique padrões
+3. Crie affinity diagram
+4. Priorize por impacto e frequência
+
+FASE 4: ENTREGÁVEIS
+1. Relatório de pesquisa completo
+2. Mapa de insights
+3. Personas atualizadas (se aplicável)
+4. Oportunidades de design
+5. Recomendações acionáveis
+
+FORMATO: Documento estruturado com dados qualitativos e quantitativos.`
+                        },
+                        {
+                            code: '/design-thinking personas <público>',
+                            description: 'Cria personas',
+                            prompt: `Crie PERSONAS detalhadas para o público: "<público>"
+
+Para cada persona (3-5 personas):
+
+1. IDENTIDADE
+   - Nome fictício
+   - Foto (descrição)
+   - Idade
+   - Profissão
+   - Contexto educacional
+
+2. OBJETIVOS
+   - O que querem alcançar?
+   - Motivações principais
+   - Success metrics pessoais
+
+3. DORES E FRUSTRAÇÕES
+   - Desafios atuais
+   - Obstáculos enfrentados
+   - Medos e preocupações
+
+4. COMPORTAMENTOS
+   - Como aprendem atualmente?
+   - Ferramentas que usam
+   - Hábitos de estudo
+   - Preferências de consumo
+
+5. NEEDS
+   - Necessidades funcionais
+   - Necessidades emocionais
+   - Necessidades sociais
+
+6. JORNADA TÍPICA
+   - Touchpoints com o produto
+   - Momentos de frustração
+   - Momentos de delight
+
+7. CENÁRIOS
+   - Cenário principal de uso
+   - Casos de borda
+   - Contexto de acesso
+
+FORMATO: Perfil completo de cada persona pronto para guiar decisões de design.`
+                        },
+                        {
+                            code: '/design-thinking brainstorm <problema>',
+                            description: 'Sessão de ideação',
+                            prompt: `Conduza uma SESSÃO DE BRAINSTORMING para o problema: "<problema>"
+
+FASE 1: DIVERGÊNCIA (Ideação)
+1. Defina o problema claramente
+2. Gere 20-30 ideias iniciais
+3. Técnicas:
+   - Brainstorming livre
+   - Worst possible idea (inverta)
+   - SCAMPER (Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse)
+   - Crazy 8s (8 ideias em 8 minutos)
+
+FASE 2: CONVERGÊNCIA (Seleção)
+1. Agrupe ideias similares
+2. Vote por impacto e viabilidade
+3. Selecione top 3-5 ideias
+4. Para cada ideia selecionada:
+   - Descrição clara
+   - Prós e contras
+   - Esforço estimado
+   - Impacto esperado
+
+FASE 3: REFINAMENTO
+Para cada ideia finalista:
+1. Como funciona na prática?
+2. Quem é o usuário beneficiado?
+3. Quais recursos são necessários?
+4. Como testar rapidamente?
+5. Métricas de sucesso
+
+FASE 4: PRÓXIMOS PASSOS
+1. Priorize por ordem de execução
+2. Defina experimentos de validação
+3. Crie plano de prototipagem
+
+FORMATO: Documento de brainstorm com todas as ideias e análise das selecionadas.`
+                        },
+                        {
+                            code: '/design-thinking wireframe <componente>',
+                            description: 'Wireframes',
+                            prompt: `Crie WIREFRAMES para o componente: "<componente>"
+
+FASE 1: REQUISITOS
+1. Objetivo do componente
+2. Usuário primário
+3. Funcionalidades essenciais
+4. Restrições técnicas
+5. Casos de uso
+
+FASE 2: LOW-FIDELITY
+Crie wireframes em baixa fidelidade:
+1. Layout geral (estrutura)
+2. Hierarquia visual
+3. Fluxo de navegação
+4. Elementos interativos
+5. Estados (default, hover, active, disabled, error)
+
+FASE 3: MID-FIDELITY
+Refine com mais detalhe:
+1. Espaçamento e grid
+2. Tipografia (hierarquia)
+3. Componentes aninhados
+4. Responsividade (mobile, tablet, desktop)
+5. Acessibilidade (foco, contraste)
+
+FASE 4: ANOTAÇÕES
+Para cada wireframe:
+1. Descrição de cada elemento
+2. Comportamentos interativos
+3. Regras de negócio
+4. Mensagens de erro
+5. Estados vazios
+
+ENTREGÁVEIS:
+- Wireframes em ASCII/descrição textual clara
+- Anotações detalhadas
+- Especificação de interações
+- Guia de implementação`
+                        }
+                    ],
+                    skills: ['Pesquisa UX', 'Personas', 'User journeys', 'Wireframes', 'Brainstorming'],
+                    useCases: ['UX Research', 'Personas', 'Jornadas', 'Wireframes']
+                },
+                {
+                    id: 'ui-designer',
+                    name: 'Artificer',
+                    originalName: 'UI Designer',
+                    icon: '◐',
+                    role: 'Designer UI senior — design systems premium e responsivos',
+                    description: 'O Artificer transforma conceitos em sistemas visuais coesos, escaláveis e premium. Domina tokens, responsividade, acessibilidade WCAG e componentização.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/ui-designer create-system <nome>',
+                            description: 'Cria design system',
+                            prompt: `Crie um DESIGN SYSTEM completo: "<nome>"
+
+1. DESIGN TOKENS
+   Cores:
+   - Primary palette (5-7 shades)
+   - Secondary palette (5-7 shades)
+   - Neutrals (grays, 10 shades)
+   - Semantic colors (success, warning, error, info)
+   - Dark mode variants
+
+   Tipografia:
+   - Font family (headings, body, mono)
+   - Font weights (300, 400, 500, 600, 700)
+   - Font sizes (scale ratio 1.25 ou 1.333)
+   - Line heights
+   - Letter spacing
+
+   Espaçamento:
+   - Scale (4px base: 4, 8, 12, 16, 24, 32, 48, 64)
+   - Padding variants
+   - Margin variants
+
+   Border radius:
+   - Scale (2, 4, 8, 12, 16, 24, 9999)
+
+   Shadows:
+   - Elevation levels (sm, md, lg, xl)
+   - Color e blur
+
+   Breakpoints:
+   - Mobile: 320, 375, 414
+   - Tablet: 768, 834
+   - Desktop: 1024, 1280, 1440, 1920
+
+2. COMPONENTES BASE
+   Para cada componente:
+   - Nome e descrição
+   - Variantes (size, state, type)
+   - Props/API
+   - Anatomia (partes do componente)
+   - Comportamento
+   - Acessibilidade
+   - Código exemplo
+
+   Componentes essenciais:
+   - Buttons (primary, secondary, ghost, danger)
+   - Inputs (text, select, checkbox, radio)
+   - Cards (basic, interactive, media)
+   - Navigation (header, sidebar, tabs)
+   - Feedback (alert, toast, modal, tooltip)
+   - Typography (headings, paragraphs, lists)
+
+3. PADRÕES DE LAYOUT
+   - Grid system (12 colunas)
+   - Flexbox utilities
+   - Container widths
+   - Section spacing
+
+4. ACESSIBILIDADE (WCAG 2.1 AA)
+   - Contraste mínimo 4.5:1
+   - Focus visible
+   - ARIA labels
+   - Keyboard navigation
+   - Screen reader support
+
+5. DOCUMENTAÇÃO
+   - Guia de uso
+   - Princípios de design
+   - Contribuição
+   - Versionamento
+
+FORMATO: Especificação completa pronta para implementação.`
+                        },
+                        {
+                            code: '/ui-designer create-component <nome>',
+                            description: 'Cria componentes',
+                            prompt: `Crie a especificação completa do componente: "<nome>"
+
+1. VISÃO GERAL
+   - Nome do componente
+   - Descrição
+   - Quando usar
+   - Quando NÃO usar
+   - Exemplos de uso
+
+2. ANATOMIA
+   Partes do componente (diagrama textual):
+   - Container
+   - Ícone (opcional)
+   - Label/Text
+   - Elementos filhos
+   - Overlays (se aplicável)
+
+3. VARIANTES
+   Liste todas as variantes:
+   - Por tamanho (sm, md, lg, xl)
+   - Por estado (default, hover, active, focus, disabled, error)
+   - Por tipo (primary, secondary, ghost)
+   - Por contexto (light, dark, colored)
+
+4. PROPS/API
+   Para cada prop:
+   - Nome
+   - Tipo (string, boolean, enum, function)
+   - Default value
+   - Descrição
+   - Obrigatório? (required/optional)
+
+5. COMPORTAMENTO
+   - Interações (click, hover, focus, keypress)
+   - Transições e animações
+   - Estados internos
+   - Eventos emitidos
+   - Validações
+
+6. ACESSIBILIDADE
+   - ARIA attributes
+   - Keyboard interactions
+   - Focus management
+   - Screen reader announcements
+   - Color contrast ratios
+
+7. RESPONSIVIDADE
+   - Comportamento em mobile
+   - Comportamento em tablet
+   - Comportamento em desktop
+   - Breakpoints específicos
+
+8. ESPECIFICAÇÃO VISUAL
+   - Dimensions (width, height, padding, margin)
+   - Colors (all states)
+   - Typography (font size, weight, line height)
+   - Border (width, style, radius)
+   - Shadow (elevation levels)
+
+9. CÓDIGO DE EXEMPLO
+   - HTML structure
+   - CSS/Tailwind classes
+   - JavaScript interactivity
+   - Framework implementation (React/Vue se aplicável)
+
+10. TEST CASES
+    - Cenários de teste
+    - Casos de borda
+    - Validações
+
+FORMATO: Documentação técnica completa do componente.`
+                        },
+                        {
+                            code: '/ui-designer apply-theme <tema>',
+                            description: 'Aplica tema',
+                            prompt: `Aplique o tema "<tema>" ao design system existente.
+
+1. ANÁLISE DO TEMA
+   - Conceito e identidade visual
+   - Paleta de cores principal
+   - Mood e personalidade
+   - Referências visuais
+   - Público-alvo
+
+2. CUSTOMIZAÇÃO DE TOKENS
+   Atualize todos os tokens para o tema:
+
+   Cores:
+   - Primary color e shades
+   - Secondary color e shades
+   - Accent colors
+   - Background colors
+   - Text colors
+   - Border colors
+
+   Tipografia:
+   - Font family (se diferente)
+   - Font scale adjustments
+   - Heading style
+   - Body style
+
+   Efeitos visuais:
+   - Shadow intensity
+   - Border radius style
+   - Gradient usage
+   - Glass morphism (se aplicável)
+   - Animations style
+
+3. COMPONENTES TEMÁTICOS
+   Para cada componente base, aplique:
+   - Novas cores
+   - Ajustes de espaçamento
+   - Modificações visuais
+   - Estados atualizados
+
+4. DARK MODE
+   Crie variante dark completa:
+   - Inversão de cores
+   - Ajuste de contraste
+   - Sombras adaptadas
+   - Acessibilidade mantida
+
+5. VARIANTE DE ACESSIBILIDADE
+   - Verifique todos os contrastes
+   - Ajuste para WCAG 2.1 AA
+   - Focus indicators
+   - High contrast mode
+
+6. DOCUMENTAÇÃO
+   - Guia do tema
+   - Paleta de cores
+   - Exemplos de aplicação
+   - Do's and Don'ts
+
+FORMATO: Guia completo de implementação do tema com todos os tokens atualizados.`
+                        }
+                    ],
+                    skills: ['Design Tokens', 'Componentização', 'WCAG 2.1 AA', 'Dark mode', 'Responsividade'],
+                    useCases: ['Design System', 'Componentes', 'Tokens', 'Acessibilidade']
+                },
+                {
+                    id: 'image-generator',
+                    name: 'Illustrator',
+                    originalName: 'Image Generator',
+                    icon: '▣',
+                    role: 'Artista Digital — gera ilustrações em aquarela clássica',
+                    description: 'O Illustrator transforma prompts do hábito Narrar em ilustrações usando APIs gratuitas (Pollinations, HuggingFace). Estilo: aquarela, livro clássico, fundo branco.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/image-generator generate <ano>',
+                            description: 'Gera todas as imagens',
+                            prompt: `Gere TODAS as imagens necessárias para o ano <ano> usando o hábito Narrar.
+
+CONFIGURAÇÃO DE GERAÇÃO:
+API: Pollinations AI ou HuggingFace
+Estilo: Aquarela clássica, livro clássico
+Fundo: Branco ou transparente
+Qualidade: Alta resolução (mínimo 1024x1024)
+
+PROCESSO:
+
+1. MAPEAMENTO DE NECESSIDADES
+   Para cada semana do ano <ano>:
+   - Identifique temas que requerem ilustração
+   - Liste conceitos visuais importantes
+   - Determine número de imagens por semana
+   - Priorize por importância pedagógica
+
+2. PROMPTS DE GERAÇÃO
+   Para cada imagem, crie prompt detalhado:
+   - Descrição do sujeito/objeto
+   - Estilo: "classical watercolor illustration"
+   - Composição
+   - Cores predominantes
+   - Nível de detalhe
+   - Contexto histórico (se aplicável)
+   - "white background, children's educational book style"
+
+3. GERAÇÃO EM LOTE
+   - Gere todas as imagens sequencialmente
+   - Salve com nomenclatura padrão:
+     year-<ano>_week-<semana>_lesson-<aula>_image-<n>.png
+   - Mantenha log de geração
+
+4. VALIDAÇÃO
+   Para cada imagem gerada:
+   - Qualidade visual adequada?
+   - Estilo consistente?
+   - Resolução suficiente?
+   - Tema pedagogamente relevante?
+   - Sem artefatos indesejados?
+
+5. REGENERAÇÃO AUTOMÁTICA
+   Se imagem não passar na validação:
+   - Regenerar com prompt ajustado
+   - Máximo 3 tentativas
+   - Documentar falhas
+
+6. RELATÓRIO
+   - Total de imagens geradas
+   - Sucessos vs falhas
+   - Links para imagens
+   - Sugestões de melhorias
+
+FORMATO: Relatório completo com links e status de cada imagem.`
+                        },
+                        {
+                            code: '/image-generator generate-week <ano> <semana>',
+                            description: 'Gera semana específica',
+                            prompt: `Gere as imagens para a semana <semana> do ano <ano>.
+
+DADOS:
+- Ano: <ano>
+- Semana: <semana>
+
+PROCESSO DETALHADO:
+
+1. ANÁLISE DO CONTEÚDO DA SEMANA
+   - Leia o conteúdo das aulas da semana
+   - Identifique conceitos que precisam de ilustração
+   - Determine número de imagens necessárias
+   - Liste temas específicos
+
+2. BRIEFING CRIATIVO
+   Para cada imagem necessária:
+   - Conceito principal a ilustrar
+   - Elementos visuais essenciais
+   - Estilo: aquarela clássica
+   - Composição sugerida
+   - Referências históricas (se aplicável)
+
+3. GERAÇÃO
+   Usando Pollinations AI:
+   - Crie prompt detalhado para cada imagem
+   - Parâmetros:
+     * width: 1024
+     * height: 1024
+     * seed: (varie para diversidade)
+   - Aguarde geração completa
+   - Salve cada imagem
+
+4. ORGANIZAÇÃO
+   - Nomeie corretamente
+   - Coloque na pasta correta
+   - Atualize referências nas aulas
+   - Adicione alt text descritivo
+
+5. QUALIDADE
+   Verifique cada imagem:
+   - Clareza visual
+   - Relevância pedagógica
+   - Estilo consistente
+   - Sem erros visuais
+
+6. DOCUMENTAÇÃO
+   - Liste todas as imagens criadas
+   - Links de acesso
+   - Prompts usados
+   - Notas de qualidade
+
+FORMATO: Relatório da semana com todas as imagens geradas e documentadas.`
+                        },
+                        {
+                            code: '/image-generator regenerate <aula> <ano>',
+                            description: 'Regenera imagem',
+                            prompt: `Regenere as imagens para a aula <aula> do ano <ano>.
+
+DADOS:
+- Aula: <aula>
+- Ano: <ano>
+
+PROCESSO DE REGENERAÇÃO:
+
+1. ANÁLISE DA IMAGEM EXISTENTE
+   - Identifique a imagem atual
+   - Avalie problemas/limitações
+   - Documente o que não funcionou
+
+2. NOVO BRIEFING
+   - Releia o conteúdo da aula
+   - Identifique conceito visual principal
+   - Crie novo prompt MELHORADO:
+     * Mais detalhado
+     * Mais específico
+     * Referências visuais claras
+     * Estilo definido
+     * Composição especificada
+
+3. GERAÇÃO MÚLTIPLA
+   - Gere 3-5 variações da mesma imagem
+   - Use seeds diferentes
+   - Varie levemente os prompts
+   - Compare resultados
+
+4. SELEÇÃO
+   Escolha a melhor imagem baseado em:
+   - Clareza visual
+   - Relevância pedagógica
+   - Qualidade estética
+   - Consistência de estilo
+   - Adequação ao conteúdo
+
+5. SUBSTITUIÇÃO
+   - Substitua a imagem antiga
+   - Atualize referências
+   - Mantenha backup da anterior
+   - Documente a mudança
+
+6. VALIDAÇÃO
+   - Imagem nova é melhor que a anterior?
+   - Links funcionando?
+   - Alt text atualizado?
+
+FORMATO: Relatório com imagem antiga vs nova e justificativa.`
+                        },
+                        {
+                            code: '/image-generator status <ano>',
+                            description: 'Status de geração',
+                            prompt: `Forneça um RELATÓRIO COMPLETO de geração de imagens para o ano <ano>.
+
+ANÁLISE COMPLETA:
+
+1. VISÃO GERAL
+   - Total de semanas no ano
+   - Total de aulas no ano
+   - Total de imagens necessárias (estimativa)
+   - Imagens geradas
+   - Imagens pendentes
+   - Taxa de conclusão (%)
+
+2. STATUS POR SEMANA
+   Para cada semana:
+   - Número de aulas
+   - Imagens necessárias
+   - Imagens geradas
+   - Status: ✅ Completo, ⚠️ Parcial, ❌ Pendente
+   - Links para imagens existentes
+
+3. QUALIDADE
+   - Imagens validadas (boa qualidade)
+   - Imagens marcadas para regeneração
+   - Problemas identificados
+   - Padrões de falha
+
+4. ESTATÍSTICAS
+   - Imagens geradas com sucesso
+   - Regenerações necessárias
+   - Taxa de sucesso na primeira tentativa
+   - Tempo médio de geração
+   - API mais usada (Pollinations vs HuggingFace)
+
+5. GAPS IDENTIFICADOS
+   - Semanas sem imagens
+   - Aulas com imagens insuficientes
+   - Oportunidades de melhoria
+
+6. RECOMENDAÇÕES
+   - Prioridade de geração
+   - Melhorias de prompt
+   - Ajustes de estilo
+   - Otimizações de workflow
+
+FORMATO: Dashboard textual completo com métricas e recomendações.`
+                        }
+                    ],
+                    skills: ['Aquarela clássica', 'Pollinations AI', 'Gemini/Nano Banana', 'Prompt engineering'],
+                    useCases: ['Imagens Narrar', 'Aquarela clássica', 'Pollinations API']
+                },
+                {
+                    id: 'capitalizer',
+                    name: 'Lexicon',
+                    originalName: 'Capitalizer',
+                    icon: 'ABC',
+                    role: 'Revisor de capitalização — padrão europeu',
+                    description: 'O Lexicon aplica capitalização padrão europeu (sentence-case). Nomes próprios em maiúscula, termos descritivos em minúscula. Consistência em todas as seções.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/capitalize <arquivo>',
+                            description: 'Aplica capitalização',
+                            prompt: `Aplique CAPITALIZAÇÃO PADRÃO EUROPEU (sentence-case) ao arquivo.
+
+ARQUIVO: <arquivo>
+
+REGRAS DE CAPITALIZAÇÃO EUROPEIA:
+
+1. SENTENCE-CASE (Regra Geral)
+   ✓ Primeira letra da FRASE em maiúscula
+   ✓ Restante da frase em minúscula
+   ✓ Após ponto: nova frase com maiúscula
+   ✓ Após ponto de exclamação/interrogação: maiúscula
+
+2. NOMES PRÓPRIOS (Sempre Maiúsculas)
+   ✓ Nomes de pessoas
+   ✓ Nomes de lugares (países, cidades, rios, montanhas)
+   ✓ Nomes de instituições
+   ✓ Nomes de eventos históricos
+   ✓ Nomes de obras (livros, filmes, músicas)
+   ✓ Nomes de períodos/eras (Renascimento, Idade Média)
+
+3. TERMOS DESCRITIVOS (Minúsculas)
+   ✗ Conceitos gerais (democracia, filosofia, matemática)
+   ✗ Disciplinas (história, geografia, ciências)
+   ✗ Movimentos (quando descritivos: "o movimento renascentista")
+   ✗ Títulos de cargos (quando descritivos: "o rei", "o presidente")
+   ✗ Séculos e numerais ordinais (quando escritos: "século dezesseis")
+
+4. TÍTULOS DE OBRAS
+   - Primeira palavra em maiúscula
+   - Subtítulo: primeira palavra em maiúscula
+   - Nomes próprios: sempre maiúsculas
+   - Exemplo: "A história do mundo antigo"
+
+5. SEÇÕES E CABEÇALHOS
+   - Mesma regra: sentence-case
+   - Apenas primeira palavra + nomes próprios
+   - Exemplo: "Os principais eventos da semana cinco"
+
+6. TERMOS TÉCNICOS
+   - Siga regra geral: sentence-case
+   - Exceto siglas e acrônimos (NASA, ONU, PIB)
+   - Nomes de teorias com nomes próprios: "teoria de Darwin"
+   - Nomes de teorias descritivas: "teoria da evolução"
+
+7. CITAÇÕES
+   - Mantenha capitalização original se citação direta
+   - Aplique sentence-case se paráfrase
+   - Versículos bíblicos: siga tradução padrão
+
+PROCESSO DE CORREÇÃO:
+
+1. LEITURA COMPLETA
+   - Analise todo o conteúdo
+   - Identifique padrões atuais
+
+2. APLICAÇÃO DAS REGRAS
+   - Corrija sistematicamente
+   - Mantenha lista de mudanças
+
+3. VALIDAÇÃO
+   - Verifique consistência
+   - Confirme nomes próprios
+   - Valide títulos de obras
+
+4. RELATÓRIO
+   - Total de correções
+   - Tipos de correções
+   - Exemplos antes/depois
+   - Notas especiais
+
+ENTREGÁVEL: Arquivo com capitalização 100% consistente + relatório de mudanças.
+
+OBSERVAÇÃO: Esta funcionalidade agora está INTEGRADA ao Standardizer (Architect). Use /standardize para formatação completa incluindo capitalização.`
+                        }
+                    ],
+                    skills: ['Sentence-case', 'Nomes próprios', 'Termos técnicos', 'Consistência global'],
+                    useCases: ['Sentence-case', 'Consistência', 'Padrão europeu']
+                }
+            ],
+            analytics: [
+                {
+                    id: 'performance-analytics',
+                    name: 'Strategist',
+                    originalName: 'Performance Analytics',
+                    icon: '⊞',
+                    role: 'Analista de performance — relatórios de produtividade',
+                    description: 'O Strategist analisa produção de tickets no Kanban. Gera relatórios individuais e da equipe: total de tickets, taxa de conclusão, ritmo de produção, ranking.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/performance user <username>',
+                            description: 'Performance individual',
+                            prompt: `Gere um RELATÓRIO DE PERFORMANCE individual para: <username>
+
+PERÍODO: Últimos 30 dias (ou especifique)
+
+MÉTRICAS DE PRODUTIVIDADE:
+
+1. VOLUME DE TRABALHO
+   - Total de tickets criados
+   - Total de tickets concluídos
+   - Total de tickets em progresso
+   - Taxa de conclusão (%)
+   - Tempo médio de resolução
+
+2. QUALIDADE DO TRABALHO
+   - Tickets retornados para revisão
+   - Taxa de aprovação na primeira tentativa
+   - Erros identificados pós-publicação
+   - Feedback recebido
+
+3. CONSISTÊNCIA
+   - Dias ativos vs dias inativos
+   - Produção por dia da semana
+   - Produção por hora do dia
+   - Padrões de trabalho
+
+4. PRODUÇÃO POR TIPO
+   - Aulas pesquisadas
+   - Aulas escritas
+   - Aulas formatadas
+   - Aulas revisadas
+   - Aulas publicadas
+   - Imagens geradas
+   - Outros entregáveis
+
+5. COMPARATIVO
+   - Ranking na equipe
+   - Percentil de performance
+   - Comparação com média da equipe
+   - Evolução mês a mês
+
+6. PONTOS FORTES
+   - Disciplinas de maior performance
+   - Tipos de tarefa com melhor qualidade
+   - Contribuições únicas
+
+7. OPORTUNIDADES DE MELHORIA
+   - Áreas com menor performance
+   - Gargalos identificados
+   - Sugestões de desenvolvimento
+
+8. RECONHECIMENTO
+   - Recordes pessoais
+   - Marcos alcançados
+   - Contribuições notáveis
+
+FORMATO: Dashboard completo com gráficos textuais e métricas detalhadas.`
+                        },
+                        {
+                            code: '/performance discipline <disciplina>',
+                            description: 'Performance por matéria',
+                            prompt: `Analise a PERFORMANCE por disciplina: <disciplina>
+
+VISÃO GERAL DA DISCIPLINA:
+
+1. STATUS ATUAL
+   - Total de aulas planejadas
+   - Total de aulas concluídas
+   - Total de aulas pendentes
+   - Taxa de conclusão (%)
+   - Semana mais avançada
+   - Semana mais atrasada
+
+2. PRODUÇÃO POR ETAPA
+   Para cada etapa do workflow:
+   - Pesquisa: concluídas/pendentes
+   - Escrita: concluídas/pendentes
+   - Formatação: concluídas/pendentes
+   - Revisão: concluídas/pendentes
+   - Publicação: concluídas/pendentes
+
+3. CONTRIBUIDORES
+   - Quem trabalha nesta disciplina
+   - Produção por contribuidor
+   - Qualidade por contribuidor
+   - Velocidade por contribuidor
+
+4. QUALIDADE
+   - Taxa de aprovação geral
+   - Problemas mais comuns
+   - Tempo médio de revisão
+   - Retrabalho necessário
+
+5. CRONOGRAMA
+   - Data de início
+   - Progresso esperado vs real
+   - Projeção de conclusão
+   - Riscos identificados
+
+6. COMPARAÇÃO
+   - Ranking entre disciplinas
+   - Performance relativa
+   - Lições aplicáveis a outras
+
+7. RECOMENDAÇÕES
+   - Ações para melhorar performance
+   - Recursos adicionais necessários
+   - Ajustes de processo
+
+FORMATO: Relatório analítico completo com dados e recomendações.`
+                        },
+                        {
+                            code: '/performance team',
+                            description: 'Relatório da equipe',
+                            prompt: `Gere um RELATÓRIO COMPLETO DE PERFORMANCE DA EQUIPE
+
+VISÃO EXECUTIVA:
+
+1. MÉTRICAS GERAIS
+   - Total de membros ativos
+   - Total de tickets no período
+   - Total de tickets concluídos
+   - Taxa de conclusão geral
+   - Velocidade da equipe
+
+2. RANKING INDIVIDUAL
+   Para cada membro (ordenado por conclusão):
+   - Nome
+   - Tickets concluídos
+   - Taxa de conclusão
+   - Qualidade média
+   - Velocidade relativa
+   - Trend (subindo/stable/descendo)
+
+3. DISTRIBUIÇÃO DE TRABALHO
+   - Por tipo de tarefa
+   - Por disciplina
+   - Por etapa do workflow
+   - Balanceamento da carga
+
+4. SAÚDE DA EQUIPE
+   - Nível de atividade
+   - Membros em risco (baixa atividade)
+   - Membros sobrecarregados
+   - Capacidade ociosa
+
+5. TENDÊNCIAS
+   - Performance últimos 3 meses
+   - Crescimento/declínio
+   - Sazonalidade
+   - Projeções
+
+6. COLABORAÇÃO
+   - Pares que mais trabalham juntos
+   - Tempo médio de handoff
+   - Gargalos de dependência
+
+7. INSIGHTS ACIONÁVEIS
+   - O que está funcionando
+   - O que precisa mudar
+   - Quick wins
+   - Mudanças estruturais
+
+8. RECOMENDAÇÕES
+   - Redistribuição de carga
+   - Treinamentos necessários
+   - Processos a otimizar
+   - Celebrações merecidas
+
+FORMATO: Relatório executivo com dados, análises e plano de ação.`
+                        },
+                        {
+                            code: '/performance velocity <username>',
+                            description: 'Velocidade semanal',
+                            prompt: `Analise a VELOCIDADE SEMANAL de: <username>
+
+ANÁLISE DETALHADA:
+
+1. VELOCIDADE ATUAL
+   - Tickets na última semana
+   - Tickets na semana atual (parcial)
+   - Comparação com média pessoal
+   - Comparação com média da equipe
+
+2. HISTÓRICO SEMANAL
+   Últimas 8 semanas:
+   - Semana X: N tickets
+   - Semana Y: N tickets
+   - Trend line
+   - Picos e vales
+
+3. PADRÕES IDENTIFICADOS
+   - Dias mais produtivos
+   - Horários mais produtivos
+   - Tipos de tarefa mais rápidos
+   - Fatores de lentidão
+
+4. CAPACIDADE
+   - Capacidade máxima observada
+   - Capacidade sustentável
+   - Margem para mais trabalho
+   - Sinais de sobrecarga
+
+5. COMPARAÇÃO
+   - vs média pessoal
+   - vs média da equipe
+   - vs melhor performer
+   - Percentil
+
+6. PREVISÃO
+   - Próximas 4 semanas (estimativa)
+   - Baseado em padrões históricos
+   - Considerando backlog atual
+   - Fatores de risco
+
+7. OTIMIZAÇÃO
+   - Como aumentar velocidade
+   - Obstáculos a remover
+   - Melhores práticas
+   - Sugestões personalizadas
+
+FORMATO: Análise detalhada com gráficos de tendência e recomendações.`
+                        }
+                    ],
+                    skills: ['Relatórios de produtividade', 'Ranking individual', 'Análise por disciplina', 'Velocidade semanal'],
+                    useCases: ['Performance individual', 'Ranking', 'Produtividade']
+                },
+                {
+                    id: 'vision-github-analyzer',
+                    name: 'Harvester',
+                    originalName: 'Vision GitHub Analyzer',
+                    icon: '▤',
+                    role: 'Analista de dados — extrai e limpa dados do GitHub Projects',
+                    description: 'O Harvester conecta-se passivamente à API GraphQL do GitHub Projects. Extrai, limpa e formata dados brutos em data.json para o Vision Board.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/github sync',
+                            description: 'Sincroniza dados',
+                            prompt: `Execute SINCRONIZAÇÃO completa com a API GraphQL do GitHub Projects.
+
+CONFIGURAÇÃO:
+- Endpoint: GitHub GraphQL API
+- Query: Project V2 data
+- Campos: Todos os campos relevantes
+- Filtros: Todos os projetos BEF
+
+PROCESSO DE EXTRAÇÃO:
+
+1. AUTENTICAÇÃO
+   ✓ Token de acesso válido
+   ✓ Permissões verificadas
+   ✓ Rate limits conhecidos
+
+2. QUERY CONSTRUCTION
+   Monte query GraphQL completa:
+   - organization { login }
+   - projectV2(number: X) {
+     * title, description
+     * items (first: 100) {
+       - title, status, assignees
+       - fieldValues { all custom fields }
+       - createdAt, updatedAt
+       - content { type, url }
+     }
+     * fields { all field definitions }
+   }
+
+3. PAGINAÇÃO
+   - Implemente cursor-based pagination
+   - Colete TODOS os items
+   - Valide contagem total
+
+4. DATA CLEANING
+   Para cada item:
+   - Normalize valores
+   - Padronize formatos de data
+   - Limpe strings
+   - Valide campos obrigatórios
+   - Handle null/missing values
+
+5. TRANSFORMAÇÃO
+   - Converta para schema interno
+   - Mapeie campos customizados
+   - Calcule campos derivados
+   - Adicione metadata de sync
+
+6. SALVAMENTO
+   - Salve como data.json
+   - Estrutura hierárquica
+   - Inclua metadata:
+     * sync_timestamp
+     * total_items
+     * sync_status
+   - Backup do arquivo anterior
+
+7. VALIDAÇÃO
+   - Contagem de items
+   - Integridade de dados
+   - Campos obrigatórios presentes
+   - Formato de datas
+   - Consistência interna
+
+8. RELATÓRIO DE SYNC
+   - Items coletados
+   - Duração do sync
+   - Erros encontrados
+   - Diferença vs último sync
+   - Status: SUCESSO / PARCIAL / FALHA
+
+FORMATO: data.json estruturado + relatório de sincronização.`
+                        },
+                        {
+                            code: '/github analyze <projeto>',
+                            description: 'Analisa projeto',
+                            prompt: `Analise o projeto do GitHub: <projeto>
+
+DADOS BASE: data.json (último sync)
+
+ANÁLISE COMPLETA:
+
+1. VISÃO GERAL DO PROJETO
+   - Nome e descrição
+   - Total de items/tickets
+   - Data de criação
+   - Última atualização
+   - Status geral
+
+2. DISTRIBUIÇÃO POR STATUS
+   Para cada status:
+   - Contagem de items
+   - Percentual do total
+   - Trend (crescendo/diminuindo)
+   - Tempo médio neste status
+
+3. DISTRIBUIÇÃO POR ASSIGNEE
+   Para cada pessoa:
+   - Items atribuídos
+   - Items concluídos
+   - Items em progresso
+   - Taxa de conclusão
+   - Tempo médio de resolução
+
+4. CAMPOS CUSTOMIZADOS
+   Para cada campo customizado:
+   - Distribuição de valores
+   - Items sem valor
+   - Correlações com status
+   - Insights
+
+5. ANÁLISE TEMPORAL
+   - Items criados por semana
+   - Items concluídos por semana
+   - Velocidade do projeto
+   - Projeção de conclusão
+   - Gargalos temporais
+
+6. DEPENDÊNCIAS
+   - Items bloqueados
+   - Items bloqueadores
+   - Cadeias de dependência
+   - Impacto no cronograma
+
+7. SAÚDE DO PROJETO
+   - Taxa de progresso
+   - Idade média dos items abertos
+   - Items stale (>30 dias sem atualização)
+   - Riscos identificados
+
+8. INSIGHTS
+   - Padrões observados
+   - Anomalias
+   - Oportunidades
+   - Ameaças
+
+9. RECOMENDAÇÕES
+   - Ações imediatas
+   - Melhorias de processo
+   - Ajustes de alocação
+   - Mudanças de prioridade
+
+FORMATO: Relatório analítico completo com dados visuais e insights acionáveis.`
+                        }
+                    ],
+                    skills: ['GraphQL API', 'Data cleaning', 'Paginação cursor', 'JSON estruturado'],
+                    useCases: ['Extração GitHub', 'Data cleaning', 'JSON estruturado']
+                },
+                {
+                    id: 'vision-progress-engine',
+                    name: 'Oracle',
+                    originalName: 'Vision Progress Engine',
+                    icon: '◉',
+                    role: 'Motor de metas — compara concluído vs prazos',
+                    description: 'O Oracle consome data.json, agrega por ano escolar e cruza com calendário de metas. Classifica: ✅ Dentro da meta, ⚠️ Risco, ❌ Atrasado.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/progress calculate <disciplina> <ano>',
+                            description: 'Calcula progresso',
+                            prompt: `Calcule o PROGRESSO detalhado para: <disciplina> ano <ano>
+
+DADOS BASE: data.json + calendário de metas
+
+ANÁLISE DE PROGRESSO:
+
+1. META DEFINIDA
+   - Total de semanas no ano
+   - Total de aulas esperadas
+   - Cronograma planejado
+   - Marcos intermediários
+   - Data alvo de conclusão
+
+2. REALIZADO ATUAL
+   - Aulas concluídas
+   - Aulas em progresso
+   - Aulas não iniciadas
+   - Semana atual
+   - Semana esperada
+
+3. COMPARATIVO META vs REALIZADO
+   Para cada semana:
+   - Esperado: N aulas
+   - Realizado: N aulas
+   - Diferença: +N / -N
+   - Status: ✅ Dentro, ⚠️ Risco, ❌ Atrasado
+
+4. CLASSIFICAÇÃO DE STATUS
+   ✅ DENTRO DA META:
+   - Realizado >= 90% do esperado
+   - No timeline ou adiantado
+
+   ⚠️ EM RISCO:
+   - Realizado entre 70-89% do esperado
+   - Pequeno atraso recuperável
+
+   ❌ ATRASADO:
+   - Realizado < 70% do esperado
+   - Atraso significativo
+   - Ação corretiva necessária
+
+5. ANÁLISE POR ETAPA
+   Para cada etapa do workflow:
+   - Aulas na etapa
+   - Tempo médio na etapa
+   - Gargalos identificados
+   - Sugestões de otimização
+
+6. PROJEÇÕES
+   - Ritmo atual (aulas/semana)
+   - Ritmo necessário para meta
+   - Data projetada de conclusão
+   - Semanas para recuperar atraso
+
+7. VISUALIZAÇÃO
+   - Progress bar textual
+   - Timeline esperado vs real
+   - Marcos alcançados
+   - Próximos marcos
+
+8. RECOMENDAÇÕES
+   - Ações para recuperar atraso
+   - Recursos adicionais necessários
+   - Ajustes de processo
+   - Mudanças de prioridade
+
+FORMATO: Relatório completo com métricas, projeções e plano de ação.`
+                        },
+                        {
+                            code: '/progress update',
+                            description: 'Atualiza métricas',
+                            prompt: `Atualize todas as MÉTRICAS DE PROGRESSO do Vision Board.
+
+PROCESSO DE ATUALIZAÇÃO:
+
+1. SYNC DE DADOS
+   - Execute /github sync
+   - Valide dados atualizados
+   - Compare com versão anterior
+
+2. CÁLCULO DE MÉTRICAS
+   Para cada disciplina/ano:
+   - Progresso percentual
+   - Status (✅/⚠️/❌)
+   - Velocidade atual
+   - Projeção de conclusão
+   - Dias até deadline
+
+3. AGREGAÇÃO
+   - Por ano escolar
+   - Por disciplina
+   - Por equipe
+   - Por etapa do workflow
+   - Geral do projeto
+
+4. DETECÇÃO DE MUDANÇAS
+   - Status que mudaram
+   - Métricas que pioraram
+   - Métricas que melhoraram
+   - Novos gargalos
+   - Gargalos resolvidos
+
+5. ALERTAS
+   - Novos atrasos detectados
+   - Riscos emergentes
+   - SLAs em perigo
+   - Ações urgentes necessárias
+
+6. TRENDS
+   - Direção do progresso
+   - Velocidade trend
+   - Qualidade trend
+   - Padrões sazonais
+
+7. ATUALIZAÇÃO DE DASHBOARD
+   - Atualize data.json
+   - Atualize métricas agregadas
+   - Registre timestamp
+   - Backup versão anterior
+
+8. RELATÓRIO DE UPDATE
+   - O que mudou desde última atualização
+   - Métricas críticas
+   - Alertas novos
+   - Ações recomendadas
+
+FREQUÊNCIA: Executar automaticamente a cada 6 horas ou sob demanda.
+
+FORMATO: Métricas atualizadas + relatório de mudanças + alertas.`
+                        }
+                    ],
+                    skills: ['Cálculo de progresso', 'Meta vs Realizado', 'Classificação de risco', 'Projeções'],
+                    useCases: ['Meta vs Realizado', 'Projeção', 'Classificação de risco']
+                },
+                {
+                    id: 'vision-bottleneck-detector',
+                    name: 'Radar',
+                    originalName: 'Vision Bottleneck Detector',
+                    icon: '◍',
+                    role: 'Auditor operacional — detecta gargalos e alertas de SLA',
+                    description: 'O Radar procura ativamente por "sangramentos operacionais": quem está travado, qual disciplina empacou, alertas de SLA. Gera insights acionáveis.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/bottleneck detect [disciplina]',
+                            description: 'Detecta gargalos',
+                            prompt: `Detecte GARGALOS operacionais ativos no sistema.
+
+FILTRO: [disciplina] (opcional - se especificado, foca na disciplina)
+
+ANÁLISE DE GARGALOS:
+
+1. ITEMS TRAVADOS
+   Para cada item travado (>7 dias no mesmo status):
+   - Título do item
+   - Status atual
+   - Dias no status
+   - Responsável
+   - Bloqueador identificado
+   - Impacto no cronograma
+
+2. DISCIPLINAS EMPACADAS
+   Para cada disciplina:
+   - Progresso nas últimas 2 semanas
+   - Semanas sem avanço significativo
+   - Etapa do gargalo
+   - Responsáveis afetados
+   - Aulas impactadas
+
+3. ALERTAS DE SLA
+   Para cada SLA em risco:
+   - Disciplina/Ano/Semana
+   - Deadline
+   - Dias restantes
+   - Progresso atual
+   - Probabilidade de cumprir
+   - Ação necessária
+
+4. PESSOAS BLOQUEADAS
+   Para cada pessoa bloqueada:
+   - Nome
+   - Item travado
+   - Motivo do bloqueio
+   - Dependências externas
+   - Tempo bloqueado
+   - Impacto total
+
+5. ETAPAS CRÍTICAS
+   Para cada etapa do workflow:
+   - Items na etapa
+   - Tempo médio de processamento
+   - Tempo atual médio
+   - Capacidade ociosa/sobrecarga
+   - Sugestão de otimização
+
+6. DEPENDÊNCIAS CRÍTICAS
+   - Cadeias de dependência longas
+   - Items com múltiplas dependências
+   - Dependências externas não resolvidas
+   - Impacto cascata
+
+7. SEVERIDADE
+   Classifique cada gargalo:
+   🔴 CRÍTICO: Impacta múltiplas disciplinas/deadlines
+   🟠 ALTO: Impacta deadline significativo
+   🟡 MÉDIO: Atraso recuperável
+   🟢 BAIXO: Incômodo menor
+
+8. INSIGHTS ACIONÁVEIS
+   Para cada gargalo:
+   - Causa raiz
+   - Ação corretiva imediata
+   - Prevenção futura
+   - Responsável pela resolução
+   - Timeline estimada
+
+FORMATO: Relatório de gargalos classificados por severidade com plano de ação.`
+                        },
+                        {
+                            code: '/bottleneck alert <threshold>',
+                            description: 'Configura alertas',
+                            prompt: `Configure SISTEMA DE ALERTAS com threshold: <threshold>
+
+CONFIGURAÇÃO DE THRESHOLDS:
+
+1. ALERTAS DE TEMPO
+   - Item sem atualização: <threshold> dias
+   - Item no mesmo status: <threshold> dias
+   - Semana não iniciada: <threshold> dias antes do deadline
+   - Revisão pendente: <threshold> dias
+
+2. ALERTAS DE PROGRESSO
+   - Progresso abaixo de: <threshold>%
+   - Atraso maior que: <threshold> semanas
+   - Velocidade caindo por: <threshold> semanas consecutivas
+   - Taxa de conclusão abaixo: <threshold>%
+
+3. ALERTAS DE QUALIDADE
+   - Taxa de reprovação acima: <threshold>%
+   - Retrabalho acima: <threshold> vezes
+   - Erros pós-publicação: <threshold>
+
+4. ALERTAS DE CAPACIDADE
+   - Pessoa com mais de: <threshold> items ativos
+   - Etapa com mais de: <threshold> items em fila
+   - Disciplina sem progresso: <threshold> dias
+
+PROCESSO DE ALERTA:
+
+1. MONITORAMENTO CONTÍNUO
+   - Verifique thresholds a cada 6 horas
+   - Compare com dados atuais
+   - Identifique violações
+
+2. CLASSIFICAÇÃO DE ALERTA
+   Para cada alerta:
+   - Tipo (tempo/progresso/qualidade/capacidade)
+   - Severidade (crítico/alto/médio/baixo)
+   - Entidades afetadas
+   - Deadline/urgência
+
+3. NOTIFICAÇÃO
+   Gere relatório de alertas:
+   - Resumo executivo
+   - Lista de alertas ativos
+   - Novos alertas
+   - Alertas resolvidos
+   - Ações recomendadas
+
+4. ESCALATION
+   Defina escalation automático:
+   - Baixo: Notificação simples
+   - Médio: Notificação + recomendação
+   - Alto: Notificação + escalation ao Maestro
+   - Crítico: Notificação + escalation urgente + plano de ação
+
+5. HISTÓRICO DE ALERTAS
+   - Alertas ativos
+   - Alertas resolvidos (últimos 30 dias)
+   - Tempo médio de resolução
+   - Alertas recorrentes
+
+6. RELATÓRIO SEMANAL
+   Compilação semanal:
+   - Total de alertas gerados
+   - Total resolvidos
+   - Tempo médio de resposta
+   - Patterns identificados
+   - Melhorias de processo
+
+FORMATO: Configuração de alertas + relatório de monitoramento + histórico.`
+                        }
+                    ],
+                    skills: ['Detecção de gargalos', 'Alertas SLA', 'Análise de bloqueios', 'Escalation'],
+                    useCases: ['Gargalos', 'Alertas SLA', 'Performance por autor']
+                }
+            ],
+            bimester: [
+                {
+                    id: 'bimester-review-builder',
+                    name: 'Chronicler',
+                    originalName: 'Bimester Review Builder',
+                    icon: '▤',
+                    role: 'Construtor de revisões bimestrais — compila 8 semanas',
+                    description: 'O Chronicler monta a prova de revisão bimestral extraindo conteúdo das aulas .4. Não cria conteúdo novo: copia e organiza. 8 semanas × 3 questões = 24 questões no Quiz.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/review create <bimestre> <ano> <disciplina>',
+                            description: 'Cria revisão bimestral',
+                            prompt: `Crie a REVISÃO BIMESTRAL completa.
+
+DADOS:
+- Bimestre: <bimestre>
+- Ano: <ano>
+- Disciplina: <disciplina>
+
+REGRA FUNDAMENTAL:
+⚠️ NÃO crie conteúdo novo - apenas COPIE e ORGANIZE conteúdo existente!
+
+PROCESSO:
+
+1. IDENTIFICAÇÃO DAS AULAS
+   - Identifique todas as 8 semanas do bimestre
+   - Para cada semana, identifique a aula .4 (revisão semanal)
+   - Total esperado: 8 aulas .4
+
+2. EXTRAÇÃO DE CONTEÚDO
+   Para cada aula .4:
+   - Leia todo o conteúdo
+   - Identifique conceitos-chave
+   - Identifique definições importantes
+   - Identifique fatos históricos
+   - Identifique referências bíblicas
+   - NÃO modifique nada - apenas copie
+
+3. COMPILAÇÃO DO QUIZ
+   Formato: 24 questões (8 semanas × 3 questões)
+
+   Para cada semana, extraia 3 questões:
+   - Questão 1: Conceito/definição principal
+   - Questão 2: Fato/dado histórico
+   - Questão 3: Aplicação/conexão
+
+   Tipos de questão:
+   - FILL_IN_THE_BLANK
+   - TRUE_OR_FALSE
+   - MULTIPLE_CHOICE (4 opções)
+   - MATCHING
+
+4. ESTRUTURA DA REVISÃO
+   Organize em seções:
+
+   SEÇÃO 1: SEMANAS 1-2
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 2: SEMANAS 3-4
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 3: SEMANAS 5-6
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+   SEÇÃO 4: SEMANAS 7-8
+   - Resumo dos temas
+   - 6 questões (3 por semana)
+
+5. GABARITO
+   - Resposta correta para cada questão
+   - Referência à aula original
+   - Explicação breve quando necessário
+
+6. VALIDAÇÃO
+   - Total de 24 questões?
+   - Todas as 8 semanas cobertas?
+   - Conteúdo fiel às aulas originais?
+   - Sem conteúdo novo criado?
+   - Gabarito completo?
+
+7. FORMATAÇÃO FINAL
+   - Título: "Revisão Bimestral - Bimestre <X> - <Ano> - <Disciplina>"
+   - Instruções claras
+   - Seções bem organizadas
+   - Gabarito em seção separada
+
+FORMATO: Documento completo da revisão bimestral pronto para aplicação.`
+                        }
+                    ],
+                    skills: ['Compilação de revisões', 'Extração aulas .4', 'Quiz 24 questões', 'Gabarito'],
+                    useCases: ['Revisão bimestral', 'Compilação .4', 'Quiz 24 questões']
+                },
+                {
+                    id: 'bimester-exam-builder',
+                    name: 'Examiner',
+                    originalName: 'Bimester Exam Builder',
+                    icon: '▢',
+                    role: 'Construtor de provas bimestrais — 10 questões CANVAS_QUIZ',
+                    description: 'O Examiner monta prova bimestral de 10 questões: 8 extraídas das .5 + 2 criadas. Formato CANVAS_QUIZ: FILL_IN, TRUE_OR_FALSE, MULTIPLE_CHOICE, MATCHING.',
+                    status: 'active',
+                    commands: [
+                        {
+                            code: '/exam create <bimestre> <ano> <disciplina>',
+                            description: 'Cria prova bimestral',
+                            prompt: `Crie a PROVA BIMESTRAL completa no formato CANVAS_QUIZ.
+
+DADOS:
+- Bimestre: <bimestre>
+- Ano: <ano>
+- Disciplina: <disciplina>
+
+ESTRUTURA DA PROVA:
+Total: 10 questões
+- 8 questões extraídas das aulas .5 (avaliações semanais)
+- 2 questões criadas pelo Examiner (cobertura de gaps)
+
+PROCESSO:
+
+FASE 1: EXTRAÇÃO DAS AULAS .5
+1. Identifique todas as aulas .5 do bimestre (8 semanas)
+2. Para cada aula .5:
+   - Leia o conteúdo de avaliação
+   - Identifique conceitos avaliados
+   - Extraia questões existentes
+   - Classifique por tipo e dificuldade
+
+FASE 2: SELEÇÃO DAS 8 QUESTÕES
+Selecione 8 questões das aulas .5:
+- Distribua igualmente entre as 8 semanas (1 por semana)
+- Varie os tipos de questão:
+  * FILL_IN_THE_BLANK (2-3 questões)
+  * TRUE_OR_FALSE (2-3 questões)
+  * MULTIPLE_CHOICE (2-3 questões)
+  * MATCHING (1-2 questões)
+- Varie a dificuldade:
+  * Fácil: 2-3 questões
+  * Médio: 4-5 questões
+  * Difícil: 2-3 questões
+- Cubra todos os temas do bimestre
+
+FASE 3: CRIAÇÃO DAS 2 QUESTÕES ADICIONAIS
+Identifique gaps de cobertura:
+- Temas importantes não avaliados?
+- Habilidades não testadas?
+- Conexões não exploradas?
+
+Crie 2 questões para cobrir gaps:
+- Mesmo formato CANVAS_QUIZ
+- Mesma distribuição de dificuldade
+- Alinhadas aos objetivos do bimestre
+- Claramente marcadas como "criadas pelo Examiner"
+
+FASE 4: FORMATAÇÃO CANVAS_QUIZ
+Para cada questão, forneça:
+
+1. TIPO: FILL_IN | TRUE_FALSE | MULTIPLE_CHOICE | MATCHING
+
+2. ENUNCIADO:
+   - Claro e direto
+   - Contexto quando necessário
+   - Sem ambiguidades
+
+3. RESPOSTAS:
+   - Para FILL_IN: resposta exata esperada
+   - Para TRUE_FALSE: TRUE ou FALSE
+   - Para MULTIPLE_CHOICE:
+     * 4 opções (A, B, C, D)
+     * 1 correta
+     * 3 distratores plausíveis
+   - Para MATCHING:
+     * 2 colunas para relacionar
+     * Pares corretos
+
+4. METADATA:
+   - Semana de origem
+   - Tipo de questão
+   - Dificuldade
+   - Conceito avaliado
+   - Pontos (peso)
+
+FASE 5: GABARITO E RUBRICA
+1. Gabarito completo:
+   - Resposta correta para cada questão
+   - Explicação breve
+   - Referência à aula original
+
+2. Rubrica de avaliação:
+   - Pontos por questão
+   - Critérios de parcial (se aplicável)
+   - Nota mínima para aprovação
+   - Escala de conceitos
+
+FASE 6: VALIDAÇÃO
+✓ Total de 10 questões?
+✓ 8 extraídas + 2 criadas?
+✓ Todos os tipos representados?
+✓ Dificuldade balanceada?
+✓ Todos os temas cobertos?
+✓ Gabarito completo?
+✓ Formato CANVAS_QUIZ correto?
+✓ Sem erros de formatação?
+
+FASE 7: DOCUMENTAÇÃO FINAL
+Estruture o documento:
+
+CABEÇALHO:
+- Título: "Prova Bimestral - Bimestre <X> - <Ano> - <Disciplina>"
+- Instruções para o aluno
+- Duração estimada
+- Valor da prova
+
+CORPO:
+- 10 questões numeradas
+- Cada questão com tipo identificado
+- Opções claras (quando aplicável)
+
+ANEXOS:
+- Gabarito (seção separada)
+- Rubrica de avaliação
+- Mapa de cobertura de temas
+- Justificativa das 2 questões criadas
+
+FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
+                        }
+                    ],
+                    skills: ['Provas bimestrais', 'CANVAS_QUIZ format', 'Extração aulas .5', 'Rubrica'],
+                    useCases: ['Prova bimestral', '10 questões', 'CANVAS_QUIZ']
+                }
+            ],
+            legacy: [
+                {
+                    id: 'review-builder',
+                    name: 'Archivist',
+                    originalName: 'Review Builder',
+                    icon: '📚',
+                    role: 'Construtor de revisão semanal (legado)',
+                    description: 'O Archivist foi substituído pelo Chronicler (Bimester Review Builder). Criava revisões semanais X.4.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Revisão semanal (histórico)']
+                },
+                {
+                    id: 'exam-builder',
+                    name: 'Assessor',
+                    originalName: 'Exam Builder',
+                    icon: '✏️',
+                    role: 'Construtor de provas individuais (legado)',
+                    description: 'O Assessor foi substituído pelo Examiner (Bimester Exam Builder). Criava provas individuais X.5.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Prova semanal (histórico)']
+                },
+                {
+                    id: 'image-link-extractor',
+                    name: 'Curator',
+                    originalName: 'Image Link Extractor',
+                    icon: '▣',
+                    role: 'Extrator de links de imagem (legado)',
+                    description: 'O Curator extraía links de imagens para o hábito Perceber. Funcionalidade incorporada em outros agentes.',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Links de imagens (histórico)']
+                },
+                {
+                    id: 'capitalizer-legacy',
+                    name: 'Lexicon v1',
+                    originalName: 'Capitalizer (Legacy)',
+                    icon: 'ABC',
+                    role: 'Capitalização (integrado ao Architect)',
+                    description: 'Funcionalidade de capitalização agora integrada ao Standardizer (Architect).',
+                    status: 'legacy',
+                    commands: [],
+                    useCases: ['Capitalização (histórico)']
+                }
+            ]
+        };
+
+        // ============================================
+        // RENDER FUNCTIONS
+        // ============================================
+        function createAgentCard(agent, category) {
+            const statusConfig = {
+                active: { dot: 'active', text: 'Operational' },
+                warning: { dot: 'warning', text: 'Warning' },
+                legacy: { dot: 'legacy', text: 'Legacy' }
+            };
+
+            const status = statusConfig[agent.status];
+
+            return `
+                <div class="agent-card ${category}" data-agent="${agent.id}">
+                    <div class="agent-card-header">
+                        <div class="agent-icon">${agent.icon}</div>
+                        <div class="agent-info">
+                            <span class="agent-category">${category}</span>
+                            <h3 class="agent-name">${agent.name}</h3>
+                            <div class="agent-original-name">@${agent.originalName.toLowerCase()}</div>
+                            <div class="agent-role">${agent.role}</div>
+                        </div>
+                    </div>
+                    <div class="agent-card-body">
+                        <p class="agent-description">${agent.description}</p>
+                        
+                        ${agent.commands.length > 0 ? `
+                            <div class="commands-section">
+                                <div class="commands-title">
+                                    <span>⌨️</span> Commands
+                                </div>
+                                <div class="commands-list">
+                                    ${agent.commands.map((cmd, idx) => `
+                                        <div class="command-item" id="cmd-${agent.id}-${idx}">
+                                            <div class="command-header" onclick="togglePrompt('cmd-${agent.id}-${idx}')">
+                                                <span class="command-icon">›</span>
+                                                <div class="command-content">
+                                                    <div class="command-code">${cmd.code}</div>
+                                                    <div class="command-description">${cmd.description}</div>
+                                                </div>
+                                                <span class="expand-hint">▼ expandir</span>
+                                            </div>
+                                            ${cmd.prompt ? `
+                                            <div class="prompt-area">
+                                                <div class="prompt-container">
+                                                    <div class="prompt-header">
+                                                        <span class="prompt-label">📋 Prompt Estruturado</span>
+                                                        <button class="copy-prompt-btn" onclick="event.stopPropagation(); copyPrompt(this, 'cmd-${agent.id}-${idx}')">
+                                                            📄 Copiar Prompt
+                                                        </button>
+                                                    </div>
+                                                    <div class="prompt-body">
+                                                        <pre class="prompt-text">${escapeHtml(cmd.prompt)}</pre>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            ` : ''}
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${agent.skills && agent.skills.length > 0 ? `
+                            <div class="skills-section">
+                                <div class="commands-title">
+                                    <span>🧠</span> Skills & Habilidades
+                                </div>
+                                <div class="skills-grid">
+                                    ${agent.skills.map(skill => `
+                                        <div class="skill-item">
+                                            <div class="skill-dot"></div>
+                                            <span class="skill-name">${skill}</span>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        <div class="use-cases-section">
+                            <div class="commands-title">
+                                <span>🎯</span> Use Cases
+                            </div>
+                            <div class="use-cases-list">
+                                ${agent.useCases.map(useCase => `
+                                    <span class="use-case-tag">${useCase}</span>
+                                `).join('')}
+                            </div>
+                        </div>
+                        
+                        <div class="agent-status">
+                            <div class="status-dot ${status.dot}"></div>
+                            <span class="status-text">${status.text}</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderAgents() {
+            // Core Pipeline
+            document.getElementById('core-agents').innerHTML = agents.core
+                .map(agent => createAgentCard(agent, 'core'))
+                .join('');
+
+            // Specialized
+            document.getElementById('specialized-agents').innerHTML = agents.specialized
+                .map(agent => createAgentCard(agent, 'specialized'))
+                .join('');
+
+            // Analytics
+            document.getElementById('analytics-agents').innerHTML = agents.analytics
+                .map(agent => createAgentCard(agent, 'analytics'))
+                .join('');
+
+            // Bimester
+            document.getElementById('bimester-agents').innerHTML = agents.bimester
+                .map(agent => createAgentCard(agent, 'bimester'))
+                .join('');
+
+            // Legacy
+            document.getElementById('legacy-agents').innerHTML = agents.legacy
+                .map(agent => createAgentCard(agent, 'legacy'))
+                .join('');
+        }
+
+        // ============================================
+        // UTILITIES
+        // ============================================
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.appendChild(document.createTextNode(text));
+            return div.innerHTML;
+        }
+
+        // ============================================
+        // INTERACTIVITY
+        // ============================================
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                showToast(`Command copied: ${text}`);
+            });
+        }
+
+        // Toggle prompt accordion
+        function togglePrompt(cmdId) {
+            const item = document.getElementById(cmdId);
+            if (!item) return;
+            
+            const wasExpanded = item.classList.contains('expanded');
+            const hint = item.querySelector('.expand-hint');
+            
+            // Close all other expanded items in this card
+            const parentCard = item.closest('.agent-card');
+            if (parentCard) {
+                parentCard.querySelectorAll('.command-item.expanded').forEach(el => {
+                    if (el !== item) {
+                        el.classList.remove('expanded');
+                        const h = el.querySelector('.expand-hint');
+                        if (h) h.textContent = '▼ expandir';
+                    }
+                });
+            }
+            
+            if (wasExpanded) {
+                item.classList.remove('expanded');
+                if (hint) hint.textContent = '▼ expandir';
+            } else {
+                item.classList.add('expanded');
+                if (hint) hint.textContent = '▲ fechar';
+            }
+        }
+
+        // Copy prompt to clipboard
+        function copyPrompt(btn, cmdId) {
+            const item = document.getElementById(cmdId);
+            if (!item) return;
+            
+            const promptText = item.querySelector('.prompt-text');
+            if (!promptText) return;
+            
+            const text = promptText.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                btn.classList.add('copied');
+                const originalHTML = btn.innerHTML;
+                btn.innerHTML = '✅ Copiado!';
+                
+                showToast('Prompt copiado para a área de transferência!');
+                
+                setTimeout(() => {
+                    btn.classList.remove('copied');
+                    btn.innerHTML = originalHTML;
+                }, 2000);
+            });
+        }
+
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            toast.querySelector('.toast-message').textContent = message;
+            toast.classList.add('show');
+
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            const allCards = document.querySelectorAll('.agent-card');
+
+            allCards.forEach(card => {
+                const agentName = card.querySelector('.agent-name').textContent.toLowerCase();
+                const agentRole = card.querySelector('.agent-role').textContent.toLowerCase();
+                const agentDescription = card.querySelector('.agent-description').textContent.toLowerCase();
+                const commands = card.querySelectorAll('.command-code');
+
+                let matches = agentName.includes(query) ||
+                    agentRole.includes(query) ||
+                    agentDescription.includes(query);
+
+                if (!matches && query.length > 0) {
+                    commands.forEach(cmd => {
+                        if (cmd.textContent.toLowerCase().includes(query)) {
+                            matches = true;
+                        }
+                    });
+                }
+
+                card.style.display = matches ? 'block' : 'none';
+            });
+        });
+
+        // Filter functionality
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active state
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                const filter = btn.dataset.filter;
+                const sections = document.querySelectorAll('.category-section');
+
+                sections.forEach(section => {
+                    if (filter === 'all' || section.dataset.category === filter) {
+                        section.style.display = 'block';
+                    } else {
+                        section.style.display = 'none';
+                    }
+                });
+            });
+        });
+
+        // Workflow step interaction
+        document.querySelectorAll('.workflow-step').forEach(step => {
+            step.addEventListener('click', () => {
+                const agentId = step.dataset.agent;
+                const agentCard = document.querySelector(`.agent-card[data-agent="${agentId}"]`);
+
+                if (agentCard) {
+                    agentCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    agentCard.style.transform = 'scale(1.02)';
+                    agentCard.style.borderColor = 'var(--accent-core)';
+
+                    setTimeout(() => {
+                        agentCard.style.transform = '';
+                        agentCard.style.borderColor = '';
+                    }, 2000);
+                }
+            });
+        });
+
+        // Scroll to agent from swimlane
+        function scrollToAgent(agentId) {
+            const agentCard = document.querySelector(`.agent-card[data-agent="${agentId}"]`);
+            if (agentCard) {
+                agentCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                agentCard.style.transform = 'scale(1.03)';
+                agentCard.style.borderColor = 'var(--accent-primary)';
+                agentCard.style.boxShadow = '0 0 30px rgba(45, 212, 191, 0.25)';
+
+                setTimeout(() => {
+                    agentCard.style.transform = '';
+                    agentCard.style.borderColor = '';
+                    agentCard.style.boxShadow = '';
+                }, 2500);
+            }
+        }
+
+        // Pipeline view tabs
+        function showPipelineView(view) {
+            const tabs = document.querySelectorAll('.pipeline-tab');
+            tabs.forEach(t => t.classList.remove('active'));
+            event.target.classList.add('active');
+
+            const lanes = document.querySelectorAll('.swimlane');
+            const connectors = document.querySelectorAll('.lane-connector');
+            
+            if (view === 'all') {
+                lanes.forEach(l => l.style.display = '');
+                connectors.forEach(c => c.style.display = '');
+            } else if (view === 'core') {
+                // Show stages 0-4 (Orchestration through Review)
+                lanes.forEach((l, i) => {
+                    l.style.display = i <= 4 ? '' : 'none';
+                });
+                connectors.forEach((c, i) => {
+                    c.style.display = i <= 3 ? '' : 'none';
+                });
+            } else if (view === 'support') {
+                // Show stages 5-6 (Polish and Publish)
+                lanes.forEach((l, i) => {
+                    l.style.display = i >= 5 ? '' : 'none';
+                });
+                connectors.forEach((c, i) => {
+                    c.style.display = i >= 5 ? '' : 'none';
+                });
+            }
+        }
+
+
+        // ============================================
+        // TUTORIAL MODULE TOGGLE
+        // ============================================
+        function toggleModule(header) {
+            const content = header.nextElementSibling;
+            const icon = header.querySelector(".expand-icon");
+            if (content.classList.contains("expanded")) {
+                content.classList.remove("expanded");
+                header.classList.remove("active");
+            } else {
+                content.classList.add("expanded");
+                header.classList.add("active");
+            }
+        }
+
+        // Initialize
+        renderAgents();
+    </script>
+</body>
+
+</html>

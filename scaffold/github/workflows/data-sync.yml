@@ -1,4 +1,4 @@
-name: TriviumOS Data Sync
+name: Trivium Method Editorial Data Sync
 
 on:
   schedule:
@@ -22,14 +22,14 @@ jobs:
 
       - name: Run board sync
         env:
-          PAT_TOKEN: ${{ secrets.TRIVIUMOS_GITHUB_TOKEN }}
-          TRIVIUMOS_PROJECT_ID: ${{ vars.TRIVIUMOS_PROJECT_ID }}
+          PAT_TOKEN: ${{ secrets.TRIVIUM-METHOD-EDITORIAL_GITHUB_TOKEN }}
+          TRIVIUM-METHOD-EDITORIAL_PROJECT_ID: ${{ vars.TRIVIUM-METHOD-EDITORIAL_PROJECT_ID }}
         run: node src/sync.js
 
       - name: Commit updated data
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "TriviumOS Bot"
+          git config --local user.name "Trivium Method Editorial Bot"
           git add public/data.json
           if git diff --cached --quiet; then
             echo "No changes to commit"

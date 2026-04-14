@@ -1,22 +1,22 @@
 {
-  "name": "create-triviumos",
+  "name": "create-trivium-method-editorial",
   "version": "1.0.0",
-  "description": "Scaffolder oficial do TriviumOS, um framework editorial inspirado na arquitetura do AIOX.",
+  "description": "Scaffolder oficial do Trivium Method Editorial — framework de produção didática com agentes de IA.",
   "type": "module",
   "bin": {
-    "create-triviumos": "bin/create-triviumos.js"
+    "create-trivium-method-editorial": "bin/create-trivium-method-editorial.js"
   },
   "files": [
     "bin/",
     "src/",
     "scaffold/",
-    "docs/framework/TRIVIUMOS-ADJUSTMENTS.md",
-    "docs/framework/TRIVIUMOS-ARCHITECTURE.md",
-    "docs/framework/TRIVIUMOS-HIERARCHY.md",
-    "docs/guides/TRIVIUMOS-DISCIPLINE-ONBOARDING.md",
-    "docs/guides/TRIVIUMOS-INSTALLATION.md",
+    "docs/framework/TRIVIUM-METHOD-EDITORIAL-ADJUSTMENTS.md",
+    "docs/framework/TRIVIUM-METHOD-EDITORIAL-ARCHITECTURE.md",
+    "docs/framework/TRIVIUM-METHOD-EDITORIAL-HIERARCHY.md",
+    "docs/guides/TRIVIUM-METHOD-EDITORIAL-DISCIPLINE-ONBOARDING.md",
+    "docs/guides/TRIVIUM-METHOD-EDITORIAL-INSTALLATION.md",
     "docs/stories/README.md",
-    "trivium-method/",
+    "trivium-method-editorial/",
     "public/app.js",
     "public/metas-disciplinas.js",
     "public/metas.js",
@@ -33,16 +33,17 @@
     "LICENSE"
   ],
   "scripts": {
-    "build:artifacts": "node scripts/generate-triviumos-artifacts.mjs",
+    "build:artifacts": "node scripts/generate-trivium-method-editorial-artifacts.mjs",
     "lint": "node scripts/quality/lint.mjs",
     "typecheck": "node scripts/quality/typecheck.mjs",
     "test": "node --test tests/*.test.mjs"
   },
   "keywords": [
-    "triviumos",
+    "trivium-method-editorial",
     "editorial-framework",
-    "aiox-style",
     "classical-education",
+    "christian-education",
+    "ai-agents",
     "npx-installer"
   ],
   "author": "Italo Gabriel",

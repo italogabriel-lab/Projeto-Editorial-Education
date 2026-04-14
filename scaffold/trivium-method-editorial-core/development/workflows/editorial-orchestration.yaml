@@ -1,0 +1,17 @@
+workflow:
+  id: editorial-orchestration
+  name: Editorial Orchestration
+  description: Diagnostica o estado do projeto editorial e roteia para o agente ou workflow correto.
+  orchestrator: orchestrator
+  source_reference: trivium-method-editorial/workflows/workflows/orchestrate.md
+  phases:
+    - id: diagnose
+      agent: orchestrator
+      action: diagnose
+    - id: prioritize
+      agent: orchestrator
+      action: prioritize
+    - id: handoff
+      agent: orchestrator
+      action: route
+

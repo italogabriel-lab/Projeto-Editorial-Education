@@ -1,0 +1,98 @@
+{
+  "aioxPatterns": [
+    {
+      "id": "constitution-first",
+      "description": "Governanca centralizada em uma constituicao e gates nao negociaveis"
+    },
+    {
+      "id": "cli-first",
+      "description": "Automacao e inteligencia vivem primeiro em CLI, com observabilidade e UI em camadas posteriores"
+    },
+    {
+      "id": "agent-workflow-separation",
+      "description": "Agentes definem autoridade; workflows definem orquestracao; templates definem saida"
+    },
+    {
+      "id": "registry-driven-installation",
+      "description": "Instalacao e validacao guiadas por manifestos e registries"
+    },
+    {
+      "id": "story-driven-change",
+      "description": "Mudancas estruturais sao registradas por stories com checklist e file list"
+    }
+  ],
+  "trivium-method-editorialLayers": [
+    {
+      "name": "Governanca",
+      "paths": [
+        ".trivium-method-editorial-core/constitution.md",
+        ".trivium-method-editorial-core/core-config.yaml",
+        ".trivium-method-editorial-core/install-manifest.json"
+      ]
+    },
+    {
+      "name": "Catalogo e Runtime",
+      "paths": [
+        ".trivium-method-editorial-core/data/asset-registry.json",
+        ".trivium-method-editorial-core/data/hierarchy.json",
+        ".trivium-method-editorial-core/scripts/inventory.mjs",
+        ".trivium-method-editorial-core/scripts/doctor.mjs"
+      ]
+    },
+    {
+      "name": "Orquestracao",
+      "paths": [
+        ".trivium-method-editorial-core/development/agents/",
+        ".trivium-method-editorial-core/development/workflows/",
+        ".trivium-method-editorial-core/development/checklists/"
+      ]
+    },
+    {
+      "name": "Biblioteca Editorial",
+      "paths": [
+        "trivium-method-editorial/agents/skills/",
+        "trivium-method-editorial/workflows/workflows/",
+        "trivium-method-editorial/templates/templates/",
+        "trivium-method-editorial/knowledge-base/knowledge-base/",
+        "trivium-method-editorial/scripts/"
+      ]
+    },
+    {
+      "name": "Observabilidade",
+      "paths": [
+        "public/",
+        "src/sync.js",
+        ".github/workflows/"
+      ]
+    }
+  ],
+  "agentHierarchy": [
+    {
+      "category": "core",
+      "purpose": "Fluxo editorial principal"
+    },
+    {
+      "category": "enablement",
+      "purpose": "Capacidades transversais de UX, DevOps, copy e imagem"
+    },
+    {
+      "category": "analytics",
+      "purpose": "Leitura operacional e inteligencia de producao"
+    },
+    {
+      "category": "assessment",
+      "purpose": "Provas e revisoes bimestrais"
+    },
+    {
+      "category": "legacy",
+      "purpose": "Compatibilidade com fluxos antigos"
+    }
+  ],
+  "migrationFindings": [
+    "Tres skills legados estavam sem SKILL.md no BEF: exam-builder, image-link-extractor e review-builder",
+    "A base editorial existia em tres lugares diferentes, sem uma fonte unica para empacotamento",
+    "Nao existia pacote npm/NPX para replicacao do framework",
+    "Nao existia docs/stories, apesar do projeto operar sob metodologia AIOX",
+    "Os workflows editoriais estavam documentados, mas sem uma camada machine-readable inspirada no AIOX"
+  ]
+}

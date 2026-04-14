@@ -1,4 +1,4 @@
-name: TriviumOS Dashboard Deploy
+name: Trivium Method Editorial Dashboard Deploy
 
 on:
   push:
@@ -15,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: triviumos-pages
+  group: trivium-method-editorial-pages
   cancel-in-progress: true
 
 jobs:
