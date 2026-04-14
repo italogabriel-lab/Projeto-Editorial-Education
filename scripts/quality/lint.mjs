@@ -27,7 +27,7 @@ walk(path.join(ROOT, "bin"));
 walk(path.join(ROOT, "src"));
 walk(path.join(ROOT, "scripts"));
 walk(path.join(ROOT, "tests"));
-walk(path.join(ROOT, "scaffold/triviumos-core/scripts"));
+walk(path.join(ROOT, "scaffold/trivium-method-editorial-core/scripts"));
 
 for (const target of targets) {
   const result = spawnSync(process.execPath, ["--check", target], { stdio: "inherit" });

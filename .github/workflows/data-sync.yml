@@ -83,8 +83,8 @@ jobs:
         id: verify
         run: |
           if [ -f "public/data.json" ]; then
-            items_count=$(node -e "const d=require('./public/data.json'); console.log(d.total_items || 0)")
-            last_updated=$(node -e "const d=require('./public/data.json'); console.log(d.last_updated || 'N/A')")
+            items_count=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.total_items || 0)")
+            last_updated=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.last_updated || 'N/A')")
             echo "✅ Total items: $items_count"
             echo "✅ Last updated: $last_updated"
             echo "items_count=$items_count" >> $GITHUB_OUTPUT

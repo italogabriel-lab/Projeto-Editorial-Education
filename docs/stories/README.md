@@ -1,6 +1,6 @@
 # Stories
 
-O TriviumOS segue o mesmo princípio do AIOX: mudanças estruturais devem nascer em uma story, com critérios claros, checklist de execução e file list atualizada.
+O Trivium Method Editorial segue o mesmo princípio do AIOX: mudanças estruturais devem nascer em uma story, com critérios claros, checklist de execução e file list atualizada.
 
 Use este diretório para registrar:
 

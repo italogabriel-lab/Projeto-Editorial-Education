@@ -1,11 +1,11 @@
-# TriviumOS
+# Trivium Method Editorial
 
 Framework editorial inspirado na metodologia estrutural do AIOX.
 
 ## Estrutura
 
-- `.triviumos-core/`: governanca, registries, wrappers de agentes, workflows e scripts de diagnostico
-- `triviumos/`: biblioteca editorial canonica com agents, workflows, templates, knowledge base e automacoes
+- `.trivium-method-editorial-core/`: governanca, registries, wrappers de agentes, workflows e scripts de diagnostico
+- `trivium-method-editorial/`: biblioteca editorial canonica com agents, workflows, templates, knowledge base e automacoes
 - `docs/`: arquitetura, hierarquia, ajustes e guias operacionais
 - `disciplines/`: ponto de entrada para bases disciplinares da equipe
 - `public/`, `src/`, `*.html`: camada atual de observabilidade herdada da operacao existente
@@ -14,9 +14,9 @@ Framework editorial inspirado na metodologia estrutural do AIOX.
 ## Comandos
 
 ```bash
-npm run triviumos:inventory
-npm run triviumos:doctor
-npm run triviumos:sync
+npm run trivium-method-editorial:inventory
+npm run trivium-method-editorial:doctor
+npm run trivium-method-editorial:sync
 ```
 
 ## Proximo passo

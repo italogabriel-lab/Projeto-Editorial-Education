@@ -16,9 +16,9 @@ disciplines/
     reports/
 ```
 
-O framework TriviumOS separa:
+O framework Trivium Method Editorial separa:
 
-- biblioteca editorial compartilhada em `triviumos/`
-- governanca e runtime em `.triviumos-core/`
+- biblioteca editorial compartilhada em `trivium-method-editorial/`
+- governanca e runtime em `.trivium-method-editorial-core/`
 - conhecimento específico da disciplina em `disciplines/`
 

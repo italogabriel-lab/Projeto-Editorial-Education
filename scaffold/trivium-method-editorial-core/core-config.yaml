@@ -1,0 +1,26 @@
+framework:
+  name: Trivium Method Editorial
+  version: 1.0.0
+  methodology: aiox-inspired-editorial-framework
+
+paths:
+  registry: .trivium-method-editorial-core/data/asset-registry.json
+  hierarchy: .trivium-method-editorial-core/data/hierarchy.json
+  agents: .trivium-method-editorial-core/development/agents
+  workflows: .trivium-method-editorial-core/development/workflows
+  checklists: .trivium-method-editorial-core/development/checklists
+  library: trivium-method-editorial
+  disciplines: disciplines
+  stories: docs/stories
+
+runtime:
+  cliFirst: true
+  observabilityEnabled: true
+  sourceLibraryRoot: trivium-method-editorial
+
+quality:
+  requiredScripts:
+    - lint
+    - typecheck
+    - test
+

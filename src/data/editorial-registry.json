@@ -1,8 +1,8 @@
 {
   "framework": {
-    "name": "TriviumOS",
+    "name": "Trivium Method Editorial",
     "version": "1.0.0",
-    "installerCommand": "npx create-triviumos",
+    "installerCommand": "npx create-trivium-method-editorial",
     "sourceLibraryRoot": "trivium-method",
     "legacyRoots": [
       "Projeto Bibline Academy/.agent",
@@ -533,31 +533,31 @@
       "id": "editorial-orchestration",
       "name": "Editorial Orchestration",
       "sourcePath": "trivium-method/workflows/workflows/orchestrate.md",
-      "wrapperPath": ".triviumos-core/development/workflows/editorial-orchestration.yaml"
+      "wrapperPath": ".trivium-method-editorial-core/development/workflows/editorial-orchestration.yaml"
     },
     {
       "id": "class-production",
       "name": "Class Production",
       "sourcePath": "trivium-method/workflows/workflows/produce_class.md",
-      "wrapperPath": ".triviumos-core/development/workflows/class-production.yaml"
+      "wrapperPath": ".trivium-method-editorial-core/development/workflows/class-production.yaml"
     },
     {
       "id": "publish-release",
       "name": "Publish Release",
       "sourcePath": "trivium-method/workflows/workflows/publish.md",
-      "wrapperPath": ".triviumos-core/development/workflows/publish-release.yaml"
+      "wrapperPath": ".trivium-method-editorial-core/development/workflows/publish-release.yaml"
     },
     {
       "id": "bimester-assessment-cycle",
       "name": "Bimester Assessment Cycle",
       "sourcePath": "trivium-method/agents/skills/bimester-exam-builder/SKILL.md",
-      "wrapperPath": ".triviumos-core/development/workflows/bimester-assessment-cycle.yaml"
+      "wrapperPath": ".trivium-method-editorial-core/development/workflows/bimester-assessment-cycle.yaml"
     },
     {
       "id": "analytics-operations",
       "name": "Analytics Operations",
       "sourcePath": "trivium-method/agents/skills/performance-analytics/SKILL.md",
-      "wrapperPath": ".triviumos-core/development/workflows/analytics-operations.yaml"
+      "wrapperPath": ".trivium-method-editorial-core/development/workflows/analytics-operations.yaml"
     }
   ],
   "templates": [

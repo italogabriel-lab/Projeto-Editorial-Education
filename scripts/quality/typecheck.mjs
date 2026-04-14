@@ -14,11 +14,11 @@ function assert(condition, message) {
 }
 
 const registry = readJson("src/data/editorial-registry.json");
-const hierarchy = readJson("src/data/triviumos-hierarchy.json");
-const scaffoldRegistry = readJson("scaffold/triviumos-core/data/asset-registry.json");
-const scaffoldHierarchy = readJson("scaffold/triviumos-core/data/hierarchy.json");
+const hierarchy = readJson("src/data/trivium-method-editorial-hierarchy.json");
+const scaffoldRegistry = readJson("scaffold/trivium-method-editorial-core/data/asset-registry.json");
+const scaffoldHierarchy = readJson("scaffold/trivium-method-editorial-core/data/hierarchy.json");
 
-assert(registry.framework.name === "TriviumOS", "Registry framework name must be TriviumOS");
+assert(registry.framework.name === "Trivium Method Editorial", "Registry framework name must be Trivium Method Editorial");
 assert(registry.agents.length === registry.counts.agents, "Agent count mismatch");
 assert(registry.templates.length === registry.counts.templates, "Template count mismatch");
 assert(registry.knowledgeBase.length === registry.counts.knowledgeBaseFiles, "Knowledge base count mismatch");
@@ -39,7 +39,7 @@ for (const agent of registry.agents) {
   assert(fs.existsSync(path.join(ROOT, agent.sourceSkill)), `Missing source skill: ${agent.sourceSkill}`);
   assert(fs.existsSync(path.join(ROOT, agent.sourceReadme)), `Missing source readme: ${agent.sourceReadme}`);
   assert(
-    fs.existsSync(path.join(ROOT, "scaffold/triviumos-core/development/agents", `${agent.id}.md`)),
+    fs.existsSync(path.join(ROOT, "scaffold/trivium-method-editorial-core/development/agents", `${agent.id}.md`)),
     `Missing generated wrapper for agent ${agent.id}`
   );
 }

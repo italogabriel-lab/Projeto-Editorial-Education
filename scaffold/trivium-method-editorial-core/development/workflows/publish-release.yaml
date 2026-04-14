@@ -1,0 +1,17 @@
+workflow:
+  id: publish-release
+  name: Publish Release
+  description: Publicacao editorial, versionamento e automacao de repositorio.
+  orchestrator: devops
+  source_reference: trivium-method-editorial/workflows/workflows/publish.md
+  phases:
+    - id: validate
+      agent: reviewer
+      action: gate
+    - id: publish
+      agent: publisher
+      action: publish
+    - id: release
+      agent: devops
+      action: release
+

@@ -8,8 +8,8 @@ const REGISTRY_PATH = path.join(SOURCE_ROOT, "src/data/editorial-registry.json")
 const REGISTRY = readJson(REGISTRY_PATH);
 
 const COPY_MAPPINGS = [
-  { type: "dir", source: "trivium-method", target: "triviumos" },
-  { type: "dir", source: "scaffold/triviumos-core", target: ".triviumos-core" },
+  { type: "dir", source: "trivium-method", target: "trivium-method-editorial" },
+  { type: "dir", source: "scaffold/trivium-method-editorial-core", target: ".trivium-method-editorial-core" },
   { type: "dir", source: "scaffold/disciplines", target: "disciplines" },
   { type: "dir", source: "public", target: "public" },
   { type: "file", source: "scaffold/public/data.json", target: "public/data.json" },
@@ -20,11 +20,11 @@ const COPY_MAPPINGS = [
   { type: "file", source: "metas-disciplinas.html", target: "metas-disciplinas.html" },
   { type: "file", source: "videos.html", target: "videos.html" },
   { type: "file", source: "vercel.json", target: "vercel.json" },
-  { type: "file", source: "docs/framework/TRIVIUMOS-ARCHITECTURE.md", target: "docs/framework/ARCHITECTURE.md" },
-  { type: "file", source: "docs/framework/TRIVIUMOS-HIERARCHY.md", target: "docs/framework/HIERARCHY.md" },
-  { type: "file", source: "docs/framework/TRIVIUMOS-ADJUSTMENTS.md", target: "docs/framework/ADJUSTMENTS.md" },
-  { type: "file", source: "docs/guides/TRIVIUMOS-INSTALLATION.md", target: "docs/guides/INSTALLATION.md" },
-  { type: "file", source: "docs/guides/TRIVIUMOS-DISCIPLINE-ONBOARDING.md", target: "docs/guides/DISCIPLINE-ONBOARDING.md" },
+  { type: "file", source: "docs/framework/TRIVIUM-METHOD-EDITORIAL-ARCHITECTURE.md", target: "docs/framework/ARCHITECTURE.md" },
+  { type: "file", source: "docs/framework/TRIVIUM-METHOD-EDITORIAL-HIERARCHY.md", target: "docs/framework/HIERARCHY.md" },
+  { type: "file", source: "docs/framework/TRIVIUM-METHOD-EDITORIAL-ADJUSTMENTS.md", target: "docs/framework/ADJUSTMENTS.md" },
+  { type: "file", source: "docs/guides/TRIVIUM-METHOD-EDITORIAL-INSTALLATION.md", target: "docs/guides/INSTALLATION.md" },
+  { type: "file", source: "docs/guides/TRIVIUM-METHOD-EDITORIAL-DISCIPLINE-ONBOARDING.md", target: "docs/guides/DISCIPLINE-ONBOARDING.md" },
   { type: "file", source: "docs/stories/README.md", target: "docs/stories/README.md" },
   { type: "dir", source: "scaffold/github", target: ".github" },
   { type: "file", source: "scaffold/gitignore", target: ".gitignore" },
@@ -56,7 +56,7 @@ function writePackageJson(projectRoot, projectName) {
   const templatePath = path.join(SOURCE_ROOT, "scaffold/package.json.template");
   const template = fs.readFileSync(templatePath, "utf8");
   const content = renderTemplate(template, {
-    PROJECT_NAME: normalizePackageName(projectName) || "triviumos-workspace"
+    PROJECT_NAME: normalizePackageName(projectName) || "trivium-method-editorial-workspace"
   });
 
   fs.writeFileSync(path.join(projectRoot, "package.json"), content, "utf8");
@@ -73,7 +73,7 @@ function writeInstallManifest(projectRoot, projectName, copiedFiles) {
     inventory: REGISTRY.counts
   };
 
-  writeJson(path.join(projectRoot, ".triviumos-core/install-manifest.json"), manifest);
+  writeJson(path.join(projectRoot, ".trivium-method-editorial-core/install-manifest.json"), manifest);
 }
 
 export function installProject(targetDir, options = {}) {
@@ -92,7 +92,7 @@ export function installProject(targetDir, options = {}) {
   copiedFiles.push("package.json");
 
   writeInstallManifest(projectRoot, projectName, copiedFiles);
-  copiedFiles.push(".triviumos-core/install-manifest.json");
+  copiedFiles.push(".trivium-method-editorial-core/install-manifest.json");
 
   return {
     projectRoot,

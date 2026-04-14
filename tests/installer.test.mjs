@@ -5,8 +5,8 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { installProject, getRegistry } from "../src/lib/install.mjs";
 
-test("installer scaffolds a TriviumOS workspace", () => {
-  const tempRoot = fs.mkdtempSync(path.join(os.tmpdir(), "triviumos-"));
+test("installer scaffolds a Trivium Method Editorial workspace", () => {
+  const tempRoot = fs.mkdtempSync(path.join(os.tmpdir(), "trivium-method-editorial-"));
   const target = path.join(tempRoot, "workspace");
 
   const result = installProject(target, { projectName: "workspace" });
@@ -14,10 +14,10 @@ test("installer scaffolds a TriviumOS workspace", () => {
 
   assert.equal(result.counts.agents, registry.counts.agents);
   assert.equal(result.counts.templates, registry.counts.templates);
-  assert.ok(fs.existsSync(path.join(target, ".triviumos-core/install-manifest.json")));
-  assert.ok(fs.existsSync(path.join(target, ".triviumos-core/data/asset-registry.json")));
-  assert.ok(fs.existsSync(path.join(target, ".triviumos-core/development/agents/orchestrator.md")));
-  assert.ok(fs.existsSync(path.join(target, "triviumos/agents/skills/orchestrator/SKILL.md")));
+  assert.ok(fs.existsSync(path.join(target, ".trivium-method-editorial-core/install-manifest.json")));
+  assert.ok(fs.existsSync(path.join(target, ".trivium-method-editorial-core/data/asset-registry.json")));
+  assert.ok(fs.existsSync(path.join(target, ".trivium-method-editorial-core/development/agents/orchestrator.md")));
+  assert.ok(fs.existsSync(path.join(target, "trivium-method-editorial/agents/skills/orchestrator/SKILL.md")));
   assert.ok(fs.existsSync(path.join(target, "public/data.json")));
   const observabilitySeed = JSON.parse(fs.readFileSync(path.join(target, "public/data.json"), "utf8"));
   assert.equal(observabilitySeed.total_items, 0);
