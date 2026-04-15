@@ -369,8 +369,9 @@ body {
 }
 
 .logo-main {
-    width: 140px;
-    height: auto;
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
 }
 
 .logo-icon {
