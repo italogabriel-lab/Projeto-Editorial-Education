@@ -60,6 +60,10 @@ Thumbs.db
 !README.md
 !*.md
 !*.canvas
+!src/assets/*.png
+!src/assets/*.jpg
+!src/assets/*.jpeg
+!src/assets/*.webp
 
 ##################################
 # 🔒 SCRIPTS DE DIAGNÓSTICO COM TOKENS

@@ -368,6 +368,11 @@ body {
     text-align: center;
 }
 
+.logo-main {
+    width: 140px;
+    height: auto;
+}
+
 .logo-icon {
     width: 56px;
     height: 56px;
