@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-16T20:34:43.139Z",
-  "total_items": 3856,
+  "last_updated": "2026-04-16T21:24:20.200Z",
+  "total_items": 3859,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -56822,6 +56822,48 @@
       "subject": "Ciência",
       "year": 4,
       "created_at": "2026-04-15T19:22:37Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7_BTuc",
+      "number": 4076,
+      "title": "[Português] - Ano 3 - 36.1 Gênero textual poemas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-16T21:05:45Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7_BXnd",
+      "number": 4077,
+      "title": "[Português] - Ano 3 - 36.2 Gênero textual fábula",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-16T21:09:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7_BapR",
+      "number": 4078,
+      "title": "[Português] - Ano 3 - 36.3 O texto instrucional",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "created_at": "2026-04-16T21:12:00Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
