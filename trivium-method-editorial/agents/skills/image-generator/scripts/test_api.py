@@ -32,7 +32,7 @@ def test_pollinations():
     
     # Prompt de teste
     test_prompt = """
-    Ilustração em aquarela detalhada, estilo livro ilustrado clássico,
+    Ilustração em aquarela detalhada, estilo ilustração de livro clássico,
     com fundo totalmente branco e bordas laterais difusas.
     Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
     Cena de império bizantino com mosaicos dourados, luz divina entrando

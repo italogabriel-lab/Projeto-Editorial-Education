@@ -19,7 +19,7 @@ from generate_images import generate_image, optimize_prompt
 WEEK_1_PROMPTS = {
     '1.1': {
         'title': 'Império Romano do oriente e arte bizantina',
-        'prompt': '''Ilustração em aquarela detalhada, estilo livro ilustrado clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas, criando aparência de página ilustrada antiga.
+        'prompt': '''Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas, criando aparência de página ilustrada antiga.
 Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
 Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelho suave, ocre claro e sombras delicadas.
 
@@ -35,7 +35,7 @@ Composição:
     
     '1.2': {
         'title': 'Constantinopla como centro',
-        'prompt': '''Ilustração em aquarela detalhada, estilo livro ilustrado clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas.
+        'prompt': '''Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas.
 Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
 Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelho suave, ocre claro e sombras delicadas.
 
@@ -51,7 +51,7 @@ Composição:
     
     '1.3': {
         'title': 'Cristianismo e transformação da arte pública',
-        'prompt': '''Ilustração em aquarela detalhada, estilo livro ilustrado clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas.
+        'prompt': '''Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas.
 Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
 Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelho suave, ocre claro e sombras delicadas.
 
