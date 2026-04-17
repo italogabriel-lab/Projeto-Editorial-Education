@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T16:31:50.187Z",
+  "last_updated": "2026-04-17T17:26:18.848Z",
   "total_items": 3866,
   "items": [
     {
@@ -31031,9 +31031,9 @@
       "id": "I_kwDOPFPmMM72rI98",
       "number": 2306,
       "title": "[Belas artes] - Ano 3 - 21.2 Nova espiritualidade urbana",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas artes",
       "year": 3,
       "created_at": "2026-03-25T21:01:46Z",
@@ -55570,14 +55570,14 @@
       "id": "I_kwDOPFPmMM77GcNt",
       "number": 3986,
       "title": "[Português] - Ano 3 - 26.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-06T16:26:42Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-17T17:16:24Z",
+      "lead_time_days": 11.034513888888888,
       "labels": []
     },
     {
@@ -55612,7 +55612,7 @@
       "id": "I_kwDOPFPmMM77JuAP",
       "number": 3989,
       "title": "[Português] - Ano 3 - 27.2 Metáfora no cordel",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Português",
