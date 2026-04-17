@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-17T20:58:54.351Z",
-  "total_items": 3869,
+  "last_updated": "2026-04-17T21:39:36.685Z",
+  "total_items": 3871,
   "items": [
     {
       "id": "I_kwDOPFPmMM7XS3Nl",
@@ -31045,9 +31045,9 @@
       "id": "I_kwDOPFPmMM72rJG9",
       "number": 2307,
       "title": "[Belas artes] - Ano 3 - 21.3 Luz como símbolo divino",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas artes",
       "year": 3,
       "created_at": "2026-03-25T21:01:51Z",
@@ -43011,7 +43011,7 @@
     {
       "id": "I_kwDOPFPmMM74nQuq",
       "number": 3136,
-      "title": "[Matemática] - Ano 3 - 28.1 Ritmos",
+      "title": "[Matemática] - Ano 3 - 28.1 Padrões naturais",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43025,7 +43025,7 @@
     {
       "id": "I_kwDOPFPmMM74nQ25",
       "number": 3137,
-      "title": "[Matemática] - Ano 3 - 28.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 28.2 Medidas",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43039,7 +43039,7 @@
     {
       "id": "I_kwDOPFPmMM74nQ-m",
       "number": 3138,
-      "title": "[Matemática] - Ano 3 - 28.3 Provas",
+      "title": "[Matemática] - Ano 3 - 28.3 Ritmos",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43053,7 +43053,7 @@
     {
       "id": "I_kwDOPFPmMM74nRK7",
       "number": 3139,
-      "title": "[Matemática] - Ano 3 - 28.4 Medindo as temperaturas (°C / °F / K)",
+      "title": "[Matemática] - Ano 3 - 28.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43067,7 +43067,7 @@
     {
       "id": "I_kwDOPFPmMM74nRS6",
       "number": 3140,
-      "title": "[Matemática] - Ano 3 - 28.5 Lendo o termômetro",
+      "title": "[Matemática] - Ano 3 - 28.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43081,7 +43081,7 @@
     {
       "id": "I_kwDOPFPmMM74nRZz",
       "number": 3141,
-      "title": "[Matemática] - Ano 3 - 31.1 Medidas de volume",
+      "title": "[Matemática] - Ano 3 - 31.1 Medindo as temperaturas (°C / °F / K)",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43095,7 +43095,7 @@
     {
       "id": "I_kwDOPFPmMM74nRgm",
       "number": 3142,
-      "title": "[Matemática] - Ano 3 - 31.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 31.2 Lendo o termômetro",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43109,7 +43109,7 @@
     {
       "id": "I_kwDOPFPmMM74nRoS",
       "number": 3143,
-      "title": "[Matemática] - Ano 3 - 31.3 Provas",
+      "title": "[Matemática] - Ano 3 - 31.3 Medidas de volume",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43123,7 +43123,7 @@
     {
       "id": "I_kwDOPFPmMM74nR0A",
       "number": 3144,
-      "title": "[Matemática] - Ano 3 - 31.4 Litro e mililitro",
+      "title": "[Matemática] - Ano 3 - 31.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43137,7 +43137,7 @@
     {
       "id": "I_kwDOPFPmMM74nR8p",
       "number": 3145,
-      "title": "[Matemática] - Ano 3 - 31.5 Estimando capacidades",
+      "title": "[Matemática] - Ano 3 - 31.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43151,7 +43151,7 @@
     {
       "id": "I_kwDOPFPmMM74nSDk",
       "number": 3146,
-      "title": "[Matemática] - Ano 3 - 32.1 Comparando capacidades",
+      "title": "[Matemática] - Ano 3 - 32.1 Litro e mililitro",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43165,7 +43165,7 @@
     {
       "id": "I_kwDOPFPmMM74nSMy",
       "number": 3147,
-      "title": "[Matemática] - Ano 3 - 32.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 32.2 Estimando capacidades",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43179,7 +43179,7 @@
     {
       "id": "I_kwDOPFPmMM74nSTn",
       "number": 3148,
-      "title": "[Matemática] - Ano 3 - 32.3 Provas",
+      "title": "[Matemática] - Ano 3 - 32.3 Comparando capacidades",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43193,7 +43193,7 @@
     {
       "id": "I_kwDOPFPmMM74nSg-",
       "number": 3149,
-      "title": "[Matemática] - Ano 3 - 32.4 Sistema de numeração decimal",
+      "title": "[Matemática] - Ano 3 - 32.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43207,7 +43207,7 @@
     {
       "id": "I_kwDOPFPmMM74nSnf",
       "number": 3150,
-      "title": "[Matemática] - Ano 3 - 32.5 Valor posicional",
+      "title": "[Matemática] - Ano 3 - 32.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43221,7 +43221,7 @@
     {
       "id": "I_kwDOPFPmMM74nSt0",
       "number": 3151,
-      "title": "[Matemática] - Ano 3 - 33.1 Leitura e escrita de números",
+      "title": "[Matemática] - Ano 3 - 33.1 Sistema de numeração decimal",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43235,7 +43235,7 @@
     {
       "id": "I_kwDOPFPmMM74nS0O",
       "number": 3152,
-      "title": "[Matemática] - Ano 3 - 33.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 33.2 Valor posicional",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43249,7 +43249,7 @@
     {
       "id": "I_kwDOPFPmMM74nTBu",
       "number": 3153,
-      "title": "[Matemática] - Ano 3 - 33.3 Provas",
+      "title": "[Matemática] - Ano 3 - 33.3 Leitura e escrita de números",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43263,7 +43263,7 @@
     {
       "id": "I_kwDOPFPmMM74nTMu",
       "number": 3154,
-      "title": "[Matemática] - Ano 3 - 33.4 Maior que",
+      "title": "[Matemática] - Ano 3 - 33.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43277,7 +43277,7 @@
     {
       "id": "I_kwDOPFPmMM74nTUZ",
       "number": 3155,
-      "title": "[Matemática] - Ano 3 - 33.5 Menor que",
+      "title": "[Matemática] - Ano 3 - 33.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43291,7 +43291,7 @@
     {
       "id": "I_kwDOPFPmMM74nTdw",
       "number": 3156,
-      "title": "[Matemática] - Ano 3 - 34.1 Igualdade",
+      "title": "[Matemática] - Ano 3 - 34.1 Maior que",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43305,7 +43305,7 @@
     {
       "id": "I_kwDOPFPmMM74nTjd",
       "number": 3157,
-      "title": "[Matemática] - Ano 3 - 34.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 34.2 Menor que",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43319,7 +43319,7 @@
     {
       "id": "I_kwDOPFPmMM74nTrJ",
       "number": 3158,
-      "title": "[Matemática] - Ano 3 - 34.3 Provas",
+      "title": "[Matemática] - Ano 3 - 34.3 Igualdade",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43333,7 +43333,7 @@
     {
       "id": "I_kwDOPFPmMM74nT4q",
       "number": 3159,
-      "title": "[Matemática] - Ano 3 - 34.4 Frações",
+      "title": "[Matemática] - Ano 3 - 34.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43347,7 +43347,7 @@
     {
       "id": "I_kwDOPFPmMM74nT_T",
       "number": 3160,
-      "title": "[Matemática] - Ano 3 - 34.5 Metade",
+      "title": "[Matemática] - Ano 3 - 34.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43361,7 +43361,7 @@
     {
       "id": "I_kwDOPFPmMM74nUGB",
       "number": 3161,
-      "title": "[Matemática] - Ano 3 - 35.1 Terço",
+      "title": "[Matemática] - Ano 3 - 35.1 Frações",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43375,7 +43375,7 @@
     {
       "id": "I_kwDOPFPmMM74nUMa",
       "number": 3162,
-      "title": "[Matemática] - Ano 3 - 35.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 35.2 Metade",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43389,7 +43389,7 @@
     {
       "id": "I_kwDOPFPmMM74nUUh",
       "number": 3163,
-      "title": "[Matemática] - Ano 3 - 35.3 Provas",
+      "title": "[Matemática] - Ano 3 - 35.3 Terço",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43403,7 +43403,7 @@
     {
       "id": "I_kwDOPFPmMM74nUeg",
       "number": 3164,
-      "title": "[Matemática] - Ano 3 - 35.4 Dobro",
+      "title": "[Matemática] - Ano 3 - 35.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43417,7 +43417,7 @@
     {
       "id": "I_kwDOPFPmMM74nUkj",
       "number": 3165,
-      "title": "[Matemática] - Ano 3 - 35.5 Triplo",
+      "title": "[Matemática] - Ano 3 - 35.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43431,7 +43431,7 @@
     {
       "id": "I_kwDOPFPmMM74nUrf",
       "number": 3166,
-      "title": "[Matemática] - Ano 3 - 36.1 Quádruplo",
+      "title": "[Matemática] - Ano 3 - 36.1 Dobro",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43445,7 +43445,7 @@
     {
       "id": "I_kwDOPFPmMM74nU04",
       "number": 3167,
-      "title": "[Matemática] - Ano 3 - 36.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 36.2 Triplo",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43459,7 +43459,7 @@
     {
       "id": "I_kwDOPFPmMM74nU7j",
       "number": 3168,
-      "title": "[Matemática] - Ano 3 - 36.3 Provas",
+      "title": "[Matemática] - Ano 3 - 36.3 Quádruplo",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43473,7 +43473,7 @@
     {
       "id": "I_kwDOPFPmMM74nVHe",
       "number": 3169,
-      "title": "[Matemática] - Ano 3 - 36.4 Tabelas",
+      "title": "[Matemática] - Ano 3 - 36.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43487,7 +43487,7 @@
     {
       "id": "I_kwDOPFPmMM74nVOE",
       "number": 3170,
-      "title": "[Matemática] - Ano 3 - 36.5 Leitura de dados",
+      "title": "[Matemática] - Ano 3 - 36.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43501,7 +43501,7 @@
     {
       "id": "I_kwDOPFPmMM74nVW8",
       "number": 3171,
-      "title": "[Matemática] - Ano 3 - 37.1 Comparação de dados",
+      "title": "[Matemática] - Ano 3 - 37.1 Tabelas",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43515,7 +43515,7 @@
     {
       "id": "I_kwDOPFPmMM74nVc_",
       "number": 3172,
-      "title": "[Matemática] - Ano 3 - 37.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 37.2 Leitura de dados",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43529,7 +43529,7 @@
     {
       "id": "I_kwDOPFPmMM74nViz",
       "number": 3173,
-      "title": "[Matemática] - Ano 3 - 37.3 Provas",
+      "title": "[Matemática] - Ano 3 - 37.3 Comparação de dados",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43543,7 +43543,7 @@
     {
       "id": "I_kwDOPFPmMM74nVtS",
       "number": 3174,
-      "title": "[Matemática] - Ano 3 - 37.4 Estrutura matemática",
+      "title": "[Matemática] - Ano 3 - 37.4 Revisão",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43557,7 +43557,7 @@
     {
       "id": "I_kwDOPFPmMM74nV1S",
       "number": 3175,
-      "title": "[Matemática] - Ano 3 - 37.5 Formação do estudante",
+      "title": "[Matemática] - Ano 3 - 37.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43571,7 +43571,7 @@
     {
       "id": "I_kwDOPFPmMM74nV7_",
       "number": 3176,
-      "title": "[Matemática] - Ano 3 - 38.1 Continuidade matemática",
+      "title": "[Matemática] - Ano 3 - 38.1 Estrutura matemática",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43585,7 +43585,7 @@
     {
       "id": "I_kwDOPFPmMM74nWCS",
       "number": 3177,
-      "title": "[Matemática] - Ano 3 - 38.2 Revisão",
+      "title": "[Matemática] - Ano 3 - 38.2 Formação do estudante",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43599,7 +43599,7 @@
     {
       "id": "I_kwDOPFPmMM74nWJD",
       "number": 3178,
-      "title": "[Matemática] - Ano 3 - 38.3 Provas",
+      "title": "[Matemática] - Ano 3 - 38.3 Continuidade matemática",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -43627,7 +43627,7 @@
     {
       "id": "I_kwDOPFPmMM74nXXX",
       "number": 3180,
-      "title": "[Matemática] - Ano 3 - 38.5 Provas",
+      "title": "[Matemática] - Ano 3 - 38.5 Prova",
       "status": "Backlog",
       "state": "OPEN",
       "assignee": "walmirfeijo",
@@ -57004,6 +57004,34 @@
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-17T20:07:35Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7_bcm3",
+      "number": 4091,
+      "title": "[Matemática] - Ano 3 - 27.4 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 3,
+      "created_at": "2026-04-17T21:18:16Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7_bc3O",
+      "number": 4092,
+      "title": "[Matemática] - Ano 3 - 27.5 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 3,
+      "created_at": "2026-04-17T21:18:30Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
