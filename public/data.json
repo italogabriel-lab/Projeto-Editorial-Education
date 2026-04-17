@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T14:23:46.523Z",
+  "last_updated": "2026-04-17T15:33:35.125Z",
   "total_items": 3861,
   "items": [
     {
@@ -49970,7 +49970,7 @@
       "id": "I_kwDOPFPmMM76IrDG",
       "number": 3586,
       "title": "[Português] - Ano 3 - 25.1 Linguagem formal",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Português",
@@ -50082,14 +50082,14 @@
       "id": "I_kwDOPFPmMM77CHg0",
       "number": 3594,
       "title": "[Português] - Ano 3 - 25.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Português",
       "year": 3,
       "created_at": "2026-04-06T12:31:37Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-17T14:31:58Z",
+      "lead_time_days": 11.083576388888888,
       "labels": []
     },
     {
@@ -53204,7 +53204,7 @@
       "id": "I_kwDOPFPmMM77EkEb",
       "number": 3817,
       "title": "[Português] - Ano 3 - 26.3 Gênero textual anúncio publicitário",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Português",
