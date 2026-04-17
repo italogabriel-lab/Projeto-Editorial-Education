@@ -104,7 +104,7 @@ imagens_ano3/
 
 **Prompt Extraído:**
 ```
-Ilustração em aquarela detalhada, estilo livro ilustrado clássico, com fundo 
+Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo 
 totalmente branco e bordas laterais difusas e suavemente desbotadas, criando 
 aparência de página ilustrada antiga.
 Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
