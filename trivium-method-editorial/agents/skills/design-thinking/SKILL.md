@@ -210,11 +210,40 @@ Dependendo da fase, entregável:
 5. **Visual**: Documente tudo visualmente
 6. **Delegue**: UI Designer executa o design visual
 
+---
+
+## Padrões de Entrega Premium
+
+Ao coordenar o @ui-designer, exija sempre que as entregas visuais sigam os **Padrões de Design Premium** documentados em `agents/skills/ui-designer/SKILL.md`.
+
+**Briefing obrigatório para o @ui-designer:**
+
+Toda solicitação de design deve incluir estes requisitos mínimos:
+
+| Requisito | Padrão Exigido |
+|-----------|----------------|
+| **Sistema de cores** | OKLCH obrigatório — sem hex hardcoded fora do `:root` |
+| **Tipografia** | Inter (sans) + JetBrains Mono (código) via Google Fonts |
+| **Estética** | Dark theme, glassmorphism, bordas `0.75rem–1.75rem` |
+| **Hero Banner** | Obrigatório em toda página de dashboard |
+| **Background** | Pelo menos 2 orbs de cor animados + malha mesh |
+| **Cards** | Animação de entrada via `IntersectionObserver` + hover lift |
+| **Tweaks Panel** | Obrigatório: acento, densidade, animações |
+| **Marquee** | Strip informativa abaixo do hero |
+| **Placeholders** | Proibidos — use dados reais ou gere imagens |
+
+**Mentalidade de domínio:**
+> Ao entregar um design, incorpore a expertise do domínio. Um dashboard editorial deve parecer criado por um product designer sênior de uma ferramenta de conteúdo de alto nível — não um template genérico.
+
+---
+
 ## Referências
 
 | Recurso | Caminho |
 |---------|---------|
+| Padrões de Design Premium | `agents/skills/ui-designer/SKILL.md` |
 | UX Research Methods | `knowledge-base/ux-research-methods.md` |
 | Personas Template | `templates/persona-template.md` |
 | Journey Map Template | `templates/journey-map-template.md` |
 | Wireframe Guidelines | `knowledge-base/wireframe-guidelines.md` |
+| Exemplo de Implementação | `agent-command-center.html` (raiz do projeto) |
