@@ -12,63 +12,67 @@
         rel="stylesheet">
     <style>
         /* ============================================
-           DESIGN SYSTEM - FLUXO EDITORIAL ACADEMY
-           Deep Navy + Purple Violet Palette
+           DESIGN SYSTEM v2 — TRIVIUM METHOD EDITORIAL
+           OKLCH Perceptual Color System + Premium UI
            ============================================ */
         :root {
-            /* Colors - Deep Navy Dark Palette (GitHub-inspired) */
-            --bg-primary: #0d1117;
-            --bg-secondary: #161b22;
-            --bg-tertiary: #1c2128;
-            --bg-card: rgba(22, 27, 34, 0.85);
-            --bg-card-hover: rgba(30, 35, 45, 0.95);
-            --bg-glass: rgba(255, 255, 255, 0.02);
-            --bg-sidebar: #0d1117;
+            /* OKLCH Color System — Perceptually Uniform */
+            --bg-primary: oklch(10% 0.015 270);
+            --bg-secondary: oklch(13% 0.018 265);
+            --bg-tertiary: oklch(15.5% 0.02 268);
+            --bg-card: oklch(13% 0.018 265 / 0.85);
+            --bg-card-hover: oklch(17% 0.022 268 / 0.95);
+            --bg-glass: oklch(100% 0 0 / 0.025);
+            --bg-sidebar: oklch(10% 0.015 270);
 
-            /* Accent Colors - Purple Violet Primary */
-            --accent-primary: #8b5cf6;
-            --accent-primary-light: #a78bfa;
-            --accent-primary-dark: #7c3aed;
-            --accent-primary-glow: rgba(139, 92, 246, 0.25);
+            /* Accent — Violet Primary (OKLCH) */
+            --accent-primary: oklch(65% 0.22 290);
+            --accent-primary-light: oklch(73% 0.19 285);
+            --accent-primary-dark: oklch(52% 0.25 295);
+            --accent-primary-glow: oklch(65% 0.22 290 / 0.28);
 
-            --accent-secondary: #22d3ee;
-            --accent-secondary-light: #67e8f9;
-            --accent-secondary-glow: rgba(34, 211, 238, 0.2);
+            /* Accent — Cyan Secondary */
+            --accent-secondary: oklch(78% 0.17 210);
+            --accent-secondary-light: oklch(85% 0.14 205);
+            --accent-secondary-glow: oklch(78% 0.17 210 / 0.22);
 
-            --accent-tertiary: #f59e0b;
-            --accent-tertiary-glow: rgba(245, 158, 11, 0.15);
+            /* Accent — Amber Tertiary */
+            --accent-tertiary: oklch(75% 0.18 75);
+            --accent-tertiary-glow: oklch(75% 0.18 75 / 0.18);
 
-            --accent-quaternary: #ec4899;
-            --accent-quaternary-glow: rgba(236, 72, 153, 0.15);
+            /* Accent — Pink Quaternary */
+            --accent-quaternary: oklch(68% 0.22 350);
+            --accent-quaternary-glow: oklch(68% 0.22 350 / 0.18);
 
-            /* Category Colors - Purple/Cyan/Pink/Amber */
-            --accent-core: #8b5cf6;
-            --accent-core-glow: rgba(139, 92, 246, 0.2);
-            --accent-specialized: #22d3ee;
-            --accent-specialized-glow: rgba(34, 211, 238, 0.2);
-            --accent-analytics: #f472b6;
-            --accent-analytics-glow: rgba(244, 114, 182, 0.2);
-            --accent-bimester: #fbbf24;
-            --accent-bimester-glow: rgba(251, 191, 36, 0.15);
-            --accent-legacy: #6b7280;
-            --accent-legacy-glow: rgba(107, 114, 128, 0.15);
+            /* Category Colors */
+            --accent-core: oklch(65% 0.22 290);
+            --accent-core-glow: oklch(65% 0.22 290 / 0.22);
+            --accent-specialized: oklch(78% 0.17 210);
+            --accent-specialized-glow: oklch(78% 0.17 210 / 0.22);
+            --accent-analytics: oklch(70% 0.20 350);
+            --accent-analytics-glow: oklch(70% 0.20 350 / 0.22);
+            --accent-bimester: oklch(78% 0.18 75);
+            --accent-bimester-glow: oklch(78% 0.18 75 / 0.18);
+            --accent-legacy: oklch(50% 0.04 250);
+            --accent-legacy-glow: oklch(50% 0.04 250 / 0.15);
+            --accent-emerald: oklch(72% 0.17 155);
 
-            /* Text Colors - Crisp White on Dark */
-            --text-primary: #ffffff;
-            --text-secondary: #8b949e;
-            --text-tertiary: #6e7681;
-            --text-muted: #484f58;
+            /* Text */
+            --text-primary: oklch(97% 0.005 270);
+            --text-secondary: oklch(64% 0.03 250);
+            --text-tertiary: oklch(55% 0.025 255);
+            --text-muted: oklch(42% 0.02 260);
 
-            /* Border & Divider - GitHub-style subtle borders */
-            --border-color: rgba(48, 54, 61, 0.7);
-            --border-light: rgba(48, 54, 61, 0.4);
-            --border-glow: rgba(139, 92, 246, 0.3);
+            /* Borders */
+            --border-color: oklch(28% 0.02 265 / 0.7);
+            --border-light: oklch(28% 0.02 265 / 0.4);
+            --border-glow: oklch(65% 0.22 290 / 0.35);
 
-            /* Status Colors */
-            --status-active: #3fb950;
-            --status-warning: #d29922;
-            --status-error: #f85149;
-            --status-legacy: #6b7280;
+            /* Status */
+            --status-active: oklch(72% 0.18 145);
+            --status-warning: oklch(72% 0.17 75);
+            --status-error: oklch(62% 0.22 25);
+            --status-legacy: oklch(50% 0.04 250);
 
             /* Spacing */
             --spacing-xs: 0.25rem;
@@ -79,29 +83,30 @@
             --spacing-2xl: 3rem;
             --spacing-3xl: 4rem;
 
-            /* Border Radius - Modern rounded */
+            /* Border Radius */
             --radius-sm: 0.375rem;
             --radius-md: 0.5rem;
             --radius-lg: 0.75rem;
             --radius-xl: 1rem;
             --radius-2xl: 1.25rem;
-            --radius-3xl: 1.5rem;
+            --radius-3xl: 1.75rem;
             --radius-full: 9999px;
 
-            /* Shadows - Deep, purple-tinted */
-            --shadow-xs: 0 1px 3px rgba(0, 0, 0, 0.3);
-            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.4);
-            --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
-            --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
-            --shadow-xl: 0 24px 56px rgba(0, 0, 0, 0.7);
-            --shadow-glow: 0 0 40px rgba(139, 92, 246, 0.15);
-            --shadow-glow-secondary: 0 0 40px rgba(34, 211, 238, 0.15);
+            /* Shadows */
+            --shadow-xs: 0 1px 3px oklch(0% 0 0 / 0.3);
+            --shadow-sm: 0 2px 8px oklch(0% 0 0 / 0.4);
+            --shadow-md: 0 8px 24px oklch(0% 0 0 / 0.5);
+            --shadow-lg: 0 16px 40px oklch(0% 0 0 / 0.6);
+            --shadow-xl: 0 24px 56px oklch(0% 0 0 / 0.7);
+            --shadow-glow: 0 0 40px oklch(65% 0.22 290 / 0.15);
+            --shadow-glow-secondary: 0 0 40px oklch(78% 0.17 210 / 0.15);
 
             /* Transitions */
             --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
             --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
             --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
-            --transition-spring: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+            --transition-spring: 500ms cubic-bezier(0.34, 1.56, 0.64, 1);
+            --transition-bounce: 600ms cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
             /* Typography */
             --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
@@ -2129,6 +2134,565 @@
         @media (max-width: 768px) {
             .tutorial-grid { grid-template-columns: 1fr; }
         }
+
+        /* ============================================
+           PREMIUM BACKGROUND ORB SYSTEM
+           ============================================ */
+        .bg-orbs {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: -1;
+            overflow: hidden;
+        }
+
+        .bg-orb {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(80px);
+            animation: orbDrift var(--orb-dur, 20s) ease-in-out infinite alternate;
+        }
+
+        .bg-orb-1 {
+            width: 600px; height: 600px;
+            background: var(--accent-primary-glow);
+            top: -15%; left: -10%;
+            --orb-dur: 25s;
+        }
+
+        .bg-orb-2 {
+            width: 500px; height: 500px;
+            background: var(--accent-secondary-glow);
+            bottom: -10%; right: -8%;
+            --orb-dur: 30s;
+            animation-delay: -8s;
+        }
+
+        .bg-orb-3 {
+            width: 350px; height: 350px;
+            background: var(--accent-quaternary-glow);
+            top: 40%; left: 55%;
+            --orb-dur: 22s;
+            animation-delay: -14s;
+        }
+
+        .bg-orb-4 {
+            width: 250px; height: 250px;
+            background: var(--accent-bimester-glow);
+            top: 20%; right: 20%;
+            --orb-dur: 18s;
+            animation-delay: -5s;
+        }
+
+        @keyframes orbDrift {
+            0%   { transform: translate(0, 0) scale(1); }
+            33%  { transform: translate(40px, -30px) scale(1.05); }
+            66%  { transform: translate(-20px, 20px) scale(0.97); }
+            100% { transform: translate(30px, 10px) scale(1.02); }
+        }
+
+        /* Fine mesh grid overlay */
+        .bg-mesh {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: -1;
+            opacity: 0.18;
+            background-image:
+                linear-gradient(oklch(100% 0 0 / 0.04) 1px, transparent 1px),
+                linear-gradient(90deg, oklch(100% 0 0 / 0.04) 1px, transparent 1px);
+            background-size: 64px 64px;
+        }
+
+        /* ============================================
+           HERO BANNER — ABOVE THE HEADER
+           ============================================ */
+        .hero-banner {
+            margin-left: 72px;
+            padding: 3.5rem 3rem 2.5rem;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 1px solid var(--border-color);
+            background: linear-gradient(
+                135deg,
+                oklch(11% 0.02 280) 0%,
+                oklch(13% 0.025 265) 50%,
+                oklch(11% 0.018 250) 100%
+            );
+        }
+
+        .hero-banner::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(
+                ellipse 60% 80% at 0% 50%,
+                var(--accent-primary-glow),
+                transparent 70%
+            );
+            pointer-events: none;
+        }
+
+        .hero-banner::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 1px;
+            background: linear-gradient(90deg,
+                transparent,
+                var(--accent-primary),
+                var(--accent-secondary),
+                transparent
+            );
+            opacity: 0.5;
+        }
+
+        .hero-inner {
+            max-width: 880px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.3rem 0.9rem;
+            background: var(--accent-primary-glow);
+            border: 1px solid var(--accent-primary);
+            border-radius: var(--radius-full);
+            font-size: 0.65rem;
+            font-weight: 700;
+            color: var(--accent-primary-light);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 1.25rem;
+            animation: heroBadgePulse 3s ease-in-out infinite;
+        }
+
+        .hero-badge-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--status-active);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes heroBadgePulse {
+            0%, 100% { box-shadow: 0 0 0 0 var(--accent-primary-glow); }
+            50% { box-shadow: 0 0 0 6px transparent; }
+        }
+
+        .hero-title {
+            font-size: clamp(2rem, 4vw, 3rem);
+            font-weight: 900;
+            line-height: 1.1;
+            letter-spacing: -0.04em;
+            margin-bottom: 1rem;
+            background: linear-gradient(
+                135deg,
+                var(--text-primary) 0%,
+                var(--accent-primary-light) 45%,
+                var(--accent-secondary) 80%,
+                var(--text-primary) 100%
+            );
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: heroGradientShift 5s linear infinite;
+        }
+
+        @keyframes heroGradientShift {
+            0% { background-position: 0% center; }
+            100% { background-position: 200% center; }
+        }
+
+        .hero-subtitle {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            max-width: 600px;
+            margin-bottom: 1.75rem;
+        }
+
+        .hero-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .hero-pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.35rem 0.85rem;
+            background: var(--bg-glass);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            transition: all var(--transition-base);
+        }
+
+        .hero-pill:hover {
+            border-color: var(--accent-primary);
+            color: var(--text-primary);
+            background: var(--accent-primary-glow);
+        }
+
+        .hero-pill-dot {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: currentColor;
+            opacity: 0.6;
+        }
+
+        /* ============================================
+           STAT CARDS — UPGRADED
+           ============================================ */
+        .stat-card {
+            cursor: default;
+        }
+
+        .stat-card::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(
+                circle at 80% 20%,
+                oklch(100% 0 0 / 0.03) 0%,
+                transparent 60%
+            );
+            pointer-events: none;
+            border-radius: inherit;
+        }
+
+        .stat-card:hover {
+            background: var(--bg-card-hover);
+        }
+
+        .stat-card .stat-icon {
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+            opacity: 0.8;
+        }
+
+        .stat-value {
+            font-variant-numeric: tabular-nums;
+        }
+
+        /* ============================================
+           AGENT CARD MAGNIFY EFFECT
+           ============================================ */
+        .agent-card {
+            will-change: transform;
+        }
+
+        .agent-card:hover {
+            transform: translateY(-6px) scale(1.005);
+        }
+
+        .agent-card-header {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .agent-card-header::after {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
+            background: conic-gradient(
+                from 90deg at 50% 120%,
+                transparent 40%,
+                var(--card-accent, var(--accent-primary)) 50%,
+                transparent 60%
+            );
+            opacity: 0;
+            transition: opacity 0.6s;
+            pointer-events: none;
+        }
+
+        .agent-card:hover .agent-card-header::after {
+            opacity: 0.06;
+        }
+
+        /* ============================================
+           SIDEBAR ACTIVE GLOW
+           ============================================ */
+        .sidebar-item.active .sidebar-item-icon {
+            box-shadow: 0 0 20px var(--sidebar-accent, var(--accent-primary));
+        }
+
+        .sidebar-item-icon {
+            transition: all var(--transition-base);
+        }
+
+        .sidebar-item:hover .sidebar-item-icon {
+            transform: scale(1.08);
+        }
+
+        /* ============================================
+           FILTER BUTTONS REFINED
+           ============================================ */
+        .filter-btn {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .filter-btn::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+            opacity: 0;
+            transition: opacity var(--transition-base);
+        }
+
+        .filter-btn:hover::before {
+            opacity: 0.08;
+        }
+
+        .filter-btn.active::before {
+            opacity: 0;
+        }
+
+        /* ============================================
+           COMMAND ITEM REFINED
+           ============================================ */
+        .command-code {
+            background: oklch(78% 0.17 210 / 0.12) !important;
+            border: 1px solid oklch(78% 0.17 210 / 0.2);
+            color: var(--accent-secondary-light) !important;
+        }
+
+        /* ============================================
+           TWEAKS PANEL
+           ============================================ */
+        #tweaks-panel {
+            position: fixed;
+            bottom: 1.5rem;
+            right: 1.5rem;
+            width: 280px;
+            background: var(--bg-card);
+            backdrop-filter: blur(24px);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-2xl);
+            box-shadow: var(--shadow-xl), 0 0 40px var(--accent-primary-glow);
+            z-index: 900;
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+            animation: tweakSlideIn 0.4s var(--transition-spring) both;
+        }
+
+        @keyframes tweakSlideIn {
+            from { transform: translateY(20px) scale(0.95); opacity: 0; }
+            to   { transform: translateY(0) scale(1); opacity: 1; }
+        }
+
+        #tweaks-panel.visible { display: flex; }
+
+        .tweaks-header {
+            padding: 1rem 1.25rem 0.75rem;
+            border-bottom: 1px solid var(--border-light);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: linear-gradient(135deg, var(--accent-primary-glow), transparent);
+        }
+
+        .tweaks-title {
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: var(--accent-primary-light);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .tweaks-close {
+            width: 24px; height: 24px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            color: var(--text-muted);
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 0.7rem;
+            transition: all var(--transition-base);
+        }
+
+        .tweaks-close:hover {
+            background: var(--bg-card-hover);
+            color: var(--text-primary);
+            border-color: var(--accent-primary);
+        }
+
+        .tweaks-body { padding: 1rem 1.25rem; display: flex; flex-direction: column; gap: 1rem; }
+
+        .tweak-group { display: flex; flex-direction: column; gap: 0.5rem; }
+
+        .tweak-label {
+            font-size: 0.65rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+        }
+
+        .tweak-options {
+            display: flex;
+            gap: 0.4rem;
+            flex-wrap: wrap;
+        }
+
+        .tweak-option {
+            padding: 0.3rem 0.75rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all var(--transition-base);
+        }
+
+        .tweak-option:hover {
+            border-color: var(--accent-primary);
+            color: var(--text-primary);
+        }
+
+        .tweak-option.active {
+            background: var(--accent-primary-glow);
+            border-color: var(--accent-primary);
+            color: var(--accent-primary-light);
+        }
+
+        .tweaks-toggle-btn {
+            position: fixed;
+            bottom: 1.5rem;
+            right: 1.5rem;
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-primary), var(--accent-primary-dark));
+            border: none;
+            border-radius: var(--radius-full);
+            color: white;
+            font-size: 1.1rem;
+            cursor: pointer;
+            box-shadow: 0 4px 20px var(--accent-primary-glow);
+            transition: all var(--transition-spring);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 899;
+        }
+
+        .tweaks-toggle-btn:hover {
+            transform: scale(1.1) rotate(15deg);
+            box-shadow: 0 8px 30px var(--accent-primary-glow);
+        }
+
+        /* ============================================
+           PIPE STEP UPGRADE
+           ============================================ */
+        .workflow-step[data-agent]:hover {
+            box-shadow: 0 12px 32px var(--accent-primary-glow), 0 0 0 1px var(--accent-primary);
+        }
+
+        /* ============================================
+           SECTION TITLE REFINED
+           ============================================ */
+        .section-title {
+            position: relative;
+        }
+
+        .section-title .title-count {
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-full);
+            padding: 0.2rem 0.6rem;
+            margin-left: auto;
+        }
+
+        /* ============================================
+           ANIMATED COUNT-UP NUMBER
+           ============================================ */
+        .stat-value[data-target] {
+            transition: all 0.3s;
+        }
+
+        /* ============================================
+           HERO TOP-LINE MARQUEE
+           ============================================ */
+        .hero-marquee-wrap {
+            overflow: hidden;
+            border-top: 1px solid var(--border-color);
+            border-bottom: 1px solid var(--border-color);
+            margin-left: 72px;
+            background: linear-gradient(
+                90deg,
+                var(--bg-primary),
+                var(--bg-secondary) 30%,
+                var(--bg-secondary) 70%,
+                var(--bg-primary)
+            );
+        }
+
+        .hero-marquee {
+            display: flex;
+            gap: 0;
+            animation: marqueeScroll 30s linear infinite;
+            white-space: nowrap;
+        }
+
+        .hero-marquee-inner {
+            display: flex;
+            gap: 0;
+            padding: 0.6rem 0;
+        }
+
+        .hero-marquee-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0 2rem;
+            font-size: 0.65rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            border-right: 1px solid var(--border-light);
+        }
+
+        .hero-marquee-item span {
+            color: var(--accent-primary-light);
+        }
+
+        @keyframes marqueeScroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        /* Skills sidebar + content layout */
+        .sidebar-item.active {
+            color: var(--text-primary);
+            background: linear-gradient(
+                90deg,
+                oklch(65% 0.22 290 / 0.12),
+                transparent
+            );
+        }
     </style>
 </head>
 
@@ -2210,10 +2774,64 @@
         </div>
     </nav>
 
-    <!-- Background Gradient -->
-    <div class="bg-gradient"></div>
+    <!-- Background Orbs (animated, GPU-composited) -->
+    <div class="bg-orbs" aria-hidden="true">
+        <div class="bg-orb bg-orb-1"></div>
+        <div class="bg-orb bg-orb-2"></div>
+        <div class="bg-orb bg-orb-3"></div>
+        <div class="bg-orb bg-orb-4"></div>
+    </div>
+    <!-- Fine mesh grid -->
+    <div class="bg-mesh" aria-hidden="true"></div>
 
-    <!-- Toast Notification -->
+    <!-- Hero Banner -->
+    <section class="hero-banner" aria-label="Trivium Method Editorial — Command Center">
+        <div class="hero-inner">
+            <div class="hero-badge">
+                <span class="hero-badge-dot"></span>
+                Framework Ativo · 22 Agentes · v2.0
+            </div>
+            <h1 class="hero-title">Agent Command<br>Center</h1>
+            <p class="hero-subtitle">Central de controle do Trivium Method Editorial. Acesse, copie e execute qualquer prompt dos 22 agentes especializados do pipeline de produção educacional.</p>
+            <div class="hero-pills" role="list">
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--accent-core)"></span>7 Core Agents</span>
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--accent-specialized)"></span>5 Especializados</span>
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--accent-analytics)"></span>4 Analytics</span>
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--accent-bimester)"></span>2 Bimestrais</span>
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--accent-legacy)"></span>4 Legacy</span>
+                <span class="hero-pill" role="listitem"><span class="hero-pill-dot" style="background:var(--status-active)"></span>21 Skills</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Marquee Strip -->
+    <div class="hero-marquee-wrap" aria-hidden="true">
+        <div class="hero-marquee">
+            <div class="hero-marquee-inner">
+                <span class="hero-marquee-item"><span>01</span> Orchestrator → Diagnóstico</span>
+                <span class="hero-marquee-item"><span>02</span> Researcher → Ad Fontes</span>
+                <span class="hero-marquee-item"><span>03</span> Writer → 5 Hábitos</span>
+                <span class="hero-marquee-item"><span>04</span> Standardizer → Rise Blocks</span>
+                <span class="hero-marquee-item"><span>05</span> Reviewer → QA 13 Categorias</span>
+                <span class="hero-marquee-item"><span>06</span> Copywriter → Polimento</span>
+                <span class="hero-marquee-item"><span>07</span> Publisher → GitHub</span>
+                <span class="hero-marquee-item"><span>Vision</span> Analytics · Bottleneck · Performance</span>
+            </div>
+            <!-- Duplicate for seamless loop -->
+            <div class="hero-marquee-inner" aria-hidden="true">
+                <span class="hero-marquee-item"><span>01</span> Orchestrator → Diagnóstico</span>
+                <span class="hero-marquee-item"><span>02</span> Researcher → Ad Fontes</span>
+                <span class="hero-marquee-item"><span>03</span> Writer → 5 Hábitos</span>
+                <span class="hero-marquee-item"><span>04</span> Standardizer → Rise Blocks</span>
+                <span class="hero-marquee-item"><span>05</span> Reviewer → QA 13 Categorias</span>
+                <span class="hero-marquee-item"><span>06</span> Copywriter → Polimento</span>
+                <span class="hero-marquee-item"><span>07</span> Publisher → GitHub</span>
+                <span class="hero-marquee-item"><span>Vision</span> Analytics · Bottleneck · Performance</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
     <div class="toast" id="toast">
         <span class="toast-icon">✅</span>
         <span class="toast-message">Command copied to clipboard!</span>
@@ -6695,6 +7313,201 @@ FORMATO: Documento CANVAS_QUIZ completo pronto para importação.`
 
         // Initialize
         renderAgents();
+
+        // ============================================
+        // PREMIUM ENHANCEMENTS — COUNT-UP + TWEAKS
+        // ============================================
+
+        // Animated count-up for stat values
+        function animateCountUp(el, target, duration = 1200) {
+            const start = 0;
+            const startTime = performance.now();
+            function update(currentTime) {
+                const elapsed = currentTime - startTime;
+                const progress = Math.min(elapsed / duration, 1);
+                const eased = 1 - Math.pow(1 - progress, 3);
+                el.textContent = Math.round(start + (target - start) * eased);
+                if (progress < 1) requestAnimationFrame(update);
+            }
+            requestAnimationFrame(update);
+        }
+
+        // Observe stat cards to trigger count-up
+        const statObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const valueEl = entry.target.querySelector('.stat-value');
+                    if (valueEl && !valueEl.dataset.animated) {
+                        valueEl.dataset.animated = '1';
+                        const target = parseInt(valueEl.dataset.target || valueEl.textContent);
+                        if (!isNaN(target) && target > 0) {
+                            animateCountUp(valueEl, target);
+                        }
+                    }
+                }
+            });
+        }, { threshold: 0.5 });
+
+        document.querySelectorAll('.stat-card').forEach((card, i) => {
+            const valueEl = card.querySelector('.stat-value');
+            if (valueEl) {
+                valueEl.dataset.target = valueEl.textContent.trim();
+                valueEl.textContent = '0';
+                statObserver.observe(card);
+            }
+        });
+
+        // Card entrance animation
+        const cardObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry, i) => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animationDelay = (i * 0.05) + 's';
+                    entry.target.classList.add('card-entered');
+                    cardObserver.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        // Add entrance CSS
+        const entranceStyle = document.createElement('style');
+        entranceStyle.textContent = `
+            .agent-card {
+                opacity: 0;
+                transform: translateY(20px);
+                transition: opacity 0.5s ease, transform 0.5s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.4s ease, border-color 0.3s ease;
+            }
+            .agent-card.card-entered {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            .agent-card:hover {
+                transform: translateY(-6px) scale(1.005) !important;
+            }
+            .stat-card {
+                opacity: 0;
+                transform: translateY(12px);
+                transition: opacity 0.4s ease, transform 0.4s ease, box-shadow 0.3s ease, background 0.3s ease;
+            }
+            .stat-card.card-entered {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        `;
+        document.head.appendChild(entranceStyle);
+
+        setTimeout(() => {
+            document.querySelectorAll('.agent-card, .stat-card').forEach((el, i) => {
+                el.style.animationDelay = (i * 0.04) + 's';
+                cardObserver.observe(el);
+            });
+        }, 200);
+
+    </script>
+
+    <!-- Tweaks Panel -->
+    <div id="tweaks-panel" role="dialog" aria-label="Ajustes visuais">
+        <div class="tweaks-header">
+            <span class="tweaks-title">⚡ Tweaks</span>
+            <button class="tweaks-close" onclick="closeTweaks()" aria-label="Fechar painel">✕</button>
+        </div>
+        <div class="tweaks-body">
+            <div class="tweak-group">
+                <span class="tweak-label">Densidade do Layout</span>
+                <div class="tweak-options">
+                    <button class="tweak-option active" onclick="applyTweak('density','comfortable',this)">Confortável</button>
+                    <button class="tweak-option" onclick="applyTweak('density','compact',this)">Compacto</button>
+                </div>
+            </div>
+            <div class="tweak-group">
+                <span class="tweak-label">Acento Principal</span>
+                <div class="tweak-options">
+                    <button class="tweak-option active" onclick="applyTweak('accent','violet',this)" style="color:oklch(73% 0.19 285)">Violeta</button>
+                    <button class="tweak-option" onclick="applyTweak('accent','cyan',this)" style="color:oklch(78% 0.17 210)">Ciano</button>
+                    <button class="tweak-option" onclick="applyTweak('accent','rose',this)" style="color:oklch(68% 0.22 350)">Rosa</button>
+                    <button class="tweak-option" onclick="applyTweak('accent','amber',this)" style="color:oklch(78% 0.18 75)">Âmbar</button>
+                </div>
+            </div>
+            <div class="tweak-group">
+                <span class="tweak-label">Animações de Fundo</span>
+                <div class="tweak-options">
+                    <button class="tweak-option active" onclick="applyTweak('orbs','on',this)">Ligadas</button>
+                    <button class="tweak-option" onclick="applyTweak('orbs','off',this)">Desligadas</button>
+                </div>
+            </div>
+            <div class="tweak-group">
+                <span class="tweak-label">Marquee</span>
+                <div class="tweak-options">
+                    <button class="tweak-option active" onclick="applyTweak('marquee','on',this)">Visível</button>
+                    <button class="tweak-option" onclick="applyTweak('marquee','off',this)">Oculto</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tweaks Toggle Button -->
+    <button class="tweaks-toggle-btn" id="tweaks-toggle" onclick="toggleTweaks()" aria-label="Abrir painel de ajustes" title="Tweaks">⚡</button>
+
+    <script>
+        // Tweaks panel logic
+        function toggleTweaks() {
+            const panel = document.getElementById('tweaks-panel');
+            const btn = document.getElementById('tweaks-toggle');
+            const isVisible = panel.classList.toggle('visible');
+            btn.style.display = isVisible ? 'none' : 'flex';
+        }
+
+        function closeTweaks() {
+            document.getElementById('tweaks-panel').classList.remove('visible');
+            document.getElementById('tweaks-toggle').style.display = 'flex';
+        }
+
+        function applyTweak(key, value, btn) {
+            // Deactivate siblings
+            btn.parentElement.querySelectorAll('.tweak-option').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const root = document.documentElement;
+
+            if (key === 'density') {
+                if (value === 'compact') {
+                    root.style.setProperty('--spacing-md','0.6rem');
+                    root.style.setProperty('--spacing-lg','1rem');
+                    root.style.setProperty('--spacing-xl','1.25rem');
+                } else {
+                    root.style.removeProperty('--spacing-md');
+                    root.style.removeProperty('--spacing-lg');
+                    root.style.removeProperty('--spacing-xl');
+                }
+            }
+
+            if (key === 'accent') {
+                const presets = {
+                    violet: ['oklch(65% 0.22 290)','oklch(73% 0.19 285)','oklch(52% 0.25 295)','oklch(65% 0.22 290 / 0.28)'],
+                    cyan:   ['oklch(65% 0.18 210)','oklch(75% 0.16 205)','oklch(52% 0.20 215)','oklch(65% 0.18 210 / 0.28)'],
+                    rose:   ['oklch(62% 0.22 350)','oklch(71% 0.19 345)','oklch(50% 0.25 355)','oklch(62% 0.22 350 / 0.28)'],
+                    amber:  ['oklch(68% 0.20 75)','oklch(76% 0.17 70)','oklch(55% 0.23 80)','oklch(68% 0.20 75 / 0.28)']
+                };
+                const p = presets[value];
+                if (p) {
+                    root.style.setProperty('--accent-primary', p[0]);
+                    root.style.setProperty('--accent-primary-light', p[1]);
+                    root.style.setProperty('--accent-primary-dark', p[2]);
+                    root.style.setProperty('--accent-primary-glow', p[3]);
+                    root.style.setProperty('--accent-core', p[0]);
+                    root.style.setProperty('--shadow-glow', '0 0 40px ' + p[3]);
+                }
+            }
+
+            if (key === 'orbs') {
+                const orbs = document.querySelector('.bg-orbs');
+                if (orbs) orbs.style.display = value === 'off' ? 'none' : '';
+            }
+
+            if (key === 'marquee') {
+                const mq = document.querySelector('.hero-marquee-wrap');
+                if (mq) mq.style.display = value === 'off' ? 'none' : '';
+            }
+        }
     </script>
 </body>
 
