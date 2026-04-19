@@ -184,8 +184,15 @@ function renderMetas(items) {
                 </div>
             </div>
         `;
-    });
     document.getElementById('disciplines-grid').innerHTML = discHTML;
+
+    // Dispara a animação de entrada (pois o CSS premium usa opacity: 0 por padrão)
+    setTimeout(() => {
+        document.querySelectorAll('#disciplines-grid .kpi-card').forEach((card, i) => {
+            card.style.transitionDelay = (i * 0.05) + 's';
+            card.classList.add('card-entered');
+        });
+    }, 50);
 
     // --- 2. Chart: Cumprimento Ano a Ano ---
     const yearMonthMap = { 2: "Março", 3: "Abril", 1: "Maio", 4: "Junho", 5: "Julho" };
