@@ -72,18 +72,22 @@ function renderProgressBar(pct, width = 20) {
 }
 
 async function performSync() {
+    const syncEl = document.getElementById('last-sync-time');
     try {
         const response = await fetch('public/data.json?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('HTTP ' + response.status);
         const data = await response.json();
 
-        document.getElementById('last-sync-time').textContent = new Date(data.last_updated).toLocaleString();
+        syncEl.textContent = new Date(data.last_updated).toLocaleString();
+        syncEl.style.color = '';
 
         const items = data.items || [];
-
         renderMetas(items);
 
     } catch (e) {
         console.error("Error loading data:", e);
+        syncEl.textContent = 'Erro ao carregar dados';
+        syncEl.style.color = 'var(--color-danger-light)';
     }
 }
 
@@ -126,7 +130,7 @@ function renderMetas(items) {
     let discHTML = '';
     const sortedSubs = Object.keys(subjectStats).sort((a, b) => subjectStats[b].t - subjectStats[a].t);
 
-    sortedSubs.forEach(sub => {
+    sortedSubs.forEach((sub, idx) => {
         const st = subjectStats[sub];
         if (st.t === 0) return;
 
@@ -167,7 +171,7 @@ function renderMetas(items) {
         const icon = subjectIcons[sub] || '<i class="ph ph-book-open"></i>';
 
         discHTML += `
-            <div class="kpi-card glass-panel" style="padding-bottom: 15px;">
+            <div class="kpi-card glass-panel card-entered" style="padding-bottom: 15px; transition-delay: ${idx * 0.05}s;">
                 <div class="kpi-icon ${color}">${icon}</div>
                 <div class="kpi-data" style="width: 100%;">
                     <h3>${sub}</h3>
@@ -187,14 +191,6 @@ function renderMetas(items) {
     });
 
     document.getElementById('disciplines-grid').innerHTML = discHTML;
-
-    // Dispara a animação de entrada (pois o CSS premium usa opacity: 0 por padrão)
-    setTimeout(() => {
-        document.querySelectorAll('#disciplines-grid .kpi-card').forEach((card, i) => {
-            card.style.transitionDelay = (i * 0.05) + 's';
-            card.classList.add('card-entered');
-        });
-    }, 50);
 
     // --- 2. Chart: Cumprimento Ano a Ano ---
     const yearMonthMap = { 2: "Março", 3: "Abril", 1: "Maio", 4: "Junho", 5: "Julho" };
