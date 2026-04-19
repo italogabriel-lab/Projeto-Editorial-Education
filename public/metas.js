@@ -184,6 +184,8 @@ function renderMetas(items) {
                 </div>
             </div>
         `;
+    });
+
     document.getElementById('disciplines-grid').innerHTML = discHTML;
 
     // Dispara a animação de entrada (pois o CSS premium usa opacity: 0 por padrão)
