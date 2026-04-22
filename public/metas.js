@@ -11,6 +11,12 @@ function isProduced(status) {
     return PRODUCED_STATUSES.includes(status);
 }
 
+function isTrackableLessonItem(item) {
+    if (!item) return false;
+    if (item.canonical_key && item.lesson_code) return true;
+    return /^\s*\[[^\]]+\]\s*-\s*Ano\s*[1-5]\s*-\s*\d{1,2}\.\d\s+.+\s*$/i.test(item.title || '');
+}
+
 function normalizeSubject(name) {
     if (!name) return null;
     const lower = name.toLowerCase().trim();
@@ -81,7 +87,7 @@ async function performSync() {
         syncEl.textContent = new Date(data.last_updated).toLocaleString();
         syncEl.style.color = '';
 
-        const items = data.items || [];
+        const items = (data.items || []).filter(isTrackableLessonItem);
         renderMetas(items);
 
     } catch (e) {

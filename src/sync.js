@@ -62,6 +62,83 @@ const PROJECT_ID =
   process.env.GITHUB_PROJECT_ID ||
   "PVT_kwDODLv1ac4BH1XW";
 
+const STATUS_PRIORITY = {
+  'Done/Published': 5,
+  'Video': 4,
+  'In Review': 3,
+  'In Progress': 2,
+  'Backlog': 1,
+  'Block': 0,
+  'No Status': -1
+};
+
+function normalizeSubjectName(name) {
+  if (!name) return 'Outros';
+
+  const lower = name.toLowerCase().trim();
+  const map = {
+    'historia': 'História',
+    'história': 'História',
+    'ciência': 'Ciências',
+    'ciencia': 'Ciências',
+    'ciencias': 'Ciências',
+    'ciências': 'Ciências',
+    'geogrfia': 'Geografia',
+    'geografia': 'Geografia',
+    'matemática': 'Matemática',
+    'matematica': 'Matemática',
+    'portugues': 'Português',
+    'português': 'Português',
+    'linguagem': 'Português',
+    'belas artes': 'Belas Artes',
+    'belasartes': 'Belas Artes',
+    'bíblia': 'Bíblia',
+    'biblia': 'Bíblia'
+  };
+
+  return map[lower] || name.trim();
+}
+
+function parseCanonicalLessonTitle(title) {
+  if (!title) return null;
+
+  const match = title.match(/^\s*\[(?<subject>[^\]]+)\]\s*-\s*Ano\s*(?<year>[1-5])\s*-\s*(?<lesson>\d{1,2}\.\d)\s+(?<lessonTitle>.+?)\s*$/i);
+  if (!match || !match.groups) return null;
+
+  const lessonTitle = match.groups.lessonTitle.trim();
+
+  // Metadados editoriais fora do padrão não entram na contabilidade.
+  if (!lessonTitle) return null;
+  if (/\bupdate\b/i.test(lessonTitle)) return null;
+  if (/^\s*[-–—]/.test(lessonTitle)) return null;
+
+  const subject = normalizeSubjectName(match.groups.subject);
+  const year = parseInt(match.groups.year, 10);
+  const lessonCode = match.groups.lesson.trim();
+  const canonicalTitle = `[${subject}] - Ano ${year} - ${lessonCode} ${lessonTitle}`;
+  const canonicalKey = `${subject.toLowerCase()}|${year}|${lessonCode}|${lessonTitle.toLowerCase()}`;
+
+  return {
+    subject,
+    year,
+    lesson_code: lessonCode,
+    lesson_title: lessonTitle,
+    canonical_title: canonicalTitle,
+    canonical_key: canonicalKey
+  };
+}
+
+function choosePreferredDuplicate(current, candidate) {
+  const currentPriority = STATUS_PRIORITY[current.status] ?? -1;
+  const candidatePriority = STATUS_PRIORITY[candidate.status] ?? -1;
+
+  if (candidatePriority !== currentPriority) {
+    return candidatePriority > currentPriority ? candidate : current;
+  }
+
+  return (candidate.number ?? 0) > (current.number ?? 0) ? candidate : current;
+}
+
 console.log("🚀 Starting Vision Board Sync Process...");
 console.log("📋 PROJECT_ID:", PROJECT_ID);
 console.log("⏱️  Start time:", new Date().toISOString());
@@ -147,7 +224,9 @@ query($cursor: String) {
 
 async function sync() {
   console.log("Iniciando varredura do GitHub Projects...");
-  let allItems = [];
+  const validItemsByKey = new Map();
+  const ignoredItems = [];
+  const duplicateItems = [];
   let cursor = null;
   let hasNextPage = true;
 
@@ -199,18 +278,15 @@ async function sync() {
         labels = content.labels.nodes.map(n => n.name);
       }
 
-      // Parse Subject and Year from title: "[Ciência] - Ano 4 - 8.1..."
-      let subject = "Outros";
-      let year = 0;
-
-      const titleMatch = content.title.match(/^\[(.*?)\]\s*-\s*Ano\s*(\d)/i);
-      if (titleMatch) {
-        subject = titleMatch[1].trim();
-        year = parseInt(titleMatch[2], 10);
-      } else if (content.title.includes("[Belas artes]")) {
-        subject = "Belas Artes";
-        const yrMatch = content.title.match(/Ano\s*(\d)/i);
-        if (yrMatch) year = parseInt(yrMatch[1], 10);
+      const parsedTitle = parseCanonicalLessonTitle(content.title);
+      if (!parsedTitle) {
+        ignoredItems.push({
+          id: content.id,
+          number: content.number,
+          title: content.title,
+          reason: 'title_out_of_pattern'
+        });
+        continue;
       }
 
       let lead_time_days = null;
@@ -220,20 +296,40 @@ async function sync() {
         lead_time_days = (closed - created) / (1000 * 60 * 60 * 24);
       }
 
-      allItems.push({
+      const normalizedItem = {
         id: content.id,
         number: content.number,
-        title: content.title,
+        title: parsedTitle.canonical_title,
         status: status,
         state: content.state,
         assignee: assignee,
-        subject: subject,
-        year: year,
+        subject: parsedTitle.subject,
+        year: parsedTitle.year,
+        lesson_code: parsedTitle.lesson_code,
+        lesson_title: parsedTitle.lesson_title,
+        canonical_key: parsedTitle.canonical_key,
         created_at: content.createdAt,
         closed_at: content.closedAt,
         lead_time_days: lead_time_days,
         labels: labels
-      });
+      };
+
+      const existingItem = validItemsByKey.get(parsedTitle.canonical_key);
+      if (existingItem) {
+        const preferredItem = choosePreferredDuplicate(existingItem, normalizedItem);
+        const discardedItem = preferredItem === existingItem ? normalizedItem : existingItem;
+
+        duplicateItems.push({
+          kept_number: preferredItem.number,
+          discarded_number: discardedItem.number,
+          canonical_key: parsedTitle.canonical_key,
+          title: preferredItem.title
+        });
+
+        validItemsByKey.set(parsedTitle.canonical_key, preferredItem);
+      } else {
+        validItemsByKey.set(parsedTitle.canonical_key, normalizedItem);
+      }
     }
 
     console.log(`OK! Registros extraídos: ${items.nodes.length}`);
@@ -245,7 +341,11 @@ async function sync() {
     // if (pagesFetched >= 5) break; 
   }
 
+  const allItems = Array.from(validItemsByKey.values()).sort((a, b) => (a.number ?? 0) - (b.number ?? 0));
+
   console.log(`Total de tarefas válidas extraídas: ${allItems.length}`);
+  console.log(`Total de tarefas ignoradas por título fora do padrão: ${ignoredItems.length}`);
+  console.log(`Total de duplicatas descartadas: ${duplicateItems.length}`);
 
   if (allItems.length === 0) {
     console.log("⚠️ Nenhum dado encontrado. Verifique o PROJECT_ID e permissões do token.");
@@ -256,6 +356,10 @@ async function sync() {
   const output = {
     last_updated: new Date().toISOString(),
     total_items: allItems.length,
+    ignored_items_count: ignoredItems.length,
+    duplicate_items_count: duplicateItems.length,
+    ignored_items: ignoredItems,
+    duplicate_items: duplicateItems,
     items: allItems
   };
 
