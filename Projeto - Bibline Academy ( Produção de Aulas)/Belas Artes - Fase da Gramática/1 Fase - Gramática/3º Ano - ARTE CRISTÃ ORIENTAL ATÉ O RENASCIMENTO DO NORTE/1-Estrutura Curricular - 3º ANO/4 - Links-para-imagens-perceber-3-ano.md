@@ -314,9 +314,9 @@
 - [Portal sculpture of Chartres (Wikipedia)](https://en.wikipedia.org/wiki/Chartres_Cathedral#Sculpture)
 - [Royal Portal of Chartres (Khan Academy)](https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe/a/royal-portal-chartres)
 
-### 24.2 — Pietà gótica / Cristo sofredor em madeira
-- [Gothic Pietà sculpture (Wikipedia)](https://en.wikipedia.org/wiki/Piet%C3%A0)
-- [Vesperbilder (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Vesperbild)
+### 24.2 — Pleurant gótico, escultura de enlutado
+- [Pleurant, Louvre](https://collections.louvre.fr/en/ark%3A/53355/cl010092542)
+- [The Mourners, The Metropolitan Museum of Art](https://www.metmuseum.org/exhibitions/listings/2010/mourners)
 
 ### 24.3 — Giotto, Lamento sobre Cristo morto (Scrovegni)
 - [Lamentation of Christ, Giotto (Wikipedia)](https://en.wikipedia.org/wiki/Lamentation_(Giotto))
