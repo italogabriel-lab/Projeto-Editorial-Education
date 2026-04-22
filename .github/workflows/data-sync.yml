@@ -84,10 +84,16 @@ jobs:
         run: |
           if [ -f "public/data.json" ]; then
             items_count=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.total_items || 0)")
+            ignored_count=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.ignored_items_count || 0)")
+            duplicate_count=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.duplicate_items_count || 0)")
             last_updated=$(node --input-type=module -e "import fs from 'fs'; const d=JSON.parse(fs.readFileSync('./public/data.json','utf8')); console.log(d.last_updated || 'N/A')")
             echo "✅ Total items: $items_count"
+            echo "✅ Ignored items: $ignored_count"
+            echo "✅ Duplicates removed: $duplicate_count"
             echo "✅ Last updated: $last_updated"
             echo "items_count=$items_count" >> $GITHUB_OUTPUT
+            echo "ignored_count=$ignored_count" >> $GITHUB_OUTPUT
+            echo "duplicate_count=$duplicate_count" >> $GITHUB_OUTPUT
             echo "last_updated=$last_updated" >> $GITHUB_OUTPUT
           else
             echo "❌ data.json was NOT created"
@@ -129,5 +135,7 @@ jobs:
           echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
           echo "| Status | ${{ job.status }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Items | ${{ steps.verify.outputs.items_count || 'N/A' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Ignored (invalid title) | ${{ steps.verify.outputs.ignored_count || 'N/A' }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Duplicates removed | ${{ steps.verify.outputs.duplicate_count || 'N/A' }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Updated | ${{ steps.verify.outputs.last_updated || 'N/A' }} |" >> $GITHUB_STEP_SUMMARY
           echo "| Duration | ~2-3 min |" >> $GITHUB_STEP_SUMMARY

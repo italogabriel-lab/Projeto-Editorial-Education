@@ -11,6 +11,12 @@ function isProduced(status) {
     return PRODUCED_STATUSES.includes(status);
 }
 
+function isTrackableLessonItem(item) {
+    if (!item) return false;
+    if (item.canonical_key && item.lesson_code) return true;
+    return /^\s*\[[^\]]+\]\s*-\s*Ano\s*[1-5]\s*-\s*\d{1,2}\.\d\s+.+\s*$/i.test(item.title || '');
+}
+
 function normalizeSubject(name) {
     if (!name) return null;
     const lower = name.toLowerCase().trim();
@@ -78,7 +84,7 @@ async function performSync() {
 
         document.getElementById('last-sync-time').textContent = new Date(data.last_updated).toLocaleString();
 
-        const items = data.items || [];
+        const items = (data.items || []).filter(isTrackableLessonItem);
 
         renderDisciplineCards(items);
 
@@ -840,6 +846,5 @@ function backToDisciplineDetail() {
     // Scroll to discipline detail section
     document.getElementById('discipline-detail-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
-
 
 
