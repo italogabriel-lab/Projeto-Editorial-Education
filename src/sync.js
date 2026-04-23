@@ -118,20 +118,46 @@ function normalizeLessonCode(rawCode, rawTitle) {
   return null;
 }
 
+function parseBimesterExamTitle(title) {
+  const match = title.match(
+    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*semana\s*(?<week>9|10|19|20|39|40)\s*-\s*(?<lessonTitle>(?:revis[aã]o|prova)\s+do\s+\d+[ºo]?\s*bimestre)\s*$/i
+  );
+  if (!match || !match.groups) return null;
+
+  const subject = normalizeSubjectName(match.groups.subject);
+  const year = parseInt(match.groups.year, 10);
+  const lessonCode = match.groups.week.trim();
+  const lessonTitle = match.groups.lessonTitle.trim();
+  const canonicalTitle = `[${subject}] - Ano ${year} - Semana ${lessonCode} ${lessonTitle}`;
+  const canonicalKey = `${subject.toLowerCase()}|${year}|semana-${lessonCode}|${lessonTitle.toLowerCase()}`;
+
+  return {
+    subject,
+    year,
+    lesson_code: lessonCode,
+    lesson_title: lessonTitle,
+    canonical_title: canonicalTitle,
+    canonical_key: canonicalKey
+  };
+}
+
 function parseCanonicalLessonTitle(title) {
   if (!title) return null;
 
   const compactTitle = title.replace(/\s+/g, ' ').trim();
+  if (/\bupdate\b/i.test(compactTitle)) return null;
+
   const match = compactTitle.match(
     /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*(?<lesson>\d{1,2}(?:\s*\.\s*\d)?)\s*-?\s*(?<lessonTitle>.+?)\s*$/i
   );
-  if (!match || !match.groups) return null;
+  if (!match || !match.groups) {
+    return parseBimesterExamTitle(compactTitle);
+  }
 
   const lessonTitle = match.groups.lessonTitle.trim();
 
   // Metadados editoriais fora do padrão não entram na contabilidade.
   if (!lessonTitle) return null;
-  if (/\bupdate\b/i.test(lessonTitle)) return null;
   if (/^\s*[-–—]/.test(lessonTitle)) return null;
 
   const subject = normalizeSubjectName(match.groups.subject);
