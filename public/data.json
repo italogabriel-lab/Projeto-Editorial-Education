@@ -1,39 +1,9 @@
 {
-  "last_updated": "2026-04-23T13:42:58.631Z",
-  "total_items": 3459,
-  "ignored_items_count": 356,
-  "duplicate_items_count": 67,
+  "last_updated": "2026-04-23T13:56:02.324Z",
+  "total_items": 3634,
+  "ignored_items_count": 190,
+  "duplicate_items_count": 69,
   "ignored_items": [
-    {
-      "id": "I_kwDOPFPmMM7XkFNy",
-      "number": 81,
-      "title": "[ História ] - Ano 2 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XkGBG",
-      "number": 83,
-      "title": "[ História ] - Ano 2 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XkmRD",
-      "number": 158,
-      "title": "[ História ] - Ano 2 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7Xkmtg",
-      "number": 159,
-      "title": "[ História ] - Ano 2 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XlTWI",
-      "number": 222,
-      "title": "[Geografia] - Ano 2 - 9 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
     {
       "id": "I_kwDOPFPmMM7XlWQ_",
       "number": 227,
@@ -41,201 +11,9 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM7XlZAm",
-      "number": 230,
-      "title": "[ História ] - Ano 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XlZ38",
-      "number": 231,
-      "title": "[ História ] - Ano 2 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7Xljdr",
-      "number": 244,
-      "title": "[ História  ] - Ano 2 - 32. 5 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XnpOc",
-      "number": 304,
-      "title": "[Ciências] - Ano 1 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XnqH8",
-      "number": 309,
-      "title": "[Ciências] - Ano 1 - 10 Provas ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XoMCl",
-      "number": 322,
-      "title": "[Geografia] - Ano 2 - 10 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XqEet",
-      "number": 391,
-      "title": "[Geografia] - Ano 2 - 19 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XqHj_",
-      "number": 396,
-      "title": "[Geografia] - Ano 2 - 20 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X0l-i",
-      "number": 416,
-      "title": "[Ciências] - Ano 2 - 9 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X3vq-",
-      "number": 538,
-      "title": "[Ciências] - Ano 2 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X0_XW",
-      "number": 425,
-      "title": "[Ciências] - Ano 2 - 10 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X24OB",
-      "number": 489,
-      "title": "[Ciências] - Ano 2 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X27li",
-      "number": 493,
-      "title": "[Ciências] - Ano 2 - 20 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X3wHa",
-      "number": 539,
-      "title": "[Ciências] - Ano 2 - 29 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X4QQ0",
-      "number": 544,
-      "title": "[Ciências] - Ano 2 - 30 Prova  ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X41AU",
-      "number": 589,
-      "title": "[Ciências] - Ano 2 - 39 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X423x",
-      "number": 594,
-      "title": "[Ciências] - Ano 2 - 40 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7XpZxB",
-      "number": 369,
-      "title": "[Bíblia] - Ano 2 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7X6_Ok",
-      "number": 599,
-      "title": "[Bíblia] - Ano 2 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7YSlY6",
-      "number": 633,
-      "title": "[ História ] - Ano 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7YSmFJ",
-      "number": 636,
-      "title": "[ História ] - Ano 2 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7aFs1h",
-      "number": 677,
-      "title": "[Português] - Ano 3 - 4.1- Separação silábica",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7bDJb7",
-      "number": 713,
-      "title": "[Belas artes] - Ano 2 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7bDMQq",
-      "number": 714,
-      "title": "[Belas artes] - Ano 2 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7bfZ4J",
-      "number": 774,
-      "title": "[Ciências] - Ano 1 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7bfaCA",
-      "number": 775,
-      "title": "[Ciências] - Ano 1 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM7ddEZn",
       "number": 816,
       "title": "Aula 7.1 - Luz",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7fZIBD",
-      "number": 886,
-      "title": "[Belas artes] - Ano 2 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7fZIJZ",
-      "number": 887,
-      "title": "[Belas artes] - Ano 2 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7f01pE",
-      "number": 937,
-      "title": "[Geografia] - Ano 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7f02I7",
-      "number": 938,
-      "title": "[Geografia] - Ano 2 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7gUvA4",
-      "number": 952,
-      "title": "[Matemática] - ANO 2 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7gUv4A",
-      "number": 953,
-      "title": "[Matemática] - ANO 2 - 10 Provas",
       "reason": "title_out_of_pattern"
     },
     {
@@ -251,147 +29,9 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM7gaFG-",
-      "number": 994,
-      "title": "[Geografia] - Ano 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7gaFTC",
-      "number": 995,
-      "title": "[Geografia] - Ano 2 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7iM0u2",
-      "number": 1076,
-      "title": "[Matemática] - ANO 2 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7iM15L",
-      "number": 1077,
-      "title": "[Matemática] - ANO 2 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7i_4Yn",
-      "number": 1122,
-      "title": "[Ciências] - Ano 1 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7i_47P",
-      "number": 1123,
-      "title": "[Ciências] - Ano 1 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM7j0Pnu",
       "number": 1147,
       "title": "[Geografia] - Anos 2 - 33.1 - Update - Cultura",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7k1UuJ",
-      "number": 1222,
-      "title": "[Historia] - Ano 3 - 2.1 - O grande cisma do Oriente",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7k2T0R",
-      "number": 1262,
-      "title": "[Historia] - Ano 3 - 9 Revisao",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7k2Us4",
-      "number": 1264,
-      "title": "[Historia] - Ano 3 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7k3Mtq",
-      "number": 1310,
-      "title": "[Historia] - Ano 3 - 19 Revisao",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7k3NBO",
-      "number": 1311,
-      "title": "[Historia] - Ano 3 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7lHVda",
-      "number": 1354,
-      "title": "[Historia] - Ano 3 - 29 Revisao",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7lHV3i",
-      "number": 1355,
-      "title": "[Historia] - Ano 3 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7lIBf7",
-      "number": 1396,
-      "title": "[Historia] - Ano 3 - 39 Revisao",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7lIByC",
-      "number": 1397,
-      "title": "[Historia] - Ano 3 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7la8xp",
-      "number": 1420,
-      "title": "[Belas artes] - Ano 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7la85j",
-      "number": 1421,
-      "title": "[Belas artes] - Ano 2 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7ma5Nq",
-      "number": 1451,
-      "title": "[Matemática] - ANO 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7ma6po",
-      "number": 1452,
-      "title": "[Matemática] - ANO 2 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7ma8en",
-      "number": 1453,
-      "title": "[Matemática] - ANO 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7ma-FF",
-      "number": 1454,
-      "title": "[Matemática] - ANO 2 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7myza0",
-      "number": 1472,
-      "title": "[Geografia] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7my1GT",
-      "number": 1473,
-      "title": "[Geografia] - Ano 3 - 10 Prova",
       "reason": "title_out_of_pattern"
     },
     {
@@ -401,63 +41,9 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM7qORO9",
-      "number": 1585,
-      "title": "[Ciências] - Ano 1 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7qORlv",
-      "number": 1586,
-      "title": "[Ciências] - Ano 1 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM7quzMW",
       "number": 1589,
       "title": "[English] - Year 1 -  1.1 Recognize Letter Sounds m s and t",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7soKfN",
-      "number": 1625,
-      "title": "[Belas artes] - Ano 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7soKrY",
-      "number": 1626,
-      "title": "[Belas artes] - Ano 2 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7vcEG0",
-      "number": 1660,
-      "title": "[Bíblia] - Ano 2 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7xKMmK",
-      "number": 1789,
-      "title": "[Bíblia] - Ano 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7xKNGz",
-      "number": 1790,
-      "title": "[Bíblia] - Ano 2 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7xN5wG",
-      "number": 1795,
-      "title": "[Português] - Ano 2 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7xQgQL",
-      "number": 1799,
-      "title": "[Português] - Ano 2 - 19 Revisão",
       "reason": "title_out_of_pattern"
     },
     {
@@ -473,57 +59,9 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM7yB5ua",
-      "number": 1837,
-      "title": "[Português] - Ano 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7yZYdo",
-      "number": 1876,
-      "title": "[Matemática] - ANO 1 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7yZdwr",
-      "number": 1877,
-      "title": "[Matemática] - ANO 1 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7yybPc",
-      "number": 1939,
-      "title": "[Português] - Ano 2 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM7zCKql",
       "number": 1946,
       "title": "Belas artes] - Ano 3 - 8.2 Ícones restaurados após a crise",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7zCK-h",
-      "number": 1950,
-      "title": "[Belas artes] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7zCLCV",
-      "number": 1951,
-      "title": "[Belas artes] - Ano 3 - 10 Prova ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7zCLZi",
-      "number": 1957,
-      "title": "[Belas artes] - Ano 1 - 9 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7zCLcv",
-      "number": 1958,
-      "title": "[Belas artes] - Ano 1 - 10 Prova ",
       "reason": "title_out_of_pattern"
     },
     {
@@ -683,42 +221,6 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM70kxs5",
-      "number": 2024,
-      "title": "[Matemática] - ANO 1 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM70k0xY",
-      "number": 2025,
-      "title": "[Matemática] - ANO 1 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7033ve",
-      "number": 2068,
-      "title": "[Matemática] - ANO 1 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7039rL",
-      "number": 2069,
-      "title": "[Matemática] - ANO 1 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM71vTrP",
-      "number": 2110,
-      "title": "[Matemática] - ANO 1 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM71vZ7K",
-      "number": 2111,
-      "title": "[Matemática] - ANO 1 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM71zKvy",
       "number": 2112,
       "title": "[English] - Year 2 - 1.3 Read Blend Sentences",
@@ -731,30 +233,6 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM72HM6Y",
-      "number": 2148,
-      "title": "[Geografia] - Ano 1 - 9 Revisão ",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72HP5j",
-      "number": 2150,
-      "title": "[Geografia] - Ano 1 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72mIZ7",
-      "number": 2179,
-      "title": "[Geografia] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72mJri",
-      "number": 2180,
-      "title": "[Geografia] - Ano 3 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM72oqic",
       "number": 2221,
       "title": "[Belas artes] - Ano 1 - Semana 19 - Revisão do 2º Bimestre",
@@ -764,390 +242,6 @@
       "id": "I_kwDOPFPmMM72oqpT",
       "number": 2222,
       "title": "[Belas artes] - Ano 1 - Semana 20 - Prova do 2º Bimestre",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72ovb0",
-      "number": 2263,
-      "title": "[Belas artes] - Ano 1 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72ovj5",
-      "number": 2264,
-      "title": "[Belas artes] - Ano 1 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rIm9",
-      "number": 2303,
-      "title": "[Belas artes] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rIwX",
-      "number": 2304,
-      "title": "[Belas artes] - Ano 3 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rN2z",
-      "number": 2345,
-      "title": "[Belas artes] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rOAa",
-      "number": 2346,
-      "title": "[Belas artes] - Ano 3 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rT1D",
-      "number": 2385,
-      "title": "[Belas artes] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM72rT7y",
-      "number": 2386,
-      "title": "[Belas artes] - Ano 3 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73AXhe",
-      "number": 2414,
-      "title": "[Ciência] - Ano 4 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73AXoR",
-      "number": 2415,
-      "title": "[Ciência] - Ano 4 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73AZhC",
-      "number": 2440,
-      "title": "[Ciência] - Ano 4 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73AZnX",
-      "number": 2441,
-      "title": "[Ciência] - Ano 4 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73Abdg",
-      "number": 2466,
-      "title": "[Ciência] - Ano 4 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73AbhW",
-      "number": 2467,
-      "title": "[Ciência] - Ano 4 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73Adcl",
-      "number": 2492,
-      "title": "[Ciência] - Ano 4 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73Adhe",
-      "number": 2493,
-      "title": "[Ciência] - Ano 4 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75q04p",
-      "number": 3401,
-      "title": "[Geografia] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75q2Xm",
-      "number": 3402,
-      "title": "[Geografia] - Ano 3 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73Btes",
-      "number": 2575,
-      "title": "[Geografia] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73C__A",
-      "number": 2581,
-      "title": "[Português] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73JpAi",
-      "number": 2595,
-      "title": "[Português] - Ano 3 - 10. Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5F2",
-      "number": 2828,
-      "title": "[História] - Ano 4 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5JR",
-      "number": 2829,
-      "title": "[História] - Ano 4 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5M_",
-      "number": 2830,
-      "title": "[História] - Ano 4 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5Q1",
-      "number": 2831,
-      "title": "[História] - Ano 4 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5VW",
-      "number": 2832,
-      "title": "[História] - Ano 4 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5ZE",
-      "number": 2833,
-      "title": "[História] - Ano 4 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5c_",
-      "number": 2834,
-      "title": "[História] - Ano 4 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM73r5gh",
-      "number": 2835,
-      "title": "[História] - Ano 4 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74lyvp",
-      "number": 2879,
-      "title": "[Bíblia] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ly33",
-      "number": 2880,
-      "title": "[Bíblia] - Ano 3 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mPdV",
-      "number": 2936,
-      "title": "[Geografia] - Ano 1 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mPmd",
-      "number": 2937,
-      "title": "[Geografia] - Ano 1 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mUM0",
-      "number": 2977,
-      "title": "[Geografia] - Ano 1 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mUWg",
-      "number": 2978,
-      "title": "[Geografia] - Ano 1 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mY1M",
-      "number": 3019,
-      "title": "[Geografia] - Ano 1 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74mY8o",
-      "number": 3020,
-      "title": "[Geografia] - Ano 1 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74of_E",
-      "number": 3182,
-      "title": "[Matemática] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ogH6",
-      "number": 3183,
-      "title": "[Matemática] - Ano 3 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ogQi",
-      "number": 3184,
-      "title": "[Matemática] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ogZS",
-      "number": 3185,
-      "title": "[Matemática] - Ano 3 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ogj3",
-      "number": 3186,
-      "title": "[Matemática] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ogtO",
-      "number": 3187,
-      "title": "[Matemática] - Ano 3 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74og3J",
-      "number": 3188,
-      "title": "[Matemática] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74ohA4",
-      "number": 3189,
-      "title": "[Matemática] - Ano 3 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74pu_-",
-      "number": 3191,
-      "title": "[Bíblia] - Ano 2 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74uqTP",
-      "number": 3216,
-      "title": "[Ciências] - Ano 3 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74uqXC",
-      "number": 3217,
-      "title": "[Ciências] - Ano 3 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74utjO",
-      "number": 3258,
-      "title": "[Ciências] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74uts0",
-      "number": 3259,
-      "title": "[Ciências] - Ano 3 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74uxKR",
-      "number": 3300,
-      "title": "[Ciências] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74uxRT",
-      "number": 3301,
-      "title": "[Ciências] - Ano 3 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74u0l6",
-      "number": 3342,
-      "title": "[Ciências] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74u0qU",
-      "number": 3343,
-      "title": "[Ciências] - Ano 3 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74v2LO",
-      "number": 3344,
-      "title": "[Português] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM74wdmV",
-      "number": 3346,
-      "title": "[Português] - Ano 3 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75Hnb6",
-      "number": 3349,
-      "title": "[Bíblia] - Ano 2 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75Hri8",
-      "number": 3352,
-      "title": "[Bíblia] - Ano 2 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75MV0C",
-      "number": 3361,
-      "title": "[Português] - Ano 2 - 10 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75Mdnk",
-      "number": 3370,
-      "title": "[Português] - Ano 2 - 20 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75MuFZ",
-      "number": 3379,
-      "title": "[Português] - Ano 2 - 30 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75Myfx",
-      "number": 3388,
-      "title": "[Português] - Ano 2 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75Piqf",
-      "number": 3390,
-      "title": "[Geografia] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM75PjKC",
-      "number": 3391,
-      "title": "[Geografia] - Ano 3 - 40 Provas",
       "reason": "title_out_of_pattern"
     },
     {
@@ -1166,90 +260,6 @@
       "id": "I_kwDOPFPmMM75oXtz",
       "number": 3399,
       "title": "[Geografia] - Ano 2- 4.3 Oceano (Update)",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HSEw",
-      "number": 3455,
-      "title": "[Matemática] - Ano 4 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HSG1",
-      "number": 3456,
-      "title": "[Matemática] - Ano 4 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HT5I",
-      "number": 3497,
-      "title": "[Matemática] - Ano 4 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HT63",
-      "number": 3498,
-      "title": "[Matemática] - Ano 4 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HVw1",
-      "number": 3539,
-      "title": "[Matemática] - Ano 4 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HVy3",
-      "number": 3540,
-      "title": "[Matemática] - Ano 4 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HfKM",
-      "number": 3582,
-      "title": "[Matemática] - Ano 4 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM76HfOw",
-      "number": 3583,
-      "title": "[Matemática] - Ano 4 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C5TN",
-      "number": 3601,
-      "title": "[Bíblia] - Ano 3 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C5YQ",
-      "number": 3602,
-      "title": "[Bíblia] - Ano 3 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C8i-",
-      "number": 3643,
-      "title": "[Bíblia] - Ano 3 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C8ph",
-      "number": 3644,
-      "title": "[Bíblia] - Ano 3 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C_hY",
-      "number": 3685,
-      "title": "[Bíblia] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77C_lx",
-      "number": 3686,
-      "title": "[Bíblia] - Ano 3 - 40 Provas",
       "reason": "title_out_of_pattern"
     },
     {
@@ -2021,78 +1031,6 @@
       "reason": "title_out_of_pattern"
     },
     {
-      "id": "I_kwDOPFPmMM77GRfL",
-      "number": 3858,
-      "title": "[Matemática] - Ano 5 - 9 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GRlu",
-      "number": 3859,
-      "title": "[Matemática] - Ano 5 - 10 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GUPB",
-      "number": 3900,
-      "title": "[Matemática] - Ano 5 - 19 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GUSw",
-      "number": 3901,
-      "title": "[Matemática] - Ano 5 - 20 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GXKx",
-      "number": 3942,
-      "title": "[Matemática] - Ano 5 - 29 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GXQi",
-      "number": 3943,
-      "title": "[Matemática] - Ano 5 - 30 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GZ4A",
-      "number": 3984,
-      "title": "[Matemática] - Ano 5 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM77GZ7Z",
-      "number": 3985,
-      "title": "[Matemática] - Ano 5 - 40 Provas",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM7782uv",
-      "number": 3998,
-      "title": "[Português] - Ano 3 - 29. Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM779-pe",
-      "number": 3999,
-      "title": "[Português] - Ano 3 - 30. Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM8AAAABAAnoUg",
-      "number": 4093,
-      "title": "[Português] - Ano 3 - 39 Revisão",
-      "reason": "title_out_of_pattern"
-    },
-    {
-      "id": "I_kwDOPFPmMM8AAAABAApsoQ",
-      "number": 4094,
-      "title": "[Português] - Ano 3 - 40 Prova",
-      "reason": "title_out_of_pattern"
-    },
-    {
       "id": "I_kwDOPFPmMM8AAAABAUI04Q",
       "number": 4103,
       "title": "[Geografia] - Ano 2 - 1.1 Geografia (update)",
@@ -2119,25 +1057,91 @@
     {
       "id": "I_kwDOPFPmMM8AAAABAUZmFQ",
       "number": 4107,
-      "title": "[Geografia] - Ano 2 - 2.1  (update)",
+      "title": "[Geografia] - Ano 2 - 2.1 Montanha (update)",
       "reason": "title_out_of_pattern"
     },
     {
       "id": "I_kwDOPFPmMM8AAAABAUZqdA",
       "number": 4108,
-      "title": "[Geografia] - Ano 2 - 2.2  (update)",
+      "title": "[Geografia] - Ano 2 - 2.2 Vale  (update)",
       "reason": "title_out_of_pattern"
     },
     {
       "id": "I_kwDOPFPmMM8AAAABAUZw2A",
       "number": 4109,
-      "title": "[Geografia] - Ano 2 - 2.3  (update)",
+      "title": "[Geografia] - Ano 2 - 2.3 Planície  (update)",
       "reason": "title_out_of_pattern"
     },
     {
       "id": "I_kwDOPFPmMM8AAAABAUZ4XQ",
       "number": 4110,
-      "title": "[Geografia] - Ano 2 - 2.4  (update)",
+      "title": "[Geografia] - Ano 2 - 2.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUcgiw",
+      "number": 4111,
+      "title": "[Geografia] - Ano 2 - 3.1 Planalto (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUcl1g",
+      "number": 4112,
+      "title": "[Geografia] - Ano 2 - 3.2 Deserto (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUcqoA",
+      "number": 4113,
+      "title": "[Geografia] - Ano 2 - 3.3 Floresta (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUc0-Q",
+      "number": 4114,
+      "title": "[Geografia] - Ano 2 - 3.4 Revisão  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUdLfg",
+      "number": 4115,
+      "title": "[Geografia] - Ano 2 - 4.1 Rio (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUdc3A",
+      "number": 4116,
+      "title": "[Geografia] - Ano 2 - 4.2 Lago (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUdlQg",
+      "number": 4117,
+      "title": "[Geografia] - Ano 2 - 4.3 Oceano (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUeyBQ",
+      "number": 4118,
+      "title": "[Geografia] - Ano 2 - 4.4 Revisão  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUfUIA",
+      "number": 4119,
+      "title": "[Geografia] - Ano 2 - 5.1  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUg9zg",
+      "number": 4120,
+      "title": "[Geografia] - Ano 2 - 5.2  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUhCPQ",
+      "number": 4121,
+      "title": "[Geografia] - Ano 2 - 5.3  (update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -2147,6 +1151,12 @@
       "discarded_number": 412,
       "canonical_key": "ciências|2|8.2|o ciclo da água",
       "title": "[Ciências] - Ano 2 - 8.2 O ciclo da água"
+    },
+    {
+      "kept_number": 425,
+      "discarded_number": 538,
+      "canonical_key": "ciências|2|10|prova",
+      "title": "[Ciências] - Ano 2 - 10 Prova"
     },
     {
       "kept_number": 879,
@@ -2207,6 +1217,12 @@
       "discarded_number": 2562,
       "canonical_key": "geografia|3|37.4|revisão",
       "title": "[Geografia] - Ano 3 - 37.4 Revisão"
+    },
+    {
+      "kept_number": 3401,
+      "discarded_number": 2575,
+      "canonical_key": "geografia|3|29|revisão",
+      "title": "[Geografia] - Ano 3 - 29 Revisão"
     },
     {
       "kept_number": 2579,
@@ -2277,8 +1293,8 @@
     {
       "kept_number": 2611,
       "discarded_number": 1713,
-      "canonical_key": "português|3|17.1|adjetivos e uso de -es  -esa",
-      "title": "[Português] - Ano 3 - 17.1 Adjetivos e uso de -ES  -ESA"
+      "canonical_key": "português|3|17.1|adjetivos e uso de -es -esa",
+      "title": "[Português] - Ano 3 - 17.1 Adjetivos e uso de -ES -ESA"
     },
     {
       "kept_number": 2612,
@@ -3848,6 +2864,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7XkFNy",
+      "number": 81,
+      "title": "[História] - Ano 2 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|2|9|revisão",
+      "created_at": "2025-11-12T13:25:48Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7XkGBG",
+      "number": 83,
+      "title": "[História] - Ano 2 - 10 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "história|2|10|provas",
+      "created_at": "2025-11-12T13:26:37Z",
+      "closed_at": "2025-12-16T12:49:51Z",
+      "lead_time_days": 33.974467592592596,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7XkI1C",
       "number": 85,
       "title": "[Ciências] - Ano 2 - 3.1 O arco de Deus e as cores da criação",
@@ -4978,6 +4028,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7XkmRD",
+      "number": 158,
+      "title": "[História] - Ano 2 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|2|19|revisão",
+      "created_at": "2025-11-12T14:00:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7Xkmtg",
+      "number": 159,
+      "title": "[História] - Ano 2 - 20 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "história|2|20|provas",
+      "created_at": "2025-11-12T14:01:21Z",
+      "closed_at": "2025-12-16T13:50:31Z",
+      "lead_time_days": 33.992476851851855,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7XknMA",
       "number": 160,
       "title": "[Ciências] - Ano 2 - 5.2 Composição da atmosfera",
@@ -5926,6 +5010,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7XlTWI",
+      "number": 222,
+      "title": "[Geografia] - Ano 2 - 9 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|2|9|revisão",
+      "created_at": "2025-11-12T14:47:26Z",
+      "closed_at": "2026-03-30T15:48:35Z",
+      "lead_time_days": 138.04246527777778,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7XlTZf",
       "number": 223,
       "title": "[História] - Ano 2 - 27.5 Provas",
@@ -6031,6 +5132,40 @@
       "created_at": "2025-11-12T14:51:54Z",
       "closed_at": "2026-01-14T18:58:40Z",
       "lead_time_days": 63.17136574074074,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7XlZAm",
+      "number": 230,
+      "title": "[História] - Ano 2 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|2|29|revisão",
+      "created_at": "2025-11-12T14:52:39Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7XlZ38",
+      "number": 231,
+      "title": "[História] - Ano 2 - 30 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "história|2|30|provas",
+      "created_at": "2025-11-12T14:53:22Z",
+      "closed_at": "2026-03-13T13:39:07Z",
+      "lead_time_days": 120.9484375,
       "labels": []
     },
     {
@@ -6196,6 +5331,23 @@
       "created_at": "2025-11-12T15:02:03Z",
       "closed_at": "2026-01-15T14:57:18Z",
       "lead_time_days": 63.99670138888889,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7Xljdr",
+      "number": 244,
+      "title": "[História] - Ano 2 - 32.5 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "32.5",
+      "lesson_title": "Provas",
+      "canonical_key": "história|2|32.5|provas",
+      "created_at": "2025-11-12T15:02:38Z",
+      "closed_at": "2026-03-13T13:43:40Z",
+      "lead_time_days": 120.94516203703704,
       "labels": []
     },
     {
@@ -6512,15 +5664,15 @@
     {
       "id": "I_kwDOPFPmMM7XnJmG",
       "number": 262,
-      "title": "[Bíblia] - Ano 2 - 1.3 Alegrar-se em Deus  para sempre",
+      "title": "[Bíblia] - Ano 2 - 1.3 Alegrar-se em Deus para sempre",
       "status": "Done/Published",
       "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Bíblia",
       "year": 2,
       "lesson_code": "1.3",
-      "lesson_title": "Alegrar-se em Deus  para sempre",
-      "canonical_key": "bíblia|2|1.3|alegrar-se em deus  para sempre",
+      "lesson_title": "Alegrar-se em Deus para sempre",
+      "canonical_key": "bíblia|2|1.3|alegrar-se em deus para sempre",
       "created_at": "2025-11-12T16:48:20Z",
       "closed_at": "2025-12-05T17:57:47Z",
       "lead_time_days": 23.048229166666665,
@@ -7276,6 +6428,40 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7XnpOc",
+      "number": 304,
+      "title": "[Ciências] - Ano 1 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|1|9|revisão",
+      "created_at": "2025-11-12T17:21:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7XnqH8",
+      "number": 309,
+      "title": "[Ciências] - Ano 1 - 10 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|1|10|provas",
+      "created_at": "2025-11-12T17:22:27Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7XoBOP",
       "number": 314,
       "title": "[Bíblia] - Ano 2 - 3.3 O dever que Deus requer do homem",
@@ -7346,6 +6532,23 @@
       "labels": [
         "Done"
       ]
+    },
+    {
+      "id": "I_kwDOPFPmMM7XoMCl",
+      "number": 322,
+      "title": "[Geografia] - Ano 2 - 10 Prova",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|2|10|prova",
+      "created_at": "2025-11-12T18:03:50Z",
+      "closed_at": "2026-01-06T17:33:11Z",
+      "lead_time_days": 54.97871527777778,
+      "labels": []
     },
     {
       "id": "I_kwDOPFPmMM7XoMQb",
@@ -8114,6 +7317,23 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7XpZxB",
+      "number": 369,
+      "title": "[Bíblia] - Ano 2 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|2|9|revisão",
+      "created_at": "2025-11-12T19:41:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7XpZ5Y",
       "number": 370,
       "title": "[Geografia] - Ano 2 - 15.4 Revisão",
@@ -8421,6 +7641,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7XqEet",
+      "number": 391,
+      "title": "[Geografia] - Ano 2 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|2|19|revisão",
+      "created_at": "2025-11-12T20:33:13Z",
+      "closed_at": "2026-03-30T16:00:00Z",
+      "lead_time_days": 137.8102662037037,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7XqHj_",
+      "number": 396,
+      "title": "[Geografia] - Ano 2 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|2|20|prova",
+      "created_at": "2025-11-12T20:37:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7Xsp08",
       "number": 401,
       "title": "[Ciências] - Ano 2 - 7.1 A água, presente de Deus",
@@ -8584,6 +7838,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7X0l-i",
+      "number": 416,
+      "title": "[Ciências] - Ano 2 - 9 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|2|9|revisão",
+      "created_at": "2025-11-13T11:51:22Z",
+      "closed_at": "2026-03-30T17:21:12Z",
+      "lead_time_days": 137.22905092592592,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7X0mQT",
       "number": 417,
       "title": "[Português] - Ano 3 - 1.2 Dígrafos vocálicos",
@@ -8620,6 +7891,23 @@
       "labels": [
         "Done"
       ]
+    },
+    {
+      "id": "I_kwDOPFPmMM7X0_XW",
+      "number": 425,
+      "title": "[Ciências] - Ano 2 - 10 Prova",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|2|10|prova",
+      "created_at": "2025-11-13T12:21:54Z",
+      "closed_at": "2026-01-06T14:33:31Z",
+      "lead_time_days": 54.091400462962966,
+      "labels": []
     },
     {
       "id": "I_kwDOPFPmMM7X1OSO",
@@ -9325,6 +8613,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|2|18.5|prova",
       "created_at": "2025-11-13T14:32:13Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X24OB",
+      "number": 489,
+      "title": "[Ciências] - Ano 2 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|2|19|revisão",
+      "created_at": "2025-11-13T14:33:42Z",
+      "closed_at": "2026-03-30T17:23:20Z",
+      "lead_time_days": 137.11780092592593,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X27li",
+      "number": 493,
+      "title": "[Ciências] - Ano 2 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|2|20|prova",
+      "created_at": "2025-11-13T14:37:17Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -10053,6 +9375,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|2|28.5|prova",
       "created_at": "2025-11-13T15:35:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X3wHa",
+      "number": 539,
+      "title": "[Ciências] - Ano 2 - 29 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|2|29|revisão",
+      "created_at": "2025-11-13T15:36:16Z",
+      "closed_at": "2026-03-30T17:25:54Z",
+      "lead_time_days": 137.07613425925925,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X4QQ0",
+      "number": 544,
+      "title": "[Ciências] - Ano 2 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|2|30|prova",
+      "created_at": "2025-11-13T16:10:07Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -10819,6 +10175,57 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7X41AU",
+      "number": 589,
+      "title": "[Ciências] - Ano 2 - 39 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|2|39|revisão",
+      "created_at": "2025-11-13T16:48:58Z",
+      "closed_at": "2026-03-30T17:30:16Z",
+      "lead_time_days": 137.02868055555555,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X423x",
+      "number": 594,
+      "title": "[Ciências] - Ano 2 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|2|40|prova",
+      "created_at": "2025-11-13T16:51:18Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7X6_Ok",
+      "number": 599,
+      "title": "[Bíblia] - Ano 2 - 10 Prova",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "bíblia|2|10|prova",
+      "created_at": "2025-11-13T19:42:17Z",
+      "closed_at": "2026-01-07T13:38:00Z",
+      "lead_time_days": 54.74702546296297,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7X7KHr",
       "number": 604,
       "title": "[Bíblia] - Ano 2 - 8.1 Deus sempre executa seus decretos",
@@ -11350,6 +10757,40 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7YSlY6",
+      "number": 633,
+      "title": "[História] - Ano 2 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|2|39|revisão",
+      "created_at": "2025-11-15T14:05:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7YSmFJ",
+      "number": 636,
+      "title": "[História] - Ano 2 - 40 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "história|2|40|provas",
+      "created_at": "2025-11-15T14:08:00Z",
+      "closed_at": "2026-03-13T14:47:50Z",
+      "lead_time_days": 118.02766203703703,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7YpiHq",
       "number": 637,
       "title": "[Belas Artes] - Ano 2 - 2.1 Arte nos primeiros dias",
@@ -11864,6 +11305,25 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7aFs1h",
+      "number": 677,
+      "title": "[Português] - Ano 3 - 4.1 Separação silábica",
+      "status": "Video",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "4.1",
+      "lesson_title": "Separação silábica",
+      "canonical_key": "português|3|4.1|separação silábica",
+      "created_at": "2025-11-24T13:34:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "In review"
+      ]
+    },
+    {
       "id": "I_kwDOPFPmMM7aGTrO",
       "number": 679,
       "title": "[Português] - Ano 3 - 4.2 Emprego de R e RR",
@@ -12325,6 +11785,40 @@
       "labels": [
         "In review"
       ]
+    },
+    {
+      "id": "I_kwDOPFPmMM7bDJb7",
+      "number": 713,
+      "title": "[Belas Artes] - Ano 2 - 9 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|2|9|revisão",
+      "created_at": "2025-11-28T14:01:48Z",
+      "closed_at": "2026-03-30T16:03:31Z",
+      "lead_time_days": 122.08452546296296,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7bDMQq",
+      "number": 714,
+      "title": "[Belas Artes] - Ano 2 - 10 Prova",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|2|10|prova",
+      "created_at": "2025-11-28T14:06:05Z",
+      "closed_at": "2026-01-07T16:00:54Z",
+      "lead_time_days": 40.079733796296296,
+      "labels": []
     },
     {
       "id": "I_kwDOPFPmMM7bEg6J",
@@ -13247,6 +12741,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|1|18.5|prova",
       "created_at": "2025-12-01T19:01:11Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7bfZ4J",
+      "number": 774,
+      "title": "[Ciências] - Ano 1 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|1|19|revisão",
+      "created_at": "2025-12-01T19:01:45Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7bfaCA",
+      "number": 775,
+      "title": "[Ciências] - Ano 1 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|1|20|provas",
+      "created_at": "2025-12-01T19:01:57Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -14925,6 +14453,40 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7fZIBD",
+      "number": 886,
+      "title": "[Belas Artes] - Ano 2 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|2|19|revisão",
+      "created_at": "2025-12-19T15:31:39Z",
+      "closed_at": "2026-03-30T16:38:24Z",
+      "lead_time_days": 101.04635416666666,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7fZIJZ",
+      "number": 887,
+      "title": "[Belas Artes] - Ano 2 - 20 Prova",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|2|20|prova",
+      "created_at": "2025-12-19T15:31:52Z",
+      "closed_at": "2026-01-07T16:35:06Z",
+      "lead_time_days": 19.043912037037035,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7faIzc",
       "number": 888,
       "title": "[Geografia] - Ano 2 - 23.1 Transporte terrestre",
@@ -15763,6 +15325,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7f01pE",
+      "number": 937,
+      "title": "[Geografia] - Ano 2 - 29 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|2|29|revisão",
+      "created_at": "2025-12-22T20:51:00Z",
+      "closed_at": "2026-03-30T17:34:00Z",
+      "lead_time_days": 97.86319444444445,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7f02I7",
+      "number": 938,
+      "title": "[Geografia] - Ano 2 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|2|30|prova",
+      "created_at": "2025-12-22T20:52:03Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7f9HNz",
       "number": 939,
       "title": "[Português] - Ano 2 - 6.1 Ponto final",
@@ -15999,6 +15595,40 @@
       "created_at": "2025-12-23T20:19:30Z",
       "closed_at": "2026-01-08T17:39:32Z",
       "lead_time_days": 15.888912037037038,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7gUvA4",
+      "number": 952,
+      "title": "[Matemática] - Ano 2 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|2|9|revisão",
+      "created_at": "2025-12-26T14:06:47Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7gUv4A",
+      "number": 953,
+      "title": "[Matemática] - Ano 2 - 10 Provas",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|2|10|provas",
+      "created_at": "2025-12-26T14:08:57Z",
+      "closed_at": "2026-01-08T18:00:53Z",
+      "lead_time_days": 13.161064814814814,
       "labels": []
     },
     {
@@ -16689,6 +16319,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|2|38.5|prova",
       "created_at": "2025-12-27T17:14:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7gaFG-",
+      "number": 994,
+      "title": "[Geografia] - Ano 2 - 39 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|2|39|revisão",
+      "created_at": "2025-12-27T17:16:44Z",
+      "closed_at": "2026-03-30T15:50:31Z",
+      "lead_time_days": 92.94012731481482,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7gaFTC",
+      "number": 995,
+      "title": "[Geografia] - Ano 2 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|2|40|prova",
+      "created_at": "2025-12-27T17:17:52Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -18160,6 +17824,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7iM0u2",
+      "number": 1076,
+      "title": "[Matemática] - Ano 2 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|2|19|revisão",
+      "created_at": "2026-01-09T00:40:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7iM15L",
+      "number": 1077,
+      "title": "[Matemática] - Ano 2 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|2|20|provas",
+      "created_at": "2026-01-09T00:42:29Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7iW-08",
       "number": 1078,
       "title": "[Ciências] - Ano 1 - 21.1 Manhã, tarde e noite",
@@ -18911,6 +18609,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|1|28.5|prova",
       "created_at": "2026-01-13T11:19:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7i_4Yn",
+      "number": 1122,
+      "title": "[Ciências] - Ano 1 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|1|29|revisão",
+      "created_at": "2026-01-13T11:20:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7i_47P",
+      "number": 1123,
+      "title": "[Ciências] - Ano 1 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|1|30|prova",
+      "created_at": "2026-01-13T11:21:14Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -20410,15 +20142,15 @@
     {
       "id": "I_kwDOPFPmMM7kwrGF",
       "number": 1207,
-      "title": "[Matemática] - Ano 2 - 31.1 Medindo as temperaturas (°C, °F,  K)",
+      "title": "[Matemática] - Ano 2 - 31.1 Medindo as temperaturas (°C, °F, K)",
       "status": "Video",
       "state": "OPEN",
       "assignee": "RickMitre",
       "subject": "Matemática",
       "year": 2,
       "lesson_code": "31.1",
-      "lesson_title": "Medindo as temperaturas (°C, °F,  K)",
-      "canonical_key": "matemática|2|31.1|medindo as temperaturas (°c, °f,  k)",
+      "lesson_title": "Medindo as temperaturas (°C, °F, K)",
+      "canonical_key": "matemática|2|31.1|medindo as temperaturas (°c, °f, k)",
       "created_at": "2026-01-21T12:10:49Z",
       "closed_at": null,
       "lead_time_days": null,
@@ -20662,6 +20394,25 @@
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7k1UuJ",
+      "number": 1222,
+      "title": "[História] - Ano 3 - 2.1 O grande cisma do Oriente",
+      "status": "Video",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "2.1",
+      "lesson_title": "O grande cisma do Oriente",
+      "canonical_key": "história|3|2.1|o grande cisma do oriente",
+      "created_at": "2026-01-21T17:01:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "In review"
+      ]
     },
     {
       "id": "I_kwDOPFPmMM7k1VNR",
@@ -21340,6 +21091,23 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7k2T0R",
+      "number": 1262,
+      "title": "[História] - Ano 3 - 9 Revisao",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisao",
+      "canonical_key": "história|3|9|revisao",
+      "created_at": "2026-01-21T18:11:31Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7k2UKQ",
       "number": 1263,
       "title": "[Matemática] - Ano 2 - 33.2 Valor posicional",
@@ -21357,6 +21125,23 @@
       "labels": [
         "In review"
       ]
+    },
+    {
+      "id": "I_kwDOPFPmMM7k2Us4",
+      "number": 1264,
+      "title": "[História] - Ano 3 - 10 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "história|3|10|provas",
+      "created_at": "2026-01-21T18:12:20Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
     },
     {
       "id": "I_kwDOPFPmMM7k2W3q",
@@ -22134,6 +21919,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7k3Mtq",
+      "number": 1310,
+      "title": "[História] - Ano 3 - 19 Revisao",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisao",
+      "canonical_key": "história|3|19|revisao",
+      "created_at": "2026-01-21T19:17:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7k3NBO",
+      "number": 1311,
+      "title": "[História] - Ano 3 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "história|3|20|provas",
+      "created_at": "2026-01-21T19:18:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7k3QHN",
       "number": 1312,
       "title": "[História] - Ano 3 - 21.1 O rei Henrique Vlll",
@@ -22852,6 +22671,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7lHVda",
+      "number": 1354,
+      "title": "[História] - Ano 3 - 29 Revisao",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisao",
+      "canonical_key": "história|3|29|revisao",
+      "created_at": "2026-01-22T17:16:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7lHV3i",
+      "number": 1355,
+      "title": "[História] - Ano 3 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "história|3|30|provas",
+      "created_at": "2026-01-22T17:16:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7lHWmb",
       "number": 1356,
       "title": "[História] - Ano 3 - 31.1 Os peregrinos da Inglaterra",
@@ -23532,6 +23385,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7lIBf7",
+      "number": 1396,
+      "title": "[História] - Ano 3 - 39 Revisao",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisao",
+      "canonical_key": "história|3|39|revisao",
+      "created_at": "2026-01-22T17:58:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7lIByC",
+      "number": 1397,
+      "title": "[História] - Ano 3 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "História",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "história|3|40|provas",
+      "created_at": "2026-01-22T17:58:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7lU12o",
       "number": 1398,
       "title": "[Matemática] - Ano 2 - 34.1 Maior que",
@@ -23919,6 +23806,40 @@
       "lesson_title": "Provas",
       "canonical_key": "matemática|2|36.5|provas",
       "created_at": "2026-01-23T19:06:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7la8xp",
+      "number": 1420,
+      "title": "[Belas Artes] - Ano 2 - 29 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|2|29|revisão",
+      "created_at": "2026-01-23T20:22:00Z",
+      "closed_at": "2026-03-30T17:12:34Z",
+      "lead_time_days": 65.86844907407408,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7la85j",
+      "number": 1421,
+      "title": "[Belas Artes] - Ano 2 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|2|30|prova",
+      "created_at": "2026-01-23T20:22:13Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -24443,6 +24364,74 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7ma5Nq",
+      "number": 1451,
+      "title": "[Matemática] - Ano 2 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|2|29|revisão",
+      "created_at": "2026-01-28T14:46:03Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7ma6po",
+      "number": 1452,
+      "title": "[Matemática] - Ano 2 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|2|30|provas",
+      "created_at": "2026-01-28T14:47:23Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7ma8en",
+      "number": 1453,
+      "title": "[Matemática] - Ano 2 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|2|39|revisão",
+      "created_at": "2026-01-28T14:48:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7ma-FF",
+      "number": 1454,
+      "title": "[Matemática] - Ano 2 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|2|40|provas",
+      "created_at": "2026-01-28T14:50:44Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7mbkPm",
       "number": 1455,
       "title": "[Português] - Ano 2 - 21.1 Verbo regular",
@@ -24749,6 +24738,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|3|8.5|prova",
       "created_at": "2026-01-29T18:42:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7myza0",
+      "number": 1472,
+      "title": "[Geografia] - Ano 3 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|3|9|revisão",
+      "created_at": "2026-01-29T18:43:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7my1GT",
+      "number": 1473,
+      "title": "[Geografia] - Ano 3 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|3|10|prova",
+      "created_at": "2026-01-29T18:45:26Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -26716,6 +26739,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7qORO9",
+      "number": 1585,
+      "title": "[Ciências] - Ano 1 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|1|39|revisão",
+      "created_at": "2026-02-12T03:01:08Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7qORlv",
+      "number": 1586,
+      "title": "[Ciências] - Ano 1 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Ciências",
+      "year": 1,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "ciências|1|40|prova",
+      "created_at": "2026-02-12T03:01:37Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7qp3eh",
       "number": 1587,
       "title": "[Português] - Ano 2 - 28.3 Predicado verbal",
@@ -27376,6 +27433,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7soKfN",
+      "number": 1625,
+      "title": "[Belas Artes] - Ano 2 - 39 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|2|39|revisão",
+      "created_at": "2026-02-20T19:03:58Z",
+      "closed_at": "2026-03-30T17:17:59Z",
+      "lead_time_days": 37.92640046296296,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7soKrY",
+      "number": 1626,
+      "title": "[Belas Artes] - Ano 2 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|2|40|prova",
+      "created_at": "2026-02-20T19:04:09Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7soQTw",
       "number": 1627,
       "title": "[Português] - Ano 2 - 36.1 Linguagem denotativa",
@@ -27912,6 +28003,23 @@
       "lesson_title": "Prova",
       "canonical_key": "bíblia|2|18.5|prova",
       "created_at": "2026-03-03T14:47:52Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7vcEG0",
+      "number": 1660,
+      "title": "[Bíblia] - Ano 2 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|2|19|revisão",
+      "created_at": "2026-03-03T14:51:13Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -29770,6 +29878,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7xKMmK",
+      "number": 1789,
+      "title": "[Bíblia] - Ano 2 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|2|39|revisão",
+      "created_at": "2026-03-09T14:36:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7xKNGz",
+      "number": 1790,
+      "title": "[Bíblia] - Ano 2 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "bíblia|2|40|prova",
+      "created_at": "2026-03-09T14:37:18Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7xKPhY",
       "number": 1791,
       "title": "[Ciências] - Ano 3 - 3.1 Universo e componentes",
@@ -29844,6 +29986,23 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM7xN5wG",
+      "number": 1795,
+      "title": "[Português] - Ano 2 - 9 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|2|9|revisão",
+      "created_at": "2026-03-09T17:36:14Z",
+      "closed_at": "2026-03-30T16:54:55Z",
+      "lead_time_days": 20.97130787037037,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7xOL6V",
       "number": 1796,
       "title": "[Português] - Ano 2 - 17.4 Revisão",
@@ -29892,6 +30051,23 @@
       "created_at": "2026-03-09T18:36:07Z",
       "closed_at": "2026-03-12T17:40:34Z",
       "lead_time_days": 2.961423611111111,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7xQgQL",
+      "number": 1799,
+      "title": "[Português] - Ano 2 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|2|19|revisão",
+      "created_at": "2026-03-09T20:03:35Z",
+      "closed_at": "2026-03-30T17:02:49Z",
+      "lead_time_days": 20.87446759259259,
       "labels": []
     },
     {
@@ -30455,6 +30631,23 @@
       "created_at": "2026-03-11T19:42:53Z",
       "closed_at": "2026-03-12T13:50:05Z",
       "lead_time_days": 0.755,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7yB5ua",
+      "number": 1837,
+      "title": "[Português] - Ano 2 - 29 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|2|29|revisão",
+      "created_at": "2026-03-11T20:47:17Z",
+      "closed_at": "2026-03-30T17:05:51Z",
+      "lead_time_days": 18.846226851851853,
       "labels": []
     },
     {
@@ -31099,6 +31292,40 @@
       "lesson_title": "Prova",
       "canonical_key": "matemática|1|8.5|prova",
       "created_at": "2026-03-12T19:13:29Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7yZYdo",
+      "number": 1876,
+      "title": "[Matemática] - Ano 1 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|1|9|revisão",
+      "created_at": "2026-03-12T19:22:01Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7yZdwr",
+      "number": 1877,
+      "title": "[Matemática] - Ano 1 - 10 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|1|10|provas",
+      "created_at": "2026-03-12T19:26:16Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -32073,6 +32300,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7yybPc",
+      "number": 1939,
+      "title": "[Português] - Ano 2 - 39 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|2|39|revisão",
+      "created_at": "2026-03-13T20:39:32Z",
+      "closed_at": "2026-03-30T17:08:44Z",
+      "lead_time_days": 16.85361111111111,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7zB--r",
       "number": 1940,
       "title": "[Belas Artes] - Ano 3 - 7.1 Destruição dos ícones",
@@ -32226,6 +32470,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7zCK-h",
+      "number": 1950,
+      "title": "[Belas Artes] - Ano 3 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|3|9|revisão",
+      "created_at": "2026-03-15T02:55:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7zCLCV",
+      "number": 1951,
+      "title": "[Belas Artes] - Ano 3 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|3|10|prova",
+      "created_at": "2026-03-15T02:56:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM7zCLHj",
       "number": 1952,
       "title": "[Belas Artes] - Ano 3 - 11.1 Arte Islâmica e as formas de arte",
@@ -32306,6 +32584,40 @@
       "lesson_title": "Provas",
       "canonical_key": "belas artes|3|11.5|provas",
       "created_at": "2026-03-15T02:57:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7zCLZi",
+      "number": 1957,
+      "title": "[Belas Artes] - Ano 1 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 1,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|1|9|revisão",
+      "created_at": "2026-03-15T02:57:17Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7zCLcv",
+      "number": 1958,
+      "title": "[Belas Artes] - Ano 1 - 10 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 1,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|1|10|prova",
+      "created_at": "2026-03-15T02:57:26Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -32901,6 +33213,40 @@
       "lesson_title": "Prova",
       "canonical_key": "matemática|1|18.5|prova",
       "created_at": "2026-03-19T17:52:49Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM70kxs5",
+      "number": 2024,
+      "title": "[Matemática] - Ano 1 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|1|19|revisão",
+      "created_at": "2026-03-19T17:55:11Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM70k0xY",
+      "number": 2025,
+      "title": "[Matemática] - Ano 1 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|1|20|provas",
+      "created_at": "2026-03-19T17:57:41Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -33586,6 +33932,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM7033ve",
+      "number": 2068,
+      "title": "[Matemática] - Ano 1 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|1|29|revisão",
+      "created_at": "2026-03-20T14:40:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7039rL",
+      "number": 2069,
+      "title": "[Matemática] - Ano 1 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|1|30|provas",
+      "created_at": "2026-03-20T14:44:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM71r7tA",
       "number": 2070,
       "title": "[Matemática] - Ano 1 - 31.1 Medindo as temperaturas (°C / °F / K)",
@@ -34249,6 +34629,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM71vTrP",
+      "number": 2110,
+      "title": "[Matemática] - Ano 1 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|1|39|revisão",
+      "created_at": "2026-03-23T18:27:01Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM71vZ7K",
+      "number": 2111,
+      "title": "[Matemática] - Ano 1 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 1,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|1|40|provas",
+      "created_at": "2026-03-23T18:30:47Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM72DEqr",
       "number": 2114,
       "title": "[Geografia] - Ano 1 - 2.3 Distância",
@@ -34827,6 +35241,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM72HM6Y",
+      "number": 2148,
+      "title": "[Geografia] - Ano 1 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|1|9|revisão",
+      "created_at": "2026-03-24T16:13:24Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72HP5j",
+      "number": 2150,
+      "title": "[Geografia] - Ano 1 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|1|10|prova",
+      "created_at": "2026-03-24T16:15:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM72LkSK",
       "number": 2152,
       "title": "[Geografia] - Ano 1 - 11.1 Casa",
@@ -35264,6 +35712,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|3|18.5|prova",
       "created_at": "2026-03-25T13:41:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72mIZ7",
+      "number": 2179,
+      "title": "[Geografia] - Ano 3 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|3|19|revisão",
+      "created_at": "2026-03-25T17:31:36Z",
+      "closed_at": "2026-04-22T12:22:57Z",
+      "lead_time_days": 27.78565972222222,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72mJri",
+      "number": 2180,
+      "title": "[Geografia] - Ano 3 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "geografia|3|20|prova",
+      "created_at": "2026-03-25T17:32:27Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -36629,6 +37111,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM72ovb0",
+      "number": 2263,
+      "title": "[Belas Artes] - Ano 1 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 1,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|1|29|revisão",
+      "created_at": "2026-03-25T19:14:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72ovj5",
+      "number": 2264,
+      "title": "[Belas Artes] - Ano 1 - 30 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 1,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|1|30|prova",
+      "created_at": "2026-03-25T19:15:03Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM72ovth",
       "number": 2265,
       "title": "[Belas Artes] - Ano 1 - 31.1 Céu e esperança",
@@ -37270,6 +37786,40 @@
       "lesson_title": "Provas",
       "canonical_key": "belas artes|3|18.5|provas",
       "created_at": "2026-03-25T21:01:26Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72rIm9",
+      "number": 2303,
+      "title": "[Belas Artes] - Ano 3 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|3|19|revisão",
+      "created_at": "2026-03-25T21:01:31Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72rIwX",
+      "number": 2304,
+      "title": "[Belas Artes] - Ano 3 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|3|20|prova",
+      "created_at": "2026-03-25T21:01:36Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -37955,6 +38505,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM72rN2z",
+      "number": 2345,
+      "title": "[Belas Artes] - Ano 3 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|3|29|revisão",
+      "created_at": "2026-03-25T21:05:05Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72rOAa",
+      "number": 2346,
+      "title": "[Belas Artes] - Ano 3 - 30 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|3|30|prova",
+      "created_at": "2026-03-25T21:05:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM72rOHo",
       "number": 2347,
       "title": "[Belas Artes] - Ano 3 - 31.1 Renascimento do Norte",
@@ -38601,6 +39185,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM72rT1D",
+      "number": 2385,
+      "title": "[Belas Artes] - Ano 3 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "belas artes|3|39|revisão",
+      "created_at": "2026-03-25T21:08:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM72rT7y",
+      "number": 2386,
+      "title": "[Belas Artes] - Ano 3 - 40 Prova",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Italo-bibline",
+      "subject": "Belas Artes",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "belas artes|3|40|prova",
+      "created_at": "2026-03-25T21:08:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM728msy",
       "number": 2387,
       "title": "[Geografia] - Ano 3 - 21.1 Intemperismo",
@@ -39043,6 +39661,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM73AXhe",
+      "number": 2414,
+      "title": "[Ciências] - Ano 4 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|4|9|revisão",
+      "created_at": "2026-03-26T13:41:12Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73AXoR",
+      "number": 2415,
+      "title": "[Ciências] - Ano 4 - 10 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|4|10|provas",
+      "created_at": "2026-03-26T13:41:14Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM73AXwK",
       "number": 2416,
       "title": "[Ciências] - Ano 4 - 11.1 Tipos de reações",
@@ -39446,6 +40098,40 @@
       "lesson_title": "Ciclo das Rochas",
       "canonical_key": "ciências|4|18.3|ciclo das rochas",
       "created_at": "2026-03-26T13:42:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73AZhC",
+      "number": 2440,
+      "title": "[Ciências] - Ano 4 - 19 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|4|19|revisão",
+      "created_at": "2026-03-26T13:42:01Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73AZnX",
+      "number": 2441,
+      "title": "[Ciências] - Ano 4 - 20 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|4|20|provas",
+      "created_at": "2026-03-26T13:42:03Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -39859,6 +40545,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM73Abdg",
+      "number": 2466,
+      "title": "[Ciências] - Ano 4 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|4|29|revisão",
+      "created_at": "2026-03-26T13:42:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73AbhW",
+      "number": 2467,
+      "title": "[Ciências] - Ano 4 - 30 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|4|30|provas",
+      "created_at": "2026-03-26T13:42:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM73AbmB",
       "number": 2468,
       "title": "[Ciências] - Ano 4 - 31.1 O cinto de asteroides",
@@ -40262,6 +40982,40 @@
       "lesson_title": "Astronomia",
       "canonical_key": "ciências|4|38.3|astronomia",
       "created_at": "2026-03-26T13:43:39Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73Adcl",
+      "number": 2492,
+      "title": "[Ciências] - Ano 4 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|4|39|revisão",
+      "created_at": "2026-03-26T13:43:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73Adhe",
+      "number": 2493,
+      "title": "[Ciências] - Ano 4 - 40 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "leticiaoliveira09",
+      "subject": "Ciências",
+      "year": 4,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|4|40|provas",
+      "created_at": "2026-03-26T13:43:43Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -41661,6 +42415,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM73C__A",
+      "number": 2581,
+      "title": "[Português] - Ano 3 - 9 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|3|9|revisão",
+      "created_at": "2026-03-26T14:57:54Z",
+      "closed_at": "2026-04-15T17:18:42Z",
+      "lead_time_days": 20.09777777777778,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM73GhJX",
       "number": 2582,
       "title": "[Português] - Ano 3 - 11.4 Revisão",
@@ -41877,6 +42648,23 @@
       "lesson_title": "Prova",
       "canonical_key": "português|3|13.5|prova",
       "created_at": "2026-03-26T18:41:32Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM73JpAi",
+      "number": 2595,
+      "title": "[Português] - Ano 3 - 10 . Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": ". Prova",
+      "canonical_key": "português|3|10|. prova",
+      "created_at": "2026-03-26T18:45:31Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -42139,15 +42927,15 @@
     {
       "id": "I_kwDOPFPmMM73q-Co",
       "number": 2611,
-      "title": "[Português] - Ano 3 - 17.1 Adjetivos e uso de -ES  -ESA",
+      "title": "[Português] - Ano 3 - 17.1 Adjetivos e uso de -ES -ESA",
       "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Português",
       "year": 3,
       "lesson_code": "17.1",
-      "lesson_title": "Adjetivos e uso de -ES  -ESA",
-      "canonical_key": "português|3|17.1|adjetivos e uso de -es  -esa",
+      "lesson_title": "Adjetivos e uso de -ES -ESA",
+      "canonical_key": "português|3|17.1|adjetivos e uso de -es -esa",
       "created_at": "2026-03-27T19:01:37Z",
       "closed_at": null,
       "lead_time_days": null,
@@ -45371,6 +46159,166 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM73r5F2",
+      "number": 2828,
+      "title": "[História] - Ano 4 - 9 Revisão",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|4|9|revisão",
+      "created_at": "2026-03-27T19:41:37Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5JR",
+      "number": 2829,
+      "title": "[História] - Ano 4 - 10 Prova",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "história|4|10|prova",
+      "created_at": "2026-03-27T19:41:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5M_",
+      "number": 2830,
+      "title": "[História] - Ano 4 - 19 Revisão",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|4|19|revisão",
+      "created_at": "2026-03-27T19:41:43Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5Q1",
+      "number": 2831,
+      "title": "[História] - Ano 4 - 20 Prova",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "história|4|20|prova",
+      "created_at": "2026-03-27T19:41:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5VW",
+      "number": 2832,
+      "title": "[História] - Ano 4 - 29 Revisão",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|4|29|revisão",
+      "created_at": "2026-03-27T19:41:50Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5ZE",
+      "number": 2833,
+      "title": "[História] - Ano 4 - 30 Prova",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "história|4|30|prova",
+      "created_at": "2026-03-27T19:41:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5c_",
+      "number": 2834,
+      "title": "[História] - Ano 4 - 39 Revisão",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "história|4|39|revisão",
+      "created_at": "2026-03-27T19:41:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM73r5gh",
+      "number": 2835,
+      "title": "[História] - Ano 4 - 40 Prova",
+      "status": "In Progress",
+      "state": "OPEN",
+      "assignee": "larigueiros",
+      "subject": "História",
+      "year": 4,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "história|4|40|prova",
+      "created_at": "2026-03-27T19:41:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "história",
+        "ano 4"
+      ]
+    },
+    {
       "id": "I_kwDOPFPmMM73r7sn",
       "number": 2836,
       "title": "[Português] - Ano 3 - 17.3 O grau superlativo dos adjetivos",
@@ -46102,6 +47050,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM74lyvp",
+      "number": 2879,
+      "title": "[Bíblia] - Ano 3 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|3|9|revisão",
+      "created_at": "2026-03-30T13:14:13Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ly33",
+      "number": 2880,
+      "title": "[Bíblia] - Ano 3 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "bíblia|3|10|prova",
+      "created_at": "2026-03-30T13:14:18Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM74ly_X",
       "number": 2881,
       "title": "[Bíblia] - Ano 3 - 11.1 Onde está a lei moral",
@@ -46632,7 +47614,7 @@
       "id": "I_kwDOPFPmMM74mNNu",
       "number": 2917,
       "title": "[Geografia] - Ano 1 - 15.2 Cadernos e materiais",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -46649,7 +47631,7 @@
       "id": "I_kwDOPFPmMM74mNUe",
       "number": 2918,
       "title": "[Geografia] - Ano 1 - 15.3 Lugar de guardar",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -46666,8 +47648,8 @@
       "id": "I_kwDOPFPmMM74mNbu",
       "number": 2919,
       "title": "[Geografia] - Ano 1 - 15.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -46675,8 +47657,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|15.4|revisão",
       "created_at": "2026-03-30T13:30:06Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T13:51:40Z",
+      "lead_time_days": 24.014976851851852,
       "labels": []
     },
     {
@@ -46700,7 +47682,7 @@
       "id": "I_kwDOPFPmMM74mNq8",
       "number": 2921,
       "title": "[Geografia] - Ano 1 - 16.1 Objetos naturais",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -46947,6 +47929,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|1|18.5|prova",
       "created_at": "2026-03-30T13:31:12Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mPdV",
+      "number": 2936,
+      "title": "[Geografia] - Ano 1 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|1|19|revisão",
+      "created_at": "2026-03-30T13:31:17Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mPmd",
+      "number": 2937,
+      "title": "[Geografia] - Ano 1 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "geografia|1|20|provas",
+      "created_at": "2026-03-30T13:31:21Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -47610,6 +48626,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|1|28.5|prova",
       "created_at": "2026-03-30T13:34:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mUM0",
+      "number": 2977,
+      "title": "[Geografia] - Ano 1 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|1|29|revisão",
+      "created_at": "2026-03-30T13:34:04Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mUWg",
+      "number": 2978,
+      "title": "[Geografia] - Ano 1 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "geografia|1|30|provas",
+      "created_at": "2026-03-30T13:34:08Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -48290,6 +49340,40 @@
       "lesson_title": "Prova",
       "canonical_key": "geografia|1|38.5|prova",
       "created_at": "2026-03-30T13:36:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mY1M",
+      "number": 3019,
+      "title": "[Geografia] - Ano 1 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|1|39|revisão",
+      "created_at": "2026-03-30T13:36:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74mY8o",
+      "number": 3020,
+      "title": "[Geografia] - Ano 1 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 1,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "geografia|1|40|provas",
+      "created_at": "2026-03-30T13:37:00Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -50998,6 +52082,142 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM74of_E",
+      "number": 3182,
+      "title": "[Matemática] - Ano 3 - 9 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|3|9|revisão",
+      "created_at": "2026-03-30T14:44:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ogH6",
+      "number": 3183,
+      "title": "[Matemática] - Ano 3 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "matemática|3|10|prova",
+      "created_at": "2026-03-30T14:44:42Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ogQi",
+      "number": 3184,
+      "title": "[Matemática] - Ano 3 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|3|19|revisão",
+      "created_at": "2026-03-30T14:44:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ogZS",
+      "number": 3185,
+      "title": "[Matemática] - Ano 3 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "matemática|3|20|prova",
+      "created_at": "2026-03-30T14:44:50Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ogj3",
+      "number": 3186,
+      "title": "[Matemática] - Ano 3 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|3|29|revisão",
+      "created_at": "2026-03-30T14:44:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ogtO",
+      "number": 3187,
+      "title": "[Matemática] - Ano 3 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "matemática|3|30|prova",
+      "created_at": "2026-03-30T14:44:58Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74og3J",
+      "number": 3188,
+      "title": "[Matemática] - Ano 3 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|3|39|revisão",
+      "created_at": "2026-03-30T14:45:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74ohA4",
+      "number": 3189,
+      "title": "[Matemática] - Ano 3 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Matemática",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "matemática|3|40|prova",
+      "created_at": "2026-03-30T14:45:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM74phZj",
       "number": 3190,
       "title": "[Português] - Ano 3 - 18.2 Verbos regulares no presente",
@@ -51010,6 +52230,23 @@
       "lesson_title": "Verbos regulares no presente",
       "canonical_key": "português|3|18.2|verbos regulares no presente",
       "created_at": "2026-03-30T15:17:31Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74pu_-",
+      "number": 3191,
+      "title": "[Bíblia] - Ano 2 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|2|29|revisão",
+      "created_at": "2026-03-30T15:25:04Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -51418,6 +52655,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|3|8.5|prova",
       "created_at": "2026-03-30T18:13:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74uqTP",
+      "number": 3216,
+      "title": "[Ciências] - Ano 3 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|3|9|revisão",
+      "created_at": "2026-03-30T18:13:09Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74uqXC",
+      "number": 3217,
+      "title": "[Ciências] - Ano 3 - 10 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|3|10|provas",
+      "created_at": "2026-03-30T18:13:12Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -52103,6 +53374,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM74utjO",
+      "number": 3258,
+      "title": "[Ciências] - Ano 3 - 19 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|3|19|revisão",
+      "created_at": "2026-03-30T18:15:21Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74uts0",
+      "number": 3259,
+      "title": "[Ciências] - Ano 3 - 20 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|3|20|provas",
+      "created_at": "2026-03-30T18:15:25Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM74utwr",
       "number": 3260,
       "title": "[Ciências] - Ano 3 - 21.1 Vida dos mamíferos",
@@ -52778,6 +54083,40 @@
       "lesson_title": "Prova",
       "canonical_key": "ciências|3|28.5|prova",
       "created_at": "2026-03-30T18:17:36Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74uxKR",
+      "number": 3300,
+      "title": "[Ciências] - Ano 3 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|3|29|revisão",
+      "created_at": "2026-03-30T18:17:39Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74uxRT",
+      "number": 3301,
+      "title": "[Ciências] - Ano 3 - 30 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|3|30|provas",
+      "created_at": "2026-03-30T18:17:41Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -53463,6 +54802,57 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM74u0l6",
+      "number": 3342,
+      "title": "[Ciências] - Ano 3 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "ciências|3|39|revisão",
+      "created_at": "2026-03-30T18:19:50Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74u0qU",
+      "number": 3343,
+      "title": "[Ciências] - Ano 3 - 40 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "GabrielaRoma",
+      "subject": "Ciências",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "ciências|3|40|provas",
+      "created_at": "2026-03-30T18:19:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74v2LO",
+      "number": 3344,
+      "title": "[Português] - Ano 3 - 19 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|3|19|revisão",
+      "created_at": "2026-03-30T18:58:22Z",
+      "closed_at": "2026-04-16T18:13:46Z",
+      "lead_time_days": 16.96902777777778,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM74wBgF",
       "number": 3345,
       "title": "[Português] - Ano 3 - 18.5 Prova",
@@ -53475,6 +54865,23 @@
       "lesson_title": "Prova",
       "canonical_key": "português|3|18.5|prova",
       "created_at": "2026-03-30T19:05:46Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM74wdmV",
+      "number": 3346,
+      "title": "[Português] - Ano 3 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "português|3|20|prova",
+      "created_at": "2026-03-30T19:22:00Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -53514,6 +54921,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM75Hnb6",
+      "number": 3349,
+      "title": "[Bíblia] - Ano 2 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "bíblia|2|30|prova",
+      "created_at": "2026-03-31T14:04:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM75Ho90",
       "number": 3350,
       "title": "[Bíblia] - Ano 2 - 32.5 Prova",
@@ -53543,6 +54967,23 @@
       "lesson_title": "Prova",
       "canonical_key": "bíblia|2|14.5|prova",
       "created_at": "2026-03-31T14:06:16Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75Hri8",
+      "number": 3352,
+      "title": "[Bíblia] - Ano 2 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "bíblia|2|20|prova",
+      "created_at": "2026-03-31T14:06:46Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -53684,6 +55125,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM75MV0C",
+      "number": 3361,
+      "title": "[Português] - Ano 2 - 10 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "10",
+      "lesson_title": "Prova",
+      "canonical_key": "português|2|10|prova",
+      "created_at": "2026-03-31T16:52:45Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM75MXeD",
       "number": 3362,
       "title": "[Português] - Ano 2 - 11.5 Prova",
@@ -53815,6 +55273,23 @@
       "lesson_title": "Prova",
       "canonical_key": "português|2|18.5|prova",
       "created_at": "2026-03-31T16:56:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75Mdnk",
+      "number": 3370,
+      "title": "[Português] - Ano 2 - 20 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "20",
+      "lesson_title": "Prova",
+      "canonical_key": "português|2|20|prova",
+      "created_at": "2026-03-31T16:56:39Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -53956,6 +55431,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM75MuFZ",
+      "number": 3379,
+      "title": "[Português] - Ano 2 - 30 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "30",
+      "lesson_title": "Prova",
+      "canonical_key": "português|2|30|prova",
+      "created_at": "2026-03-31T17:05:34Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM75Muig",
       "number": 3380,
       "title": "[Português] - Ano 2 - 31.5 Prova",
@@ -54092,6 +55584,23 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM75Myfx",
+      "number": 3388,
+      "title": "[Português] - Ano 2 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "português|2|40|prova",
+      "created_at": "2026-03-31T17:08:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM75OPGQ",
       "number": 3389,
       "title": "[Bíblia] - Ano 2 - 14.4 Revisão",
@@ -54104,6 +55613,40 @@
       "lesson_title": "Revisão",
       "canonical_key": "bíblia|2|14.4|revisão",
       "created_at": "2026-03-31T18:02:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75Piqf",
+      "number": 3390,
+      "title": "[Geografia] - Ano 3 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|3|39|revisão",
+      "created_at": "2026-03-31T18:59:43Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75PjKC",
+      "number": 3391,
+      "title": "[Geografia] - Ano 3 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "geografia|3|40|provas",
+      "created_at": "2026-03-31T19:00:02Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -54189,6 +55732,40 @@
       "lesson_title": "Advérbios de tempo modo e lugar",
       "canonical_key": "português|3|22.1|advérbios de tempo modo e lugar",
       "created_at": "2026-04-01T17:33:11Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75q04p",
+      "number": 3401,
+      "title": "[Geografia] - Ano 3 - 29 Revisão",
+      "status": "Done/Published",
+      "state": "CLOSED",
+      "assignee": "Fabiomorais87",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "geografia|3|29|revisão",
+      "created_at": "2026-04-01T17:43:51Z",
+      "closed_at": "2026-04-22T17:30:05Z",
+      "lead_time_days": 20.990439814814813,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM75q2Xm",
+      "number": 3402,
+      "title": "[Geografia] - Ano 3 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Geografia",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "geografia|3|30|provas",
+      "created_at": "2026-04-01T17:44:58Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -55238,6 +56815,48 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM76HSEw",
+      "number": 3455,
+      "title": "[Matemática] - Ano 4 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|4|9|revisão",
+      "created_at": "2026-04-02T18:19:54Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HSG1",
+      "number": 3456,
+      "title": "[Matemática] - Ano 4 - 10 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|4|10|provas",
+      "created_at": "2026-04-02T18:19:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
       "id": "I_kwDOPFPmMM76HSKL",
       "number": 3457,
       "title": "[Matemática] - Ano 4 - 11.1 Como multiplicação e divisão se ajudam",
@@ -56078,6 +57697,48 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM76HT5I",
+      "number": 3497,
+      "title": "[Matemática] - Ano 4 - 19 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "Unassigned",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|4|19|revisão",
+      "created_at": "2026-04-02T18:21:26Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HT63",
+      "number": 3498,
+      "title": "[Matemática] - Ano 4 - 20 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|4|20|provas",
+      "created_at": "2026-04-02T18:21:28Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
       "id": "I_kwDOPFPmMM76HT9X",
       "number": 3499,
       "title": "[Matemática] - Ano 4 - 21.1 Ponto, reta e segmento",
@@ -56909,6 +58570,48 @@
       "lesson_title": "Prova",
       "canonical_key": "matemática|4|28.5|prova",
       "created_at": "2026-04-02T18:22:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVw1",
+      "number": 3539,
+      "title": "[Matemática] - Ano 4 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|4|29|revisão",
+      "created_at": "2026-04-02T18:22:59Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HVy3",
+      "number": 3540,
+      "title": "[Matemática] - Ano 4 - 30 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|4|30|provas",
+      "created_at": "2026-04-02T18:23:01Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": [
@@ -57775,6 +59478,48 @@
       ]
     },
     {
+      "id": "I_kwDOPFPmMM76HfKM",
+      "number": 3582,
+      "title": "[Matemática] - Ano 4 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|4|39|revisão",
+      "created_at": "2026-04-02T18:31:00Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
+      "id": "I_kwDOPFPmMM76HfOw",
+      "number": 3583,
+      "title": "[Matemática] - Ano 4 - 40 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "deborafeijo-gif",
+      "subject": "Matemática",
+      "year": 4,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|4|40|provas",
+      "created_at": "2026-04-02T18:31:02Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": [
+        "ano:4",
+        "matematica",
+        "status:backlog"
+      ]
+    },
+    {
       "id": "I_kwDOPFPmMM76Hypf",
       "number": 3584,
       "title": "[Português] - Ano 3 - 24.4 Revisão",
@@ -58059,6 +59804,40 @@
       "lesson_title": "Provas",
       "canonical_key": "bíblia|3|18.5|provas",
       "created_at": "2026-04-06T13:15:53Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77C5TN",
+      "number": 3601,
+      "title": "[Bíblia] - Ano 3 - 19 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|3|19|revisão",
+      "created_at": "2026-04-06T13:15:56Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77C5YQ",
+      "number": 3602,
+      "title": "[Bíblia] - Ano 3 - 20 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "bíblia|3|20|provas",
+      "created_at": "2026-04-06T13:16:01Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -58744,6 +60523,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM77C8i-",
+      "number": 3643,
+      "title": "[Bíblia] - Ano 3 - 29 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|3|29|revisão",
+      "created_at": "2026-04-06T13:18:37Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77C8ph",
+      "number": 3644,
+      "title": "[Bíblia] - Ano 3 - 30 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "bíblia|3|30|provas",
+      "created_at": "2026-04-06T13:18:40Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM77C8tQ",
       "number": 3645,
       "title": "[Bíblia] - Ano 3 - 31.1 O quarto mandamento",
@@ -59419,6 +61232,40 @@
       "lesson_title": "Provas",
       "canonical_key": "bíblia|3|38.5|provas",
       "created_at": "2026-04-06T13:21:10Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77C_hY",
+      "number": 3685,
+      "title": "[Bíblia] - Ano 3 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "bíblia|3|39|revisão",
+      "created_at": "2026-04-06T13:21:14Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77C_lx",
+      "number": 3686,
+      "title": "[Bíblia] - Ano 3 - 40 Provas",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Bíblia",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "bíblia|3|40|provas",
+      "created_at": "2026-04-06T13:21:18Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -60155,6 +62002,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM77GRfL",
+      "number": 3858,
+      "title": "[Matemática] - Ano 5 - 9 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "9",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|5|9|revisão",
+      "created_at": "2026-04-06T16:16:15Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77GRlu",
+      "number": 3859,
+      "title": "[Matemática] - Ano 5 - 10 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "10",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|5|10|provas",
+      "created_at": "2026-04-06T16:16:19Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM77GRrc",
       "number": 3860,
       "title": "[Matemática] - Ano 5 - 11.1 Números primos e compostos",
@@ -60830,6 +62711,40 @@
       "lesson_title": "Provas",
       "canonical_key": "matemática|5|18.5|provas",
       "created_at": "2026-04-06T16:18:51Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77GUPB",
+      "number": 3900,
+      "title": "[Matemática] - Ano 5 - 19 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "19",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|5|19|revisão",
+      "created_at": "2026-04-06T16:18:55Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77GUSw",
+      "number": 3901,
+      "title": "[Matemática] - Ano 5 - 20 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "20",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|5|20|provas",
+      "created_at": "2026-04-06T16:18:58Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -61515,6 +63430,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM77GXKx",
+      "number": 3942,
+      "title": "[Matemática] - Ano 5 - 29 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "29",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|5|29|revisão",
+      "created_at": "2026-04-06T16:21:38Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77GXQi",
+      "number": 3943,
+      "title": "[Matemática] - Ano 5 - 30 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "30",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|5|30|provas",
+      "created_at": "2026-04-06T16:21:41Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM77GXUc",
       "number": 3944,
       "title": "[Matemática] - Ano 5 - 31.1 Introdução ao pensamento algébrico",
@@ -62195,6 +64144,40 @@
       "labels": []
     },
     {
+      "id": "I_kwDOPFPmMM77GZ4A",
+      "number": 3984,
+      "title": "[Matemática] - Ano 5 - 39 Revisão",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "matemática|5|39|revisão",
+      "created_at": "2026-04-06T16:24:20Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM77GZ7Z",
+      "number": 3985,
+      "title": "[Matemática] - Ano 5 - 40 Provas",
+      "status": "Backlog",
+      "state": "OPEN",
+      "assignee": "walmirfeijo",
+      "subject": "Matemática",
+      "year": 5,
+      "lesson_code": "40",
+      "lesson_title": "Provas",
+      "canonical_key": "matemática|5|40|provas",
+      "created_at": "2026-04-06T16:24:23Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
       "id": "I_kwDOPFPmMM77GcNt",
       "number": 3986,
       "title": "[Português] - Ano 3 - 26.4 Revisão",
@@ -62394,6 +64377,40 @@
       "lesson_title": "Prova",
       "canonical_key": "português|3|28.5|prova",
       "created_at": "2026-04-08T18:30:06Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM7782uv",
+      "number": 3998,
+      "title": "[Português] - Ano 3 - 29 . Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "29",
+      "lesson_title": ". Revisão",
+      "canonical_key": "português|3|29|. revisão",
+      "created_at": "2026-04-08T19:14:52Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM779-pe",
+      "number": 3999,
+      "title": "[Português] - Ano 3 - 30 . Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "30",
+      "lesson_title": ". Prova",
+      "canonical_key": "português|3|30|. prova",
+      "created_at": "2026-04-08T20:09:01Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
@@ -63958,6 +65975,40 @@
       "lesson_title": "Prova",
       "canonical_key": "matemática|3|27.5|prova",
       "created_at": "2026-04-17T21:18:30Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAAnoUg",
+      "number": 4093,
+      "title": "[Português] - Ano 3 - 39 Revisão",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "39",
+      "lesson_title": "Revisão",
+      "canonical_key": "português|3|39|revisão",
+      "created_at": "2026-04-20T12:23:57Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAApsoQ",
+      "number": 4094,
+      "title": "[Português] - Ano 3 - 40 Prova",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Decioayres",
+      "subject": "Português",
+      "year": 3,
+      "lesson_code": "40",
+      "lesson_title": "Prova",
+      "canonical_key": "português|3|40|prova",
+      "created_at": "2026-04-20T12:29:33Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
