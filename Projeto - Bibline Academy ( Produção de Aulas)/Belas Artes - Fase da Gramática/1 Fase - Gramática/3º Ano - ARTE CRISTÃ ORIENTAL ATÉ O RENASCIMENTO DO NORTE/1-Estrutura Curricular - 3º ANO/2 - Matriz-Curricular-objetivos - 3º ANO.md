@@ -321,10 +321,10 @@
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
 | 26.1 | **Pré-Renascimento e o contexto artístico** | Compreender o surgimento da burguesia como novo contexto para a arte. |
-| 26.2 | **Vida urbana e fonte de temas artísticos** | Reconhecer a vida urbana como fonte de novos temas artísticos. |
-| 26.3 | **Espiritualidade como marca da arte** | Entender a espiritualidade doméstica como marca da arte do norte europeu. |
+| 26.2 | **Pintura a óleo** | Compreender a pintura a óleo como revolução técnica que permitiu detalhes e luminosidade. |
+| 26.3 | **Realismo flamengo** | Reconhecer o realismo flamengo como expressão de observação reverente da criação. |
 
-**Conceitos da semana:** Burguesia, Cotidiano, Domesticidade
+**Conceitos da semana:** Patronato, Pintura a óleo, Realismo
 
 ---
 

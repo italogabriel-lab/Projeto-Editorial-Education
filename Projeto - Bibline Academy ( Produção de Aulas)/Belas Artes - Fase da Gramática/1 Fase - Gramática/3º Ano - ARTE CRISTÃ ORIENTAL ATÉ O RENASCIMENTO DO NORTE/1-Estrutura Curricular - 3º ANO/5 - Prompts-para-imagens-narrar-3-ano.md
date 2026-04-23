@@ -2401,7 +2401,7 @@ Linguagem visual e simbolismo:
 
 ## Semana 24
 
-### Aula 24.1 — O rosto que ganha vida na pedra
+### Aula 24.1 — A casa grande da cidade
 
 **Prompt:**
 
@@ -2412,21 +2412,21 @@ Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelh
 
 Cena inspirada no trecho
 
-"No portal da catedral gótica, os santos ganharam rosto. Não mais figuras rígidas e frontais como no período românico, mas corpos que se movem, olhos que olham, bocas que quase falam. O escultor gótico começou a ver na forma humana algo digno de representação fiel.
+"No meio da cidade, a catedral se erguia acima dos telhados como sinal visível de que a fé ocupava o centro da vida. Seus construtores sabiam que levariam muitos anos para terminá-la. Mesmo assim, começavam. Cada pedra assentada dizia que valia a pena trabalhar por algo maior do que a própria pressa.
 
-O cristão reconhece que essa dignidade nasce da imagem de Deus no homem. Cada rosto esculpido com cuidado é homenagem silenciosa ao Criador que moldou o primeiro rosto com Suas próprias mãos."
+Quando alguém via a grande fachada, as torres e as janelas altas, entendia sem palavras que aquele edifício não era comum. A catedral reunia oração, ensino e memória. Era a casa grande da cidade, construída para lembrar ao povo que a vida não termina no mercado nem na praça. Há coisas mais altas para contemplar."
 
-— inspirado em Gênesis 1.27 e Erwin Panofsky
+— inspirado em Salmo 24.1 e Kenneth Clark
 
 Composição da cena
 
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O rosto que ganha vida na pedra" e no conceito de naturalismo.
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "A casa grande da cidade" e no conceito de catedral.
 
 Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
+• Grande catedral gótica dominando a paisagem urbana medieval
+• Torres altas, fachada marcante, janelas amplas e sensação de verticalidade
+• Pequenas figuras humanas e casas ao redor para mostrar escala e centralidade
+• Ambiente que transmita reverência, ordem e vida comunitária ao redor do edifício
 
 Iluminação:
 • Luz quente entrando lateralmente, suave e dourada
@@ -2434,15 +2434,15 @@ Iluminação:
 • Sensação de tempo lento e silêncio profundo
 
 Linguagem visual e simbolismo:
-• A arte como serviço, disciplina e oração silenciosa
-• Ausência de ostentação — foco no gesto, não no resultado
-• A luz indicando presença divina no trabalho artístico
-• Sensação de que o trabalho paciente é caminho de ascensão espiritual
+• A catedral como centro visível da fé e da vida da cidade
+• Ausência de ostentação — foco na grandeza serena do edifício
+• A arquitetura como fruto de trabalho paciente ao longo do tempo
+• Sensação de elevação, reverência e memória coletiva
 ```
 
 ---
 
-### Aula 24.2 — O olhar que comove e converte
+### Aula 24.2 — O luto que se torna visível
 
 **Prompt:**
 
@@ -2453,21 +2453,21 @@ Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelh
 
 Cena inspirada no trecho
 
-"A Virgem segura o corpo morto de seu Filho sobre os joelhos. Seu rosto não grita, mas toda a sua dor cabe nos olhos fechados e nos lábios trêmulos. O escultor gótico aprendeu que a emoção contida é mais poderosa que o gesto dramático.
+"Um enlutado caminha devagar junto ao túmulo. Sua cabeça está baixa, e o manto pesado cai em dobras profundas ao redor do corpo. Uma das mãos se aproxima do rosto, como se o silêncio fosse a única forma possível de carregar a tristeza.
 
-O cristão que contempla essa cena é convidado a sentir o peso do amor que levou Cristo à cruz. Jesus chorou. O Deus que carrega o universo carregou também lágrimas humanas. A arte que mostra essa humanidade serve à fé quando nos aproxima do Salvador."
+O escultor gótico não precisou mostrar um grande movimento para comunicar emoção. Bastaram a postura curvada, o gesto contido e a roupa quase viva para tornar o luto visível. Quem observa essa figura aprende que a arte pode falar ao coração por meio de sinais simples e verdadeiros."
 
-— inspirado em João 11.35 e Hans Urs von Balthasar
+— inspirado na escultura funerária gótica borgonhesa do século XV, especialmente nos pleurants dos túmulos ducais
 
 Composição da cena
 
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O olhar que comove e converte" e no conceito de expressividade.
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O luto que se torna visível" e no conceito de expressividade.
 
 Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
+• Um pleurant gótico solitário, em atitude de luto e recolhimento
+• Cabeça inclinada, corpo levemente curvado e uma mão próxima ao rosto
+• Manto pesado com dobras profundas e expressivas, valorizando o movimento silencioso das vestes
+• Ambiente funerário medieval sóbrio, com arcada de túmulo ou nicho de pedra ao fundo
 
 Iluminação:
 • Luz quente entrando lateralmente, suave e dourada
@@ -2475,15 +2475,15 @@ Iluminação:
 • Sensação de tempo lento e silêncio profundo
 
 Linguagem visual e simbolismo:
-• A arte como serviço, disciplina e oração silenciosa
-• Ausência de ostentação — foco no gesto, não no resultado
-• A luz indicando presença divina no trabalho artístico
-• Sensação de que o trabalho paciente é caminho de ascensão espiritual
+• A dor comunicada com sobriedade, sem teatralidade exagerada
+• Ausência de ostentação — foco na postura, no gesto e nas vestes
+• A escultura como testemunho da capacidade da arte de tornar emoções visíveis
+• Sensação de silêncio, reverência e humanidade partilhada
 ```
 
 ---
 
-### Aula 24.3 — O pincel que anunciou o Renascimento
+### Aula 24.3 — A catedral que guarda uma memória
 
 **Prompt:**
 
@@ -2494,21 +2494,21 @@ Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelh
 
 Cena inspirada no trecho
 
-"Giotto olhou para as figuras planas que cobriam as paredes das igrejas e sentiu que algo faltava. Faltava peso. Faltava corpo. Faltava gente. Ele pegou seus pincéis e começou a pintar como se as figuras pudessem sair da parede e abraçar quem as contemplava.
+"A catedral cresceu devagar, pedra sobre pedra, durante muitos anos. Alguns homens começaram a obra. Outros continuaram. Outros apenas viram as torres prontas quando já eram velhos. Mesmo assim, todos sabiam que estavam construindo algo maior do que a própria vida.
 
-O mundo nunca mais seria pintado da mesma maneira. Giotto abriu a porta que levaria ao Renascimento. O cristão reconhece nessa inovação o dom do Criador que renova todas as coisas, inclusive a maneira como a arte conta a história da redenção."
+Quando o povo olhava para Notre-Dame, via mais do que um edifício. Via a memória da cidade, a fé de gerações e a beleza posta em pedra. Um monumento não serve apenas para ser admirado. Ele guarda aquilo que um povo decidiu não esquecer."
 
-— inspirado em Apocalipse 21.5 e Giorgio Vasari
+— inspirado em Romanos 1.20 e Kenneth Clark
 
 Composição da cena
 
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O pincel que anunciou o Renascimento" e no conceito de inovação.
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "A catedral que guarda uma memória" e no conceito de monumento.
 
 Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
+• Fachada de Notre-Dame de Paris em destaque, com torres, rosácea e portais esculpidos
+• Pequenas figuras humanas diante da catedral, sugerindo escala e vida urbana medieval
+• Ambiente que transmita memória coletiva, reverência e continuidade entre gerações
+• Detalhes de pedra, vitrais e equilíbrio arquitetônico próprios do gótico
 
 Iluminação:
 • Luz quente entrando lateralmente, suave e dourada
@@ -2516,10 +2516,10 @@ Iluminação:
 • Sensação de tempo lento e silêncio profundo
 
 Linguagem visual e simbolismo:
-• A arte como serviço, disciplina e oração silenciosa
-• Ausência de ostentação — foco no gesto, não no resultado
-• A luz indicando presença divina no trabalho artístico
-• Sensação de que o trabalho paciente é caminho de ascensão espiritual
+• A catedral como memória visível da fé de um povo
+• Ausência de ostentação — foco na grandeza serena do monumento
+• A arquitetura como testemunho de trabalho paciente ao longo de gerações
+• Sensação de reverência, permanência e beleza posta em pedra
 ```
 
 ---

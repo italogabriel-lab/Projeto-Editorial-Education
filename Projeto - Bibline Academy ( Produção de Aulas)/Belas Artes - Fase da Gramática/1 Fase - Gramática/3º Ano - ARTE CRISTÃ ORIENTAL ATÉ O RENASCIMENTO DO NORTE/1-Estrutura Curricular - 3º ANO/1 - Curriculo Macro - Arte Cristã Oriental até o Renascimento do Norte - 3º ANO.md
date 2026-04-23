@@ -196,8 +196,8 @@ Idolatria ✅
 ## Semana 26 – **Pré-Renascimento do Norte: contexto e cosmovisão**
 
 - Dia 1: Pré-Renascimento e o contexto artístico
-- Dia 2: Vida urbana e fonte de temas artísticos
-- Dia 3: Espiritualidade como marca da arte
+- Dia 2: Pintura a óleo
+- Dia 3: Realismo flamengo
 
 ## Semana 27 – **Pré-Renascimento do Norte: materiais e forma**
 
