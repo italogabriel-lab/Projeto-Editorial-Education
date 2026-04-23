@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T12:43:28.266Z",
+  "last_updated": "2026-04-23T13:42:58.631Z",
   "total_items": 3459,
-  "ignored_items_count": 348,
+  "ignored_items_count": 356,
   "duplicate_items_count": 67,
   "ignored_items": [
     {
@@ -2090,6 +2090,54 @@
       "id": "I_kwDOPFPmMM8AAAABAApsoQ",
       "number": 4094,
       "title": "[Português] - Ano 3 - 40 Prova",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUI04Q",
+      "number": 4103,
+      "title": "[Geografia] - Ano 2 - 1.1 Geografia (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUOxRg",
+      "number": 4104,
+      "title": "[Geografia] - Ano 2 - 1.2 A ordem e a beleza da criação (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUO-vA",
+      "number": 4105,
+      "title": "[Geografia] - Ano 2 - 1.3 A Terra tem forma  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUPFXQ",
+      "number": 4106,
+      "title": "[Geografia] - Ano 2 - 1.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUZmFQ",
+      "number": 4107,
+      "title": "[Geografia] - Ano 2 - 2.1  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUZqdA",
+      "number": 4108,
+      "title": "[Geografia] - Ano 2 - 2.2  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUZw2A",
+      "number": 4109,
+      "title": "[Geografia] - Ano 2 - 2.3  (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUZ4XQ",
+      "number": 4110,
+      "title": "[Geografia] - Ano 2 - 2.4  (update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -37587,9 +37635,9 @@
       "id": "I_kwDOPFPmMM72rLbH",
       "number": 2326,
       "title": "[Belas Artes] - Ano 3 - 25.2 Preparação para o naturalismo",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas Artes",
       "year": 3,
       "lesson_code": "25.2",
@@ -41327,7 +41375,7 @@
       "id": "I_kwDOPFPmMM73A6Pi",
       "number": 2560,
       "title": "[Geografia] - Ano 3 - 37.2 Energias renováveis",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -41344,7 +41392,7 @@
       "id": "I_kwDOPFPmMM73A6Ta",
       "number": 2561,
       "title": "[Geografia] - Ano 3 - 37.3 Produção de energia",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -41378,7 +41426,7 @@
       "id": "I_kwDOPFPmMM73A6fi",
       "number": 2564,
       "title": "[Geografia] - Ano 3 - 38.1 A criação de Deus",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -41395,7 +41443,7 @@
       "id": "I_kwDOPFPmMM73A6jb",
       "number": 2565,
       "title": "[Geografia] - Ano 3 - 38.2 O domínio responsável",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -41412,7 +41460,7 @@
       "id": "I_kwDOPFPmMM73A6ne",
       "number": 2566,
       "title": "[Geografia] - Ano 3 - 38.3 Cuidado com a Terra",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -46567,7 +46615,7 @@
       "id": "I_kwDOPFPmMM74mNFn",
       "number": 2916,
       "title": "[Geografia] - Ano 1 - 15.1 Estante de livros",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
