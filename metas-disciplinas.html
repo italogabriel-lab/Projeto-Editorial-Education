@@ -140,8 +140,66 @@
         </main>
     </div>
 
+    <!-- Tweaks Panel -->
+    <div class="vb-tweaks-panel" id="vb-tweaks-panel" role="dialog" aria-label="Ajustes visuais">
+        <div class="vb-tweaks-header">
+            <span class="vb-tweaks-title">⚡ Tweaks</span>
+            <button class="vb-tweaks-close" onclick="vbCloseTweaks()" aria-label="Fechar">✕</button>
+        </div>
+        <div class="vb-tweaks-body">
+            <div class="vb-tweak-group">
+                <span class="vb-tweak-label">Acento Principal</span>
+                <div class="vb-tweak-options">
+                    <button class="vb-tweak-option active" onclick="vbApplyTweak('accent','blue',this)" style="color:oklch(73% 0.17 240)">Azul</button>
+                    <button class="vb-tweak-option" onclick="vbApplyTweak('accent','violet',this)" style="color:oklch(73% 0.19 285)">Violeta</button>
+                    <button class="vb-tweak-option" onclick="vbApplyTweak('accent','cyan',this)" style="color:oklch(78% 0.17 210)">Ciano</button>
+                    <button class="vb-tweak-option" onclick="vbApplyTweak('accent','rose',this)" style="color:oklch(70% 0.20 350)">Rosa</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tweaks Toggle Button -->
+    <button class="vb-tweaks-btn" id="vb-tweaks-btn" onclick="vbToggleTweaks()" aria-label="Ajustes visuais" title="Tweaks">⚡</button>
+
     <script src="public/sidebar.js?v=2"></script>
     <script src="public/metas-disciplinas.js?v=3"></script>
+    <script>
+        function vbToggleTweaks() {
+            const panel = document.getElementById('vb-tweaks-panel');
+            const btn = document.getElementById('vb-tweaks-btn');
+            const visible = panel.classList.toggle('visible');
+            btn.style.display = visible ? 'none' : 'flex';
+        }
+
+        function vbCloseTweaks() {
+            document.getElementById('vb-tweaks-panel').classList.remove('visible');
+            document.getElementById('vb-tweaks-btn').style.display = 'flex';
+        }
+
+        function vbApplyTweak(key, value, btn) {
+            btn.parentElement.querySelectorAll('.vb-tweak-option').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            const root = document.documentElement;
+
+            if (key === 'accent') {
+                const presets = {
+                    blue:   ['oklch(65% 0.20 245)','oklch(73% 0.17 240)','oklch(52% 0.23 250)','oklch(65% 0.20 245 / 0.25)'],
+                    violet: ['oklch(65% 0.22 290)','oklch(73% 0.19 285)','oklch(52% 0.25 295)','oklch(65% 0.22 290 / 0.25)'],
+                    cyan:   ['oklch(65% 0.18 210)','oklch(75% 0.15 205)','oklch(52% 0.20 215)','oklch(65% 0.18 210 / 0.25)'],
+                    rose:   ['oklch(62% 0.22 350)','oklch(70% 0.18 345)','oklch(50% 0.25 355)','oklch(62% 0.22 350 / 0.25)'],
+                };
+                const p = presets[value];
+                if (p) {
+                    root.style.setProperty('--color-primary', p[0]);
+                    root.style.setProperty('--color-primary-light', p[1]);
+                    root.style.setProperty('--color-primary-dark', p[2]);
+                    root.style.setProperty('--color-primary-glow', p[3]);
+                    root.style.setProperty('--shadow-glow-blue', '0 0 24px ' + p[3]);
+                }
+            }
+        }
+    </script>
 </body>
 
 </html>
