@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T16:14:32.650Z",
+  "last_updated": "2026-04-23T17:45:13.095Z",
   "total_items": 3636,
-  "ignored_items_count": 228,
+  "ignored_items_count": 235,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1369,7 +1369,49 @@
     {
       "id": "I_kwDOPFPmMM8AAAABAVVJIw",
       "number": 4161,
-      "title": "[Geografia] - Ano 2 - 17.2  (update)",
+      "title": "[Geografia] - Ano 2 - 17.2 Cerrado (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVVPpA",
+      "number": 4162,
+      "title": "[Geografia] - Ano 2 - 17.3 Caatinga (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVVS0A",
+      "number": 4163,
+      "title": "[Geografia] - Ano 2 - 17.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVVysg",
+      "number": 4164,
+      "title": "[Geografia] - Ano 2 - 18.1 Amazônia (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVV9Mg",
+      "number": 4165,
+      "title": "[Geografia] - Ano 2 - 18.2 Pampas (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVWAag",
+      "number": 4166,
+      "title": "[Geografia] - Ano 2 - 18.3 Pantanal (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVWNyA",
+      "number": 4167,
+      "title": "[Geografia] - Ano 2 - 18.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVWcEQ",
+      "number": 4168,
+      "title": "[Geografia] - Ano 2 - 19 Revisão (update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -35319,7 +35361,7 @@
       "id": "I_kwDOPFPmMM72D5Jt",
       "number": 2139,
       "title": "[Geografia] - Ano 1 - 7.3 Faixa de pedestre",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35336,8 +35378,8 @@
       "id": "I_kwDOPFPmMM72D6VQ",
       "number": 2140,
       "title": "[Geografia] - Ano 1 - 7.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -35345,8 +35387,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|7.4|revisão",
       "created_at": "2026-03-24T14:09:26Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T16:41:22Z",
+      "lead_time_days": 30.10550925925926,
       "labels": []
     },
     {
@@ -35370,7 +35412,7 @@
       "id": "I_kwDOPFPmMM72EpgG",
       "number": 2142,
       "title": "[Geografia] - Ano 1 - 8.1 Rotina de deslocamento",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35404,7 +35446,7 @@
       "id": "I_kwDOPFPmMM72G1Tz",
       "number": 2144,
       "title": "[Geografia] - Ano 1 - 8.2 Ir e voltar",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35421,7 +35463,7 @@
       "id": "I_kwDOPFPmMM72HJjA",
       "number": 2145,
       "title": "[Geografia] - Ano 1 - 8.3 Segurança no caminho",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35438,8 +35480,8 @@
       "id": "I_kwDOPFPmMM72HKam",
       "number": 2146,
       "title": "[Geografia] - Ano 1 - 8.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -35447,8 +35489,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|8.4|revisão",
       "created_at": "2026-03-24T16:11:37Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T17:01:21Z",
+      "lead_time_days": 30.034537037037037,
       "labels": []
     },
     {
@@ -35472,8 +35514,8 @@
       "id": "I_kwDOPFPmMM72HM6Y",
       "number": 2148,
       "title": "[Geografia] - Ano 1 - 9 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -35481,8 +35523,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|9|revisão",
       "created_at": "2026-03-24T16:13:24Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T17:02:36Z",
+      "lead_time_days": 30.034166666666668,
       "labels": []
     },
     {
@@ -35523,7 +35565,7 @@
       "id": "I_kwDOPFPmMM72Lldc",
       "number": 2153,
       "title": "[Geografia] - Ano 1 - 11.2 Cômodos",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35540,7 +35582,7 @@
       "id": "I_kwDOPFPmMM72LmdF",
       "number": 2154,
       "title": "[Geografia] - Ano 1 - 11.3 Objetos da casa",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35557,8 +35599,8 @@
       "id": "I_kwDOPFPmMM72Lnus",
       "number": 2155,
       "title": "[Geografia] - Ano 1 - 11.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -35566,8 +35608,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|11.4|revisão",
       "created_at": "2026-03-24T19:42:43Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T17:27:50Z",
+      "lead_time_days": 29.906331018518518,
       "labels": []
     },
     {
@@ -35591,7 +35633,7 @@
       "id": "I_kwDOPFPmMM72L-TP",
       "number": 2157,
       "title": "[Geografia] - Ano 1 - 12.1 Quarto",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35608,7 +35650,7 @@
       "id": "I_kwDOPFPmMM72MAQq",
       "number": 2158,
       "title": "[Geografia] - Ano 1 - 12.2 Sala",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -35625,7 +35667,7 @@
       "id": "I_kwDOPFPmMM72MBIy",
       "number": 2159,
       "title": "[Geografia] - Ano 1 - 12.3 Cozinha",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -38515,9 +38557,9 @@
       "id": "I_kwDOPFPmMM72rL4-",
       "number": 2330,
       "title": "[Belas Artes] - Ano 3 - 26.1 Pré-Renascimento e o contexto artístico",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas Artes",
       "year": 3,
       "lesson_code": "26.1",
