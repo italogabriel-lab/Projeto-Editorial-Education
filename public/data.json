@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-23T14:24:46.258Z",
+  "last_updated": "2026-04-23T16:14:32.650Z",
   "total_items": 3636,
-  "ignored_items_count": 194,
+  "ignored_items_count": 228,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1165,7 +1165,211 @@
     {
       "id": "I_kwDOPFPmMM8AAAABAUk1dQ",
       "number": 4127,
-      "title": "[Geografia] - Ano 2 - 7.1 (update)",
+      "title": "[Geografia] - Ano 2 - 7.1 Pontos cardeais (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUzDZw",
+      "number": 4128,
+      "title": "[Geografia] - Ano 2 - 7.2 Pontos colaterais (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUzHqA",
+      "number": 4129,
+      "title": "[Geografia] - Ano 2 - 7.3 Usos dos pontos cardeais (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAUzLrQ",
+      "number": 4130,
+      "title": "[Geografia] - Ano 2 - 7.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU0iDw",
+      "number": 4131,
+      "title": "[Geografia] - Ano 2 - 8.1 Continente americano (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU0rDQ",
+      "number": 4132,
+      "title": "[Geografia] - Ano 2 - 8.2 Continente africano (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU0u9g",
+      "number": 4133,
+      "title": "[Geografia] - Ano 2 - 8.3 Continente asiático (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU00vA",
+      "number": 4134,
+      "title": "[Geografia] - Ano 2 - 8.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU0_cw",
+      "number": 4135,
+      "title": "[Geografia] - Ano 2 - 9 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU4F4g",
+      "number": 4136,
+      "title": "[Geografia] - Ano 2 - 11.1 Continente europeu (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU4L9Q",
+      "number": 4137,
+      "title": "[Geografia] - Ano 2 - 11.2 Continente oceânico (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU4Qaw",
+      "number": 4138,
+      "title": "[Geografia] - Ano 2 - 11.3 Continente antártico (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU4VHw",
+      "number": 4139,
+      "title": "[Geografia] - Ano 2 - 11.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU4_CA",
+      "number": 4140,
+      "title": "[Geografia] - Ano 2 - 12.1 Localização do Brasil no mapa-múndi (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU5Eng",
+      "number": 4141,
+      "title": "[Geografia] - Ano 2 - 12.2 Países vizinhos do Brasil (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU5JnQ",
+      "number": 4142,
+      "title": "[Geografia] - Ano 2 - 12.3 Limites do território brasileiro (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAU5POQ",
+      "number": 4143,
+      "title": "[Geografia] - Ano 2 - 12.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVSj2Q",
+      "number": 4144,
+      "title": "[Geografia] - Ano 2 - 13.1 Estados brasileiros (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVSoXg",
+      "number": 4145,
+      "title": "[Geografia] - Ano 2 - 13.2 Regiões do Brasil (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVSsZA",
+      "number": 4146,
+      "title": "[Geografia] - Ano 2 - 13.3 Características das regiões brasileiras (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVSvow",
+      "number": 4147,
+      "title": "[Geografia] - Ano 2 - 13.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTA6g",
+      "number": 4148,
+      "title": "[Geografia] - Ano 2 - 14.1 As serras do Brasil (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTKeA",
+      "number": 4149,
+      "title": "[Geografia] - Ano 2 - 14.2 Os planaltos do Brasil (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTSGQ",
+      "number": 4150,
+      "title": "[Geografia] - Ano 2 - 14.3 As planícies do Brasil (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTYbA",
+      "number": 4151,
+      "title": "[Geografia] - Ano 2 - 14.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTs8g",
+      "number": 4152,
+      "title": "[Geografia] - Ano 2 - 15.1 Rio Amazonas (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVTz0w",
+      "number": 4153,
+      "title": "[Geografia] - Ano 2 - 15.2 Rio São Francisco (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVT2NA",
+      "number": 4154,
+      "title": "[Geografia] - Ano 2 - 15.3 Bacias hidrográficas (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVT4qg",
+      "number": 4155,
+      "title": "[Geografia] - Ano 2 - 15.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVUT2Q",
+      "number": 4156,
+      "title": "[Geografia] - Ano 2 - 16.1 Clima tropical (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVUYaA",
+      "number": 4157,
+      "title": "[Geografia] - Ano 2 - 16.2 Clima semiárido (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVUcow",
+      "number": 4158,
+      "title": "[Geografia] - Ano 2 - 16.3 Clima subtropical (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVUgDg",
+      "number": 4159,
+      "title": "[Geografia] - Ano 2 - 16.4 Revisão (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVVCZw",
+      "number": 4160,
+      "title": "[Geografia] - Ano 2 - 17.1 Mata Atlântica (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAVVJIw",
+      "number": 4161,
+      "title": "[Geografia] - Ano 2 - 17.2  (update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -38277,9 +38481,9 @@
       "id": "I_kwDOPFPmMM72rLrH",
       "number": 2328,
       "title": "[Belas Artes] - Ano 3 - 25.4 Revisão",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "Italo-bibline",
+      "assignee": "Fabiomorais87",
       "subject": "Belas Artes",
       "year": 3,
       "lesson_code": "25.4",
@@ -38294,7 +38498,7 @@
       "id": "I_kwDOPFPmMM72rLym",
       "number": 2329,
       "title": "[Belas Artes] - Ano 3 - 25.5 Provas",
-      "status": "In Progress",
+      "status": "In Review",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -38311,7 +38515,7 @@
       "id": "I_kwDOPFPmMM72rL4-",
       "number": 2330,
       "title": "[Belas Artes] - Ano 3 - 26.1 Pré-Renascimento e o contexto artístico",
-      "status": "Backlog",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -38328,7 +38532,7 @@
       "id": "I_kwDOPFPmMM72rMCq",
       "number": 2331,
       "title": "[Belas Artes] - Ano 3 - 26.2 Vida urbana e fonte de temas artísticos",
-      "status": "Backlog",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -38345,7 +38549,7 @@
       "id": "I_kwDOPFPmMM72rMJI",
       "number": 2332,
       "title": "[Belas Artes] - Ano 3 - 26.3 Espiritualidade como marca da arte",
-      "status": "Backlog",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -38362,7 +38566,7 @@
       "id": "I_kwDOPFPmMM72rMQ5",
       "number": 2333,
       "title": "[Belas Artes] - Ano 3 - 26.4 Revisão",
-      "status": "Backlog",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -38379,7 +38583,7 @@
       "id": "I_kwDOPFPmMM72rMbA",
       "number": 2334,
       "title": "[Belas Artes] - Ano 3 - 26.5 Provas",
-      "status": "Backlog",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Italo-bibline",
       "subject": "Belas Artes",
@@ -47791,8 +47995,8 @@
       "id": "I_kwDOPFPmMM74mOBA",
       "number": 2924,
       "title": "[Geografia] - Ano 1 - 16.4 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -47800,8 +48004,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|16.4|revisão",
       "created_at": "2026-03-30T13:30:26Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-23T14:49:35Z",
+      "lead_time_days": 24.05496527777778,
       "labels": []
     },
     {
@@ -47825,7 +48029,7 @@
       "id": "I_kwDOPFPmMM74mORA",
       "number": 2926,
       "title": "[Geografia] - Ano 1 - 17.1 Cuidado com a casa",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -47842,7 +48046,7 @@
       "id": "I_kwDOPFPmMM74mOYQ",
       "number": 2927,
       "title": "[Geografia] - Ano 1 - 17.2 Limpeza",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
