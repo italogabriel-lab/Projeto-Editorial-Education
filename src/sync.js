@@ -119,8 +119,10 @@ function normalizeLessonCode(rawCode, rawTitle) {
 }
 
 function parseBimesterExamTitle(title) {
+  if (!title) return null;
+
   const match = title.match(
-    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*semana\s*(?<week>9|10|19|20|39|40)\s*-\s*(?<lessonTitle>(?:revis[aã]o|prova)\s+do\s+\d+[ºo]?\s*bimestre)\s*$/i
+    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*semana\s*(?<week>9|10|19|20|39|40)\s*-\s*(?<lessonTitle>(?:revis[aã]o|prova)\s+do\s+\d+(?:[ºo])?\s*bimestre)\s*$/i
   );
   if (!match || !match.groups) return null;
 
@@ -128,8 +130,8 @@ function parseBimesterExamTitle(title) {
   const year = parseInt(match.groups.year, 10);
   const lessonCode = match.groups.week.trim();
   const lessonTitle = match.groups.lessonTitle.trim();
-  const canonicalTitle = `[${subject}] - Ano ${year} - Semana ${lessonCode} ${lessonTitle}`;
-  const canonicalKey = `${subject.toLowerCase()}|${year}|semana-${lessonCode}|${lessonTitle.toLowerCase()}`;
+  const canonicalTitle = `[${subject}] - Ano ${year} - ${lessonCode} ${lessonTitle}`;
+  const canonicalKey = `${subject.toLowerCase()}|${year}|${lessonCode}|${lessonTitle.toLowerCase()}`;
 
   return {
     subject,
@@ -213,12 +215,18 @@ async function runGraphQL(query, variables = {}) {
       if (res.status === 404) {
         console.error("Projeto não encontrado: verifique o PROJECT_ID");
       }
-      return null;
+      return { ok: false, error: `http_${res.status}` };
     }
-    return await res.json();
+    const payload = await res.json();
+    if (payload.errors && payload.errors.length > 0) {
+      console.error("GraphQL retornou errors:", JSON.stringify(payload.errors, null, 2));
+      return { ok: false, error: 'graphql_errors', payload };
+    }
+
+    return { ok: true, payload };
   } catch (error) {
     console.error("Erro na requisição GraphQL:", error.message);
-    return null;
+    return { ok: false, error: error.message };
   }
 }
 
@@ -276,6 +284,7 @@ async function sync() {
   const validItemsByKey = new Map();
   const ignoredItems = [];
   const duplicateItems = [];
+  const fetchFailures = [];
   let cursor = null;
   let hasNextPage = true;
 
@@ -286,15 +295,37 @@ async function sync() {
 
   while (hasNextPage) {
     process.stdout.write(`Fetching page ${pagesFetched + 1}... `);
-    const data = await runGraphQL(query, { cursor });
+    const result = await runGraphQL(query, { cursor });
 
+    if (!result.ok) {
+      fetchFailures.push({
+        page: pagesFetched + 1,
+        cursor,
+        error: result.error
+      });
+      console.error("Falha ao ler o Projeto. Verifique token, permissões ou disponibilidade da API.");
+      break;
+    }
+
+    const data = result.payload;
     if (!data || !data.data || !data.data.node) {
-      console.error(JSON.stringify(data)); console.error("Falha ao ler o Projeto. Verifique token ou permissions.");
+      fetchFailures.push({
+        page: pagesFetched + 1,
+        cursor,
+        error: 'invalid_payload'
+      });
+      console.error(JSON.stringify(data));
+      console.error("Falha ao ler o Projeto. Payload inválido recebido da API.");
       break;
     }
 
     const items = data.data.node.items;
     if (!items || !items.nodes) {
+      fetchFailures.push({
+        page: pagesFetched + 1,
+        cursor,
+        error: 'missing_items'
+      });
       console.log("Sem nós encontrados no projeto");
       break;
     }
@@ -395,6 +426,14 @@ async function sync() {
   console.log(`Total de tarefas válidas extraídas: ${allItems.length}`);
   console.log(`Total de tarefas ignoradas por título fora do padrão: ${ignoredItems.length}`);
   console.log(`Total de duplicatas descartadas: ${duplicateItems.length}`);
+  console.log(`Total de falhas de coleta: ${fetchFailures.length}`);
+
+  if (fetchFailures.length > 0) {
+    console.error("⚠️ A coleta do GitHub Projects falhou antes de terminar.");
+    console.error("⚠️ data.json NÃO será sobrescrito para evitar publicar um snapshot parcial.");
+    console.error(JSON.stringify(fetchFailures, null, 2));
+    process.exit(1);
+  }
 
   if (allItems.length === 0) {
     console.log("⚠️ Nenhum dado encontrado. Verifique o PROJECT_ID e permissões do token.");
