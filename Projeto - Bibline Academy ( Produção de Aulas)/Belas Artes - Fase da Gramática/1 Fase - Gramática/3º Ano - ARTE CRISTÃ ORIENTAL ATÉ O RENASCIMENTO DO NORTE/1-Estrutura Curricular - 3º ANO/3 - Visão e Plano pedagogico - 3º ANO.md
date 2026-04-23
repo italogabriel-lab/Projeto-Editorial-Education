@@ -1961,8 +1961,8 @@ Formar no aluno a compreensão de que:
 | Aula     | Título                                      | Tema central                                            | Versículo-chave   |
 | -------- | ------------------------------------------- | ------------------------------------------------------- | ----------------- |
 | **26.1** | **Pré-Renascimento e o contexto artístico** | O surgimento da burguesia como novo contexto artístico. | 1 Coríntios 10:31 |
-| **26.2** | **Vida urbana e fonte de temas artísticos** | A vida urbana como fonte de novos temas artísticos.     | Deuteronômio 6:7  |
-| **26.3** | **Espiritualidade como marca da arte**      | A espiritualidade do lar como marca da arte do norte.   | Colossenses 3:23  |
+| **26.2** | **Pintura a óleo** | A revolução técnica do óleo no Renascimento do Norte.   | Êxodo 31:3        |
+| **26.3** | **Realismo flamengo** | O realismo como observação reverente da criação. | Mateus 6:28 |
 
 ---
 
@@ -1973,15 +1973,15 @@ Formar no aluno a compreensão de que:
    → Identifique as diferenças entre mecenato aristocrático e patronato burguês.
    → Compreenda que a arte acompanha as mudanças sociais.
 
-2. **26.2 – Vida urbana e fonte de temas artísticos**
-   → Observe interiores domésticos retratados na arte do norte.
-   → Identifique objetos cotidianos que aparecem nas pinturas.
-   → Perceba que a arte do norte valoriza o real e o próximo.
+2. **26.2 – Pintura a óleo**
+   → Compreenda a técnica do óleo como revolução artística no norte europeu.
+   → Identifique camadas translúcidas, reflexos e riqueza de detalhes.
+   → Perceba que a excelência técnica pode servir à beleza e à glória de Deus.
 
-3. **26.3 – Espiritualidade como marca da arte**
-   → Compreenda a fé vivida no lar como característica do norte europeu.
-   → Identifique símbolos religiosos escondidos em cenas cotidianas.
-   → Relacione essa espiritualidade com o princípio reformado: toda a vida é coram Deo.
+3. **26.3 – Realismo flamengo**
+   → Reconheça o realismo como marca da pintura flamenga.
+   → Identifique reflexos, texturas e observação minuciosa da criação.
+   → Relacione o olhar atento do artista com reverência pela obra de Deus.
 
 **transição para o módulo 27**
 O aluno compreende o contexto. Na próxima semana, estudará os **materiais e a forma** que deram identidade a essa arte.
@@ -2000,14 +2000,14 @@ O aluno compreende o contexto. Na próxima semana, estudará os **materiais e a 
 
 ## 🪶 **resumo pedagógico (para rise ou canvas)**
 
-- **eixo temático**: burguesia, cotidiano e espiritualidade doméstica.
+- **eixo temático**: patronato, pintura a óleo e realismo flamengo.
 - **virtude principal**: fidelidade nas pequenas coisas.
-- **habilidade formativa**: reconhecer a presença de Deus no cotidiano pela arte.
-- **símbolo-chave**: o interior doméstico pintado com detalhe reverente.
+- **habilidade formativa**: observar a criação com atenção reverente por meio da arte.
+- **símbolo-chave**: o detalhe pintado com fidelidade e luz.
 - **resultado esperado**:
   → O aluno compreende a burguesia como novo patronato artístico.
-  → Identifica a espiritualidade doméstica do norte.
-  → Relaciona arte do cotidiano com a vida coram Deo.
+  → Identifica a pintura a óleo como revolução técnica do período.
+  → Reconhece o realismo flamengo como reverência pela criação.
 
 ---
 

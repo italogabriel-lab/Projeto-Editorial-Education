@@ -308,20 +308,21 @@
 
 ---
 
-## Semana 24 — Escultura Gótica e Giotto
+## Semana 24 — Arte gótica, escultura e catedral
 
-### 24.1 — Estátuas-coluna de Chartres (portal)
-- [Portal sculpture of Chartres (Wikipedia)](https://en.wikipedia.org/wiki/Chartres_Cathedral#Sculpture)
-- [Royal Portal of Chartres (Khan Academy)](https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe/a/royal-portal-chartres)
+### 24.1 — Grandes catedrais góticas
+- [Chartres Cathedral (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Chartres_Cathedral)
+- [Amiens Cathedral (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Amiens_Cathedral)
+- [Chartres Cathedral, Smarthistory](https://smarthistory.org/chartres-cathedral/)
 
 ### 24.2 — Pleurant gótico, escultura de enlutado
 - [Pleurant, Louvre](https://collections.louvre.fr/en/ark%3A/53355/cl010092542)
 - [The Mourners, The Metropolitan Museum of Art](https://www.metmuseum.org/exhibitions/listings/2010/mourners)
 
-### 24.3 — Giotto, Lamento sobre Cristo morto (Scrovegni)
-- [Lamentation of Christ, Giotto (Wikipedia)](https://en.wikipedia.org/wiki/Lamentation_(Giotto))
-- [Scrovegni Chapel (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Scrovegni_Chapel_frescoes)
-- [Giotto (Khan Academy)](https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe/a/giotto-lamentation)
+### 24.3 — Notre-Dame de Paris, fachada e rosácea
+- [Notre-Dame de Paris (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Notre-Dame_de_Paris)
+- [West facade of Notre-Dame de Paris (Wikimedia)](https://commons.wikimedia.org/wiki/Category:West_facade_of_Notre-Dame_de_Paris)
+- [Rose windows of Notre-Dame (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Rose_windows_of_Notre-Dame_de_Paris)
 
 ---
 
@@ -340,20 +341,22 @@
 - [Giotto vs medieval art (Khan Academy)](https://www.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe)
 
 ---
-
+ 
 ## Semana 26 — Flandres e Pintura a Óleo
 
-### 26.1 — Cena urbana de Flandres (canais e comércio)
-- [Flemish art (Wikipedia)](https://en.wikipedia.org/wiki/Early_Netherlandish_painting)
-- [Bruges medieval (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Medieval_Bruges)
+### 26.1 — A Virgem do Chanceler Rolin, Jan van Eyck
+- [Madonna of Chancellor Rolin (Wikipedia)](https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin)
+- [The Virgin of Chancellor Rolin (Web Gallery of Art)](https://www.wga.hu/html_m/e/eyck_van/jan/15rolin.html)
+- [Jan van Eyck (Wikipedia)](https://en.wikipedia.org/wiki/Jan_van_Eyck)
 
-### 26.2 — Detalhe de Van Eyck (joias e tecidos)
+### 26.2 — Pintura a óleo, detalhe de Van Eyck
 - [Jan van Eyck (Wikipedia)](https://en.wikipedia.org/wiki/Jan_van_Eyck)
 - [Van Eyck details (Google Arts & Culture)](https://artsandculture.google.com/entity/jan-van-eyck/m0jbm4)
 
-### 26.3 — Detalhe flamengo (vaso, flores, janela)
-- [Early Netherlandish painting details (Wikipedia)](https://en.wikipedia.org/wiki/Early_Netherlandish_painting)
-- [Flemish still life (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Flemish_still-life_paintings)
+### 26.3 — Mérode Altarpiece, flores, janela e objetos cotidianos
+- [Mérode Altarpiece (Wikipedia)](https://en.wikipedia.org/wiki/M%C3%A9rode_Altarpiece)
+- [The Mérode Altarpiece (The Met)](https://www.metmuseum.org/art/collection/search/470304)
+- [Robert Campin (Wikipedia)](https://en.wikipedia.org/wiki/Robert_Campin)
 
 ---
 

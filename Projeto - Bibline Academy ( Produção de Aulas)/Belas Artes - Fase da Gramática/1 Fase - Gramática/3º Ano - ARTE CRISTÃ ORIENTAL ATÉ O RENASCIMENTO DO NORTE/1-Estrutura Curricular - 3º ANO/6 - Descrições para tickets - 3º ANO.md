@@ -1756,25 +1756,25 @@ Avaliar os conhecimentos das aulas da semana 25
 
 ---
 
-[Belas artes] - Ano 3 - 26.2 Vida urbana e fonte de temas artísticos
+[Belas artes] - Ano 3 - 26.2 Pintura a óleo
 
 # Description
 
 ## Objetivos
-   → Observe interiores domésticos retratados na arte do norte.
-   → Identifique objetos cotidianos que aparecem nas pinturas.
-   → Perceba que a arte do norte valoriza o real e o próximo.
+   → Compreenda a técnica do óleo como revolução artística no norte europeu.
+   → Identifique camadas translúcidas, reflexos e riqueza de detalhes.
+   → Perceba que a excelência técnica pode servir à beleza e à glória de Deus.
 
 ---
 
-[Belas artes] - Ano 3 - 26.3 Espiritualidade como marca da arte
+[Belas artes] - Ano 3 - 26.3 Realismo flamengo
 
 # Description
 
 ## Objetivos
-   → Compreenda a fé vivida no lar como característica do norte europeu.
-   → Identifique símbolos religiosos escondidos em cenas cotidianas.
-   → Relacione essa espiritualidade com o princípio reformado: toda a vida é coram Deo.
+   → Reconheça o realismo como marca da pintura flamenga.
+   → Identifique reflexos, texturas e observação minuciosa da criação.
+   → Relacione o olhar atento do artista com reverência pela obra de Deus.
 
 ---
 
@@ -1788,9 +1788,9 @@ Revisar os conhecimentos das aulas da semana 26
 
 - 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana e fonte de temas artísticos
+- 26.2 Pintura a óleo
 
-- 26.3 Espiritualidade como marca da arte
+- 26.3 Realismo flamengo
 
 ---
 
@@ -1804,9 +1804,9 @@ Avaliar os conhecimentos das aulas da semana 26
 
 - 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana e fonte de temas artísticos
+- 26.2 Pintura a óleo
 
-- 26.3 Espiritualidade como marca da arte
+- 26.3 Realismo flamengo
 
 ---
 
@@ -2002,9 +2002,9 @@ Avaliar os conhecimentos das aulas da semana 28
 
 - 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana e fonte de temas artísticos
+- 26.2 Pintura a óleo
 
-- 26.3 Espiritualidade como marca da arte
+- 26.3 Realismo flamengo
 
 ## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
 
@@ -2078,9 +2078,9 @@ Avaliar os conhecimentos das aulas da semana 28
 
 - 26.1 Pré-Renascimento e o contexto artístico
 
-- 26.2 Vida urbana e fonte de temas artísticos
+- 26.2 Pintura a óleo
 
-- 26.3 Espiritualidade como marca da arte
+- 26.3 Realismo flamengo
 
 ## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
 
