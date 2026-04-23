@@ -99,10 +99,32 @@ function normalizeSubjectName(name) {
   return map[lower] || name.trim();
 }
 
+function normalizeLessonCode(rawCode, rawTitle) {
+  if (!rawCode) return null;
+
+  const code = rawCode.trim().replace(/\s+/g, '');
+  if (/^\d{1,2}\.\d$/.test(code)) {
+    return code;
+  }
+
+  // Legado do Kanban.
+  // Alguns tickets de revisão e prova foram criados como "9 Revisão" e "10 Prova"
+  // em vez de "8.4 Revisão" e "8.5 Prova". Mantemos o número legado para
+  // contabilizar o item no Vision Board, sem descartá-lo.
+  if (/^\d{1,2}$/.test(code) && /\b(revis[aã]o|prova|provas)\b/i.test(rawTitle || '')) {
+    return code;
+  }
+
+  return null;
+}
+
 function parseCanonicalLessonTitle(title) {
   if (!title) return null;
 
-  const match = title.match(/^\s*\[(?<subject>[^\]]+)\]\s*-\s*Ano\s*(?<year>[1-5])\s*-\s*(?<lesson>\d{1,2}\.\d)\s+(?<lessonTitle>.+?)\s*$/i);
+  const compactTitle = title.replace(/\s+/g, ' ').trim();
+  const match = compactTitle.match(
+    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*(?<lesson>\d{1,2}(?:\s*\.\s*\d)?)\s*-?\s*(?<lessonTitle>.+?)\s*$/i
+  );
   if (!match || !match.groups) return null;
 
   const lessonTitle = match.groups.lessonTitle.trim();
@@ -114,7 +136,8 @@ function parseCanonicalLessonTitle(title) {
 
   const subject = normalizeSubjectName(match.groups.subject);
   const year = parseInt(match.groups.year, 10);
-  const lessonCode = match.groups.lesson.trim();
+  const lessonCode = normalizeLessonCode(match.groups.lesson, lessonTitle);
+  if (!lessonCode) return null;
   const canonicalTitle = `[${subject}] - Ano ${year} - ${lessonCode} ${lessonTitle}`;
   const canonicalKey = `${subject.toLowerCase()}|${year}|${lessonCode}|${lessonTitle.toLowerCase()}`;
 
