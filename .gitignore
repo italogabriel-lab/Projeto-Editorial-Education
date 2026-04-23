@@ -85,6 +85,9 @@ diagnose_kanban_geografia.py
 # Dependencies (AIOX)
 node_modules/
 node_modules
+.playwright/
+.codex
+test-results/
 
 # Build & Logs (AIOX)
 dist/
@@ -98,4 +101,5 @@ generated/
 # AIOX Local (AIOX)
 .aiox-core/local/
 .claude/settings.local.json
+CLAUDE.local.md
 .aiox/install-log.txt
