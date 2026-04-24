@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T19:40:52.116Z",
+  "last_updated": "2026-04-24T20:28:18.554Z",
   "total_items": 3636,
-  "ignored_items_count": 266,
+  "ignored_items_count": 267,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1598,6 +1598,12 @@
       "id": "I_kwDOPFPmMM8AAAABAcyswg",
       "number": 4199,
       "title": "[Português] - Ano 2 - 11.1 Emprego do \"s\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAc0qlA",
+      "number": 4200,
+      "title": "[Português] - Ano 2 - 11.2 Emprego do \"z\" (Update)",
       "reason": "title_out_of_pattern"
     }
   ],
