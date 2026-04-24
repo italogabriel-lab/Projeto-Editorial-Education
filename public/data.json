@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T17:12:17.754Z",
+  "last_updated": "2026-04-24T17:59:12.495Z",
   "total_items": 3636,
-  "ignored_items_count": 241,
+  "ignored_items_count": 247,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1448,6 +1448,42 @@
       "id": "I_kwDOPFPmMM8AAAABAcHh2g",
       "number": 4174,
       "title": "[História]- Ano 2 - 1.1 Estradas romanas (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcLcRA",
+      "number": 4175,
+      "title": "[Português] - Ano 2 - 2.3 Dígrafo vocálico  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcNPSg",
+      "number": 4176,
+      "title": "[Português] - Ano 2 - 3.3 Dígrafos inseparáveis ch lh nh  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcQGAw",
+      "number": 4177,
+      "title": "[Português] - Ano 2 - 4.1 Sílaba tônica  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcQ2mQ",
+      "number": 4178,
+      "title": "[História]- Ano 2 - 1.2 Igreja primitiva (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcSfvA",
+      "number": 4179,
+      "title": "[História]- Ano 2 - 1.3 Paulo antes de seguir a Jesus (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcU2yA",
+      "number": 4180,
+      "title": "[Português] - Ano 2 - 4.2 Classificação silábica das palavras oxítonas  (Update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -22948,7 +22984,7 @@
       "title": "[História] - Ano 3 - 28.4 Revisao",
       "status": "In Review",
       "state": "OPEN",
-      "assignee": "larigueiros",
+      "assignee": "Fabiomorais87",
       "subject": "História",
       "year": 3,
       "lesson_code": "28.4",
@@ -48770,7 +48806,7 @@
       "id": "I_kwDOPFPmMM74mS17",
       "number": 2965,
       "title": "[Geografia] - Ano 1 - 26.3 Economia de água",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48804,7 +48840,7 @@
       "id": "I_kwDOPFPmMM74mTC_",
       "number": 2967,
       "title": "[Geografia] - Ano 1 - 27.1 Plantas do entorno",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
