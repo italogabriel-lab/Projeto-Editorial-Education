@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T18:48:27.479Z",
+  "last_updated": "2026-04-24T19:40:52.116Z",
   "total_items": 3636,
-  "ignored_items_count": 259,
+  "ignored_items_count": 266,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1556,6 +1556,48 @@
       "id": "I_kwDOPFPmMM8AAAABAckjMQ",
       "number": 4192,
       "title": "[Português] - Ano 2 - 6.3 Parênteses (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcmMGA",
+      "number": 4193,
+      "title": "[Português] - Ano 2 - 7.1 Reticências (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcoHVw",
+      "number": 4194,
+      "title": "[Português] - Ano 2 - 7.2  Dois pontos (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcpoVQ",
+      "number": 4195,
+      "title": "[Português] - Ano 2 - 7.3 Travessão (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcsgCQ",
+      "number": 4196,
+      "title": "[Português] - Ano 2 - 8.1  Aspas (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcuuxQ",
+      "number": 4197,
+      "title": "[Português] - Ano 2 - 8.2  Exclamação (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcwsUg",
+      "number": 4198,
+      "title": "[Português] - Ano 2 - 8.3  Interrogação (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcyswg",
+      "number": 4199,
+      "title": "[Português] - Ano 2 - 11.1 Emprego do \"s\" (Update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -49082,8 +49124,8 @@
       "id": "I_kwDOPFPmMM74mUM0",
       "number": 2977,
       "title": "[Geografia] - Ano 1 - 29 Revisão",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
       "year": 1,
@@ -49091,8 +49133,8 @@
       "lesson_title": "Revisão",
       "canonical_key": "geografia|1|29|revisão",
       "created_at": "2026-03-30T13:34:04Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-24T18:59:52Z",
+      "lead_time_days": 25.22625,
       "labels": []
     },
     {
@@ -49116,7 +49158,7 @@
       "id": "I_kwDOPFPmMM74mUdR",
       "number": 2979,
       "title": "[Geografia] - Ano 1 - 31.1 Cidade",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -49133,7 +49175,7 @@
       "id": "I_kwDOPFPmMM74mUln",
       "number": 2980,
       "title": "[Geografia] - Ano 1 - 31.2 Ruas da cidade",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -49150,7 +49192,7 @@
       "id": "I_kwDOPFPmMM74mUu9",
       "number": 2981,
       "title": "[Geografia] - Ano 1 - 31.3 Casas da cidade",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
