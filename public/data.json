@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T20:28:18.554Z",
+  "last_updated": "2026-04-24T21:12:10.317Z",
   "total_items": 3636,
-  "ignored_items_count": 267,
+  "ignored_items_count": 270,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1604,6 +1604,24 @@
       "id": "I_kwDOPFPmMM8AAAABAc0qlA",
       "number": 4200,
       "title": "[Português] - Ano 2 - 11.2 Emprego do \"z\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAdDF-w",
+      "number": 4201,
+      "title": "[Português] - Ano 2 - 11.3 Emprego do \"x\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAdDt6w",
+      "number": 4202,
+      "title": "[Português] - Ano 2 - 12.1 Emprego do \"ch\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAdFvdQ",
+      "number": 4203,
+      "title": "[Português] - Ano 2 - 12.2 Emprego do \"g\" (Update)",
       "reason": "title_out_of_pattern"
     }
   ],
