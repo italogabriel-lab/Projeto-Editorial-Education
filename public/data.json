@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-04-24T17:59:12.495Z",
+  "last_updated": "2026-04-24T18:48:27.479Z",
   "total_items": 3636,
-  "ignored_items_count": 247,
+  "ignored_items_count": 259,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1484,6 +1484,78 @@
       "id": "I_kwDOPFPmMM8AAAABAcU2yA",
       "number": 4180,
       "title": "[Português] - Ano 2 - 4.2 Classificação silábica das palavras oxítonas  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcXObQ",
+      "number": 4181,
+      "title": "[História]- Ano 2 - 2.1 A conversão de Paulo (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcXQlg",
+      "number": 4182,
+      "title": "[Português] - Ano 2 - 4.3 # Classificação silábica das palavras paroxítonas  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcYGig",
+      "number": 4183,
+      "title": "[História]- Ano 2 - 2.2 As viagens missionárias de Paulo (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcbKbg",
+      "number": 4184,
+      "title": "[História]- Ano 2 - 2.3 As cartas de Paulo para igrejas distantes (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcboog",
+      "number": 4185,
+      "title": "[Português] - Ano 2 - 5.1 Classificação silábica das palavras proparoxítonas  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAccAog",
+      "number": 4186,
+      "title": "[História]- Ano 2 - 3.1 A prisão de Paulo em Roma  (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcdSYw",
+      "number": 4187,
+      "title": "[Português] - Ano 2 - 5.2 Acentuação gráfica com acento agudo  (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAcgUFw",
+      "number": 4188,
+      "title": "[Português] - Ano 2 - 5.3 Acentuação gráfica com acento circunflexo (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAchGUg",
+      "number": 4189,
+      "title": "[História]- Ano 2 - 3.2 As cartas da prisão (UPDATE)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAchcQg",
+      "number": 4190,
+      "title": "[Português] - Ano 2 - 6.1 Ponto final (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAciuIA",
+      "number": 4191,
+      "title": "[Português] - Ano 2 - 6.2  Vírgula (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABAckjMQ",
+      "number": 4192,
+      "title": "[Português] - Ano 2 - 6.3 Parênteses (Update)",
       "reason": "title_out_of_pattern"
     }
   ],
@@ -48857,7 +48929,7 @@
       "id": "I_kwDOPFPmMM74mTJu",
       "number": 2968,
       "title": "[Geografia] - Ano 1 - 27.2 Árvores",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48874,7 +48946,7 @@
       "id": "I_kwDOPFPmMM74mTQU",
       "number": 2969,
       "title": "[Geografia] - Ano 1 - 27.3 Grama",
-      "status": "In Review",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48891,7 +48963,7 @@
       "id": "I_kwDOPFPmMM74mTXf",
       "number": 2970,
       "title": "[Geografia] - Ano 1 - 27.4 Revisão",
-      "status": "In Review",
+      "status": "In Progress",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48925,7 +48997,7 @@
       "id": "I_kwDOPFPmMM74mTlC",
       "number": 2972,
       "title": "[Geografia] - Ano 1 - 28.1 Animais do ambiente",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48942,7 +49014,7 @@
       "id": "I_kwDOPFPmMM74mTuU",
       "number": 2973,
       "title": "[Geografia] - Ano 1 - 28.2 Animais domésticos",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48959,7 +49031,7 @@
       "id": "I_kwDOPFPmMM74mT1U",
       "number": 2974,
       "title": "[Geografia] - Ano 1 - 28.3 Animais selvagens",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
@@ -48976,7 +49048,7 @@
       "id": "I_kwDOPFPmMM74mT90",
       "number": 2975,
       "title": "[Geografia] - Ano 1 - 28.4 Revisão",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "Geografia",
