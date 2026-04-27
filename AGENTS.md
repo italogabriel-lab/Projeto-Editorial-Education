@@ -31,6 +31,18 @@ As aulas seguem um pipeline de 7 etapas com agentes especializados:
 4. **Sincronização de títulos**: executar `trivium-method-editorial/scripts/sync_titles.py` ao detectar divergências
 5. **Commits**: convencionais (`feat:`, `fix:`, `content:`, `chore:`, `docs:`)
 
+## Estrutura Codex
+
+Quando o agente em uso for o Codex, consultar também esta ordem:
+
+1. `CODEX.md`
+2. `.codex/rules/`
+3. `.codex/commands/`
+4. `.codex/skills/`
+5. `.codex/agents/`
+
+Objetivo, manter no Codex a mesma organização operacional já usada em `.claude/`.
+
 ## Qualidade de Escrita
 
 - Voz ativa, imperativo nos enunciados
