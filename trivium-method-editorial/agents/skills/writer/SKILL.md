@@ -54,14 +54,14 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
-- ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO. (sem limites longos).
-- Bloco deve ter quebras de linha limpas. NUNCA misture tudo num blocão.
-- Frase 1: "Reconheça que..." + contexto principal.
-- Frase 2: "Observe que..." + argumento/reflexão secundária.
-- Frase 3: A definição curtíssima e direta da palavra-chave.
+- ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO.
+- Frase 1 + Frase 2 na MESMA linha: "Reconheça que..." + ponto + espaço + "Observe que...". NÃO usar linha em branco entre as duas frases.
+- Deixar linha em branco apenas ANTES da definição do termo e antes de "Veja o vídeo abaixo."
+- Frase 3: A definição curtissima e direta da palavra-chave (linha separada com linha em branco acima).
 - Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, `@link_png@` logo após, definição dentro do MP3, definição com negrito e reflexão teológica.
+- Accordion: pergunta, `@link_png@` logo após, definição dentro do MP3, definição com negrito.
+- **Reflexão no Accordion**: NÃO começar com citação bíblica nem com frase no padrão "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema da aula.
 
 ### Perceber (Observar)
 - 3-4 frases no imperativo descrevendo o que observar

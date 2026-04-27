@@ -14,11 +14,9 @@ Todas as aulas geradas pelo Editorial Squad devem usar EXATAMENTE este esqueleto
 
 [+PARAGRAPH]
 
-[Frase curta começando com 'Reconheça que...' e o contexto principal]
+[Frase começando com 'Reconheça que...' e o contexto principal. Frase começando com 'Observe que...' e um argumento extra. As duas frases ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
 
-[Frase curta começando com 'Observe que...' e um argumento extra]
-
-[Definição extremamente curta e direta ao assunto do termo (Ex: X é Y)]
+[Definição extremamente curta e direta ao assunto do termo (Ex: X é Y).]
 
 Veja o vídeo abaixo.
 
@@ -56,7 +54,7 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 **Reflexão**
 
-[Reflexão teológica curta no imperativo.]
+[Reflexão teológica curta sobre o tema. NÃO começar com citação bíblica ou referência de versículo. Ir direto à reflexão.]
 
 [-ACCORDION]
 
@@ -296,3 +294,5 @@ Responda oralmente às perguntas abaixo sobre o texto.
 11. **Voz ativa e imperativo** em todas as instruções.
 12. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
 13. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
+14. **Parágrafo inicial do Definir** — as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço. NÃO usar linha em branco entre elas. Deixar linha em branco apenas antes da definição do termo.
+15. **Reflexão no Accordion** — nunca começar com citação bíblica ou frase no formato "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema. O verso bíblico pode aparecer em aulas posteriores, mas não como frase introdutória da reflexão.
