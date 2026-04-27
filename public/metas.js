@@ -11,10 +11,21 @@ function isProduced(status) {
     return PRODUCED_STATUSES.includes(status);
 }
 
+/**
+ * Regras de filtro (espelho das regras do src/sync.js):
+ * - Aceita: [Disciplina] - ANO|Ano|ano N - N.D Título
+ * - Descarta: títulos com (update) ou a palavra update (case-insensitive)
+ * - Aceita qualquer número de ano (1-9)
+ */
 function isTrackableLessonItem(item) {
     if (!item) return false;
+    const title = (item.title || '').replace(/\s+/g, ' ').trim();
+    // Descarta tickets de atualização
+    if (/\(update\)/i.test(title) || /\bupdate\b/i.test(title)) return false;
+    // Item já sincronizado pelo sync.js (tem canonical_key e lesson_code)
     if (item.canonical_key && item.lesson_code) return true;
-    return /^\s*\[[^\]]+\]\s*-\s*Ano\s*[1-5]\s*-\s*\d{1,2}\.\d\s+.+\s*$/i.test(item.title || '');
+    // Fallback: valida pelo título bruto
+    return /^\s*\[[^\]]+\]\s*-\s*ano\s*\d{1,2}\s*-\s*\d{1,2}(?:\.\d)?\s+.+\s*$/i.test(title);
 }
 
 function normalizeSubject(name) {

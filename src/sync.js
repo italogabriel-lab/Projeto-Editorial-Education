@@ -143,14 +143,30 @@ function parseBimesterExamTitle(title) {
   };
 }
 
+/**
+ * Regras de parse do título canônico:
+ * Formato esperado: [Disciplina] - ANO N - N.D Título da aula
+ *   - [Disciplina]: qualquer texto entre colchetes (case-insensitive)
+ *   - ANO/Ano/ano: literal, qualquer capitalização
+ *   - N: número do ano (1-9, aceita qualquer valor inteiro)
+ *   - N.D: código da aula (ex: 11.1) — ou número inteiro para Revisão/Prova
+ *   - Título: texto livre após o código
+ * Descarte imediato: títulos que contenham "(update)" ou a palavra "update"
+ * em qualquer posição (case-insensitive).
+ */
 function parseCanonicalLessonTitle(title) {
   if (!title) return null;
 
+  // Normaliza espaços internos e remove bordas
   const compactTitle = title.replace(/\s+/g, ' ').trim();
-  if (/\bupdate\b/i.test(compactTitle)) return null;
 
+  // REGRA: tickets com (update) ou a palavra update são ignorados da contagem
+  if (/\(update\)/i.test(compactTitle) || /\bupdate\b/i.test(compactTitle)) return null;
+
+  // Regex principal: [Disciplina] - Ano N - N.D Título
+  // Aceita qualquer capitalização de "ano" e qualquer número de 1 dígito a 2 dígitos para o ano
   const match = compactTitle.match(
-    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>[1-5])\s*-\s*(?<lesson>\d{1,2}(?:\s*\.\s*\d)?)\s*-?\s*(?<lessonTitle>.+?)\s*$/i
+    /^\[\s*(?<subject>[^\]]+?)\s*\]\s*-\s*ano\s*(?<year>\d{1,2})\s*-\s*(?<lesson>\d{1,2}(?:\s*\.\s*\d)?)\s*-?\s*(?<lessonTitle>.+?)\s*$/i
   );
   if (!match || !match.groups) {
     return parseBimesterExamTitle(compactTitle);
