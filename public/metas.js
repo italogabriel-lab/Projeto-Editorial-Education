@@ -153,10 +153,10 @@ function renderMetas(items) {
             const doneCount = hasData ? yr.d : 0;
 
             yearRowsHTML += `
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 8px 12px; background: rgba(255,255,255,0.03); border-radius: 6px;">
-                    <span style="color: #cbd5e1; font-weight: 500;">Ano ${ano}:</span>
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 8px 12px; background: rgba(241,245,249,0.9); border-radius: 6px;">
+                    <span style="color: var(--text-secondary); font-weight: 500;">Ano ${ano}:</span>
                     <div style="display: flex; align-items: center; gap: 10px;">
-                        <span style="font-size: 0.85rem; color: #94a3b8;">${renderProgressBar(yrPct, 10)}</span>
+                        <span style="font-size: 0.85rem; color: var(--text-muted);">${renderProgressBar(yrPct, 10)}</span>
                         <strong style="color: ${yrColorHex}; font-size: 0.9rem;">
                             ${doneCount}/${META_POR_DISCIPLINA} (${yrPct}%)
                         </strong>
@@ -184,11 +184,11 @@ function renderMetas(items) {
                     <p style="margin-bottom: 12px; font-size: 1.3rem;">
                         <strong>${pct}%</strong> <span style="font-size: 1rem; opacity: 0.8">(${st.d}/${totalMetaDisciplina})</span>
                     </p>
-                    <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; margin-bottom: 15px; overflow: hidden;">
+                    <div style="width: 100%; height: 8px; background: rgba(148,163,184,0.22); border-radius: 4px; margin-bottom: 15px; overflow: hidden;">
                         <div style="width: ${pct}%; height: 100%; background: ${getProgressColorHex(pct)}; transition: width 0.3s;"></div>
                     </div>
                     <small style="opacity: 0.6; display:block; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px; margin-bottom: 10px;">Meta: ${META_POR_DISCIPLINA} aulas/ano</small>
-                    <div style="border-top: 1px solid rgba(255,255,255,0.1); padding-top: 10px;">
+                    <div style="border-top: 1px solid var(--border-glass); padding-top: 10px;">
                         ${yearRowsHTML}
                     </div>
                 </div>
@@ -224,7 +224,7 @@ function renderMetas(items) {
         options: {
             responsive: true, maintainAspectRatio: false,
             scales: { x: { stacked: true }, y: { stacked: true } },
-            plugins: { legend: { labels: { color: '#cbd5e1' } } }
+            plugins: { legend: { labels: { color: '#334155' } } }
         }
     });
 
@@ -243,7 +243,7 @@ function renderMetas(items) {
         },
         options: {
             responsive: true, maintainAspectRatio: false,
-            plugins: { legend: { position: 'bottom', labels: { color: '#cbd5e1' } } }
+            plugins: { legend: { position: 'bottom', labels: { color: '#334155' } } }
         }
     });
 
@@ -362,23 +362,23 @@ function renderSubjectHealth(items) {
                         <span>Produzido: <strong style="color: var(--color-success-light);">${totalProduced}</strong> / ${META_POR_DISCIPLINA_TOTAL}</span>
                         <span>Faltando: <strong>${remaining}</strong></span>
                     </div>
-                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
+                    <div style="width: 100%; height: 6px; background: rgba(148,163,184,0.22); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
                         <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${healthData.health === 'completed' ? 'var(--color-success)' : (healthData.health === 'critical' ? 'var(--color-danger)' : (healthData.health === 'warning' ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
                     </div>
                     <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 10px;">
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
                             <div style="color: var(--text-muted);">Backlog</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-primary-light); font-weight: 600;">${inFlow}</div>
                             <div style="color: var(--text-muted);">Em Fluxo</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
                             <div style="color: var(--text-muted);">Feito</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: ${healthData.healthColor}; font-weight: 600;">${Math.max(0, healthData.daysRemaining)}</div>
                             <div style="color: var(--text-muted);">Dias</div>
                         </div>

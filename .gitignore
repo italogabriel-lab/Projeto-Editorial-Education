@@ -87,6 +87,8 @@ node_modules/
 node_modules
 .playwright/
 .codex
+!.codex/
+!.codex/**
 test-results/
 
 # Build & Logs (AIOX)

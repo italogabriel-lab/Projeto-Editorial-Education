@@ -243,25 +243,25 @@ function runProgressEngine(items) {
                         <span>Produzido: <strong style="color: var(--color-success-light);">${produced}</strong> / ${META_EQUIPE_ANO}</span>
                         <span>Faltando: <strong>${remaining}</strong></span>
                     </div>
-                    <div style="width: 100%; height: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; overflow: hidden; margin-bottom: 16px;">
+                    <div style="width: 100%; height: 10px; background: rgba(148,163,184,0.22); border-radius: 5px; overflow: hidden; margin-bottom: 16px;">
                         <div style="width: ${progressBarPct}%; height: 100%; background: ${progressColor}; transition: width 0.3s;"></div>
                     </div>
 
                     <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; font-size: 0.75rem; margin-bottom: 14px;">
-                        <div style="text-align: center; padding: 8px 4px; background: rgba(0,0,0,0.2); border-radius: 6px;">
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(241,245,249,0.9); border-radius: 6px;">
                             <div style="color: var(--color-warning-light); font-weight: 700; font-size: 0.95rem;">${stats.backlog}</div>
                             <div style="color: var(--text-muted); margin-top: 2px;">Backlog</div>
                         </div>
-                        <div style="text-align: center; padding: 8px 4px; background: rgba(0,0,0,0.2); border-radius: 6px;">
+                        <div style="text-align: center; padding: 8px 4px; background: rgba(241,245,249,0.9); border-radius: 6px;">
                             <div style="color: var(--color-primary-light); font-weight: 700; font-size: 0.95rem;">${stats.inProgress}</div>
                             <div style="color: var(--text-muted); margin-top: 2px;">Em Progresso</div>
                         </div>
                         <div style="text-align: center; padding: 8px 4px; background: rgba(59,130,246,0.15); border-radius: 6px; border: 1px solid rgba(59,130,246,0.3);">
-                            <div style="color: #93c5fd; font-weight: 700; font-size: 0.95rem;">${stats.review}</div>
+                            <div style="color: var(--color-primary-light); font-weight: 700; font-size: 0.95rem;">${stats.review}</div>
                             <div style="color: var(--text-muted); margin-top: 2px;">Em Revisão</div>
                         </div>
                         <div style="text-align: center; padding: 8px 4px; background: rgba(139,92,246,0.15); border-radius: 6px; border: 1px solid rgba(139,92,246,0.3);">
-                            <div style="color: #c4b5fd; font-weight: 700; font-size: 0.95rem;">${stats.video}</div>
+                            <div style="color: var(--color-secondary-light); font-weight: 700; font-size: 0.95rem;">${stats.video}</div>
                             <div style="color: var(--text-muted); margin-top: 2px;">Em Vídeo</div>
                         </div>
                         <div style="text-align: center; padding: 8px 4px; background: rgba(16,185,129,0.15); border-radius: 6px; border: 1px solid rgba(16,185,129,0.3);">
@@ -315,11 +315,11 @@ function runProgressEngine(items) {
                 responsive: true,
                 maintainAspectRatio: false,
                 scales: {
-                    x: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } },
-                    y: { stacked: true, grid: { color: 'rgba(255,255,255,0.05)' } }
+                    x: { stacked: true, grid: { color: 'rgba(148,163,184,0.18)' } },
+                    y: { stacked: true, grid: { color: 'rgba(148,163,184,0.18)' } }
                 },
                 plugins: {
-                    legend: { labels: { color: '#cbd5e1' } }
+                    legend: { labels: { color: '#334155' } }
                 }
             }
         });
@@ -346,7 +346,7 @@ function runProgressEngine(items) {
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
-                plugins: { legend: { position: 'right', labels: { color: '#cbd5e1' } } }
+                plugins: { legend: { position: 'right', labels: { color: '#334155' } } }
             }
         });
     }
@@ -510,23 +510,23 @@ function renderUserHealth(items) {
                         <span>Produzido: <strong style="color: var(--color-success-light);">${totalDone}</strong> / ${META_POR_USER}</span>
                         <span>Faltando: <strong>${remaining}</strong></span>
                     </div>
-                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
+                    <div style="width: 100%; height: 6px; background: rgba(148,163,184,0.22); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
                         <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${healthData.health === 'completed' ? 'var(--color-success)' : (healthData.health === 'critical' ? 'var(--color-danger)' : (healthData.health === 'warning' ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
                     </div>
                     <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 10px;">
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
                             <div style="color: var(--text-muted);">Backlog</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-primary-light); font-weight: 600;">${inFlow}</div>
                             <div style="color: var(--text-muted);">Em Fluxo</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
                             <div style="color: var(--text-muted);">Feito</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.daysRemaining}</div>
                             <div style="color: var(--text-muted);">Dias</div>
                         </div>
@@ -625,23 +625,23 @@ function renderSubjectHealth(items) {
                         <span>Produzido: <strong style="color: var(--color-success-light);">${totalDone}</strong> / ${META_POR_DISCIPLINA_TOTAL}</span>
                         <span>Faltando: <strong>${remaining}</strong></span>
                     </div>
-                    <div style="width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
+                    <div style="width: 100%; height: 6px; background: rgba(148,163,184,0.22); border-radius: 3px; overflow: hidden; margin-bottom: 10px;">
                         <div style="width: ${Math.min(pct, 100)}%; height: 100%; background: ${healthData.health === 'completed' ? 'var(--color-success)' : (healthData.health === 'critical' ? 'var(--color-danger)' : (healthData.health === 'warning' ? 'var(--color-warning)' : 'var(--color-primary)'))}; transition: width 0.3s;"></div>
                     </div>
                     <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; font-size: 0.7rem; margin-bottom: 10px;">
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-warning-light); font-weight: 600;">${stats.backlog}</div>
                             <div style="color: var(--text-muted);">Backlog</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-primary-light); font-weight: 600;">${inFlow}</div>
                             <div style="color: var(--text-muted);">Em Fluxo</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: var(--color-success-light); font-weight: 600;">${stats.done}</div>
                             <div style="color: var(--text-muted);">Feito</div>
                         </div>
-                        <div style="text-align: center; padding: 4px; background: rgba(0,0,0,0.2); border-radius: 4px;">
+                        <div style="text-align: center; padding: 4px; background: rgba(241,245,249,0.9); border-radius: 4px;">
                             <div style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.daysRemaining}</div>
                             <div style="color: var(--text-muted);">Dias</div>
                         </div>

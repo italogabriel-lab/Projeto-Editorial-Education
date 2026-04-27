@@ -247,7 +247,7 @@ function renderDisciplineCards(items) {
                         <span style="font-size: 0.85rem; color: var(--text-secondary);">Progresso ${currentYearFilter === 'all' ? 'Total' : ['', '1º Ano', '2º Ano', '3º Ano', '4º Ano', '5º Ano'][currentYearFilter]}</span>
                         <span style="font-size: 1.1rem; font-weight: 700; color: ${colorHex};">${displayPct}%</span>
                     </div>
-                    <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.08); border-radius: 4px; overflow: hidden;">
+                    <div style="width: 100%; height: 8px; background: rgba(148,163,184,0.22); border-radius: 4px; overflow: hidden;">
                         <div style="width: ${displayPct}%; height: 100%; background: ${colorHex}; transition: width 0.3s;"></div>
                     </div>
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 6px; text-align: right;">
@@ -366,7 +366,7 @@ function showDisciplineDetail(subject) {
         const yrInFlow = yrInProgress + yrReview + yrVideo;
 
         yearCardsHTML += `
-            <div class="year-detail-card glass-panel" style="padding: 1.25rem; border-top: 3px solid ${yrColor}; cursor: pointer; transition: all 0.3s;" onclick="showYearHealthDetail('${subject}', ${ano})" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <div class="year-detail-card glass-panel" style="padding: 1.25rem; border-top: 3px solid ${yrColor}; cursor: pointer; transition: all 0.3s;" onclick="showYearHealthDetail('${subject}', ${ano})" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 14px 28px rgba(15,23,42,0.12)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
                     <h4 style="font-size: 1rem; font-weight: 700; color: var(--text-primary); margin: 0;">
                         <i class="ph ph-graduation-cap" style="color: ${yrColor}; margin-right: 8px;"></i>
@@ -375,7 +375,7 @@ function showDisciplineDetail(subject) {
                     <span style="font-size: 1.3rem; font-weight: 700; color: ${yrColor};">${yrPct}%</span>
                 </div>
                 <div style="margin-bottom: 1rem;">
-                    <div style="width: 100%; height: 8px; background: rgba(255,255,255,0.08); border-radius: 4px; overflow: hidden;">
+                    <div style="width: 100%; height: 8px; background: rgba(148,163,184,0.22); border-radius: 4px; overflow: hidden;">
                         <div style="width: ${yrPct}%; height: 100%; background: ${yrColor}; transition: width 0.3s;"></div>
                     </div>
                     <div style="display: flex; justify-content: space-between; margin-top: 6px; font-size: 0.75rem; color: var(--text-muted);">
@@ -386,19 +386,19 @@ function showDisciplineDetail(subject) {
                 
                 <!-- Year-specific metrics -->
                 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding-top: 1rem; border-top: 1px solid var(--border-glass); margin-bottom: 1rem;">
-                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                    <div style="text-align: center; padding: 6px; background: rgba(241,245,249,0.9); border-radius: 5px;">
                         <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-warning-light);">${yrBacklog}</div>
                         <div style="font-size: 0.6rem; color: var(--text-muted);">Backlog</div>
                     </div>
-                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                    <div style="text-align: center; padding: 6px; background: rgba(241,245,249,0.9); border-radius: 5px;">
                         <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-primary-light);">${yrInFlow}</div>
                         <div style="font-size: 0.6rem; color: var(--text-muted);">Em Fluxo</div>
                     </div>
-                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                    <div style="text-align: center; padding: 6px; background: rgba(241,245,249,0.9); border-radius: 5px;">
                         <div style="font-size: 0.95rem; font-weight: 600; color: var(--color-success-light);">${yrDone}</div>
                         <div style="font-size: 0.6rem; color: var(--text-muted);">Produzidas</div>
                     </div>
-                    <div style="text-align: center; padding: 6px; background: rgba(0,0,0,0.15); border-radius: 5px;">
+                    <div style="text-align: center; padding: 6px; background: rgba(241,245,249,0.9); border-radius: 5px;">
                         <div style="font-size: 0.95rem; font-weight: 600; color: ${yrColor};">${yrRemaining}</div>
                         <div style="font-size: 0.6rem; color: var(--text-muted);">Restantes</div>
                     </div>
@@ -678,7 +678,7 @@ function showYearHealthDetail(subject, year) {
         <div class="glass-panel" style="padding: 1.5rem; border-left: 4px solid ${healthData.healthColor};">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border-glass);">
                 <div style="display: flex; align-items: center; gap: 16px;">
-                    <button id="back-to-discipline-detail-btn" style="background: rgba(255,255,255,0.05); border: 1px solid var(--border-glass); border-radius: 8px; padding: 8px 12px; cursor: pointer; color: var(--text-primary); display: flex; align-items: center; gap: 6px; transition: all 0.2s;" onclick="backToDisciplineDetail()">
+                    <button id="back-to-discipline-detail-btn" style="background: rgba(255,255,255,0.78); border: 1px solid var(--border-glass); border-radius: 8px; padding: 8px 12px; cursor: pointer; color: var(--text-primary); display: flex; align-items: center; gap: 6px; transition: all 0.2s;" onclick="backToDisciplineDetail()">
                         <i class="ph ph-arrow-left"></i> Voltar
                     </button>
                     <div style="width: 56px; height: 56px; background: ${healthData.healthBg}; border-radius: 14px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; color: ${healthData.healthColor};">
@@ -716,7 +716,7 @@ function showYearHealthDetail(subject, year) {
 
             <!-- Production Metrics Grid -->
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 1.5rem;">
-                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                <div style="padding: 1.25rem; background: rgba(241,245,249,0.9); border-radius: 10px; text-align: center;">
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
                         <i class="ph ph-check-circle"></i> Produzidas
                     </div>
@@ -728,7 +728,7 @@ function showYearHealthDetail(subject, year) {
                     </div>
                 </div>
 
-                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                <div style="padding: 1.25rem; background: rgba(241,245,249,0.9); border-radius: 10px; text-align: center;">
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
                         <i class="ph ph-hourglass-simple"></i> Restantes
                     </div>
@@ -740,7 +740,7 @@ function showYearHealthDetail(subject, year) {
                     </div>
                 </div>
 
-                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center;">
+                <div style="padding: 1.25rem; background: rgba(241,245,249,0.9); border-radius: 10px; text-align: center;">
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
                         <i class="ph ph-calendar"></i> Dias Úteis
                     </div>
@@ -752,7 +752,7 @@ function showYearHealthDetail(subject, year) {
                     </div>
                 </div>
 
-                <div style="padding: 1.25rem; background: rgba(0,0,0,0.2); border-radius: 10px; text-align: center; border: 2px solid ${healthData.healthColor};">
+                <div style="padding: 1.25rem; background: rgba(241,245,249,0.9); border-radius: 10px; text-align: center; border: 2px solid ${healthData.healthColor};">
                     <div style="font-size: 0.75rem; color: var(--text-muted); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">
                         <i class="ph ph-lightning"></i> Meta Diária
                     </div>
@@ -771,7 +771,7 @@ function showYearHealthDetail(subject, year) {
                     <span style="color: var(--text-secondary);">Progresso até ${healthData.targetMonthName}</span>
                     <span style="color: ${healthData.healthColor}; font-weight: 600;">${healthData.produced}/${META_POR_DISCIPLINA_ANO}</span>
                 </div>
-                <div style="width: 100%; height: 12px; background: rgba(255,255,255,0.08); border-radius: 6px; overflow: hidden;">
+                <div style="width: 100%; height: 12px; background: rgba(148,163,184,0.22); border-radius: 6px; overflow: hidden;">
                     <div style="width: ${Math.min(healthData.pct, 100)}%; height: 100%; background: ${healthData.healthColor}; transition: width 0.4s ease;"></div>
                 </div>
                 <div style="display: flex; justify-content: space-between; margin-top: 6px; font-size: 0.75rem;">
@@ -782,7 +782,7 @@ function showYearHealthDetail(subject, year) {
             </div>
 
             <!-- Production Gap Analysis -->
-            <div style="padding: 1rem; background: rgba(0,0,0,0.15); border-radius: 8px; margin-bottom: 1.5rem;">
+            <div style="padding: 1rem; background: rgba(241,245,249,0.9); border-radius: 8px; margin-bottom: 1.5rem;">
                 <h4 style="font-size: 0.9rem; font-weight: 600; color: var(--text-primary); margin: 0 0 12px 0; display: flex; align-items: center; gap: 8px;">
                     <i class="ph ph-chart-line-up" style="color: var(--color-primary-light);"></i>
                     Análise de Ritmo
@@ -846,5 +846,3 @@ function backToDisciplineDetail() {
     // Scroll to discipline detail section
     document.getElementById('discipline-detail-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
-
-
