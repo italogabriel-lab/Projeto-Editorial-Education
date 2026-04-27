@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-27T21:39:31.215Z",
-  "total_items": 3636,
-  "ignored_items_count": 272,
-  "duplicate_items_count": 69,
+  "last_updated": "2026-04-27T22:31:10.015Z",
+  "total_items": 3637,
+  "ignored_items_count": 278,
+  "duplicate_items_count": 70,
   "ignored_items": [
     {
       "id": "I_kwDOPFPmMM7XlWQ_",
@@ -1635,6 +1635,42 @@
       "number": 4205,
       "title": "[História]- Ano 2 - 4.1 Nero, o imperador que odiava a verdade (UPDATE)",
       "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApGQlg",
+      "number": 4206,
+      "title": "[Português] - Ano 2 - 12.3 Emprego do \"j\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApMjzw",
+      "number": 4208,
+      "title": "[Português] - Ano 2 - 12.3 Emprego do \"j\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApNhsg",
+      "number": 4209,
+      "title": "[Português] - Ano 2 - 13.1 Mau com \"u\" e mal com \"l\" (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApO3_g",
+      "number": 4210,
+      "title": "[Português] - Ano 2 - 13.2 Emprego do \"e\" nos verbos (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApQLRQ",
+      "number": 4211,
+      "title": "[Português] - Ano 2 - 13.3 Emprego do \"i\" nos verbos (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApSQKg",
+      "number": 4213,
+      "title": "[Português] - Ano 2 - 14.2 Pensar e escrever com coerência (Update)",
+      "reason": "title_out_of_pattern"
     }
   ],
   "duplicate_items": [
@@ -2051,6 +2087,12 @@
       "discarded_number": 2095,
       "canonical_key": "matemática|1|36.1|dobro",
       "title": "[Matemática] - Ano 1 - 36.1 Dobro"
+    },
+    {
+      "kept_number": 1130,
+      "discarded_number": 4212,
+      "canonical_key": "português|2|14.1|organização de ideias com coesão",
+      "title": "[Português] - Ano 2 - 14.1 Organização de ideias com coesão"
     }
   ],
   "items": [
@@ -66569,6 +66611,23 @@
       "lesson_title": "Dobro",
       "canonical_key": "matemática|1|36.1|dobro",
       "created_at": "2026-04-20T17:09:07Z",
+      "closed_at": null,
+      "lead_time_days": null,
+      "labels": []
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABApIRvw",
+      "number": 4207,
+      "title": "[Português] - Ano 2 - 13.1 Mau com \"u\" e mal com \"l\"",
+      "status": "In Review",
+      "state": "OPEN",
+      "assignee": "Fabiomorais87",
+      "subject": "Português",
+      "year": 2,
+      "lesson_code": "13.1",
+      "lesson_title": "Mau com \"u\" e mal com \"l\"",
+      "canonical_key": "português|2|13.1|mau com \"u\" e mal com \"l\"",
+      "created_at": "2026-04-27T18:43:00Z",
       "closed_at": null,
       "lead_time_days": null,
       "labels": []
