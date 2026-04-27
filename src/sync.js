@@ -457,6 +457,29 @@ async function sync() {
     process.exit(1);
   }
 
+  // Guarda contra sync parcial: paginação GraphQL pode encerrar antes da hora
+  // (rate-limit/timeout transiente). Se o novo snapshot tiver queda > 5% em
+  // relação ao último data.json válido, aborta sem sobrescrever.
+  const PARTIAL_SYNC_TOLERANCE = 0.05;
+  const dataJsonPath = path.resolve(__dirname, '../public/data.json');
+  try {
+    if (fs.existsSync(dataJsonPath)) {
+      const previous = JSON.parse(fs.readFileSync(dataJsonPath, 'utf8'));
+      const previousTotal = Number(previous.total_items) || 0;
+      if (previousTotal > 0) {
+        const minAcceptable = Math.floor(previousTotal * (1 - PARTIAL_SYNC_TOLERANCE));
+        if (allItems.length < minAcceptable) {
+          console.error(`⚠️ Sync parcial detectado: ${allItems.length} items contra ${previousTotal} no snapshot anterior.`);
+          console.error(`⚠️ Tolerância mínima: ${minAcceptable} (${Math.round((1 - PARTIAL_SYNC_TOLERANCE) * 100)}% do anterior).`);
+          console.error("⚠️ data.json NÃO será sobrescrito para preservar o snapshot íntegro.");
+          process.exit(1);
+        }
+      }
+    }
+  } catch (error) {
+    console.warn(`⚠️ Não foi possível validar contra o data.json anterior: ${error.message}`);
+  }
+
   const output = {
     last_updated: new Date().toISOString(),
     total_items: allItems.length,
@@ -467,12 +490,11 @@ async function sync() {
     items: allItems
   };
 
-  const docsDir = path.resolve(__dirname, '../public');
-  fs.writeFileSync(path.join(docsDir, 'data.json'), JSON.stringify(output, null, 2));
+  fs.writeFileSync(dataJsonPath, JSON.stringify(output, null, 2));
 
   const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
-  console.log(`✅ Data gravada em ${docsDir}/data.json`);
+  console.log(`✅ Data gravada em ${dataJsonPath}`);
   console.log(`✅ Total de items: ${output.total_items}`);
   console.log(`✅ Última atualização: ${new Date().toISOString()}`);
   console.log(`⏱️  Duration: ${duration}s`);
