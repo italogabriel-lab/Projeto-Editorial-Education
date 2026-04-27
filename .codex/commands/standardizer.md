@@ -93,7 +93,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - Definição → `[+ACCORDION]`:
   - Pergunta: "O que é [Termo]?"
   - `@link_png@`
-  - `[MP3/]` `#11L:9pDzHy2OpOgeXM8SeL0t` Definição texto puro `[MP3\]`
+  - `[MP3/]` `#XAI:rex` Definição texto puro `[MP3\]`
   - Definição com **negrito** nos termos-chave
   - `**Reflexão**` + texto teológico no imperativo
 - **CRÍTICO**: A definição dentro do MP3 DEVE ser idêntica à do Recordar/Praticar
@@ -125,7 +125,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 5. Narrar
 - `## Narrar` (H2)
 - `[+HEADING] Leitura [-HEADING]`
-- `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com **negrito** e *itálico*
+- `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** terminando no Século — sem trecho de conexão entre parênteses no final
 - `[+HEADING] Perguntas [-HEADING]`
 - `[+LIST_NUMBERED]` com 3 perguntas, interrogação, 1 linha de espaço entre elas
 
@@ -137,6 +137,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 4. **Título** começa com `#` seguido do nome criativo da aula
 5. **Seções** são `## Definir`, `## Perceber`, `## Recordar`, `## Praticar`, `## Narrar`
 6. **Sem termos em inglês** na versão final (exceto definição Webster no Accordion)
+7. **Atribuição do Narrar** — formato: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].` Terminar SEMPRE com **ponto final após o Século**. NÃO acrescentar frase de conexão entre parênteses no final.
 
 ## Output
 

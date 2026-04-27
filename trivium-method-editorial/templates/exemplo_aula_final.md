@@ -66,7 +66,7 @@ Função didática é o uso da imagem para ensinar a fé e formar discípulos na
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#XAI:rex
 
 Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
 
@@ -139,7 +139,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#XAI:rex
 
 Função didática é o uso da imagem para ensinar a fé.
 

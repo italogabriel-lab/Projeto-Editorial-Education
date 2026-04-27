@@ -44,7 +44,7 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#XAI:rex
 
 [Definição em português — EXATAMENTE a mesma usada no Recordar e Praticar]
 
@@ -100,7 +100,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#XAI:rex
 
 [Definição CURTA — 9 a 10 palavras]
 
@@ -152,7 +152,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula].
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#XAI:rex
 
 *[Título da rima]*
 
@@ -236,7 +236,7 @@ Leitura
 
 [Segundo parágrafo do trecho literário, aprofundando a reflexão com linguagem elevada e poética.]"
 
-Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século] ([Breve descrição da conexão com o tema da aula])
+Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
 
 [-IMAGE_TEXT_ASIDE]
 
@@ -250,7 +250,7 @@ Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cris
 
 [Segundo parágrafo do trecho literário, aprofundando a reflexão com linguagem elevada e poética.]"
 
-Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século] ([Breve descrição da conexão com o tema da aula])
+Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
 
 [-PARAGRAPH]
 
@@ -296,3 +296,4 @@ Responda oralmente às perguntas abaixo sobre o texto.
 13. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
 14. **Parágrafo inicial do Definir** — as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço. NÃO usar linha em branco entre elas. Deixar linha em branco apenas antes da definição do termo.
 15. **Reflexão no Accordion** — nunca começar com citação bíblica ou frase no formato "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema. O verso bíblico pode aparecer em aulas posteriores, mas não como frase introdutória da reflexão.
+16. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
