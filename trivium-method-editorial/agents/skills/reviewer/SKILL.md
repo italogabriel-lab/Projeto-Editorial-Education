@@ -116,7 +116,9 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] 3-4 lacunas com `_____` (5 underscores)
 - [ ] Respostas na última linha, separadas por vírgula
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
-- [ ] Atividade extra com instrução imperativa + `[+ATTACHMENT]` com `@link_pdf@`
+- [ ] Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção."
+- [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- [ ] **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ---
 
@@ -183,7 +185,8 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Ordem: Definir → Perceber → Recordar → Praticar → Narrar
 - [ ] H1 para título, H2 para hábitos
 - [ ] Subtítulos com `[+HEADING]` (NUNCA H3)
-- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`, `@link_pdf@`
+- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`
+- [ ] Atividade Extra usa `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` (NÃO `[+ATTACHMENT]`)
 
 ---
 

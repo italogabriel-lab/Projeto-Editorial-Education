@@ -197,15 +197,15 @@ Atividade Extra
 
 [+PARAGRAPH]
 
-Imagine que alguém não sabe ler. Desenhe a história da Arca de Noé em 3 cenas para ensinar essa pessoa. Use traços simples e diretos.
+Acesse o PDF abaixo e faça a atividade com atenção.
 
 [-PARAGRAPH]
 
-[+ATTACHMENT]
+[+ACTIVITY_WORKSHEET]
 
-@link_pdf@
+INSTRUCTION=Imagine que alguém não sabe ler. Desenhe a história da Arca de Noé em 3 cenas para ensinar essa pessoa. Use traços simples e diretos.
 
-[-ATTACHMENT]
+[-ACTIVITY_WORKSHEET]
 
 ---
 

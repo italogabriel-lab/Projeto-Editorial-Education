@@ -75,7 +75,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 | `[+STATEMENT_D] ... [-STATEMENT_D]` | Definição com áudio |
 | `[+IMAGE_TEXT_ON] ... [-IMAGE_TEXT_ON]` | Imagem com texto sobreposto |
 | `[+FILL_IN] ... [-FILL_IN]` | Lacunas |
-| `[+ATTACHMENT] ... [-ATTACHMENT]` | PDF anexo |
+| `[+ACTIVITY_WORKSHEET] ... [-ACTIVITY_WORKSHEET]` | Atividade com PDF (enunciado via `INSTRUCTION=`) |
 | `[+IMAGE_TEXT_ASIDE] ... [-IMAGE_TEXT_ASIDE]` | Imagem com texto ao lado |
 | `[+LIST_NUMBERED] ... [-LIST_NUMBERED]` | Lista numerada |
 | `[+MATCHING] ... [-MATCHING]` | Correspondência |
@@ -119,8 +119,9 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Complete as lacunas para... [-PARAGRAPH]` (instrução imperativa)
 - `[+FILL_IN]`: definição do Recordar com `_____` (5 underscores), respostas na linha seguinte
 - `[+HEADING] Atividade Extra [-HEADING]`
-- `[+PARAGRAPH]` (instrução prática no imperativo)
-- `[+ATTACHMENT]` com `@link_pdf@`
+- `[+PARAGRAPH]` com texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
+- `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa prática no imperativo
+- **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### 5. Narrar
 - `## Narrar` (H2)

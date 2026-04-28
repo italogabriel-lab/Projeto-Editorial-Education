@@ -76,7 +76,8 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
 - Definição do Recordar com `_____` nas lacunas
-- Atividade extra com instrução no imperativo + PDF attachment
+- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas

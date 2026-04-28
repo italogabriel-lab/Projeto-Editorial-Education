@@ -179,17 +179,22 @@ palavra1, palavra2
 
 ---
 
-## ATTACHMENT
+## ACTIVITY_WORKSHEET
 
-Placeholder para arquivo anexo (PDF de atividade).
+Bloco de atividade com PDF. O enunciado da tarefa fica dentro do campo `INSTRUCTION=`.
 
 ```markdown
-[+ATTACHMENT]
+[+ACTIVITY_WORKSHEET]
 
-@link_pdf@
+INSTRUCTION=Enunciado da tarefa prática no imperativo.
 
-[-ATTACHMENT]
+[-ACTIVITY_WORKSHEET]
 ```
+
+**Regras:**
+- O parágrafo ANTES deste bloco deve conter o texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
+- O campo `INSTRUCTION=` contém o enunciado específico da atividade.
+- O bloco `[+ATTACHMENT]` com `@link_pdf@` foi **descontinuado** e NÃO deve ser usado.
 
 ---
 
@@ -299,8 +304,8 @@ Texto de observação da imagem 2.
   [+PARAGRAPH] ... [-PARAGRAPH]
   [+FILL_IN] ... [-FILL_IN]
   [+HEADING] Atividade Extra [-HEADING]
-  [+PARAGRAPH] ... [-PARAGRAPH]
-  [+ATTACHMENT] ... [-ATTACHMENT]
+  [+PARAGRAPH] Acesse o PDF abaixo e faça a atividade com atenção. [-PARAGRAPH]
+  [+ACTIVITY_WORKSHEET] INSTRUCTION=... [-ACTIVITY_WORKSHEET]
 
 ## Narrar
   [+HEADING] Leitura [-HEADING]

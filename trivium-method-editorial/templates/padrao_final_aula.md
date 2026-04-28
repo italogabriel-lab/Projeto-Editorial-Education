@@ -208,15 +208,15 @@ Atividade Extra
 
 [+PARAGRAPH]
 
-[Instrução de atividade prática no imperativo.]
+Acesse o PDF abaixo e faça a atividade com atenção.
 
 [-PARAGRAPH]
 
-[+ATTACHMENT]
+[+ACTIVITY_WORKSHEET]
 
-@link_pdf@
+INSTRUCTION=[Instrução de atividade prática no imperativo.]
 
-[-ATTACHMENT]
+[-ACTIVITY_WORKSHEET]
 
 ## Narrar
 
@@ -289,11 +289,12 @@ Responda oralmente às perguntas abaixo sobre o texto.
 6. **Definição consistente** — o mesmo conceito aparece no Accordion, no Recordar (Statement D) e no Praticar (Fill In).
 7. **Recordar** — definição curta de 9-10 palavras.
 8. **Praticar** — Fill In usa a definição do Recordar com `_____`.
-9. **Narrar** — aspas retas `"`, trecho literário dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com negrito e itálico.
-10. **Sem `;`, `:`, `—`** — usar `,` ou `.`.
-11. **Voz ativa e imperativo** em todas as instruções.
-12. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
-13. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
-14. **Parágrafo inicial do Definir** — as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço. NÃO usar linha em branco entre elas. Deixar linha em branco apenas antes da definição do termo.
-15. **Reflexão no Accordion** — nunca começar com citação bíblica ou frase no formato "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema. O verso bíblico pode aparecer em aulas posteriores, mas não como frase introdutória da reflexão.
-16. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
+9. **Praticar** — Atividade Extra usa `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa. O bloco `[+ATTACHMENT]` com `@link_pdf@` **NÃO é mais utilizado**.
+10. **Narrar** — aspas retas `"`, trecho literário dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com negrito e itálico.
+11. **Sem `;`, `:`, `—`** — usar `,` ou `.`.
+12. **Voz ativa e imperativo** em todas as instruções.
+13. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
+14. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
+15. **Parágrafo inicial do Definir** — as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço. NÃO usar linha em branco entre elas. Deixar linha em branco apenas antes da definição do termo.
+16. **Reflexão no Accordion** — nunca começar com citação bíblica ou frase no formato "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema. O verso bíblico pode aparecer em aulas posteriores, mas não como frase introdutória da reflexão.
+17. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
