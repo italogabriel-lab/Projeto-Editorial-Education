@@ -251,6 +251,7 @@ query($cursor: String) {
   node(id: "${PROJECT_ID}") {
     ... on ProjectV2 {
       items(first: 100, after: $cursor) {
+        totalCount
         nodes {
           content {
             ... on Issue {
@@ -346,10 +347,20 @@ async function sync() {
       break;
     }
 
+    if (pagesFetched === 0 && typeof items.totalCount === 'number') {
+      console.log(`📊 totalCount reportado pela API: ${items.totalCount}`);
+    }
+
+    let nullContentInPage = 0;
+    let processedInPage = 0;
     console.log(`✓ ${items.nodes.length} registros processados nesta página`);
 
     for (const item of items.nodes) {
-      if (!item || !item.content || !item.content.title) continue;
+      if (!item || !item.content || !item.content.title) {
+        nullContentInPage += 1;
+        continue;
+      }
+      processedInPage += 1;
 
       let status = "No Status";
       if (item.fieldValues && item.fieldValues.nodes) {
@@ -428,7 +439,7 @@ async function sync() {
       }
     }
 
-    console.log(`OK! Registros extraídos: ${items.nodes.length}`);
+    console.log(`OK! Registros extraídos: ${items.nodes.length} (válidos=${processedInPage}, nullContent=${nullContentInPage}, hasNextPage=${items.pageInfo.hasNextPage})`);
     hasNextPage = items.pageInfo.hasNextPage;
     cursor = items.pageInfo.endCursor;
     pagesFetched += 1;
