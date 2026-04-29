@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-29T10:28:45.783Z",
+  "last_updated": "2026-04-29T11:59:23.045Z",
   "total_items": 3638,
-  "ignored_items_count": 278,
-  "duplicate_items_count": 70,
+  "ignored_items_count": 281,
+  "duplicate_items_count": 71,
   "ignored_items": [
     {
       "id": "I_kwDOPFPmMM7XlWQ_",
@@ -1671,6 +1671,24 @@
       "number": 4213,
       "title": "[Português] - Ano 2 - 14.2 Pensar e escrever com coerência (Update)",
       "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABA0dAhQ",
+      "number": 4215,
+      "title": "[Belas artes] - Ano 2 - 1.1 A arte vem de Deus (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABA0gn_A",
+      "number": 4216,
+      "title": "[Belas artes] - Ano 2 - 1.2 A criação é bela (update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABA0mJWg",
+      "number": 4217,
+      "title": "[Belas artes] - Ano 2 - 1.3 Feitos à imagem do criador (update)",
+      "reason": "title_out_of_pattern"
     }
   ],
   "duplicate_items": [
@@ -2093,6 +2111,12 @@
       "discarded_number": 4212,
       "canonical_key": "português|2|14.1|organização de ideias com coesão",
       "title": "[Português] - Ano 2 - 14.1 Organização de ideias com coesão"
+    },
+    {
+      "kept_number": 90,
+      "discarded_number": 4218,
+      "canonical_key": "belas artes|2|1.4|revisão",
+      "title": "[Belas Artes] - Ano 2 - 1.4 Revisão"
     }
   ],
   "items": [
@@ -55203,9 +55227,9 @@
       "id": "I_kwDOPFPmMM74uzt5",
       "number": 3332,
       "title": "[Ciências] - Ano 3 - 37.1 Sistema reprodutor",
-      "status": "Backlog",
+      "status": "In Review",
       "state": "OPEN",
-      "assignee": "GabrielaRoma",
+      "assignee": "Fabiomorais87",
       "subject": "Ciências",
       "year": 3,
       "lesson_code": "37.1",
