@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T15:28:28.100Z",
+  "last_updated": "2026-04-30T16:56:13.271Z",
   "total_items": 3638,
   "ignored_items_count": 287,
   "duplicate_items_count": 69,
@@ -22827,7 +22827,7 @@
       "id": "I_kwDOPFPmMM7k3-Wz",
       "number": 1329,
       "title": "[História] - Ano 3 - 24.3 A partida de puritanos para a Europa",
-      "status": "In Review",
+      "status": "Video",
       "state": "OPEN",
       "assignee": "Fabiomorais87",
       "subject": "História",
@@ -22844,8 +22844,8 @@
       "id": "I_kwDOPFPmMM7k3-wy",
       "number": 1330,
       "title": "[História] - Ano 3 - 24.4 Revisao",
-      "status": "In Review",
-      "state": "OPEN",
+      "status": "Done/Published",
+      "state": "CLOSED",
       "assignee": "Fabiomorais87",
       "subject": "História",
       "year": 3,
@@ -22853,8 +22853,8 @@
       "lesson_title": "Revisao",
       "canonical_key": "história|3|24.4|revisao",
       "created_at": "2026-01-21T20:20:18Z",
-      "closed_at": null,
-      "lead_time_days": null,
+      "closed_at": "2026-04-30T16:43:00Z",
+      "lead_time_days": 98.84909722222223,
       "labels": []
     },
     {
