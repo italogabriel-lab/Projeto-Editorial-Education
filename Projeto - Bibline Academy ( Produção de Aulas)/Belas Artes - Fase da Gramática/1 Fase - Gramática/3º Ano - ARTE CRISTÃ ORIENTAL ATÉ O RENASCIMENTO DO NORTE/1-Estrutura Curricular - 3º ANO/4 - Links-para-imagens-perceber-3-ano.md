@@ -308,12 +308,12 @@
 
 ---
 
-## Semana 24 — Arte gótica, escultura e catedral
+## Semana 24 — Arte gótica, fachada e escultura
 
-### 24.1 — Grandes catedrais góticas
-- [Chartres Cathedral (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Chartres_Cathedral)
-- [Amiens Cathedral (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Amiens_Cathedral)
-- [Chartres Cathedral, Smarthistory](https://smarthistory.org/chartres-cathedral/)
+### 24.1 — Fachadas góticas
+- [West facade of Notre-Dame de Paris (Wikimedia)](https://commons.wikimedia.org/wiki/Category:West_facade_of_Notre-Dame_de_Paris)
+- [West front of Wells Cathedral (Wikimedia)](https://commons.wikimedia.org/wiki/Category:West_front_of_Wells_Cathedral)
+- [Gothic architecture, Smarthistory](https://smarthistory.org/gothic-architecture-an-introduction/)
 
 ### 24.2 — Pleurant gótico, escultura de enlutado
 - [Pleurant, Louvre](https://collections.louvre.fr/en/ark%3A/53355/cl010092542)
@@ -405,9 +405,11 @@
 - [Gutenberg Bible (Wikipedia)](https://en.wikipedia.org/wiki/Gutenberg_Bible)
 - [Gutenberg Bible pages (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Gutenberg_Bible)
 
-### 31.3 — O Cavaleiro, a Morte e o Diabo (Dürer)
-- [Knight, Death and the Devil (Wikipedia)](https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil)
-- [Dürer engravings (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Prints_by_Albrecht_D%C3%BCrer)
+### 31.3 — A lebre jovem e Grande tufo de ervas (Dürer)
+- [Young Hare (Wikipedia)](https://en.wikipedia.org/wiki/Young_Hare)
+- [Young Hare (Wikimedia)](https://commons.wikimedia.org/wiki/File:Duerer_a_young_hare.jpg)
+- [Great Piece of Turf (Wikipedia)](https://en.wikipedia.org/wiki/Great_Piece_of_Turf)
+- [Great Piece of Turf (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Great_Piece_of_Turf_by_Albrecht_D%C3%BCrer)
 
 ---
 
@@ -427,20 +429,21 @@
 
 ---
 
-## Semana 33 — Cranach, Bosch e Bruegel
+## Semana 33 — Óleo refinado, Gravura e Luz simbólica
 
-### 33.1 — Retábulo de Wittenberg (Cranach, Lutero pregando)
-- [Wittenberg Altarpiece (Wikipedia)](https://en.wikipedia.org/wiki/Wittenberg_Altarpiece)
+### 33.1 — Óleo flamengo (Van Eyck ou Memling)
+- [Jan van Eyck (Wikipedia)](https://en.wikipedia.org/wiki/Jan_van_Eyck)
+- [Arnolfini Portrait (Wikipedia)](https://en.wikipedia.org/wiki/Arnolfini_Portrait)
+- [Ghent Altarpiece (Wikipedia)](https://en.wikipedia.org/wiki/Ghent_Altarpiece)
 
-### 33.2 — Jardim das Delícias Terrenas (Bosch)
-- [Garden of Earthly Delights (Wikipedia)](https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights)
-- [Bosch interactive (Museo del Prado)](https://www.museodelprado.es/en/the-collection/art-work/the-garden-of-earthly-delights-triptych/02388cde-aa9a-4c59-a8fd-d4aaaa58c985)
-- [Garden of Earthly Delights close-up (Google Arts)](https://artsandculture.google.com/asset/the-garden-of-earthly-delights/ZwFI0esPMR96hg)
+### 33.2 — Gravuras de Dürer
+- [Albrecht Dürer (Wikipedia)](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer)
+- [Dürer engravings (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Engravings_by_Albrecht_D%C3%BCrer)
+- [Four Apostles (Wikipedia)](https://en.wikipedia.org/wiki/The_Four_Apostles_(D%C3%BCrer))
 
-### 33.3 — Caçadores na Neve (Bruegel)
-- [Hunters in the Snow (Wikipedia)](https://en.wikipedia.org/wiki/Hunters_in_the_Snow)
-- [Bruegel paintings (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Paintings_by_Pieter_Bruegel_the_Elder)
-- [Hunters in the Snow (Khan Academy)](https://www.khanacademy.org/humanities/renaissance-reformation/northern/bruges-ghent-antwerp-northern-renaissance/a/pieter-bruegel-the-elder-hunters-in-the-snow)
+### 33.3 — Luz simbólica em gravuras
+- [Melencolia I (Wikipedia)](https://en.wikipedia.org/wiki/Melencolia_I)
+- [Dürer光线 (Wikiwand)](https://www.wikiwand.com/en/articles/Melencolia_I)
 
 ---
 

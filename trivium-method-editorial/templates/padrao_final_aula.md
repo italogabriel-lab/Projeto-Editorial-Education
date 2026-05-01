@@ -5,6 +5,24 @@ Todas as aulas geradas pelo Editorial Squad devem usar EXATAMENTE este esqueleto
 
 ---
 
+## Princípio Pedagógico — Memorização por Repetição com Variação
+
+Cada aula ensina **1 conceito central** (o TERMO definido no Definir). Os 5 hábitos são 5 abordagens diferentes do mesmo conceito, criando repetição variada para fixar o tema na memória da criança.
+
+| Hábito | Abordagem | Objetivo |
+|--------|-----------|----------|
+| **Definir** | Apresentação da definição | Nomear e conhecer o conceito |
+| **Perceber** | Imagem que ilustra o conceito | Reconhecer visualmente o conceito |
+| **Recordar** | Definição curta + rima ou música | Fixar o conceito pela memória auditiva |
+| **Praticar** | Exercícios sobre o conceito | Aplicar e consolidar o conceito ativamente |
+| **Narrar** | Texto literário que toca o conceito + perguntas | Reconhecer o conceito em contexto narrativo |
+
+**Regra de ouro**: se um hábito não reforça o conceito central do Definir, ele está errado.
+
+**Regra da definição curta**: a frase curta do Recordar é a fonte textual obrigatória da aula. Ela deve abrir o hábito Definir em negrito, aparecer completa no texto do Accordion após `[MP3\]` e aparecer completa no Statement_D do Recordar. O áudio do Accordion NÃO repete o termo, pois o termo já aparece na pergunta. O Praticar usa a mesma frase com lacunas.
+
+---
+
 ## Esqueleto
 
 ```markdown
@@ -14,9 +32,9 @@ Todas as aulas geradas pelo Editorial Squad devem usar EXATAMENTE este esqueleto
 
 [+PARAGRAPH]
 
-[Frase começando com 'Reconheça que...' e o contexto principal. Frase começando com 'Observe que...' e um argumento extra. As duas frases ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
+**[Definição curta do Recordar, EXATAMENTE a mesma frase.]**
 
-[Definição extremamente curta e direta ao assunto do termo (Ex: X é Y).]
+[Frase começando com 'Reconheça que...' e o contexto principal. Frase começando com 'Observe que...' e um argumento extra. As duas frases ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
 
 Veja o vídeo abaixo.
 
@@ -40,21 +58,15 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [Pergunta sobre o termo, ex: "O que é Função Didática?"]
 
-@link_png@
-
 [MP3/]
 
 #XAI:rex
 
-[Definição em português — EXATAMENTE a mesma usada no Recordar e Praticar]
+[Definição curta sem repetir o termo da pergunta, ex: "é o que representa o mundo interior das pessoas."]
 
 [MP3\]
 
-[Definição em português — com negrito nas palavras-chave]
-
-**Reflexão**
-
-[Reflexão teológica curta sobre o tema. NÃO começar com citação bíblica ou referência de versículo. Ir direto à reflexão.]
+[Definição curta do Recordar, EXATAMENTE a mesma frase.]
 
 [-ACCORDION]
 
@@ -62,7 +74,7 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [+PARAGRAPH]
 
-[3-4 frases no imperativo descrevendo o que o aluno deve observar na imagem.]
+[1 frase curta e direta. Observe a imagem, nomeie a obra ou cena principal e indique o elemento visual central.]
 
 [-PARAGRAPH]
 
@@ -74,17 +86,17 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [X1] [Y1]
 
-[Título do hotspot 1]
+[Título curto do hotspot 1]
 
-[Descrição do hotspot 1 no imperativo.]
+[Uma frase curta no imperativo, apontando o que observar.]
 
 --
 
 [X2] [Y2]
 
-[Título do hotspot 2]
+[Título curto do hotspot 2]
 
-[Descrição do hotspot 2 no imperativo.]
+[Uma frase curta no imperativo, apontando o que observar.]
 
 [-IMAGE_LABELED]
 
@@ -102,7 +114,7 @@ Ouça e repita a definição abaixo.
 
 #XAI:rex
 
-[Definição CURTA — 9 a 10 palavras]
+[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma frase usada no cabeçalho do Definir e no Accordion]
 
 [MP3\]
 
@@ -202,6 +214,22 @@ Complete as lacunas para [instrução no imperativo].
 
 [+HEADING]
 
+Atividade 2
+
+[-HEADING]
+
+[+MULTIPLE]
+
+Qual é o significado de [termo]?
+
+[Distrator curto e plausível.] [=]
+[Distrator curto e plausível.] [=]
+[Definição curta completa, literalmente idêntica ao Definir, ao Accordion e ao Recordar.] [=] true
+
+[-MULTIPLE]
+
+[+HEADING]
+
 Atividade Extra
 
 [-HEADING]
@@ -232,9 +260,9 @@ Leitura
 
 @link_png@
 
-"[Primeiro parágrafo do trecho literário, em prosa corrida, conectando o tema da aula à verdade bíblica.]
+"[Primeiro parágrafo do trecho literário, em prosa corrida, com elementos explícitos do tema da aula e do conceito definido.]
 
-[Segundo parágrafo do trecho literário, aprofundando a reflexão com linguagem elevada e poética.]"
+[Segundo parágrafo do trecho literário, com frases claras que tragam as respostas diretas às perguntas.]"
 
 Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
 
@@ -246,13 +274,19 @@ Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cris
 
 [+PARAGRAPH]
 
-"[Primeiro parágrafo do trecho literário, em prosa corrida, conectando o tema da aula à verdade bíblica.]
+"[Primeiro parágrafo do trecho literário, em prosa corrida, com elementos explícitos do tema da aula e do conceito definido.]
 
-[Segundo parágrafo do trecho literário, aprofundando a reflexão com linguagem elevada e poética.]"
+[Segundo parágrafo do trecho literário, com frases claras que tragam as respostas diretas às perguntas.]"
 
 Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
 
 [-PARAGRAPH]
+
+[+IMAGE]
+
+@link_png@
+
+[-IMAGE]
 
 [+HEADING]
 
@@ -268,11 +302,11 @@ Responda oralmente às perguntas abaixo sobre o texto.
 
 [+LIST_NUMBERED]
 
-[Pergunta 1 com interrogação?]
+[Pergunta 1 — fato explícito que aparece no texto?]
 
-[Pergunta 2 com interrogação?]
+[Pergunta 2 — detalhe visual, ação ou objeto mencionado no texto?]
 
-[Pergunta 3 com interrogação?]
+[Pergunta 3 — tema da aula dito ou mostrado no texto?]
 
 [-LIST_NUMBERED]
 ```
@@ -286,15 +320,20 @@ Responda oralmente às perguntas abaixo sobre o texto.
 3. **Sem separadores `---`** entre seções.
 4. **Título** começa com `#` seguido do nome criativo da aula.
 5. **Seções** são `## Definir`, `## Perceber`, `## Recordar`, `## Praticar`, `## Narrar`.
-6. **Definição consistente** — o mesmo conceito aparece no Accordion, no Recordar (Statement D) e no Praticar (Fill In).
+6. **Definição literalmente idêntica** — a frase curta do Recordar aparece sem alteração no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Statement_D. O áudio do Accordion usa a mesma definição sem repetir o termo da pergunta. O Praticar usa a mesma frase com `_____`.
 7. **Recordar** — definição curta de 9-10 palavras.
-8. **Praticar** — Fill In usa a definição do Recordar com `_____`.
-9. **Praticar** — Atividade Extra usa `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa. O bloco `[+ATTACHMENT]` com `@link_pdf@` **NÃO é mais utilizado**.
-10. **Narrar** — aspas retas `"`, trecho literário dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com negrito e itálico.
-11. **Sem `;`, `:`, `—`** — usar `,` ou `.`.
-12. **Voz ativa e imperativo** em todas as instruções.
-13. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
-14. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
-15. **Parágrafo inicial do Definir** — as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço. NÃO usar linha em branco entre elas. Deixar linha em branco apenas antes da definição do termo.
-16. **Reflexão no Accordion** — nunca começar com citação bíblica ou frase no formato "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema. O verso bíblico pode aparecer em aulas posteriores, mas não como frase introdutória da reflexão.
-17. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
+8. **Praticar** — manter sempre `[+FILL_IN]`, depois `[+MULTIPLE]`, depois `[+ACTIVITY_WORKSHEET]`.
+9. **Praticar** — Fill In usa a definição do Recordar com `_____`. A múltipla escolha pergunta o significado do termo e traz a definição curta completa como resposta correta.
+10. **Praticar** — Atividade Extra usa `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa. O bloco `[+ATTACHMENT]` com `@link_pdf@` **NÃO é mais utilizado**.
+11. **Narrar** — aspas retas `"`, trecho literário dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** com negrito e itálico. O texto do Narrar DEVE conter elementos explícitos do tema da aula e respostas diretas para as 3 perguntas.
+12. **Narrar no 3º ano** — manter sempre `[+PARAGRAPH]` para a leitura e, logo depois, `[+IMAGE]` com `@link_png@` antes de `Perguntas`.
+13. **Sem `;`, `:`, `—`** — usar `,` ou `.`.
+14. **Voz ativa e imperativo** em todas as instruções.
+15. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
+16. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
+17. **Parágrafo inicial do Definir** — iniciar com a definição curta em negrito, literalmente idêntica ao Recordar. Depois, as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço.
+18. **Accordion do Definir** — conter apenas pergunta, MP3 e definição textual. O áudio dentro de `[MP3/]...[MP3\]` NÃO repete o termo da pergunta. O texto após `[MP3\]` repete literalmente a definição curta completa. Não incluir imagem nem reflexão.
+19. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
+20. **Perguntas do Narrar** — as 3 perguntas devem ser curtas, diretas e de fácil compreensão. Cada resposta deve aparecer explicitamente no texto lido. As perguntas devem ajudar a criança a narrar com suas palavras o que compreendeu. Proibido usar perguntas abertas, reflexivas, abstratas, inferenciais ou dependentes de contexto prévio.
+21. **Revisões `.4`** — em tabelas e matchings, não repetir o termo no início da definição. Correto: `Imprensa[,] É sistema mecânico que multiplica livros rápida acessivelmente.[,]` e `É sistema mecânico que multiplica livros rápida acessivelmente. [=] Imprensa`. Manter a definição completa somente no `[+STATEMENT_D]`.
+22. **Perceber** — usar 1 frase curta e direta no enunciado. As observações e explicações ficam nos hotspots, também de forma curta. Hotspots devem ter títulos de 2 a 5 palavras e descrições com 1 frase curta. Evitar explicações longas e análise extensa.

@@ -27,6 +27,10 @@ Substitua por vírgula ou ponto quando estiver escrevendo conteúdo didático.
 ## Verificação mínima antes de concluir
 
 - O título bate com o Currículo Macro.
-- A definição principal está consistente entre Definir, Recordar e Revisão.
+- A definição curta está literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]`, no Recordar e na Revisão.
+- O áudio do Accordion não repete o termo da pergunta.
+- O Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
+- No 3º ano, o Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
+- Em revisões `.4`, tabelas e matchings não repetem o termo no início da definição.
 - A estrutura segue os 5 hábitos.
 - O markdown está compatível com o template final.

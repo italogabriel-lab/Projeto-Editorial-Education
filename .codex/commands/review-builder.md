@@ -29,6 +29,9 @@ Para novas execucoes, use:
 
 1. Preserve compatibilidade com a estrutura existente.
 2. Sempre explicite quando o fluxo moderno seria mais indicado.
+3. Em revisões `.4`, a `[+TABLE]` e todos os `[+MATCHING]` devem usar definições sem repetir o termo no início. O termo já aparece na coluna `Termo` ou depois de `[=]`.
+4. Exemplo correto: `Humanismo cristão[,] Buscou reformar a Igreja por fontes bíblicas.[,]` e `Buscou reformar a Igreja por fontes bíblicas. [=] Humanismo cristão`.
+5. Não aplique esta elipse aos blocos `[+STATEMENT_D]`, que preservam a definição curta completa para memorização.
 
 
 

@@ -49,7 +49,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
    - `editorial-squad/knowledge-base/doutrina-pedagogica.md`
 4. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
 5. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
-6. **Output**: rascunho da aula
+6. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem
+7. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
+8. **Output**: rascunho da aula
 
 ---
 
@@ -61,8 +63,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
 4. **Aplicar capitalização padrão europeu** conforme `editorial-squad/skills/capitalizer/SKILL.md`
 5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
 6. Remover metadados, emojis de seção, separadores `---`
-7. Verificar definição idêntica em todos os locais obrigatórios (inclusive capitalização)
-8. **Output**: aula formatada com Rise Blocks
+7. Verificar definição curta literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Recordar, inclusive capitalização. O áudio do Accordion não repete o termo da pergunta
+8. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
+9. **Output**: aula formatada com Rise Blocks
 
 ---
 
@@ -119,6 +122,7 @@ Termo3 ✅
 > 3. `3 - Visão e Plano pedagogico *.md`: Se a abordagem da aula (Definir/Perceber), a visão teológica ou a progressão pedagógica mudarem.
 > 4. `4 - Links-para-imagens-perceber *.md`: Se a seção **Perceber** mudar (especialmente se o contexto, a cena ou a arte sugerida no texto mudar, exigindo links novos).
 > 5. **Aula de Revisão (`X.4.md`)**: Se alterar ou refinar qualquer definição, foco temático ou conteúdo do Perceber, a aula de revisão correspondente DEVE ser idêntica (textos intro, flashcards, tabelas e quizzes).
+> 6. **Definições na Revisão (`X.4.md`)**: em tabelas e matchings, não repetir o termo no início da definição. O termo já aparece na coluna `Termo` ou depois de `[=]`. Manter a definição completa somente no `[+STATEMENT_D]`.
 
 > **Formato completo de referência** (exemplo do 2º ano):
 > ```

@@ -34,9 +34,9 @@ Revise os três conceitos estudados nesta semana, [termo1], [termo2] e [termo3].
 [+TABLE]
 
 Termo[,] Definição[,]
-[Termo1][,] [Definição completa da TABLE da .4][,]
-[Termo2][,] [Definição completa da TABLE da .4][,]
-[Termo3][,] [Definição completa da TABLE da .4][,]
+[Termo1][,] [Definição da TABLE da .4 sem repetir o termo][,]
+[Termo2][,] [Definição da TABLE da .4 sem repetir o termo][,]
+[Termo3][,] [Definição da TABLE da .4 sem repetir o termo][,]
 
 [-TABLE]
 
@@ -44,9 +44,9 @@ Termo[,] Definição[,]
 
 [Enunciado do MATCHING do Definir da .4]
 
-[Definição parafraseada] [=] [Termo1]
-[Definição parafraseada] [=] [Termo2]
-[Definição parafraseada] [=] [Termo3]
+[Definição sem repetir o termo] [=] [Termo1]
+[Definição sem repetir o termo] [=] [Termo2]
+[Definição sem repetir o termo] [=] [Termo3]
 
 [-MATCHING]
 ```
@@ -59,6 +59,8 @@ Termo[,] Definição[,]
 | `[+PARAGRAPH]` | Aula `.4`, seção Definir | Copiar o `[+PARAGRAPH]` introdutório inteiro |
 | `[+TABLE]` | Aula `.4`, seção Definir | Copiar o `[+TABLE]` inteiro com os 3 termos e definições |
 | `[+MATCHING]` | Aula `.4`, seção Definir | Copiar o primeiro `[+MATCHING]` da seção Definir |
+
+**Regra fixa para definições em revisão:** na `[+TABLE]` e em qualquer `[+MATCHING]`, a definição NÃO deve repetir o termo no início. O termo já está na coluna `Termo` ou depois de `[=]`. Exemplo correto: `Imprensa[,] É sistema mecânico que multiplica livros rápida acessivelmente.[,]` e `É sistema mecânico que multiplica livros rápida acessivelmente. [=] Imprensa`. Essa regra não vale para `[+STATEMENT_D]`, que mantém a definição curta completa.
 
 ### SEÇÃO 2 — Quiz
 
@@ -153,8 +155,8 @@ Nome do arquivo: `[SEMANA_REVISÃO].md`
 
 ## Regras
 
-1. **NUNCA crie conteúdo novo.** Copie e cole exatamente o que está nas aulas `.4`.
-2. **NUNCA altere definições.** As definições devem ser idênticas ao original.
+1. **NUNCA crie conteúdo novo.** Copie e organize o que está nas aulas `.4`.
+2. **NUNCA altere definições**, exceto para remover a repetição inicial do termo na `[+TABLE]` e nos `[+MATCHING]` de revisão.
 3. **NUNCA altere as questões do Quiz.** Copie os blocos inteiros como estão.
 4. **Use os títulos exatos** do Currículo Macro para nomear cada seção de semana.
 5. **Mantenha a ordem cronológica** das semanas (1→2→3→...→8).

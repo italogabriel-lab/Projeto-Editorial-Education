@@ -86,30 +86,34 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 1. Definir
 - `# [Título da Aula]` (H1)
 - `## Definir` (H2)
-- Intro → `[+PARAGRAPH]` (3-4 frases imperativo + definição + "Veja o vídeo abaixo.")
+- Intro → `[+PARAGRAPH]` com definição curta em negrito na primeira linha, contexto e "Veja o vídeo abaixo."
+- A definição que abre o Definir deve ser a definição curta do Recordar, literalmente a mesma frase.
 - Vídeo → `[+VIDEO][-VIDEO]`
 - Atividade → `[+HEADING] Atividade [-HEADING]`
 - Instrução → `[+PARAGRAPH]` ("Leia a definição e ouça o áudio...")
 - Definição → `[+ACCORDION]`:
   - Pergunta: "O que é [Termo]?"
-  - `@link_png@`
-  - `[MP3/]` `#XAI:rex` Definição texto puro `[MP3\]`
-  - Definição com **negrito** nos termos-chave
-  - `**Reflexão**` + texto teológico no imperativo
-- **CRÍTICO**: A definição dentro do MP3 DEVE ser idêntica à do Recordar/Praticar
-- **CRÍTICO**: NÃO colocar definição em texto plano antes do `@link_png@`
+  - `[MP3/]` `#XAI:rex` definição curta sem repetir o termo da pergunta `[MP3\]`
+  - Definição curta completa do Recordar repetida no texto após `[MP3\]`.
+- **CRÍTICO**: o áudio do Accordion NÃO deve começar repetindo o termo da pergunta.
+- **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Recordar.
+- **CRÍTICO**: NÃO colocar `@link_png@` nem reflexão dentro do Accordion do Definir.
 
 ### 2. Perceber
 - `## Perceber` (H2)
-- Intro → `[+PARAGRAPH]` (3-4 frases imperativo)
+- Intro → `[+PARAGRAPH]` com 1 frase curta e direta
 - Imagem → `[+IMAGE_LABELED]` com `@link_png@`, 2 hotspots com `--` separador
+- Títulos dos hotspots devem ter 2 a 5 palavras
+- Descrições dos hotspots devem ter apenas 1 frase curta, com observação visual direta
+- Observações e explicações devem ficar nos hotspots, não no enunciado
+- Evitar explicações longas, comentários abstratos ou análise extensa nos hotspots
 - **NÃO** incluir blocos extras nesta seção
 
 ### 3. Recordar
 - `## Recordar` (H2)
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (9-10 palavras)
-- **CRÍTICO**: Definição IDÊNTICA à do Accordion
+- **CRÍTICO**: Definição IDÊNTICA à do cabeçalho do Definir e à do Accordion
 - Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
 - `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@`, nome da música
 
@@ -118,6 +122,9 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+HEADING] Atividade [-HEADING]`
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Complete as lacunas para... [-PARAGRAPH]` (instrução imperativa)
 - `[+FILL_IN]`: definição do Recordar com `_____` (5 underscores), respostas na linha seguinte
+- `[+HEADING] Atividade 2 [-HEADING]`
+- **OBRIGATÓRIO**: `[+MULTIPLE]` entre o Fill_In e a Atividade Extra
+- No `[+MULTIPLE]`, a resposta correta é a definição curta completa, literalmente idêntica ao Definir, Accordion e Recordar
 - `[+HEADING] Atividade Extra [-HEADING]`
 - `[+PARAGRAPH]` com texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
 - `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa prática no imperativo
@@ -126,9 +133,20 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 5. Narrar
 - `## Narrar` (H2)
 - `[+HEADING] Leitura [-HEADING]`
-- `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** (separados por linha em branco), atribuição em **linha única** terminando no Século — sem trecho de conexão entre parênteses no final
+- Para 1º, 2º, 4º e 5º ano, usar `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** e atribuição em linha única
+- Para 3º ano, usar `[+PARAGRAPH]` para o trecho e manter `[+IMAGE]` com `@link_png@` logo depois da leitura, antes de `Perguntas`
 - `[+HEADING] Perguntas [-HEADING]`
 - `[+LIST_NUMBERED]` com 3 perguntas, interrogação, 1 linha de espaço entre elas
+- Texto deve conter elementos explícitos do tema da aula e respostas diretas para as 3 perguntas
+- Perguntas devem ser curtas, diretas e fáceis de compreender
+- Cada resposta deve aparecer explicitamente no texto lido
+- Não usar perguntas abertas, reflexivas, abstratas ou dependentes de inferência
+
+### 6. Revisões `.4`
+- Em `[+TABLE]`, a coluna `Definição` não deve repetir o termo da coluna `Termo`.
+- Em `[+MATCHING]`, a definição antes de `[=]` não deve repetir o termo que aparece depois de `[=]`.
+- Use `Buscou reformar a Igreja por fontes bíblicas. [=] Humanismo cristão`, não `Humanismo cristão buscou reformar...`.
+- Preserve a definição curta completa apenas nos blocos `[+STATEMENT_D]`.
 
 ## Regras Fixas do Output
 

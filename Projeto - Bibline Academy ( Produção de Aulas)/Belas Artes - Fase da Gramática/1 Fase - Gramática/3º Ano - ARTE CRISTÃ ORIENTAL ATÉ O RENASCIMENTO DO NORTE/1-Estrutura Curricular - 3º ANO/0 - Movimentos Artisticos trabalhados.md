@@ -264,7 +264,7 @@ Detalhamento crescente
 
 Arquitetura, escultura e pintura
 
-Grandes catedrais
+Fachada gótica
 
 Escultura mais natural
 

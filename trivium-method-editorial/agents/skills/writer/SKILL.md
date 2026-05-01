@@ -31,7 +31,14 @@ Abra o arquivo do Plano Pedagógico e extraia: título, tema central, versículo
 Consulte o Currículo Macro. Todos os termos marcados com ✅ estão **PROIBIDOS**.
 Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
 
-### 4. Título da Aula — Fonte de Verdade
+### 4. Verificar Tema Já Abordado
+Consulte todos os títulos, dias e termos do Currículo Macro do ano.
+O tema central da aula e o termo do Definir devem ser **inéditos** no ano.
+É proibido redefinir em aula posterior um conceito já ensinado, mesmo com outra formulação ou título parecido.
+Quando houver sobreposição, preserve a aula anterior e troque a aula posterior por um recorte novo do módulo.
+Exemplo: se `Catedral` já foi definida, uma aula posterior pode tratar de `Fachada`, `Portal`, `Rosácea` ou `Arcobotante`, mas não redefinir `Catedral`.
+
+### 5. Título da Aula — Fonte de Verdade
 O título da aula (H1) **deve ser exatamente** o título que consta no `1 - Curriculo Macro`.
 **NUNCA** invente, modifique ou use títulos criativos/poéticos diferentes do Currículo Macro.
 O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos os demais arquivos (Matriz, Visão, Descrições, Issues) devem refletir os mesmos títulos.
@@ -51,38 +58,70 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 2. Plano Pedagógico da semana/aula
 3. Lista de termos já definidos
 
+## Princípio Central — Memorização por Repetição com Variação
+
+Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são 5 abordagens diferentes do mesmo conceito. Se um hábito não reforça o conceito central, ele está errado. Verifique a coerência temática entre todos os hábitos antes de finalizar.
+
+| Hábito | Abordagem | O que fazer |
+|--------|-----------|-------------|
+| Definir | Definição | Estabelecer o TERMO e a definição que todos os outros hábitos vão reforçar |
+| Perceber | Visual | Escolher imagem que ilustra o TERMO em ação |
+| Recordar | Auditivo | Fixar a definição curta que já apareceu literalmente no Definir |
+| Praticar | Aplicação | Fill_In e atividade que trabalham o TERMO definido |
+| Narrar | Narrativo | Texto que toca o TERMO e perguntas respondíveis pelo texto |
+
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
 - ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO.
+- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do texto do Accordion após `[MP3\]` e do Statement_D.
+- Depois da definição, deixar uma linha em branco.
 - Frase 1 + Frase 2 na MESMA linha: "Reconheça que..." + ponto + espaço + "Observe que...". NÃO usar linha em branco entre as duas frases.
-- Deixar linha em branco apenas ANTES da definição do termo e antes de "Veja o vídeo abaixo."
-- Frase 3: A definição curtissima e direta da palavra-chave (linha separada com linha em branco acima).
+- Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
 - Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, `@link_png@` logo após, definição dentro do MP3, definição com negrito.
-- **Reflexão no Accordion**: NÃO começar com citação bíblica nem com frase no padrão "Entenda que..., conforme [versículo]". Ir direto ao conteúdo reflexivo sobre o tema da aula.
+- Accordion: pergunta, definição de áudio sem repetir o termo da pergunta e definição curta completa repetida no texto após `[MP3\]`.
+- No áudio do Accordion, remova o termo já nomeado na pergunta. Exemplo: pergunta `O que é psicologia?`, áudio `é o que representa o mundo interior das pessoas.`, texto `Psicologia na arte representa o mundo interior das pessoas.`
+- Não incluir `@link_png@` nem reflexão dentro do Accordion do Definir.
 
 ### Perceber (Observar)
-- 3-4 frases no imperativo descrevendo o que observar
-- Image Labeled com 2 hotspots (coordenadas, título, descrição)
+- A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
+- Os 2 hotspots devem apontar para elementos que ilustram diretamente o conceito definido
+- O parágrafo deve ter 1 frase curta, simples e direta
+- O enunciado deve apenas observar a imagem, nomear a obra ou cena principal e indicar o elemento visual central
+- As observações e explicações devem ficar nos hotspots, também em frases curtas
+- Cada título de hotspot deve ter 2 a 5 palavras
+- Cada descrição de hotspot deve ter apenas 1 frase curta, com observação visual direta
+- Evite explicações longas, comentários abstratos ou análise extensa nos hotspots
 - Nenhum bloco extra permitido
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras) — mesma definição do Accordion
-- Image Text On com versículo ou música para memorizar
+- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e do texto do Accordion após `[MP3\]`
+- A rima ou música DEVE mencionar o conceito definido — não pode ser genérica
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
-- Definição do Recordar com `_____` nas lacunas
-- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- Definição do Recordar com `_____` nas lacunas — a criança completa o conceito central
+- Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
+- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir, do Accordion e do Recordar
+- Os distratores são plausíveis mas errados
+- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas
+- No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` logo após a leitura, antes de `Perguntas`
+- Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
+- O texto DEVE trazer elementos explícitos do tema da aula e do conceito definido
+- O texto DEVE conter as respostas às 3 perguntas em frases claras
+- O texto deve repetir imagens, ações ou objetos ligados ao conceito definido no Definir
 - Atribuição com autor, obra, referência bíblica
-- 3 perguntas com interrogação e espaçamento entre elas
+- 3 perguntas curtas, diretas e fáceis de compreender
+- Cada resposta deve aparecer explicitamente no texto lido
+- As perguntas devem ajudar a criança a narrar com suas palavras o que compreendeu
+- Proibido perguntas abertas, reflexivas, abstratas ou dependentes de inferência
+- Proibido perguntas que exijam contexto histórico externo ou conhecimento prévio não contido no texto
 
 ## Regras de Estilo (Obrigatórias)
 

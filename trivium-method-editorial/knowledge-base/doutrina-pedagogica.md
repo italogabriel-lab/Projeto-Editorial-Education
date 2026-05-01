@@ -27,6 +27,20 @@ A Bibline Academy adota a **Educação Clássica Cristã** como modelo pedagógi
 4. **Narrativa** é a forma mais natural de aprendizagem nessa fase — histórias fixam conhecimento.
 5. **Vocabulário** é construído progressivamente — cada aula introduz 1 termo novo.
 
+### Estrutura dos 5 Hábitos — Memorização por Repetição com Variação
+
+Cada aula é organizada em 5 hábitos que abordam o **mesmo conceito central** por ângulos diferentes. O objetivo é que a criança tenha contato repetido com o tema, fixando-o na memória ao final da aula.
+
+| Hábito | Abordagem | O que a criança faz |
+|--------|-----------|---------------------|
+| **Definir** | Conceitual | Nomeia e conhece o conceito |
+| **Perceber** | Visual | Reconhece o conceito em uma imagem |
+| **Recordar** | Auditivo e mnemônico | Repete a definição e a memoriza por rima ou música |
+| **Praticar** | Ativo | Completa lacunas, responde questões e faz atividade prática sobre o conceito |
+| **Narrar** | Narrativo | Lê um texto que toca no conceito e responde perguntas extraídas do próprio texto |
+
+**Regra de ouro**: se qualquer hábito não reforça o conceito central do Definir, a aula está incompleta. O Reviewer deve rejeitar aulas em que um hábito se desconecta do conceito central.
+
 ## Cosmovisão Cristã Reformada
 
 ### Princípios Teológicos Aplicados à Arte

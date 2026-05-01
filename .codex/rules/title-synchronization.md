@@ -28,3 +28,7 @@ O arquivo `1 - Curriculo Macro` de cada ano é a única fonte oficial dos títul
 ## Sinal de alerta
 
 Se o usuário pedir para renomear aulas, trate o pedido como alteração estrutural e valide tudo contra o Currículo Macro antes de concluir.
+
+## Sinal de alerta de repetição
+
+Se dois títulos, temas ou termos do Definir cobrirem o mesmo conceito central no mesmo ano, trate como divergência curricular. Corrija a ocorrência posterior para um recorte inédito no Currículo Macro antes de ajustar aulas, revisões ou provas.

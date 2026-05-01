@@ -158,7 +158,7 @@ Aplique este checklist em cada aula antes de aprovar:
 
 ### Consistência entre seções
 - [ ] O mesmo termo usa a mesma capitalização no Definir, Accordion, Recordar, Praticar e Narrar
-- [ ] A definição do Accordion é idêntica em capitalização à do Recordar e do Praticar
+- [ ] A definição curta do cabeçalho do Definir, do texto do Accordion após `[MP3\]` e do Recordar é idêntica em capitalização
 - [ ] Nenhuma alternância aleatória (ex: "Oriente" num lugar e "oriente" noutro)
 
 ### Definições e lacunas

@@ -183,7 +183,7 @@ Idolatria ✅
 
 ## Semana 24 – **Arte Gótica: arquitetura e escultura**
 
-- Dia 1: Grandes catedrais
+- Dia 1: Fachada gótica
 - Dia 2: Escultura mais natural
 - Dia 3: Notre-Dame de Paris
 

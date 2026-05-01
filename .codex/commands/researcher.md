@@ -37,6 +37,12 @@ Consulte o Currículo Macro do ano.
 Todos os termos marcados com ✅ estão **PROIBIDOS** como termo principal da nova aula.
 Pesquise definições (Webster 1828) apenas para termos **inéditos** relacionados ao tema.
 
+### 4. Bloqueio de repetição temática
+Antes de pesquisar, compare o tema solicitado com todos os títulos e termos já trabalhados no Currículo Macro do ano.
+Se o tema ou termo central já apareceu em aula anterior, **NÃO pesquise como novo tema**.
+Escolha ou solicite um recorte inédito relacionado ao módulo, como técnica, parte visual, função, obra ou contexto específico.
+Se a repetição estiver no Currículo Macro, sinalize como erro curricular antes de produzir pesquisa.
+
 ## Base de Conhecimento — Referência
 
 | Arquivo | Caminho |

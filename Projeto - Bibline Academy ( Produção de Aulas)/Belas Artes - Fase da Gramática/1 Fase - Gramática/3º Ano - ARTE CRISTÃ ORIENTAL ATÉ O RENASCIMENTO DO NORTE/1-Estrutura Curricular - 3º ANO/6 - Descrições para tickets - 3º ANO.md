@@ -1607,14 +1607,14 @@ Avaliar os conhecimentos das aulas da semana 23
 
 ---
 
-[Belas artes] - Ano 3 - 24.1 Grandes catedrais
+[Belas artes] - Ano 3 - 24.1 Fachada gótica
 
 # Description
 
 ## Objetivos
-   → Observe a planta, a altura e a estrutura de catedrais góticas.
-   → Identifique arcobotantes, vitrais e rosáceas como elementos-chave.
-   → Compreenda a catedral como obra coletiva que levava gerações para ser concluída.
+   → Observe a frente principal de uma igreja gótica.
+   → Identifique portais, esculturas e janelas como elementos de ensino visual.
+   → Compreenda a fachada como primeiro contato entre o povo e a mensagem da obra.
 
 ---
 
@@ -1648,7 +1648,7 @@ Revisar os conhecimentos das aulas da semana 24
 
 ## 24ª Semana: **Arte Gótica: arquitetura e escultura**
 
-- 24.1 Grandes catedrais
+- 24.1 Fachada gótica
 
 - 24.2 Escultura mais natural
 
@@ -1664,7 +1664,7 @@ Avaliar os conhecimentos das aulas da semana 24
 
 ## 24ª Semana: **Arte Gótica: arquitetura e escultura**
 
-- 24.1 Grandes catedrais
+- 24.1 Fachada gótica
 
 - 24.2 Escultura mais natural
 
@@ -1984,7 +1984,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 24ª Semana: **Arte Gótica: arquitetura e escultura**
 
-- 24.1 Grandes catedrais
+- 24.1 Fachada gótica
 
 - 24.2 Escultura mais natural
 
@@ -2060,7 +2060,7 @@ Avaliar os conhecimentos das aulas da semana 28
 
 ## 24ª Semana: **Arte Gótica: arquitetura e escultura**
 
-- 24.1 Grandes catedrais
+- 24.1 Fachada gótica
 
 - 24.2 Escultura mais natural
 

@@ -33,20 +33,30 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Imperativo em 100% das instruções
 - [ ] Variação nos verbos (não repetir o mesmo verbo em sequência)
 
-### 3. Accordion — Reflexão
-- [ ] A reflexão teológica é profunda mas acessível
-- [ ] Conecta o conceito à vida do aluno
-- [ ] Começa com "Entenda que..."
+### 3. Accordion — Definição
+- [ ] O Accordion contém apenas pergunta, MP3 e definição textual
+- [ ] O áudio do Accordion não repete o termo da pergunta
+- [ ] O texto após `[MP3\]` repete literalmente a definição curta completa
+- [ ] Não há imagem nem reflexão no Accordion
 
 ### 4. Narrar — Trecho Literário
-- [ ] O trecho é poético e elevado
+- [ ] O trecho é claro, narrativo e acessível
+- [ ] O trecho traz elementos explícitos do tema da aula
+- [ ] O trecho contém as respostas diretas para as 3 perguntas
 - [ ] Atribuição completa e formatada corretamente
 - [ ] Conexão clara com o tema da aula
+- [ ] No 3º ano, a imagem do Narrar permanece em `[+IMAGE]` após a leitura
+
+### 4.1. Praticar — Múltipla Escolha
+- [ ] O `[+MULTIPLE]` permanece depois do Fill_In
+- [ ] A resposta correta é a definição curta completa e literal
+- [ ] Os distratores são curtos, plausíveis e claramente errados
 
 ### 5. Narrar — Perguntas
-- [ ] As 3 perguntas são abertas e reflexivas
-- [ ] Estimulam articulação verbal
-- [ ] Progridem em profundidade (observação → interpretação → aplicação)
+- [ ] As 3 perguntas são curtas, diretas e fáceis de compreender
+- [ ] Cada resposta aparece explicitamente no texto lido
+- [ ] As perguntas ajudam a criança a narrar com suas palavras
+- [ ] Não há perguntas abertas, reflexivas, abstratas ou inferenciais
 
 ### 6. Fluidez Geral
 - [ ] Transição natural entre hábitos

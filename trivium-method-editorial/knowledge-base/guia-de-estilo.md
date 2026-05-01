@@ -72,20 +72,36 @@ Toda aula é organizada nos **5 Hábitos** da Pedagogia do Belo:
 
 A definição do termo principal deve aparecer **idêntica** em:
 
-1. Final do parágrafo introdutório (Definir)
-2. Dentro do Accordion — texto plano
-3. Dentro do Accordion — áudio (entre MP3/ e MP3\)
-4. Dentro do Accordion — com negrito (após MP3\)
-5. No Recordar (Statement_D)
-6. Na Revisão semanal (tabela + Recordar)
+1. Cabeçalho do Definir, primeira linha em negrito
+2. Dentro do Accordion — texto repetido após MP3\
+3. No Recordar (Statement_D)
+4. Na Revisão semanal (tabela + Recordar)
+
+O áudio do Accordion é a única exceção. Ele usa a mesma definição sem repetir o termo da pergunta.
+
+Exemplo:
+
+```markdown
+O que é psicologia?
+
+[MP3/]
+
+#XAI:rex
+
+é o que representa o mundo interior das pessoas.
+
+[MP3\]
+
+Psicologia na arte representa o mundo interior das pessoas.
+```
 
 ## Regras por Bloco
 
 ### Accordion
 - Pergunta: "O que é [Termo]?" (com o nome exato do termo)
-- Definição direta ao ponto, SEM repetir o termo como prefixo
-- A mesma definição 3x: texto plano, áudio, negrito
-- Reflexão começa com "Entenda que..."
+- O áudio não repete o termo da pergunta
+- O texto após MP3\ repete literalmente a definição curta completa do Recordar
+- Não incluir imagem nem reflexão dentro do Accordion do Definir
 - Voice ID obrigatório: `#11L:XXXXXXXXXXXXXXXXX`
 
 ### Fill_In
@@ -94,14 +110,25 @@ A definição do termo principal deve aparecer **idêntica** em:
 - 3-4 lacunas com `_____` (5 underscores)
 - Respostas na última linha, separadas por vírgula e espaço, na ordem das lacunas
 
+### Praticar
+- Manter sempre a sequência `[+FILL_IN]`, `[+MULTIPLE]`, `[+ACTIVITY_WORKSHEET]`.
+- O `[+MULTIPLE]` vem depois do Fill_In, com heading `Atividade 2`.
+- A resposta correta do `[+MULTIPLE]` é a definição curta completa e literal.
+- A Atividade Extra usa `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`.
+- Não usar `[+ATTACHMENT]` com `@link_pdf@`.
+
 ### Matching
 - SEMPRE a definição primeiro, termo depois do `[=]`
 - SEMPRE com enunciado antes
 
 ### Narrar
 - Trecho literário cristão, puritano ou poético entre aspas retas
+- No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` antes das perguntas
+- Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
 - 3 perguntas com interrogação e espaçamento entre elas
-- Perguntas sempre relacionadas ao conteúdo da aula
+- Perguntas curtas, diretas e fáceis de compreender
+- Cada resposta deve aparecer explicitamente no texto lido
+- O trecho deve trazer elementos claros do tema da aula
 
 ## Placeholders de Mídia
 

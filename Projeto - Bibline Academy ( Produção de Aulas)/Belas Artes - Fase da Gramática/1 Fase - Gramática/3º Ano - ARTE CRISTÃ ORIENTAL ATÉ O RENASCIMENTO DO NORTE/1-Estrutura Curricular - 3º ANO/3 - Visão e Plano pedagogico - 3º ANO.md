@@ -1764,7 +1764,7 @@ A escultura gótica prepara a transição para o naturalismo renascentista. O Ve
 
 Formar no aluno a compreensão de que:
 
-- As catedrais góticas são expressão suprema da fé medieval.
+- A fachada gótica reúne entrada, escultura e ensino visual.
 - A escultura gótica evoluiu para formas mais naturais e expressivas.
 - Notre-Dame de Paris é ícone da arte gótica mundial.
 - A encarnação é fundamento para a representação do humano na arte.
@@ -1775,7 +1775,7 @@ Formar no aluno a compreensão de que:
 
 | Aula | Título | Tema central | Versículo-chave |
 | ---- | ------ | ------------ | --------------- |
-| **24.1** | **Grandes catedrais** | As catedrais góticas como expressão suprema da fé. | Salmo 24:1 |
+| **24.1** | **Fachada gótica** | A fachada gótica como frente de entrada, escultura e ensino. | Salmo 24:1 |
 | **24.2** | **Escultura mais natural** | A transição para uma escultura mais naturalista. | João 1:14 |
 | **24.3** | **Notre-Dame de Paris** | Notre-Dame como ícone da arte e devoção gótica. | Romanos 1:20 |
 
@@ -1783,10 +1783,10 @@ Formar no aluno a compreensão de que:
 
 ## 🔁 **progressão pedagógica**
 
-1. **24.1 – Grandes catedrais**
-   → Observe a planta, a altura e a estrutura de catedrais góticas.
-   → Identifique arcobotantes, vitrais e rosáceas como elementos-chave.
-   → Compreenda a catedral como obra coletiva que levava gerações para ser concluída.
+1. **24.1 – Fachada gótica**
+   → Observe a frente principal de uma igreja gótica.
+   → Identifique portais, esculturas e janelas como elementos de ensino visual.
+   → Compreenda a fachada como primeiro contato entre o povo e a mensagem da obra.
 
 2. **24.2 – Escultura mais natural**
    → Compare esculturas românicas (rígidas) com góticas (mais naturais).
@@ -1816,12 +1816,12 @@ O aluno conhece arquitetura e escultura. Na próxima semana, estudará as **obra
 
 ## 🪶 **resumo pedagógico (para rise ou canvas)**
 
-- **eixo temático**: catedrais, naturalismo e encarnação.
+- **eixo temático**: fachada, naturalismo e encarnação.
 - **virtude principal**: admiração reverente.
 - **habilidade formativa**: reconhecer a evolução da escultura e seu fundamento teológico.
 - **símbolo-chave**: a fachada de Notre-Dame de Paris.
 - **resultado esperado**:
-  → O aluno conhece as grandes catedrais góticas.
+  → O aluno conhece a fachada gótica como síntese visual de arquitetura e escultura.
   → Reconhece a evolução para esculturas mais naturais.
   → Identifica Notre-Dame como ícone da arte gótica.
 

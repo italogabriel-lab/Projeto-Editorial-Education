@@ -313,8 +313,9 @@ Use para: **composição, luz, materialidade**
 - **Música:** [compositor + obra]
 
 ## 4. Praticar
-- **Atividade 1:** [descrição]
-- **Atividade 2:** [descrição]
+- **Fill_In:** [ideia para lacunas da definição]
+- **Multiple:** [ideia de distratores plausíveis]
+- **Atividade Extra:** [descrição prática]
 
 ## 5. Narrar
 - **Autor:** [nome]

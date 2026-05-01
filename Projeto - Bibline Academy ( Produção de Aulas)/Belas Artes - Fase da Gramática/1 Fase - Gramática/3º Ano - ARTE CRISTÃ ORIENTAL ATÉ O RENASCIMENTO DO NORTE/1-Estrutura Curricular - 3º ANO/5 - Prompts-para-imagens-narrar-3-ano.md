@@ -3113,7 +3113,7 @@ Linguagem visual e simbolismo:
 
 ---
 
-### Aula 31.3 — O cavaleiro entre a morte e o diabo
+### Aula 31.3 — Observação da natureza
 
 **Prompt:**
 
@@ -3124,21 +3124,21 @@ Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelh
 
 Cena inspirada no trecho
 
-"O cavaleiro de Dürer cavalga por uma floresta escura. À sua direita, a Morte ergue uma ampulheta e sorri. Atrás dele, o Diabo estende garras. Mas o cavaleiro não olha nem para um nem para outro. Seus olhos fitam o horizonte, onde está o castelo. Sua armadura é a fé. Sua lança é a Palavra.
+"Dürer colocou uma lebre diante de seus olhos e esperou. Ele não a transformou em símbolo distante. Observou os pelos claros e escuros, as orelhas erguidas, as patas dobradas e o brilho vivo do olhar. Em outro estudo, olhou para um tufo de ervas como se fosse um jardim inteiro.
 
-O cristão reconhece nessa gravura a própria caminhada. O mundo está cheio de ameaças, mas quem veste a armadura de Deus não precisa temer. A coragem não é ausência de medo, mas decisão de avançar apesar dele."
+O artista aprendeu que a criação fala baixo, mas fala com riqueza. Uma folha pequena mostra ordem. Um animal simples mostra vida. Quem olha com pressa perde a beleza. Quem observa com reverência percebe que Deus sustenta até os menores detalhes do mundo."
 
-— inspirado em Efésios 6.11 e Erwin Panofsky
+— inspirado em Salmo 19.1 e Albrecht Dürer
 
 Composição da cena
 
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O cavaleiro entre a morte e o diabo" e no conceito de gravura.
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "Observação da natureza" e no conceito de atenção reverente à criação.
 
 Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
+• Albrecht Dürer sentado em uma mesa simples de ateliê, observando uma lebre pequena com calma
+• Um estudo de ervas, folhas, raízes e pequenas flores próximo à mesa, inspirado em Grande tufo de ervas
+• Caderno aberto com desenhos delicados de pelos, folhas e sombras
+• Ambiente do Renascimento do Norte, com objetos discretos de estudo e materiais de aquarela
 
 Iluminação:
 • Luz quente entrando lateralmente, suave e dourada
@@ -3146,10 +3146,10 @@ Iluminação:
 • Sensação de tempo lento e silêncio profundo
 
 Linguagem visual e simbolismo:
-• A arte como serviço, disciplina e oração silenciosa
-• Ausência de ostentação — foco no gesto, não no resultado
-• A luz indicando presença divina no trabalho artístico
-• Sensação de que o trabalho paciente é caminho de ascensão espiritual
+• A observação da criação como serviço, disciplina e oração silenciosa
+• Ausência de ostentação — foco no olhar atento, não no resultado
+• A luz indicando a bondade de Deus sobre criaturas pequenas
+• Sensação de que o trabalho paciente revela reverência ao Criador
 ```
 
 ---
@@ -3281,9 +3281,9 @@ Linguagem visual e simbolismo:
 ---
 
 
-## Semana 33
+## Semana 33 — Óleo refinado, Gravura e Luz simbólica
 
-### Aula 33.1 — O pintor da Reforma
+### Aula 33.1 — Óleo refinado
 
 **Prompt:**
 
@@ -3294,21 +3294,68 @@ Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelh
 
 Cena inspirada no trecho
 
-"Cranach pegou seus pincéis e perguntou a Lutero: o que devo pintar? Lutero respondeu: pinte a verdade. Não santos milagreiros, não relíquias mágicas, mas a Palavra pregada e ouvida. Pinte o batismo que lava e a ceia que alimenta. Pinte Cristo crucificado, porque Ele é suficiente.
+"Os Mestres Flamengos descobriram que a luz não está na superfície, mas no interior. Suas pinturas parecem brilhar de dentro para fora, como se a luz verdadeira viesse do coração da criação. Cada camada de tinta translúcida é uma oração de paciência."
 
-O cristão reformado reconhece que a arte pode servir à Palavra sem substituí-la. Cranach tornou a Reforma visível, e suas imagens viajaram pelo mundo junto com as ideias de Lutero."
-
-— inspirado em Habacuque 2.2 e Steven Ozment
+— inspirado em Salmo 19.4
 
 Composição da cena
 
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O pintor da Reforma" e no conceito de propaganda.
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "Óleo refinado" e no conceito de realismo com luz que brilha.
 
 Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
+• Detalhe de pintura a óleo com transparência de camadas
+• Brilho que parece irradiar do interior
+• Cores vibrantes com profundidade
+```
+
+### Aula 33.2 — Gravura
+
+**Prompt:**
+
+```
+Ilustração em gravura estiloold masters, linhas detalhadas e preciso, fundo branco com acabamento de cobre polido, aparência de gravura renascentista autêntica.
+Linhas paralelas e cruzado criando volume e sombra, textura de metal gravado, paleta em preto e branco com tons de cinza.
+Paleta em preto intense, branco puro e tons de cinza.
+
+Cena inspirada no trecho
+
+"Dürer entendeu que a imagem, como a Palavra, deve ser multiplicada. Sua Apocalipse com ilustrações detalhadas circulou por toda a Alemanha, levando o relato bíblico às casas do povo. A gravura foi a internet do Renascimento: rápida, acessível e universal."
+
+— inspirada em Salmo 68.11
+
+Composição da cena
+
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "Gravura" e no conceito de reprodução por matriz gravada.
+
+Elementos visuais principais:
+• Matriz de gravação em madeira ou metal
+• Ferramentas de gravar (buril, goiva)
+• Impressão em papel
+```
+
+### Aula 33.3 — Luz simbólica
+
+**Prompt:**
+
+```
+Ilustração em gravura estiloold masters, linhas detalhadas e preciso, fundo branco com contraste forte entre luz e sombra, aparência de gravura renascentista autêntica.
+Contraste dramática de chiaroscuro, linhas pretas criando volume e drama espiritual, paleta em preto e branco.
+Paleta em preto profundo, branco puro e tons de cinza que comunicam o divino.
+
+Cena inspirada no trecho
+
+"Na gravura, sem cor, a luz e a sombra são tudo. Dürer dominava esse idioma como ninguém. Em suas páginas do Apocalipse, a luz de Deus atinge as cenas com poder. O espectador sente o divino. A luz não ilumina apenas o papel; ilumina a alma."
+
+— inspirada em Habacuque 2.2
+
+Composição da cena
+
+A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "Luz simbólica" e no conceito de comunicar verdades divinas.
+
+Elementos visuais principais:
+• Contraste forte de luz e sombra
+• Feixes de luz representando o divino
+• Silhueta emergindo da escuridão
 
 Iluminação:
 • Luz quente entrando lateralmente, suave e dourada
@@ -3324,67 +3371,7 @@ Linguagem visual e simbolismo:
 
 ---
 
-### Aula 33.2 — O jardim dos pesadelos e das verdades
-
-**Prompt:**
-
-```
-Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas, criando aparência de página ilustrada antiga.
-Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
-Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelho suave, ocre claro e sombras delicadas.
-
-Cena inspirada no trecho
-
-"No Jardim das Delícias de Bosch, o Éden brilha no primeiro painel como promessa. No centro, a humanidade se entrega aos prazeres sem pensar no amanhã. No último painel, o amanhã chegou, e é terrível: fogo, gelo, criaturas que devoram, corpos que sofrem sem fim.
-
-O cristão que contempla Bosch reconhece a verdade dura que ele proclama: o que o homem semear, isso também ceifará. A arte que alerta não é cruel. É misericordiosa. Como o profeta que grita enquanto há tempo."
-
-— inspirado em Gálatas 6.7 e Wilhelm Fraenger
-
-Composição da cena
-
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O jardim dos pesadelos e das verdades" e no conceito de alegoria.
-
-Elementos visuais principais:
-• Cenário coerente com o período histórico e o contexto artístico descrito
-• Figuras humanas em atividade relacionada ao tema, com expressões serenas e devotas
-• Detalhes arquitetônicos ou artísticos mencionados no texto
-• Objetos e materiais relevantes ao contexto da cena
-
-Iluminação:
-• Luz quente entrando lateralmente, suave e dourada
-• Sombras delicadas e ambiente contemplativo
-• Sensação de tempo lento e silêncio profundo
-
-Linguagem visual e simbolismo:
-• A arte como serviço, disciplina e oração silenciosa
-• Ausência de ostentação — foco no gesto, não no resultado
-• A luz indicando presença divina no trabalho artístico
-• Sensação de que o trabalho paciente é caminho de ascensão espiritual
-```
-
----
-
-### Aula 33.3 — O pintor dos camponeses e das estações
-
-**Prompt:**
-
-```
-Ilustração em aquarela detalhada, estilo ilustração de livro clássico, com fundo totalmente branco e bordas laterais difusas e suavemente desbotadas, criando aparência de página ilustrada antiga.
-Textura real de papel aquarelado, pinceladas suaves e luz quente e dourada.
-Paleta em tons equilibrados — dourado luminoso, marfim, azul profundo, vermelho suave, ocre claro e sombras delicadas.
-
-Cena inspirada no trecho
-
-"Os caçadores de Bruegel voltam para casa cansados. Seus ombros curvam sob o peso da jornada. Atrás deles, pássaros negros voam contra o céu cinzento de inverno. Mas lá embaixo, no vale, crianças patinam no lago gelado. Há vida e alegria apesar do frio.
-
-Bruegel pintou o povo. Não reis nem santos, mas camponeses que trabalham, dançam, riem e morrem. O cristão reconhece que o Deus de toda a terra está presente no campo tanto quanto na catedral. A vida comum tem dignidade diante de Deus."
-
-— inspirado em Colossenses 3.23 e Roger Scruton
-
-Composição da cena
-
-A ilustração deve representar visualmente o conteúdo descrito no trecho acima, com foco no tema "O pintor dos camponeses e das estações" e no conceito de gênero.
+## Semana 34 — Dürer e Holbein
 
 Elementos visuais principais:
 • Cenário coerente com o período histórico e o contexto artístico descrito

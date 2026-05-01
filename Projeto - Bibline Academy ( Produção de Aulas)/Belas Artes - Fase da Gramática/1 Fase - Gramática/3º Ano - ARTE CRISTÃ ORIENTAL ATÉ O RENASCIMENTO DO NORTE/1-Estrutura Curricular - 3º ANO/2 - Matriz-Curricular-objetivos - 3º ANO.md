@@ -288,15 +288,15 @@
 
 ## 📕 Semana 24 – **Arte Gótica: arquitetura e escultura**
 
-**Tema central:** As grandes catedrais góticas são sermões em pedra, vidro e luz.
+**Tema central:** A arquitetura e a escultura góticas ensinam pela fachada, pela forma e pela memória.
 
 | Aula | Título | Objetivo Teológico-Pedagógico |
 | ---- | ------ | ----------------------------- |
-| 24.1 | **Grandes catedrais** | Identificar as catedrais góticas como expressão suprema da fé medieval. |
+| 24.1 | **Fachada gótica** | Identificar a fachada gótica como frente visual que reúne entrada, escultura e ensino. |
 | 24.2 | **Escultura mais natural** | Reconhecer a transição para uma escultura mais naturalista e expressiva. |
 | 24.3 | **Notre-Dame de Paris** | Conhecer Notre-Dame como ícone da arte gótica e da devoção cristã. |
 
-**Conceitos da semana:** Catedral, Naturalismo, Monumento
+**Conceitos da semana:** Fachada, Naturalismo, Monumento
 
 ---
 

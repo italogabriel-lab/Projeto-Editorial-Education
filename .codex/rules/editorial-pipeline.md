@@ -23,3 +23,10 @@
 - Sincronizar documentos estruturais quando houver mudanças de conteúdo.
 - Publicar somente depois de passar por revisão.
 - Reusar skills do framework antes de inventar novos fluxos.
+
+## Tema e termo únicos
+
+- Antes de criar ou revisar uma aula, consultar todo o Currículo Macro do ano.
+- Não repetir como tema central uma aula, termo do Definir ou conceito de revisão que já tenha sido trabalhado em aula anterior do mesmo ano.
+- Se uma semana posterior precisar retomar uma obra ou contexto já citado, escolher um recorte novo e específico, como técnica, parte visual, função ou obra, sem redefinir o tema anterior.
+- Se a duplicação já estiver no Currículo Macro, corrigir primeiro o Currículo Macro e depois sincronizar os arquivos estruturais e aulas derivadas.

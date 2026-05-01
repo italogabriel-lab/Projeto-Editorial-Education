@@ -77,6 +77,9 @@ Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editor
 - Escreva a aula nos 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
 - Use o termo escolhido como conceito central
 - Siga a progressão pedagógica extraída do plano
+- Use a definição curta do Recordar literalmente no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Statement_D. No áudio do Accordion, remova o termo já citado na pergunta
+- Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
+- No 3º ano, em Narrar, mantenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
 - **Output:** Rascunho em Rise Blocks → `[READY_FOR_STEP_5]`
 
 ### 3.2 — Passo 5: Standardizer (Editor de Estilo)
@@ -84,6 +87,8 @@ Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editor
 - Leia o skill: `.agent/skills/standardizer/SKILL.md`
 - Aplique os Rise Blocks conforme o template
 - Corrija caracteres proibidos, voz passiva, formatação
+- Confirme que a definição curta está literalmente idêntica no Definir, Accordion e Recordar
+- Confirme que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar permanece no padrão do ano
 - **Output:** Conteúdo padronizado → `[READY_FOR_STEP_6]`
 
 ### 3.3 — Passo 6: Reviewer (Revisor de Qualidade)
@@ -91,13 +96,15 @@ Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editor
 - Leia o skill: `.agent/skills/reviewer/SKILL.md`
 - Valide o checklist de auditoria completo
 - **Verificação adicional**: confirme que o termo NÃO está na lista de termos já definidos
+- **Verificação adicional**: confirme que a definição curta do Recordar aparece literalmente no cabeçalho do Definir e no Accordion
+- **Verificação adicional**: confirme que Praticar contém `[+MULTIPLE]` e, no 3º ano, Narrar contém `[+IMAGE]` após a leitura
 - Se `[APPROVED_FOR_STEP_7]` → prossiga
 - Se `[REJECTED]` → retorne ao passo indicado e repita
 
 ### 3.4 — Passo 7: Copywriter Editorial
 // turbo
 - Leia o skill: `.agent/skills/copywriter/SKILL.md`
-- Ajuste título, definição e perguntas finais
+- Ajuste títulos internos e perguntas finais, sem alterar a definição curta validada
 - **Output:** `[FINAL — READY FOR PUBLISH]`
 
 ---
@@ -117,6 +124,7 @@ Execute o workflow `/publish`:
 // turbo
 - Leia o skill: `.agent/skills/review-builder/SKILL.md`
 - Extraia a definição curta do Recordar de cada aula (9-10 palavras)
+- Na tabela e nos matchings da revisão, remova a repetição inicial do termo da definição
 - Crie o arquivo `[Semana].4.md` seguindo o padrão de revisão (revisão = 4ª aula da semana)
 - **Output:** Arquivo de revisão semanal salvo localmente
 
@@ -126,7 +134,7 @@ Execute o workflow `/publish`:
 
 // turbo
 - Leia o skill: `.agent/skills/exam-builder/SKILL.md`
-- Extraia definições completas do Definir e conteúdo das 3 aulas
+- Extraia as definições curtas validadas e o conteúdo das 3 aulas
 - Crie o arquivo `[Semana].5.md` seguindo o padrão CANVAS_QUIZ (prova = 5ª aula da semana)
 - **Output:** Arquivo de prova semanal salvo localmente
 
@@ -162,4 +170,3 @@ Reporte:
 - ✅ Context Loop: Writer → Standardizer → Reviewer → Copywriter
 - ✅ Salvo localmente em `[caminho]`
 - ✅ Currículo Macro: `Dia N` + termo marcado ✅
-

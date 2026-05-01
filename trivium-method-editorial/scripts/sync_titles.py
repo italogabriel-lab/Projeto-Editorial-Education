@@ -3,7 +3,7 @@
 import re
 import os
 
-base = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy/Belas Artes - Fase da Gramática/1 Fase - Gramática/3º Ano - ARTE CRISTÃ ORIENTAL ATÉ O RENASCIMENTO DO NORTE/Estrutura Curricular - 3º ANO"
+base = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto - Bibline Academy ( Produção de Aulas)/Belas Artes - Fase da Gramática/1 Fase - Gramática/3º Ano - ARTE CRISTÃ ORIENTAL ATÉ O RENASCIMENTO DO NORTE/1-Estrutura Curricular - 3º ANO"
 base_lessons = os.path.dirname(base)
 
 macro_path = os.path.join(base, "1 - Curriculo Macro - Arte Cristã Oriental até o Renascimento do Norte - 3º ANO.md")

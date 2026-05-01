@@ -181,7 +181,7 @@ Guias leves que orientam a estrutura de cada secao da aula:
 | Template | Habito | Orienta |
 | :--- | :--- | :--- |
 | `defining.md` | Definir | Introducao ao conceito, definicao Webster, etimologia |
-| `perceiving.md` | Perceber | Observacao visual, perguntas de analise |
+| `perceiving.md` | Perceber | Observacao visual curta e direta |
 | `remembering.md` | Recordar | Frase de memorizacao, conexao poetica/musical |
 | `practicing.md` | Praticar | Atividade pratica, exercicio de fixacao |
 | `narrating.md` | Narrar | Trecho literario, momento de narracao, perguntas |
@@ -206,8 +206,8 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 
 | Bloco | Conteudo |
 | :--- | :--- |
-| `[+PARAGRAPH]` | 3-4 frases no imperativo descrevendo o que observar |
-| `[+IMAGE_LABELED]` | Imagem com 2 hotspots (coordenadas percentuais, titulo, descricao imperativa) |
+| `[+PARAGRAPH]` | 1 frase curta e direta sobre a imagem principal |
+| `[+IMAGE_LABELED]` | Imagem com 2 hotspots, titulo de 2 a 5 palavras e descricao de 1 frase curta |
 
 ### 6.3 Recordar (`## Recordar`)
 
@@ -223,14 +223,16 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 
 | Ordem | Bloco | Conteudo |
 | :--- | :--- | :--- |
-| Atividade 1 | `[+FILL_IN]` | Completar definicao de 9 palavras com 2 lacunas (`_____`) |
-| Atividade 2 | `[+MULTIPLE]` | Pergunta sobre significado do termo (posicao da correta alterna: .1=1a, .2=2a, .3=3a) |
-| Atividade Extra | `[+PARAGRAPH]` + `[+ATTACHMENT]` | Descricao da atividade manual + PDF (`@link_pdf@`) |
+| Atividade | `[+FILL_IN]` | Completar definicao curta com lacunas (`_____`) |
+| Atividade 2 | `[+MULTIPLE]` | Pergunta sobre significado do termo, com definicao curta completa como correta |
+| Atividade Extra | `[+PARAGRAPH]` + `[+ACTIVITY_WORKSHEET]` | Texto fixo + `INSTRUCTION=` com atividade manual |
 
 > **Regras do Praticar**:
-> - Atividade 1 sempre comeca com: "Complete as lacunas para reafirmar a definicao que voce aprendeu."
+> - Atividade sempre comeca com enunciado curto no imperativo.
+> - O `[+MULTIPLE]` e obrigatorio e permanece entre Fill_In e Atividade Extra.
 > - Alternativas erradas devem ser plausiveis mas claramente incorretas.
-> - A resposta correta e extraida da definicao de 9 palavras (sem o nome do termo e o "e").
+> - A resposta correta e a definicao curta completa e literal.
+> - Nao usar `[+ATTACHMENT]` com `@link_pdf@`.
 
 ### 6.5 Narrar (`## Narrar`)
 
@@ -241,22 +243,26 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 | **Variante B** (3o ano): `[+PARAGRAPH]` | Mesmo conteudo da Variante A em formato paragrafo |
 | `[+HEADING]` | "Perguntas" |
 | `[+PARAGRAPH]` | "Responda oralmente as perguntas abaixo sobre o texto" |
-| `[+LIST_NUMBERED]` | 3 perguntas com ponto de interrogacao |
+| `[+LIST_NUMBERED]` | 3 perguntas diretas, com respostas explicitas no texto |
 
 ---
 
 ## 7. Regra de Repeticao Obrigatoria da Definicao
 
-A definicao central de cada aula (9-10 palavras) deve aparecer **identicamente** em 6 locais:
+A definicao curta do Recordar (9-10 palavras) e a fonte textual da aula. Ela deve aparecer **literalmente** nos locais obrigatorios:
 
 | Local | Secao | Formato |
 | :--- | :--- | :--- |
-| 1. Paragrafo introdutorio | Definir | Texto corrido |
-| 2. Accordion (texto simples) | Definir | Sem formatacao |
-| 3. Accordion (audio) | Definir | Entre `[MP3/]` e `[MP3\]` |
-| 4. Accordion (negrito) | Definir | **Negrito** |
-| 5. Statement_D | Recordar | Audio + Texto repetido |
-| 6. Revisao semanal (.4) | Definir (tabela + Recordar) | Tabela e flashcard |
+| 1. Cabecalho do habito | Definir | Primeira linha em negrito |
+| 2. Accordion, audio | Definir | Entre `[MP3/]` e `[MP3\]` |
+| 3. Accordion, texto | Definir | Mesmas palavras, sem trocar capitalizacao |
+| 4. Statement_D | Recordar | Audio + texto repetido |
+| 5. Praticar | Praticar | Mesma frase com lacunas |
+| 6. Revisao semanal (.4) | Definir e Recordar | Tabela e flashcard |
+
+O Accordion do Definir nao deve incluir imagem nem reflexao. Ele deve trazer apenas pergunta, MP3 e repeticao literal da definicao curta.
+
+Na revisao semanal `.4`, a `[+TABLE]` e todos os `[+MATCHING]` usam a definicao sem repetir o termo no inicio. Exemplo: `Vê a criação com atenção reverente. [=] Observação da natureza`. O `[+STATEMENT_D]` preserva a definicao curta completa.
 
 > **Violacao desta regra e motivo de rejeicao automatica na Etapa 4 (Reviewer).**
 
@@ -582,7 +588,7 @@ RISE BLOCKS REFERENCE (rise-blocks-reference.md)
 
 | Placeholder | Significado | Onde aparece |
 | :--- | :--- | :--- |
-| `@link_png@` | Imagem a inserir | Perceber, Accordion, Narrar |
+| `@link_png@` | Imagem a inserir | Perceber, Narrar |
 | `@link_mp3@` | Audio a inserir | Accordion, Recordar |
 | `@link_pdf@` | PDF de atividade | Praticar (Atividade Extra) |
 | `[+VIDEO][-VIDEO]` | Video (tags vazias) | Definir |

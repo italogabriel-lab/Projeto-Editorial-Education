@@ -69,21 +69,22 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
 - [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
-- [ ] Definição no Accordion = Recordar = Praticar (capitalização idêntica)
+- [ ] Definição curta no cabeçalho do Definir = texto do Accordion após `[MP3\]` = Recordar, capitalização idêntica
+- [ ] Praticar usa a mesma definição curta com lacunas, sem trocar palavras fora das lacunas
 
 ---
 
 ### 2. Definir — Regras Específicas
 
-- [ ] 3-4 frases no imperativo no parágrafo introdutório
-- [ ] Definição ao final do parágrafo
+- [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
+- [ ] Frases "Reconheça que..." e "Observe que..." após a definição curta
 - [ ] `[+VIDEO][-VIDEO]` presente
 - [ ] Accordion: pergunta "O que é [Termo]?"
-- [ ] Accordion: `@link_png@` logo após a pergunta (sem definição texto plano antes)
-- [ ] Accordion: definição SOMENTE dentro do `[MP3/]...[MP3\]` e na versão com negrito
+- [ ] Accordion sem `@link_png@` e sem reflexão
+- [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` sem repetir o termo da pergunta
+- [ ] Accordion: texto após `[MP3\]` repete literalmente a definição curta completa do Recordar
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
-- [ ] Definição dentro do MP3 idêntica à do Recordar
-- [ ] Reflexão com "Entenda que..." e cosmovisão cristã
+- [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
 - [ ] **Sem separadores** `---` entre hábitos
 - [ ] **Sem metadados** (disciplina, módulo, faixa etária)
@@ -92,9 +93,13 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ### 3. Perceber — Regras Específicas
 
-- [ ] Parágrafo em imperativo
+- [ ] Parágrafo com 1 frase curta, simples e direta
 - [ ] `[+IMAGE_LABELED]` com `@link_png@`
 - [ ] Exatamente **2 hotspots** com coordenadas, título e descrição
+- [ ] Cada título de hotspot tem 2 a 5 palavras
+- [ ] Cada descrição de hotspot tem apenas 1 frase curta
+- [ ] Observações e explicações ficam nos hotspots, não no enunciado
+- [ ] Hotspots apontam observações visuais diretas, sem análise longa
 - [ ] **Nenhum bloco extra**
 
 ---
@@ -104,7 +109,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição idêntica à do Accordion
+- [ ] Definição idêntica ao cabeçalho do Definir e ao Accordion
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -115,22 +120,36 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Fill_In contém SOMENTE o conceito (NUNCA instrução)
 - [ ] 3-4 lacunas com `_____` (5 underscores)
 - [ ] Respostas na última linha, separadas por vírgula
+- [ ] `[+HEADING] Atividade 2 [-HEADING]` depois do Fill_In
+- [ ] `[+MULTIPLE]` presente entre Fill_In e Atividade Extra
+- [ ] `[+MULTIPLE]` pergunta o significado do termo
+- [ ] Resposta correta do `[+MULTIPLE]` é a definição curta completa e literal
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
-- [ ] Atividade extra com instrução imperativa + `[+ATTACHMENT]` com `@link_pdf@`
+- [ ] Em revisão `.4`, `[+TABLE]` e `[+MATCHING]` não repetem o termo no início da definição
+- [ ] Atividade extra usa `[+PARAGRAPH]` fixo e `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`
+- [ ] Não usar `[+ATTACHMENT]` com `@link_pdf@`
 
 ---
 
 ### 6. Narrar — Regras Específicas
 
 - [ ] `[+HEADING] Leitura [-HEADING]`
-- [ ] `[+IMAGE_TEXT_ASIDE]` com trecho entre aspas retas
+- [ ] 1º, 2º, 4º e 5º ano usam `[+IMAGE_TEXT_ASIDE]` com trecho entre aspas retas
+- [ ] 3º ano usa `[+PARAGRAPH]` na leitura e mantém `[+IMAGE]` com `@link_png@` antes de `Perguntas`
 - [ ] Trecho dividido em **2 parágrafos** (separados por linha em branco)
 - [ ] Trecho literário cristão, puritano ou poético
+- [ ] Texto traz elementos explícitos do tema da aula e do conceito definido
+- [ ] Texto contém, em frases claras, as respostas diretas para as 3 perguntas
 - [ ] Atribuição em **linha única** com **negrito** e *itálico*
 - [ ] `[+HEADING] Perguntas [-HEADING]`
 - [ ] 3 perguntas com interrogação
 - [ ] 1 linha de espaço entre perguntas
-- [ ] Perguntas relacionadas ao conteúdo da aula
+- [ ] Perguntas curtas, diretas e fáceis de compreender
+- [ ] Cada resposta aparece explicitamente no texto lido
+- [ ] Perguntas ajudam a criança a narrar com suas palavras o que compreendeu
+- [ ] Nenhuma pergunta é aberta, reflexiva, abstrata ou dependente de inferência
+- [ ] Nenhuma pergunta exige conhecimento prévio ou contexto externo ao texto
+- [ ] Se alguma pergunta falhar nesses critérios, **REJEITAR** e devolver ao Writer
 
 ---
 
@@ -138,9 +157,9 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | Local | Obrigatório |
 |-------|-------------|
-| Final do parágrafo introdutório (Definir) | ✅ |
-| Accordion — áudio MP3 | ✅ |
-| Accordion — negrito | ✅ |
+| Cabeçalho do Definir, primeira linha em negrito | ✅ |
+| Accordion — áudio MP3 | ✅ sem repetir o termo da pergunta |
+| Accordion — texto repetido após MP3 | ✅ definição completa e literal |
 | Recordar — Statement_D | ✅ (versão curta) |
 | Praticar — Fill_In | ✅ (com lacunas) |
 
@@ -173,7 +192,19 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 ### 11. Termo Único
 
 - [ ] Termo NÃO aparece em aulas anteriores (Currículo Macro)
+- [ ] Tema central NÃO repete aula anterior do mesmo ano
+- [ ] Aula posterior NÃO redefine conceito já ensinado com título ou formulação diferente
 - [ ] Termo adequado ao tema e faixa etária
+- [ ] Se houver repetição, REJEITAR e pedir troca do tema posterior por recorte inédito no Currículo Macro
+
+---
+
+### 11b. Revisão Semanal `.4`
+
+- [ ] Na `[+TABLE]`, a coluna `Definição` não repete o termo da coluna `Termo`.
+- [ ] Em todos os `[+MATCHING]`, a definição antes de `[=]` não repete o termo que aparece depois de `[=]`.
+- [ ] Os blocos `[+STATEMENT_D]` preservam a definição curta completa, com o termo, para memorização.
+- [ ] Exemplo correto: `Vê a criação com atenção reverente. [=] Observação da natureza`.
 
 ---
 

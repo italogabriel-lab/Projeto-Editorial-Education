@@ -67,14 +67,15 @@ O **Copywriter** dá o acabamento final ao conteúdo revisado, otimizando títul
 - ✅ Profunda mas acessível
 
 ### 4. Trecho Literário
-- ✅ Poético e elevado
+- ✅ Claro, narrativo e acessível
+- ✅ Respostas explícitas para as perguntas
 - ✅ Atribuição formatada corretamente
 - ✅ Conexão clara com tema
 
 ### 5. Perguntas (Narrar)
-- ✅ 3 perguntas abertas
-- ✅ Progressão em profundidade
-- ✅ Estimulam articulação
+- ✅ 3 perguntas curtas e diretas
+- ✅ Respostas explícitas no texto
+- ✅ Ajudam a criança a narrar com suas palavras
 
 ## Output
 Arquivo: `final_class.md` — Pronto para publicação!
@@ -101,14 +102,15 @@ Arquivo: `final_class.md` — Pronto para publicação!
 - [ ] Começa com "Entenda que..."
 
 ### **4. Narrar — Trecho**
-- [ ] Poético e elevado
+- [ ] Claro, narrativo e acessível
+- [ ] Respostas explícitas para as perguntas
 - [ ] Atribuição completa
 - [ ] Conexão com tema
 
 ### **5. Narrar — Perguntas**
-- [ ] 3 perguntas abertas
-- [ ] Reflexivas
-- [ ] Progressão: observação → interpretação → aplicação
+- [ ] 3 perguntas curtas e diretas
+- [ ] Respostas explícitas no texto
+- [ ] Sem perguntas abertas, reflexivas ou inferenciais
 
 ### **6. Fluidez Geral**
 - [ ] Transição natural entre hábitos
@@ -164,14 +166,10 @@ Arquivo: `final_class.md` — Pronto para publicação!
 1. "Observe o padrão geométrico" → "Analise o padrão geométrico islâmico"
 2. "Complete a atividade" → "Preencha as lacunas com os termos corretos"
 
-### Reflexão Teológica
-- ✅ Conectada à cosmovisão cristã
-- ✅ Aplicação prática para o aluno
-
 ### Perguntas do Narrar
-1. **Observação:** "O que você vê no padrão?"
-2. **Interpretação:** "O que isso revela sobre a cosmovisão islâmica?"
-3. **Aplicação:** "Como isso se relaciona com sua fé?"
+1. "O que aparece no padrão?"
+2. "Que formas se repetem no desenho?"
+3. "Como o padrão mostra ordem?"
 
 ## Status: ✅ Pronto para Publicação
 ```
