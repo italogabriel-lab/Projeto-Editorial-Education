@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-02T00:04:31.850Z",
+  "last_updated": "2026-05-02T03:41:26.064Z",
   "total_items": 3638,
-  "ignored_items_count": 287,
+  "ignored_items_count": 295,
   "duplicate_items_count": 69,
   "ignored_items": [
     {
@@ -1724,6 +1724,54 @@
       "id": "I_kwDOPFPmMM8AAAABA1-foA",
       "number": 4221,
       "title": "[Português] - Ano 2 - 22.3 Uso do tempo verbal presente (Update)",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFSCvA",
+      "number": 4223,
+      "title": "[English] - Year 1 - 1.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFSI3w",
+      "number": 4224,
+      "title": "[English] - Year 1 - 2.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFSL4w",
+      "number": 4225,
+      "title": "[English] - Year 1 - 3.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFSPJw",
+      "number": 4226,
+      "title": "[English] - Year 1 - 4.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFTIfQ",
+      "number": 4227,
+      "title": "[English] - Year 1 - 5.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFTLdQ",
+      "number": 4228,
+      "title": "[English] - Year 1 - 6.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFTN3Q",
+      "number": 4229,
+      "title": "[English] - Year 1 - 7.4 Review",
+      "reason": "title_out_of_pattern"
+    },
+    {
+      "id": "I_kwDOPFPmMM8AAAABBFTQlA",
+      "number": 4230,
+      "title": "[English] - Year 1 - 8.4 Review",
       "reason": "title_out_of_pattern"
     }
   ],
