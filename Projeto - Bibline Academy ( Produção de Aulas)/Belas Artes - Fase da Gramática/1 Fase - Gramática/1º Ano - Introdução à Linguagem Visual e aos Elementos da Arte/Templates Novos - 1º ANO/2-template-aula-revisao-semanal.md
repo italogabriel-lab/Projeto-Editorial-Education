@@ -1,0 +1,1 @@
+# Padrão para definir revisão semanal
