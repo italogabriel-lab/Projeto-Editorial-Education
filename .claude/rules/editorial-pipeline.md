@@ -2,6 +2,7 @@
 
 ## Fluxo oficial
 
+0. Curriculum Macro Adapter, adequa a grade quando houver lista de temas ou currículo a padronizar.
 1. Orchestrator, diagnostica e delega.
 2. Researcher, pesquisa acadêmica e teológica.
 3. Writer, redige com os 5 hábitos.
@@ -13,6 +14,7 @@
 ## Referências operacionais
 
 - Workflow principal, `trivium-method-editorial/workflows/produce_class.md`
+- Adequação curricular, `trivium-method-editorial/agents/skills/curriculum-macro-adapter/SKILL.md`
 - Publicação, `trivium-method-editorial/workflows/publish.md`
 - Orquestração, `trivium-method-editorial/workflows/orchestrate.md`
 - Pipeline completo, `trivium-method-editorial/workflows/full-pipeline.md`

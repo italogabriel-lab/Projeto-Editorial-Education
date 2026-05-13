@@ -1,43 +1,53 @@
 # Descrições para tickets – Belas Artes – 1º Ano
 
 > Arquivo de referência para copiar e colar a descrição de cada aula nos issues do GitHub.
+> Estruturado a partir do Currículo Macro e da Matriz Curricular do 1º Ano, com a nova abordagem dos 5 hábitos pedagógicos, Definir, Perceber, Recordar, Praticar e Narrar.
+> Cada semana parte da aula .1 como coração pedagógico, fixa a definição central, e desdobra o tema nas aulas .2 e .3.
 
 ---
 
-## Semana 1 – A Essência da Arte
+## Semana 1 – A arte e a expressão
+
+**Tema central da semana**, A arte e a expressão. A aula 1.1 fixa a definição central. A aula 1.2 desenvolve a beleza criada por Deus. A aula 1.3 desenvolve a habilidade humana.
 
 ---
 
-[Belas artes] - Ano 1 - 1.1 A essência da arte
+[Belas artes] - Ano 1 - 1.1 A arte e a expressão
 
 # Description
 
+**Tema central da semana**, A arte e a expressão. **Foco da aula**, coração pedagógico que fixa a definição central.
+
 ## Objetivos
-   → Reconheça a arte como uma das formas de ver o mundo criado.
-   → Compreenda que a arte pode comunicar ideias e sentimentos.
-   → Observe elementos de arte no seu dia a dia e na natureza.
+   → Reconheça que a arte expressa a beleza criada por Deus com habilidade humana.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que a arte expressa.
 
 ---
 
-[Belas artes] - Ano 1 - 1.2 A imaginação que vira desenho
+[Belas artes] - Ano 1 - 1.2 A arte e a beleza
 
 # Description
 
+**Tema central da semana**, A arte e a expressão. **Foco da aula**, primeiro desdobramento, A arte e a beleza.
+
 ## Objetivos
-   → Compreenda que a imaginação é um dom dado por Deus.
-   → Pratique transferir uma ideia imaginada para o papel.
-   → Desenvolva coordenação motora inicial através do desenho livre.
+   → Compreenda a beleza criada por Deus como primeiro desdobramento da arte.
+   → Perceba a beleza em obras simples e na natureza observada.
+   → Narre oralmente um exemplo de beleza criada por Deus.
 
 ---
 
-[Belas artes] - Ano 1 - 1.3 A beleza revelada por Deus
+[Belas artes] - Ano 1 - 1.3 A arte e a habilidade humana
 
 # Description
 
+**Tema central da semana**, A arte e a expressão. **Foco da aula**, segundo desdobramento, A arte e a habilidade humana.
+
 ## Objetivos
-   → Identifique a beleza no ambiente natural como reflexo do Criador.
-   → Reconheça que o artista busca representar a beleza criacional.
-   → Valorize a capacidade humana de criar algo belo e ordenado.
+   → Pratique a habilidade humana como segundo desdobramento da expressão artística.
+   → Aplique a definição da semana em atividade prática com as próprias mãos.
+   → Narre a experiência de criar arte com a habilidade recebida de Deus.
 
 ---
 
@@ -45,64 +55,72 @@
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 1
+Revisar os conhecimentos das aulas da semana 1.
 
-## 1ª Semana: **A Essência da Arte**
+## 1ª Semana, **A arte e a expressão**
 
-- 1.1 A essência da arte
-- 1.2 A imaginação que vira desenho
-- 1.3 A beleza revelada por Deus
+- 1.1 A arte e a expressão
+- 1.2 A arte e a beleza
+- 1.3 A arte e a habilidade humana
 
 ---
 
-[Belas artes] - Ano 1 - 1.5 prova
+[Belas artes] - Ano 1 - 1.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 1
+Avaliar os conhecimentos das aulas da semana 1.
 
-## 1ª Semana: **A Essência da Arte**
+## 1ª Semana, **A arte e a expressão**
 
-- 1.1 A essência da arte
-- 1.2 A imaginação que vira desenho
-- 1.3 A beleza revelada por Deus
-
----
-
-## Semana 2 – A Presença da Arte
+- 1.1 A arte e a expressão
+- 1.2 A arte e a beleza
+- 1.3 A arte e a habilidade humana
 
 ---
 
-[Belas artes] - Ano 1 - 2.1 A presença da arte
+## Semana 2 – A arte nos lugares da vida
+
+**Tema central da semana**, A arte nos lugares da vida. A aula 2.1 apresenta o coração do tema. A aula 2.2 desenvolve a arte nos livros e na igreja. A aula 2.3 desenvolve a arte em casa e na natureza.
+
+---
+
+[Belas artes] - Ano 1 - 2.1 A arte nos lugares da vida
 
 # Description
+
+**Tema central da semana**, A arte nos lugares da vida. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Observe como a arte está presente em diferentes espaços humanos.
-   → Identifique objetos artísticos no ambiente doméstico ou escolar.
-   → Compreenda a diferença entre objetos utilitários e arte ornamental.
+   → Reconheça a arte presente em diferentes lugares da vida humana.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras onde a arte aparece no dia a dia.
 
 ---
 
-[Belas artes] - Ano 1 - 2.2 Arte nos livros e na igreja
+[Belas artes] - Ano 1 - 2.2 A arte nos livros e na igreja
 
 # Description
 
+**Tema central da semana**, A arte nos lugares da vida. **Foco da aula**, primeiro desdobramento, A arte nos livros e na igreja.
+
 ## Objetivos
-   → Reconheça os livros e os templos como importantes espaços artísticos.
-   → Observe iluminuras, ilustrações ou ornamentos em livros e igrejas.
-   → Valorize o uso da arte para contar as grandes histórias da fé.
+   → Compreenda a arte nos livros e na igreja como primeiro desdobramento do tema.
+   → Perceba ilustrações, ornamentos e iluminuras em livros e templos.
+   → Narre oralmente um exemplo de arte vista em um livro ou na igreja.
 
 ---
 
-[Belas artes] - Ano 1 - 2.3 A arte como presente do Criador
+[Belas artes] - Ano 1 - 2.3 A arte em casa e na natureza
 
 # Description
 
+**Tema central da semana**, A arte nos lugares da vida. **Foco da aula**, segundo desdobramento, A arte em casa e na natureza.
+
 ## Objetivos
-   → Assuma que a capacidade criativa reflete o caráter de Deus.
-   → Desenvolva gratidão pelos dons artísticos dados aos homens.
-   → Aprecie obras e compreenda-as como dons para o desfrute humano.
+   → Pratique a observação da arte em casa e na natureza como segundo desdobramento.
+   → Aplique a observação em atividade prática registrando elementos belos do ambiente.
+   → Narre a experiência de encontrar arte em lugares do cotidiano.
 
 ---
 
@@ -110,64 +128,72 @@ Avaliar os conhecimentos das aulas da semana 1
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 2
+Revisar os conhecimentos das aulas da semana 2.
 
-## 2ª Semana: **A Presença da Arte**
+## 2ª Semana, **A arte nos lugares da vida**
 
-- 2.1 A presença da arte
-- 2.2 Arte nos livros e na igreja
-- 2.3 A arte como presente do Criador
+- 2.1 A arte nos lugares da vida
+- 2.2 A arte nos livros e na igreja
+- 2.3 A arte em casa e na natureza
 
 ---
 
-[Belas artes] - Ano 1 - 2.5 prova
+[Belas artes] - Ano 1 - 2.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 2
+Avaliar os conhecimentos das aulas da semana 2.
 
-## 2ª Semana: **A Presença da Arte**
+## 2ª Semana, **A arte nos lugares da vida**
 
-- 2.1 A presença da arte
-- 2.2 Arte nos livros e na igreja
-- 2.3 A arte como presente do Criador
-
----
-
-## Semana 3 – O Ponto Começa Tudo
+- 2.1 A arte nos lugares da vida
+- 2.2 A arte nos livros e na igreja
+- 2.3 A arte em casa e na natureza
 
 ---
 
-[Belas artes] - Ano 1 - 3.1 O ponto começa tudo
+## Semana 3 – O ponto no desenho
+
+**Tema central da semana**, O ponto no desenho. A aula 3.1 apresenta o coração do tema com a arte feita com pontos. A aula 3.2 desenvolve o ponto como começo. A aula 3.3 desenvolve o ponto no desenho.
+
+---
+
+[Belas artes] - Ano 1 - 3.1 A arte feita com pontos
 
 # Description
+
+**Tema central da semana**, O ponto no desenho. **Foco da aula**, coração pedagógico que fixa a arte feita com pontos como definição central.
 
 ## Objetivos
-   → Reconheça o ponto como a unidade mais básica da linguagem visual.
-   → Pratique fazer diferentes tipos de pontos em um papel.
-   → Compreenda que toda forma visual pode nascer de um simples ponto.
+   → Reconheça a arte feita com pontos como ponto de partida do desenho.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como o ponto começa toda obra.
 
 ---
 
-[Belas artes] - Ano 1 - 3.2 O ponto como semente do desenho
+[Belas artes] - Ano 1 - 3.2 O ponto como começo
 
 # Description
 
+**Tema central da semana**, O ponto no desenho. **Foco da aula**, primeiro desdobramento, O ponto como começo.
+
 ## Objetivos
-   → Experimente transformar pontos em desenhos maiores.
-   → Observe como um ponto em movimento se torna uma linha.
-   → Pratique o controle do lápis para produzir pontos intencionais.
+   → Compreenda o ponto como começo de toda forma visual.
+   → Perceba pontos em obras, na natureza e em superfícies próximas.
+   → Narre oralmente um exemplo de obra que começa com pontos.
 
 ---
 
-[Belas artes] - Ano 1 - 3.3 Descobrindo padrões com pontinhos
+[Belas artes] - Ano 1 - 3.3 O ponto no desenho
 
 # Description
 
+**Tema central da semana**, O ponto no desenho. **Foco da aula**, segundo desdobramento, O ponto no desenho.
+
 ## Objetivos
-   → Identifique padrões formados pela repetição de pontos.
-   → Pratique o preenchimento de espaços apenas com pontinhos.
-   → Compreenda a ideia de ritmo e frequência visual usando o ponto.
+   → Pratique o uso intencional do ponto no desenho como segundo desdobramento.
+   → Aplique o ponto em atividade prática para construir um desenho simples.
+   → Narre a experiência de desenhar usando pontos.
 
 ---
 
@@ -175,64 +201,72 @@ Avaliar os conhecimentos das aulas da semana 2
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 3
+Revisar os conhecimentos das aulas da semana 3.
 
-## 3ª Semana: **O Ponto Começa Tudo**
+## 3ª Semana, **O ponto no desenho**
 
-- 3.1 O ponto começa tudo
-- 3.2 O ponto como semente do desenho
-- 3.3 Descobrindo padrões com pontinhos
+- 3.1 A arte feita com pontos
+- 3.2 O ponto como começo
+- 3.3 O ponto no desenho
 
 ---
 
-[Belas artes] - Ano 1 - 3.5 prova
+[Belas artes] - Ano 1 - 3.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 3
+Avaliar os conhecimentos das aulas da semana 3.
 
-## 3ª Semana: **O Ponto Começa Tudo**
+## 3ª Semana, **O ponto no desenho**
 
-- 3.1 O ponto começa tudo
-- 3.2 O ponto como semente do desenho
-- 3.3 Descobrindo padrões com pontinhos
-
----
-
-## Semana 4 – Fazendo Arte com Pontos
+- 3.1 A arte feita com pontos
+- 3.2 O ponto como começo
+- 3.3 O ponto no desenho
 
 ---
 
-[Belas artes] - Ano 1 - 4.1 Fazendo arte com carimbo
+## Semana 4 – A arte feita com pontos
+
+**Tema central da semana**, A arte feita com pontos. A aula 4.1 apresenta o coração do tema com o ponto como padrão. A aula 4.2 desenvolve os pontos nas obras. A aula 4.3 desenvolve os pontos nas cores.
+
+---
+
+[Belas artes] - Ano 1 - 4.1 O ponto como padrão
 
 # Description
+
+**Tema central da semana**, A arte feita com pontos. **Foco da aula**, coração pedagógico que fixa o ponto como padrão.
 
 ## Objetivos
-   → Experimente criar marcas usando carimbos simples de dedo ou borracha.
-   → Observe como a repetição cria uma textura visual.
-   → Pratique organizar carimbos em uma composição intencional.
+   → Reconheça o ponto como padrão visual repetido com ritmo.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é um padrão de pontos.
 
 ---
 
-[Belas artes] - Ano 1 - 4.2 Observando obras pontilhadas
+[Belas artes] - Ano 1 - 4.2 Os pontos nas obras
 
 # Description
 
+**Tema central da semana**, A arte feita com pontos. **Foco da aula**, primeiro desdobramento, Os pontos nas obras.
+
 ## Objetivos
-   → Aprecie obras criadas na técnica do pontilhismo.
-   → Compreenda que muitos pontos juntos constroem imagens completas.
-   → Observe a mistura óptica de cores feita por pontos próximos.
+   → Compreenda os pontos nas obras como primeiro desdobramento da semana.
+   → Perceba pontos em pinturas pontilhistas e ilustrações observadas.
+   → Narre oralmente um exemplo de obra feita com muitos pontos.
 
 ---
 
-[Belas artes] - Ano 1 - 4.3 Colorindo com mil pontos
+[Belas artes] - Ano 1 - 4.3 Os pontos nas cores
 
 # Description
 
+**Tema central da semana**, A arte feita com pontos. **Foco da aula**, segundo desdobramento, Os pontos nas cores.
+
 ## Objetivos
-   → Pratique colorir um desenho utilizando apenas pontinhos.
-   → Desenvolva paciência e diligência ao preencher a composição.
-   → Perceba a diferença de impacto entre colorir liso e colorir pontilhado.
+   → Pratique o uso de pontos coloridos como segundo desdobramento da semana.
+   → Aplique pontos de várias cores em atividade prática para preencher uma área.
+   → Narre a experiência de colorir com pontos.
 
 ---
 
@@ -240,64 +274,72 @@ Avaliar os conhecimentos das aulas da semana 3
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 4
+Revisar os conhecimentos das aulas da semana 4.
 
-## 4ª Semana: **Fazendo Arte com Pontos**
+## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 Fazendo arte com carimbo
-- 4.2 Observando obras pontilhadas
-- 4.3 Colorindo com mil pontos
+- 4.1 O ponto como padrão
+- 4.2 Os pontos nas obras
+- 4.3 Os pontos nas cores
 
 ---
 
-[Belas artes] - Ano 1 - 4.5 prova
+[Belas artes] - Ano 1 - 4.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 4
+Avaliar os conhecimentos das aulas da semana 4.
 
-## 4ª Semana: **Fazendo Arte com Pontos**
+## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 Fazendo arte com carimbo
-- 4.2 Observando obras pontilhadas
-- 4.3 Colorindo com mil pontos
-
----
-
-## Semana 5 – A Linha que Anda
+- 4.1 O ponto como padrão
+- 4.2 Os pontos nas obras
+- 4.3 Os pontos nas cores
 
 ---
 
-[Belas artes] - Ano 1 - 5.1 A linha que anda
+## Semana 5 – A linha no desenho
+
+**Tema central da semana**, A linha no desenho. A aula 5.1 apresenta o coração do tema. A aula 5.2 desenvolve as linhas retas. A aula 5.3 desenvolve as linhas curvas.
+
+---
+
+[Belas artes] - Ano 1 - 5.1 A linha no desenho
 
 # Description
+
+**Tema central da semana**, A linha no desenho. **Foco da aula**, coração pedagógico que fixa a linha como definição central.
 
 ## Objetivos
-   → Reconheça a linha como o rastro deixado por um ponto em movimento.
-   → Pratique desenhar linhas livremente pelo papel.
-   → Compreenda a fluidez e a direção como características da linha.
+   → Reconheça a linha como ponto em movimento sobre o papel.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como uma linha nasce de um ponto.
 
 ---
 
-[Belas artes] - Ano 1 - 5.2 Reta, curva, espiral e mais
+[Belas artes] - Ano 1 - 5.2 As linhas retas
 
 # Description
 
+**Tema central da semana**, A linha no desenho. **Foco da aula**, primeiro desdobramento, As linhas retas.
+
 ## Objetivos
-   → Identifique linhas retas, curvas, quebradas e espirais.
-   → Pratique desenhar diferentes tipos de linhas.
-   → Observe os sentimentos e o movimento sugeridos por cada tipo de linha.
+   → Compreenda as linhas retas como primeiro desdobramento da semana.
+   → Perceba linhas retas em construções, móveis e objetos do dia a dia.
+   → Narre oralmente um exemplo de linha reta vista no ambiente.
 
 ---
 
-[Belas artes] - Ano 1 - 5.3 Brincando com linha de barbante
+[Belas artes] - Ano 1 - 5.3 As linhas curvas
 
 # Description
 
+**Tema central da semana**, A linha no desenho. **Foco da aula**, segundo desdobramento, As linhas curvas.
+
 ## Objetivos
-   → Experimente construir linhas fisicamente usando barbantes.
-   → Compreenda a materialidade da linha quando feita com novos materiais.
-   → Pratique compor um desenho de linhas sobrepondo barbantes colados.
+   → Pratique as linhas curvas como segundo desdobramento da semana.
+   → Aplique linhas curvas em atividade prática desenhando ondas e voltas.
+   → Narre a experiência de desenhar linhas que se curvam.
 
 ---
 
@@ -305,64 +347,72 @@ Avaliar os conhecimentos das aulas da semana 4
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 5
+Revisar os conhecimentos das aulas da semana 5.
 
-## 5ª Semana: **A Linha que Anda**
+## 5ª Semana, **A linha no desenho**
 
-- 5.1 A linha que anda
-- 5.2 Reta, curva, espiral e mais
-- 5.3 Brincando com linha de barbante
+- 5.1 A linha no desenho
+- 5.2 As linhas retas
+- 5.3 As linhas curvas
 
 ---
 
-[Belas artes] - Ano 1 - 5.5 prova
+[Belas artes] - Ano 1 - 5.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 5
+Avaliar os conhecimentos das aulas da semana 5.
 
-## 5ª Semana: **A Linha que Anda**
+## 5ª Semana, **A linha no desenho**
 
-- 5.1 A linha que anda
-- 5.2 Reta, curva, espiral e mais
-- 5.3 Brincando com linha de barbante
-
----
-
-## Semana 6 – A Linha como História
+- 5.1 A linha no desenho
+- 5.2 As linhas retas
+- 5.3 As linhas curvas
 
 ---
 
-[Belas artes] - Ano 1 - 6.1 A linha como história
+## Semana 6 – A linha como caminho
+
+**Tema central da semana**, A linha como caminho. A aula 6.1 apresenta o coração do tema com a linha como padrão. A aula 6.2 desenvolve a linha como caminho. A aula 6.3 desenvolve a linha que cria trilhas.
+
+---
+
+[Belas artes] - Ano 1 - 6.1 A linha como padrão
 
 # Description
+
+**Tema central da semana**, A linha como caminho. **Foco da aula**, coração pedagógico que fixa a linha como padrão.
 
 ## Objetivos
-   → Compreenda que a linha pode guiar os olhos e contar uma história visual.
-   → Observe ilustrações onde as linhas formam caminhos.
-   → Pratique desenhar um percurso usando uma única linha contínua.
+   → Reconheça a linha como padrão visual repetido em uma direção.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é um padrão de linhas.
 
 ---
 
-[Belas artes] - Ano 1 - 6.2 Pintar o som com linhas
+[Belas artes] - Ano 1 - 6.2 A linha como caminho
 
 # Description
 
+**Tema central da semana**, A linha como caminho. **Foco da aula**, primeiro desdobramento, A linha como caminho.
+
 ## Objetivos
-   → Experimente mover o lápis no ritmo e andamento de diferentes músicas.
-   → Reconheça que o movimento e o traço estão ligados à expressão.
-   → Crie livremente representando o volume e a velocidade do som.
+   → Compreenda a linha como caminho que conduz o olhar.
+   → Perceba linhas que guiam o olhar em obras e ilustrações.
+   → Narre oralmente um exemplo de linha que cria um caminho.
 
 ---
 
-[Belas artes] - Ano 1 - 6.3 Desenhando trilhas com corda
+[Belas artes] - Ano 1 - 6.3 A linha que cria trilhas
 
 # Description
 
+**Tema central da semana**, A linha como caminho. **Foco da aula**, segundo desdobramento, A linha que cria trilhas.
+
 ## Objetivos
-   → Pratique a motricidade grossa traçando grandes trilhas com cordas.
-   → Experimente transformar movimentos do corpo em noções espaciais da linha.
-   → Reflita sobre como o desenho nasce do próprio movimento físico.
+   → Pratique a linha que cria trilhas como segundo desdobramento da semana.
+   → Aplique a linha em atividade prática desenhando trilhas para um personagem.
+   → Narre a experiência de criar uma trilha com linhas.
 
 ---
 
@@ -370,64 +420,72 @@ Avaliar os conhecimentos das aulas da semana 5
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 6
+Revisar os conhecimentos das aulas da semana 6.
 
-## 6ª Semana: **A Linha como História**
+## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como história
-- 6.2 Pintar o som com linhas
-- 6.3 Desenhando trilhas com corda
+- 6.1 A linha como padrão
+- 6.2 A linha como caminho
+- 6.3 A linha que cria trilhas
 
 ---
 
-[Belas artes] - Ano 1 - 6.5 prova
+[Belas artes] - Ano 1 - 6.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 6
+Avaliar os conhecimentos das aulas da semana 6.
 
-## 6ª Semana: **A Linha como História**
+## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como história
-- 6.2 Pintar o som com linhas
-- 6.3 Desenhando trilhas com corda
-
----
-
-## Semana 7 – Formas que se Transformam
+- 6.1 A linha como padrão
+- 6.2 A linha como caminho
+- 6.3 A linha que cria trilhas
 
 ---
 
-[Belas artes] - Ano 1 - 7.1 Formas que se transformam
+## Semana 7 – As formas no desenho
+
+**Tema central da semana**, As formas no desenho. A aula 7.1 apresenta o coração do tema. A aula 7.2 desenvolve o círculo, o quadrado e o triângulo. A aula 7.3 desenvolve as formas que criam imagens.
+
+---
+
+[Belas artes] - Ano 1 - 7.1 As formas no desenho
 
 # Description
+
+**Tema central da semana**, As formas no desenho. **Foco da aula**, coração pedagógico que fixa a forma como definição central.
 
 ## Objetivos
-   → Reconheça que as linhas se fecham para criar formas.
-   → Pratique desenhar o contorno de objetos para fechar as linhas.
-   → Compreenda a diferença entre uma linha solta e um espaço delimitado.
+   → Reconheça a forma no desenho como espaço fechado por linhas.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é uma forma desenhada.
 
 ---
 
-[Belas artes] - Ano 1 - 7.2 Círculo, quadrado e triângulo
+[Belas artes] - Ano 1 - 7.2 O círculo, o quadrado e o triângulo
 
 # Description
 
+**Tema central da semana**, As formas no desenho. **Foco da aula**, primeiro desdobramento, O círculo, o quadrado e o triângulo.
+
 ## Objetivos
-   → Identifique as formas geométricas básicas: círculo, quadrado e triângulo.
-   → Pratique traçar essas formas com precisão manual.
-   → Pratique combinar essas formas diferentes para fazer desenhos maiores.
+   → Compreenda o círculo, o quadrado e o triângulo como formas fundamentais.
+   → Perceba essas três formas em objetos cotidianos.
+   → Narre oralmente um exemplo de cada uma das três formas.
 
 ---
 
-[Belas artes] - Ano 1 - 7.3 Formas que viram caras e casas
+[Belas artes] - Ano 1 - 7.3 As formas que criam imagens
 
 # Description
 
+**Tema central da semana**, As formas no desenho. **Foco da aula**, segundo desdobramento, As formas que criam imagens.
+
 ## Objetivos
-   → Experimente transformar composições geométricas em casas, rostos ou objetos.
-   → Reconheça que tudo ao redor pode ser resumido em formas geométricas.
-   → Pratique o olhar analítico desmontando objetos visualmente.
+   → Pratique formas que criam imagens como segundo desdobramento da semana.
+   → Aplique formas básicas em atividade prática para compor uma imagem simples.
+   → Narre a experiência de criar uma imagem usando formas.
 
 ---
 
@@ -435,64 +493,72 @@ Avaliar os conhecimentos das aulas da semana 6
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 7
+Revisar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana: **Formas que se Transformam**
+## 7ª Semana, **As formas no desenho**
 
-- 7.1 Formas que se transformam
-- 7.2 Círculo, quadrado e triângulo
-- 7.3 Formas que viram caras e casas
+- 7.1 As formas no desenho
+- 7.2 O círculo, o quadrado e o triângulo
+- 7.3 As formas que criam imagens
 
 ---
 
-[Belas artes] - Ano 1 - 7.5 prova
+[Belas artes] - Ano 1 - 7.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 7
+Avaliar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana: **Formas que se Transformam**
+## 7ª Semana, **As formas no desenho**
 
-- 7.1 Formas que se transformam
-- 7.2 Círculo, quadrado e triângulo
-- 7.3 Formas que viram caras e casas
-
----
-
-## Semana 8 – Formas da Natureza
+- 7.1 As formas no desenho
+- 7.2 O círculo, o quadrado e o triângulo
+- 7.3 As formas que criam imagens
 
 ---
 
-[Belas artes] - Ano 1 - 8.1 Desenhando folhas e pedras
+## Semana 8 – As formas na natureza
+
+**Tema central da semana**, As formas na natureza. A aula 8.1 apresenta o coração do tema. A aula 8.2 desenvolve as formas em bichos. A aula 8.3 desenvolve as formas em figuras.
+
+---
+
+[Belas artes] - Ano 1 - 8.1 As formas na natureza
 
 # Description
+
+**Tema central da semana**, As formas na natureza. **Foco da aula**, coração pedagógico que fixa as formas na criação.
 
 ## Objetivos
-   → Observe as formas orgânicas presentes em folhas, pedras e nuvens.
-   → Compreenda que a natureza tem formas muito além das geométricas.
-   → Pratique desenhar observando irregularidades naturais.
+   → Reconheça as formas na natureza como dom da criação de Deus.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras quais formas existem na natureza.
 
 ---
 
-[Belas artes] - Ano 1 - 8.2 Criando bichos com formas
+[Belas artes] - Ano 1 - 8.2 As formas em bichos
 
 # Description
 
+**Tema central da semana**, As formas na natureza. **Foco da aula**, primeiro desdobramento, As formas em bichos.
+
 ## Objetivos
-   → Experimente criar silhuetas de animais combinando formas variadas.
-   → Observe como a variedade de formas reflete a diversidade do Criador.
-   → Pratique simplificar o contorno de bichos em desenhos orgânicos.
+   → Compreenda as formas em bichos como primeiro desdobramento da semana.
+   → Perceba formas no corpo de diferentes animais.
+   → Narre oralmente um exemplo de bicho formado por figuras simples.
 
 ---
 
-[Belas artes] - Ano 1 - 8.3 Inventando monstros com figuras
+[Belas artes] - Ano 1 - 8.3 As formas em figuras
 
 # Description
 
+**Tema central da semana**, As formas na natureza. **Foco da aula**, segundo desdobramento, As formas em figuras.
+
 ## Objetivos
-   → Use imaginação e formas aleatórias para criar as próprias criaturas.
-   → Desenvolva o lúdico e a capacidade criativa através da colagem de formas.
-   → Compreenda que as formas interagem juntas como blocos de construção da arte.
+   → Pratique a composição de figuras com formas como segundo desdobramento.
+   → Aplique formas em atividade prática para compor uma figura inventada.
+   → Narre a experiência de inventar uma figura com formas.
 
 ---
 
@@ -500,27 +566,27 @@ Avaliar os conhecimentos das aulas da semana 7
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 8
+Revisar os conhecimentos das aulas da semana 8.
 
-## 8ª Semana: **Formas da Natureza**
+## 8ª Semana, **As formas na natureza**
 
-- 8.1 Desenhando folhas e pedras
-- 8.2 Criando bichos com formas
-- 8.3 Inventando monstros com figuras
+- 8.1 As formas na natureza
+- 8.2 As formas em bichos
+- 8.3 As formas em figuras
 
 ---
 
-[Belas artes] - Ano 1 - 8.5 prova
+[Belas artes] - Ano 1 - 8.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 8
+Avaliar os conhecimentos das aulas da semana 8.
 
-## 8ª Semana: **Formas da Natureza**
+## 8ª Semana, **As formas na natureza**
 
-- 8.1 Desenhando folhas e pedras
-- 8.2 Criando bichos com formas
-- 8.3 Inventando monstros com figuras
+- 8.1 As formas na natureza
+- 8.2 As formas em bichos
+- 8.3 As formas em figuras
 
 ---
 
@@ -528,59 +594,59 @@ Avaliar os conhecimentos das aulas da semana 8
 
 ---
 
-[Belas artes] - Ano 1 - 9 Revisão 
+[Belas artes] - Ano 1 - 9 Revisão
 
 # Description
 
 # Revisão do 1º Bimestre
 
-## 1ª Semana: **A Essência da Arte**
+## 1ª Semana, **A arte e a expressão**
 
-- 1.1 A essência da arte
-- 1.2 A imaginação que vira desenho
-- 1.3 A beleza revelada por Deus
+- 1.1 A arte e a expressão
+- 1.2 A arte e a beleza
+- 1.3 A arte e a habilidade humana
 
-## 2ª Semana: **A Presença da Arte**
+## 2ª Semana, **A arte nos lugares da vida**
 
-- 2.1 A presença da arte
-- 2.2 Arte nos livros e na igreja
-- 2.3 A arte como presente do Criador
+- 2.1 A arte nos lugares da vida
+- 2.2 A arte nos livros e na igreja
+- 2.3 A arte em casa e na natureza
 
-## 3ª Semana: **O Ponto Começa Tudo**
+## 3ª Semana, **O ponto no desenho**
 
-- 3.1 O ponto começa tudo
-- 3.2 O ponto como semente do desenho
-- 3.3 Descobrindo padrões com pontinhos
+- 3.1 A arte feita com pontos
+- 3.2 O ponto como começo
+- 3.3 O ponto no desenho
 
-## 4ª Semana: **Fazendo Arte com Pontos**
+## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 Fazendo arte com carimbo
-- 4.2 Observando obras pontilhadas
-- 4.3 Colorindo com mil pontos
+- 4.1 O ponto como padrão
+- 4.2 Os pontos nas obras
+- 4.3 Os pontos nas cores
 
-## 5ª Semana: **A Linha que Anda**
+## 5ª Semana, **A linha no desenho**
 
-- 5.1 A linha que anda
-- 5.2 Reta, curva, espiral e mais
-- 5.3 Brincando com linha de barbante
+- 5.1 A linha no desenho
+- 5.2 As linhas retas
+- 5.3 As linhas curvas
 
-## 6ª Semana: **A Linha como História**
+## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como história
-- 6.2 Pintar o som com linhas
-- 6.3 Desenhando trilhas com corda
+- 6.1 A linha como padrão
+- 6.2 A linha como caminho
+- 6.3 A linha que cria trilhas
 
-## 7ª Semana: **Formas que se Transformam**
+## 7ª Semana, **As formas no desenho**
 
-- 7.1 Formas que se transformam
-- 7.2 Círculo, quadrado e triângulo
-- 7.3 Formas que viram caras e casas
+- 7.1 As formas no desenho
+- 7.2 O círculo, o quadrado e o triângulo
+- 7.3 As formas que criam imagens
 
-## 8ª Semana: **Formas da Natureza**
+## 8ª Semana, **As formas na natureza**
 
-- 8.1 Desenhando folhas e pedras
-- 8.2 Criando bichos com formas
-- 8.3 Inventando monstros com figuras
+- 8.1 As formas na natureza
+- 8.2 As formas em bichos
+- 8.3 As formas em figuras
 
 ---
 
@@ -588,96 +654,104 @@ Avaliar os conhecimentos das aulas da semana 8
 
 ---
 
-[Belas artes] - Ano 1 - 10 Prova 
+[Belas artes] - Ano 1 - 10 Prova
 
 # Description
 
 # Prova do 1º Bimestre
 
-## 1ª Semana: **A Essência da Arte**
+## 1ª Semana, **A arte e a expressão**
 
-- 1.1 A essência da arte
-- 1.2 A imaginação que vira desenho
-- 1.3 A beleza revelada por Deus
+- 1.1 A arte e a expressão
+- 1.2 A arte e a beleza
+- 1.3 A arte e a habilidade humana
 
-## 2ª Semana: **A Presença da Arte**
+## 2ª Semana, **A arte nos lugares da vida**
 
-- 2.1 A presença da arte
-- 2.2 Arte nos livros e na igreja
-- 2.3 A arte como presente do Criador
+- 2.1 A arte nos lugares da vida
+- 2.2 A arte nos livros e na igreja
+- 2.3 A arte em casa e na natureza
 
-## 3ª Semana: **O Ponto Começa Tudo**
+## 3ª Semana, **O ponto no desenho**
 
-- 3.1 O ponto começa tudo
-- 3.2 O ponto como semente do desenho
-- 3.3 Descobrindo padrões com pontinhos
+- 3.1 A arte feita com pontos
+- 3.2 O ponto como começo
+- 3.3 O ponto no desenho
 
-## 4ª Semana: **Fazendo Arte com Pontos**
+## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 Fazendo arte com carimbo
-- 4.2 Observando obras pontilhadas
-- 4.3 Colorindo com mil pontos
+- 4.1 O ponto como padrão
+- 4.2 Os pontos nas obras
+- 4.3 Os pontos nas cores
 
-## 5ª Semana: **A Linha que Anda**
+## 5ª Semana, **A linha no desenho**
 
-- 5.1 A linha que anda
-- 5.2 Reta, curva, espiral e mais
-- 5.3 Brincando com linha de barbante
+- 5.1 A linha no desenho
+- 5.2 As linhas retas
+- 5.3 As linhas curvas
 
-## 6ª Semana: **A Linha como História**
+## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como história
-- 6.2 Pintar o som com linhas
-- 6.3 Desenhando trilhas com corda
+- 6.1 A linha como padrão
+- 6.2 A linha como caminho
+- 6.3 A linha que cria trilhas
 
-## 7ª Semana: **Formas que se Transformam**
+## 7ª Semana, **As formas no desenho**
 
-- 7.1 Formas que se transformam
-- 7.2 Círculo, quadrado e triângulo
-- 7.3 Formas que viram caras e casas
+- 7.1 As formas no desenho
+- 7.2 O círculo, o quadrado e o triângulo
+- 7.3 As formas que criam imagens
 
-## 8ª Semana: **Formas da Natureza**
+## 8ª Semana, **As formas na natureza**
 
-- 8.1 Desenhando folhas e pedras
-- 8.2 Criando bichos com formas
-- 8.3 Inventando monstros com figuras
-
----
-
-## Semana 11 – Cores que Nascem
+- 8.1 As formas na natureza
+- 8.2 As formas em bichos
+- 8.3 As formas em figuras
 
 ---
 
-[Belas artes] - Ano 1 - 11.1 Cores que nascem
+## Semana 11 – As cores primárias
+
+**Tema central da semana**, As cores primárias. A aula 11.1 apresenta o coração do tema. A aula 11.2 desenvolve o vermelho, o azul e o amarelo. A aula 11.3 desenvolve as cores que nascem da mistura.
+
+---
+
+[Belas artes] - Ano 1 - 11.1 As cores primárias
 
 # Description
 
+**Tema central da semana**, As cores primárias. **Foco da aula**, coração pedagógico que fixa as cores primárias como definição central.
+
 ## Objetivos
-   → Reconheça a cor como um dos elementos fundamentais da percepção visual.
-   → Aprecie a capacidade divina concedida aos nossos olhos para enxergar cor.
-   → Descanse os olhos nas diferentes cores do ambiente.
+   → Reconheça as cores primárias como base de todas as outras cores.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras quais são as cores primárias.
 
 ---
 
-[Belas artes] - Ano 1 - 11.2 Vermelho, azul e amarelo
+[Belas artes] - Ano 1 - 11.2 O vermelho, o azul e o amarelo
 
 # Description
 
+**Tema central da semana**, As cores primárias. **Foco da aula**, primeiro desdobramento, O vermelho, o azul e o amarelo.
+
 ## Objetivos
-   → Identifique as três cores primárias: vermelho, azul e amarelo.
-   → Compreenda que essas cores são a base de todas as outras.
-   → Pratique colorir áreas sólidas focando nas primárias com tinta forte.
+   → Compreenda o vermelho, o azul e o amarelo como cores primárias.
+   → Perceba essas três cores em obras, objetos e roupas observadas.
+   → Narre oralmente um exemplo de cada uma das três cores.
 
 ---
 
-[Belas artes] - Ano 1 - 11.3 Misturando para fazer novas cores
+[Belas artes] - Ano 1 - 11.3 As cores que nascem da mistura
 
 # Description
 
+**Tema central da semana**, As cores primárias. **Foco da aula**, segundo desdobramento, As cores que nascem da mistura.
+
 ## Objetivos
-   → Experimente misturar as cores primárias para fazer as secundárias.
-   → Observe maravilhado a alquimia visual das cores mudando.
-   → Pratique criar laranja, verde e roxo com as próprias mãos.
+   → Pratique as cores que nascem da mistura como segundo desdobramento da semana.
+   → Aplique a mistura das cores primárias em atividade prática para criar laranja, verde e roxo.
+   → Narre a experiência de criar uma cor nova.
 
 ---
 
@@ -685,53 +759,59 @@ Avaliar os conhecimentos das aulas da semana 8
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 11
+Revisar os conhecimentos das aulas da semana 11.
 
-## 11ª Semana: **Cores que Nascem**
+## 11ª Semana, **As cores primárias**
 
-- 11.1 Cores que nascem
-- 11.2 Vermelho, azul e amarelo
-- 11.3 Misturando para fazer novas cores
+- 11.1 As cores primárias
+- 11.2 O vermelho, o azul e o amarelo
+- 11.3 As cores que nascem da mistura
 
 ---
 
-[Belas artes] - Ano 1 - 11.5 prova
+[Belas artes] - Ano 1 - 11.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 11
+Avaliar os conhecimentos das aulas da semana 11.
 
-## 11ª Semana: **Cores que Nascem**
+## 11ª Semana, **As cores primárias**
 
-- 11.1 Cores que nascem
-- 11.2 Vermelho, azul e amarelo
-- 11.3 Misturando para fazer novas cores
-
----
-
-## Semana 12 – Emoções das Cores
+- 11.1 As cores primárias
+- 11.2 O vermelho, o azul e o amarelo
+- 11.3 As cores que nascem da mistura
 
 ---
 
-[Belas artes] - Ano 1 - 12.1 Emoções das cores
+## Semana 12 – As cores e as emoções
+
+**Tema central da semana**, As cores e as emoções. A aula 12.1 apresenta o coração do tema. A aula 12.2 desenvolve cores que acalmam e agitam. A aula 12.3 desenvolve cores quentes e frias.
+
+---
+
+[Belas artes] - Ano 1 - 12.1 As cores e as emoções
 
 # Description
+
+**Tema central da semana**, As cores e as emoções. **Foco da aula**, coração pedagógico que fixa cor e emoção como definição central.
 
 ## Objetivos
-   → Compreenda que as cores provocam fortes sensações e emoções.
-   → Observe obras que transmitem alegria, tristeza e agitação apenas pela cor.
-   → Preste atenção como o estado de espírito altera as preferências por cor.
+   → Reconheça as cores e as emoções como linguagem que toca o coração.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como cores comunicam emoções.
 
 ---
 
-[Belas artes] - Ano 1 - 12.2 O azul que acalma e o vermelho que agita
+[Belas artes] - Ano 1 - 12.2 Cores que acalmam e agitam
 
 # Description
 
+**Tema central da semana**, As cores e as emoções. **Foco da aula**, primeiro desdobramento, Cores que acalmam e agitam.
+
 ## Objetivos
-   → Experimente pintar com vermelho para sentir agitação e ênfase.
-   → Experimente pintar com o azul para perceber calma e suavidade.
-   → Associe sentimentos e qualidades visuais aos pigmentos.
+   → Compreenda cores que acalmam e agitam como primeiro desdobramento da semana.
+   → Perceba a sensação que diferentes cores despertam no coração.
+   → Narre oralmente um exemplo de cor que acalma e de cor que agita.
 
 ---
 
@@ -739,10 +819,12 @@ Avaliar os conhecimentos das aulas da semana 11
 
 # Description
 
+**Tema central da semana**, As cores e as emoções. **Foco da aula**, segundo desdobramento, Cores quentes e frias.
+
 ## Objetivos
-   → Identifique cores quentes (fogo, luz) e frias (água, sombra).
-   → Compreenda que a arte usa quente/frio para criar a atmosfera das cenas.
-   → Pratique compor duas paisagens com essas temperaturas diferentes.
+   → Pratique cores quentes e frias como segundo desdobramento da semana.
+   → Aplique cores quentes e frias em atividade prática separando-as em duas paletas.
+   → Narre a experiência de classificar cores entre quentes e frias.
 
 ---
 
@@ -750,12 +832,12 @@ Avaliar os conhecimentos das aulas da semana 11
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 12
+Revisar os conhecimentos das aulas da semana 12.
 
-## 12ª Semana: **Emoções das Cores**
+## 12ª Semana, **As cores e as emoções**
 
-- 12.1 Emoções das cores
-- 12.2 O azul que acalma e o vermelho que agita
+- 12.1 As cores e as emoções
+- 12.2 Cores que acalmam e agitam
 - 12.3 Cores quentes e frias
 
 ---
@@ -764,50 +846,58 @@ Revisar os conhecimentos das aulas da semana 12
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 12
+Avaliar os conhecimentos das aulas da semana 12.
 
-## 12ª Semana: **Emoções das Cores**
+## 12ª Semana, **As cores e as emoções**
 
-- 12.1 Emoções das cores
-- 12.2 O azul que acalma e o vermelho que agita
+- 12.1 As cores e as emoções
+- 12.2 Cores que acalmam e agitam
 - 12.3 Cores quentes e frias
 
 ---
 
-## Semana 13 – A Cor que Canta
+## Semana 13 – A cor e a música
+
+**Tema central da semana**, A cor e a música. A aula 13.1 apresenta o coração do tema. A aula 13.2 desenvolve a cor que acompanha o som. A aula 13.3 desenvolve a cor que expressa sentimento.
 
 ---
 
-[Belas artes] - Ano 1 - 13.1 A cor que canta
+[Belas artes] - Ano 1 - 13.1 A cor e a música
 
 # Description
 
+**Tema central da semana**, A cor e a música. **Foco da aula**, coração pedagógico que fixa o diálogo entre cor e som.
+
 ## Objetivos
-   → Reconheça que a cor visual e o som musical interagem intensamente na alma.
-   → Aprecie obras coloridas entendendo a vibração das cores.
-   → Admire a força que cores puras transmitem nas pinturas infantis.
+   → Reconheça a cor e a música como artes que se conversam.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como cor e música se encontram.
 
 ---
 
-[Belas artes] - Ano 1 - 13.2 Pintura ao som de música
+[Belas artes] - Ano 1 - 13.2 A cor que acompanha o som
 
 # Description
 
+**Tema central da semana**, A cor e a música. **Foco da aula**, primeiro desdobramento, A cor que acompanha o som.
+
 ## Objetivos
-   → Pratique a coordenação da emoção ouvindo ritmo e pintando cor.
-   → Escolha cores que correspondam ao grave (fechado) e agudo (vivo).
-   → Mergulhe na fruição puramente estética de ouvir e pintar.
+   → Compreenda a cor que acompanha o som como primeiro desdobramento da semana.
+   → Perceba como certas cores combinam com certos sons.
+   → Narre oralmente um exemplo de cor que combina com um som ouvido.
 
 ---
 
-[Belas artes] - Ano 1 - 13.3 Sentir e pintar com o coração
+[Belas artes] - Ano 1 - 13.3 A cor que expressa sentimento
 
 # Description
 
+**Tema central da semana**, A cor e a música. **Foco da aula**, segundo desdobramento, A cor que expressa sentimento.
+
 ## Objetivos
-   → Concentre-se em como o coração orienta a mão usando as cores.
-   → Pratique pintar uma cena alegre do dia a dia expressando sentimento pelas cores.
-   → Compreenda que fomos feitos para sermos seres emocionais e adoradores.
+   → Pratique a cor que expressa sentimento como segundo desdobramento da semana.
+   → Aplique cores em atividade prática traduzindo um sentimento em desenho.
+   → Narre a experiência de pintar um sentimento.
 
 ---
 
@@ -815,13 +905,13 @@ Avaliar os conhecimentos das aulas da semana 12
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 13
+Revisar os conhecimentos das aulas da semana 13.
 
-## 13ª Semana: **A Cor que Canta**
+## 13ª Semana, **A cor e a música**
 
-- 13.1 A cor que canta
-- 13.2 Pintura ao som de música
-- 13.3 Sentir e pintar com o coração
+- 13.1 A cor e a música
+- 13.2 A cor que acompanha o som
+- 13.3 A cor que expressa sentimento
 
 ---
 
@@ -829,50 +919,58 @@ Revisar os conhecimentos das aulas da semana 13
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 13
+Avaliar os conhecimentos das aulas da semana 13.
 
-## 13ª Semana: **A Cor que Canta**
+## 13ª Semana, **A cor e a música**
 
-- 13.1 A cor que canta
-- 13.2 Pintura ao som de música
-- 13.3 Sentir e pintar com o coração
-
----
-
-## Semana 14 – Cores do Dia e da Noite
+- 13.1 A cor e a música
+- 13.2 A cor que acompanha o som
+- 13.3 A cor que expressa sentimento
 
 ---
 
-[Belas artes] - Ano 1 - 14.1 Cores do dia e da noite
+## Semana 14 – As cores do dia e da noite
+
+**Tema central da semana**, As cores do dia e da noite. A aula 14.1 apresenta o coração do tema. A aula 14.2 desenvolve as cores da luz do sol. A aula 14.3 desenvolve as cores da noite.
+
+---
+
+[Belas artes] - Ano 1 - 14.1 As cores do dia e da noite
 
 # Description
 
+**Tema central da semana**, As cores do dia e da noite. **Foco da aula**, coração pedagógico que fixa o contraste da criação.
+
 ## Objetivos
-   → Observe as diferentes palhetas visuais criadas por Deus para o dia e noite.
-   → Compreenda que as obras podem falar dos horários pela luz refletida.
-   → Contraste do amanhecer luminoso em relação ao anoitecer repousante.
+   → Reconheça as cores do dia e da noite como contraste da criação.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras as cores que cada tempo do dia traz.
 
 ---
 
-[Belas artes] - Ano 1 - 14.2 Pintar com a luz do sol
+[Belas artes] - Ano 1 - 14.2 As cores da luz do sol
 
 # Description
 
+**Tema central da semana**, As cores do dia e da noite. **Foco da aula**, primeiro desdobramento, As cores da luz do sol.
+
 ## Objetivos
-   → Experimente misturar amarelo e branco para recriar a atmosfera do sol.
-   → Aprecie e tente replicar as sombras da manhã.
-   → Treine a destreza em tons mais abertos e radiantes.
+   → Compreenda as cores da luz do sol como primeiro desdobramento da semana.
+   → Perceba tons amarelos, alaranjados e dourados na luz do dia.
+   → Narre oralmente um exemplo das cores que aparecem ao amanhecer.
 
 ---
 
-[Belas artes] - Ano 1 - 14.3 Criar composição da noite
+[Belas artes] - Ano 1 - 14.3 As cores da noite
 
 # Description
 
+**Tema central da semana**, As cores do dia e da noite. **Foco da aula**, segundo desdobramento, As cores da noite.
+
 ## Objetivos
-   → Pratique pintar com azuis escuros, pretos e roxos criar a luz noturna.
-   → Use o claro/escuro para adicionar profundidade a noite pontilhada de estrelas.
-   → Reflita na glória do Deus que ordena o curso dos astros.
+   → Pratique as cores da noite como segundo desdobramento da semana.
+   → Aplique tons escuros em atividade prática desenhando um céu noturno.
+   → Narre a experiência de pintar uma noite com cores próprias.
 
 ---
 
@@ -880,64 +978,72 @@ Avaliar os conhecimentos das aulas da semana 13
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 14
+Revisar os conhecimentos das aulas da semana 14.
 
-## 14ª Semana: **Cores do Dia e da Noite**
+## 14ª Semana, **As cores do dia e da noite**
 
-- 14.1 Cores do dia e da noite
-- 14.2 Pintar com a luz do sol
-- 14.3 Criar composição da noite
+- 14.1 As cores do dia e da noite
+- 14.2 As cores da luz do sol
+- 14.3 As cores da noite
 
 ---
 
-[Belas artes] - Ano 1 - 14.5 prova
+[Belas artes] - Ano 1 - 14.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 14
+Avaliar os conhecimentos das aulas da semana 14.
 
-## 14ª Semana: **Cores do Dia e da Noite**
+## 14ª Semana, **As cores do dia e da noite**
 
-- 14.1 Cores do dia e da noite
-- 14.2 Pintar com a luz do sol
-- 14.3 Criar composição da noite
-
----
-
-## Semana 15 – Textura que se Sente
+- 14.1 As cores do dia e da noite
+- 14.2 As cores da luz do sol
+- 14.3 As cores da noite
 
 ---
 
-[Belas artes] - Ano 1 - 15.1 Textura que se sente
+## Semana 15 – A textura na arte
+
+**Tema central da semana**, A textura na arte. A aula 15.1 apresenta o coração do tema. A aula 15.2 desenvolve texturas lisas e ásperas. A aula 15.3 desenvolve texturas da areia e das folhas.
+
+---
+
+[Belas artes] - Ano 1 - 15.1 A textura na arte
 
 # Description
+
+**Tema central da semana**, A textura na arte. **Foco da aula**, coração pedagógico que fixa a textura como definição central.
 
 ## Objetivos
-   → Reconheça que as superfícies não são apenas visuais, mas táteis.
-   → Preste atenção no aspecto rugoso, áspero e suave na arte.
-   → Desperte a atenção para tudo que tem materialidade ao seu redor.
+   → Reconheça a textura como a sensação que uma superfície passa.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é uma textura.
 
 ---
 
-[Belas artes] - Ano 1 - 15.2 Liso, áspero, macio e pontudo
+[Belas artes] - Ano 1 - 15.2 Texturas lisas e ásperas
 
 # Description
 
+**Tema central da semana**, A textura na arte. **Foco da aula**, primeiro desdobramento, Texturas lisas e ásperas.
+
 ## Objetivos
-   → Tome contato físico com diferentes superfícies e reconheça relevo.
-   → Traduza em palavras as noções e experiências do tato.
-   → Aplique esses conceitos ao ver obras esculpidas ou pintadas em relevo.
+   → Compreenda texturas lisas e ásperas como primeiro desdobramento da semana.
+   → Perceba a diferença ao tocar objetos do dia a dia.
+   → Narre oralmente um exemplo de cada tipo de textura.
 
 ---
 
-[Belas artes] - Ano 1 - 15.3 Explorando com areia e folhas
+[Belas artes] - Ano 1 - 15.3 Texturas da areia e das folhas
 
 # Description
 
+**Tema central da semana**, A textura na arte. **Foco da aula**, segundo desdobramento, Texturas da areia e das folhas.
+
 ## Objetivos
-   → Experimente usar texturas do mundo natural (areia, folhas) criando obras.
-   → Produza arte além do plano bidimensional do papel liso.
-   → Maravilhe-se com as estruturas da Criação usadas com fins expressivos.
+   → Pratique texturas da areia e das folhas como segundo desdobramento da semana.
+   → Aplique materiais naturais em atividade prática produzindo uma textura no papel.
+   → Narre a experiência de criar arte com textura natural.
 
 ---
 
@@ -945,64 +1051,72 @@ Avaliar os conhecimentos das aulas da semana 14
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 15
+Revisar os conhecimentos das aulas da semana 15.
 
-## 15ª Semana: **Textura que se Sente**
+## 15ª Semana, **A textura na arte**
 
-- 15.1 Textura que se sente
-- 15.2 Liso, áspero, macio e pontudo
-- 15.3 Explorando com areia e folhas
+- 15.1 A textura na arte
+- 15.2 Texturas lisas e ásperas
+- 15.3 Texturas da areia e das folhas
 
 ---
 
-[Belas artes] - Ano 1 - 15.5 prova
+[Belas artes] - Ano 1 - 15.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 15
+Avaliar os conhecimentos das aulas da semana 15.
 
-## 15ª Semana: **Textura que se Sente**
+## 15ª Semana, **A textura na arte**
 
-- 15.1 Textura que se sente
-- 15.2 Liso, áspero, macio e pontudo
-- 15.3 Explorando com areia e folhas
-
----
-
-## Semana 16 – Textura com Sentimento
+- 15.1 A textura na arte
+- 15.2 Texturas lisas e ásperas
+- 15.3 Texturas da areia e das folhas
 
 ---
 
-[Belas artes] - Ano 1 - 16.1 Textura com sentimento
+## Semana 16 – A textura e o sentimento
+
+**Tema central da semana**, A textura e o sentimento. A aula 16.1 apresenta o coração do tema. A aula 16.2 desenvolve a textura feita com massa. A aula 16.3 desenvolve a textura feita com elementos naturais.
+
+---
+
+[Belas artes] - Ano 1 - 16.1 A textura e o sentimento
 
 # Description
+
+**Tema central da semana**, A textura e o sentimento. **Foco da aula**, coração pedagógico que fixa a ligação entre tato e emoção.
 
 ## Objetivos
-   → Compreenda que a textura comunica sensações de conforto ou estranhamento.
-   → Associe um toque macio ao carinho, e o toque bruto a algo forte ou rude.
-   → Analise esculturas visualizando seus impactos nas mãos.
+   → Reconheça a textura e o sentimento como ligação entre tato e emoção.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que uma textura faz sentir.
 
 ---
 
-[Belas artes] - Ano 1 - 16.2 Criando textura com massa
+[Belas artes] - Ano 1 - 16.2 A textura feita com massa
 
 # Description
 
+**Tema central da semana**, A textura e o sentimento. **Foco da aula**, primeiro desdobramento, A textura feita com massa.
+
 ## Objetivos
-   → Pratique o uso de modelagem (massa) para criar superfícies onduladas e variadas.
-   → Exercite o manuseio desenvolvendo a motricidade grossa e sensibilidade fina.
-   → Entenda que a massa adiciona a sombra nas obras pela forma.
+   → Compreenda a textura feita com massa como primeiro desdobramento da semana.
+   → Perceba a sensação produzida ao moldar massa com as mãos.
+   → Narre oralmente o que se sente ao trabalhar com massa.
 
 ---
 
-[Belas artes] - Ano 1 - 16.3 Pintar com grãos e elementos naturais
+[Belas artes] - Ano 1 - 16.3 A textura feita com elementos naturais
 
 # Description
 
+**Tema central da semana**, A textura e o sentimento. **Foco da aula**, segundo desdobramento, A textura feita com elementos naturais.
+
 ## Objetivos
-   → Descubra que colar sementes e grãos confere rusticidade e naturalismo.
-   → Valorize a composição mista de elementos materiais diversos.
-   → Assinale a multiplicidade dos detalhes nas micro manifestações visuais.
+   → Pratique a textura feita com elementos naturais como segundo desdobramento.
+   → Aplique folhas, pedrinhas ou cascas em atividade prática gerando textura.
+   → Narre a experiência de criar texturas com elementos da criação.
 
 ---
 
@@ -1010,64 +1124,72 @@ Avaliar os conhecimentos das aulas da semana 15
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 16
+Revisar os conhecimentos das aulas da semana 16.
 
-## 16ª Semana: **Textura com Sentimento**
+## 16ª Semana, **A textura e o sentimento**
 
-- 16.1 Textura com sentimento
-- 16.2 Criando textura com massa
-- 16.3 Pintar com grãos e elementos naturais
+- 16.1 A textura e o sentimento
+- 16.2 A textura feita com massa
+- 16.3 A textura feita com elementos naturais
 
 ---
 
-[Belas artes] - Ano 1 - 16.5 prova
+[Belas artes] - Ano 1 - 16.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 16
+Avaliar os conhecimentos das aulas da semana 16.
 
-## 16ª Semana: **Textura com Sentimento**
+## 16ª Semana, **A textura e o sentimento**
 
-- 16.1 Textura com sentimento
-- 16.2 Criando textura com massa
-- 16.3 Pintar com grãos e elementos naturais
-
----
-
-## Semana 17 – Espaço no Papel
+- 16.1 A textura e o sentimento
+- 16.2 A textura feita com massa
+- 16.3 A textura feita com elementos naturais
 
 ---
 
-[Belas artes] - Ano 1 - 17.1 Espaço no papel
+## Semana 17 – O espaço no papel
+
+**Tema central da semana**, O espaço no papel. A aula 17.1 apresenta o coração do tema. A aula 17.2 desenvolve o fundo, a borda e o centro. A aula 17.3 desenvolve o grande e o pequeno.
+
+---
+
+[Belas artes] - Ano 1 - 17.1 O espaço no papel
 
 # Description
+
+**Tema central da semana**, O espaço no papel. **Foco da aula**, coração pedagógico que fixa o espaço como definição central.
 
 ## Objetivos
-   → Compreenda o limite do espaço bidimensional do papel encenando arte.
-   → Foque em preencher o papel de uma ponta à outra sem temer os limites.
-   → Tome consciência de onde a figura se localiza espacialmente.
+   → Reconheça o espaço no papel como área onde a arte acontece.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é o espaço da folha.
 
 ---
 
-[Belas artes] - Ano 1 - 17.2 Fundo, borda e centro
+[Belas artes] - Ano 1 - 17.2 O fundo, a borda e o centro
 
 # Description
 
+**Tema central da semana**, O espaço no papel. **Foco da aula**, primeiro desdobramento, O fundo, a borda e o centro.
+
 ## Objetivos
-   → Identifique e distingua entre fundo e elementos principais no plano.
-   → Pratique a criação do fundo antes da construção das figuras.
-   → Entenda o conceito de contexto e situação usando bordas e limites.
+   → Compreenda o fundo, a borda e o centro como primeiro desdobramento da semana.
+   → Perceba essas três regiões em obras observadas.
+   → Narre oralmente o que aparece em cada região de uma obra.
 
 ---
 
-[Belas artes] - Ano 1 - 17.3 O grande e o pequeno juntos
+[Belas artes] - Ano 1 - 17.3 O grande e o pequeno
 
 # Description
 
+**Tema central da semana**, O espaço no papel. **Foco da aula**, segundo desdobramento, O grande e o pequeno.
+
 ## Objetivos
-   → Analise noções de grandezas comparativas e proporção na arte visual.
-   → Desenhe um grande e um pequeno relacionando tamanho e força vital.
-   → Entenda o começo da hierarquia das estruturas visual e relativas.
+   → Pratique o grande e o pequeno como segundo desdobramento da semana.
+   → Aplique contrastes de tamanho em atividade prática.
+   → Narre a experiência de desenhar elementos grandes e pequenos.
 
 ---
 
@@ -1075,64 +1197,72 @@ Avaliar os conhecimentos das aulas da semana 16
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 17
+Revisar os conhecimentos das aulas da semana 17.
 
-## 17ª Semana: **Espaço no Papel**
+## 17ª Semana, **O espaço no papel**
 
-- 17.1 Espaço no papel
-- 17.2 Fundo, borda e centro
-- 17.3 O grande e o pequeno juntos
+- 17.1 O espaço no papel
+- 17.2 O fundo, a borda e o centro
+- 17.3 O grande e o pequeno
 
 ---
 
-[Belas artes] - Ano 1 - 17.5 prova
+[Belas artes] - Ano 1 - 17.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 17
+Avaliar os conhecimentos das aulas da semana 17.
 
-## 17ª Semana: **Espaço no Papel**
+## 17ª Semana, **O espaço no papel**
 
-- 17.1 Espaço no papel
-- 17.2 Fundo, borda e centro
-- 17.3 O grande e o pequeno juntos
-
----
-
-## Semana 18 – Espaço Cheio e Espaço Vazio
+- 17.1 O espaço no papel
+- 17.2 O fundo, a borda e o centro
+- 17.3 O grande e o pequeno
 
 ---
 
-[Belas artes] - Ano 1 - 18.1 Espaço cheio e espaço vazio
+## Semana 18 – O espaço cheio e vazio
+
+**Tema central da semana**, O espaço cheio e vazio. A aula 18.1 apresenta o coração do tema. A aula 18.2 desenvolve o espaço com respiro. A aula 18.3 desenvolve o espaço da cidade no papel.
+
+---
+
+[Belas artes] - Ano 1 - 18.1 O espaço cheio e vazio
 
 # Description
+
+**Tema central da semana**, O espaço cheio e vazio. **Foco da aula**, coração pedagógico que fixa o contraste de cheio e vazio.
 
 ## Objetivos
-   → Identifique espaço negativo (o vazio) versus espaço positivo (a figura).
-   → Reconheça a virtude e importância vital daquilo que fica intocado ao redor.
-   → Desmistifique o silêncio e as lacunas no campo da criação.
+   → Reconheça o espaço cheio e vazio como contraste essencial na composição.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras a diferença entre cheio e vazio.
 
 ---
 
-[Belas artes] - Ano 1 - 18.2 Criar com respiração visual
+[Belas artes] - Ano 1 - 18.2 O espaço com respiro
 
 # Description
 
+**Tema central da semana**, O espaço cheio e vazio. **Foco da aula**, primeiro desdobramento, O espaço com respiro.
+
 ## Objetivos
-   → Pratique o conceito de respiração visual na composição deixando limites claros.
-   → Experimente desenhos minimalistas no centro com brancos ao redor.
-   → Perceba harmonia nas distribuições arejadas contra sobrecargas gráficas.
+   → Compreenda o espaço com respiro como primeiro desdobramento da semana.
+   → Perceba áreas livres ao redor dos elementos em obras.
+   → Narre oralmente o que o espaço com respiro provoca no olhar.
 
 ---
 
-[Belas artes] - Ano 1 - 18.3 Construindo uma cidade no papel
+[Belas artes] - Ano 1 - 18.3 O espaço da cidade no papel
 
 # Description
 
+**Tema central da semana**, O espaço cheio e vazio. **Foco da aula**, segundo desdobramento, O espaço da cidade no papel.
+
 ## Objetivos
-   → Utilize as restrições para elaborar recortes e espaços com vazio.
-   → Combine blocos criando estruturas maciças organizadas.
-   → Veja a obra concluída em interação com a luz natural e artificial do ambiente.
+   → Pratique o espaço da cidade no papel como segundo desdobramento da semana.
+   → Aplique a composição em atividade prática desenhando uma rua simples.
+   → Narre a experiência de organizar a cidade no papel.
 
 ---
 
@@ -1140,27 +1270,27 @@ Avaliar os conhecimentos das aulas da semana 17
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 18
+Revisar os conhecimentos das aulas da semana 18.
 
-## 18ª Semana: **Espaço Cheio e Espaço Vazio**
+## 18ª Semana, **O espaço cheio e vazio**
 
-- 18.1 Espaço cheio e espaço vazio
-- 18.2 Criar com respiração visual
-- 18.3 Construindo uma cidade no papel
+- 18.1 O espaço cheio e vazio
+- 18.2 O espaço com respiro
+- 18.3 O espaço da cidade no papel
 
 ---
 
-[Belas artes] - Ano 1 - 18.5 prova
+[Belas artes] - Ano 1 - 18.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 18
+Avaliar os conhecimentos das aulas da semana 18.
 
-## 18ª Semana: **Espaço Cheio e Espaço Vazio**
+## 18ª Semana, **O espaço cheio e vazio**
 
-- 18.1 Espaço cheio e espaço vazio
-- 18.2 Criar com respiração visual
-- 18.3 Construindo uma cidade no papel
+- 18.1 O espaço cheio e vazio
+- 18.2 O espaço com respiro
+- 18.3 O espaço da cidade no papel
 
 ---
 
@@ -1168,59 +1298,59 @@ Avaliar os conhecimentos das aulas da semana 18
 
 ---
 
-[Belas artes] - Ano 1 - 19 Revisão 
+[Belas artes] - Ano 1 - 19 Revisão
 
 # Description
 
 # Revisão do 2º Bimestre
 
-## 11ª Semana: **Cores que Nascem**
+## 11ª Semana, **As cores primárias**
 
-- 11.1 Cores que nascem
-- 11.2 Vermelho, azul e amarelo
-- 11.3 Misturando para fazer novas cores
+- 11.1 As cores primárias
+- 11.2 O vermelho, o azul e o amarelo
+- 11.3 As cores que nascem da mistura
 
-## 12ª Semana: **Emoções das Cores**
+## 12ª Semana, **As cores e as emoções**
 
-- 12.1 Emoções das cores
-- 12.2 O azul que acalma e o vermelho que agita
+- 12.1 As cores e as emoções
+- 12.2 Cores que acalmam e agitam
 - 12.3 Cores quentes e frias
 
-## 13ª Semana: **A Cor que Canta**
+## 13ª Semana, **A cor e a música**
 
-- 13.1 A cor que canta
-- 13.2 Pintura ao som de música
-- 13.3 Sentir e pintar com o coração
+- 13.1 A cor e a música
+- 13.2 A cor que acompanha o som
+- 13.3 A cor que expressa sentimento
 
-## 14ª Semana: **Cores do Dia e da Noite**
+## 14ª Semana, **As cores do dia e da noite**
 
-- 14.1 Cores do dia e da noite
-- 14.2 Pintar com a luz do sol
-- 14.3 Criar composição da noite
+- 14.1 As cores do dia e da noite
+- 14.2 As cores da luz do sol
+- 14.3 As cores da noite
 
-## 15ª Semana: **Textura que se Sente**
+## 15ª Semana, **A textura na arte**
 
-- 15.1 Textura que se sente
-- 15.2 Liso, áspero, macio e pontudo
-- 15.3 Explorando com areia e folhas
+- 15.1 A textura na arte
+- 15.2 Texturas lisas e ásperas
+- 15.3 Texturas da areia e das folhas
 
-## 16ª Semana: **Textura com Sentimento**
+## 16ª Semana, **A textura e o sentimento**
 
-- 16.1 Textura com sentimento
-- 16.2 Criando textura com massa
-- 16.3 Pintar com grãos e elementos naturais
+- 16.1 A textura e o sentimento
+- 16.2 A textura feita com massa
+- 16.3 A textura feita com elementos naturais
 
-## 17ª Semana: **Espaço no Papel**
+## 17ª Semana, **O espaço no papel**
 
-- 17.1 Espaço no papel
-- 17.2 Fundo, borda e centro
-- 17.3 O grande e o pequeno juntos
+- 17.1 O espaço no papel
+- 17.2 O fundo, a borda e o centro
+- 17.3 O grande e o pequeno
 
-## 18ª Semana: **Espaço Cheio e Espaço Vazio**
+## 18ª Semana, **O espaço cheio e vazio**
 
-- 18.1 Espaço cheio e espaço vazio
-- 18.2 Criar com respiração visual
-- 18.3 Construindo uma cidade no papel
+- 18.1 O espaço cheio e vazio
+- 18.2 O espaço com respiro
+- 18.3 O espaço da cidade no papel
 
 ---
 
@@ -1234,90 +1364,98 @@ Avaliar os conhecimentos das aulas da semana 18
 
 # Prova do 2º Bimestre
 
-## 11ª Semana: **Cores que Nascem**
+## 11ª Semana, **As cores primárias**
 
-- 11.1 Cores que nascem
-- 11.2 Vermelho, azul e amarelo
-- 11.3 Misturando para fazer novas cores
+- 11.1 As cores primárias
+- 11.2 O vermelho, o azul e o amarelo
+- 11.3 As cores que nascem da mistura
 
-## 12ª Semana: **Emoções das Cores**
+## 12ª Semana, **As cores e as emoções**
 
-- 12.1 Emoções das cores
-- 12.2 O azul que acalma e o vermelho que agita
+- 12.1 As cores e as emoções
+- 12.2 Cores que acalmam e agitam
 - 12.3 Cores quentes e frias
 
-## 13ª Semana: **A Cor que Canta**
+## 13ª Semana, **A cor e a música**
 
-- 13.1 A cor que canta
-- 13.2 Pintura ao som de música
-- 13.3 Sentir e pintar com o coração
+- 13.1 A cor e a música
+- 13.2 A cor que acompanha o som
+- 13.3 A cor que expressa sentimento
 
-## 14ª Semana: **Cores do Dia e da Noite**
+## 14ª Semana, **As cores do dia e da noite**
 
-- 14.1 Cores do dia e da noite
-- 14.2 Pintar com a luz do sol
-- 14.3 Criar composição da noite
+- 14.1 As cores do dia e da noite
+- 14.2 As cores da luz do sol
+- 14.3 As cores da noite
 
-## 15ª Semana: **Textura que se Sente**
+## 15ª Semana, **A textura na arte**
 
-- 15.1 Textura que se sente
-- 15.2 Liso, áspero, macio e pontudo
-- 15.3 Explorando com areia e folhas
+- 15.1 A textura na arte
+- 15.2 Texturas lisas e ásperas
+- 15.3 Texturas da areia e das folhas
 
-## 16ª Semana: **Textura com Sentimento**
+## 16ª Semana, **A textura e o sentimento**
 
-- 16.1 Textura com sentimento
-- 16.2 Criando textura com massa
-- 16.3 Pintar com grãos e elementos naturais
+- 16.1 A textura e o sentimento
+- 16.2 A textura feita com massa
+- 16.3 A textura feita com elementos naturais
 
-## 17ª Semana: **Espaço no Papel**
+## 17ª Semana, **O espaço no papel**
 
-- 17.1 Espaço no papel
-- 17.2 Fundo, borda e centro
-- 17.3 O grande e o pequeno juntos
+- 17.1 O espaço no papel
+- 17.2 O fundo, a borda e o centro
+- 17.3 O grande e o pequeno
 
-## 18ª Semana: **Espaço Cheio e Espaço Vazio**
+## 18ª Semana, **O espaço cheio e vazio**
 
-- 18.1 Espaço cheio e espaço vazio
-- 18.2 Criar com respiração visual
-- 18.3 Construindo uma cidade no papel
-
----
-
-## Semana 21 – Direção que Guia o Olhar
+- 18.1 O espaço cheio e vazio
+- 18.2 O espaço com respiro
+- 18.3 O espaço da cidade no papel
 
 ---
 
-[Belas artes] - Ano 1 - 21.1 Direção que guia o olhar
+## Semana 21 – A direção no olhar
+
+**Tema central da semana**, A direção no olhar. A aula 21.1 apresenta o coração do tema. A aula 21.2 desenvolve a seta que guia. A aula 21.3 desenvolve o caminho feito com pincel.
+
+---
+
+[Belas artes] - Ano 1 - 21.1 A direção no olhar
 
 # Description
 
+**Tema central da semana**, A direção no olhar. **Foco da aula**, coração pedagógico que fixa a direção como definição central.
+
 ## Objetivos
-   → Identifique nas pinturas do mestre a direção para onde nos apontam os detalhes.
-   → Descubra a maestria em que as linhas diagonais dominam o enquadramento.
-   → Treine a análise detida da estrutura invisível formatada pelas linhas.
+   → Reconheça a direção no olhar como guia visual escolhido pelo artista.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que dirige o olhar em uma obra.
 
 ---
 
-[Belas artes] - Ano 1 - 21.2 A seta que conta uma história
+[Belas artes] - Ano 1 - 21.2 A seta que guia
 
 # Description
 
+**Tema central da semana**, A direção no olhar. **Foco da aula**, primeiro desdobramento, A seta que guia.
+
 ## Objetivos
-   → Crie desenhos que propositalmente direcionam a visão usando um ponto focal.
-   → Faça uso intensivo e exploratório das setas como forma direcional.
-   → Entenda que a atenção segue narrativas e caminhos estruturados.
+   → Compreenda a seta que guia como primeiro desdobramento da semana.
+   → Perceba elementos que funcionam como seta em ilustrações.
+   → Narre oralmente um exemplo de obra que conduz o olhar.
 
 ---
 
-[Belas artes] - Ano 1 - 21.3 Labirinto com pincel
+[Belas artes] - Ano 1 - 21.3 O caminho feito com pincel
 
 # Description
 
+**Tema central da semana**, A direção no olhar. **Foco da aula**, segundo desdobramento, O caminho feito com pincel.
+
 ## Objetivos
-   → Jogue compondo labirintos artísticos usando o movimento dos pincéis longos.
-   → Sustente o trabalho sem levantar a mão até que o exercício atinja o alvo.
-   → Aproveite a ludicidade criativa enquanto testa caminhos e linhas curvas longas.
+   → Pratique o caminho feito com pincel como segundo desdobramento da semana.
+   → Aplique pincelada em atividade prática criando uma direção visual.
+   → Narre a experiência de guiar o olhar com o pincel.
 
 ---
 
@@ -1325,64 +1463,72 @@ Avaliar os conhecimentos das aulas da semana 18
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 21
+Revisar os conhecimentos das aulas da semana 21.
 
-## 21ª Semana: **Direção que Guia o Olhar**
+## 21ª Semana, **A direção no olhar**
 
-- 21.1 Direção que guia o olhar
-- 21.2 A seta que conta uma história
-- 21.3 Labirinto com pincel
+- 21.1 A direção no olhar
+- 21.2 A seta que guia
+- 21.3 O caminho feito com pincel
 
 ---
 
-[Belas artes] - Ano 1 - 21.5 prova
+[Belas artes] - Ano 1 - 21.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 21
+Avaliar os conhecimentos das aulas da semana 21.
 
-## 21ª Semana: **Direção que Guia o Olhar**
+## 21ª Semana, **A direção no olhar**
 
-- 21.1 Direção que guia o olhar
-- 21.2 A seta que conta uma história
-- 21.3 Labirinto com pincel
-
----
-
-## Semana 22 – Equilíbrio como Harmonia
+- 21.1 A direção no olhar
+- 21.2 A seta que guia
+- 21.3 O caminho feito com pincel
 
 ---
 
-[Belas artes] - Ano 1 - 22.1 Equilíbrio como harmonia
+## Semana 22 – O equilíbrio na arte
+
+**Tema central da semana**, O equilíbrio na arte. A aula 22.1 apresenta o coração do tema. A aula 22.2 desenvolve o equilíbrio da dobradura. A aula 22.3 desenvolve o equilíbrio da simetria.
+
+---
+
+[Belas artes] - Ano 1 - 22.1 O equilíbrio na arte
 
 # Description
+
+**Tema central da semana**, O equilíbrio na arte. **Foco da aula**, coração pedagógico que fixa o equilíbrio como definição central.
 
 ## Objetivos
-   → Enxergue o equilíbrio com simetria que produz pacificação visual na tela.
-   → Analise o projeto natural como a principal fonte de harmonia e equilíbrio em todo tempo.
-   → Aprecie pinturas históricas pela balança correta dada pelas forças e pesos da composição.
+   → Reconheça o equilíbrio na arte como organização harmoniosa dos elementos.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que é uma obra equilibrada.
 
 ---
 
-[Belas artes] - Ano 1 - 22.2 A dobradura que fica de pé
+[Belas artes] - Ano 1 - 22.2 O equilíbrio da dobradura
 
 # Description
 
+**Tema central da semana**, O equilíbrio na arte. **Foco da aula**, primeiro desdobramento, O equilíbrio da dobradura.
+
 ## Objetivos
-   → Utilize folhas para elaborar obras onde uma asa corresponda precisamente à outra.
-   → Trabalhe montando esculturas simples explorando estabilidade com o eixo centralizador.
-   → Comemore as semelhanças que ocorrem nos rostos, flores e pássaros pelo seu eixo exato no meio.
+   → Compreenda o equilíbrio da dobradura como primeiro desdobramento da semana.
+   → Perceba a simetria que nasce ao dobrar um papel.
+   → Narre oralmente um exemplo de obra feita com dobradura.
 
 ---
 
-[Belas artes] - Ano 1 - 22.3 Simetria com papel colorido
+[Belas artes] - Ano 1 - 22.3 O equilíbrio da simetria
 
 # Description
 
+**Tema central da semana**, O equilíbrio na arte. **Foco da aula**, segundo desdobramento, O equilíbrio da simetria.
+
 ## Objetivos
-   → Desenvolva composições espécíficas simétricas através do desenho da tesoura nos recortes do papel.
-   → Elabore padronagens contínuas desdobrando e construindo dobraduras complexas coloridas.
-   → Admire a própria criação a as infinitas possibilidade geradas por regras claras como harmonia equilibrada.
+   → Pratique o equilíbrio da simetria como segundo desdobramento da semana.
+   → Aplique a simetria em atividade prática desenhando metades iguais.
+   → Narre a experiência de criar uma figura simétrica.
 
 ---
 
@@ -1390,64 +1536,72 @@ Avaliar os conhecimentos das aulas da semana 21
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 22
+Revisar os conhecimentos das aulas da semana 22.
 
-## 22ª Semana: **Equilíbrio como Harmonia**
+## 22ª Semana, **O equilíbrio na arte**
 
-- 22.1 Equilíbrio como harmonia
-- 22.2 A dobradura que fica de pé
-- 22.3 Simetria com papel colorido
+- 22.1 O equilíbrio na arte
+- 22.2 O equilíbrio da dobradura
+- 22.3 O equilíbrio da simetria
 
 ---
 
-[Belas artes] - Ano 1 - 22.5 prova
+[Belas artes] - Ano 1 - 22.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 22
+Avaliar os conhecimentos das aulas da semana 22.
 
-## 22ª Semana: **Equilíbrio como Harmonia**
+## 22ª Semana, **O equilíbrio na arte**
 
-- 22.1 Equilíbrio como harmonia
-- 22.2 A dobradura que fica de pé
-- 22.3 Simetria com papel colorido
-
----
-
-## Semana 23 – Criando com Tudo que Sabemos
+- 22.1 O equilíbrio na arte
+- 22.2 O equilíbrio da dobradura
+- 22.3 O equilíbrio da simetria
 
 ---
 
-[Belas artes] - Ano 1 - 23.1 Criando com tudo que sabemos
+## Semana 23 – A obra com os elementos da arte
+
+**Tema central da semana**, A obra com os elementos da arte. A aula 23.1 apresenta o coração do tema. A aula 23.2 desenvolve o quadro com formas e cores. A aula 23.3 desenvolve a obra com ponto, linha e espaço.
+
+---
+
+[Belas artes] - Ano 1 - 23.1 A obra com os elementos da arte
 
 # Description
+
+**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, coração pedagógico que fixa a obra como união dos elementos.
 
 ## Objetivos
-   → Resgate através da recapitulação o emprego do traço de giz do ponto, a forma linear e cor visual.
-   → Una todo o universo do módulo 1 transformando uma pintura experimental simples.
-   → Ganhe coragem autoral fazendo arte pela arte confiando na criatividade ensinada.
+   → Reconheça a obra como união de todos os elementos estudados.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras quais elementos formam uma obra.
 
 ---
 
-[Belas artes] - Ano 1 - 23.2 Meu primeiro quadro completo
+[Belas artes] - Ano 1 - 23.2 Quadro com formas e cores
 
 # Description
 
+**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, primeiro desdobramento, Quadro com formas e cores.
+
 ## Objetivos
-   → Desenhe o primeiro trabalho quadro a quadro planejado com todas as variáveis vistas nas aulas.
-   → Seja impulsionado pela intuição mas executando tarefas metodicamente focadas no resultado do quadro completo.
-   → Termine e contemple toda força visual da composição amadurecida expressando arte completada com êxito e alegria infantil a glória de Deus.
+   → Compreenda o quadro com formas e cores como primeiro desdobramento da semana.
+   → Perceba formas e cores trabalhando juntas em uma obra.
+   → Narre oralmente um exemplo de quadro com formas e cores marcantes.
 
 ---
 
-[Belas artes] - Ano 1 - 23.3 Minha obra com todos os elementos
+[Belas artes] - Ano 1 - 23.3 Obra com ponto, linha e espaço
 
 # Description
 
+**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, segundo desdobramento, Obra com ponto, linha e espaço.
+
 ## Objetivos
-   → Demonstra orgulhosamente tudo compreendido combinando texturas, e pontilhismo, tintas intensas.
-   → Entregue como encerramento sua criação usando como guia referenciada para o portifólio base pessoal nas diferentes técnicas.
-   → Reveja a beleza em sua criatividade como resposta dos dons naturais e reflexão grata pela vida e percepção dada a humanidade com gratidão.
+   → Pratique a obra com ponto, linha e espaço como segundo desdobramento da semana.
+   → Aplique ponto, linha e espaço em atividade prática integrando os três elementos.
+   → Narre a experiência de unir vários elementos da arte em uma só obra.
 
 ---
 
@@ -1455,64 +1609,72 @@ Avaliar os conhecimentos das aulas da semana 22
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 23
+Revisar os conhecimentos das aulas da semana 23.
 
-## 23ª Semana: **Criando com Tudo que Sabemos**
+## 23ª Semana, **A obra com os elementos da arte**
 
-- 23.1 Criando com tudo que sabemos
-- 23.2 Meu primeiro quadro completo
-- 23.3 Minha obra com todos os elementos
+- 23.1 A obra com os elementos da arte
+- 23.2 Quadro com formas e cores
+- 23.3 Obra com ponto, linha e espaço
 
 ---
 
-[Belas artes] - Ano 1 - 23.5 prova
+[Belas artes] - Ano 1 - 23.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 23
+Avaliar os conhecimentos das aulas da semana 23.
 
-## 23ª Semana: **Criando com Tudo que Sabemos**
+## 23ª Semana, **A obra com os elementos da arte**
 
-- 23.1 Criando com tudo que sabemos
-- 23.2 Meu primeiro quadro completo
-- 23.3 Minha obra com todos os elementos
-
----
-
-## Semana 24 – Desenhar com Formas Simples
+- 23.1 A obra com os elementos da arte
+- 23.2 Quadro com formas e cores
+- 23.3 Obra com ponto, linha e espaço
 
 ---
 
-[Belas artes] - Ano 1 - 24.1 Desenhar com formas simples
+## Semana 24 – O desenho com formas simples
+
+**Tema central da semana**, O desenho com formas simples. A aula 24.1 apresenta o coração do tema. A aula 24.2 desenvolve o círculo que vira gato. A aula 24.3 desenvolve o triângulo e o quadrado na casa.
+
+---
+
+[Belas artes] - Ano 1 - 24.1 O desenho com formas simples
 
 # Description
+
+**Tema central da semana**, O desenho com formas simples. **Foco da aula**, coração pedagógico que fixa o desenho com formas simples.
 
 ## Objetivos
-   → Lembre-se do processo construtivo na pintura iniciando da figura rudimentar do triângulo com o círculo.
-   → Elabore os contornos para modelagem e estrutura do volume simplificando elementos visuais.
-   → Reforce a autoconfiança perdendo assim o perfeccionismo que estanca processos de criação da arte infantil.
+   → Reconheça o desenho com formas simples como composição feita de figuras básicas.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como formas simples constroem imagens.
 
 ---
 
-[Belas artes] - Ano 1 - 24.2 O gato que sai do círculo
+[Belas artes] - Ano 1 - 24.2 O círculo que vira gato
 
 # Description
 
+**Tema central da semana**, O desenho com formas simples. **Foco da aula**, primeiro desdobramento, O círculo que vira gato.
+
 ## Objetivos
-   → Reproduza animais desenhando através de bolas soltas até enxergar as formas surgindo livremente.
-   → Concentre no exercício livre construindo partes simétricas unindo os círculos as retas com soltura natural imagética.
-   → Divirta-se desenvolvendo o raciocínio holístico englobando a coordenação visomotora a imaginação fluida criativa.
+   → Compreenda o círculo que vira gato como primeiro desdobramento da semana.
+   → Perceba como o círculo pode servir de base para um animal desenhado.
+   → Narre oralmente o passo a passo do gato feito com círculos.
 
 ---
 
-[Belas artes] - Ano 1 - 24.3 A casa com triângulo e quadrado
+[Belas artes] - Ano 1 - 24.3 O triângulo e o quadrado na casa
 
 # Description
 
+**Tema central da semana**, O desenho com formas simples. **Foco da aula**, segundo desdobramento, O triângulo e o quadrado na casa.
+
 ## Objetivos
-   → Combine a precisão para elaboração das proporções na construções dos lugares urbanos nostálgicos como casas de vila das cidades infantis desenhadas em papéis.
-   → Sinta as forças das pontas criando janelas retangulares ou circulares nas chaminés com criatividade que fazem sentido ao intelecto lógico criativo na representação de moradias.
-   → Finalize cenas que transparecem segurança e proteção desenhando as moradias e choupanas de tijolos criados ao redor sob as  árvores construídas nos desenhos como abrigo para toda família humana amparadas providencialmente por Deus gracioso.
+   → Pratique o triângulo e o quadrado na casa como segundo desdobramento da semana.
+   → Aplique triângulo e quadrado em atividade prática desenhando uma casa.
+   → Narre a experiência de construir uma casa com duas formas.
 
 ---
 
@@ -1520,63 +1682,72 @@ Avaliar os conhecimentos das aulas da semana 23
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 24
+Revisar os conhecimentos das aulas da semana 24.
 
-## 24ª Semana: **Desenhar com Formas Simples**
+## 24ª Semana, **O desenho com formas simples**
 
-- 24.1 Desenhar com formas simples
-- 24.2 O gato que sai do círculo
-- 24.3 A casa com triângulo e quadrado
+- 24.1 O desenho com formas simples
+- 24.2 O círculo que vira gato
+- 24.3 O triângulo e o quadrado na casa
 
 ---
 
-[Belas artes] - Ano 1 - 24.5 prova
+[Belas artes] - Ano 1 - 24.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 24
+Avaliar os conhecimentos das aulas da semana 24.
 
-## 24ª Semana: **Desenhar com Formas Simples**
+## 24ª Semana, **O desenho com formas simples**
 
-- 24.1 Desenhar com formas simples
-- 24.2 O gato que sai do círculo
-- 24.3 A casa com triângulo e quadrado
-
----
-
-## Semana 25 – Animais e Personagens
+- 24.1 O desenho com formas simples
+- 24.2 O círculo que vira gato
+- 24.3 O triângulo e o quadrado na casa
 
 ---
 
-[Belas artes] - Ano 1 - 25.1 Animais e personagens
+## Semana 25 – Os animais e personagens
+
+**Tema central da semana**, Os animais e personagens. A aula 25.1 apresenta o coração do tema. A aula 25.2 desenvolve o sol como personagem. A aula 25.3 desenvolve o bicho inventado.
+
+---
+
+[Belas artes] - Ano 1 - 25.1 Os animais e personagens
 
 # Description
+
+**Tema central da semana**, Os animais e personagens. **Foco da aula**, coração pedagógico que fixa o personagem como criação do artista.
 
 ## Objetivos
-   → Reflita sobre os incontáveis focos para fisionomias variadas preenchendo as formas para observação contínua nas espécies com biomas originários.
-   → Experimente expressar pelo seu lápis sensibilidade representativa das características e identidades puras revelando todo zelo dos designs perfeitos celestiais das obras divinas.
-   → Brinque ilustrando rostos peludos colorindo as representações mais fortes das belas pelagens naturais de grandes selvagens na majestades criacionais sorrindo aos seus traçados simples artesanais infantes focado do amor.
+   → Reconheça os animais e personagens como criações imaginadas pelo artista.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como se inventa um personagem.
 
 ---
 
-[Belas artes] - Ano 1 - 25.2 O sol que sorri para mim
+[Belas artes] - Ano 1 - 25.2 O sol como personagem
 
 # Description
 
+**Tema central da semana**, Os animais e personagens. **Foco da aula**, primeiro desdobramento, O sol como personagem.
+
 ## Objetivos
-   → Perceba representações ricas e iluminadoras como o sol e das estrelas nos seculos formativos traduzindo contornos matinais com a luz que o sol traz as identidades narrativas.
-   → Crie sóis lúdicos com amarelos vivos em seu quadro matinal desabrochando cheio de alegria radiante espalhando bons ares e raios nas cenas das composições pictóricas ilustradas pelo alunos alegres.
-   → Analise o esplendor em respeito e admirações cósmicas regozijando pela majestade universal revelada ao contemplar diariamente o repique diuturno das misericórdias nas maravilhas celestes expressas criacionalmente soberana infinitas aos cosmos doadas por pura graças na sua vida.
+   → Compreenda o sol como personagem como primeiro desdobramento da semana.
+   → Perceba o sol antropomorfizado em ilustrações infantis.
+   → Narre oralmente uma cena com o sol como personagem.
 
 ---
 
-[Belas artes] - Ano 1 - 25.3 Criando um bicho inventado
+[Belas artes] - Ano 1 - 25.3 O bicho inventado
 
 # Description
 
+**Tema central da semana**, Os animais e personagens. **Foco da aula**, segundo desdobramento, O bicho inventado.
+
 ## Objetivos
-   → Conceba criaturas brincando pelo campo lúdico de criatividades profundas unindo elementos na originalidade puras do traçado.
-   → Incorpore alegria ao focar as representações de maneira expressiva com as proporções diferentes do comum com vibrantes saturações rústicas a fim de soltar os olhares limitadores e o engessamento e medos superando o senso artístico do mundo dos grandes adultos para a ingenuidade maravilhosa da criança solta e confiante aos avanços.
+   → Pratique o bicho inventado como segundo desdobramento da semana.
+   → Aplique a imaginação em atividade prática desenhando um bicho novo.
+   → Narre a experiência de inventar e batizar um bicho.
 
 ---
 
@@ -1584,63 +1755,72 @@ Avaliar os conhecimentos das aulas da semana 24
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 25
+Revisar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana: **Animais e Personagens**
+## 25ª Semana, **Os animais e personagens**
 
-- 25.1 Animais e personagens
-- 25.2 O sol que sorri para mim
-- 25.3 Criando um bicho inventado
+- 25.1 Os animais e personagens
+- 25.2 O sol como personagem
+- 25.3 O bicho inventado
 
 ---
 
-[Belas artes] - Ano 1 - 25.5 prova
+[Belas artes] - Ano 1 - 25.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 25
+Avaliar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana: **Animais e Personagens**
+## 25ª Semana, **Os animais e personagens**
 
-- 25.1 Animais e personagens
-- 25.2 O sol que sorri para mim
-- 25.3 Criando um bicho inventado
-
----
-
-## Semana 26 – Meu Mundo em Desenho
+- 25.1 Os animais e personagens
+- 25.2 O sol como personagem
+- 25.3 O bicho inventado
 
 ---
 
-[Belas artes] - Ano 1 - 26.1 Meu mundo em desenho
+## Semana 26 – O meu mundo em desenho
+
+**Tema central da semana**, O meu mundo em desenho. A aula 26.1 apresenta o coração do tema. A aula 26.2 desenvolve a minha casa no desenho. A aula 26.3 desenvolve o meu cantinho favorito.
+
+---
+
+[Belas artes] - Ano 1 - 26.1 O meu mundo em desenho
 
 # Description
+
+**Tema central da semana**, O meu mundo em desenho. **Foco da aula**, coração pedagógico que fixa o desenho do mundo próprio.
 
 ## Objetivos
-   → Observe o ambiente e valorize a rotina e o simples transferindo nos seus exercícios artísticos o recorte íntimo peculiar e comum recriado através de percepções vivas abençoadas pelo doador do olhares como o meios visivos do desfrutar reflexivo do seu mundo das belezas ao redore divinas maravilhosas
-   → Construa elos visuais conectando doçura na sua visão fidedignas a todas percepções do cotidiano reproduzidas valorosamente engrandecendo os pequeno encantos para nós abençoado de forma grandiosa admirativa constante nas histórias contadas criaturais maravilhosos do viver de graças divina no homem e o menino e na infância pura nos regozijo admiráveis
-   → Assuma a sua importância no enredo divino representando o seio do amparo da vida em morada diária nas cenas recheadas sob olhares reflexivos contempladores ao desenhar em cor viva os cenários únicos a suas narrativas infantis e pueril nas suas memórias ricas contadas pelas obras 
+   → Reconheça o meu mundo em desenho como registro do que vivo.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que cabe no meu mundo desenhado.
 
 ---
 
-[Belas artes] - Ano 1 - 26.2 Desenhando minha casa
+[Belas artes] - Ano 1 - 26.2 A minha casa no desenho
 
 # Description
 
+**Tema central da semana**, O meu mundo em desenho. **Foco da aula**, primeiro desdobramento, A minha casa no desenho.
+
 ## Objetivos
-   → Retrate do seio das familiariedades que protegem e abriga expressado calor e doçuras das iluminações na tela da memórias seguras no desenvolvimento infantil a sua história com sentimentos contidos da doçuras de lares com proteção do céu resgatados nas cenas desenhadas e na vivencias com amor.
-   → Foque nas tons carolas calorosas e luminosas que traduzem aconchego e afetuosidade na dinâmicas interiores do convívio familiar do mundo construído para amparar no refúgios protetores dados do amor paternal e da misericórdias das vontades no propósito soberanos a nós concedido com misericórdia doce 
+   → Compreenda a minha casa no desenho como primeiro desdobramento da semana.
+   → Perceba detalhes da minha casa que merecem ir para o papel.
+   → Narre oralmente o que faz a minha casa ser especial.
 
 ---
 
-[Belas artes] - Ano 1 - 26.3 Meu cantinho favorito
+[Belas artes] - Ano 1 - 26.3 O meu cantinho favorito
 
 # Description
 
+**Tema central da semana**, O meu mundo em desenho. **Foco da aula**, segundo desdobramento, O meu cantinho favorito.
+
 ## Objetivos
-   → Analise de perto um esconderijo muito amado de brincar reproduzindo de maneira aquarelada e autêntica retratando a  personalidades em cantinhos que compõe as minúsculas essência marcantes na história de suas infância.
-   → Detalhe na ilustração recheada de pormenores a vivacidade que traz referências das maiores identidades emocionais do lar representados a liberdade e inocência expressa na idade da criança.
-   → Fixe sentimentos eternos usando o processo artesanais para firmar nas páginas memórias duradouras bases e consolidação de afetos artísticos que servira de ancoradouro criacional e seguro por dias e todo os devir do seu futuro nas narrativas vivas a se seguir.
+   → Pratique o desenho do meu cantinho favorito como segundo desdobramento da semana.
+   → Aplique memória e observação em atividade prática.
+   → Narre a experiência de pôr no papel o lugar de que mais gosto.
 
 ---
 
@@ -1648,59 +1828,72 @@ Avaliar os conhecimentos das aulas da semana 25
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 26
+Revisar os conhecimentos das aulas da semana 26.
 
-## 26ª Semana: **Meu Mundo em Desenho**
+## 26ª Semana, **O meu mundo em desenho**
 
-- 26.1 Meu mundo em desenho
-- 26.2 Desenhando minha casa
-- 26.3 Meu cantinho favorito
+- 26.1 O meu mundo em desenho
+- 26.2 A minha casa no desenho
+- 26.3 O meu cantinho favorito
 
 ---
 
-[Belas artes] - Ano 1 - 26.5 prova
+[Belas artes] - Ano 1 - 26.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 26
+Avaliar os conhecimentos das aulas da semana 26.
 
-## 26ª Semana: **Meu Mundo em Desenho**
+## 26ª Semana, **O meu mundo em desenho**
 
-- 26.1 Meu mundo em desenho
-- 26.2 Desenhando minha casa
-- 26.3 Meu cantinho favorito
-
----
-
-## Semana 27 – Lugares e Histórias
+- 26.1 O meu mundo em desenho
+- 26.2 A minha casa no desenho
+- 26.3 O meu cantinho favorito
 
 ---
 
-[Belas artes] - Ano 1 - 27.1 Lugares e histórias
+## Semana 27 – Os lugares e histórias
+
+**Tema central da semana**, Os lugares e histórias. A aula 27.1 apresenta o coração do tema. A aula 27.2 desenvolve a igreja com torres. A aula 27.3 desenvolve o parquinho colorido.
+
+---
+
+[Belas artes] - Ano 1 - 27.1 Os lugares e histórias
 
 # Description
+
+**Tema central da semana**, Os lugares e histórias. **Foco da aula**, coração pedagógico que fixa lugares e histórias como inspiração da arte.
 
 ## Objetivos
-   → Entenda que ilustrar conta o mundo do homem registrando e marcando na temporalidades lugares em memórias nos mapas que dão referências nas histórias para recontagem na artes e aventuras para o amanhã na infância 
+   → Reconheça lugares e histórias como inspiração para a arte.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras um lugar que conta história.
 
 ---
 
-[Belas artes] - Ano 1 - 27.2 A igreja com torres altas
+[Belas artes] - Ano 1 - 27.2 A igreja com torres
 
 # Description
 
+**Tema central da semana**, Os lugares e histórias. **Foco da aula**, primeiro desdobramento, A igreja com torres.
+
 ## Objetivos
-   → Traduza esta imponência elaborando um alto vitrais ilustrando em sua obra o brilho sagrado e  as janelas devotas desenhadas e coloridas que trazem na história congregações fortes a presença cultual para Deus no mundo criados e os refúgios do santo viver reverentes adoradores na vida sagrada da igreja majestosas acolhedores e  firmes dos filhos divinos eternos
-   → Componha as congregações elaborada desenhando as moradas da  adoração cheia do encanto admirativo das casas dos crentes acolhendo filhos em fé exultantes nas comunidades e no cultuar dos hinos  louvores 
+   → Compreenda a igreja com torres como primeiro desdobramento da semana.
+   → Perceba elementos arquitetônicos de templos cristãos.
+   → Narre oralmente o que torna a igreja um lugar especial.
 
 ---
 
-[Belas artes] - Ano 1 - 27.3 Um parquinho colorido
+[Belas artes] - Ano 1 - 27.3 O parquinho colorido
 
 # Description
 
+**Tema central da semana**, Os lugares e histórias. **Foco da aula**, segundo desdobramento, O parquinho colorido.
+
 ## Objetivos
-   → Imagine de maneira interativa representadas as fisionomias balançando nas criatividade infames que constrói os cenários em turbilhão regozijante transpondo aos quadros as diversões que vibram no mundo lúdicos imaginários brincantes nos papéis ilustrados.  
+   → Pratique o parquinho colorido como segundo desdobramento da semana.
+   → Aplique cores em atividade prática desenhando um parquinho.
+   → Narre a experiência de retratar um lugar de brincar.
 
 ---
 
@@ -1708,40 +1901,46 @@ Avaliar os conhecimentos das aulas da semana 26
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 27
+Revisar os conhecimentos das aulas da semana 27.
 
-## 27ª Semana: **Lugares e Histórias**
+## 27ª Semana, **Os lugares e histórias**
 
-- 27.1 Lugares e histórias
-- 27.2 A igreja com torres altas
-- 27.3 Um parquinho colorido
+- 27.1 Os lugares e histórias
+- 27.2 A igreja com torres
+- 27.3 O parquinho colorido
 
 ---
 
-[Belas artes] - Ano 1 - 27.5 prova
+[Belas artes] - Ano 1 - 27.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 27
+Avaliar os conhecimentos das aulas da semana 27.
 
-## 27ª Semana: **Lugares e Histórias**
+## 27ª Semana, **Os lugares e histórias**
 
-- 27.1 Lugares e histórias
-- 27.2 A igreja com torres altas
-- 27.3 Um parquinho colorido
-
----
-
-## Semana 28 – Histórias que Inspiram
+- 27.1 Os lugares e histórias
+- 27.2 A igreja com torres
+- 27.3 O parquinho colorido
 
 ---
 
-[Belas artes] - Ano 1 - 28.1 Histórias que inspiram
+## Semana 28 – As histórias que inspiram a arte
+
+**Tema central da semana**, As histórias que inspiram a arte. A aula 28.1 apresenta o coração do tema. A aula 28.2 desenvolve a arca com muitos animais. A aula 28.3 desenvolve o jardim da criação.
+
+---
+
+[Belas artes] - Ano 1 - 28.1 As histórias que inspiram a arte
 
 # Description
+
+**Tema central da semana**, As histórias que inspiram a arte. **Foco da aula**, coração pedagógico que fixa as histórias bíblicas como inspiração.
 
 ## Objetivos
-   → Compreenda o poder formador nas jornadas elaborando e reescrevendo com a ponta lúdicas grandes histórias da purezas encarnadas para inspirar heróis e compaixão no desenho infantil criativo que espelha reflexão moral admirável na imaginação infante
+   → Reconheça as histórias bíblicas como fonte que inspira artistas.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras por que as histórias geram arte.
 
 ---
 
@@ -1749,8 +1948,12 @@ Avaliar os conhecimentos das aulas da semana 27
 
 # Description
 
+**Tema central da semana**, As histórias que inspiram a arte. **Foco da aula**, primeiro desdobramento, A arca com muitos animais.
+
 ## Objetivos
-   → Reviva cenas grandiosas visualizando na cena da  esperança ilustrando com ricas texturas nas pinceladas devotos animas nas madeiras de barco antigas refletindo as salvações que preenchem de pulsar da vida originária das espécies reproduzindo  arcos celestiais puros de alianças e graças na eternidade.
+   → Compreenda a arca com muitos animais como primeiro desdobramento da semana.
+   → Perceba a riqueza visual da arca cheia de bichos.
+   → Narre oralmente a história da arca em detalhes simples.
 
 ---
 
@@ -1758,8 +1961,12 @@ Avaliar os conhecimentos das aulas da semana 27
 
 # Description
 
+**Tema central da semana**, As histórias que inspiram a arte. **Foco da aula**, segundo desdobramento, O jardim da criação.
+
 ## Objetivos
-   → Contemple com pureza a criatividade originária recriando a inocências primordiais nas frondosas belezas visual do jardins da criações espelhando a  beleza reflexiva  do esplêndidos de paraíso cristalinos e cheio de frutos onde passos divinos originou os passeios de paz de mundos harmoniosos de Deus soberano gracioso no jardim das glória divinas infinitas 
+   → Pratique o desenho do jardim da criação como segundo desdobramento da semana.
+   → Aplique formas e cores em atividade prática retratando o jardim do Éden.
+   → Narre a experiência de imaginar o jardim plantado por Deus.
 
 ---
 
@@ -1767,25 +1974,25 @@ Avaliar os conhecimentos das aulas da semana 27
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 28
+Revisar os conhecimentos das aulas da semana 28.
 
-## 28ª Semana: **Histórias que Inspiram**
+## 28ª Semana, **As histórias que inspiram a arte**
 
-- 28.1 Histórias que inspiram
+- 28.1 As histórias que inspiram a arte
 - 28.2 A arca com muitos animais
 - 28.3 O jardim da criação
 
 ---
 
-[Belas artes] - Ano 1 - 28.5 prova
+[Belas artes] - Ano 1 - 28.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 28
+Avaliar os conhecimentos das aulas da semana 28.
 
-## 28ª Semana: **Histórias que Inspiram**
+## 28ª Semana, **As histórias que inspiram a arte**
 
-- 28.1 Histórias que inspiram
+- 28.1 As histórias que inspiram a arte
 - 28.2 A arca com muitos animais
 - 28.3 O jardim da criação
 
@@ -1801,51 +2008,51 @@ Avaliar os conhecimentos das aulas da semana 28
 
 # Revisão do 3º Bimestre
 
-## 21ª Semana: **Direção que Guia o Olhar**
+## 21ª Semana, **A direção no olhar**
 
-- 21.1 Direção que guia o olhar
-- 21.2 A seta que conta uma história
-- 21.3 Labirinto com pincel
+- 21.1 A direção no olhar
+- 21.2 A seta que guia
+- 21.3 O caminho feito com pincel
 
-## 22ª Semana: **Equilíbrio como Harmonia**
+## 22ª Semana, **O equilíbrio na arte**
 
-- 22.1 Equilíbrio como harmonia
-- 22.2 A dobradura que fica de pé
-- 22.3 Simetria com papel colorido
+- 22.1 O equilíbrio na arte
+- 22.2 O equilíbrio da dobradura
+- 22.3 O equilíbrio da simetria
 
-## 23ª Semana: **Criando com Tudo que Sabemos**
+## 23ª Semana, **A obra com os elementos da arte**
 
-- 23.1 Criando com tudo que sabemos
-- 23.2 Meu primeiro quadro completo
-- 23.3 Minha obra com todos os elementos
+- 23.1 A obra com os elementos da arte
+- 23.2 Quadro com formas e cores
+- 23.3 Obra com ponto, linha e espaço
 
-## 24ª Semana: **Desenhar com Formas Simples**
+## 24ª Semana, **O desenho com formas simples**
 
-- 24.1 Desenhar com formas simples
-- 24.2 O gato que sai do círculo
-- 24.3 A casa com triângulo e quadrado
+- 24.1 O desenho com formas simples
+- 24.2 O círculo que vira gato
+- 24.3 O triângulo e o quadrado na casa
 
-## 25ª Semana: **Animais e Personagens**
+## 25ª Semana, **Os animais e personagens**
 
-- 25.1 Animais e personagens
-- 25.2 O sol que sorri para mim
-- 25.3 Criando um bicho inventado
+- 25.1 Os animais e personagens
+- 25.2 O sol como personagem
+- 25.3 O bicho inventado
 
-## 26ª Semana: **Meu Mundo em Desenho**
+## 26ª Semana, **O meu mundo em desenho**
 
-- 26.1 Meu mundo em desenho
-- 26.2 Desenhando minha casa
-- 26.3 Meu cantinho favorito
+- 26.1 O meu mundo em desenho
+- 26.2 A minha casa no desenho
+- 26.3 O meu cantinho favorito
 
-## 27ª Semana: **Lugares e Histórias**
+## 27ª Semana, **Os lugares e histórias**
 
-- 27.1 Lugares e histórias
-- 27.2 A igreja com torres altas
-- 27.3 Um parquinho colorido
+- 27.1 Os lugares e histórias
+- 27.2 A igreja com torres
+- 27.3 O parquinho colorido
 
-## 28ª Semana: **Histórias que Inspiram**
+## 28ª Semana, **As histórias que inspiram a arte**
 
-- 28.1 Histórias que inspiram
+- 28.1 As histórias que inspiram a arte
 - 28.2 A arca com muitos animais
 - 28.3 O jardim da criação
 
@@ -1861,84 +2068,98 @@ Avaliar os conhecimentos das aulas da semana 28
 
 # Prova do 3º Bimestre
 
-## 21ª Semana: **Direção que Guia o Olhar**
+## 21ª Semana, **A direção no olhar**
 
-- 21.1 Direção que guia o olhar
-- 21.2 A seta que conta uma história
-- 21.3 Labirinto com pincel
+- 21.1 A direção no olhar
+- 21.2 A seta que guia
+- 21.3 O caminho feito com pincel
 
-## 22ª Semana: **Equilíbrio como Harmonia**
+## 22ª Semana, **O equilíbrio na arte**
 
-- 22.1 Equilíbrio como harmonia
-- 22.2 A dobradura que fica de pé
-- 22.3 Simetria com papel colorido
+- 22.1 O equilíbrio na arte
+- 22.2 O equilíbrio da dobradura
+- 22.3 O equilíbrio da simetria
 
-## 23ª Semana: **Criando com Tudo que Sabemos**
+## 23ª Semana, **A obra com os elementos da arte**
 
-- 23.1 Criando com tudo que sabemos
-- 23.2 Meu primeiro quadro completo
-- 23.3 Minha obra com todos os elementos
+- 23.1 A obra com os elementos da arte
+- 23.2 Quadro com formas e cores
+- 23.3 Obra com ponto, linha e espaço
 
-## 24ª Semana: **Desenhar com Formas Simples**
+## 24ª Semana, **O desenho com formas simples**
 
-- 24.1 Desenhar com formas simples
-- 24.2 O gato que sai do círculo
-- 24.3 A casa com triângulo e quadrado
+- 24.1 O desenho com formas simples
+- 24.2 O círculo que vira gato
+- 24.3 O triângulo e o quadrado na casa
 
-## 25ª Semana: **Animais e Personagens**
+## 25ª Semana, **Os animais e personagens**
 
-- 25.1 Animais e personagens
-- 25.2 O sol que sorri para mim
-- 25.3 Criando um bicho inventado
+- 25.1 Os animais e personagens
+- 25.2 O sol como personagem
+- 25.3 O bicho inventado
 
-## 26ª Semana: **Meu Mundo em Desenho**
+## 26ª Semana, **O meu mundo em desenho**
 
-- 26.1 Meu mundo em desenho
-- 26.2 Desenhando minha casa
-- 26.3 Meu cantinho favorito
+- 26.1 O meu mundo em desenho
+- 26.2 A minha casa no desenho
+- 26.3 O meu cantinho favorito
 
-## 27ª Semana: **Lugares e Histórias**
+## 27ª Semana, **Os lugares e histórias**
 
-- 27.1 Lugares e histórias
-- 27.2 A igreja com torres altas
-- 27.3 Um parquinho colorido
+- 27.1 Os lugares e histórias
+- 27.2 A igreja com torres
+- 27.3 O parquinho colorido
 
-## 28ª Semana: **Histórias que Inspiram**
+## 28ª Semana, **As histórias que inspiram a arte**
 
-- 28.1 Histórias que inspiram
+- 28.1 As histórias que inspiram a arte
 - 28.2 A arca com muitos animais
 - 28.3 O jardim da criação
 
 ---
 
-## Semana 31 – Céu e Esperança
+## Semana 31 – O céu e a esperança
+
+**Tema central da semana**, O céu e a esperança. A aula 31.1 apresenta o coração do tema. A aula 31.2 desenvolve os anjos com tinta e papel. A aula 31.3 desenvolve a visão do céu.
 
 ---
 
-[Belas artes] - Ano 1 - 31.1 Céu e esperança
+[Belas artes] - Ano 1 - 31.1 O céu e a esperança
 
 # Description
 
+**Tema central da semana**, O céu e a esperança. **Foco da aula**, coração pedagógico que fixa o céu como tema da arte cristã.
+
 ## Objetivos
-   → Direcione as reflexões pela lente de horizontes celestes prefigurados enxergando na vastidão promessas e a eternidade transcendental do grandiosos  de azul anil infinito da magnificência soberanas
+   → Reconheça o céu e a esperança como tema da arte cristã.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que o céu representa.
 
 ---
 
-[Belas artes] - Ano 1 - 31.2 Anjos com tinta e papel
+[Belas artes] - Ano 1 - 31.2 Os anjos com tinta e papel
 
 # Description
 
+**Tema central da semana**, O céu e a esperança. **Foco da aula**, primeiro desdobramento, Os anjos com tinta e papel.
+
 ## Objetivos
-   → Desenhe através de figuras querubins adornados nas vestes  leves serenas da majestade de adoração divina na artes como espelhos celestes e purezas angélicas nas glórias e resplendor dos coros que venera reverentes os trono do altíssimo. 
+   → Compreenda os anjos com tinta e papel como primeiro desdobramento da semana.
+   → Perceba a representação dos anjos em obras clássicas.
+   → Narre oralmente como artistas pintaram anjos.
 
 ---
 
-[Belas artes] - Ano 1 - 31.3 Minha visão do céu
+[Belas artes] - Ano 1 - 31.3 A visão do céu
 
 # Description
 
+**Tema central da semana**, O céu e a esperança. **Foco da aula**, segundo desdobramento, A visão do céu.
+
 ## Objetivos
-   → Espelhe em maravilhas as cintilantes joias com puras tintas luminosas preenchendo as ricas paisagens do por vir na esperança final das harmonias eternas e vitórias da pátria verdadeira feita e resgatada eterna 
+   → Pratique a visão do céu como segundo desdobramento da semana.
+   → Aplique imaginação e fé em atividade prática desenhando uma visão do céu.
+   → Narre a experiência de retratar o céu prometido.
 
 ---
 
@@ -1946,58 +2167,72 @@ Avaliar os conhecimentos das aulas da semana 28
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 31
+Revisar os conhecimentos das aulas da semana 31.
 
-## 31ª Semana: **Céu e Esperança**
+## 31ª Semana, **O céu e a esperança**
 
-- 31.1 Céu e esperança
-- 31.2 Anjos com tinta e papel
-- 31.3 Minha visão do céu
+- 31.1 O céu e a esperança
+- 31.2 Os anjos com tinta e papel
+- 31.3 A visão do céu
 
 ---
 
-[Belas artes] - Ano 1 - 31.5 prova
+[Belas artes] - Ano 1 - 31.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 31
+Avaliar os conhecimentos das aulas da semana 31.
 
-## 31ª Semana: **Céu e Esperança**
+## 31ª Semana, **O céu e a esperança**
 
-- 31.1 Céu e esperança
-- 31.2 Anjos com tinta e papel
-- 31.3 Minha visão do céu
-
----
-
-## Semana 32 – Criação: Dias de Deus (Parte 1)
+- 31.1 O céu e a esperança
+- 31.2 Os anjos com tinta e papel
+- 31.3 A visão do céu
 
 ---
 
-[Belas artes] - Ano 1 - 32.1 Criação: dias de Deus
+## Semana 32 – A criação da luz, dos céus e das águas
+
+**Tema central da semana**, A criação da luz, dos céus e das águas. A aula 32.1 apresenta o coração do tema. A aula 32.2 desenvolve a luz e as trevas. A aula 32.3 desenvolve os céus e as águas.
+
+---
+
+[Belas artes] - Ano 1 - 32.1 A criação da luz, dos céus e das águas
 
 # Description
+
+**Tema central da semana**, A criação da luz, dos céus e das águas. **Foco da aula**, coração pedagógico que fixa os primeiros dias da criação.
 
 ## Objetivos
-   → Compreenda e contemple do Gênesis visualizando o princípio  organizador que do Caos desenhou na matizes as formas celestiais nascendo as ordens originárias através e de suas majestades divina como autor 
+   → Reconheça a criação como obra ordenada de Deus em seis dias.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras os primeiros dias da criação.
 
 ---
 
-[Belas artes] - Ano 1 - 32.2 Dia 1 — Luz e trevas
+[Belas artes] - Ano 1 - 32.2 A luz e as trevas
 
 # Description
 
+**Tema central da semana**, A criação da luz, dos céus e das águas. **Foco da aula**, primeiro desdobramento, A luz e as trevas.
+
 ## Objetivos
-   → Distinga e separe no enquadramentos as variações dos dia de muita claridade para as noites repousantes espelhando em luz ofuscante a cintilância opostas glorificando com artes reverentes aos criador gracioso formador criacionais 
+   → Compreenda a luz e as trevas como primeiro desdobramento da semana.
+   → Perceba o contraste entre claro e escuro em obras.
+   → Narre oralmente o primeiro dia da criação.
 
 ---
 
-[Belas artes] - Ano 1 - 32.3 Dia 2 — Céus e águas
+[Belas artes] - Ano 1 - 32.3 Os céus e as águas
 
 # Description
 
+**Tema central da semana**, A criação da luz, dos céus e das águas. **Foco da aula**, segundo desdobramento, Os céus e as águas.
+
 ## Objetivos
-   → Crie na pinturas a vastidões e profundidade degradês em tons oceanos azuis majestoso repletas dos movimento límpidos fluídos e de grandes potências formadoras no firmamentos imensos dos oceanos de mares puros da terra criadas 
+   → Pratique a representação dos céus e das águas como segundo desdobramento da semana.
+   → Aplique cores em atividade prática retratando céu e mar.
+   → Narre a experiência de pintar o segundo dia da criação.
 
 ---
 
@@ -2005,58 +2240,72 @@ Avaliar os conhecimentos das aulas da semana 31
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 32
+Revisar os conhecimentos das aulas da semana 32.
 
-## 32ª Semana: **Criação: Dias de Deus (Parte 1)**
+## 32ª Semana, **A criação da luz, dos céus e das águas**
 
-- 32.1 Criação: dias de Deus
-- 32.2 Dia 1 — Luz e trevas
-- 32.3 Dia 2 — Céus e águas
+- 32.1 A criação da luz, dos céus e das águas
+- 32.2 A luz e as trevas
+- 32.3 Os céus e as águas
 
 ---
 
-[Belas artes] - Ano 1 - 32.5 prova
+[Belas artes] - Ano 1 - 32.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 32
+Avaliar os conhecimentos das aulas da semana 32.
 
-## 32ª Semana: **Criação: Dias de Deus (Parte 1)**
+## 32ª Semana, **A criação da luz, dos céus e das águas**
 
-- 32.1 Criação: dias de Deus
-- 32.2 Dia 1 — Luz e trevas
-- 32.3 Dia 2 — Céus e águas
-
----
-
-## Semana 33 – Criação: Dias de Deus (Parte 2)
+- 32.1 A criação da luz, dos céus e das águas
+- 32.2 A luz e as trevas
+- 32.3 Os céus e as águas
 
 ---
 
-[Belas artes] - Ano 1 - 33.1 Dia 3 — Terra e vegetação
+## Semana 33 – A criação da terra, dos luminares e dos seres vivos
+
+**Tema central da semana**, A criação da terra, dos luminares e dos seres vivos. A aula 33.1 apresenta o coração do tema. A aula 33.2 desenvolve a terra, o sol, a lua e as estrelas. A aula 33.3 desenvolve os peixes e as aves.
+
+---
+
+[Belas artes] - Ano 1 - 33.1 A criação da terra, dos luminares e dos seres vivos
 
 # Description
+
+**Tema central da semana**, A criação da terra, dos luminares e dos seres vivos. **Foco da aula**, coração pedagógico que fixa o terceiro, o quarto e o quinto dia da criação.
 
 ## Objetivos
-   → Detalhe e espalhe a botânica frondosa criacional em folhas esverdeados de esplendor do crescimento naturais repletas com texturas rugosos e os tapetes  de frutos orgânicos das obras suntuosas germinações brotantes de  divina de cuidado 
+   → Reconheça os dias três, quatro e cinco da criação como obra ordenada de Deus.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que Deus criou nesses dias.
 
 ---
 
-[Belas artes] - Ano 1 - 33.2 Dia 4 — Sol, lua e estrelas
+[Belas artes] - Ano 1 - 33.2 A terra, o sol, a lua e as estrelas
 
 # Description
 
+**Tema central da semana**, A criação da terra, dos luminares e dos seres vivos. **Foco da aula**, primeiro desdobramento, A terra, o sol, a lua e as estrelas.
+
 ## Objetivos
-   → Visualize o esplêndidos espaço sideral em dimensões planetárias celestiais colando esferas radiantes solares organizadas ao ritmos noturno do brilho lunares de beleza infinitas no equilíbrios visível nas ordem de todo cosmo regidas pelo seu imutável de designios criacionais das infinitudes 
+   → Compreenda a terra, o sol, a lua e as estrelas como primeiro desdobramento da semana.
+   → Perceba esses corpos celestes em ilustrações da criação.
+   → Narre oralmente o terceiro e o quarto dia da criação.
 
 ---
 
-[Belas artes] - Ano 1 - 33.3 Dia 5 — Peixes e aves
+[Belas artes] - Ano 1 - 33.3 Os peixes e as aves
 
 # Description
 
+**Tema central da semana**, A criação da terra, dos luminares e dos seres vivos. **Foco da aula**, segundo desdobramento, Os peixes e as aves.
+
 ## Objetivos
-   → De a representações ondulatórias elaboradas nos céus azuis coloridos e mar aquamarine pintada de diversidades celestes aladas esvoaçante da plumas em voos harmonizando simetricamente os enquadramento da obras cheias da beleza infinitas complexidades dos seres e animais  marinhos abundância 
+   → Pratique a representação de peixes e aves como segundo desdobramento da semana.
+   → Aplique formas em atividade prática desenhando seres do mar e do céu.
+   → Narre a experiência de pintar o quinto dia da criação.
 
 ---
 
@@ -2064,58 +2313,72 @@ Avaliar os conhecimentos das aulas da semana 32
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 33
+Revisar os conhecimentos das aulas da semana 33.
 
-## 33ª Semana: **Criação: Dias de Deus (Parte 2)**
+## 33ª Semana, **A criação da terra, dos luminares e dos seres vivos**
 
-- 33.1 Dia 3 — Terra e vegetação
-- 33.2 Dia 4 — Sol, lua e estrelas
-- 33.3 Dia 5 — Peixes e aves
+- 33.1 A criação da terra, dos luminares e dos seres vivos
+- 33.2 A terra, o sol, a lua e as estrelas
+- 33.3 Os peixes e as aves
 
 ---
 
-[Belas artes] - Ano 1 - 33.5 prova
+[Belas artes] - Ano 1 - 33.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 33
+Avaliar os conhecimentos das aulas da semana 33.
 
-## 33ª Semana: **Criação: Dias de Deus (Parte 2)**
+## 33ª Semana, **A criação da terra, dos luminares e dos seres vivos**
 
-- 33.1 Dia 3 — Terra e vegetação
-- 33.2 Dia 4 — Sol, lua e estrelas
-- 33.3 Dia 5 — Peixes e aves
-
----
-
-## Semana 34 – Criação: Dias de Deus (Parte 3)
+- 33.1 A criação da terra, dos luminares e dos seres vivos
+- 33.2 A terra, o sol, a lua e as estrelas
+- 33.3 Os peixes e as aves
 
 ---
 
-[Belas artes] - Ano 1 - 34.1 Dia 6 — Animais e o ser humano
+## Semana 34 – A criação dos animais, do homem e do descanso
+
+**Tema central da semana**, A criação dos animais, do homem e do descanso. A aula 34.1 apresenta o coração do tema. A aula 34.2 desenvolve os animais e o ser humano. A aula 34.3 desenvolve o dia de Deus e o painel completo.
+
+---
+
+[Belas artes] - Ano 1 - 34.1 A criação dos animais, do homem e do descanso
 
 # Description
+
+**Tema central da semana**, A criação dos animais, do homem e do descanso. **Foco da aula**, coração pedagógico que fixa o sexto e o sétimo dia da criação.
 
 ## Objetivos
-   → Represente focado nos rastejantes majestosos e da criação mamífera do pináculo e  do designs do barros orgânicos do homens a exprimir ao amor de vivas essências no fôlego dado das belezas terrenos e ricas criaturais puramente de dádivas as mãos perfeitas de providência  
+   → Reconheça os dias seis e sete da criação como ápice da obra divina.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que Deus fez nesses dias.
 
 ---
 
-[Belas artes] - Ano 1 - 34.2 Dia 7 — O dia de Deus
+[Belas artes] - Ano 1 - 34.2 Os animais e o ser humano
 
 # Description
 
+**Tema central da semana**, A criação dos animais, do homem e do descanso. **Foco da aula**, primeiro desdobramento, Os animais e o ser humano.
+
 ## Objetivos
-   → Delineia no silenciamento a parada de contemplações reverentes colorindo pacificações finais de trabalhos criacionais nas suas cenas e ilustrações admiradoras no descanso visual e pacífico do labores repousante e moral santificados no dia sétimos divinos 
+   → Compreenda os animais e o ser humano como primeiro desdobramento da semana.
+   → Perceba a dignidade do ser humano criado à imagem de Deus.
+   → Narre oralmente o sexto dia da criação.
 
 ---
 
-[Belas artes] - Ano 1 - 34.3 Montagem do painel completo
+[Belas artes] - Ano 1 - 34.3 O dia de Deus e o painel completo
 
 # Description
 
+**Tema central da semana**, A criação dos animais, do homem e do descanso. **Foco da aula**, segundo desdobramento, O dia de Deus e o painel completo.
+
 ## Objetivos
-   → Una todo  processos visuais do aprendizados nas suas semanas elaboradas montado em murais grandiosos os quadros expressados em colagens como prece em honra de criatividade cooperativas recheada de louvou as formosas grandezas em agradecimento e exultações  do coros infantes formativos para doador 
+   → Pratique a montagem do painel da criação como segundo desdobramento da semana.
+   → Aplique tudo o aprendido em atividade prática integrando os sete dias.
+   → Narre a experiência de contemplar a criação completa.
 
 ---
 
@@ -2123,49 +2386,59 @@ Avaliar os conhecimentos das aulas da semana 33
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 34
+Revisar os conhecimentos das aulas da semana 34.
 
-## 34ª Semana: **Criação: Dias de Deus (Parte 3)**
+## 34ª Semana, **A criação dos animais, do homem e do descanso**
 
-- 34.1 Dia 6 — Animais e o ser humano
-- 34.2 Dia 7 — O dia de Deus
-- 34.3 Montagem do painel completo
+- 34.1 A criação dos animais, do homem e do descanso
+- 34.2 Os animais e o ser humano
+- 34.3 O dia de Deus e o painel completo
 
 ---
 
-[Belas artes] - Ano 1 - 34.5 prova
+[Belas artes] - Ano 1 - 34.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 34
+Avaliar os conhecimentos das aulas da semana 34.
 
-## 34ª Semana: **Criação: Dias de Deus (Parte 3)**
+## 34ª Semana, **A criação dos animais, do homem e do descanso**
 
-- 34.1 Dia 6 — Animais e o ser humano
-- 34.2 Dia 7 — O dia de Deus
-- 34.3 Montagem do painel completo
-
----
-
-## Semana 35 – Arte e Música Caminham Juntas
+- 34.1 A criação dos animais, do homem e do descanso
+- 34.2 Os animais e o ser humano
+- 34.3 O dia de Deus e o painel completo
 
 ---
 
-[Belas artes] - Ano 1 - 35.1 Arte e música caminham juntas
+## Semana 35 – A arte e a música
+
+**Tema central da semana**, A arte e a música. A aula 35.1 apresenta o coração do tema. A aula 35.2 desenvolve a música que cria cores. A aula 35.3 desenvolve o som que dança com o pincel.
+
+---
+
+[Belas artes] - Ano 1 - 35.1 A arte e a música
 
 # Description
+
+**Tema central da semana**, A arte e a música. **Foco da aula**, coração pedagógico que fixa a união entre arte e música.
 
 ## Objetivos
-   → Conecte e associe profundamente e através do pintar criacional aos movimentos fluídos escutados com audição expressa em contorno no papel guiadas no ritmo temporais contínuos nos louvores 
+   → Reconheça a arte e a música como linguagens que caminham juntas.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras como arte e música se unem.
 
 ---
 
-[Belas artes] - Ano 1 - 35.2 Música que cria cores
+[Belas artes] - Ano 1 - 35.2 A música que cria cores
 
 # Description
 
+**Tema central da semana**, A arte e a música. **Foco da aula**, primeiro desdobramento, A música que cria cores.
+
 ## Objetivos
-   → Atreva colorir focado as audições cadenciados nos andamentos transpassando no seu pincelar energias matizadas em ritmicidades dramática originada e puras com matiz fortes expressiva e livre da mente ríspidas dos instrumentais aos papéis púrpuras quentes
+   → Compreenda a música que cria cores como primeiro desdobramento da semana.
+   → Perceba as cores que diferentes melodias sugerem.
+   → Narre oralmente uma cor inspirada por uma música ouvida.
 
 ---
 
@@ -2173,8 +2446,12 @@ Avaliar os conhecimentos das aulas da semana 34
 
 # Description
 
+**Tema central da semana**, A arte e a música. **Foco da aula**, segundo desdobramento, O som que dança com o pincel.
+
 ## Objetivos
-   → Celebre nos movimentos manuais soltas com alegrias sinceras dos ritmos vibrantes audições infante ressonando da sinestesias que impulsiona de artes das adorações sonoras e glorifica divinamente maravilha lúdica e sensorial dada humana por graciosas e puras maravilhas 
+   → Pratique o som que dança com o pincel como segundo desdobramento da semana.
+   → Aplique pinceladas em atividade prática seguindo um ritmo musical.
+   → Narre a experiência de pintar acompanhando a música.
 
 ---
 
@@ -2182,31 +2459,33 @@ Avaliar os conhecimentos das aulas da semana 34
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 35
+Revisar os conhecimentos das aulas da semana 35.
 
-## 35ª Semana: **Arte e Música Caminham Juntas**
+## 35ª Semana, **A arte e a música**
 
-- 35.1 Arte e música caminham juntas
-- 35.2 Música que cria cores
+- 35.1 A arte e a música
+- 35.2 A música que cria cores
 - 35.3 O som que dança com o pincel
 
 ---
 
-[Belas artes] - Ano 1 - 35.5 prova
+[Belas artes] - Ano 1 - 35.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 35
+Avaliar os conhecimentos das aulas da semana 35.
 
-## 35ª Semana: **Arte e Música Caminham Juntas**
+## 35ª Semana, **A arte e a música**
 
-- 35.1 Arte e música caminham juntas
-- 35.2 Música que cria cores
+- 35.1 A arte e a música
+- 35.2 A música que cria cores
 - 35.3 O som que dança com o pincel
 
 ---
 
-## Semana 36 – A Imagem que a Música Revela
+## Semana 36 – A imagem que a música revela
+
+**Tema central da semana**, A imagem que a música revela. A aula 36.1 apresenta o coração do tema. A aula 36.2 desenvolve os olhos que escutam. A aula 36.3 desenvolve a música favorita em imagem.
 
 ---
 
@@ -2214,26 +2493,38 @@ Avaliar os conhecimentos das aulas da semana 35
 
 # Description
 
+**Tema central da semana**, A imagem que a música revela. **Foco da aula**, coração pedagógico que fixa a tradução visual do som.
+
 ## Objetivos
-   → Exteriorize narrativas silentes traduzindo os sentimentos escondidos evocados pela obras instrumentais pintadas em ricas tintas as florestas dramáticas do cinzas no cenário visual elaborando as historias abstrato e emoções aos tons das telas 
+   → Reconheça a imagem que a música revela como tradução visual do som.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que uma música mostra ao coração.
 
 ---
 
-[Belas artes] - Ano 1 - 36.2 Escutar com os olhos
+[Belas artes] - Ano 1 - 36.2 Os olhos que escutam
 
 # Description
 
+**Tema central da semana**, A imagem que a música revela. **Foco da aula**, primeiro desdobramento, Os olhos que escutam.
+
 ## Objetivos
-   → Visualize e imagine cores fidedignas no momento introspectivas que a  audições orquestral  projeta na fechadas visão internas evocadas em desenhos  das imagens interiores como puros presentes no tesouros sensoriais concebidas na alma graciosa divinas de maravilhas 
+   → Compreenda os olhos que escutam como primeiro desdobramento da semana.
+   → Perceba como a escuta atenta gera imagens internas.
+   → Narre oralmente uma imagem nascida de uma música ouvida.
 
 ---
 
-[Belas artes] - Ano 1 - 36.3 Minha música favorita em imagem
+[Belas artes] - Ano 1 - 36.3 A música favorita em imagem
 
 # Description
 
+**Tema central da semana**, A imagem que a música revela. **Foco da aula**, segundo desdobramento, A música favorita em imagem.
+
 ## Objetivos
-   → Eleve através e das músicas um ato das confecções devotas desenhadas num memoriais de memórias queridas da infância e afetuosas ilustrações eternizadas a reverência com gratidão ao Deus eterno que concebe intelecto do sentimentos a nós em dons celestes formados e formativos da vida para adorar 
+   → Pratique a tradução da música favorita em imagem como segundo desdobramento da semana.
+   → Aplique a imaginação em atividade prática retratando uma música.
+   → Narre a experiência de transformar som em desenho.
 
 ---
 
@@ -2241,40 +2532,46 @@ Avaliar os conhecimentos das aulas da semana 35
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 36
+Revisar os conhecimentos das aulas da semana 36.
 
-## 36ª Semana: **A Imagem que a Música Revela**
+## 36ª Semana, **A imagem que a música revela**
 
 - 36.1 A imagem que a música revela
-- 36.2 Escutar com os olhos
-- 36.3 Minha música favorita em imagem
+- 36.2 Os olhos que escutam
+- 36.3 A música favorita em imagem
 
 ---
 
-[Belas artes] - Ano 1 - 36.5 prova
+[Belas artes] - Ano 1 - 36.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 36
+Avaliar os conhecimentos das aulas da semana 36.
 
-## 36ª Semana: **A Imagem que a Música Revela**
+## 36ª Semana, **A imagem que a música revela**
 
 - 36.1 A imagem que a música revela
-- 36.2 Escutar com os olhos
-- 36.3 Minha música favorita em imagem
+- 36.2 Os olhos que escutam
+- 36.3 A música favorita em imagem
 
 ---
 
-## Semana 37 – Obras que Encantam
+## Semana 37 – As obras que encantam
+
+**Tema central da semana**, As obras que encantam. A aula 37.1 apresenta o coração do tema. A aula 37.2 desenvolve Van Gogh e os girassóis. A aula 37.3 desenvolve Paul Klee e as cores da alegria.
 
 ---
 
-[Belas artes] - Ano 1 - 37.1 Obras que encantam
+[Belas artes] - Ano 1 - 37.1 As obras que encantam
 
 # Description
+
+**Tema central da semana**, As obras que encantam. **Foco da aula**, coração pedagógico que fixa as obras marcantes da história da arte.
 
 ## Objetivos
-   → Observe e mergulhe em espanto apreciando em pormenor a textura carregada das maravilha vibrantes expressivos dos grandes  imortais mestres do atelier capturados e na telas como riquezas originada da paixão pura e emoções matizadas da geniais 
+   → Reconheça as obras que encantam como expressões marcantes da arte.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras por que uma obra encanta.
 
 ---
 
@@ -2282,8 +2579,12 @@ Avaliar os conhecimentos das aulas da semana 36
 
 # Description
 
+**Tema central da semana**, As obras que encantam. **Foco da aula**, primeiro desdobramento, Van Gogh e os girassóis.
+
 ## Objetivos
-   → Reproduza imitações autoria do florais cálidos vivos resplandecentes ao amarelo recriado do expressionismo da doçuras com sol irradiante a capturas admirada como a esplêndidos divinas as naturezas no corações girassol 
+   → Compreenda Van Gogh e os girassóis como primeiro desdobramento da semana.
+   → Perceba as pinceladas e as cores da obra observada.
+   → Narre oralmente o que se vê nos girassóis pintados.
 
 ---
 
@@ -2291,8 +2592,12 @@ Avaliar os conhecimentos das aulas da semana 36
 
 # Description
 
+**Tema central da semana**, As obras que encantam. **Foco da aula**, segundo desdobramento, Paul Klee e as cores da alegria.
+
 ## Objetivos
-   → Brinque elaboradas geometrias e blocos felizes das flutuações das quadradas colorições abstratas da misturadas matrizes da aquarelas vibrantes dançado as alegrias simplórias na ilusões e lúdicos originárias em  virtude criatividade expressas simples de artes divinas as criações 
+   → Pratique a inspiração em Paul Klee como segundo desdobramento da semana.
+   → Aplique cores alegres em atividade prática inspirada nas obras dele.
+   → Narre a experiência de pintar inspirado em Paul Klee.
 
 ---
 
@@ -2300,58 +2605,72 @@ Avaliar os conhecimentos das aulas da semana 36
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 37
+Revisar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana: **Obras que Encantam**
+## 37ª Semana, **As obras que encantam**
 
-- 37.1 Obras que encantam
+- 37.1 As obras que encantam
 - 37.2 Van Gogh e os girassóis
 - 37.3 Paul Klee e as cores da alegria
 
 ---
 
-[Belas artes] - Ano 1 - 37.5 prova
+[Belas artes] - Ano 1 - 37.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 37
+Avaliar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana: **Obras que Encantam**
+## 37ª Semana, **As obras que encantam**
 
-- 37.1 Obras que encantam
+- 37.1 As obras que encantam
 - 37.2 Van Gogh e os girassóis
 - 37.3 Paul Klee e as cores da alegria
 
 ---
 
-## Semana 38 – Observar com o Coração
+## Semana 38 – A observação com o coração
+
+**Tema central da semana**, A observação com o coração. A aula 38.1 apresenta o coração do tema. A aula 38.2 desenvolve os detalhes no quadro. A aula 38.3 desenvolve a obra que tocou o coração.
 
 ---
 
-[Belas artes] - Ano 1 - 38.1 Observar com o coração
+[Belas artes] - Ano 1 - 38.1 A observação com o coração
 
 # Description
 
+**Tema central da semana**, A observação com o coração. **Foco da aula**, coração pedagógico que fixa o olhar atento como prática artística.
+
 ## Objetivos
-   → Pare admirando e focado o belos expressos da tintas nas histórias profundos contidos em pacíficas paisagens ilustrando da obras fidedignas os mistérios e as estáticas das maravilhosas sentimentos silente escondendo e evocando reverências admiráveis a glorias grandezas em exaltações celestes dos puros horizontes visíveis expressas celestes insondável  
+   → Reconheça a observação com o coração como olhar atento que valoriza a obra.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que significa olhar com o coração.
 
 ---
 
-[Belas artes] - Ano 1 - 38.2 Ver detalhes no quadro
+[Belas artes] - Ano 1 - 38.2 Os detalhes no quadro
 
 # Description
 
+**Tema central da semana**, A observação com o coração. **Foco da aula**, primeiro desdobramento, Os detalhes no quadro.
+
 ## Objetivos
-   → Pratique minúcias recriadas separadas aos mosaico  de mestre nos pequenos dos pincelar da luz na formações complexos reproduções fiéis texturizados aos retábulos com paciências e destreza das minúsculas de glórias a quem olha ativamente 
+   → Compreenda os detalhes no quadro como primeiro desdobramento da semana.
+   → Perceba pequenos elementos antes despercebidos em uma obra.
+   → Narre oralmente um detalhe descoberto em um quadro.
 
 ---
 
-[Belas artes] - Ano 1 - 38.3 A obra que me tocou
+[Belas artes] - Ano 1 - 38.3 A obra que tocou o coração
 
 # Description
 
+**Tema central da semana**, A observação com o coração. **Foco da aula**, segundo desdobramento, A obra que tocou o coração.
+
 ## Objetivos
-   → Encerre o ciclo recriando reinterpretação livres através na memórias visuais de suas obras favoritas expressos do coração a alegrias afetuosas puramente gratadas celebradas nas consagrações do doador da habilidades dadas a reverencias em exultação ao arquiteto do cosmos supremo formoso que as criações o exaltem infantis na vidas maravilhosos sempre em seu amor. 
+   → Pratique a escolha da obra que tocou o coração como segundo desdobramento da semana.
+   → Aplique o aprendido em atividade prática selecionando e descrevendo uma obra.
+   → Narre a experiência de eleger a obra preferida do ano.
 
 ---
 
@@ -2359,27 +2678,27 @@ Avaliar os conhecimentos das aulas da semana 37
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 38
+Revisar os conhecimentos das aulas da semana 38.
 
-## 38ª Semana: **Observar com o Coração**
+## 38ª Semana, **A observação com o coração**
 
-- 38.1 Observar com o coração
-- 38.2 Ver detalhes no quadro
-- 38.3 A obra que me tocou
+- 38.1 A observação com o coração
+- 38.2 Os detalhes no quadro
+- 38.3 A obra que tocou o coração
 
 ---
 
-[Belas artes] - Ano 1 - 38.5 prova
+[Belas artes] - Ano 1 - 38.5 Prova
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 38
+Avaliar os conhecimentos das aulas da semana 38.
 
-## 38ª Semana: **Observar com o Coração**
+## 38ª Semana, **A observação com o coração**
 
-- 38.1 Observar com o coração
-- 38.2 Ver detalhes no quadro
-- 38.3 A obra que me tocou
+- 38.1 A observação com o coração
+- 38.2 Os detalhes no quadro
+- 38.3 A obra que tocou o coração
 
 ---
 
@@ -2393,53 +2712,53 @@ Avaliar os conhecimentos das aulas da semana 38
 
 # Revisão do 4º Bimestre
 
-## 31ª Semana: **Céu e Esperança**
+## 31ª Semana, **O céu e a esperança**
 
-- 31.1 Céu e esperança
-- 31.2 Anjos com tinta e papel
-- 31.3 Minha visão do céu
+- 31.1 O céu e a esperança
+- 31.2 Os anjos com tinta e papel
+- 31.3 A visão do céu
 
-## 32ª Semana: **Criação: Dias de Deus (Parte 1)**
+## 32ª Semana, **A criação da luz, dos céus e das águas**
 
-- 32.1 Criação: dias de Deus
-- 32.2 Dia 1 — Luz e trevas
-- 32.3 Dia 2 — Céus e águas
+- 32.1 A criação da luz, dos céus e das águas
+- 32.2 A luz e as trevas
+- 32.3 Os céus e as águas
 
-## 33ª Semana: **Criação: Dias de Deus (Parte 2)**
+## 33ª Semana, **A criação da terra, dos luminares e dos seres vivos**
 
-- 33.1 Dia 3 — Terra e vegetação
-- 33.2 Dia 4 — Sol, lua e estrelas
-- 33.3 Dia 5 — Peixes e aves
+- 33.1 A criação da terra, dos luminares e dos seres vivos
+- 33.2 A terra, o sol, a lua e as estrelas
+- 33.3 Os peixes e as aves
 
-## 34ª Semana: **Criação: Dias de Deus (Parte 3)**
+## 34ª Semana, **A criação dos animais, do homem e do descanso**
 
-- 34.1 Dia 6 — Animais e o ser humano
-- 34.2 Dia 7 — O dia de Deus
-- 34.3 Montagem do painel completo
+- 34.1 A criação dos animais, do homem e do descanso
+- 34.2 Os animais e o ser humano
+- 34.3 O dia de Deus e o painel completo
 
-## 35ª Semana: **Arte e Música Caminham Juntas**
+## 35ª Semana, **A arte e a música**
 
-- 35.1 Arte e música caminham juntas
-- 35.2 Música que cria cores
+- 35.1 A arte e a música
+- 35.2 A música que cria cores
 - 35.3 O som que dança com o pincel
 
-## 36ª Semana: **A Imagem que a Música Revela**
+## 36ª Semana, **A imagem que a música revela**
 
 - 36.1 A imagem que a música revela
-- 36.2 Escutar com os olhos
-- 36.3 Minha música favorita em imagem
+- 36.2 Os olhos que escutam
+- 36.3 A música favorita em imagem
 
-## 37ª Semana: **Obras que Encantam**
+## 37ª Semana, **As obras que encantam**
 
-- 37.1 Obras que encantam
+- 37.1 As obras que encantam
 - 37.2 Van Gogh e os girassóis
 - 37.3 Paul Klee e as cores da alegria
 
-## 38ª Semana: **Observar com o Coração**
+## 38ª Semana, **A observação com o coração**
 
-- 38.1 Observar com o coração
-- 38.2 Ver detalhes no quadro
-- 38.3 A obra que me tocou
+- 38.1 A observação com o coração
+- 38.2 Os detalhes no quadro
+- 38.3 A obra que tocou o coração
 
 ---
 
@@ -2453,52 +2772,52 @@ Avaliar os conhecimentos das aulas da semana 38
 
 # Prova do 4º Bimestre
 
-## 31ª Semana: **Céu e Esperança**
+## 31ª Semana, **O céu e a esperança**
 
-- 31.1 Céu e esperança
-- 31.2 Anjos com tinta e papel
-- 31.3 Minha visão do céu
+- 31.1 O céu e a esperança
+- 31.2 Os anjos com tinta e papel
+- 31.3 A visão do céu
 
-## 32ª Semana: **Criação: Dias de Deus (Parte 1)**
+## 32ª Semana, **A criação da luz, dos céus e das águas**
 
-- 32.1 Criação: dias de Deus
-- 32.2 Dia 1 — Luz e trevas
-- 32.3 Dia 2 — Céus e águas
+- 32.1 A criação da luz, dos céus e das águas
+- 32.2 A luz e as trevas
+- 32.3 Os céus e as águas
 
-## 33ª Semana: **Criação: Dias de Deus (Parte 2)**
+## 33ª Semana, **A criação da terra, dos luminares e dos seres vivos**
 
-- 33.1 Dia 3 — Terra e vegetação
-- 33.2 Dia 4 — Sol, lua e estrelas
-- 33.3 Dia 5 — Peixes e aves
+- 33.1 A criação da terra, dos luminares e dos seres vivos
+- 33.2 A terra, o sol, a lua e as estrelas
+- 33.3 Os peixes e as aves
 
-## 34ª Semana: **Criação: Dias de Deus (Parte 3)**
+## 34ª Semana, **A criação dos animais, do homem e do descanso**
 
-- 34.1 Dia 6 — Animais e o ser humano
-- 34.2 Dia 7 — O dia de Deus
-- 34.3 Montagem do painel completo
+- 34.1 A criação dos animais, do homem e do descanso
+- 34.2 Os animais e o ser humano
+- 34.3 O dia de Deus e o painel completo
 
-## 35ª Semana: **Arte e Música Caminham Juntas**
+## 35ª Semana, **A arte e a música**
 
-- 35.1 Arte e música caminham juntas
-- 35.2 Música que cria cores
+- 35.1 A arte e a música
+- 35.2 A música que cria cores
 - 35.3 O som que dança com o pincel
 
-## 36ª Semana: **A Imagem que a Música Revela**
+## 36ª Semana, **A imagem que a música revela**
 
 - 36.1 A imagem que a música revela
-- 36.2 Escutar com os olhos
-- 36.3 Minha música favorita em imagem
+- 36.2 Os olhos que escutam
+- 36.3 A música favorita em imagem
 
-## 37ª Semana: **Obras que Encantam**
+## 37ª Semana, **As obras que encantam**
 
-- 37.1 Obras que encantam
+- 37.1 As obras que encantam
 - 37.2 Van Gogh e os girassóis
 - 37.3 Paul Klee e as cores da alegria
 
-## 38ª Semana: **Observar com o Coração**
+## 38ª Semana, **A observação com o coração**
 
-- 38.1 Observar com o coração
-- 38.2 Ver detalhes no quadro
-- 38.3 A obra que me tocou
+- 38.1 A observação com o coração
+- 38.2 Os detalhes no quadro
+- 38.3 A obra que tocou o coração
 
 ---

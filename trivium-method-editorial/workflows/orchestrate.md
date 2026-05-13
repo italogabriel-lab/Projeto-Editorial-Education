@@ -32,6 +32,8 @@ Atalho para ativar o Orquestrador da Squad e obter direção sobre o projeto.
 
 6. Se o usuário tiver uma demanda específica, usar a **Tabela de Roteamento** (seção 3) para delegar ao skill/workflow correto.
 
+   - Se a demanda envolver adequar lista de temas, reorganizar Currículo Macro, criar `novo padrão` ou padronizar semanas em `x.1`, `x.2` e `x.3`, delegar para `skills/curriculum-macro-adapter/SKILL.md`.
+
 7. Apresentar o relatório final ao usuário no formato:
    ```
    📊 STATUS — [Ano]

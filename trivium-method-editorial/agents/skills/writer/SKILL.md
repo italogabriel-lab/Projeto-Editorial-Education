@@ -74,14 +74,13 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 
 ### Definir (Nomear)
 - ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO.
-- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do texto do Accordion após `[MP3\]` e do Statement_D.
+- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D.
 - Depois da definição, deixar uma linha em branco.
-- Frase 1 + Frase 2 na MESMA linha: "Reconheça que..." + ponto + espaço + "Observe que...". NÃO usar linha em branco entre as duas frases.
+- Duas frases em prosa direta na MESMA linha, sem "Reconheça que" nem "Observe que". A primeira apresenta o contexto principal. A segunda traz um argumento extra. Separadas por ponto e espaço, sem linha em branco entre elas.
 - Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
-- Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
+- Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, definição de áudio sem repetir o termo da pergunta e definição curta completa repetida no texto após `[MP3\]`.
-- No áudio do Accordion, remova o termo já nomeado na pergunta. Exemplo: pergunta `O que é psicologia?`, áudio `é o que representa o mundo interior das pessoas.`, texto `Psicologia na arte representa o mundo interior das pessoas.`
+- Accordion: áudio e texto após `[MP3\]` IDÊNTICOS entre si, sem repetir o termo da pergunta. Exemplo: pergunta `O que é gravura?`, áudio `Reproduz imagens por matriz gravada.`, texto `Reproduz imagens por matriz gravada.`
 - Não incluir `@link_png@` nem reflexão dentro do Accordion do Definir.
 
 ### Perceber (Observar)
@@ -97,14 +96,14 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e do texto do Accordion após `[MP3\]`
+- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir
 - A rima ou música DEVE mencionar o conceito definido — não pode ser genérica
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
 - Definição do Recordar com `_____` nas lacunas — a criança completa o conceito central
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
-- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir, do Accordion e do Recordar
+- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
 - Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)

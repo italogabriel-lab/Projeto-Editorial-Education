@@ -6,7 +6,7 @@
 
 **[Definição curta da aula, igual ao Recordar.]**
 
-[Explicação breve do tema em linguagem simples para 1º ano.]
+[Explicação breve com **termo da aula** em destaque para 1º ano.]
 
 Veja o vídeo abaixo.
 
@@ -30,17 +30,19 @@ Leia a definição e ouça o áudio clicando abaixo.
 
 [Pergunta simples sobre o tema da aula.]
 
+@link_png@
+
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
-**[Definição curta da aula, igual ao Recordar.]**
+[Definição curta da aula, igual ao Recordar.]
 
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
 
-[Explicação breve do tema em linguagem simples para 1º ano.]
+[Explicação breve com **termo da aula** em destaque para 1º ano.]
 
 [-ACCORDION]
 
@@ -79,7 +81,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 [Definição curta da aula, igual ao Definir.]
 
@@ -143,8 +145,9 @@ Atividade 2
 
 [Pergunta simples sobre o significado do tema.]
 
-[Distrator curto e plausível.] [=]
-[Resposta correta, alinhada à definição curta.] [=] true
+[Distrator curto e plausível] [=]
+[Outro distrator curto e plausível] [=]
+[Resposta correta alinhada à definição curta] [=] true
 
 [-MULTIPLE]
 
@@ -178,9 +181,19 @@ Leitura
 
 @link_png@
 
-"**[Definição curta da aula, igual ao Recordar.]**"
+[MP3/]
 
-*[Explicação breve do tema em linguagem simples para 1º ano.]*
+#FSH:0b12d715e4c741399594fccb12d4bbe2
+
+[Definição curta da aula, igual ao Recordar.]
+
+[Explicação breve com **termo da aula** em destaque para 1º ano.]
+
+[MP3\]
+
+**[Definição curta da aula, igual ao Recordar.]**
+
+[Explicação breve com **termo da aula** em destaque para 1º ano.]
 
 [-IMAGE_TEXT_ASIDE]
 

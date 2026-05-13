@@ -1,481 +1,510 @@
-### _1º ANO – BELAS ARTES_
-### _Introdução à Linguagem Visual e aos Elementos da Arte_
+# 1º ano - Belas Artes
 
-**Base:** Fase da Gramática do Trivium | Cosmovisão Cristã Reformada  
-**Fontes:** Bíblia Sagrada + Webster's Dictionary 1828  
-**Público-alvo:** Pais educadores e alunos entre 6 e 7 anos  
-**Formato:** 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
+## Introdução à linguagem visual e aos elementos da arte
 
----
+**Base**, fase da Gramática do Trivium e cosmovisão cristã reformada
+**Fontes**, Bíblia Sagrada e Webster's Dictionary 1828
+**Público-alvo**, pais educadores e alunos entre 6 e 7 anos
+**Formato**, 5 hábitos, Definir, Perceber, Recordar, Praticar e Narrar
 
-## 📗 Semana 1 – **A Essência da Arte**
+## Princípio de progressão semanal
 
-**Tema central:** A arte nasce do coração criativo de Deus e é dom concedido ao homem.
+Cada semana usa a aula .1 como coração pedagógico. Essa aula apresenta o tema principal e fixa a definição central.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 1.1  | **A essência da arte**             | Compreender que a arte é expressão da ordem e da beleza criadas por Deus. |
-| 1.2  | **A imaginação que vira desenho**  | Reconhecer a imaginação como dom divino que transforma pensamento em forma. |
-| 1.3  | **A beleza revelada por Deus**     | Entender que toda beleza verdadeira tem sua origem no Criador. |
+A aula .2 desenvolve o primeiro subtópico. A aula .3 desenvolve o segundo subtópico. As três aulas formam uma progressão única.
 
-**Conceitos da semana:** Arte, Imaginação, Beleza
+## Semana 1 - A arte e a expressão
 
----
+**Tema central**, A arte e a expressão. A aula 1.1 fixa a definição central. A aula 1.2 desenvolve a beleza criada por Deus. A aula 1.3 desenvolve a habilidade humana.
 
-## 📘 Semana 2 – **A Presença da Arte**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 1.1 | A arte e a expressão | Fixar a definição central, arte expressa a beleza criada por Deus com habilidade humana. |
+| 1.2 | A arte e a beleza | Reconhecer a beleza criada por Deus como primeiro desdobramento da expressão artística. |
+| 1.3 | A arte e a habilidade | Praticar a habilidade humana como segundo desdobramento da expressão artística. |
 
-**Tema central:** A arte está presente em tudo o que nos rodeia, pois Deus a teceu na criação.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 2.1  | **A presença da arte**             | Identificar a arte presente no cotidiano como reflexo da criação divina. |
-| 2.2  | **Arte nos livros e na igreja**    | Reconhecer que a arte serve para ensinar, adorar e embelezar os espaços sagrados. |
-| 2.3  | **A arte como presente do Criador**| Compreender que criar é responder ao chamado de Deus com gratidão. |
-
-**Conceitos da semana:** Presença, Adoração, Gratidão
+**Conceitos da semana**, A arte e a expressão, A arte e a beleza, A arte e a habilidade humana
 
 ---
 
-## 📙 Semana 3 – **O Ponto Começa Tudo**
+## Semana 2 - A arte nos lugares da vida
 
-**Tema central:** O ponto é o menor elemento visual, e toda grande obra começa com um único gesto.
+**Tema central**, A arte nos lugares da vida. A aula 2.1 apresenta o coração do tema. As aulas 2.2 e 2.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 3.1  | **O ponto começa tudo**            | Compreender o ponto como o início de toda forma e expressão visual. |
-| 3.2  | **O ponto como semente do desenho**| Reconhecer que mesmo o menor gesto pode gerar beleza e ordem. |
-| 3.3  | **Descobrindo padrões com pontinhos** | Identificar padrões e repetição como reflexo da ordem divina na criação. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 2.1 | A arte nos lugares da vida | Apresentar a arte nos lugares da vida como coração da semana e eixo da definição. |
+| 2.2 | A arte nos livros e na igreja | Reconhecer a arte nos livros e na igreja como primeiro desdobramento do tema principal. |
+| 2.3 | A arte em casa e na natureza | Praticar a arte em casa e na natureza como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Ponto, Semente, Padrão
-
----
-
-## 📕 Semana 4 – **Fazendo Arte com Pontos**
-
-**Tema central:** O ponto, multiplicado com arte e intenção, revela a riqueza da técnica e da paciência.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 4.1  | **Fazendo arte com carimbo**       | Aplicar o ponto como ferramenta de expressão criativa e técnica. |
-| 4.2  | **Observando obras pontilhadas**   | Estudar obras de arte que usam o ponto como linguagem principal. |
-| 4.3  | **Colorindo com mil pontos**       | Praticar a disciplina e a paciência como virtudes do artista cristão. |
-
-**Conceitos da semana:** Carimbo, Técnica, Paciência
+**Conceitos da semana**, A arte nos lugares da vida, A arte nos livros e na igreja, A arte em casa e na natureza
 
 ---
 
-## 📗 Semana 5 – **A Linha que Anda**
+## Semana 3 - O ponto no desenho
 
-**Tema central:** A linha é o caminho visível do ponto em movimento, revelando direção e propósito.
+**Tema central**, O ponto no desenho. A aula 3.1 apresenta o coração do tema. As aulas 3.2 e 3.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 5.1  | **A linha que anda**               | Compreender a linha como elemento que guia, conecta e expressa movimento. |
-| 5.2  | **Reta, curva, espiral e mais**    | Identificar tipos de linhas como linguagem visual de ordem e variedade. |
-| 5.3  | **Brincando com linha de barbante**| Explorar a linha em materiais concretos como dom de criatividade tátil. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 3.1 | A arte feita com pontos | Apresentar a arte feita com pontos como coração da semana e eixo da definição. |
+| 3.2 | O ponto como começo | Reconhecer o ponto como começo como primeiro desdobramento do tema principal. |
+| 3.3 | O ponto no desenho | Praticar o ponto no desenho como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Linha, Caminho, Movimento
-
----
-
-## 📘 Semana 6 – **A Linha como História**
-
-**Tema central:** A linha conta histórias — cada traço carrega intenção e expressão.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 6.1  | **A linha como história**          | Reconhecer que a linha expressa narrativa e sentimento no desenho. |
-| 6.2  | **Pintar o som com linhas**        | Conectar o sentido auditivo ao visual como unidade da criação divina. |
-| 6.3  | **Desenhando trilhas com corda**   | Praticar a linha como construção tátil e expressão de percurso. |
-
-**Conceitos da semana:** Narrativa, Expressão, Trilha
+**Conceitos da semana**, A arte feita com pontos, O ponto como começo, O ponto no desenho
 
 ---
 
-## 📙 Semana 7 – **Formas que se Transformam**
+## Semana 4 - A arte feita com pontos
 
-**Tema central:** As formas básicas são o alfabeto visual dado por Deus para compor o mundo.
+**Tema central**, A arte feita com pontos. A aula 4.1 apresenta o coração do tema. As aulas 4.2 e 4.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 7.1  | **Formas que se transformam**      | Compreender as formas geométricas como fundamento de toda composição visual. |
-| 7.2  | **Círculo, quadrado e triângulo**  | Identificar as formas básicas e sua presença na criação de Deus. |
-| 7.3  | **Formas que viram caras e casas** | Aplicar formas simples na construção de figuras reconhecíveis com criatividade. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 4.1 | O ponto como padrão | Apresentar o ponto como padrão como coração da semana e eixo da definição. |
+| 4.2 | Os pontos nas obras | Reconhecer os pontos nas obras como primeiro desdobramento do tema principal. |
+| 4.3 | Os pontos nas cores | Praticar os pontos nas cores como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Forma, Geometria, Composição
-
----
-
-## 📕 Semana 8 – **Formas da Natureza**
-
-**Tema central:** A natureza criada por Deus é repleta de formas que ensinam o olhar a contemplar.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 8.1  | **Desenhando folhas e pedras**     | Observar a criação como modelo de forma e beleza natural. |
-| 8.2  | **Criando bichos com formas**      | Reconhecer as criaturas de Deus como inspiração para a arte. |
-| 8.3  | **Inventando monstros com figuras**| Exercitar a imaginação criativa combinando formas com liberdade e alegria. |
-
-**Conceitos da semana:** Natureza, Criatura, Imaginação
+**Conceitos da semana**, O ponto como padrão, Os pontos nas obras, Os pontos nas cores
 
 ---
 
-## 9ª Semana: Revisão
----
+## Semana 5 - A linha no desenho
 
-## 10ª Semana: Provas
----
+**Tema central**, A linha no desenho. A aula 5.1 apresenta o coração do tema. As aulas 5.2 e 5.3 desenvolvem seus dois desdobramentos.
 
-## 📗 Semana 11 – **Cores que Nascem**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 5.1 | A linha no desenho | Apresentar a linha no desenho como coração da semana e eixo da definição. |
+| 5.2 | As linhas retas | Reconhecer as linhas retas como primeiro desdobramento do tema principal. |
+| 5.3 | As linhas curvas | Praticar as linhas curvas como segundo desdobramento do tema principal. |
 
-**Tema central:** As cores são filhas da luz, e Deus é o Senhor da luz e de toda cor.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 11.1 | **Cores que nascem**               | Compreender que as cores existem porque Deus criou a luz. |
-| 11.2 | **Vermelho, azul e amarelo**       | Identificar as cores primárias como fundamento da linguagem cromática. |
-| 11.3 | **Misturando para fazer novas cores** | Experimentar a mistura de cores como reflexo da criatividade e da ordem divina. |
-
-**Conceitos da semana:** Cor, Luz, Mistura
+**Conceitos da semana**, A linha no desenho, As linhas retas, As linhas curvas
 
 ---
 
-## 📘 Semana 12 – **Emoções das Cores**
+## Semana 6 - A linha como caminho
 
-**Tema central:** As cores falam ao coração — Deus criou cada tom com propósito e sentido.
+**Tema central**, A linha como caminho. A aula 6.1 apresenta o coração do tema. As aulas 6.2 e 6.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 12.1 | **Emoções das cores**              | Reconhecer que as cores comunicam sentimentos e estados da alma. |
-| 12.2 | **O azul que acalma e o vermelho que agita** | Identificar a relação entre cor e emoção como linguagem criada por Deus. |
-| 12.3 | **Cores quentes e frias**          | Classificar cores por temperatura como princípio de harmonia visual. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 6.1 | A linha como padrão | Apresentar a linha como padrão como coração da semana e eixo da definição. |
+| 6.2 | A linha como caminho | Reconhecer a linha como caminho como primeiro desdobramento do tema principal. |
+| 6.3 | A linha que cria trilhas | Praticar a linha que cria trilhas como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Emoção, Temperatura, Sentimento
-
----
-
-## 📙 Semana 13 – **A Cor que Canta**
-
-**Tema central:** Cor e som se encontram na arte — ambos são linguagens dadas pelo Criador.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 13.1 | **A cor que canta**                | Compreender a relação entre cor e som como expressões complementares da criação. |
-| 13.2 | **Pintura ao som de música**       | Experimentar a arte como resposta sensorial ao louvor e à beleza sonora. |
-| 13.3 | **Sentir e pintar com o coração**  | Integrar sentimento e técnica como ato de adoração ao Criador. |
-
-**Conceitos da semana:** Sinestesia, Música, Coração
+**Conceitos da semana**, A linha como padrão, A linha como caminho, A linha que cria trilhas
 
 ---
 
-## 📕 Semana 14 – **Cores do Dia e da Noite**
+## Semana 7 - As formas no desenho
 
-**Tema central:** A luz e a escuridão revelam o ciclo que Deus ordenou, e cada momento tem sua paleta.
+**Tema central**, As formas no desenho. A aula 7.1 apresenta o coração do tema. As aulas 7.2 e 7.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 14.1 | **Cores do dia e da noite**        | Reconhecer a alternância de luz e trevas como ordem divina que inspira a arte. |
-| 14.2 | **Pintar com a luz do sol**        | Explorar a luminosidade como elemento expressivo e simbólico na pintura. |
-| 14.3 | **Criar composição da noite**      | Representar a escuridão e a calma noturna como parte da beleza criada por Deus. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 7.1 | As formas no desenho | Apresentar as formas no desenho como coração da semana e eixo da definição. |
+| 7.2 | O círculo, o quadrado e o triângulo | Reconhecer o círculo, o quadrado e o triângulo como primeiro desdobramento do tema principal. |
+| 7.3 | As formas que criam imagens | Praticar as formas que criam imagens como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Dia, Noite, Contraste
-
----
-
-## 📗 Semana 15 – **Textura que se Sente**
-
-**Tema central:** A textura é a pele da arte — Deus criou superfícies que ensinam o toque a perceber.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 15.1 | **Textura que se sente**           | Compreender a textura como elemento visual e tátil da linguagem artística. |
-| 15.2 | **Liso, áspero, macio e pontudo** | Identificar tipos de textura na criação como variedade da bondade de Deus. |
-| 15.3 | **Explorando com areia e folhas**  | Experimentar materiais naturais como recurso artístico e dom do Criador. |
-
-**Conceitos da semana:** Textura, Tato, Material
+**Conceitos da semana**, As formas no desenho, O círculo, o quadrado e o triângulo, As formas que criam imagens
 
 ---
 
-## 📘 Semana 16 – **Textura com Sentimento**
+## Semana 8 - As formas na natureza
 
-**Tema central:** A textura expressa emoção e caráter — a arte cristã toca e transforma.
+**Tema central**, As formas na natureza. A aula 8.1 apresenta o coração do tema. As aulas 8.2 e 8.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 16.1 | **Textura com sentimento**         | Reconhecer que a textura comunica sensações e enriquece a expressão artística. |
-| 16.2 | **Criando textura com massa**      | Explorar modelagem como forma de criar beleza com as mãos, imitando o oleiro divino. |
-| 16.3 | **Pintar com grãos e elementos naturais** | Usar a criação de Deus como matéria-prima para a arte redimida. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 8.1 | As formas na natureza | Apresentar as formas na natureza como coração da semana e eixo da definição. |
+| 8.2 | As formas em bichos | Reconhecer as formas em bichos como primeiro desdobramento do tema principal. |
+| 8.3 | As formas em figuras | Praticar as formas em figuras como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Modelagem, Sensação, Criação
-
----
-
-## 📙 Semana 17 – **Espaço no Papel**
-
-**Tema central:** O espaço é o lugar onde a arte vive — Deus distribuiu todas as coisas com sabedoria.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 17.1 | **Espaço no papel**               | Compreender o espaço como elemento de composição e organização visual. |
-| 17.2 | **Fundo, borda e centro**         | Identificar as regiões do espaço como partes de uma composição ordenada. |
-| 17.3 | **O grande e o pequeno juntos**    | Reconhecer proporção e escala como reflexos da sabedoria do Criador. |
-
-**Conceitos da semana:** Espaço, Proporção, Organização
+**Conceitos da semana**, As formas na natureza, As formas em bichos, As formas em figuras
 
 ---
 
-## 📕 Semana 18 – **Espaço Cheio e Espaço Vazio**
+## Semana 9 - Revisão
 
-**Tema central:** O vazio também fala — Deus criou tanto a forma quanto o repouso visual.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 18.1 | **Espaço cheio e espaço vazio**    | Entender que o vazio é parte essencial da composição e do equilíbrio visual. |
-| 18.2 | **Criar com respiração visual**    | Aplicar o conceito de silêncio visual como sabedoria compositiva. |
-| 18.3 | **Construindo uma cidade no papel**| Compor uma cena completa usando todos os elementos aprendidos até aqui. |
-
-**Conceitos da semana:** Cheio, Vazio, Equilíbrio
+Retome os temas do bloco anterior. Verifique memorização, percepção visual e narração oral.
 
 ---
 
-## 19ª Semana: Revisão
----
+## Semana 10 - Prova
 
-## 20ª Semana: Provas
----
-
-## 📗 Semana 21 – **Direção que Guia o Olhar**
-
-**Tema central:** A direção orienta o olhar e conduz a história visual — assim como Deus guia os passos do homem.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 21.1 | **Direção que guia o olhar**       | Compreender a direção como elemento que conduz a leitura da obra de arte. |
-| 21.2 | **A seta que conta uma história**  | Reconhecer que a direção expressa narrativa e intenção no desenho. |
-| 21.3 | **Labirinto com pincel**           | Exercitar o uso da linha direcional como caminho e descoberta criativa. |
-
-**Conceitos da semana:** Direção, Guia, Percurso
+Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
 
 ---
 
-## 📘 Semana 22 – **Equilíbrio como Harmonia**
+## Semana 11 - As cores primárias
 
-**Tema central:** O equilíbrio visual reflete a ordem perfeita que Deus imprimiu em toda a criação.
+**Tema central**, As cores primárias. A aula 11.1 apresenta o coração do tema. As aulas 11.2 e 11.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 22.1 | **Equilíbrio como harmonia**       | Entender equilíbrio como princípio de ordem e beleza na composição. |
-| 22.2 | **A dobradura que fica de pé**     | Aplicar o conceito de equilíbrio em construções tridimensionais simples. |
-| 22.3 | **Simetria com papel colorido**    | Identificar a simetria como forma de harmonia e reflexo da perfeição divina. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 11.1 | As cores primárias | Apresentar as cores primárias como coração da semana e eixo da definição. |
+| 11.2 | O vermelho, o azul e o amarelo | Reconhecer o vermelho, o azul e o amarelo como primeiro desdobramento do tema principal. |
+| 11.3 | As cores que nascem da mistura | Praticar as cores que nascem da mistura como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Equilíbrio, Simetria, Harmonia
-
----
-
-## 📙 Semana 23 – **Criando com Tudo que Sabemos**
-
-**Tema central:** A obra completa nasce da integração de todos os elementos — assim como a criação de Deus é unidade perfeita.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 23.1 | **Criando com tudo que sabemos**   | Integrar ponto, linha, forma, cor, textura e espaço em uma composição única. |
-| 23.2 | **Meu primeiro quadro completo**   | Produzir uma obra pessoal como exercício de todos os elementos aprendidos. |
-| 23.3 | **Minha obra com todos os elementos** | Refletir sobre o processo criativo como ato de serviço e adoração a Deus. |
-
-**Conceitos da semana:** Integração, Obra, Processo
+**Conceitos da semana**, As cores primárias, O vermelho, o azul e o amarelo, As cores que nascem da mistura
 
 ---
 
-## 📕 Semana 24 – **Desenhar com Formas Simples**
+## Semana 12 - As cores e as emoções
 
-**Tema central:** A simplicidade da forma revela sabedoria — desenhar com poucos traços é arte que honra a clareza.
+**Tema central**, As cores e as emoções. A aula 12.1 apresenta o coração do tema. As aulas 12.2 e 12.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 24.1 | **Desenhar com formas simples**    | Compreender que a beleza pode nascer da simplicidade de formas básicas. |
-| 24.2 | **O gato que sai do círculo**      | Transformar formas geométricas em figuras com criatividade e propósito. |
-| 24.3 | **A casa com triângulo e quadrado**| Construir cenas do cotidiano usando formas simples como vocabulário visual. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 12.1 | As cores e as emoções | Apresentar as cores e as emoções como coração da semana e eixo da definição. |
+| 12.2 | Cores que acalmam e agitam | Reconhecer cores que acalmam e agitam como primeiro desdobramento do tema principal. |
+| 12.3 | Cores quentes e frias | Praticar cores quentes e frias como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Simplicidade, Figura, Construção
-
----
-
-## 📗 Semana 25 – **Animais e Personagens**
-
-**Tema central:** As criaturas de Deus inspiram a arte — desenhar animais é celebrar a criação.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 25.1 | **Animais e personagens**          | Reconhecer os animais como criaturas de Deus que inspiram o desenho. |
-| 25.2 | **O sol que sorri para mim**       | Expressar alegria e gratidão pela criação por meio de imagens luminosas. |
-| 25.3 | **Criando um bicho inventado**     | Exercitar a imaginação criativa como dom que imita o Criador. |
-
-**Conceitos da semana:** Criatura, Alegria, Invenção
+**Conceitos da semana**, As cores e as emoções, Cores que acalmam e agitam, Cores quentes e frias
 
 ---
 
-## 📘 Semana 26 – **Meu Mundo em Desenho**
+## Semana 13 - A cor e a música
 
-**Tema central:** O desenho é espelho da vida — o aluno desenha o mundo que Deus lhe deu para habitar.
+**Tema central**, A cor e a música. A aula 13.1 apresenta o coração do tema. As aulas 13.2 e 13.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 26.1 | **Meu mundo em desenho**           | Representar o próprio mundo como exercício de observação e gratidão. |
-| 26.2 | **Desenhando minha casa**          | Registrar o lar como lugar de segurança e providência divina. |
-| 26.3 | **Meu cantinho favorito**          | Expressar afeto e memória por meio do desenho contemplativo. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 13.1 | A cor e a música | Apresentar a cor e a música como coração da semana e eixo da definição. |
+| 13.2 | A cor que acompanha o som | Reconhecer a cor que acompanha o som como primeiro desdobramento do tema principal. |
+| 13.3 | A cor que expressa sentimento | Praticar a cor que expressa sentimento como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Lar, Memória, Contemplação
-
----
-
-## 📙 Semana 27 – **Lugares e Histórias**
-
-**Tema central:** Os lugares que habitamos contam histórias — a arte registra e eterniza a memória.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 27.1 | **Lugares e histórias**            | Compreender que cada lugar carrega uma história e uma narrativa visual. |
-| 27.2 | **A igreja com torres altas**      | Reconhecer a arquitetura sacra como expressão de adoração e reverência a Deus. |
-| 27.3 | **Um parquinho colorido**          | Representar espaços de alegria e convívio como dom da vida em comunidade. |
-
-**Conceitos da semana:** Lugar, Arquitetura, Comunidade
+**Conceitos da semana**, A cor e a música, A cor que acompanha o som, A cor que expressa sentimento
 
 ---
 
-## 📕 Semana 28 – **Histórias que Inspiram**
+## Semana 14 - As cores do dia e da noite
 
-**Tema central:** As narrativas bíblicas são fonte inesgotável de beleza e inspiração para a arte cristã.
+**Tema central**, As cores do dia e da noite. A aula 14.1 apresenta o coração do tema. As aulas 14.2 e 14.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 28.1 | **Histórias que inspiram**         | Entender que as histórias bíblicas são matéria-prima para a arte redimida. |
-| 28.2 | **A arca com muitos animais**      | Representar a narrativa de Noé como símbolo de cuidado e providência divina. |
-| 28.3 | **O jardim da criação**            | Ilustrar o Éden como a primeira obra de arte de Deus, modelo de beleza e harmonia. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 14.1 | As cores do dia e da noite | Apresentar as cores do dia e da noite como coração da semana e eixo da definição. |
+| 14.2 | As cores da luz do sol | Reconhecer as cores da luz do sol como primeiro desdobramento do tema principal. |
+| 14.3 | As cores da noite | Praticar as cores da noite como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Narrativa, Arca, Jardim
-
----
-
-## 29ª Semana: Revisão
----
-
-## 30ª Semana: Provas
----
-
-## 📗 Semana 31 – **Céu e Esperança**
-
-**Tema central:** O céu é o destino do cristão — a arte expressa o anseio pela glória vindoura.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 31.1 | **Céu e esperança**                | Compreender o céu como promessa de Deus e tema de beleza na arte cristã. |
-| 31.2 | **Anjos com tinta e papel**        | Representar seres celestiais como símbolo de louvor e serviço a Deus. |
-| 31.3 | **Minha visão do céu**             | Expressar esperança e fé por meio de uma composição visual pessoal. |
-
-**Conceitos da semana:** Céu, Anjo, Esperança
+**Conceitos da semana**, As cores do dia e da noite, As cores da luz do sol, As cores da noite
 
 ---
 
-## 📘 Semana 32 – **Criação: Dias de Deus (Parte 1)**
+## Semana 15 - A textura na arte
 
-**Tema central:** Os primeiros dias da criação revelam a sabedoria e a ordem do Criador.
+**Tema central**, A textura na arte. A aula 13.1 apresenta o coração do tema. As aulas 13.2 e 13.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 32.1 | **Criação: dias de Deus**          | Reconhecer os dias da criação como relato de ordem, beleza e poder divino. |
-| 32.2 | **Dia 1 — Luz e trevas**           | Representar a separação entre luz e trevas como o primeiro ato de forma e contraste. |
-| 32.3 | **Dia 2 — Céus e águas**           | Ilustrar a expansão do firmamento e a separação das águas como arte e ordem. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 13.1 | A textura na arte | Apresentar a textura na arte como coração da semana e eixo da definição. |
+| 13.2 | Texturas lisas e ásperas | Reconhecer texturas lisas e ásperas como primeiro desdobramento do tema principal. |
+| 13.3 | Texturas da areia e das folhas | Praticar texturas da areia e das folhas como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Criação, Luz, Firmamento
-
----
-
-## 📙 Semana 33 – **Criação: Dias de Deus (Parte 2)**
-
-**Tema central:** Da terra às estrelas, Deus pinta o universo com diversidade e harmonia.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 33.1 | **Dia 3 — Terra e vegetação**      | Representar a terra e as plantas como dom visual e fonte de sustento. |
-| 33.2 | **Dia 4 — Sol, lua e estrelas**    | Ilustrar os luminares como sinais da glória e da fidelidade de Deus. |
-| 33.3 | **Dia 5 — Peixes e aves**          | Celebrar a diversidade de criaturas como testemunho da criatividade divina. |
-
-**Conceitos da semana:** Terra, Luminar, Criatura
+**Conceitos da semana**, A textura na arte, Texturas lisas e ásperas, Texturas da areia e das folhas
 
 ---
 
-## 📕 Semana 34 – **Criação: Dias de Deus (Parte 3)**
+## Semana 16 - A textura e o sentimento
 
-**Tema central:** O ápice da criação é o homem — imagem do Criador, feito para servir e adorar.
+**Tema central**, A textura e o sentimento. A aula 14.1 apresenta o coração do tema. As aulas 14.2 e 14.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 34.1 | **Dia 6 — Animais e o ser humano** | Reconhecer o homem como coroa da criação, feito à imagem e semelhança de Deus. |
-| 34.2 | **Dia 7 — O dia de Deus**          | Entender o descanso como parte da ordem divina e convite à contemplação. |
-| 34.3 | **Montagem do painel completo**    | Integrar todos os dias da criação em um painel visual como ato de louvor a Deus. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 14.1 | A textura e o sentimento | Apresentar a textura e o sentimento como coração da semana e eixo da definição. |
+| 14.2 | A textura feita com massa | Reconhecer a textura feita com massa como primeiro desdobramento do tema principal. |
+| 14.3 | A textura feita com elementos naturais | Praticar a textura feita com elementos naturais como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Imagem, Descanso, Louvor
-
----
-
-## 📗 Semana 35 – **Arte e Música Caminham Juntas**
-
-**Tema central:** Cor e som são linguagens irmãs — ambas nascem do coração do Criador.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 35.1 | **Arte e música caminham juntas**  | Compreender que artes visuais e musicais se complementam como expressão do Criador. |
-| 35.2 | **Música que cria cores**          | Experimentar a música como inspiração para a escolha de cores e formas. |
-| 35.3 | **O som que dança com o pincel**   | Conectar gesto, ritmo e pincelada como ato criativo integrado. |
-
-**Conceitos da semana:** Música, Ritmo, Integração
+**Conceitos da semana**, A textura e o sentimento, A textura feita com massa, A textura feita com elementos naturais
 
 ---
 
-## 📘 Semana 36 – **A Imagem que a Música Revela**
+## Semana 17 - O espaço no papel
 
-**Tema central:** A música abre os olhos da alma — o artista cristão escuta para criar com verdade.
+**Tema central**, O espaço no papel. A aula 15.1 apresenta o coração do tema. As aulas 15.2 e 15.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 36.1 | **A imagem que a música revela**   | Reconhecer que a música pode inspirar imagens e revelar sentimentos invisíveis. |
-| 36.2 | **Escutar com os olhos**           | Desenvolver a percepção sinestésica como habilidade artística e contemplativa. |
-| 36.3 | **Minha música favorita em imagem**| Traduzir uma experiência musical em composição visual pessoal. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 15.1 | O espaço no papel | Apresentar o espaço no papel como coração da semana e eixo da definição. |
+| 15.2 | O fundo, a borda e o centro | Reconhecer o fundo, a borda e o centro como primeiro desdobramento do tema principal. |
+| 15.3 | O grande e o pequeno | Praticar o grande e o pequeno como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Escuta, Percepção, Tradução
-
----
-
-## 📙 Semana 37 – **Obras que Encantam**
-
-**Tema central:** Grandes artistas nos ensinam a ver — contemplar suas obras é escola de beleza.
-
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 37.1 | **Obras que encantam**             | Compreender que observar grandes obras é exercício de aprendizado e admiração. |
-| 37.2 | **Van Gogh e os girassóis**        | Estudar a obra de Van Gogh como exemplo de cor, emoção e busca por beleza. |
-| 37.3 | **Paul Klee e as cores da alegria**| Reconhecer em Klee a união entre forma, cor e imaginação infantil. |
-
-**Conceitos da semana:** Obra, Artista, Encantamento
+**Conceitos da semana**, O espaço no papel, O fundo, a borda e o centro, O grande e o pequeno
 
 ---
 
-## 📕 Semana 38 – **Observar com o Coração**
+## Semana 18 - O espaço cheio e vazio
 
-**Tema central:** A arte ensina a ver além do visível — contemplar é ato de adoração e gratidão.
+**Tema central**, O espaço cheio e vazio. A aula 16.1 apresenta o coração do tema. As aulas 16.2 e 16.3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                             | Objetivo Teológico-Pedagógico                                      |
-| ---- | ---------------------------------- | ------------------------------------------------------------------ |
-| 38.1 | **Observar com o coração**         | Desenvolver o olhar contemplativo como resposta de fé à beleza do mundo. |
-| 38.2 | **Ver detalhes no quadro**         | Treinar a observação atenta como habilidade artística e espiritual. |
-| 38.3 | **A obra que me tocou**            | Expressar a experiência pessoal diante de uma obra como testemunho de sensibilidade. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 16.1 | O espaço cheio e vazio | Apresentar o espaço cheio e vazio como coração da semana e eixo da definição. |
+| 16.2 | O espaço com respiro | Reconhecer o espaço com respiro como primeiro desdobramento do tema principal. |
+| 16.3 | O espaço da cidade no papel | Praticar o espaço da cidade no papel como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** Observação, Detalhe, Sensibilidade
+**Conceitos da semana**, O espaço cheio e vazio, O espaço com respiro, O espaço da cidade no papel
 
 ---
 
-## 39ª Semana: Revisão
+## Semana 19 - Revisão
+
+Retome os temas do bloco anterior. Verifique memorização, percepção visual e narração oral.
+
 ---
 
-## 40ª Semana: Provas
+## Semana 20 - Prova
+
+Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
+
+---
+
+## Semana 21 - A direção no olhar
+
+**Tema central**, A direção no olhar. A aula 17.1 apresenta o coração do tema. As aulas 17.2 e 17.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 17.1 | A direção no olhar | Apresentar a direção no olhar como coração da semana e eixo da definição. |
+| 17.2 | A seta que guia | Reconhecer a seta que guia como primeiro desdobramento do tema principal. |
+| 17.3 | O caminho feito com pincel | Praticar o caminho feito com pincel como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A direção no olhar, A seta que guia, O caminho feito com pincel
+
+---
+
+## Semana 22 - O equilíbrio na arte
+
+**Tema central**, O equilíbrio na arte. A aula 18.1 apresenta o coração do tema. As aulas 18.2 e 18.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 18.1 | O equilíbrio na arte | Apresentar o equilíbrio na arte como coração da semana e eixo da definição. |
+| 18.2 | O equilíbrio da dobradura | Reconhecer o equilíbrio da dobradura como primeiro desdobramento do tema principal. |
+| 18.3 | O equilíbrio da simetria | Praticar o equilíbrio da simetria como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, O equilíbrio na arte, O equilíbrio da dobradura, O equilíbrio da simetria
+
+---
+
+## Semana 23 - A obra com os elementos da arte
+
+**Tema central**, A obra com os elementos da arte. A aula 19.1 apresenta o coração do tema. As aulas 19.2 e 19.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 19.1 | A obra com os elementos da arte | Apresentar a obra com os elementos da arte como coração da semana e eixo da definição. |
+| 19.2 | Quadro com formas e cores | Reconhecer quadro com formas e cores como primeiro desdobramento do tema principal. |
+| 19.3 | bra com ponto, linha e espaço | Praticar bra com ponto, linha e espaço como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A obra com os elementos da arte, Quadro com formas e cores, bra com ponto, linha e espaço
+
+---
+
+## Semana 24 - O desenho com formas simples
+
+**Tema central**, O desenho com formas simples. A aula 20.1 apresenta o coração do tema. As aulas 20.2 e 20.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 20.1 | O desenho com formas simples | Apresentar o desenho com formas simples como coração da semana e eixo da definição. |
+| 20.2 | O círculo que vira gato | Reconhecer o círculo que vira gato como primeiro desdobramento do tema principal. |
+| 20.3 | O triângulo e o quadrado na casa | Praticar o triângulo e o quadrado na casa como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, O desenho com formas simples, O círculo que vira gato, O triângulo e o quadrado na casa
+
+---
+
+## Semana 25 - Os animais e personagens
+
+**Tema central**, Os animais e personagens. A aula 21.1 apresenta o coração do tema. As aulas 21.2 e 21.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 21.1 | Os animais e personagens | Apresentar os animais e personagens como coração da semana e eixo da definição. |
+| 21.2 | O sol como personagem | Reconhecer o sol como personagem como primeiro desdobramento do tema principal. |
+| 21.3 | O bicho inventado | Praticar o bicho inventado como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, Os animais e personagens, O sol como personagem, O bicho inventado
+
+---
+
+## Semana 26 - O meu mundo em desenho
+
+**Tema central**, O meu mundo em desenho. A aula 22.1 apresenta o coração do tema. As aulas 22.2 e 22.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 22.1 | O meu mundo em desenho | Apresentar o meu mundo em desenho como coração da semana e eixo da definição. |
+| 22.2 | A minha casa no desenho | Reconhecer a minha casa no desenho como primeiro desdobramento do tema principal. |
+| 22.3 | O meu cantinho favorito | Praticar o meu cantinho favorito como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, O meu mundo em desenho, A minha casa no desenho, O meu cantinho favorito
+
+---
+
+## Semana 27 - Os lugares e histórias
+
+**Tema central**, Os lugares e histórias. A aula 23.1 apresenta o coração do tema. As aulas 23.2 e 23.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 23.1 | Os lugares e histórias | Apresentar os lugares e histórias como coração da semana e eixo da definição. |
+| 23.2 | A igreja com torres | Reconhecer a igreja com torres como primeiro desdobramento do tema principal. |
+| 23.3 | O parquinho colorido | Praticar o parquinho colorido como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, Os lugares e histórias, A igreja com torres, O parquinho colorido
+
+---
+
+## Semana 28 - As histórias que inspiram a arte
+
+**Tema central**, As histórias que inspiram a arte. A aula 24.1 apresenta o coração do tema. As aulas 24.2 e 24.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 24.1 | As histórias que inspiram a arte | Apresentar as histórias que inspiram a arte como coração da semana e eixo da definição. |
+| 24.2 | A arca com muitos animais | Reconhecer a arca com muitos animais como primeiro desdobramento do tema principal. |
+| 24.3 | O jardim da criação | Praticar o jardim da criação como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, As histórias que inspiram a arte, A arca com muitos animais, O jardim da criação
+
+---
+
+## Semana 29 - Revisão
+
+Retome os temas do bloco anterior. Verifique memorização, percepção visual e narração oral.
+
+---
+
+## Semana 30 - Provas
+
+Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
+
+---
+
+## Semana 31 - O céu e a esperança
+
+**Tema central**, O céu e a esperança. A aula 25.1 apresenta o coração do tema. As aulas 25.2 e 25.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 25.1 | O céu e a esperança | Apresentar o céu e a esperança como coração da semana e eixo da definição. |
+| 25.2 | Os anjos com tinta e papel | Reconhecer os anjos com tinta e papel como primeiro desdobramento do tema principal. |
+| 25.3 | A visão do céu | Praticar a visão do céu como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, O céu e a esperança, Os anjos com tinta e papel, A visão do céu
+
+---
+
+## Semana 32 - A criação da luz, dos céus e das águas
+
+**Tema central**, A criação da luz, dos céus e das águas. A aula 26.1 apresenta o coração do tema. As aulas 26.2 e 26.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 26.1 | A criação da luz, dos céus e das águas | Apresentar a criação da luz, dos céus e das águas como coração da semana e eixo da definição. |
+| 26.2 | A luz e as trevas | Reconhecer a luz e as trevas como primeiro desdobramento do tema principal. |
+| 26.3 | Os céus e as águas | Praticar os céus e as águas como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A criação da luz, dos céus e das águas, A luz e as trevas, Os céus e as águas
+
+---
+
+## Semana 33 - A criação da terra, dos luminares e dos seres vivos
+
+**Tema central**, A criação da terra, dos luminares e dos seres vivos. A aula 27.1 apresenta o coração do tema. As aulas 27.2 e 27.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 27.1 | A criação da terra, dos luminares e dos seres vivos | Apresentar a criação da terra, dos luminares e dos seres vivos como coração da semana e eixo da definição. |
+| 27.2 | A terra, o sol, a lua e as estrelas | Reconhecer a terra, o sol, a lua e as estrelas como primeiro desdobramento do tema principal. |
+| 27.3 | Os peixes e as aves | Praticar os peixes e as aves como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A criação da terra, dos luminares e dos seres vivos, A terra, o sol, a lua e as estrelas, Os peixes e as aves
+
+---
+
+## Semana 34 - A criação dos animais, do homem e do descanso
+
+**Tema central**, A criação dos animais, do homem e do descanso. A aula 28.1 apresenta o coração do tema. As aulas 28.2 e 28.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 28.1 | A criação dos animais, do homem e do descanso | Apresentar a criação dos animais, do homem e do descanso como coração da semana e eixo da definição. |
+| 28.2 | Os animais e o ser humano | Reconhecer os animais e o ser humano como primeiro desdobramento do tema principal. |
+| 28.3 | O dia de Deus e o painel completo | Praticar o dia de Deus e o painel completo como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A criação dos animais, do homem e do descanso, Os animais e o ser humano, O dia de Deus e o painel completo
+
+---
+
+## Semana 35 - A arte e a música
+
+**Tema central**, A arte e a música. A aula 29.1 apresenta o coração do tema. As aulas 29.2 e 29.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 29.1 | A arte e a música | Apresentar a arte e a música como coração da semana e eixo da definição. |
+| 29.2 | A música que cria cores | Reconhecer a música que cria cores como primeiro desdobramento do tema principal. |
+| 29.3 | O som que dança com o pincel | Praticar o som que dança com o pincel como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A arte e a música, A música que cria cores, O som que dança com o pincel
+
+---
+
+## Semana 36 - A imagem que a música revela
+
+**Tema central**, A imagem que a música revela. A aula 30.1 apresenta o coração do tema. As aulas 30.2 e 30.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 30.1 | A imagem que a música revela | Apresentar a imagem que a música revela como coração da semana e eixo da definição. |
+| 30.2 | Os olhos que escutam | Reconhecer os olhos que escutam como primeiro desdobramento do tema principal. |
+| 30.3 | A música favorita em imagem | Praticar a música favorita em imagem como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A imagem que a música revela, Os olhos que escutam, A música favorita em imagem
+
+---
+
+## Semana 37 - As obras que encantam
+
+**Tema central**, As obras que encantam. A aula 31.1 apresenta o coração do tema. As aulas 31.2 e 31.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 31.1 | As obras que encantam | Apresentar as obras que encantam como coração da semana e eixo da definição. |
+| 31.2 | Van Gogh e os girassóis | Reconhecer van Gogh e os girassóis como primeiro desdobramento do tema principal. |
+| 31.3 | Paul Klee e as cores da alegria | Praticar paul Klee e as cores da alegria como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, As obras que encantam, Van Gogh e os girassóis, Paul Klee e as cores da alegria
+
+---
+
+## Semana 38 - A observação com o coração
+
+**Tema central**, A observação com o coração. A aula 32.1 apresenta o coração do tema. As aulas 32.2 e 32.3 desenvolvem seus dois desdobramentos.
+
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 32.1 | A observação com o coração | Apresentar a observação com o coração como coração da semana e eixo da definição. |
+| 32.2 | Os detalhes no quadro | Reconhecer os detalhes no quadro como primeiro desdobramento do tema principal. |
+| 32.3 | A obra que tocou o coração | Praticar a obra que tocou o coração como segundo desdobramento do tema principal. |
+
+**Conceitos da semana**, A observação com o coração, Os detalhes no quadro, A obra que tocou o coração
+
+---
+
+## Semana 39 - Revisão
+
+Retome os temas do bloco anterior. Verifique memorização, percepção visual e narração oral.
+
+---
+
+## Semana 40 - Provas
+
+Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
+
 ---

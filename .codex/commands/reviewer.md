@@ -69,7 +69,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
 - [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
-- [ ] Definição curta no cabeçalho do Definir = texto do Accordion após `[MP3\]` = Recordar, capitalização idêntica
+- [ ] Definição curta no cabeçalho do Definir = Recordar, capitalização idêntica
 - [ ] Praticar usa a mesma definição curta com lacunas, sem trocar palavras fora das lacunas
 
 ---
@@ -82,7 +82,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Accordion: pergunta "O que é [Termo]?"
 - [ ] Accordion sem `@link_png@` e sem reflexão
 - [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` sem repetir o termo da pergunta
-- [ ] Accordion: texto após `[MP3\]` repete literalmente a definição curta completa do Recordar
+- [ ] Accordion: texto após `[MP3\]` é IDÊNTICO ao áudio, sem repetir o termo da pergunta
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
@@ -159,7 +159,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 |-------|-------------|
 | Cabeçalho do Definir, primeira linha em negrito | ✅ |
 | Accordion — áudio MP3 | ✅ sem repetir o termo da pergunta |
-| Accordion — texto repetido após MP3 | ✅ definição completa e literal |
+| Accordion — texto repetido após MP3 | ✅ idêntico ao áudio, sem o termo da pergunta |
 | Recordar — Statement_D | ✅ (versão curta) |
 | Praticar — Fill_In | ✅ (com lacunas) |
 

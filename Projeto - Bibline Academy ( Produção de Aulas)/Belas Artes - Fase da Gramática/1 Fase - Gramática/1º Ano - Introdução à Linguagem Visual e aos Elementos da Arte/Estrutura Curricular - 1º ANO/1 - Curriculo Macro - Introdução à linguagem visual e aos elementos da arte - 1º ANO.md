@@ -6,8 +6,7 @@
 
 - 1.1 A arte e a expressão
 - 1.2 A arte e a beleza
-- 1.3 A arte e a habilidade humana
-
+- 1.3 A arte e a habilidade
 ## Semana 2 - A arte nos lugares da vida
 
 - 2.1 A arte nos lugares da vida
@@ -29,7 +28,7 @@
 ## Semana 5 - A linha no desenho
 
 - 5.1 A linha no desenho
-- 5.2 As linhas retas 
+- 5.2 As linhas retas
 - 5.3 As linhas curvas
 
 ## Semana 6 - A linha como caminho
@@ -48,11 +47,11 @@
 
 - 8.1 As formas na natureza
 - 8.2 As formas em bichos
-- 8.3 As formas em figuras 
+- 8.3 As formas em figuras
 
-9	Revisão
-	
-10	Prova
+9 Revisão
+
+10 Prova
 
 ## Semana 11 - As cores primárias
 
@@ -103,13 +102,13 @@
 - 16.3 O espaço da cidade no papel
 
 19	Revisão
-	
+
 20	Prova
 
 ## Semana 21 - A direção no olhar
 
 - 17.1 A direção no olhar
-- 17.2 A seta que guia 
+- 17.2 A seta que guia
 - 17.3 O caminho feito com pincel
 
 ## Semana 22 - O equilíbrio na arte
@@ -155,7 +154,7 @@
 - 24.3 O jardim da criação
 
 29	Revisão
-	
+
 30	Provas
 
 ## Semana 31 - O céu e a esperança
@@ -207,5 +206,5 @@
 - 32.3 A obra que tocou o coração
 
 39	Revisão
-	
+
 40	Provas

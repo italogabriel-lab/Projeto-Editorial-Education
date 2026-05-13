@@ -75,13 +75,13 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 ### Definir (Nomear)
 - ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO. (sem limites longos).
 - Bloco deve ter quebras de linha limpas. NUNCA misture tudo num blocão.
-- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do texto do Accordion após `[MP3\]` e do Statement_D.
+- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D.
 - Depois da definição, deixar uma linha em branco.
 - Frase 1: "Reconheça que..." + contexto principal.
 - Frase 2: "Observe que..." + argumento/reflexão secundária.
 - Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, definição de áudio sem repetir o termo da pergunta e definição curta completa repetida no texto após `[MP3\]`.
+- Accordion: pergunta, definição de áudio sem repetir o termo da pergunta e texto após `[MP3\]` literalmente idêntico ao áudio.
 - Exemplo: pergunta `O que é psicologia?`, áudio `é o que representa o mundo interior das pessoas.`, texto `Psicologia na arte representa o mundo interior das pessoas.`
 - Não incluir `@link_png@` nem reflexão dentro do Accordion do Definir.
 
@@ -98,14 +98,14 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e do Accordion
+- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir
 - A rima ou música DEVE mencionar o conceito definido — não pode ser genérica
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
 - Definição do Recordar com `_____` nas lacunas — a criança completa o conceito central
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
-- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir, do Accordion e do Recordar
+- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
 - Atividade extra com instrução de atividade prática relacionada ao conceito central no imperativo
 - Não usar `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)

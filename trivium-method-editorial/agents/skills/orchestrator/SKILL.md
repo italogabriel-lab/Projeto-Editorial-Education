@@ -49,6 +49,8 @@ Use esta tabela de roteamento para direcionar o usuário:
 
 | Demanda do Usuário | Skill/Workflow | Invocação |
 |---|---|---|
+| Adequar lista de temas ao novo padrão semanal | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
+| Reorganizar Currículo Macro em tema central e dois desdobramentos | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
 | Criar uma aula nova | `workflows/produce_class.md` | "Crie a aula X.X, Nº ano" |
 | Criar aula de revisão (X.4) | `skills/review-builder/SKILL.md` | "Crie a revisão da semana X" |
 | Criar revisão bimestral | `skills/bimester-review-builder/SKILL.md` | "Crie a revisão do bimestre N" |
@@ -73,7 +75,7 @@ Use esta tabela de roteamento para direcionar o usuário:
 Quando solicitado ou quando detectar risco, verifique:
 
 1. **Títulos (H1)** das aulas batem com o Currículo Macro?
-2. **Definições curtas** são idênticas no cabeçalho do Definir, no texto do Accordion após `[MP3\]`, no Recordar e na Revisão (X.4)? O áudio do Accordion remove o termo da pergunta?
+2. **Definições curtas** são idênticas no cabeçalho do Definir, no Recordar e na Revisão (X.4)? O áudio do Accordion remove o termo da pergunta, e o texto após `[MP3\]` é idêntico ao áudio?
 3. **Seção Perceber** das aulas base bate com a Revisão correspondente?
 4. **Links de imagens** estão atualizados no arquivo `4 - Links-para-imagens-perceber`?
 

@@ -11,7 +11,7 @@ Este é o **primeiro contato da criança com o tema da aula**. O conceito defini
 
 **[Definição curta do Recordar, EXATAMENTE a mesma frase.]**
 
-Reconheça que [contexto principal do tema]. Observe que [argumento secundário ou dado concreto].
+[Contexto principal do tema, em prosa direta, sem "Reconheça que". Argumento secundário ou dado concreto, sem "Observe que".]
 
 Veja o vídeo abaixo.
 
@@ -32,11 +32,11 @@ Leia a definição e ouça o áudio.
 O que é [TERMO]?
 
 [MP3/]
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 [Definição curta sem repetir o termo da pergunta.]
 [MP3\]
 
-[Definição curta do Recordar, EXATAMENTE a mesma frase.]
+[Definição curta sem repetir o termo da pergunta.]
 
 [-ACCORDION]
 ```
@@ -46,10 +46,9 @@ O que é [TERMO]?
 - O TERMO deve ser inédito no Currículo Macro do ano.
 - A definição curta do Recordar é a fonte textual da aula.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
-- A definição curta deve aparecer literalmente no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Statement_D do Recordar.
-- O áudio do Accordion deve remover o termo que já aparece na pergunta.
-- Exemplo, pergunta `O que é psicologia?`, áudio `é o que representa o mundo interior das pessoas.`, texto `Psicologia na arte representa o mundo interior das pessoas.`
-- O Praticar usa a mesma definição curta com lacunas.
-- O Accordion deve conter apenas a pergunta, o MP3 sem termo repetido e a repetição literal da definição curta completa no texto.
+- A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
+- No Accordion, o áudio e o texto após `[MP3\]` são IDÊNTICOS entre si e NÃO repetem o termo da pergunta.
+- Exemplo: pergunta `O que é gravura?`, áudio `Reproduz imagens por matriz gravada.`, texto `Reproduz imagens por matriz gravada.`
+- O Accordion deve conter apenas a pergunta, o MP3 e o texto idêntico ao áudio.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

@@ -1,7 +1,45 @@
 {
   "permissions": {
     "allow": [
-      "Bash(sleep *)"
+      "Bash(sleep *)",
+      "Bash(node *)",
+      "Bash(opencode *)",
+      "Bash(cat *)",
+      "Bash(ps *)",
+      "Bash(grep *)",
+      "Bash(npm *)",
+      "Bash(file *)",
+      "Bash(ls *)",
+      "Bash(lsof *)",
+      "Bash(timeout *)",
+      "Bash(chmod *)",
+      "Bash(/home/italo.gabriel/documents/developer/projeto-editorial-education/opencode-fix.sh)",
+      "Bash(pkill *)",
+      "Bash(nohup *)",
+      "Bash(/home/italo.gabriel/.nvm/versions/node/v24.14.1/lib/node_modules/opencode-ai/bin/.opencode *)",
+      "Bash(echo *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(git commit *)",
+      "Bash(curl *)",
+      "Bash(git add *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(find *)",
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Bash(xdg-open *)",
+      "Bash(git stash)",
+      "Bash(git stash *)",
+      "Bash(gh *)",
+      "Bash(rm *)",
+      "Bash(sed *)",
+      "Bash(python3 *)",
+      "Bash(jq *)",
+      "WebFetch(italogabriel-lab.github.io)"
     ]
-  }
+  },
+  "$version": 3
 }

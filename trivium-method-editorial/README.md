@@ -7,8 +7,9 @@ Framework de agentes especializados para produção de conteúdo didático crist
 ```
 trivium-method-editorial/
 ├── agents/
-│   └── skills/              # 21 skills especializadas
+│   └── skills/              # Skills especializadas
 │       ├── orchestrator/    # Diretor editorial
+│       ├── curriculum-macro-adapter/ # Adequação de grades curriculares
 │       ├── researcher/      # Pesquisa (Etapa 1)
 │       ├── writer/          # Redação (Etapa 2)
 │       ├── standardizer/    # Rise Blocks (Etapa 3)
@@ -62,6 +63,7 @@ Todas as skills estão disponíveis como slash commands:
 
 ```
 /orchestrator          # Diagnóstico e delegação
+/curriculum-macro-adapter # Adequação de grade curricular
 /researcher            # Pesquisa (Etapa 1)
 /writer                # Redação (Etapa 2)
 /standardizer          # Formatação Rise Blocks (Etapa 3)

@@ -94,9 +94,9 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - Definição → `[+ACCORDION]`:
   - Pergunta: "O que é [Termo]?"
   - `[MP3/]` `#XAI:rex` definição curta sem repetir o termo da pergunta `[MP3\]`
-  - Definição curta completa do Recordar repetida no texto após `[MP3\]`.
-- **CRÍTICO**: o áudio do Accordion NÃO deve começar repetindo o termo da pergunta.
-- **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Recordar.
+  - Texto após `[MP3\]` IDÊNTICO ao áudio, sem repetir o termo da pergunta.
+- **CRÍTICO**: o áudio do Accordion e o texto após `[MP3\]` NÃO repetem o termo da pergunta e são IDÊNTICOS entre si.
+- **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir e no Recordar.
 - **CRÍTICO**: NÃO colocar `@link_png@` nem reflexão dentro do Accordion do Definir.
 
 ### 2. Perceber
@@ -113,7 +113,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `## Recordar` (H2)
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (9-10 palavras)
-- **CRÍTICO**: Definição IDÊNTICA à do cabeçalho do Definir e à do Accordion
+- **CRÍTICO**: Definição IDÊNTICA à do cabeçalho do Definir
 - Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
 - `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@`, nome da música
 
@@ -124,7 +124,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+FILL_IN]`: definição do Recordar com `_____` (5 underscores), respostas na linha seguinte
 - `[+HEADING] Atividade 2 [-HEADING]`
 - **OBRIGATÓRIO**: `[+MULTIPLE]` entre o Fill_In e a Atividade Extra
-- No `[+MULTIPLE]`, a resposta correta é a definição curta completa, literalmente idêntica ao Definir, Accordion e Recordar
+- No `[+MULTIPLE]`, a resposta correta é a definição curta completa, literalmente idêntica ao Definir e Recordar
 - `[+HEADING] Atividade Extra [-HEADING]`
 - `[+PARAGRAPH]` com texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
 - `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa prática no imperativo

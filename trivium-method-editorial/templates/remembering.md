@@ -2,7 +2,7 @@
 
 ## Princípio pedagógico
 
-Este é o **terceiro contato da criança com o tema da aula**, agora pela via auditiva e mnemônica. A definição curta é a frase literal que abre o Definir, aparece completa no texto do Accordion e aparece completa no Statement_D. A rima ou música reembala a mesma ideia em ritmo para facilitar a memorização. A criança deve sair deste hábito conseguindo repetir a definição de cor.
+Este é o **terceiro contato da criança com o tema da aula**, agora pela via auditiva e mnemônica. A definição curta é a frase literal que abre o Definir e aparece completa no Statement_D. No Accordion, o MP3 e o texto visível usam a mesma versão sem repetir o termo da pergunta. A rima ou música reembala a mesma ideia em ritmo para facilitar a memorização. A criança deve sair deste hábito conseguindo repetir a definição de cor.
 
 ## Estrutura obrigatória
 
@@ -14,8 +14,8 @@ Ouça e repita a definição abaixo.
 [+STATEMENT_D]
 
 [MP3/]
-#XAI:rex
-[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma do cabeçalho do Definir e do texto do Accordion após MP3]
+#FSH:0b12d715e4c741399594fccb12d4bbe2
+[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma do cabeçalho do Definir]
 [MP3\]
 
 [Definição CURTA — mesma frase]
@@ -59,7 +59,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [TEMA].
 [+STATEMENT_A]
 
 [MP3/]
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 *[Título da rima]*
 
@@ -82,7 +82,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [TEMA].
 
 ## Regras
 
-- A definição do Statement_D é IDÊNTICA ao cabeçalho do Definir e ao texto do Accordion após `[MP3\]`, versão curta de 9-10 palavras.
+- A definição do Statement_D é IDÊNTICA ao cabeçalho do Definir, versão curta de 9-10 palavras.
 - A rima ou música DEVE mencionar o conceito definido no Definir — não pode ser genérica.
 - A rima deve conter a palavra-chave do conceito pelo menos uma vez.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

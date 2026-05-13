@@ -63,7 +63,7 @@ Estrutura: `[Base]/Estrutura Curricular/`
 4. **Aplicar capitalização padrão europeu** conforme `editorial-squad/skills/capitalizer/SKILL.md`
 5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
 6. Remover metadados, emojis de seção, separadores `---`
-7. Verificar definição curta literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Recordar, inclusive capitalização. O áudio do Accordion não repete o termo da pergunta
+7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o áudio e o texto após `[MP3\]` são idênticos entre si e não repetem o termo da pergunta
 8. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
 9. **Output**: aula formatada com Rise Blocks
 

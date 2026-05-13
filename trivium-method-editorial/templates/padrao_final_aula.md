@@ -19,7 +19,7 @@ Cada aula ensina **1 conceito central** (o TERMO definido no Definir). Os 5 háb
 
 **Regra de ouro**: se um hábito não reforça o conceito central do Definir, ele está errado.
 
-**Regra da definição curta**: a frase curta do Recordar é a fonte textual obrigatória da aula. Ela deve abrir o hábito Definir em negrito, aparecer completa no texto do Accordion após `[MP3\]` e aparecer completa no Statement_D do Recordar. O áudio do Accordion NÃO repete o termo, pois o termo já aparece na pergunta. O Praticar usa a mesma frase com lacunas.
+**Regra da definição curta**: a frase curta do Recordar é a fonte textual obrigatória da aula. Ela deve abrir o hábito Definir em negrito e aparecer completa no Statement_D do Recordar e no Praticar com lacunas. No Accordion, o áudio e o texto após `[MP3\]` são IDÊNTICOS entre si e NÃO repetem o termo da pergunta, pois o termo já aparece na pergunta.
 
 ---
 
@@ -34,7 +34,7 @@ Cada aula ensina **1 conceito central** (o TERMO definido no Definir). Os 5 háb
 
 **[Definição curta do Recordar, EXATAMENTE a mesma frase.]**
 
-[Frase começando com 'Reconheça que...' e o contexto principal. Frase começando com 'Observe que...' e um argumento extra. As duas frases ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
+[Duas frases em prosa direta, sem "Reconheça que" nem "Observe que". A primeira apresenta o contexto principal do tema. A segunda traz um argumento extra ou dado concreto. As duas ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
 
 Veja o vídeo abaixo.
 
@@ -60,13 +60,13 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
-[Definição curta sem repetir o termo da pergunta, ex: "é o que representa o mundo interior das pessoas."]
+[Definição curta sem repetir o termo da pergunta.]
 
 [MP3\]
 
-[Definição curta do Recordar, EXATAMENTE a mesma frase.]
+[Definição curta sem repetir o termo da pergunta.]
 
 [-ACCORDION]
 
@@ -112,9 +112,9 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
-[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma frase usada no cabeçalho do Definir e no Accordion]
+[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma frase usada no cabeçalho do Definir]
 
 [MP3\]
 
@@ -164,7 +164,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula].
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 *[Título da rima]*
 
@@ -320,7 +320,7 @@ Responda oralmente às perguntas abaixo sobre o texto.
 3. **Sem separadores `---`** entre seções.
 4. **Título** começa com `#` seguido do nome criativo da aula.
 5. **Seções** são `## Definir`, `## Perceber`, `## Recordar`, `## Praticar`, `## Narrar`.
-6. **Definição literalmente idêntica** — a frase curta do Recordar aparece sem alteração no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Statement_D. O áudio do Accordion usa a mesma definição sem repetir o termo da pergunta. O Praticar usa a mesma frase com `_____`.
+6. **Definição literalmente idêntica** — a frase curta do Recordar aparece sem alteração no cabeçalho do Definir e no Statement_D. Dentro do Accordion, o texto entre `[MP3/]` e `[MP3\]` deve ser literalmente idêntico ao texto após `[MP3\]`, sem repetir o termo da pergunta. O Praticar usa a frase do Recordar com `_____`.
 7. **Recordar** — definição curta de 9-10 palavras.
 8. **Praticar** — manter sempre `[+FILL_IN]`, depois `[+MULTIPLE]`, depois `[+ACTIVITY_WORKSHEET]`.
 9. **Praticar** — Fill In usa a definição do Recordar com `_____`. A múltipla escolha pergunta o significado do termo e traz a definição curta completa como resposta correta.
@@ -331,8 +331,8 @@ Responda oralmente às perguntas abaixo sobre o texto.
 14. **Voz ativa e imperativo** em todas as instruções.
 15. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
 16. **Narrar** — sempre trazer trechos literários/poéticos de autores bíblicos, artistas cristãos, puritanos, poetas ou escritores importantes de cada época, com obra relacionada ao tema da aula.
-17. **Parágrafo inicial do Definir** — iniciar com a definição curta em negrito, literalmente idêntica ao Recordar. Depois, as frases "Reconheça que..." e "Observe que..." ficam na MESMA linha de texto, separadas por ponto e espaço.
-18. **Accordion do Definir** — conter apenas pergunta, MP3 e definição textual. O áudio dentro de `[MP3/]...[MP3\]` NÃO repete o termo da pergunta. O texto após `[MP3\]` repete literalmente a definição curta completa. Não incluir imagem nem reflexão.
+17. **Parágrafo inicial do Definir** — iniciar com a definição curta em negrito, literalmente idêntica ao Recordar. Depois, duas frases em prosa direta, sem "Reconheça que" nem "Observe que", que apresentam o contexto e um argumento extra. As duas ficam na MESMA linha de texto, separadas por ponto e espaço.
+18. **Accordion do Definir** — conter apenas pergunta, MP3 e definição textual. O áudio dentro de `[MP3/]...[MP3\]` e o texto após `[MP3\]` são IDÊNTICOS entre si e NÃO repetem o termo da pergunta. Exemplo: pergunta "O que é gravura?", áudio e texto "Reproduz imagens por matriz gravada." Não incluir imagem nem reflexão.
 19. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
 20. **Perguntas do Narrar** — as 3 perguntas devem ser curtas, diretas e de fácil compreensão. Cada resposta deve aparecer explicitamente no texto lido. As perguntas devem ajudar a criança a narrar com suas palavras o que compreendeu. Proibido usar perguntas abertas, reflexivas, abstratas, inferenciais ou dependentes de contexto prévio.
 21. **Revisões `.4`** — em tabelas e matchings, não repetir o termo no início da definição. Correto: `Imprensa[,] É sistema mecânico que multiplica livros rápida acessivelmente.[,]` e `É sistema mecânico que multiplica livros rápida acessivelmente. [=] Imprensa`. Manter a definição completa somente no `[+STATEMENT_D]`.

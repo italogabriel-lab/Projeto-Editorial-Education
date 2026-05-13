@@ -1,35 +1,35 @@
 # Exemplo de aula
 
-## 📘 disciplina  
-belas artes  
+## 📘 disciplina
+belas artes
 
-## 📗 módulo  
-arte cristã primitiva  
+## 📗 módulo
+arte cristã primitiva
 
-## 📖 base  
-fase da gramática do trivium | cosmovisão cristã reformada  
+## 📖 base
+fase da gramática do trivium | cosmovisão cristã reformada
 
-## 📚 fontes  
-bíblia sagrada | arte cristã primitiva | webster's dictionary 1828  
+## 📚 fontes
+bíblia sagrada | arte cristã primitiva | webster's dictionary 1828
 
-## 👧 faixa etária  
-8 a 12 anos  
+## 👧 faixa etária
+8 a 12 anos
 
-## 🧩 estrutura  
-5 hábitos gramaticais  
+## 🧩 estrutura
+5 hábitos gramaticais
 
 ---
 
 ## 🟥 hábito 1 — definir
 
-### 🎯 objetivo  
+### 🎯 objetivo
 Reconhecer a arte cristã como instrumento de ensino da fé.
 
 [+PARAGRAPH]
 
-Reconheça a arte cristã primitiva como ferramenta de ensino da fé.  
-Observe que a Igreja usou imagens para instruir crianças e novos convertidos.  
-Entenda que a catequese sempre foi uma missão central da Igreja.  
+Reconheça a arte cristã primitiva como ferramenta de ensino da fé.
+Observe que a Igreja usou imagens para instruir crianças e novos convertidos.
+Entenda que a catequese sempre foi uma missão central da Igreja.
 Confirme que a arte serviu como uma Bíblia visual para os que não sabiam ler.
 
 A palavra "Didática" vem do grego didaktikos, que significa "apto a ensinar".
@@ -66,7 +66,7 @@ Função didática é o uso da imagem para ensinar a fé e formar discípulos na
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
 
@@ -82,7 +82,7 @@ Entenda que a Igreja usou todos os meios possíveis para cumprir a Grande Comiss
 
 [+PARAGRAPH]
 
-Leia Salmos 78.3-4 e reconheça o dever de ensinar a próxima geração.  
+Leia Salmos 78.3-4 e reconheça o dever de ensinar a próxima geração.
 Entenda que a arte cristã cumpriu essa missão ao longo dos séculos.
 
 [-PARAGRAPH]
@@ -91,14 +91,14 @@ Entenda que a arte cristã cumpriu essa missão ao longo dos séculos.
 
 ## 🟧 hábito 2 — perceber
 
-### 🎯 objetivo  
+### 🎯 objetivo
 Observar como a arte cristã primitiva ensinou a fé por meio de imagens.
 
 [+PARAGRAPH]
 
-Observe a pintura de Jonas sendo lançado ao mar e depois saindo do grande peixe.  
-Perceba como a sequência visual conta a história sem palavras.  
-Reconheça que essa arte ensinava sobre a morte e ressurreição de Cristo.  
+Observe a pintura de Jonas sendo lançado ao mar e depois saindo do grande peixe.
+Perceba como a sequência visual conta a história sem palavras.
+Reconheça que essa arte ensinava sobre a morte e ressurreição de Cristo.
 Entenda que a arte transformou paredes em salas de aula.
 
 [-PARAGRAPH]
@@ -139,7 +139,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 Função didática é o uso da imagem para ensinar a fé.
 
@@ -247,9 +247,9 @@ Qual é a nossa responsabilidade com o que aprendemos sobre Deus?
 
 ## 📌 síntese final da aula
 
-A arte cristã primitiva ensinou a fé.  
-A imagem formou discípulos sem palavras escritas.  
-A catequese foi e permanece missão da Igreja.  
+A arte cristã primitiva ensinou a fé.
+A imagem formou discípulos sem palavras escritas.
+A catequese foi e permanece missão da Igreja.
 Transmita o que aprendeu à próxima geração.
 
 ---

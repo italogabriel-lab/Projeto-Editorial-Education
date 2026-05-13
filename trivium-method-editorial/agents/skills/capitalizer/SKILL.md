@@ -158,11 +158,11 @@ Aplique este checklist em cada aula antes de aprovar:
 
 ### Consistência entre seções
 - [ ] O mesmo termo usa a mesma capitalização no Definir, Accordion, Recordar, Praticar e Narrar
-- [ ] A definição curta do cabeçalho do Definir, do texto do Accordion após `[MP3\]` e do Recordar é idêntica em capitalização
+- [ ] A definição curta do cabeçalho do Definir e do Recordar é idêntica em capitalização
 - [ ] Nenhuma alternância aleatória (ex: "Oriente" num lugar e "oriente" noutro)
 
 ### Definições e lacunas
-- [ ] A definição do Statement_D mantém a mesma capitalização do texto do Accordion após `[MP3\]`
+- [ ] O texto após `[MP3\]` mantém a mesma capitalização do texto dentro do MP3
 - [ ] As lacunas no Fill_In preservam a capitalização correta nas respostas
 
 ---

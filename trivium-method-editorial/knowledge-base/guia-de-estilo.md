@@ -73,11 +73,10 @@ Toda aula é organizada nos **5 Hábitos** da Pedagogia do Belo:
 A definição do termo principal deve aparecer **idêntica** em:
 
 1. Cabeçalho do Definir, primeira linha em negrito
-2. Dentro do Accordion — texto repetido após MP3\
-3. No Recordar (Statement_D)
-4. Na Revisão semanal (tabela + Recordar)
+2. No Recordar (Statement_D)
+3. Na Revisão semanal (tabela + Recordar)
 
-O áudio do Accordion é a única exceção. Ele usa a mesma definição sem repetir o termo da pergunta.
+O Accordion usa uma versão sem repetir o termo da pergunta. O texto dentro do MP3 e o texto após MP3\ devem ser literalmente idênticos.
 
 Exemplo:
 
@@ -86,21 +85,22 @@ O que é psicologia?
 
 [MP3/]
 
-#XAI:rex
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
 é o que representa o mundo interior das pessoas.
 
 [MP3\]
 
-Psicologia na arte representa o mundo interior das pessoas.
+é o que representa o mundo interior das pessoas.
 ```
 
 ## Regras por Bloco
 
 ### Accordion
 - Pergunta: "O que é [Termo]?" (com o nome exato do termo)
-- O áudio não repete o termo da pergunta
-- O texto após MP3\ repete literalmente a definição curta completa do Recordar
+- O áudio não repete o termo da pergunta.
+- O texto após MP3\ deve ser literalmente idêntico ao texto do áudio.
+- Se a definição completa do Recordar começa com o termo, remova o termo no Accordion e mantenha MP3 e texto iguais.
 - Não incluir imagem nem reflexão dentro do Accordion do Definir
 - Voice ID obrigatório: `#11L:XXXXXXXXXXXXXXXXX`
 

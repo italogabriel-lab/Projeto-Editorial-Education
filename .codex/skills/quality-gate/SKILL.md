@@ -11,8 +11,8 @@ Use esta skill antes de concluir uma aula, revisão, prova ou publicação.
 ## Procedimento
 
 1. Ler `trivium-method-editorial/agents/skills/reviewer/SKILL.md`.
-2. Validar título, estilo, doutrina, Rise Blocks e definição curta literalmente idêntica no cabeçalho do Definir, no texto do Accordion após `[MP3\]` e no Recordar.
-3. Validar que o áudio do Accordion não repete o termo da pergunta.
+2. Validar título, estilo, doutrina, Rise Blocks e definição curta literalmente idêntica no cabeçalho do Definir e no Recordar.
+3. Validar que o áudio do Accordion não repete o termo da pergunta, e que o texto após `[MP3\]` é idêntico ao áudio.
 4. Validar que Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
 5. No 3º ano, validar que Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
 6. Em revisões `.4`, validar que tabelas e matchings não repetem o termo no início da definição.

@@ -36,7 +36,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 ### 3. Accordion — Definição
 - [ ] O Accordion contém apenas pergunta, MP3 e definição textual
 - [ ] O áudio do Accordion não repete o termo da pergunta
-- [ ] O texto após `[MP3\]` repete literalmente a definição curta completa
+- [ ] O texto após `[MP3\]` é literalmente idêntico ao texto dentro do MP3
 - [ ] Não há imagem nem reflexão no Accordion
 
 ### 4. Narrar — Trecho Literário

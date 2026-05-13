@@ -44,7 +44,7 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 - [ ] O TERMO definido no Definir é o eixo de todos os outros hábitos
 - [ ] **Perceber**: a imagem ilustra diretamente o TERMO definido
 - [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o TERMO
-- [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir e no texto do Accordion após `[MP3\]`
+- [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir
 - [ ] **Recordar**: a rima ou música menciona o TERMO ou o conceito central
 - [ ] **Praticar**: o Fill_In completa a definição do TERMO
 - [ ] **Praticar**: a múltipla escolha pergunta sobre o TERMO e a resposta correta é a definição
@@ -87,7 +87,7 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 - [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
 - [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
-- [ ] Definição curta no cabeçalho do Definir = texto do Accordion após `[MP3\]` = Recordar, capitalização idêntica
+- [ ] Definição curta no cabeçalho do Definir = Recordar, capitalização idêntica
 - [ ] Praticar usa a mesma definição curta com lacunas, sem trocar palavras fora das lacunas
 
 ---
@@ -95,12 +95,12 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 ### 2. Definir — Regras Específicas
 
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
-- [ ] Frases "Reconheça que..." e "Observe que..." após a definição curta
+- [ ] Duas frases em prosa direta após a definição curta, sem "Reconheça que" nem "Observe que"
 - [ ] `[+VIDEO][-VIDEO]` presente
 - [ ] Accordion: pergunta "O que é [Termo]?"
 - [ ] Accordion sem `@link_png@` e sem reflexão
 - [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` sem repetir o termo da pergunta
-- [ ] Accordion: texto após `[MP3\]` repete literalmente a definição curta completa do Recordar
+- [ ] Accordion: texto após `[MP3\]` é IDÊNTICO ao áudio, sem repetir o termo da pergunta
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
@@ -127,7 +127,7 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição idêntica ao cabeçalho do Definir e ao texto do Accordion após `[MP3\]`
+- [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -178,7 +178,7 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 |-------|-------------|
 | Cabeçalho do Definir, primeira linha em negrito | ✅ |
 | Accordion — áudio MP3 | ✅ sem repetir o termo da pergunta |
-| Accordion — texto repetido após MP3 | ✅ definição completa e literal |
+| Accordion — texto repetido após MP3 | ✅ idêntico ao áudio, sem o termo da pergunta |
 | Recordar — Statement_D | ✅ (versão curta) |
 | Praticar — Fill_In | ✅ (com lacunas) |
 

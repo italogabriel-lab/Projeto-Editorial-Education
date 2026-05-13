@@ -49,6 +49,8 @@ Use esta tabela de roteamento para direcionar o usuário:
 
 | Demanda do Usuário | Skill/Workflow | Invocação |
 |---|---|---|
+| Adequar lista de temas ao novo padrão semanal | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
+| Reorganizar Currículo Macro em tema central e dois desdobramentos | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
 | Criar uma aula nova | `workflows/produce_class.md` | "Crie a aula X.X, Nº ano" |
 | Criar aula de revisão (X.4) | `skills/review-builder/SKILL.md` | "Crie a revisão da semana X" |
 | Criar revisão bimestral | `skills/bimester-review-builder/SKILL.md` | "Crie a revisão do bimestre N" |

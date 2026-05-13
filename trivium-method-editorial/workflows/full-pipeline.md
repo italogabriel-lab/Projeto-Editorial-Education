@@ -4,7 +4,7 @@ description: Pipeline completo de criação de conteúdo (7 etapas) para uma sem
 
 # /full-pipeline — Pipeline Completo de Criação de Conteúdo
 
-Este workflow executa **todas as 7 etapas** do fluxo editorial para uma semana inteira (3 aulas), do Currículo Macro até a publicação final.
+Este workflow executa **todas as etapas** do fluxo editorial para uma semana inteira (3 aulas), da adequação curricular até a publicação final.
 
 ---
 
@@ -16,6 +16,18 @@ O usuário informa:
 - O **movimento artístico** (se a semana ainda não existir no Currículo Macro)
 
 ---
+
+## Etapa 0 — Adequação Curricular
+
+Use esta etapa quando o usuário trouxer uma lista de temas, um arquivo `0 - Assuntos para trabalhar no ano` ou pedir uma versão em `novo padrão`.
+
+- Execute `/curriculum-macro-adapter`.
+- Garanta que cada semana tenha `x.1`, `x.2` e `x.3`.
+- Use `x.1` como tema central.
+- Use `x.2` e `x.3` como desdobramentos diretos.
+- Não crie plano de aula nesta etapa.
+
+Se o Currículo Macro já estiver aprovado e não houver pedido de adequação, pule para a Etapa 1.
 
 ## Etapa 1 — Currículo Macro
 
@@ -85,6 +97,7 @@ Ao concluir as 3 aulas, reporte:
 ✅ PIPELINE COMPLETO — Semana [X], [Y]º Ano
 
 📋 Etapas executadas:
+  0. Adequação curricular: [criada/já existia/não solicitada]
   1. Currículo Macro: [criado/já existia]
   2. Matriz Curricular: [criada/já existia]
   3. Visão Pedagógica: [criada/já existia]
