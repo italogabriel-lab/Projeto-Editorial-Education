@@ -2,7 +2,7 @@
 
 ## Princípio pedagógico
 
-Este é o **terceiro contato da criança com o tema da aula**, agora pela via auditiva e mnemônica. A definição curta é a frase literal que abre o Definir e aparece completa no Statement_D. No Accordion, o MP3 e o texto visível usam a mesma versão sem repetir o termo da pergunta. A rima ou música reembala a mesma ideia em ritmo para facilitar a memorização. A criança deve sair deste hábito conseguindo repetir a definição de cor.
+Este é o **terceiro contato da criança com o tema da aula**, agora pela via auditiva e mnemônica. A definição curta é a frase literal que abre o Definir e aparece completa no Statement_D. No Accordion, o MP3 narra a definição curta e a explicação completa. A rima ou música reembala a mesma ideia em ritmo para facilitar a memorização. A criança deve sair deste hábito conseguindo repetir a definição de cor.
 
 ## Estrutura obrigatória
 

@@ -56,27 +56,34 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 ### Definir (Nomear)
 - ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO. (sem limites longos).
 - Bloco deve ter quebras de linha limpas. NUNCA misture tudo num blocão.
+- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D.
+- Depois da definição, deixar uma linha em branco.
 - Frase 1: "Reconheça que..." + contexto principal.
 - Frase 2: "Observe que..." + argumento/reflexão secundária.
-- Frase 3: A definição curtíssima e direta da palavra-chave.
 - Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, `@link_png@` logo após, definição dentro do MP3, definição com negrito e reflexão teológica.
+- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em texto narrável.
+- Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
+- Exemplo: tema `A arte nos lugares da vida`, áudio com `A arte está nos lugares da vida como resposta à beleza criada por Deus.` e a explicação logo abaixo.
 
 ### Perceber (Observar)
-- 3-4 frases no imperativo descrevendo o que observar
+- A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
+- Os 2 hotspots devem apontar para elementos que ilustram diretamente o conceito definido
+- O parágrafo deve ter 1 frase curta, simples e direta
 - Image Labeled com 2 hotspots (coordenadas, título, descrição)
 - Nenhum bloco extra permitido
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras) — mesma definição do Accordion
-- Image Text On com versículo ou música para memorizar
+- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir
+- A rima ou música DEVE mencionar o conceito definido, não pode ser genérica
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
 - Definição do Recordar com `_____` nas lacunas
-- Atividade extra com instrução no imperativo + PDF attachment
+- Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
+- A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
+- Atividade extra com instrução no imperativo + `[+ACTIVITY_WORKSHEET]`
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas

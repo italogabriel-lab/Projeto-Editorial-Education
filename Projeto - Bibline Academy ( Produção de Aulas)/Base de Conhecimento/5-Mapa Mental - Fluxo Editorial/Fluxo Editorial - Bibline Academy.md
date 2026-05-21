@@ -123,7 +123,7 @@ Issues ^He0tYsj9
 
 Definir ^8w0Hxone
 
-Definição + Reflexão que esta no Accordion para criar a imagem 
+Definição + explicação que está no Accordion para criar a imagem 
     -Copiar literalmente o contéudo
     -Colocar no Canva IA para gerar a imagem 16:9  ^DJhOMljQ
 
@@ -136,7 +136,7 @@ Pegar toda a estrutura do Image Labeled
 
 Recordar ^xldN7ePE
 
-Definição + Reflexão que esta no Accordion para criar a letra da música no SUNO AI V4
+Definição + explicação que está no Accordion para criar a letra da música no SUNO AI V4
 
     -Copiar literalmente o contéudo 
     -Colocar no GPT Suno Ai para gerar a letra

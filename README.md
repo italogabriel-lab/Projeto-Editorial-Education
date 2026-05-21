@@ -8,7 +8,7 @@ O **Trivium Method Editorial** combina três camadas em um único repositório:
 
 | Camada | O que faz |
 |--------|-----------|
-| **Framework de agentes** | 21 skills especializadas ativadas como slash commands no Claude Code |
+| **Framework de agentes** | 21 skills especializadas espelhadas para Claude Code e Codex |
 | **Pipeline editorial** | Fluxo de 7 etapas: pesquisa → redação → formatação → revisão → polimento → publicação |
 | **Dashboard de observabilidade** | Painel web que consome o Kanban do GitHub Projects para monitorar metas e progresso |
 
@@ -21,7 +21,7 @@ O conteúdo produzido segue os **5 Hábitos do Trivium** (Definir, Perceber, Rec
 ### Pré-requisitos
 
 - Node.js 18+
-- Claude Code CLI (com conta Anthropic)
+- Claude Code CLI ou Codex configurado no repositório
 - Git + GitHub CLI (`gh`)
 
 ### Instalação do scaffolder em novo projeto
@@ -30,7 +30,7 @@ O conteúdo produzido segue os **5 Hábitos do Trivium** (Definir, Perceber, Rec
 npx create-trivium-method-editorial meu-projeto-editorial
 ```
 
-O scaffolder gera a estrutura base com framework, templates e configuração do Claude Code.
+O scaffolder gera a estrutura base com framework, templates e configuração dos agentes.
 
 ### Uso direto neste repositório
 
@@ -63,7 +63,13 @@ trivium-method-editorial/
   Diagnóstico     Pesquisa     Redação      Rise Blocks      QA         Polimento    Publicação
 ```
 
-### Slash commands disponíveis no Claude Code
+### Padrão atual do Accordion
+
+No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@link_png@`, bloco `[MP3/]...[MP3\]` e texto visual.
+
+O MP3 narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o mesmo conteúdo do áudio e pode manter negritos para leitura visual. A definição curta continua literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+
+### Comandos e skills disponíveis
 
 **Pipeline editorial:**
 
@@ -142,6 +148,12 @@ npx serve . -p 3000
 │   ├── settings.local.json    # Permissões de ferramentas
 │   └── commands/              # 21 slash commands (/.claude/commands/*.md)
 │
+├── .codex/
+│   ├── CODEX.md               # Contexto do framework para Codex
+│   ├── rules/                 # Regras operacionais espelhadas
+│   ├── skills/                # Skills reutilizáveis
+│   └── commands/              # Comandos operacionais espelhados
+│
 ├── trivium-method-editorial/  # Framework de agentes (fonte de verdade)
 │
 ├── Projeto Bibline Academy/   # Conteúdo educacional por ano e disciplina
@@ -182,6 +194,7 @@ npm run build:artifacts  # Gera artefatos do framework
 - **Títulos de aula:** somente o que consta no `1 - Curriculo Macro` (fonte oficial)
 - **Sincronização:** `trivium-method-editorial/scripts/sync_titles.py` ao detectar divergências
 - **Idioma:** todas as interações com agentes em português
+- **Alinhamento documental:** ao alterar qualquer padrão operacional, atualizar `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/`, `.codex/` e `trivium-method-editorial/`
 
 ---
 

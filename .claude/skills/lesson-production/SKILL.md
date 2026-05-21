@@ -15,7 +15,10 @@ Use esta skill quando o pedido envolver criar uma aula, uma semana ou um fluxo c
 3. Validar o título no Currículo Macro.
 4. Seguir o pipeline oficial de 7 etapas.
 5. Usar `trivium-method-editorial/templates/padrao_final_aula.md`.
-6. Encerrar apenas após revisão e registro curricular.
+6. Confirmar que o Accordion usa `@link_png@`, MP3 com definição curta e explicação completa, e texto visual equivalente após `[MP3\]`.
+7. Confirmar o padrão fixo, Praticar com Fill_In, `[+MULTIPLE]` e Atividade Extra.
+8. Confirmar o padrão fixo do 3º ano, Narrar com leitura em `[+PARAGRAPH]` e `[+IMAGE]` antes das perguntas.
+9. Encerrar apenas após revisão e registro curricular.
 
 ## Fontes obrigatórias
 

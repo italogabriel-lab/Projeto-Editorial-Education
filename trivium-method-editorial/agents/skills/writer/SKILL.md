@@ -80,8 +80,9 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 - Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
 - Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: áudio e texto após `[MP3\]` IDÊNTICOS entre si, sem repetir o termo da pergunta. Exemplo: pergunta `O que é gravura?`, áudio `Reproduz imagens por matriz gravada.`, texto `Reproduz imagens por matriz gravada.`
-- Não incluir `@link_png@` nem reflexão dentro do Accordion do Definir.
+- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em texto narrável.
+- Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
+- Exemplo: tema `A arte nos lugares da vida`, áudio com `A arte está nos lugares da vida como resposta à beleza criada por Deus.` e a explicação logo abaixo.
 
 ### Perceber (Observar)
 - A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto

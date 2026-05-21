@@ -15,3 +15,5 @@ Os módulos adicionais ficam em `.claude/rules/`, `.claude/skills/` e `.claude/a
 ## Observação
 
 Esta cópia foi mantida para evitar quebra de fluxo em ferramentas que ainda consultem `.claude/CLAUDE.md`.
+
+Ao alterar um padrão operacional, atualize também `../AGENTS.md`, `../CLAUDE.md`, `../CLAUDE.local.md`, `../CODEX.md`, `../README.md`, `.claude/`, `.codex/` e `../trivium-method-editorial/`.

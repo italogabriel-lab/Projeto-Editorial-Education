@@ -162,7 +162,7 @@ Aplique este checklist em cada aula antes de aprovar:
 - [ ] Nenhuma alternância aleatória (ex: "Oriente" num lugar e "oriente" noutro)
 
 ### Definições e lacunas
-- [ ] O texto após `[MP3\]` mantém a mesma capitalização do texto dentro do MP3
+- [ ] O texto após `[MP3\]` mantém a mesma capitalização do texto dentro do MP3, ignorando apenas negritos visuais
 - [ ] As lacunas no Fill_In preservam a capitalização correta nas respostas
 
 ---

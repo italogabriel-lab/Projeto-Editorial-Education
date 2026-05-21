@@ -49,14 +49,12 @@ Placeholder para vídeo. Sempre vazio (sem conteúdo entre tags).
 
 ## ACCORDION
 
-Bloco expansível com definição, imagem, áudio e reflexão. Estrutura fixa:
+Bloco expansível com tema, imagem, áudio e texto visual. Estrutura fixa:
 
 ```markdown
 [+ACCORDION]
 
-Pergunta sobre o termo? (ex: "O que é Catequese?")
-
-Definição em 1 frase.
+Tema ou pergunta simples da aula.
 
 @link_png@
 
@@ -64,23 +62,24 @@ Definição em 1 frase.
 
 #11L:VOICE_ID_AQUI
 
-Definição repetida (idêntica à de cima).
+Definição curta da aula.
+
+Explicação breve em texto narrável.
 
 [MP3\]
 
-Definição com **termos-chave** em **negrito**.
+**Definição curta da aula.**
 
-**Reflexão**
-
-Texto conectando o conceito à cosmovisão cristã. Deve começar com "Entenda que...".
+Explicação breve com **termos-chave** em **negrito**.
 
 [-ACCORDION]
 ```
 
 **Regras:**
-- A definição aparece 3 vezes: texto plano, texto de áudio, texto com negrito.
+- O MP3 contém a definição curta e a explicação completa.
+- O texto visual após `[MP3\]` repete o conteúdo do áudio, com negritos permitidos.
 - O voice ID (`#11L:xxx`) é obrigatório e consistente por ano.
-- A reflexão sempre começa com "Entenda que...".
+- O `@link_png@` permanece dentro do Accordion.
 
 ---
 

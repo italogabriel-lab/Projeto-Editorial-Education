@@ -83,6 +83,16 @@ Todas as skills estão disponíveis como slash commands:
 /performance-analytics
 ```
 
+## Padrão Atual do Accordion
+
+No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
+
+O bloco `[MP3/]...[MP3\]` narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+
+## Alinhamento entre Camadas
+
+Este diretório é a fonte oficial do framework. Sempre que um padrão operacional mudar, alinhe também `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/` e `.codex/`.
+
 ## Base de Conhecimento
 
 | Arquivo | Finalidade |

@@ -73,7 +73,7 @@ Use esta tabela de roteamento para direcionar o usuário:
 Quando solicitado ou quando detectar risco, verifique:
 
 1. **Títulos (H1)** das aulas batem com o Currículo Macro?
-2. **Definições curtas** são idênticas no cabeçalho do Definir, no Recordar e na Revisão (X.4)? O áudio do Accordion remove o termo da pergunta, e o texto após `[MP3\]` é idêntico ao áudio?
+2. **Definições curtas** são idênticas no cabeçalho do Definir, no Recordar e na Revisão (X.4)? O áudio do Accordion contém a definição curta e a explicação completa, e o texto após `[MP3\]` é equivalente ao áudio?
 3. **Seção Perceber** das aulas base bate com a Revisão correspondente?
 4. **Links de imagens** estão atualizados no arquivo `4 - Links-para-imagens-perceber`?
 

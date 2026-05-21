@@ -75,7 +75,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 | `[+STATEMENT_D] ... [-STATEMENT_D]` | Definição com áudio |
 | `[+IMAGE_TEXT_ON] ... [-IMAGE_TEXT_ON]` | Imagem com texto sobreposto |
 | `[+FILL_IN] ... [-FILL_IN]` | Lacunas |
-| `[+ATTACHMENT] ... [-ATTACHMENT]` | PDF anexo |
+| `[+ACTIVITY_WORKSHEET] ... [-ACTIVITY_WORKSHEET]` | Atividade com PDF (enunciado via `INSTRUCTION=`) |
 | `[+IMAGE_TEXT_ASIDE] ... [-IMAGE_TEXT_ASIDE]` | Imagem com texto ao lado |
 | `[+LIST_NUMBERED] ... [-LIST_NUMBERED]` | Lista numerada |
 | `[+MATCHING] ... [-MATCHING]` | Correspondência |
@@ -86,18 +86,19 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 1. Definir
 - `# [Título da Aula]` (H1)
 - `## Definir` (H2)
-- Intro → `[+PARAGRAPH]` (3-4 frases imperativo + definição + "Veja o vídeo abaixo.")
+- Intro → `[+PARAGRAPH]` com definição curta em negrito na primeira linha, contexto e "Veja o vídeo abaixo."
+- A definição que abre o Definir deve ser a definição curta do Recordar, literalmente a mesma frase.
 - Vídeo → `[+VIDEO][-VIDEO]`
 - Atividade → `[+HEADING] Atividade [-HEADING]`
 - Instrução → `[+PARAGRAPH]` ("Leia a definição e ouça o áudio...")
 - Definição → `[+ACCORDION]`:
-  - Pergunta: "O que é [Termo]?"
-  - `@link_png@`
-  - `[MP3/]` `#11L:9pDzHy2OpOgeXM8SeL0t` Definição texto puro `[MP3\]`
-  - Definição com **negrito** nos termos-chave
-  - `**Reflexão**` + texto teológico no imperativo
-- **CRÍTICO**: A definição dentro do MP3 DEVE ser idêntica à do Recordar/Praticar
-- **CRÍTICO**: NÃO colocar definição em texto plano antes do `@link_png@`
+  - Tema ou pergunta simples da aula.
+  - `@link_png@` logo abaixo do tema.
+  - `[MP3/]` com voice ID, definição curta e explicação completa em texto narrável.
+  - Texto após `[MP3\]` equivalente ao áudio, podendo manter negritos para leitura visual.
+- **CRÍTICO**: o áudio do Accordion deve narrar a definição curta e a explicação completa.
+- **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir e no Recordar.
+- **CRÍTICO**: manter `@link_png@` dentro do Accordion do Definir.
 
 ### 2. Perceber
 - `## Perceber` (H2)
@@ -109,7 +110,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `## Recordar` (H2)
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (9-10 palavras)
-- **CRÍTICO**: Definição IDÊNTICA à do Accordion
+- **CRÍTICO**: Definição IDÊNTICA ao cabeçalho do Definir e à primeira frase do Accordion
 - Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
 - `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@`, nome da música
 
@@ -118,9 +119,13 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+HEADING] Atividade [-HEADING]`
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Complete as lacunas para... [-PARAGRAPH]` (instrução imperativa)
 - `[+FILL_IN]`: definição do Recordar com `_____` (5 underscores), respostas na linha seguinte
+- `[+HEADING] Atividade 2 [-HEADING]`
+- **OBRIGATÓRIO**: `[+MULTIPLE]` entre o Fill_In e a Atividade Extra
+- No `[+MULTIPLE]`, a resposta correta é a definição curta completa, literalmente idêntica ao Definir e Recordar
 - `[+HEADING] Atividade Extra [-HEADING]`
-- `[+PARAGRAPH]` (instrução prática no imperativo)
-- `[+ATTACHMENT]` com `@link_pdf@`
+- `[+PARAGRAPH]` com texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
+- `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa prática no imperativo
+- **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### 5. Narrar
 - `## Narrar` (H2)

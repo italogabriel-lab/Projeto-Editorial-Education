@@ -15,3 +15,5 @@ Os módulos adicionais ficam em `.codex/rules/`, `.codex/skills/` e `.codex/agen
 ## Observação
 
 Esta cópia foi mantida para evitar quebra de fluxo em ferramentas que ainda consultem `.codex/CODEX.md`.
+
+Ao alterar um padrão operacional, atualize também `../AGENTS.md`, `../CLAUDE.md`, `../CLAUDE.local.md`, `../CODEX.md`, `../README.md`, `.claude/`, `.codex/` e `../trivium-method-editorial/`.

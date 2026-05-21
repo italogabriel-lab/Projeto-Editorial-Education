@@ -28,7 +28,8 @@ Substitua por vírgula ou ponto quando estiver escrevendo conteúdo didático.
 
 - O título bate com o Currículo Macro.
 - A definição curta está literalmente idêntica no cabeçalho do Definir, no Recordar e na Revisão.
-- O áudio do Accordion não repete o termo da pergunta, e o texto após `[MP3\]` é idêntico ao áudio.
+- O áudio do Accordion contém a definição curta e a explicação completa em texto narrável.
+- O texto após `[MP3\]` repete o mesmo conteúdo do áudio, podendo manter negritos para leitura visual.
 - O Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
 - No 3º ano, o Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
 - Em revisões `.4`, tabelas e matchings não repetem o termo no início da definição.

@@ -76,32 +76,37 @@ A definição do termo principal deve aparecer **idêntica** em:
 2. No Recordar (Statement_D)
 3. Na Revisão semanal (tabela + Recordar)
 
-O Accordion usa uma versão sem repetir o termo da pergunta. O texto dentro do MP3 e o texto após MP3\ devem ser literalmente idênticos.
+O Accordion usa a definição curta e a explicação completa em texto narrável. O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual.
 
 Exemplo:
 
 ```markdown
-O que é psicologia?
+A arte nos lugares da vida
+
+@link_png@
 
 [MP3/]
 
 #FSH:0b12d715e4c741399594fccb12d4bbe2
 
-é o que representa o mundo interior das pessoas.
+A arte está nos lugares da vida como resposta à beleza criada por Deus.
+
+O ser humano reconhece arte quando observa beleza em casa, na igreja, nos livros e na natureza.
 
 [MP3\]
 
-é o que representa o mundo interior das pessoas.
+**A arte está nos lugares da vida como resposta à beleza criada por Deus.**
+
+O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos livros e na natureza.
 ```
 
 ## Regras por Bloco
 
 ### Accordion
-- Pergunta: "O que é [Termo]?" (com o nome exato do termo)
-- O áudio não repete o termo da pergunta.
-- O texto após MP3\ deve ser literalmente idêntico ao texto do áudio.
-- Se a definição completa do Recordar começa com o termo, remova o termo no Accordion e mantenha MP3 e texto iguais.
-- Não incluir imagem nem reflexão dentro do Accordion do Definir
+- Tema ou pergunta simples da aula.
+- Manter `@link_png@` logo abaixo do tema.
+- O áudio contém a definição curta e a explicação completa em texto narrável.
+- O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual.
 - Voice ID obrigatório: `#11L:XXXXXXXXXXXXXXXXX`
 
 ### Fill_In

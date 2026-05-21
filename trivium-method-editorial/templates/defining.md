@@ -31,12 +31,18 @@ Leia a definição e ouça o áudio.
 
 O que é [TERMO]?
 
+@link_png@
+
 [MP3/]
 #FSH:0b12d715e4c741399594fccb12d4bbe2
-[Definição curta sem repetir o termo da pergunta.]
+[Definição curta da aula, igual ao Recordar.]
+
+[Explicação breve da aula em texto narrável.]
 [MP3\]
 
-[Definição curta sem repetir o termo da pergunta.]
+**[Definição curta da aula, igual ao Recordar.]**
+
+[Explicação breve da aula com destaques visuais quando necessário.]
 
 [-ACCORDION]
 ```
@@ -47,8 +53,8 @@ O que é [TERMO]?
 - A definição curta do Recordar é a fonte textual da aula.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
-- No Accordion, o áudio e o texto após `[MP3\]` são IDÊNTICOS entre si e NÃO repetem o termo da pergunta.
-- Exemplo: pergunta `O que é gravura?`, áudio `Reproduz imagens por matriz gravada.`, texto `Reproduz imagens por matriz gravada.`
-- O Accordion deve conter apenas a pergunta, o MP3 e o texto idêntico ao áudio.
+- No Accordion, o MP3 deve narrar a definição curta e a explicação completa.
+- Exemplo: tema `A arte nos lugares da vida`, áudio com a definição curta e a explicação logo abaixo.
+- O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

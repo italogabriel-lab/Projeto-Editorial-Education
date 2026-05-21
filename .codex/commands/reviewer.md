@@ -79,10 +79,10 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
 - [ ] Frases "Reconheça que..." e "Observe que..." após a definição curta
 - [ ] `[+VIDEO][-VIDEO]` presente
-- [ ] Accordion: pergunta "O que é [Termo]?"
-- [ ] Accordion sem `@link_png@` e sem reflexão
-- [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` sem repetir o termo da pergunta
-- [ ] Accordion: texto após `[MP3\]` é IDÊNTICO ao áudio, sem repetir o termo da pergunta
+- [ ] Accordion: tema ou pergunta simples da aula
+- [ ] Accordion com `@link_png@`
+- [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa
+- [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
@@ -109,7 +109,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição idêntica ao cabeçalho do Definir e ao Accordion
+- [ ] Definição curta idêntica ao cabeçalho do Definir, ao Recordar e ao início do Accordion
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -158,8 +158,8 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 | Local | Obrigatório |
 |-------|-------------|
 | Cabeçalho do Definir, primeira linha em negrito | ✅ |
-| Accordion — áudio MP3 | ✅ sem repetir o termo da pergunta |
-| Accordion — texto repetido após MP3 | ✅ idêntico ao áudio, sem o termo da pergunta |
+| Accordion — áudio MP3 | ✅ definição curta e explicação completa |
+| Accordion — texto após MP3 | ✅ equivalente ao áudio, com negritos visuais permitidos |
 | Recordar — Statement_D | ✅ (versão curta) |
 | Praticar — Fill_In | ✅ (com lacunas) |
 
@@ -232,7 +232,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | # | Erro | O que verificar |
 |---|------|-----------------|
-| 1 | Accordion com termo repetido | Definição direta, sem repetir o nome do termo |
+| 1 | Accordion com MP3 incompleto | Narrar definição curta e explicação completa |
 | 2 | Matching invertido | Definição primeiro, termo depois do `[=]` |
 | 3 | Recordar com definição longa | Statement_D deve ter 9-10 palavras |
 | 4 | Fill_In sem enunciado | `[+PARAGRAPH]` obrigatório antes |

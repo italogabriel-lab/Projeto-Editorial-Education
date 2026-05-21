@@ -23,6 +23,8 @@ O framework oficial vive em `trivium-method-editorial/`.
 - Usar `trivium-method-editorial/knowledge-base/` como base de conhecimento.
 - Usar `trivium-method-editorial/templates/padrao_final_aula.md` como golden template.
 - Executar `trivium-method-editorial/scripts/sync_titles.py` quando houver divergência de títulos.
+- Manter o Accordion do Definir com tema ou pergunta simples, `@link_png@`, MP3 com definição curta e explicação completa, e texto visual equivalente após `[MP3\]`.
+- Ao modificar um padrão operacional, atualizar `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/`, `.codex/` e `trivium-method-editorial/`.
 - Adotar commits convencionais, `feat:`, `fix:`, `content:`, `chore:`, `docs:`.
 
 ## Mapa da Pasta .claude
@@ -44,6 +46,10 @@ O framework oficial vive em `trivium-method-editorial/`.
 - Workflows, `trivium-method-editorial/workflows/`
 - Templates, `trivium-method-editorial/templates/`
 - Scripts, `trivium-method-editorial/scripts/`
+
+## Governança de Alinhamento
+
+`.claude/` é o espelho operacional do Claude Code. Sempre que uma regra editorial mudar em `.claude/`, conferir e alinhar a regra equivalente em `.codex/` e na fonte oficial `trivium-method-editorial/`.
 
 ## Módulos Carregados
 

@@ -38,6 +38,8 @@ Leia a definição e ouça o áudio clicando abaixo.
 
 [Definição curta da aula, igual ao Recordar.]
 
+[Explicação breve com termo da aula em destaque para 1º ano.]
+
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
@@ -46,7 +48,6 @@ Leia a definição e ouça o áudio clicando abaixo.
 
 [-ACCORDION]
 
-<>
 ## Perceber
 
 [+PARAGRAPH]
@@ -64,8 +65,6 @@ Leia a definição e ouça o áudio clicando abaixo.
 [X1] [Y1]
 
 [Hotspot 1]
-
-[Frase curta indicando o que observar.]
 
 [-IMAGE_LABELED]
 
@@ -109,7 +108,7 @@ Clique abaixo para ouvir a música.
 
 @link_mp3@
 
-[Nome da Música é o Título da aula]
+[Nome da música conforme o tema central da semana]
 
 [-IMAGE_TEXT_ON]
 
@@ -123,15 +122,15 @@ Atividade 1
 
 [+PARAGRAPH]
 
-Complete as lacunas para memorizar a definição.
+Complete a definição abaixo com a palavra correta.
 
 [-PARAGRAPH]
 
 [+FILL_IN]
 
-[Definição curta com _____ nas lacunas.]
+[Definição curta com _____ na lacuna.]
 
-[resposta1, resposta2]
+[resposta]
 
 [-FILL_IN]
 
@@ -146,7 +145,6 @@ Atividade 2
 [Pergunta simples sobre o significado do tema.]
 
 [Distrator curto e plausível] [=]
-[Outro distrator curto e plausível] [=]
 [Resposta correta alinhada à definição curta] [=] true
 
 [-MULTIPLE]
@@ -159,7 +157,7 @@ Atividade Extra
 
 [+PARAGRAPH]
 
-Acesse o PDF abaixo e faça a atividade com atenção.
+Acesse o PDF abaixo para imprimir a atividade.
 
 [-PARAGRAPH]
 

@@ -196,11 +196,11 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 
 | Bloco | Conteudo |
 | :--- | :--- |
-| `[+PARAGRAPH]` | Contexto ("Reconheca que..."), argumento ("Observe que..."), definicao (9-10 palavras), "Veja o video abaixo" |
+| `[+PARAGRAPH]` | Definicao curta em negrito, contexto, argumento e "Veja o video abaixo" |
 | `[+VIDEO]` | Placeholder vazio |
 | `[+HEADING]` | "Atividade" |
 | `[+PARAGRAPH]` | Instrucao no imperativo |
-| `[+ACCORDION]` | Pergunta ("O que e [Termo]?") + Definicao (3 repeticoes: texto, audio, negrito) + Reflexao ("Entenda que...") |
+| `[+ACCORDION]` | Tema ou pergunta simples + `@link_png@` + MP3 com definicao curta e explicacao completa + texto visual equivalente |
 
 ### 6.2 Perceber (`## Perceber`)
 
@@ -254,13 +254,13 @@ A definicao curta do Recordar (9-10 palavras) e a fonte textual da aula. Ela dev
 | Local | Secao | Formato |
 | :--- | :--- | :--- |
 | 1. Cabecalho do habito | Definir | Primeira linha em negrito |
-| 2. Accordion, audio | Definir | Entre `[MP3/]` e `[MP3\]` |
-| 3. Accordion, texto | Definir | Mesmas palavras, sem trocar capitalizacao |
+| 2. Accordion, audio | Definir | Definicao curta e explicacao completa entre `[MP3/]` e `[MP3\]` |
+| 3. Accordion, texto | Definir | Mesmo conteudo do audio, com negritos visuais permitidos |
 | 4. Statement_D | Recordar | Audio + texto repetido |
 | 5. Praticar | Praticar | Mesma frase com lacunas |
 | 6. Revisao semanal (.4) | Definir e Recordar | Tabela e flashcard |
 
-O Accordion do Definir nao deve incluir imagem nem reflexao. Ele deve trazer apenas pergunta, MP3 e repeticao literal da definicao curta.
+O Accordion do Definir deve incluir tema ou pergunta simples, `@link_png@`, MP3 e texto visual. O MP3 narra a definicao curta e a explicacao completa.
 
 Na revisao semanal `.4`, a `[+TABLE]` e todos os `[+MATCHING]` usam a definicao sem repetir o termo no inicio. Exemplo: `Vê a criação com atenção reverente. [=] Observação da natureza`. O `[+STATEMENT_D]` preserva a definicao curta completa.
 

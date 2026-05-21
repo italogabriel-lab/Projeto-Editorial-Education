@@ -92,12 +92,13 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - Atividade → `[+HEADING] Atividade [-HEADING]`
 - Instrução → `[+PARAGRAPH]` ("Leia a definição e ouça o áudio...")
 - Definição → `[+ACCORDION]`:
-  - Pergunta: "O que é [Termo]?"
-  - `[MP3/]` `#XAI:rex` definição curta sem repetir o termo da pergunta `[MP3\]`
-  - Texto após `[MP3\]` IDÊNTICO ao áudio, sem repetir o termo da pergunta.
-- **CRÍTICO**: o áudio do Accordion e o texto após `[MP3\]` NÃO repetem o termo da pergunta e são IDÊNTICOS entre si.
+  - Tema ou pergunta simples da aula.
+  - `@link_png@` logo abaixo do tema.
+  - `[MP3/]` com voice ID, definição curta e explicação completa em texto narrável.
+  - Texto após `[MP3\]` equivalente ao áudio, podendo manter negritos para leitura visual.
+- **CRÍTICO**: o áudio do Accordion deve narrar a definição curta e a explicação completa.
 - **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir e no Recordar.
-- **CRÍTICO**: NÃO colocar `@link_png@` nem reflexão dentro do Accordion do Definir.
+- **CRÍTICO**: manter `@link_png@` dentro do Accordion do Definir.
 
 ### 2. Perceber
 - `## Perceber` (H2)

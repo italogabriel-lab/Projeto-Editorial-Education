@@ -1,5 +1,5 @@
 # -> DEFINIR
-### 1-**Dentro do accordion sempre tem que ser direto ao ponto com a definição sem repetir o termo abaixo**
+### 1-**Dentro do accordion, o MP3 deve narrar a definição e a explicação**
 
 [+ACCORDION]
 
@@ -11,11 +11,15 @@ O que é transcendência?
 
 #11L:9pDzHy2OpOgeXM8SeL0t
 
-É a elevação acima dos limites comuns, superioridade que aponta para aquilo que ultrapassa o visível e o passageiro.
+Transcendência é a elevação acima dos limites comuns, superioridade que aponta para aquilo que ultrapassa o visível e o passageiro.
+
+O aluno reconhece a transcendência quando observa uma obra que aponta para algo maior do que o visível.
 
 [MP3\]
 
-É a **elevação acima dos limites comuns**, superioridade que aponta para aquilo que **ultrapassa o visível** e **o passageiro**.
+**Transcendência é a elevação acima dos limites comuns, superioridade que aponta para aquilo que ultrapassa o visível e o passageiro.**
+
+O aluno reconhece a **transcendência** quando observa uma obra que aponta para algo maior do que o visível.
 
 # MATCHING
 ### 2-**Dentro do matching sempre colocar em primeiro lugar a definição e logo em seguida o termo que esta sendo definido **
@@ -54,4 +58,3 @@ Preservação é o ato de manter algo livre de _____, _____ ou _____, esforço h
 deterioração, dano, destruição, restaura
 
 [-FILL_IN]
-

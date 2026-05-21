@@ -31,9 +31,39 @@ As aulas seguem um pipeline de 7 etapas com agentes especializados:
 4. **Sincronização de títulos**: executar `trivium-method-editorial/scripts/sync_titles.py` ao detectar divergências
 5. **Commits**: convencionais (`feat:`, `fix:`, `content:`, `chore:`, `docs:`)
 
-## Estrutura Codex
+## Padrão Operacional Atual
 
-Quando o agente em uso for o Codex, consultar também esta ordem:
+- Accordion do Definir: tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
+- MP3 do Accordion: narrar a definição curta e a explicação completa em texto narrável.
+- Texto após `[MP3\]`: repetir o conteúdo do áudio, com negritos visuais permitidos.
+- Definição curta: manter literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+
+## Sincronização Documental Obrigatória
+
+Sempre que um padrão novo de funcionamento for criado ou modificado, atualizar na mesma tarefa:
+
+1. `AGENTS.md`
+2. `CLAUDE.md`
+3. `CLAUDE.local.md`
+4. `CODEX.md`
+5. `README.md`
+6. `.claude/`
+7. `.codex/`
+8. `trivium-method-editorial/`
+
+O objetivo é manter agentes, skills, comandos, templates, workflows, guias de estilo e documentação raiz refletindo o mesmo fluxo editorial.
+
+## Estrutura Claude e Codex
+
+Quando o agente em uso for Claude, consultar também esta ordem:
+
+1. `CLAUDE.md`
+2. `.claude/rules/`
+3. `.claude/commands/`
+4. `.claude/skills/`
+5. `.claude/agents/`
+
+Quando o agente em uso for Codex, consultar também esta ordem:
 
 1. `CODEX.md`
 2. `.codex/rules/`
@@ -41,7 +71,7 @@ Quando o agente em uso for o Codex, consultar também esta ordem:
 4. `.codex/skills/`
 5. `.codex/agents/`
 
-Objetivo, manter no Codex a mesma organização operacional já usada em `.claude/`.
+Objetivo, manter Claude, Codex e `trivium-method-editorial/` alinhados como camadas do mesmo framework.
 
 ## Qualidade de Escrita
 

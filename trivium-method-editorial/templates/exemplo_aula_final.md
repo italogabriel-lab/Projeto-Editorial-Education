@@ -54,13 +54,7 @@ Leia a definição e ouça o áudio. Reconheça que a arte foi uma ferramenta de
 
 [+ACCORDION]
 
-**Didactic**
-
-Didactic means designed or intended to teach and instruct.
-
-**Função didática**
-
-Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
+Função didática da arte cristã
 
 @link_png@
 
@@ -70,13 +64,13 @@ Função didática é o uso da imagem para ensinar a fé e formar discípulos na
 
 Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
 
+O aluno reconhece a função didática quando observa imagens que ensinam a fé cristã com clareza.
+
 [MP3\]
 
-Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
+**Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.**
 
-**Reflexão**
-
-Entenda que a Igreja usou todos os meios possíveis para cumprir a Grande Comissão. Jesus disse "Ide e fazei discípulos... ensinando-os a guardar todas as coisas".
+O aluno reconhece a **função didática** quando observa imagens que ensinam a fé cristã com clareza.
 
 [-ACCORDION]
 

@@ -34,10 +34,10 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Variação nos verbos (não repetir o mesmo verbo em sequência)
 
 ### 3. Accordion — Definição
-- [ ] O Accordion contém apenas pergunta, MP3 e definição textual
-- [ ] O áudio do Accordion não repete o termo da pergunta
-- [ ] O texto após `[MP3\]` é literalmente idêntico ao texto dentro do MP3
-- [ ] Não há imagem nem reflexão no Accordion
+- [ ] O Accordion contém tema, `@link_png@`, MP3 e texto visual
+- [ ] O áudio do Accordion contém definição curta e explicação completa
+- [ ] O texto após `[MP3\]` repete o conteúdo do MP3 com negritos permitidos
+- [ ] Não há conteúdo extra fora do tema, imagem, MP3 e texto visual
 
 ### 4. Narrar — Trecho Literário
 - [ ] O trecho é claro, narrativo e acessível

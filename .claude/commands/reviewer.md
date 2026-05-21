@@ -69,21 +69,21 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
 - [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
-- [ ] Definição no Accordion = Recordar = Praticar (capitalização idêntica)
+- [ ] Definição curta no cabeçalho do Definir, no Recordar e no Praticar com capitalização idêntica
 
 ---
 
 ### 2. Definir — Regras Específicas
 
-- [ ] 3-4 frases no imperativo no parágrafo introdutório
-- [ ] Definição ao final do parágrafo
+- [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
+- [ ] Duas frases em prosa direta após a definição curta
 - [ ] `[+VIDEO][-VIDEO]` presente
-- [ ] Accordion: pergunta "O que é [Termo]?"
-- [ ] Accordion: `@link_png@` logo após a pergunta (sem definição texto plano antes)
-- [ ] Accordion: definição SOMENTE dentro do `[MP3/]...[MP3\]` e na versão com negrito
+- [ ] Accordion: tema ou pergunta simples da aula
+- [ ] Accordion com `@link_png@`
+- [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa
+- [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
-- [ ] Definição dentro do MP3 idêntica à do Recordar
-- [ ] Reflexão com "Entenda que..." e cosmovisão cristã
+- [ ] Primeira frase do MP3 idêntica ao cabeçalho do Definir e ao Recordar
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
 - [ ] **Sem separadores** `---` entre hábitos
 - [ ] **Sem metadados** (disciplina, módulo, faixa etária)
@@ -104,7 +104,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição idêntica à do Accordion
+- [ ] Definição curta idêntica ao cabeçalho do Definir, ao Recordar e ao início do Accordion
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -115,8 +115,13 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Fill_In contém SOMENTE o conceito (NUNCA instrução)
 - [ ] 3-4 lacunas com `_____` (5 underscores)
 - [ ] Respostas na última linha, separadas por vírgula
+- [ ] `[+HEADING] Atividade 2 [-HEADING]` depois do Fill_In
+- [ ] `[+MULTIPLE]` presente entre Fill_In e Atividade Extra
+- [ ] `[+MULTIPLE]` pergunta o significado do termo
+- [ ] Resposta correta do `[+MULTIPLE]` é a definição curta completa e literal
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
-- [ ] Atividade extra com instrução imperativa + `[+ATTACHMENT]` com `@link_pdf@`
+- [ ] Atividade extra usa `[+PARAGRAPH]` fixo e `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`
+- [ ] Não usar `[+ATTACHMENT]` com `@link_pdf@`
 
 ---
 
@@ -138,9 +143,9 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | Local | Obrigatório |
 |-------|-------------|
-| Final do parágrafo introdutório (Definir) | ✅ |
-| Accordion — áudio MP3 | ✅ |
-| Accordion — negrito | ✅ |
+| Cabeçalho do Definir, primeira linha em negrito | ✅ |
+| Accordion — áudio MP3 | ✅ definição curta e explicação completa |
+| Accordion — texto após MP3 | ✅ equivalente ao áudio, com negritos visuais permitidos |
 | Recordar — Statement_D | ✅ (versão curta) |
 | Praticar — Fill_In | ✅ (com lacunas) |
 
@@ -157,7 +162,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 ### 9. Consistência Doutrinária
 
 - [ ] Cosmovisão cristã reformada mantida
-- [ ] Reflexões bíblicas teologicamente sólidas
+- [ ] Linguagem bíblica e teologicamente sólida
 - [ ] Versículos corretos (texto e referência ARA/ARC)
 
 ---
@@ -201,14 +206,14 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | # | Erro | O que verificar |
 |---|------|-----------------|
-| 1 | Accordion com termo repetido | Definição direta, sem repetir o nome do termo |
+| 1 | Accordion com MP3 incompleto | Narrar definição curta e explicação completa |
 | 2 | Matching invertido | Definição primeiro, termo depois do `[=]` |
 | 3 | Recordar com definição longa | Statement_D deve ter 9-10 palavras |
 | 4 | Fill_In sem enunciado | `[+PARAGRAPH]` obrigatório antes |
 | 5 | Voz passiva | Todos os enunciados no imperativo ativo |
 | 6 | Sinais proibidos | `;`, `:`, `—` devem ser `,` ou `.` |
 | 7 | Aspas curvas | Usar apenas aspas retas |
-| 8 | Definição inconsistente | Mesma definição em 5+ locais |
+| 8 | Definição inconsistente | Definição curta idêntica nos locais obrigatórios |
 | 9 | Perguntas fora do tema | Todas relacionadas ao conteúdo |
 | 10 | Primeiro parágrafo repete título | Complementar, não repetir |
 

@@ -61,10 +61,10 @@ O **Copywriter** dá o acabamento final ao conteúdo revisado, otimizando títul
 - ✅ Variação de verbos aplicada
 - ✅ Clareza otimizada
 
-### 3. Reflexão Teológica
-- ✅ Conectada à vida do aluno
-- ✅ Começa com "Entenda que..."
-- ✅ Profunda mas acessível
+### 3. Accordion
+- ✅ MP3 com definição curta e explicação completa
+- ✅ Texto visual equivalente ao áudio
+- ✅ `@link_png@` preservado dentro do bloco
 
 ### 4. Trecho Literário
 - ✅ Claro, narrativo e acessível
@@ -96,10 +96,10 @@ Arquivo: `final_class.md` — Pronto para publicação!
 - [ ] 100% imperativo
 - [ ] Variação de verbos
 
-### **3. Accordion — Reflexão**
-- [ ] Profunda mas acessível
-- [ ] Conecta à vida do aluno
-- [ ] Começa com "Entenda que..."
+### **3. Accordion — Definição**
+- [ ] Contém tema, `@link_png@`, MP3 e texto visual
+- [ ] MP3 narra definição curta e explicação completa
+- [ ] Texto após `[MP3\]` repete o conteúdo do áudio com negritos permitidos
 
 ### **4. Narrar — Trecho**
 - [ ] Claro, narrativo e acessível

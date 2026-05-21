@@ -81,9 +81,9 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 - Frase 2: "Observe que..." + argumento/reflexão secundária.
 - Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: pergunta, definição de áudio sem repetir o termo da pergunta e texto após `[MP3\]` literalmente idêntico ao áudio.
-- Exemplo: pergunta `O que é psicologia?`, áudio `é o que representa o mundo interior das pessoas.`, texto `Psicologia na arte representa o mundo interior das pessoas.`
-- Não incluir `@link_png@` nem reflexão dentro do Accordion do Definir.
+- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em texto narrável.
+- Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
+- Exemplo: tema `A arte nos lugares da vida`, áudio com `A arte está nos lugares da vida como resposta à beleza criada por Deus.` e a explicação logo abaixo.
 
 ### Perceber (Observar)
 - A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
