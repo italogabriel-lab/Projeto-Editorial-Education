@@ -30,98 +30,114 @@
 8.2	As formas em bichos
 8.3	As formas em figuras inventadas
 
-9.1	As cores primárias
-9.2	O vermelho, o azul e o amarelo
-9.3	As cores que nascem da mistura
+9	Revisão
+	
+10	Provas
 
-10.1	As cores e as emoções
-10.2	As cores que acalmam e agitam
-10.3	As cores quentes e frias
+11.1	As cores primárias
+11.2	O vermelho, o azul e o amarelo
+11.3	As cores que nascem da mistura
 
-11.1	A cor e a música
-11.2	A cor que acompanha o som
-11.3	A cor que expressa sentimento
+12.1	As cores e as emoções
+12.2	As cores que acalmam e agitam
+12.3	As cores quentes e frias
 
-12.1	As cores do dia e da noite
-12.2	As cores da luz do sol
-12.3	As cores da noite
+13.1	A cor e a música
+13.2	A cor que acompanha o som
+13.3	A cor que expressa sentimento
 
-13.1	A textura na arte
-13.2	As texturas lisas e ásperas
-13.3	As texturas da areia e das folhas
+14.1	As cores do dia e da noite
+14.2	As cores da luz do sol
+14.3	As cores da noite
 
-14.1	A textura e o sentimento
-14.2	A textura feita com massa
-14.3	A textura feita com elementos naturais
+15.1	A textura na arte
+15.2	As texturas lisas e ásperas
+15.3	As texturas da areia e das folhas
 
-15.1	O espaço no papel
-15.2	O fundo, a borda e o centro
-15.3	O grande e o pequeno
+16.1	A textura e o sentimento
+16.2	A textura feita com massa
+16.3	A textura feita com elementos naturais
 
-16.1	O espaço cheio e vazio
-16.2	O espaço com respiro
-16.3	O espaço da cidade no papel
+17.1	O espaço no papel
+17.2	O fundo, a borda e o centro
+17.3	O grande e o pequeno
 
-17.1	A direção no olhar
-17.2	A seta que guia a história
-17.3	O caminho feito com pincel
+18.1	O espaço cheio e vazio
+18.2	O espaço com respiro
+18.3	O espaço da cidade no papel
 
-18.1	O equilíbrio na arte
-18.2	O equilíbrio da dobradura
-18.3	O equilíbrio da simetria
+19	Revisão
+	
+20	Provas
 
-19.1	A obra com os elementos da arte
-19.2	O quadro com formas e cores
-19.3	A obra com ponto, linha e espaço
+21.1	A direção no olhar
+21.2	A seta que guia a história
+21.3	O caminho feito com pincel
 
-20.1	O desenho com formas simples
-20.2	O círculo que vira gato
-20.3	O triângulo e o quadrado na casa
+22.1	O equilíbrio na arte
+22.2	O equilíbrio da dobradura
+22.3	O equilíbrio da simetria
 
-21.1	Os animais e personagens
-21.2	O sol como personagem
-21.3	O bicho inventado
+23.1	A obra com os elementos da arte
+23.2	O quadro com formas e cores
+23.3	A obra com ponto, linha e espaço
 
-22.1	O meu mundo em desenho
-22.2	A minha casa no desenho
-22.3	O meu cantinho favorito
+24.1	O desenho com formas simples
+24.2	O círculo que vira gato
+24.3	O triângulo e o quadrado na casa
 
-23.1	Os lugares e histórias
-23.2	A igreja com torres
-23.3	O parquinho colorido
+25.1	Os animais e personagens
+25.2	O sol como personagem
+25.3	O bicho inventado
 
-24.1	As histórias que inspiram a arte
-24.2	A arca com muitos animais
-24.3	O jardim da criação
+26.1	O meu mundo em desenho
+26.2	A minha casa no desenho
+26.3	O meu cantinho favorito
 
-25.1	O céu e a esperança
-25.2	Os anjos com tinta e papel
-25.3	A visão do céu
+27.1	Os lugares e histórias
+27.2	A igreja com torres
+27.3	O parquinho colorido
 
-26.1	A criação da luz, dos céus e das águas
-26.2	A luz e as trevas
-26.3	Os céus e as águas
+28.1	As histórias que inspiram a arte
+28.2	A arca com muitos animais
+28.3	O jardim da criação
 
-27.1	A criação da terra, dos luminares e dos seres vivos
-27.2	A terra, o sol, a lua e as estrelas
-27.3	Os peixes e as aves
+29	Revisão
+	
+30	Provas
 
-28.1	A criação dos animais, do homem e do descanso
-28.2	Os animais e o ser humano
-28.3	O dia de Deus e o painel completo
+31.1	O céu e a esperança
+31.2	Os anjos com tinta e papel
+31.3	A visão do céu
 
-29.1	A arte e a música
-29.2	A música que cria cores
-29.3	O som que dança com o pincel
+32.1	A criação da luz, dos céus e das águas
+32.2	A luz e as trevas
+32.3	Os céus e as águas
 
-30.1	A imagem que a música revela
-30.2	Os olhos que escutam
-30.3	A música favorita em imagem
+33.1	A criação da terra, dos luminares e dos seres vivos
+33.2	A terra, o sol, a lua e as estrelas
+33.3	Os peixes e as aves
 
-31.1	As obras que encantam
-31.2	Van Gogh e os girassóis
-31.3	Paul Klee e as cores da alegria
+34.1	A criação dos animais, do homem e do descanso
+34.2	Os animais e o ser humano
+34.3	O dia de Deus e o painel completo
 
-32.1	A observação com o coração
-32.2	Os detalhes no quadro
-32.3	A obra que tocou o coração
+35.1	A arte e a música
+35.2	A música que cria cores
+35.3	O som que dança com o pincel
+
+36.1	A imagem que a música revela
+36.2	Os olhos que escutam
+36.3	A música favorita em imagem
+
+37.1	As obras que encantam
+37.2	Van Gogh e os girassóis
+37.3	Paul Klee e as cores da alegria
+
+38.1	A observação com o coração
+38.2	Os detalhes no quadro
+38.3	A obra que tocou o coração
+
+39	Revisão
+	
+40	Provas

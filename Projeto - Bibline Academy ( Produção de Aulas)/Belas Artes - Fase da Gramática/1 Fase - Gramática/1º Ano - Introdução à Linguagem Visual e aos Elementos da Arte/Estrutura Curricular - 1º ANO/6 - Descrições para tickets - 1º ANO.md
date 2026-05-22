@@ -38,11 +38,11 @@
 
 ---
 
-[Belas artes] - Ano 1 - 1.3 A arte e a habilidade humana
+[Belas artes] - Ano 1 - 1.3 A arte e a habilidade
 
 # Description
 
-**Tema central da semana**, A arte e a expressão. **Foco da aula**, segundo desdobramento, A arte e a habilidade humana.
+**Tema central da semana**, A arte e a expressão. **Foco da aula**, segundo desdobramento, A arte e a habilidade.
 
 ## Objetivos
    → Pratique a habilidade humana como segundo desdobramento da expressão artística.
@@ -61,7 +61,7 @@ Revisar os conhecimentos das aulas da semana 1.
 
 - 1.1 A arte e a expressão
 - 1.2 A arte e a beleza
-- 1.3 A arte e a habilidade humana
+- 1.3 A arte e a habilidade
 
 ---
 
@@ -75,7 +75,7 @@ Avaliar os conhecimentos das aulas da semana 1.
 
 - 1.1 A arte e a expressão
 - 1.2 A arte e a beleza
-- 1.3 A arte e a habilidade humana
+- 1.3 A arte e a habilidade
 
 ---
 
@@ -231,7 +231,7 @@ Avaliar os conhecimentos das aulas da semana 3.
 
 ---
 
-[Belas artes] - Ano 1 - 4.1 O ponto como padrão
+[Belas artes] - Ano 1 - 4.1 A arte feita com pontos
 
 # Description
 
@@ -278,7 +278,7 @@ Revisar os conhecimentos das aulas da semana 4.
 
 ## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 O ponto como padrão
+- 4.1 A arte feita com pontos
 - 4.2 Os pontos nas obras
 - 4.3 Os pontos nas cores
 
@@ -292,7 +292,7 @@ Avaliar os conhecimentos das aulas da semana 4.
 
 ## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 O ponto como padrão
+- 4.1 A arte feita com pontos
 - 4.2 Os pontos nas obras
 - 4.3 Os pontos nas cores
 
@@ -317,11 +317,11 @@ Avaliar os conhecimentos das aulas da semana 4.
 
 ---
 
-[Belas artes] - Ano 1 - 5.2 As linhas retas
+[Belas artes] - Ano 1 - 5.2 As linhas retas e curvas
 
 # Description
 
-**Tema central da semana**, A linha no desenho. **Foco da aula**, primeiro desdobramento, As linhas retas.
+**Tema central da semana**, A linha no desenho. **Foco da aula**, primeiro desdobramento, As linhas retas e curvas.
 
 ## Objetivos
    → Compreenda as linhas retas como primeiro desdobramento da semana.
@@ -330,11 +330,11 @@ Avaliar os conhecimentos das aulas da semana 4.
 
 ---
 
-[Belas artes] - Ano 1 - 5.3 As linhas curvas
+[Belas artes] - Ano 1 - 5.3 As linhas de barbante
 
 # Description
 
-**Tema central da semana**, A linha no desenho. **Foco da aula**, segundo desdobramento, As linhas curvas.
+**Tema central da semana**, A linha no desenho. **Foco da aula**, segundo desdobramento, As linhas de barbante.
 
 ## Objetivos
    → Pratique as linhas curvas como segundo desdobramento da semana.
@@ -352,8 +352,8 @@ Revisar os conhecimentos das aulas da semana 5.
 ## 5ª Semana, **A linha no desenho**
 
 - 5.1 A linha no desenho
-- 5.2 As linhas retas
-- 5.3 As linhas curvas
+- 5.2 As linhas retas e curvas
+- 5.3 As linhas de barbante
 
 ---
 
@@ -366,8 +366,8 @@ Avaliar os conhecimentos das aulas da semana 5.
 ## 5ª Semana, **A linha no desenho**
 
 - 5.1 A linha no desenho
-- 5.2 As linhas retas
-- 5.3 As linhas curvas
+- 5.2 As linhas retas e curvas
+- 5.3 As linhas de barbante
 
 ---
 
@@ -377,7 +377,7 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 ---
 
-[Belas artes] - Ano 1 - 6.1 A linha como padrão
+[Belas artes] - Ano 1 - 6.1 A linha como caminho
 
 # Description
 
@@ -424,7 +424,7 @@ Revisar os conhecimentos das aulas da semana 6.
 
 ## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como padrão
+- 6.1 A linha como caminho
 - 6.2 A linha como caminho
 - 6.3 A linha que cria trilhas
 
@@ -438,7 +438,7 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 ## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como padrão
+- 6.1 A linha como caminho
 - 6.2 A linha como caminho
 - 6.3 A linha que cria trilhas
 
@@ -549,11 +549,11 @@ Avaliar os conhecimentos das aulas da semana 7.
 
 ---
 
-[Belas artes] - Ano 1 - 8.3 As formas em figuras
+[Belas artes] - Ano 1 - 8.3 As formas em figuras inventadas
 
 # Description
 
-**Tema central da semana**, As formas na natureza. **Foco da aula**, segundo desdobramento, As formas em figuras.
+**Tema central da semana**, As formas na natureza. **Foco da aula**, segundo desdobramento, As formas em figuras inventadas.
 
 ## Objetivos
    → Pratique a composição de figuras com formas como segundo desdobramento.
@@ -572,7 +572,7 @@ Revisar os conhecimentos das aulas da semana 8.
 
 - 8.1 As formas na natureza
 - 8.2 As formas em bichos
-- 8.3 As formas em figuras
+- 8.3 As formas em figuras inventadas
 
 ---
 
@@ -586,7 +586,7 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 - 8.1 As formas na natureza
 - 8.2 As formas em bichos
-- 8.3 As formas em figuras
+- 8.3 As formas em figuras inventadas
 
 ---
 
@@ -604,7 +604,7 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 - 1.1 A arte e a expressão
 - 1.2 A arte e a beleza
-- 1.3 A arte e a habilidade humana
+- 1.3 A arte e a habilidade
 
 ## 2ª Semana, **A arte nos lugares da vida**
 
@@ -620,19 +620,19 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 ## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 O ponto como padrão
+- 4.1 A arte feita com pontos
 - 4.2 Os pontos nas obras
 - 4.3 Os pontos nas cores
 
 ## 5ª Semana, **A linha no desenho**
 
 - 5.1 A linha no desenho
-- 5.2 As linhas retas
-- 5.3 As linhas curvas
+- 5.2 As linhas retas e curvas
+- 5.3 As linhas de barbante
 
 ## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como padrão
+- 6.1 A linha como caminho
 - 6.2 A linha como caminho
 - 6.3 A linha que cria trilhas
 
@@ -646,7 +646,7 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 - 8.1 As formas na natureza
 - 8.2 As formas em bichos
-- 8.3 As formas em figuras
+- 8.3 As formas em figuras inventadas
 
 ---
 
@@ -664,7 +664,7 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 - 1.1 A arte e a expressão
 - 1.2 A arte e a beleza
-- 1.3 A arte e a habilidade humana
+- 1.3 A arte e a habilidade
 
 ## 2ª Semana, **A arte nos lugares da vida**
 
@@ -680,19 +680,19 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 ## 4ª Semana, **A arte feita com pontos**
 
-- 4.1 O ponto como padrão
+- 4.1 A arte feita com pontos
 - 4.2 Os pontos nas obras
 - 4.3 Os pontos nas cores
 
 ## 5ª Semana, **A linha no desenho**
 
 - 5.1 A linha no desenho
-- 5.2 As linhas retas
-- 5.3 As linhas curvas
+- 5.2 As linhas retas e curvas
+- 5.3 As linhas de barbante
 
 ## 6ª Semana, **A linha como caminho**
 
-- 6.1 A linha como padrão
+- 6.1 A linha como caminho
 - 6.2 A linha como caminho
 - 6.3 A linha que cria trilhas
 
@@ -706,7 +706,7 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 - 8.1 As formas na natureza
 - 8.2 As formas em bichos
-- 8.3 As formas em figuras
+- 8.3 As formas em figuras inventadas
 
 ---
 
@@ -1021,11 +1021,11 @@ Avaliar os conhecimentos das aulas da semana 14.
 
 ---
 
-[Belas artes] - Ano 1 - 15.2 Texturas lisas e ásperas
+[Belas artes] - Ano 1 - 15.2 As texturas lisas e ásperas
 
 # Description
 
-**Tema central da semana**, A textura na arte. **Foco da aula**, primeiro desdobramento, Texturas lisas e ásperas.
+**Tema central da semana**, A textura na arte. **Foco da aula**, primeiro desdobramento, As texturas lisas e ásperas.
 
 ## Objetivos
    → Compreenda texturas lisas e ásperas como primeiro desdobramento da semana.
@@ -1034,11 +1034,11 @@ Avaliar os conhecimentos das aulas da semana 14.
 
 ---
 
-[Belas artes] - Ano 1 - 15.3 Texturas da areia e das folhas
+[Belas artes] - Ano 1 - 15.3 As texturas da areia e das folhas
 
 # Description
 
-**Tema central da semana**, A textura na arte. **Foco da aula**, segundo desdobramento, Texturas da areia e das folhas.
+**Tema central da semana**, A textura na arte. **Foco da aula**, segundo desdobramento, As texturas da areia e das folhas.
 
 ## Objetivos
    → Pratique texturas da areia e das folhas como segundo desdobramento da semana.
@@ -1056,8 +1056,8 @@ Revisar os conhecimentos das aulas da semana 15.
 ## 15ª Semana, **A textura na arte**
 
 - 15.1 A textura na arte
-- 15.2 Texturas lisas e ásperas
-- 15.3 Texturas da areia e das folhas
+- 15.2 As texturas lisas e ásperas
+- 15.3 As texturas da areia e das folhas
 
 ---
 
@@ -1070,8 +1070,8 @@ Avaliar os conhecimentos das aulas da semana 15.
 ## 15ª Semana, **A textura na arte**
 
 - 15.1 A textura na arte
-- 15.2 Texturas lisas e ásperas
-- 15.3 Texturas da areia e das folhas
+- 15.2 As texturas lisas e ásperas
+- 15.3 As texturas da areia e das folhas
 
 ---
 
@@ -1331,8 +1331,8 @@ Avaliar os conhecimentos das aulas da semana 18.
 ## 15ª Semana, **A textura na arte**
 
 - 15.1 A textura na arte
-- 15.2 Texturas lisas e ásperas
-- 15.3 Texturas da areia e das folhas
+- 15.2 As texturas lisas e ásperas
+- 15.3 As texturas da areia e das folhas
 
 ## 16ª Semana, **A textura e o sentimento**
 
@@ -1391,8 +1391,8 @@ Avaliar os conhecimentos das aulas da semana 18.
 ## 15ª Semana, **A textura na arte**
 
 - 15.1 A textura na arte
-- 15.2 Texturas lisas e ásperas
-- 15.3 Texturas da areia e das folhas
+- 15.2 As texturas lisas e ásperas
+- 15.3 As texturas da areia e das folhas
 
 ## 16ª Semana, **A textura e o sentimento**
 
@@ -1416,7 +1416,7 @@ Avaliar os conhecimentos das aulas da semana 18.
 
 ## Semana 21 – A direção no olhar
 
-**Tema central da semana**, A direção no olhar. A aula 21.1 apresenta o coração do tema. A aula 21.2 desenvolve a seta que guia. A aula 21.3 desenvolve o caminho feito com pincel.
+**Tema central da semana**, A direção no olhar. A aula 21.1 apresenta o coração do tema. A aula 21.2 desenvolve a seta que guia a história. A aula 21.3 desenvolve o caminho feito com pincel.
 
 ---
 
@@ -1433,11 +1433,11 @@ Avaliar os conhecimentos das aulas da semana 18.
 
 ---
 
-[Belas artes] - Ano 1 - 21.2 A seta que guia
+[Belas artes] - Ano 1 - 21.2 A seta que guia a história
 
 # Description
 
-**Tema central da semana**, A direção no olhar. **Foco da aula**, primeiro desdobramento, A seta que guia.
+**Tema central da semana**, A direção no olhar. **Foco da aula**, primeiro desdobramento, A seta que guia a história.
 
 ## Objetivos
    → Compreenda a seta que guia como primeiro desdobramento da semana.
@@ -1468,7 +1468,7 @@ Revisar os conhecimentos das aulas da semana 21.
 ## 21ª Semana, **A direção no olhar**
 
 - 21.1 A direção no olhar
-- 21.2 A seta que guia
+- 21.2 A seta que guia a história
 - 21.3 O caminho feito com pincel
 
 ---
@@ -1482,7 +1482,7 @@ Avaliar os conhecimentos das aulas da semana 21.
 ## 21ª Semana, **A direção no olhar**
 
 - 21.1 A direção no olhar
-- 21.2 A seta que guia
+- 21.2 A seta que guia a história
 - 21.3 O caminho feito com pincel
 
 ---
@@ -1579,11 +1579,11 @@ Avaliar os conhecimentos das aulas da semana 22.
 
 ---
 
-[Belas artes] - Ano 1 - 23.2 Quadro com formas e cores
+[Belas artes] - Ano 1 - 23.2 O quadro com formas e cores
 
 # Description
 
-**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, primeiro desdobramento, Quadro com formas e cores.
+**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, primeiro desdobramento, O quadro com formas e cores.
 
 ## Objetivos
    → Compreenda o quadro com formas e cores como primeiro desdobramento da semana.
@@ -1592,11 +1592,11 @@ Avaliar os conhecimentos das aulas da semana 22.
 
 ---
 
-[Belas artes] - Ano 1 - 23.3 Obra com ponto, linha e espaço
+[Belas artes] - Ano 1 - 23.3 A obra com ponto, linha e espaço
 
 # Description
 
-**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, segundo desdobramento, Obra com ponto, linha e espaço.
+**Tema central da semana**, A obra com os elementos da arte. **Foco da aula**, segundo desdobramento, A obra com ponto, linha e espaço.
 
 ## Objetivos
    → Pratique a obra com ponto, linha e espaço como segundo desdobramento da semana.
@@ -1614,8 +1614,8 @@ Revisar os conhecimentos das aulas da semana 23.
 ## 23ª Semana, **A obra com os elementos da arte**
 
 - 23.1 A obra com os elementos da arte
-- 23.2 Quadro com formas e cores
-- 23.3 Obra com ponto, linha e espaço
+- 23.2 O quadro com formas e cores
+- 23.3 A obra com ponto, linha e espaço
 
 ---
 
@@ -1628,8 +1628,8 @@ Avaliar os conhecimentos das aulas da semana 23.
 ## 23ª Semana, **A obra com os elementos da arte**
 
 - 23.1 A obra com os elementos da arte
-- 23.2 Quadro com formas e cores
-- 23.3 Obra com ponto, linha e espaço
+- 23.2 O quadro com formas e cores
+- 23.3 A obra com ponto, linha e espaço
 
 ---
 
@@ -2011,7 +2011,7 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 21ª Semana, **A direção no olhar**
 
 - 21.1 A direção no olhar
-- 21.2 A seta que guia
+- 21.2 A seta que guia a história
 - 21.3 O caminho feito com pincel
 
 ## 22ª Semana, **O equilíbrio na arte**
@@ -2023,8 +2023,8 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 23ª Semana, **A obra com os elementos da arte**
 
 - 23.1 A obra com os elementos da arte
-- 23.2 Quadro com formas e cores
-- 23.3 Obra com ponto, linha e espaço
+- 23.2 O quadro com formas e cores
+- 23.3 A obra com ponto, linha e espaço
 
 ## 24ª Semana, **O desenho com formas simples**
 
@@ -2071,7 +2071,7 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 21ª Semana, **A direção no olhar**
 
 - 21.1 A direção no olhar
-- 21.2 A seta que guia
+- 21.2 A seta que guia a história
 - 21.3 O caminho feito com pincel
 
 ## 22ª Semana, **O equilíbrio na arte**
@@ -2083,8 +2083,8 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 23ª Semana, **A obra com os elementos da arte**
 
 - 23.1 A obra com os elementos da arte
-- 23.2 Quadro com formas e cores
-- 23.3 Obra com ponto, linha e espaço
+- 23.2 O quadro com formas e cores
+- 23.3 A obra com ponto, linha e espaço
 
 ## 24ª Semana, **O desenho com formas simples**
 

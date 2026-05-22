@@ -20,9 +20,9 @@ Forme no aluno a percepção de que a arte expressa a beleza criada por Deus com
 
 ## Visão teológica
 
-A semana apresenta a definição que orienta a nova abordagem. Arte expressa a beleza criada por Deus com habilidade humana.
+Trate a arte e a expressão como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A aula 1.1 é o coração da semana. Ela define arte e expressão. A aula 1.2 desenvolve a beleza criada por Deus. A aula 1.3 desenvolve a habilidade humana.
+A semana não trabalha três temas soltos. A aula 1.1 define o coração. A aula 1.2 desenvolve o primeiro subtópico. A aula 1.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -84,9 +84,9 @@ Leve o aluno a reconhecer a arte nos lugares da vida como eixo da semana. Depois
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 2.1 | A arte nos lugares da vida | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
-| 2.2 | A arte nos livros e na igreja | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
-| 2.3 | A arte em casa e na natureza | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
+| 2.1 | A arte nos lugares da vida | Coração da semana. Define o tema principal. | Colossenses 3.23 |
+| 2.2 | A arte nos livros e na igreja | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
+| 2.3 | A arte em casa e na natureza | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
 
 ## Progressão pedagógica
 
@@ -136,13 +136,13 @@ Leve o aluno a reconhecer o ponto no desenho como eixo da semana. Depois, conduz
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 3.1 | A arte feita com pontos | Coração da semana. Define o tema principal. | Êxodo 35.35 |
-| 3.2 | O ponto como começo | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
-| 3.3 | O ponto no desenho | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
+| 3.1 | O ponto no desenho | Coração da semana. Define o tema principal. | Romanos 11.36 |
+| 3.2 | O ponto como começo | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
+| 3.3 | O ponto como padrão | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
 
 ## Progressão pedagógica
 
-1. 3.1 - A arte feita com pontos
+1. 3.1 - O ponto no desenho
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
@@ -150,7 +150,7 @@ Apresente o tema principal da semana. Fixe a definição central e conduza a obs
 
 Desenvolva o subtópico 1. Retome a definição da aula 3.1 e aplique o tema a um recorte específico.
 
-3. 3.3 - O ponto no desenho
+3. 3.3 - O ponto como padrão
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -161,9 +161,9 @@ O eixo O ponto no desenho ensina a criança a ver a arte como resposta à beleza
 ## Resumo pedagógico
 
 - Eixo temático, O ponto no desenho
-- Aula coração, 3.1 A arte feita com pontos
+- Aula coração, 3.1 O ponto no desenho
 - Subtópico 1, 3.2 O ponto como começo
-- Subtópico 2, 3.3 O ponto no desenho
+- Subtópico 2, 3.3 O ponto como padrão
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 4
@@ -188,13 +188,13 @@ Leve o aluno a reconhecer a arte feita com pontos como eixo da semana. Depois, c
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 4.1 | O ponto como padrão | Coração da semana. Define o tema principal. | Colossenses 3.23 |
-| 4.2 | Os pontos nas obras | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
-| 4.3 | Os pontos nas cores | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
+| 4.1 | A arte feita com pontos | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
+| 4.2 | Os pontos nas obras | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
+| 4.3 | Os pontos nas cores | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
 
-1. 4.1 - O ponto como padrão
+1. 4.1 - A arte feita com pontos
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
@@ -213,7 +213,7 @@ O eixo A arte feita com pontos ensina a criança a ver a arte como resposta à b
 ## Resumo pedagógico
 
 - Eixo temático, A arte feita com pontos
-- Aula coração, 4.1 O ponto como padrão
+- Aula coração, 4.1 A arte feita com pontos
 - Subtópico 1, 4.2 Os pontos nas obras
 - Subtópico 2, 4.3 Os pontos nas cores
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
@@ -241,8 +241,8 @@ Leve o aluno a reconhecer a linha no desenho como eixo da semana. Depois, conduz
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
 | 5.1 | A linha no desenho | Coração da semana. Define o tema principal. | Salmo 90.17 |
-| 5.2 | As linhas retas | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 5.3 | As linhas curvas | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 5.2 | As linhas retas e curvas | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
+| 5.3 | As linhas de barbante | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
@@ -250,11 +250,11 @@ Leve o aluno a reconhecer a linha no desenho como eixo da semana. Depois, conduz
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 5.2 - As linhas retas
+2. 5.2 - As linhas retas e curvas
 
 Desenvolva o subtópico 1. Retome a definição da aula 5.1 e aplique o tema a um recorte específico.
 
-3. 5.3 - As linhas curvas
+3. 5.3 - As linhas de barbante
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -266,8 +266,8 @@ O eixo A linha no desenho ensina a criança a ver a arte como resposta à beleza
 
 - Eixo temático, A linha no desenho
 - Aula coração, 5.1 A linha no desenho
-- Subtópico 1, 5.2 As linhas retas
-- Subtópico 2, 5.3 As linhas curvas
+- Subtópico 1, 5.2 As linhas retas e curvas
+- Subtópico 2, 5.3 As linhas de barbante
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 6
@@ -292,17 +292,17 @@ Leve o aluno a reconhecer a linha como caminho como eixo da semana. Depois, cond
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 6.1 | A linha como padrão | Coração da semana. Define o tema principal. | Provérbios 3.6 |
-| 6.2 | A linha como caminho | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
-| 6.3 | A linha que cria trilhas | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
+| 6.1 | A linha como caminho | Coração da semana. Define o tema principal. | Gênesis 1.31 |
+| 6.2 | A linha que acompanha o som | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
+| 6.3 | A linha que cria trilhas | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
 
 ## Progressão pedagógica
 
-1. 6.1 - A linha como padrão
+1. 6.1 - A linha como caminho
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 6.2 - A linha como caminho
+2. 6.2 - A linha que acompanha o som
 
 Desenvolva o subtópico 1. Retome a definição da aula 6.1 e aplique o tema a um recorte específico.
 
@@ -317,8 +317,8 @@ O eixo A linha como caminho ensina a criança a ver a arte como resposta à bele
 ## Resumo pedagógico
 
 - Eixo temático, A linha como caminho
-- Aula coração, 6.1 A linha como padrão
-- Subtópico 1, 6.2 A linha como caminho
+- Aula coração, 6.1 A linha como caminho
+- Subtópico 1, 6.2 A linha que acompanha o som
 - Subtópico 2, 6.3 A linha que cria trilhas
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
@@ -344,9 +344,9 @@ Leve o aluno a reconhecer as formas no desenho como eixo da semana. Depois, cond
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 7.1 | As formas no desenho | Coração da semana. Define o tema principal. | Romanos 11.36 |
-| 7.2 | O círculo, o quadrado e o triângulo | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
-| 7.3 | As formas que criam imagens | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
+| 7.1 | As formas no desenho | Coração da semana. Define o tema principal. | Êxodo 35.35 |
+| 7.2 | O círculo, o quadrado e o triângulo | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
+| 7.3 | As formas que criam imagens | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
 
 ## Progressão pedagógica
 
@@ -396,9 +396,9 @@ Leve o aluno a reconhecer as formas na natureza como eixo da semana. Depois, con
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 8.1 | As formas na natureza | Coração da semana. Define o tema principal. | Gênesis 1.31 |
-| 8.2 | As formas em bichos | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
-| 8.3 | As formas em figuras | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
+| 8.1 | As formas na natureza | Coração da semana. Define o tema principal. | Provérbios 3.6 |
+| 8.2 | As formas em bichos | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
+| 8.3 | As formas em figuras inventadas | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
 
 ## Progressão pedagógica
 
@@ -410,7 +410,7 @@ Apresente o tema principal da semana. Fixe a definição central e conduza a obs
 
 Desenvolva o subtópico 1. Retome a definição da aula 8.1 e aplique o tema a um recorte específico.
 
-3. 8.3 - As formas em figuras
+3. 8.3 - As formas em figuras inventadas
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -423,7 +423,7 @@ O eixo As formas na natureza ensina a criança a ver a arte como resposta à bel
 - Eixo temático, As formas na natureza
 - Aula coração, 8.1 As formas na natureza
 - Subtópico 1, 8.2 As formas em bichos
-- Subtópico 2, 8.3 As formas em figuras
+- Subtópico 2, 8.3 As formas em figuras inventadas
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 11
@@ -460,9 +460,9 @@ Leve o aluno a reconhecer as cores primárias como eixo da semana. Depois, condu
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 11.1 | As cores primárias | Coração da semana. Define o tema principal. | Êxodo 35.35 |
-| 11.2 | O vermelho, o azul e o amarelo | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
-| 11.3 | As cores que nascem da mistura | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
+| 11.1 | As cores primárias | Coração da semana. Define o tema principal. | Salmo 19.1 |
+| 11.2 | O vermelho, o azul e o amarelo | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
+| 11.3 | As cores que nascem da mistura | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
 
 ## Progressão pedagógica
 
@@ -564,9 +564,9 @@ Leve o aluno a reconhecer a cor e a música como eixo da semana. Depois, conduza
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 13.1 | A cor e a música | Coração da semana. Define o tema principal. | Salmo 90.17 |
-| 13.2 | A cor que acompanha o som | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 13.3 | A cor que expressa sentimento | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 13.1 | A cor e a música | Coração da semana. Define o tema principal. | Romanos 11.36 |
+| 13.2 | A cor que acompanha o som | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
+| 13.3 | A cor que expressa sentimento | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
 
 ## Progressão pedagógica
 
@@ -616,9 +616,9 @@ Leve o aluno a reconhecer as cores do dia e da noite como eixo da semana. Depois
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 14.1 | As cores do dia e da noite | Coração da semana. Define o tema principal. | Provérbios 3.6 |
-| 14.2 | As cores da luz do sol | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
-| 14.3 | As cores da noite | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
+| 14.1 | As cores do dia e da noite | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
+| 14.2 | As cores da luz do sol | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
+| 14.3 | As cores da noite | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
 
@@ -658,7 +658,7 @@ Depois de trabalhar as cores do dia e da noite, avance para a textura na arte. P
 
 Trate a textura na arte como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 13.1 define o coração. A aula 13.2 desenvolve o primeiro subtópico. A aula 13.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 15.1 define o coração. A aula 15.2 desenvolve o primeiro subtópico. A aula 15.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -668,21 +668,21 @@ Leve o aluno a reconhecer a textura na arte como eixo da semana. Depois, conduza
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 13.1 | A textura na arte | Coração da semana. Define o tema principal. | Romanos 11.36 |
-| 13.2 | Texturas lisas e ásperas | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
-| 13.3 | Texturas da areia e das folhas | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
+| 15.1 | A textura na arte | Coração da semana. Define o tema principal. | Salmo 90.17 |
+| 15.2 | As texturas lisas e ásperas | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
+| 15.3 | As texturas da areia e das folhas | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
-1. 13.1 - A textura na arte
+1. 15.1 - A textura na arte
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 13.2 - Texturas lisas e ásperas
+2. 15.2 - As texturas lisas e ásperas
 
-Desenvolva o subtópico 1. Retome a definição da aula 13.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 15.1 e aplique o tema a um recorte específico.
 
-3. 13.3 - Texturas da areia e das folhas
+3. 15.3 - As texturas da areia e das folhas
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -693,9 +693,9 @@ O eixo A textura na arte ensina a criança a ver a arte como resposta à beleza 
 ## Resumo pedagógico
 
 - Eixo temático, A textura na arte
-- Aula coração, 13.1 A textura na arte
-- Subtópico 1, 13.2 Texturas lisas e ásperas
-- Subtópico 2, 13.3 Texturas da areia e das folhas
+- Aula coração, 15.1 A textura na arte
+- Subtópico 1, 15.2 As texturas lisas e ásperas
+- Subtópico 2, 15.3 As texturas da areia e das folhas
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 16
@@ -710,7 +710,7 @@ Depois de trabalhar a textura na arte, avance para a textura e o sentimento. Pre
 
 Trate a textura e o sentimento como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 14.1 define o coração. A aula 14.2 desenvolve o primeiro subtópico. A aula 14.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 16.1 define o coração. A aula 16.2 desenvolve o primeiro subtópico. A aula 16.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -720,21 +720,21 @@ Leve o aluno a reconhecer a textura e o sentimento como eixo da semana. Depois, 
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 14.1 | A textura e o sentimento | Coração da semana. Define o tema principal. | Gênesis 1.31 |
-| 14.2 | A textura feita com massa | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
-| 14.3 | A textura feita com elementos naturais | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
+| 16.1 | A textura e o sentimento | Coração da semana. Define o tema principal. | Gênesis 1.31 |
+| 16.2 | A textura feita com massa | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
+| 16.3 | A textura feita com elementos naturais | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
 
 ## Progressão pedagógica
 
-1. 14.1 - A textura e o sentimento
+1. 16.1 - A textura e o sentimento
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 14.2 - A textura feita com massa
+2. 16.2 - A textura feita com massa
 
-Desenvolva o subtópico 1. Retome a definição da aula 14.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 16.1 e aplique o tema a um recorte específico.
 
-3. 14.3 - A textura feita com elementos naturais
+3. 16.3 - A textura feita com elementos naturais
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -745,9 +745,9 @@ O eixo A textura e o sentimento ensina a criança a ver a arte como resposta à 
 ## Resumo pedagógico
 
 - Eixo temático, A textura e o sentimento
-- Aula coração, 14.1 A textura e o sentimento
-- Subtópico 1, 14.2 A textura feita com massa
-- Subtópico 2, 14.3 A textura feita com elementos naturais
+- Aula coração, 16.1 A textura e o sentimento
+- Subtópico 1, 16.2 A textura feita com massa
+- Subtópico 2, 16.3 A textura feita com elementos naturais
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 17
@@ -762,7 +762,7 @@ Depois de trabalhar a textura e o sentimento, avance para o espaço no papel. Pr
 
 Trate o espaço no papel como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 15.1 define o coração. A aula 15.2 desenvolve o primeiro subtópico. A aula 15.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 17.1 define o coração. A aula 17.2 desenvolve o primeiro subtópico. A aula 17.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -772,21 +772,21 @@ Leve o aluno a reconhecer o espaço no papel como eixo da semana. Depois, conduz
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 15.1 | O espaço no papel | Coração da semana. Define o tema principal. | Salmo 19.1 |
-| 15.2 | O fundo, a borda e o centro | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
-| 15.3 | O grande e o pequeno | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
+| 17.1 | O espaço no papel | Coração da semana. Define o tema principal. | Êxodo 35.35 |
+| 17.2 | O fundo, a borda e o centro | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
+| 17.3 | O grande e o pequeno | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
 
 ## Progressão pedagógica
 
-1. 15.1 - O espaço no papel
+1. 17.1 - O espaço no papel
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 15.2 - O fundo, a borda e o centro
+2. 17.2 - O fundo, a borda e o centro
 
-Desenvolva o subtópico 1. Retome a definição da aula 15.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 17.1 e aplique o tema a um recorte específico.
 
-3. 15.3 - O grande e o pequeno
+3. 17.3 - O grande e o pequeno
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -797,9 +797,9 @@ O eixo O espaço no papel ensina a criança a ver a arte como resposta à beleza
 ## Resumo pedagógico
 
 - Eixo temático, O espaço no papel
-- Aula coração, 15.1 O espaço no papel
-- Subtópico 1, 15.2 O fundo, a borda e o centro
-- Subtópico 2, 15.3 O grande e o pequeno
+- Aula coração, 17.1 O espaço no papel
+- Subtópico 1, 17.2 O fundo, a borda e o centro
+- Subtópico 2, 17.3 O grande e o pequeno
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 18
@@ -814,7 +814,7 @@ Depois de trabalhar o espaço no papel, avance para o espaço cheio e vazio. Pre
 
 Trate o espaço cheio e vazio como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 16.1 define o coração. A aula 16.2 desenvolve o primeiro subtópico. A aula 16.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 18.1 define o coração. A aula 18.2 desenvolve o primeiro subtópico. A aula 18.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -824,21 +824,21 @@ Leve o aluno a reconhecer o espaço cheio e vazio como eixo da semana. Depois, c
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 16.1 | O espaço cheio e vazio | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
-| 16.2 | O espaço com respiro | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
-| 16.3 | O espaço da cidade no papel | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
+| 18.1 | O espaço cheio e vazio | Coração da semana. Define o tema principal. | Provérbios 3.6 |
+| 18.2 | O espaço com respiro | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
+| 18.3 | O espaço da cidade no papel | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
 
 ## Progressão pedagógica
 
-1. 16.1 - O espaço cheio e vazio
+1. 18.1 - O espaço cheio e vazio
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 16.2 - O espaço com respiro
+2. 18.2 - O espaço com respiro
 
-Desenvolva o subtópico 1. Retome a definição da aula 16.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 18.1 e aplique o tema a um recorte específico.
 
-3. 16.3 - O espaço da cidade no papel
+3. 18.3 - O espaço da cidade no papel
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -849,9 +849,9 @@ O eixo O espaço cheio e vazio ensina a criança a ver a arte como resposta à b
 ## Resumo pedagógico
 
 - Eixo temático, O espaço cheio e vazio
-- Aula coração, 16.1 O espaço cheio e vazio
-- Subtópico 1, 16.2 O espaço com respiro
-- Subtópico 2, 16.3 O espaço da cidade no papel
+- Aula coração, 18.1 O espaço cheio e vazio
+- Subtópico 1, 18.2 O espaço com respiro
+- Subtópico 2, 18.3 O espaço da cidade no papel
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 21
@@ -878,7 +878,7 @@ Avalie o bloco anterior com atividades coerentes com os 5 hábitos.
 
 Trate a direção no olhar como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 17.1 define o coração. A aula 17.2 desenvolve o primeiro subtópico. A aula 17.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 21.1 define o coração. A aula 21.2 desenvolve o primeiro subtópico. A aula 21.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -888,21 +888,21 @@ Leve o aluno a reconhecer a direção no olhar como eixo da semana. Depois, cond
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 17.1 | A direção no olhar | Coração da semana. Define o tema principal. | Salmo 90.17 |
-| 17.2 | A seta que guia | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 17.3 | O caminho feito com pincel | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 21.1 | A direção no olhar | Coração da semana. Define o tema principal. | Salmo 19.1 |
+| 21.2 | A seta que guia a história | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
+| 21.3 | O caminho feito com pincel | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
 
 ## Progressão pedagógica
 
-1. 17.1 - A direção no olhar
+1. 21.1 - A direção no olhar
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 17.2 - A seta que guia
+2. 21.2 - A seta que guia a história
 
-Desenvolva o subtópico 1. Retome a definição da aula 17.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 21.1 e aplique o tema a um recorte específico.
 
-3. 17.3 - O caminho feito com pincel
+3. 21.3 - O caminho feito com pincel
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -913,9 +913,9 @@ O eixo A direção no olhar ensina a criança a ver a arte como resposta à bele
 ## Resumo pedagógico
 
 - Eixo temático, A direção no olhar
-- Aula coração, 17.1 A direção no olhar
-- Subtópico 1, 17.2 A seta que guia
-- Subtópico 2, 17.3 O caminho feito com pincel
+- Aula coração, 21.1 A direção no olhar
+- Subtópico 1, 21.2 A seta que guia a história
+- Subtópico 2, 21.3 O caminho feito com pincel
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 22
@@ -930,7 +930,7 @@ Depois de trabalhar a direção no olhar, avance para o equilíbrio na arte. Pre
 
 Trate o equilíbrio na arte como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 18.1 define o coração. A aula 18.2 desenvolve o primeiro subtópico. A aula 18.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 22.1 define o coração. A aula 22.2 desenvolve o primeiro subtópico. A aula 22.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -940,21 +940,21 @@ Leve o aluno a reconhecer o equilíbrio na arte como eixo da semana. Depois, con
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 18.1 | O equilíbrio na arte | Coração da semana. Define o tema principal. | Provérbios 3.6 |
-| 18.2 | O equilíbrio da dobradura | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
-| 18.3 | O equilíbrio da simetria | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
+| 22.1 | O equilíbrio na arte | Coração da semana. Define o tema principal. | Colossenses 3.23 |
+| 22.2 | O equilíbrio da dobradura | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
+| 22.3 | O equilíbrio da simetria | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
 
 ## Progressão pedagógica
 
-1. 18.1 - O equilíbrio na arte
+1. 22.1 - O equilíbrio na arte
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 18.2 - O equilíbrio da dobradura
+2. 22.2 - O equilíbrio da dobradura
 
-Desenvolva o subtópico 1. Retome a definição da aula 18.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 22.1 e aplique o tema a um recorte específico.
 
-3. 18.3 - O equilíbrio da simetria
+3. 22.3 - O equilíbrio da simetria
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -965,9 +965,9 @@ O eixo O equilíbrio na arte ensina a criança a ver a arte como resposta à bel
 ## Resumo pedagógico
 
 - Eixo temático, O equilíbrio na arte
-- Aula coração, 18.1 O equilíbrio na arte
-- Subtópico 1, 18.2 O equilíbrio da dobradura
-- Subtópico 2, 18.3 O equilíbrio da simetria
+- Aula coração, 22.1 O equilíbrio na arte
+- Subtópico 1, 22.2 O equilíbrio da dobradura
+- Subtópico 2, 22.3 O equilíbrio da simetria
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 23
@@ -982,7 +982,7 @@ Depois de trabalhar o equilíbrio na arte, avance para a obra com os elementos d
 
 Trate a obra com os elementos da arte como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 19.1 define o coração. A aula 19.2 desenvolve o primeiro subtópico. A aula 19.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 23.1 define o coração. A aula 23.2 desenvolve o primeiro subtópico. A aula 23.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -992,21 +992,21 @@ Leve o aluno a reconhecer a obra com os elementos da arte como eixo da semana. D
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 19.1 | A obra com os elementos da arte | Coração da semana. Define o tema principal. | Romanos 11.36 |
-| 19.2 | Quadro com formas e cores | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
-| 19.3 | bra com ponto, linha e espaço | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
+| 23.1 | A obra com os elementos da arte | Coração da semana. Define o tema principal. | Romanos 11.36 |
+| 23.2 | O quadro com formas e cores | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
+| 23.3 | A obra com ponto, linha e espaço | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
 
 ## Progressão pedagógica
 
-1. 19.1 - A obra com os elementos da arte
+1. 23.1 - A obra com os elementos da arte
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 19.2 - Quadro com formas e cores
+2. 23.2 - O quadro com formas e cores
 
-Desenvolva o subtópico 1. Retome a definição da aula 19.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 23.1 e aplique o tema a um recorte específico.
 
-3. 19.3 - bra com ponto, linha e espaço
+3. 23.3 - A obra com ponto, linha e espaço
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1017,9 +1017,9 @@ O eixo A obra com os elementos da arte ensina a criança a ver a arte como respo
 ## Resumo pedagógico
 
 - Eixo temático, A obra com os elementos da arte
-- Aula coração, 19.1 A obra com os elementos da arte
-- Subtópico 1, 19.2 Quadro com formas e cores
-- Subtópico 2, 19.3 bra com ponto, linha e espaço
+- Aula coração, 23.1 A obra com os elementos da arte
+- Subtópico 1, 23.2 O quadro com formas e cores
+- Subtópico 2, 23.3 A obra com ponto, linha e espaço
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 24
@@ -1034,7 +1034,7 @@ Depois de trabalhar a obra com os elementos da arte, avance para o desenho com f
 
 Trate o desenho com formas simples como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 20.1 define o coração. A aula 20.2 desenvolve o primeiro subtópico. A aula 20.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 24.1 define o coração. A aula 24.2 desenvolve o primeiro subtópico. A aula 24.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1044,21 +1044,21 @@ Leve o aluno a reconhecer o desenho com formas simples como eixo da semana. Depo
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 20.1 | O desenho com formas simples | Coração da semana. Define o tema principal. | Gênesis 1.31 |
-| 20.2 | O círculo que vira gato | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
-| 20.3 | O triângulo e o quadrado na casa | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
+| 24.1 | O desenho com formas simples | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
+| 24.2 | O círculo que vira gato | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
+| 24.3 | O triângulo e o quadrado na casa | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
 
-1. 20.1 - O desenho com formas simples
+1. 24.1 - O desenho com formas simples
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 20.2 - O círculo que vira gato
+2. 24.2 - O círculo que vira gato
 
-Desenvolva o subtópico 1. Retome a definição da aula 20.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 24.1 e aplique o tema a um recorte específico.
 
-3. 20.3 - O triângulo e o quadrado na casa
+3. 24.3 - O triângulo e o quadrado na casa
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1069,9 +1069,9 @@ O eixo O desenho com formas simples ensina a criança a ver a arte como resposta
 ## Resumo pedagógico
 
 - Eixo temático, O desenho com formas simples
-- Aula coração, 20.1 O desenho com formas simples
-- Subtópico 1, 20.2 O círculo que vira gato
-- Subtópico 2, 20.3 O triângulo e o quadrado na casa
+- Aula coração, 24.1 O desenho com formas simples
+- Subtópico 1, 24.2 O círculo que vira gato
+- Subtópico 2, 24.3 O triângulo e o quadrado na casa
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 25
@@ -1086,7 +1086,7 @@ Depois de trabalhar o desenho com formas simples, avance para os animais e perso
 
 Trate os animais e personagens como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 21.1 define o coração. A aula 21.2 desenvolve o primeiro subtópico. A aula 21.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 25.1 define o coração. A aula 25.2 desenvolve o primeiro subtópico. A aula 25.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1096,21 +1096,21 @@ Leve o aluno a reconhecer os animais e personagens como eixo da semana. Depois, 
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 21.1 | Os animais e personagens | Coração da semana. Define o tema principal. | Salmo 19.1 |
-| 21.2 | O sol como personagem | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
-| 21.3 | O bicho inventado | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
+| 25.1 | Os animais e personagens | Coração da semana. Define o tema principal. | Salmo 90.17 |
+| 25.2 | O sol como personagem | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
+| 25.3 | O bicho inventado | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
-1. 21.1 - Os animais e personagens
+1. 25.1 - Os animais e personagens
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 21.2 - O sol como personagem
+2. 25.2 - O sol como personagem
 
-Desenvolva o subtópico 1. Retome a definição da aula 21.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 25.1 e aplique o tema a um recorte específico.
 
-3. 21.3 - O bicho inventado
+3. 25.3 - O bicho inventado
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1121,9 +1121,9 @@ O eixo Os animais e personagens ensina a criança a ver a arte como resposta à 
 ## Resumo pedagógico
 
 - Eixo temático, Os animais e personagens
-- Aula coração, 21.1 Os animais e personagens
-- Subtópico 1, 21.2 O sol como personagem
-- Subtópico 2, 21.3 O bicho inventado
+- Aula coração, 25.1 Os animais e personagens
+- Subtópico 1, 25.2 O sol como personagem
+- Subtópico 2, 25.3 O bicho inventado
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 26
@@ -1138,7 +1138,7 @@ Depois de trabalhar os animais e personagens, avance para o meu mundo em desenho
 
 Trate o meu mundo em desenho como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 22.1 define o coração. A aula 22.2 desenvolve o primeiro subtópico. A aula 22.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 26.1 define o coração. A aula 26.2 desenvolve o primeiro subtópico. A aula 26.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1148,21 +1148,21 @@ Leve o aluno a reconhecer o meu mundo em desenho como eixo da semana. Depois, co
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 22.1 | O meu mundo em desenho | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
-| 22.2 | A minha casa no desenho | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
-| 22.3 | O meu cantinho favorito | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
+| 26.1 | O meu mundo em desenho | Coração da semana. Define o tema principal. | Gênesis 1.31 |
+| 26.2 | A minha casa no desenho | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
+| 26.3 | O meu cantinho favorito | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
 
 ## Progressão pedagógica
 
-1. 22.1 - O meu mundo em desenho
+1. 26.1 - O meu mundo em desenho
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 22.2 - A minha casa no desenho
+2. 26.2 - A minha casa no desenho
 
-Desenvolva o subtópico 1. Retome a definição da aula 22.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 26.1 e aplique o tema a um recorte específico.
 
-3. 22.3 - O meu cantinho favorito
+3. 26.3 - O meu cantinho favorito
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1173,9 +1173,9 @@ O eixo O meu mundo em desenho ensina a criança a ver a arte como resposta à be
 ## Resumo pedagógico
 
 - Eixo temático, O meu mundo em desenho
-- Aula coração, 22.1 O meu mundo em desenho
-- Subtópico 1, 22.2 A minha casa no desenho
-- Subtópico 2, 22.3 O meu cantinho favorito
+- Aula coração, 26.1 O meu mundo em desenho
+- Subtópico 1, 26.2 A minha casa no desenho
+- Subtópico 2, 26.3 O meu cantinho favorito
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 27
@@ -1190,7 +1190,7 @@ Depois de trabalhar o meu mundo em desenho, avance para os lugares e histórias.
 
 Trate os lugares e histórias como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 23.1 define o coração. A aula 23.2 desenvolve o primeiro subtópico. A aula 23.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 27.1 define o coração. A aula 27.2 desenvolve o primeiro subtópico. A aula 27.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1200,21 +1200,21 @@ Leve o aluno a reconhecer os lugares e histórias como eixo da semana. Depois, c
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 23.1 | Os lugares e histórias | Coração da semana. Define o tema principal. | Êxodo 35.35 |
-| 23.2 | A igreja com torres | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
-| 23.3 | O parquinho colorido | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
+| 27.1 | Os lugares e histórias | Coração da semana. Define o tema principal. | Êxodo 35.35 |
+| 27.2 | A igreja com torres | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
+| 27.3 | O parquinho colorido | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
 
 ## Progressão pedagógica
 
-1. 23.1 - Os lugares e histórias
+1. 27.1 - Os lugares e histórias
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 23.2 - A igreja com torres
+2. 27.2 - A igreja com torres
 
-Desenvolva o subtópico 1. Retome a definição da aula 23.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 27.1 e aplique o tema a um recorte específico.
 
-3. 23.3 - O parquinho colorido
+3. 27.3 - O parquinho colorido
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1225,9 +1225,9 @@ O eixo Os lugares e histórias ensina a criança a ver a arte como resposta à b
 ## Resumo pedagógico
 
 - Eixo temático, Os lugares e histórias
-- Aula coração, 23.1 Os lugares e histórias
-- Subtópico 1, 23.2 A igreja com torres
-- Subtópico 2, 23.3 O parquinho colorido
+- Aula coração, 27.1 Os lugares e histórias
+- Subtópico 1, 27.2 A igreja com torres
+- Subtópico 2, 27.3 O parquinho colorido
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 28
@@ -1242,7 +1242,7 @@ Depois de trabalhar os lugares e histórias, avance para as histórias que inspi
 
 Trate as histórias que inspiram a arte como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 24.1 define o coração. A aula 24.2 desenvolve o primeiro subtópico. A aula 24.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 28.1 define o coração. A aula 28.2 desenvolve o primeiro subtópico. A aula 28.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1252,21 +1252,21 @@ Leve o aluno a reconhecer as histórias que inspiram a arte como eixo da semana.
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 24.1 | As histórias que inspiram a arte | Coração da semana. Define o tema principal. | Colossenses 3.23 |
-| 24.2 | A arca com muitos animais | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
-| 24.3 | O jardim da criação | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
+| 28.1 | As histórias que inspiram a arte | Coração da semana. Define o tema principal. | Provérbios 3.6 |
+| 28.2 | A arca com muitos animais | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
+| 28.3 | O jardim da criação | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
 
 ## Progressão pedagógica
 
-1. 24.1 - As histórias que inspiram a arte
+1. 28.1 - As histórias que inspiram a arte
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 24.2 - A arca com muitos animais
+2. 28.2 - A arca com muitos animais
 
-Desenvolva o subtópico 1. Retome a definição da aula 24.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 28.1 e aplique o tema a um recorte específico.
 
-3. 24.3 - O jardim da criação
+3. 28.3 - O jardim da criação
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1277,9 +1277,9 @@ O eixo As histórias que inspiram a arte ensina a criança a ver a arte como res
 ## Resumo pedagógico
 
 - Eixo temático, As histórias que inspiram a arte
-- Aula coração, 24.1 As histórias que inspiram a arte
-- Subtópico 1, 24.2 A arca com muitos animais
-- Subtópico 2, 24.3 O jardim da criação
+- Aula coração, 28.1 As histórias que inspiram a arte
+- Subtópico 1, 28.2 A arca com muitos animais
+- Subtópico 2, 28.3 O jardim da criação
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 31
@@ -1306,7 +1306,7 @@ Avalie o bloco anterior com atividades coerentes com os 5 hábitos.
 
 Trate o céu e a esperança como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 25.1 define o coração. A aula 25.2 desenvolve o primeiro subtópico. A aula 25.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 31.1 define o coração. A aula 31.2 desenvolve o primeiro subtópico. A aula 31.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1316,21 +1316,21 @@ Leve o aluno a reconhecer o céu e a esperança como eixo da semana. Depois, con
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 25.1 | O céu e a esperança | Coração da semana. Define o tema principal. | Romanos 11.36 |
-| 25.2 | Os anjos com tinta e papel | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
-| 25.3 | A visão do céu | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
+| 31.1 | O céu e a esperança | Coração da semana. Define o tema principal. | Salmo 19.1 |
+| 31.2 | Os anjos com tinta e papel | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
+| 31.3 | A visão do céu | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
 
 ## Progressão pedagógica
 
-1. 25.1 - O céu e a esperança
+1. 31.1 - O céu e a esperança
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 25.2 - Os anjos com tinta e papel
+2. 31.2 - Os anjos com tinta e papel
 
-Desenvolva o subtópico 1. Retome a definição da aula 25.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 31.1 e aplique o tema a um recorte específico.
 
-3. 25.3 - A visão do céu
+3. 31.3 - A visão do céu
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1341,9 +1341,9 @@ O eixo O céu e a esperança ensina a criança a ver a arte como resposta à bel
 ## Resumo pedagógico
 
 - Eixo temático, O céu e a esperança
-- Aula coração, 25.1 O céu e a esperança
-- Subtópico 1, 25.2 Os anjos com tinta e papel
-- Subtópico 2, 25.3 A visão do céu
+- Aula coração, 31.1 O céu e a esperança
+- Subtópico 1, 31.2 Os anjos com tinta e papel
+- Subtópico 2, 31.3 A visão do céu
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 32
@@ -1358,7 +1358,7 @@ Depois de trabalhar o céu e a esperança, avance para a criação da luz, dos c
 
 Trate a criação da luz, dos céus e das águas como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 26.1 define o coração. A aula 26.2 desenvolve o primeiro subtópico. A aula 26.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 32.1 define o coração. A aula 32.2 desenvolve o primeiro subtópico. A aula 32.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1368,21 +1368,21 @@ Leve o aluno a reconhecer a criação da luz, dos céus e das águas como eixo d
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 26.1 | A criação da luz, dos céus e das águas | Coração da semana. Define o tema principal. | Gênesis 1.31 |
-| 26.2 | A luz e as trevas | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
-| 26.3 | Os céus e as águas | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
+| 32.1 | A criação da luz, dos céus e das águas | Coração da semana. Define o tema principal. | Colossenses 3.23 |
+| 32.2 | A luz e as trevas | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
+| 32.3 | Os céus e as águas | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
 
 ## Progressão pedagógica
 
-1. 26.1 - A criação da luz, dos céus e das águas
+1. 32.1 - A criação da luz, dos céus e das águas
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 26.2 - A luz e as trevas
+2. 32.2 - A luz e as trevas
 
-Desenvolva o subtópico 1. Retome a definição da aula 26.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 32.1 e aplique o tema a um recorte específico.
 
-3. 26.3 - Os céus e as águas
+3. 32.3 - Os céus e as águas
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1393,9 +1393,9 @@ O eixo A criação da luz, dos céus e das águas ensina a criança a ver a arte
 ## Resumo pedagógico
 
 - Eixo temático, A criação da luz, dos céus e das águas
-- Aula coração, 26.1 A criação da luz, dos céus e das águas
-- Subtópico 1, 26.2 A luz e as trevas
-- Subtópico 2, 26.3 Os céus e as águas
+- Aula coração, 32.1 A criação da luz, dos céus e das águas
+- Subtópico 1, 32.2 A luz e as trevas
+- Subtópico 2, 32.3 Os céus e as águas
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 33
@@ -1410,7 +1410,7 @@ Depois de trabalhar a criação da luz, dos céus e das águas, avance para a cr
 
 Trate a criação da terra, dos luminares e dos seres vivos como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 27.1 define o coração. A aula 27.2 desenvolve o primeiro subtópico. A aula 27.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 33.1 define o coração. A aula 33.2 desenvolve o primeiro subtópico. A aula 33.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1420,21 +1420,21 @@ Leve o aluno a reconhecer a criação da terra, dos luminares e dos seres vivos 
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 27.1 | A criação da terra, dos luminares e dos seres vivos | Coração da semana. Define o tema principal. | Salmo 19.1 |
-| 27.2 | A terra, o sol, a lua e as estrelas | Subtópico 1. Desenvolve o primeiro recorte. | Eclesiastes 3.11 |
-| 27.3 | Os peixes e as aves | Subtópico 2. Desenvolve o segundo recorte. | Êxodo 35.35 |
+| 33.1 | A criação da terra, dos luminares e dos seres vivos | Coração da semana. Define o tema principal. | Romanos 11.36 |
+| 33.2 | A terra, o sol, a lua e as estrelas | Subtópico 1. Desenvolve o primeiro recorte. | Gênesis 1.31 |
+| 33.3 | Os peixes e as aves | Subtópico 2. Desenvolve o segundo recorte. | Salmo 19.1 |
 
 ## Progressão pedagógica
 
-1. 27.1 - A criação da terra, dos luminares e dos seres vivos
+1. 33.1 - A criação da terra, dos luminares e dos seres vivos
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 27.2 - A terra, o sol, a lua e as estrelas
+2. 33.2 - A terra, o sol, a lua e as estrelas
 
-Desenvolva o subtópico 1. Retome a definição da aula 27.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 33.1 e aplique o tema a um recorte específico.
 
-3. 27.3 - Os peixes e as aves
+3. 33.3 - Os peixes e as aves
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1445,9 +1445,9 @@ O eixo A criação da terra, dos luminares e dos seres vivos ensina a criança a
 ## Resumo pedagógico
 
 - Eixo temático, A criação da terra, dos luminares e dos seres vivos
-- Aula coração, 27.1 A criação da terra, dos luminares e dos seres vivos
-- Subtópico 1, 27.2 A terra, o sol, a lua e as estrelas
-- Subtópico 2, 27.3 Os peixes e as aves
+- Aula coração, 33.1 A criação da terra, dos luminares e dos seres vivos
+- Subtópico 1, 33.2 A terra, o sol, a lua e as estrelas
+- Subtópico 2, 33.3 Os peixes e as aves
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 34
@@ -1462,7 +1462,7 @@ Depois de trabalhar a criação da terra, dos luminares e dos seres vivos, avanc
 
 Trate a criação dos animais, do homem e do descanso como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 28.1 define o coração. A aula 28.2 desenvolve o primeiro subtópico. A aula 28.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 34.1 define o coração. A aula 34.2 desenvolve o primeiro subtópico. A aula 34.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1472,21 +1472,21 @@ Leve o aluno a reconhecer a criação dos animais, do homem e do descanso como e
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 28.1 | A criação dos animais, do homem e do descanso | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
-| 28.2 | Os animais e o ser humano | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
-| 28.3 | O dia de Deus e o painel completo | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
+| 34.1 | A criação dos animais, do homem e do descanso | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
+| 34.2 | Os animais e o ser humano | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
+| 34.3 | O dia de Deus e o painel completo | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
 
-1. 28.1 - A criação dos animais, do homem e do descanso
+1. 34.1 - A criação dos animais, do homem e do descanso
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 28.2 - Os animais e o ser humano
+2. 34.2 - Os animais e o ser humano
 
-Desenvolva o subtópico 1. Retome a definição da aula 28.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 34.1 e aplique o tema a um recorte específico.
 
-3. 28.3 - O dia de Deus e o painel completo
+3. 34.3 - O dia de Deus e o painel completo
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1497,9 +1497,9 @@ O eixo A criação dos animais, do homem e do descanso ensina a criança a ver a
 ## Resumo pedagógico
 
 - Eixo temático, A criação dos animais, do homem e do descanso
-- Aula coração, 28.1 A criação dos animais, do homem e do descanso
-- Subtópico 1, 28.2 Os animais e o ser humano
-- Subtópico 2, 28.3 O dia de Deus e o painel completo
+- Aula coração, 34.1 A criação dos animais, do homem e do descanso
+- Subtópico 1, 34.2 Os animais e o ser humano
+- Subtópico 2, 34.3 O dia de Deus e o painel completo
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 35
@@ -1514,7 +1514,7 @@ Depois de trabalhar a criação dos animais, do homem e do descanso, avance para
 
 Trate a arte e a música como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 29.1 define o coração. A aula 29.2 desenvolve o primeiro subtópico. A aula 29.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 35.1 define o coração. A aula 35.2 desenvolve o primeiro subtópico. A aula 35.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1524,21 +1524,21 @@ Leve o aluno a reconhecer a arte e a música como eixo da semana. Depois, conduz
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 29.1 | A arte e a música | Coração da semana. Define o tema principal. | Êxodo 35.35 |
-| 29.2 | A música que cria cores | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
-| 29.3 | O som que dança com o pincel | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
+| 35.1 | A arte e a música | Coração da semana. Define o tema principal. | Salmo 90.17 |
+| 35.2 | A música que cria cores | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
+| 35.3 | O som que dança com o pincel | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
-1. 29.1 - A arte e a música
+1. 35.1 - A arte e a música
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 29.2 - A música que cria cores
+2. 35.2 - A música que cria cores
 
-Desenvolva o subtópico 1. Retome a definição da aula 29.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 35.1 e aplique o tema a um recorte específico.
 
-3. 29.3 - O som que dança com o pincel
+3. 35.3 - O som que dança com o pincel
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1549,9 +1549,9 @@ O eixo A arte e a música ensina a criança a ver a arte como resposta à beleza
 ## Resumo pedagógico
 
 - Eixo temático, A arte e a música
-- Aula coração, 29.1 A arte e a música
-- Subtópico 1, 29.2 A música que cria cores
-- Subtópico 2, 29.3 O som que dança com o pincel
+- Aula coração, 35.1 A arte e a música
+- Subtópico 1, 35.2 A música que cria cores
+- Subtópico 2, 35.3 O som que dança com o pincel
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 36
@@ -1566,7 +1566,7 @@ Depois de trabalhar a arte e a música, avance para a imagem que a música revel
 
 Trate a imagem que a música revela como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 30.1 define o coração. A aula 30.2 desenvolve o primeiro subtópico. A aula 30.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 36.1 define o coração. A aula 36.2 desenvolve o primeiro subtópico. A aula 36.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1576,21 +1576,21 @@ Leve o aluno a reconhecer a imagem que a música revela como eixo da semana. Dep
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 30.1 | A imagem que a música revela | Coração da semana. Define o tema principal. | Colossenses 3.23 |
-| 30.2 | Os olhos que escutam | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 90.17 |
-| 30.3 | A música favorita em imagem | Subtópico 2. Desenvolve o segundo recorte. | Provérbios 3.6 |
+| 36.1 | A imagem que a música revela | Coração da semana. Define o tema principal. | Gênesis 1.31 |
+| 36.2 | Os olhos que escutam | Subtópico 1. Desenvolve o primeiro recorte. | Salmo 19.1 |
+| 36.3 | A música favorita em imagem | Subtópico 2. Desenvolve o segundo recorte. | Eclesiastes 3.11 |
 
 ## Progressão pedagógica
 
-1. 30.1 - A imagem que a música revela
+1. 36.1 - A imagem que a música revela
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 30.2 - Os olhos que escutam
+2. 36.2 - Os olhos que escutam
 
-Desenvolva o subtópico 1. Retome a definição da aula 30.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 36.1 e aplique o tema a um recorte específico.
 
-3. 30.3 - A música favorita em imagem
+3. 36.3 - A música favorita em imagem
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1601,9 +1601,9 @@ O eixo A imagem que a música revela ensina a criança a ver a arte como respost
 ## Resumo pedagógico
 
 - Eixo temático, A imagem que a música revela
-- Aula coração, 30.1 A imagem que a música revela
-- Subtópico 1, 30.2 Os olhos que escutam
-- Subtópico 2, 30.3 A música favorita em imagem
+- Aula coração, 36.1 A imagem que a música revela
+- Subtópico 1, 36.2 Os olhos que escutam
+- Subtópico 2, 36.3 A música favorita em imagem
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 37
@@ -1618,7 +1618,7 @@ Depois de trabalhar a imagem que a música revela, avance para as obras que enca
 
 Trate as obras que encantam como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 31.1 define o coração. A aula 31.2 desenvolve o primeiro subtópico. A aula 31.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 37.1 define o coração. A aula 37.2 desenvolve o primeiro subtópico. A aula 37.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1628,21 +1628,21 @@ Leve o aluno a reconhecer as obras que encantam como eixo da semana. Depois, con
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 31.1 | As obras que encantam | Coração da semana. Define o tema principal. | Salmo 90.17 |
-| 31.2 | Van Gogh e os girassóis | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 31.3 | Paul Klee e as cores da alegria | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 37.1 | As obras que encantam | Coração da semana. Define o tema principal. | Êxodo 35.35 |
+| 37.2 | Van Gogh e os girassóis | Subtópico 1. Desenvolve o primeiro recorte. | Colossenses 3.23 |
+| 37.3 | Paul Klee e as cores da alegria | Subtópico 2. Desenvolve o segundo recorte. | Salmo 90.17 |
 
 ## Progressão pedagógica
 
-1. 31.1 - As obras que encantam
+1. 37.1 - As obras que encantam
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 31.2 - Van Gogh e os girassóis
+2. 37.2 - Van Gogh e os girassóis
 
-Desenvolva o subtópico 1. Retome a definição da aula 31.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 37.1 e aplique o tema a um recorte específico.
 
-3. 31.3 - Paul Klee e as cores da alegria
+3. 37.3 - Paul Klee e as cores da alegria
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1653,9 +1653,9 @@ O eixo As obras que encantam ensina a criança a ver a arte como resposta à bel
 ## Resumo pedagógico
 
 - Eixo temático, As obras que encantam
-- Aula coração, 31.1 As obras que encantam
-- Subtópico 1, 31.2 Van Gogh e os girassóis
-- Subtópico 2, 31.3 Paul Klee e as cores da alegria
+- Aula coração, 37.1 As obras que encantam
+- Subtópico 1, 37.2 Van Gogh e os girassóis
+- Subtópico 2, 37.3 Paul Klee e as cores da alegria
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 38
@@ -1670,7 +1670,7 @@ Depois de trabalhar as obras que encantam, avance para a observação com o cora
 
 Trate a observação com o coração como parte da beleza criada por Deus. O aluno aprende a observar antes de produzir e a criar com gratidão.
 
-A semana não trabalha três temas soltos. A aula 32.1 define o coração. A aula 32.2 desenvolve o primeiro subtópico. A aula 32.3 desenvolve o segundo subtópico.
+A semana não trabalha três temas soltos. A aula 38.1 define o coração. A aula 38.2 desenvolve o primeiro subtópico. A aula 38.3 desenvolve o segundo subtópico.
 
 ## Objetivo geral do módulo
 
@@ -1680,21 +1680,21 @@ Leve o aluno a reconhecer a observação com o coração como eixo da semana. De
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 32.1 | A observação com o coração | Coração da semana. Define o tema principal. | Provérbios 3.6 |
-| 32.2 | Os detalhes no quadro | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
-| 32.3 | A obra que tocou o coração | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
+| 38.1 | A observação com o coração | Coração da semana. Define o tema principal. | Provérbios 3.6 |
+| 38.2 | Os detalhes no quadro | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
+| 38.3 | A obra que tocou o coração | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
 
 ## Progressão pedagógica
 
-1. 32.1 - A observação com o coração
+1. 38.1 - A observação com o coração
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 32.2 - Os detalhes no quadro
+2. 38.2 - Os detalhes no quadro
 
-Desenvolva o subtópico 1. Retome a definição da aula 32.1 e aplique o tema a um recorte específico.
+Desenvolva o subtópico 1. Retome a definição da aula 38.1 e aplique o tema a um recorte específico.
 
-3. 32.3 - A obra que tocou o coração
+3. 38.3 - A obra que tocou o coração
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1705,14 +1705,14 @@ O eixo A observação com o coração ensina a criança a ver a arte como respos
 ## Resumo pedagógico
 
 - Eixo temático, A observação com o coração
-- Aula coração, 32.1 A observação com o coração
-- Subtópico 1, 32.2 Os detalhes no quadro
-- Subtópico 2, 32.3 A obra que tocou o coração
+- Aula coração, 38.1 A observação com o coração
+- Subtópico 1, 38.2 Os detalhes no quadro
+- Subtópico 2, 38.3 A obra que tocou o coração
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
-## Fechamento do ano
+## Transição para a semana 40
 
-Retome os principais elementos visuais do ano. Valorize a observação, a habilidade humana e a gratidão pela beleza criada por Deus.
+Depois de trabalhar a observação com o coração, avance para o encerramento do ano. Preserve a ligação entre definição, observação, prática e narração.
 
 ---
 

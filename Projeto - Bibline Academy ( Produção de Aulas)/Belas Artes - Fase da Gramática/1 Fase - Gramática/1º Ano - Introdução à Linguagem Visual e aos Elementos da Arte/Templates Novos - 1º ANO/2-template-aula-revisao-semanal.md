@@ -14,21 +14,21 @@ Atividade
 
 [-HEADING]
 
-[+MULTIPLE]
+[+IMAGE_TEXT_ON]
 
-[Pergunta central da semana]
+@link_png@
 
-[Distrator curto e plausível] [=]
-[Resposta correta alinhada à definição da semana] [=] true
-[Outro distrator curto e plausível] [=]
+@link_mp3@
 
-[-MULTIPLE]
+[Título da música da semana]
+
+[-IMAGE_TEXT_ON]
 
 ## Perceber
 
 [+PARAGRAPH]
 
-Observe a imagem que estudamos durante a semana.
+Observe as imagens que estudamos durante a semana.
 
 [-PARAGRAPH]
 
@@ -44,21 +44,21 @@ Atividade
 
 --
 
-[X1] [Y1]
+20 50
 
-[Foco visual da aula 1]
-
---
-
-[X2] [Y2]
-
-[Foco visual da aula 2]
+A arte e a expressão
 
 --
 
-[X3] [Y3]
+50 50
 
-[Foco visual da aula 3]
+A arte e a beleza
+
+--
+
+80 50
+
+A arte e a habilidade
 
 [-IMAGE_LABELED]
 
@@ -110,14 +110,6 @@ Atividade
 
 [-MULTIPLE]
 
-[+FILL_IN]
-
-[Definição curta da semana com _____ na lacuna 2.]
-
-[resposta 2]
-
-[-FILL_IN]
-
 [+MULTIPLE]
 
 [Pergunta da aula 2]
@@ -127,14 +119,6 @@ Atividade
 [Outro distrator curto e plausível] [=]
 
 [-MULTIPLE]
-
-[+FILL_IN]
-
-[Definição curta da semana com _____ na lacuna 3.]
-
-[resposta 3]
-
-[-FILL_IN]
 
 [+MULTIPLE]
 
