@@ -23,10 +23,10 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | Arquivo | Caminho | O que validar |
 |---------|---------|---------------|
-| Guia de Estilo | `trivium-method-editorial/knowledge-base/guia-de-estilo.md` | Tom de voz, formatação |
-| Doutrina Pedagógica | `trivium-method-editorial/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada |
-| Rise Blocks | `trivium-method-editorial/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
-| Golden Template | `trivium-method-editorial/templates/padrao_final_aula.md` | Estrutura exata |
+| Guia de Estilo | `editorial-squad/knowledge-base/guia-de-estilo.md` | Tom de voz, formatação |
+| Doutrina Pedagógica | `editorial-squad/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada |
+| Rise Blocks | `editorial-squad/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
+| Golden Template | `editorial-squad/templates/padrao_final_aula.md` | Estrutura exata |
 | Pontos de Atenção | `Base de Conhecimento/2-Base de Conhecimento/Pontos de Atenção para Revisão do Contéudo.md` | Regras fixas |
 | Erros da IA | `Base de Conhecimento/2-Base de Conhecimento/Principais erros da IA com o Contéudo.md` | Erros conhecidos |
 | Style Conventions | `Base de Conhecimento/2-Base de Conhecimento/13-Style conventions.md` | Convenções de escrita |
@@ -37,7 +37,34 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ## CHECKLIST DE AUDITORIA COMPLETO
 
-### 0. Título da Aula (H1) — Fonte de Verdade
+### 0. Coerência Temática — Princípio Central (verificar PRIMEIRO)
+
+A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido em `x.1`) e 1 termo principal compartilhado pelas 3 aulas. Todos os hábitos de cada aula devem reforçar esse tema por ângulos diferentes.
+
+- [ ] O TERMO da semana é o eixo de todos os hábitos da aula
+- [ ] **Perceber**: a imagem ilustra diretamente o tema sob o ângulo desta aula
+- [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o tema
+- [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir
+- [ ] **Recordar**: a rima ou música menciona o tema central da semana
+- [ ] **Praticar**: o Fill_In completa a definição do tema (mesma frase da semana)
+- [ ] **Praticar**: a múltipla escolha pergunta sobre o tema e a resposta correta é a definição
+- [ ] **Praticar**: a Atividade Extra tem relação direta com o ângulo desta aula dentro do tema da semana
+- [ ] **Narrar**: o texto traz elementos explícitos do tema da semana
+- [ ] **Narrar**: as perguntas ajudam a criança a narrar o texto com suas palavras
+- [ ] Se algum hábito não reforça o tema, **REJEITAR** e devolver ao Writer
+
+### 0a. Consistência Semanal (verificar quando a aula é `x.2` ou `x.3`)
+
+- [ ] Definição curta em negrito no cabeçalho do Definir é **literal e idêntica** à de `x.1` da mesma semana
+- [ ] Statement_D do Recordar é idêntico ao de `x.1` (texto, ordem das palavras, capitalização)
+- [ ] Fill_In do Praticar usa a mesma frase da definição da semana (apenas a posição da lacuna pode mudar)
+- [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título)
+- [ ] Termo principal é o mesmo de `x.1`
+- [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
+
+---
+
+### 0b. Título da Aula (H1) — Fonte de Verdade
 - [ ] Título H1 é **idêntico** ao título no `1 - Curriculo Macro`
 - [ ] Se divergente, **REJEITAR** e devolver ao Writer para correção
 - [ ] O Curriculo Macro é a **única fonte oficial** de títulos de aula
@@ -77,7 +104,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 ### 2. Definir — Regras Específicas
 
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
-- [ ] Frases "Reconheça que..." e "Observe que..." após a definição curta
+- [ ] Duas frases em prosa direta após a definição curta, sem "Reconheça que" nem "Observe que"
 - [ ] `[+VIDEO][-VIDEO]` presente
 - [ ] Accordion: tema ou pergunta simples da aula
 - [ ] Accordion com `@link_png@`
@@ -109,7 +136,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição curta idêntica ao cabeçalho do Definir, ao Recordar e ao início do Accordion
+- [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -126,8 +153,9 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Resposta correta do `[+MULTIPLE]` é a definição curta completa e literal
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
 - [ ] Em revisão `.4`, `[+TABLE]` e `[+MATCHING]` não repetem o termo no início da definição
-- [ ] Atividade extra usa `[+PARAGRAPH]` fixo e `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`
-- [ ] Não usar `[+ATTACHMENT]` com `@link_pdf@`
+- [ ] Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção."
+- [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- [ ] **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ---
 
@@ -189,22 +217,25 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ---
 
-### 11. Termo Único
+### 11. Termo da Semana (não da aula)
 
-- [ ] Termo NÃO aparece em aulas anteriores (Currículo Macro)
-- [ ] Tema central NÃO repete aula anterior do mesmo ano
-- [ ] Aula posterior NÃO redefine conceito já ensinado com título ou formulação diferente
+- [ ] Termo da semana NÃO aparece em **semanas anteriores** do Currículo Macro
+- [ ] Termo se repete propositadamente entre `x.1`, `x.2` e `x.3` da mesma semana — isso é correto, não erro
+- [ ] Tema central da semana NÃO repete semana anterior do mesmo ano
 - [ ] Termo adequado ao tema e faixa etária
-- [ ] Se houver repetição, REJEITAR e pedir troca do tema posterior por recorte inédito no Currículo Macro
+- [ ] Se houver repetição em **outra semana**, REJEITAR e pedir troca do tema da semana posterior por recorte inédito no Currículo Macro
 
 ---
 
 ### 11b. Revisão Semanal `.4`
 
-- [ ] Na `[+TABLE]`, a coluna `Definição` não repete o termo da coluna `Termo`.
-- [ ] Em todos os `[+MATCHING]`, a definição antes de `[=]` não repete o termo que aparece depois de `[=]`.
-- [ ] Os blocos `[+STATEMENT_D]` preservam a definição curta completa, com o termo, para memorização.
-- [ ] Exemplo correto: `Vê a criação com atenção reverente. [=] Observação da natureza`.
+- [ ] A revisão usa **uma única definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`), não três definições distintas
+- [ ] O Statement_D do Recordar repete essa definição única
+- [ ] O Fill_In do Praticar usa a definição única com lacuna
+- [ ] A música/rima do `[+IMAGE_TEXT_ON]` é a mesma usada nas 3 aulas da semana
+- [ ] No Perceber, o `[+IMAGE_LABELED]` mostra **uma imagem por aula**, com o título de cada aula nos hotspots
+- [ ] As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraída de cada aula da semana
+- [ ] Se houver `[+TABLE]` ou `[+MATCHING]` (opcionais), não repetir o termo no início da definição
 
 ---
 
@@ -214,7 +245,8 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Ordem: Definir → Perceber → Recordar → Praticar → Narrar
 - [ ] H1 para título, H2 para hábitos
 - [ ] Subtítulos com `[+HEADING]` (NUNCA H3)
-- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`, `@link_pdf@`
+- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`
+- [ ] Atividade Extra usa `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` (NÃO `[+ATTACHMENT]`)
 
 ---
 
@@ -280,7 +312,3 @@ Correções necessárias:
 1. Resultado da auditoria (APPROVED ou REJECTED)
 2. Se aprovado: arquivo `reviewed_class.md` pronto para Etapa 5
 3. Se rejeitado: log detalhado de erros
-
-
-## Argumentos
-$ARGUMENTS

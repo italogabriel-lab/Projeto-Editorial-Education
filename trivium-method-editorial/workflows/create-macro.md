@@ -54,26 +54,28 @@ Extraia todos os **tópicos** listados (contexto histórico, cosmovisão, materi
 
 ---
 
-## Passo 2 — Distribuir em semanas
+## Passo 2 — Distribuir em semanas (novo padrão — semana como unidade)
 
-Distribua os tópicos extraídos nas semanas informadas, **3 dias por semana**, seguindo o formato:
+Distribua os tópicos extraídos nas semanas informadas, **3 aulas por semana**, seguindo o formato novo:
 
 ```markdown
-## Semana [X] – **[Título do Movimento]**
+## Semana [X] - [Tema central da semana]
 
-- Dia 1: [Tópico/título da aula 1]
-
-- Dia 2: [Tópico/título da aula 2]
-
-- Dia 3: [Tópico/título da aula 3]
+- [X].1 [Título do Dia 1 — idêntico ao tema central]
+- [X].2 [Título do Dia 2 — primeiro desdobramento]
+- [X].3 [Título do Dia 3 — segundo desdobramento]
 ```
 
-### Regras de distribuição:
+### Regras de distribuição (novo padrão):
 
-- Cada semana tem **exatamente 3 dias** (3 aulas).
-- Os títulos de cada dia devem ser **curtos e didáticos**.
-- A distribuição deve seguir uma **progressão lógica**: contexto → técnica → forma → legado.
+- Cada semana tem **um tema central** (o título de `x.1`).
+- A aula `x.1` apresenta o tema central. As aulas `x.2` e `x.3` são desdobramentos diretos.
+- Os títulos devem ser curtos, didáticos e conectados ao tema central.
+- A aula `x.1` deve ter o **mesmo título do tema da semana**.
+- Use a numeração `X.1`, `X.2`, `X.3` (sem prefixo "Dia").
 - Semanas de **Revisão** e **Provas** seguem o padrão existente.
+
+> Se a lista de tópicos vier solta (estilo antigo, sem tema central), execute primeiro `/curriculum-macro-adapter` para reorganizar em tema central + dois desdobramentos antes de gerar o Macro.
 
 ---
 

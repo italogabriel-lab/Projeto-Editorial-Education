@@ -39,19 +39,28 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ### 0. Coerência Temática — Princípio Central (verificar PRIMEIRO)
 
-A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem reforçar esse conceito por ângulos diferentes.
+A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido em `x.1`) e 1 termo principal compartilhado pelas 3 aulas. Todos os hábitos de cada aula devem reforçar esse tema por ângulos diferentes.
 
-- [ ] O TERMO definido no Definir é o eixo de todos os outros hábitos
-- [ ] **Perceber**: a imagem ilustra diretamente o TERMO definido
-- [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o TERMO
+- [ ] O TERMO da semana é o eixo de todos os hábitos da aula
+- [ ] **Perceber**: a imagem ilustra diretamente o tema sob o ângulo desta aula
+- [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o tema
 - [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir
-- [ ] **Recordar**: a rima ou música menciona o TERMO ou o conceito central
-- [ ] **Praticar**: o Fill_In completa a definição do TERMO
-- [ ] **Praticar**: a múltipla escolha pergunta sobre o TERMO e a resposta correta é a definição
-- [ ] **Praticar**: a Atividade Extra tem relação direta com o TERMO — não é atividade genérica
-- [ ] **Narrar**: o texto traz elementos explícitos do TERMO ou do tema da aula
+- [ ] **Recordar**: a rima ou música menciona o tema central da semana
+- [ ] **Praticar**: o Fill_In completa a definição do tema (mesma frase da semana)
+- [ ] **Praticar**: a múltipla escolha pergunta sobre o tema e a resposta correta é a definição
+- [ ] **Praticar**: a Atividade Extra tem relação direta com o ângulo desta aula dentro do tema da semana
+- [ ] **Narrar**: o texto traz elementos explícitos do tema da semana
 - [ ] **Narrar**: as perguntas ajudam a criança a narrar o texto com suas palavras
-- [ ] Se algum hábito não reforça o TERMO, **REJEITAR** e devolver ao Writer
+- [ ] Se algum hábito não reforça o tema, **REJEITAR** e devolver ao Writer
+
+### 0a. Consistência Semanal (verificar quando a aula é `x.2` ou `x.3`)
+
+- [ ] Definição curta em negrito no cabeçalho do Definir é **literal e idêntica** à de `x.1` da mesma semana
+- [ ] Statement_D do Recordar é idêntico ao de `x.1` (texto, ordem das palavras, capitalização)
+- [ ] Fill_In do Praticar usa a mesma frase da definição da semana (apenas a posição da lacuna pode mudar)
+- [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título)
+- [ ] Termo principal é o mesmo de `x.1`
+- [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
 
 ---
 
@@ -208,22 +217,25 @@ A aula ensina **1 conceito central** (TERMO do Definir). Todos os hábitos devem
 
 ---
 
-### 11. Termo Único
+### 11. Termo da Semana (não da aula)
 
-- [ ] Termo NÃO aparece em aulas anteriores (Currículo Macro)
-- [ ] Tema central NÃO repete aula anterior do mesmo ano
-- [ ] Aula posterior NÃO redefine conceito já ensinado com título ou formulação diferente
+- [ ] Termo da semana NÃO aparece em **semanas anteriores** do Currículo Macro
+- [ ] Termo se repete propositadamente entre `x.1`, `x.2` e `x.3` da mesma semana — isso é correto, não erro
+- [ ] Tema central da semana NÃO repete semana anterior do mesmo ano
 - [ ] Termo adequado ao tema e faixa etária
-- [ ] Se houver repetição, REJEITAR e pedir troca do tema posterior por recorte inédito no Currículo Macro
+- [ ] Se houver repetição em **outra semana**, REJEITAR e pedir troca do tema da semana posterior por recorte inédito no Currículo Macro
 
 ---
 
 ### 11b. Revisão Semanal `.4`
 
-- [ ] Na `[+TABLE]`, a coluna `Definição` não repete o termo da coluna `Termo`.
-- [ ] Em todos os `[+MATCHING]`, a definição antes de `[=]` não repete o termo que aparece depois de `[=]`.
-- [ ] Os blocos `[+STATEMENT_D]` preservam a definição curta completa, com o termo, para memorização.
-- [ ] Exemplo correto: `Vê a criação com atenção reverente. [=] Observação da natureza`.
+- [ ] A revisão usa **uma única definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`), não três definições distintas
+- [ ] O Statement_D do Recordar repete essa definição única
+- [ ] O Fill_In do Praticar usa a definição única com lacuna
+- [ ] A música/rima do `[+IMAGE_TEXT_ON]` é a mesma usada nas 3 aulas da semana
+- [ ] No Perceber, o `[+IMAGE_LABELED]` mostra **uma imagem por aula**, com o título de cada aula nos hotspots
+- [ ] As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraída de cada aula da semana
+- [ ] Se houver `[+TABLE]` ou `[+MATCHING]` (opcionais), não repetir o termo no início da definição
 
 ---
 

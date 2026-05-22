@@ -170,10 +170,17 @@ Nome do arquivo: `[SEMANA_PROVA].md`
 8. **O FILL_IN deve ter 2–3 lacunas** usando `[1]`, `[2]`, `[3]`.
 9. **Capitalização europeia** nos enunciados — consulte `skills/capitalizer/SKILL.md`.
 
+## Regra para Criação de Tickets no Kanban
+
+> **⚠️ IMPORTANTE — Campo `# Description`:** Ao criar tickets de prova bimestral no Kanban do GitHub, o corpo do ticket DEVE conter o cabeçalho `# Description` seguido da descrição. Exemplo:
+> ```
+> [Disciplina] - Ano X - N Provas Bimestrais
+>
+> # Description
+>
+> Avaliação dos conhecimentos das oito semanas anteriores.
+> ```
+
 ## Output
 - Arquivo `.md` com prova bimestral de 10 questões no formato CANVAS_QUIZ.
 - Confirmação: `Prova bimestral montada: 10 questões (8 extraídas + 2 criadas), total 100 pontos.`
-
-
-## Argumentos
-$ARGUMENTS

@@ -162,7 +162,7 @@ Aplique este checklist em cada aula antes de aprovar:
 - [ ] Nenhuma alternância aleatória (ex: "Oriente" num lugar e "oriente" noutro)
 
 ### Definições e lacunas
-- [ ] A definição do Statement_D mantém a mesma capitalização da primeira frase do Accordion
+- [ ] O texto após `[MP3\]` mantém a mesma capitalização do texto dentro do MP3, ignorando apenas negritos visuais
 - [ ] As lacunas no Fill_In preservam a capitalização correta nas respostas
 
 ---
@@ -216,8 +216,8 @@ Justificativa: no corpo do texto, "império romano" é usado descritivamente = m
 Justificativa: "Império Bizantino" = nome institucional consolidado (maiúscula). "império romano" = descritivo (minúscula). "oriente" = genérico (minúscula). "Constantinopla" = topônimo (maiúscula).
 
 **Accordion (definição)**:
-> ✅ "Império Bizantino é a continuação cristã do império romano no oriente."
-> ❌ "Império Bizantino é a continuação cristã do Império Romano no Oriente."
+> ✅ "É a continuação cristã do império romano no oriente, com capital em Constantinopla."
+> ❌ "É a continuação cristã do Império Romano no Oriente, com capital em Constantinopla."
 
 **Recordar (Statement_D)**:
 > ✅ "Império Bizantino é a continuação cristã do império romano no oriente."
@@ -236,7 +236,3 @@ Justificativa: "Império Bizantino" = nome institucional consolidado (maiúscula
 ## Output
 
 Aula com capitalização padronizada e consistente em todas as seções, pronta para a próxima etapa do fluxo editorial.
-
-
-## Argumentos
-$ARGUMENTS

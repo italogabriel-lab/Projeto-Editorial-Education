@@ -55,37 +55,40 @@ Extraia:
 
 Com os dados extraídos, gere um bloco completo seguindo **exatamente** o formato das semanas já existentes no arquivo `3 - Visão e Plano pedagogico - [X]º ANO.md`.
 
-### Seções obrigatórias (nesta ordem):
+### Seções obrigatórias (novo padrão — semana como unidade):
 
-1. **Cabeçalho**
+1. **Cabeçalho** (sentence-case, sem emoji)
    ```
-   ## 📗 Semana [X] – **[Título]**
-   ## 📖 **visão teológica**
+   ## Semana [X] - [Tema central da semana]
+
+   ## Visão teológica
    ```
-   Emoji: usar o ciclo 📗, 📘, 📙, 📕.
 
-2. **📖 visão teológica**
-   - Citação bíblica de abertura (blockquote)
-   - Contexto teológico (2–4 parágrafos)
-   - 📜 **bases bíblicas fundamentais** (3–4 versículos)
-   - 📖 **síntese doutrinária** (blockquote de 1–2 linhas)
+2. **Visão teológica**
+   - Trate o tema central da semana à luz da cosmovisão cristã reformada
+   - Lembre que a semana é uma unidade: a aula `x.1` define o coração, `x.2` desenvolve o subtópico 1, `x.3` desenvolve o subtópico 2
 
-3. **🎯 objetivo geral do módulo**
-   - Lista de 4–5 pontos.
+3. **Objetivo geral do módulo**
+   - 2–3 parágrafos descrevendo como a semana leva o aluno a reconhecer o tema central e percorrer os dois desdobramentos
 
-4. **🧱 estrutura do módulo [X]**
-   - Tabela: Aula, Título, Tema central, Versículo-chave.
-   - 3 aulas (X.1, X.2, X.3).
+4. **Estrutura do módulo [X]**
+   - Tabela: `Aula | Título | Função pedagógica | Versículo de apoio`
+   - 3 linhas (x.1, x.2, x.3) com funções `Coração da semana`, `Subtópico 1` e `Subtópico 2`
 
-5. **🔁 progressão pedagógica**
-   - 3 blocos numerados (um por aula), cada um com 3 linhas de setas (→).
-   - **Transição para o módulo seguinte** (1–2 linhas).
+5. **Progressão pedagógica**
+   - 3 blocos numerados (um por aula):
+     - `x.1` — apresenta o tema, fixa a definição central
+     - `x.2` — retoma a definição de `x.1` e aplica ao primeiro recorte
+     - `x.3` — retoma a definição de `x.1` e fecha o segundo recorte
 
-6. **🕊️ mensagem central do módulo**
-   - Blockquote poético de 3–4 linhas.
+6. **Mensagem central do módulo**
+   - 1 parágrafo que sintetiza o eixo da semana
 
-7. **🪶 resumo pedagógico (para rise ou canvas)**
-   - eixo temático | virtude principal | habilidade formativa | símbolo-chave | resultado esperado.
+7. **Resumo pedagógico**
+   - eixo temático | aula coração | subtópico 1 | subtópico 2 | resultado esperado
+
+8. **Transição para a semana seguinte**
+   - 1–2 linhas conectando ao tema central da próxima semana
 
 ---
 

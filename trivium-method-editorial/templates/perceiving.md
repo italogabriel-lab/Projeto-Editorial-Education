@@ -2,7 +2,7 @@
 
 ## Princípio pedagógico
 
-Este é o **segundo contato da criança com o tema da aula**, agora pela via visual. A imagem e os hotspots devem mostrar o conceito definido no Definir em ação ou em exemplo concreto. A criança deve sair deste hábito reconhecendo visualmente o conceito que nomeou.
+Este é o **segundo contato da criança com o tema da semana**, agora pela via visual. A imagem e os hotspots devem mostrar o tema central (definido em `x.1` e mantido em `x.2` e `x.3`) em ação ou em exemplo concreto. Cada aula da semana usa uma imagem diferente que reforça o ângulo daquela aula. A criança deve sair deste hábito reconhecendo visualmente o tema que nomeou.
 
 ## Estrutura obrigatória
 

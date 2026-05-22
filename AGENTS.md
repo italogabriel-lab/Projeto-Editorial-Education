@@ -33,10 +33,14 @@ As aulas seguem um pipeline de 7 etapas com agentes especializados:
 
 ## Padrão Operacional Atual
 
+- **Semana como unidade pedagógica**: cada semana tem 1 tema central (definido em `x.1`), 1 definição curta única literal nas 3 aulas, 1 termo principal compartilhado e 1 música ou rima comum no Recordar.
+- Em `x.2` e `x.3`, só variam o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra.
+- Bloco de termo no Currículo Macro: 1 termo central por semana (`# Semana N\n[TermoCentral] ✅`), não 3 termos distintos.
 - Accordion do Definir: tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
 - MP3 do Accordion: narrar a definição curta e a explicação completa em texto narrável.
 - Texto após `[MP3\]`: repetir o conteúdo do áudio, com negritos visuais permitidos.
-- Definição curta: manter literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+- Definição curta: manter literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões — e entre as 3 aulas da mesma semana.
+- Revisão semanal `.4`: usar uma única definição curta da semana, não três.
 
 ## Sincronização Documental Obrigatória
 

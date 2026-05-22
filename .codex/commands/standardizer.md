@@ -17,9 +17,9 @@ Você é o **Arquiteto** da Squad Editorial Bibline. Sua missão é transformar 
 
 | Arquivo | O que consultar |
 |---------|-----------------|
-| `trivium-method-editorial/knowledge-base/guia-de-estilo.md` | Tom de voz, regras de escrita |
-| `trivium-method-editorial/knowledge-base/rise-blocks-reference.md` | Sintaxe completa dos blocos |
-| `trivium-method-editorial/templates/padrao_final_aula.md` | **GOLDEN TEMPLATE** (seguir exatamente) |
+| `editorial-squad/knowledge-base/guia-de-estilo.md` | Tom de voz, regras de escrita |
+| `editorial-squad/knowledge-base/rise-blocks-reference.md` | Sintaxe completa dos blocos |
+| `editorial-squad/templates/padrao_final_aula.md` | **GOLDEN TEMPLATE** (seguir exatamente) |
 | `Base de Conhecimento/2-Base de Conhecimento/Pontos de Atenção para Revisão do Contéudo.md` | Regras fixas |
 
 ## Correções Editoriais Proativas (ANTES de aplicar blocos)
@@ -50,7 +50,7 @@ Você é o **Arquiteto** da Squad Editorial Bibline. Sua missão é transformar 
 
 ### 6. Capitalização (padrão europeu)
 
-> **Consultar obrigatoriamente**: `trivium-method-editorial/agents/skills/capitalizer/SKILL.md`
+> **Consultar obrigatoriamente**: `editorial-squad/skills/capitalizer/SKILL.md`
 
 - Sentence-case: maiúscula apenas na primeira palavra e nomes próprios
 - Nomes institucionais consolidados (Império Bizantino) → maiúscula
@@ -162,7 +162,3 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ## Output
 
 Um arquivo (`formatted_class.md`) com conteúdo 100% formatado em Rise Blocks, pronto para revisão na Etapa 4.
-
-
-## Argumentos
-$ARGUMENTS

@@ -53,29 +53,34 @@ Esses dados são a **base obrigatória** para todo o conteúdo da aula.
 
 ---
 
-## Passo 2 — Verificar Termos Já Definidos
+## Passo 2 — Identificar o Tema Central da Semana
 
 Abra o arquivo `1 - Curriculo Macro - ... - [X]º ANO.md` do ano correspondente.
 
-- Compile **todos os termos já marcados com ✅** em todas as semanas.
-- Esses termos estão **PROIBIDOS** de serem reutilizados como termo principal.
-- Escolha um **novo termo** que:
-  - Tenha relação direta com o tema da aula
-  - **NÃO conste** na lista de termos já definidos
+- Compile **todos os termos já marcados com ✅** em **semanas anteriores**. Eles estão **PROIBIDOS** como termo de uma nova semana.
+- Identifique o **tema central da semana** (o título de `x.1`) e o **termo principal** que será compartilhado pelas 3 aulas.
+- Se você está criando `x.2` ou `x.3`, **leia primeiro `x.1`** da mesma semana e extraia:
+  - A **definição curta literal** de 9-10 palavras (vai ser repetida sem alteração)
+  - O **termo principal** (vai ser o mesmo)
+  - O **nome da música ou rima** do Recordar (vai ser o mesmo)
+- Se você está criando `x.1`, escolha um termo que:
+  - Tenha relação direta com o tema central da semana
+  - **NÃO conste** na lista de termos de semanas anteriores
   - Seja adequado para crianças de 7 a 11 anos
 
 ---
 
 ## Passo 3 — Executar o Context Loop Editorial
 
-Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editorial em sequência. **Cada etapa recebe o output da anterior como input.**
+Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapas do fluxo editorial em sequência. **Cada etapa recebe o output da anterior como input.**
 
 ### 3.1 — Passo 4: Writer (Redator Especialista)
 // turbo
 - Leia o skill: `.agent/skills/writer/SKILL.md`
 - Consulte a base de conhecimento (`.agent/knowledge-base/`)
 - Escreva a aula nos 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
-- Use o termo escolhido como conceito central
+- Use o **termo da semana** (compartilhado pelas 3 aulas) como conceito central
+- Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1`. Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
 - Siga a progressão pedagógica extraída do plano
 - Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, inclua `@link_png@`, narre definição curta e explicação completa no MP3, e mantenha texto visual equivalente após `[MP3\]`
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
@@ -88,6 +93,7 @@ Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editor
 - Aplique os Rise Blocks conforme o template
 - Corrija caracteres proibidos, voz passiva, formatação
 - Confirme que a definição curta está literalmente idêntica no Definir e no Recordar. Confirme também que o MP3 do Accordion contém definição curta e explicação completa
+- Se for `x.2` ou `x.3`, **abra `x.1`** e compare definição curta, termo principal e música/rima. Devem ser literais
 - Confirme que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar permanece no padrão do ano
 - **Output:** Conteúdo padronizado → `[READY_FOR_STEP_6]`
 
@@ -95,7 +101,8 @@ Com o plano pedagógico e o termo escolhido, execute as 4 etapas do fluxo editor
 // turbo
 - Leia o skill: `.agent/skills/reviewer/SKILL.md`
 - Valide o checklist de auditoria completo
-- **Verificação adicional**: confirme que o termo NÃO está na lista de termos já definidos
+- **Verificação adicional**: confirme que o termo da semana NÃO está na lista de termos de semanas anteriores
+- **Verificação adicional**: se for `x.2` ou `x.3`, confirme que definição curta, termo e música/rima são literais a `x.1`
 - **Verificação adicional**: confirme que a definição curta do Recordar aparece literalmente no cabeçalho do Definir. No Accordion, confirme que MP3 e texto visível têm conteúdo equivalente
 - **Verificação adicional**: confirme que Praticar contém `[+MULTIPLE]` e, no 3º ano, Narrar contém `[+IMAGE]` após a leitura
 - Se `[APPROVED_FOR_STEP_7]` → prossiga
@@ -123,9 +130,14 @@ Execute o workflow `/publish`:
 
 // turbo
 - Leia o skill: `.agent/skills/review-builder/SKILL.md`
-- Extraia a definição curta do Recordar de cada aula (9-10 palavras)
-- Na tabela e nos matchings da revisão, remova a repetição inicial do termo da definição
-- Crie o arquivo `[Semana].4.md` seguindo o padrão de revisão (revisão = 4ª aula da semana)
+- Extraia a **única definição curta da semana** (idêntica em x.1, x.2, x.3)
+- Use o template novo `Templates Novos - Nº ANO/2-template-aula-revisao-semanal.md`
+- Crie o arquivo `[Semana].4.md` com:
+  - **Definir**: a definição curta única da semana + `[+IMAGE_TEXT_ON]` com a música da semana
+  - **Perceber**: `[+IMAGE_LABELED]` com 3 hotspots (um por aula) mostrando os títulos das aulas
+  - **Recordar**: `[+STATEMENT_D]` com a definição curta da semana
+  - **Praticar**: 1 `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` (um por aula)
+  - **Narrar**: parágrafo introdutório para narração oral
 - **Output:** Arquivo de revisão semanal salvo localmente
 
 ## Passo 5.5 — Criar Prova Semanal (quando semana completa)
@@ -146,19 +158,19 @@ Execute o workflow `/publish`:
 
 Abra o arquivo `1 - Curriculo Macro - ... - [X]º ANO.md`:
 
-1. Localizar a linha `- Dia N: [Tema da aula]` e adicionar ` ✅`
+1. Localizar a linha `- N.M [Título da aula]` e adicionar ` ✅`
 2. **Quando a semana estiver completa (3 aulas):**
-   - Adicionar ` ✅` ao título `## Semana N – **Tema**`
-   - Adicionar bloco de termos logo após as 3 aulas:
+   - Adicionar ` ✅` ao título `## Semana N - **Tema central**`
+   - Adicionar bloco de **termo da semana** logo após as 3 aulas:
 
 ```markdown
 # Semana N
-Termo1 ✅
-Termo2 ✅
-Termo3 ✅
+[TermoCentral] ✅
 ```
 
-3. Cada termo = termo principal do Accordion/Definir da aula
+3. O `[TermoCentral]` é o termo principal compartilhado pelas 3 aulas (o mesmo do Accordion/Definir de x.1, x.2 e x.3)
+
+> **Padrão antigo (descontinuado)**: blocos com 3 termos por semana não são mais utilizados.
 
 ---
 
@@ -166,7 +178,7 @@ Termo3 ✅
 
 Reporte:
 - ✅ Aula criada com base no plano pedagógico do **[X]º Ano**
-- ✅ Termo novo: `[TERMO]` (não repetido)
+- ✅ Termo da semana: `[TermoCentral]` (compartilhado com x.1, x.2, x.3)
 - ✅ Context Loop: Writer → Standardizer → Reviewer → Copywriter
 - ✅ Salvo localmente em `[caminho]`
-- ✅ Currículo Macro: `Dia N` + termo marcado ✅
+- ✅ Currículo Macro: aula marcada ✅ (termo da semana registrado quando completar 3/3)

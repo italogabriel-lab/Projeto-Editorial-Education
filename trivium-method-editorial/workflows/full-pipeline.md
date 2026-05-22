@@ -76,16 +76,16 @@ Isso dispara internamente o **Context Loop**:
 > **AUTOMÁTICO**: Executar sempre ao final das 3 aulas da semana.
 
 1. Abrir `[Base]/Estrutura Curricular - [Nº] ANO/1 - Curriculo Macro - *.md`
-2. Para cada aula finalizada, localizar `- Dia N: [Tema]` e adicionar ` ✅`
-3. Adicionar ` ✅` ao título `## Semana N – **Tema**`
-4. Adicionar bloco de termos:
+2. Para cada aula finalizada, localizar `- N.M [Título]` e adicionar ` ✅`
+3. Adicionar ` ✅` ao título `## Semana N - **Tema central**`
+4. Adicionar bloco de **termo da semana** (um único termo, compartilhado pelas 3 aulas):
 
 ```markdown
 # Semana N
-Termo1 ✅
-Termo2 ✅
-Termo3 ✅
+[TermoCentral] ✅
 ```
+
+> **Padrão antigo (descontinuado)**: blocos com 3 termos por semana não são mais utilizados.
 
 ---
 
@@ -101,11 +101,11 @@ Ao concluir as 3 aulas, reporte:
   1. Currículo Macro: [criado/já existia]
   2. Matriz Curricular: [criada/já existia]
   3. Visão Pedagógica: [criada/já existia]
-  4. Aulas criadas:
-    - X.1 — [Título] | Termo: [TERMO1] ✅
-    - X.2 — [Título] | Termo: [TERMO2] ✅
-    - X.3 — [Título] | Termo: [TERMO3] ✅
-  5. Currículo Macro: 3/3 aulas + 3 termos marcados ✅
+  4. Aulas criadas (tema central: [TEMA] | termo da semana: [TERMO]):
+    - X.1 — [Título] ✅
+    - X.2 — [Título] ✅
+    - X.3 — [Título] ✅
+  5. Currículo Macro: 3/3 aulas + termo da semana marcado ✅
 
 📁 Arquivos salvos em: [caminho]
 ```

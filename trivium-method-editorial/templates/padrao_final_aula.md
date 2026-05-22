@@ -7,19 +7,26 @@ Todas as aulas geradas pelo Editorial Squad devem usar EXATAMENTE este esqueleto
 
 ## Princípio Pedagógico — Memorização por Repetição com Variação
 
-Cada aula ensina **1 conceito central** (o TERMO definido no Definir). Os 5 hábitos são 5 abordagens diferentes do mesmo conceito, criando repetição variada para fixar o tema na memória da criança.
+A unidade pedagógica é a **semana**, não a aula. Cada semana ensina **1 tema central** (definido em `x.1`) e o explora por 3 ângulos complementares (`x.1`, `x.2`, `x.3`). Os 5 hábitos dentro de cada aula são 5 abordagens diferentes do mesmo tema, criando repetição variada para fixar o conteúdo na memória da criança.
 
 | Hábito | Abordagem | Objetivo |
 |--------|-----------|----------|
-| **Definir** | Apresentação da definição | Nomear e conhecer o conceito |
-| **Perceber** | Imagem que ilustra o conceito | Reconhecer visualmente o conceito |
-| **Recordar** | Definição curta + rima ou música | Fixar o conceito pela memória auditiva |
-| **Praticar** | Exercícios sobre o conceito | Aplicar e consolidar o conceito ativamente |
-| **Narrar** | Texto literário que toca o conceito + perguntas | Reconhecer o conceito em contexto narrativo |
+| **Definir** | Apresentação da definição | Nomear e conhecer o tema |
+| **Perceber** | Imagem que ilustra o tema | Reconhecer visualmente o tema |
+| **Recordar** | Definição curta + rima ou música | Fixar o tema pela memória auditiva |
+| **Praticar** | Exercícios sobre o tema | Aplicar e consolidar o tema ativamente |
+| **Narrar** | Texto literário que toca o tema + perguntas | Reconhecer o tema em contexto narrativo |
 
-**Regra de ouro**: se um hábito não reforça o conceito central do Definir, ele está errado.
+**Regra de ouro**: se um hábito não reforça o tema central da semana, ele está errado.
 
-**Regra da definição curta**: a frase curta do Recordar é a fonte textual obrigatória da aula. Ela deve abrir o hábito Definir em negrito e aparecer completa no Statement_D do Recordar e no Praticar com lacunas. No Accordion, o MP3 deve narrar a definição curta e a explicação completa. O texto após `[MP3\]` repete o conteúdo do áudio e pode manter negritos para leitura visual.
+**Regra da semana como unidade**:
+- A aula `x.1` apresenta o tema central da semana e fixa a **definição curta oficial**.
+- As aulas `x.2` e `x.3` são **desdobramentos** do mesmo tema e mantêm a **mesma definição curta** literal de `x.1`.
+- Cada aula adapta apenas o **parágrafo livre do Definir** (e a explicação no Accordion) ao ângulo específico que está sendo trabalhado.
+- A música ou rima do Recordar é **a mesma nas três aulas** da semana.
+- O termo principal é da **semana**, não da aula. As três aulas compartilham o mesmo termo, abordando-o por ângulos diferentes.
+
+**Regra da definição curta**: a frase curta nasce em `x.1` e se repete literalmente em `x.2` e `x.3`. Dentro de cada aula, ela abre o hábito Definir em negrito e aparece completa no Statement_D do Recordar e no Praticar com lacunas. No Accordion, o MP3 narra a definição curta e a explicação completa (que pode variar conforme o ângulo da aula). O texto após `[MP3\]` repete o conteúdo do áudio e pode manter negritos para leitura visual.
 
 ---
 
@@ -341,5 +348,6 @@ Responda oralmente às perguntas abaixo sobre o texto.
 18. **Accordion do Definir** — conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual. O áudio dentro de `[MP3/]...[MP3\]` narra a definição curta e a explicação completa. O texto após `[MP3\]` repete o mesmo conteúdo, com negritos permitidos. Exemplo: tema "A arte nos lugares da vida", áudio com a definição curta e a explicação logo abaixo.
 19. **Atribuição do Narrar** — terminar SEMPRE com **ponto final após o Século**. NÃO adicionar o trecho de conexão entre parênteses. Formato correto: `Trecho inspirado em **[Ref]** e nas reflexões de **[Autor]**, *[Obra]* ([Contexto]), [Século].`
 20. **Perguntas do Narrar** — as 3 perguntas devem ser curtas, diretas e de fácil compreensão. Cada resposta deve aparecer explicitamente no texto lido. As perguntas devem ajudar a criança a narrar com suas palavras o que compreendeu. Proibido usar perguntas abertas, reflexivas, abstratas, inferenciais ou dependentes de contexto prévio.
-21. **Revisões `.4`** — em tabelas e matchings, não repetir o termo no início da definição. Correto: `Imprensa[,] É sistema mecânico que multiplica livros rápida acessivelmente.[,]` e `É sistema mecânico que multiplica livros rápida acessivelmente. [=] Imprensa`. Manter a definição completa somente no `[+STATEMENT_D]`.
+21. **Revisões `.4`** — usam **uma única definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`), não três definições distintas. Em flashcards visuais por aula, mostre apenas o título de cada aula. Em tabelas e matchings opcionais, não repetir o termo no início da definição. A definição completa fica somente no `[+STATEMENT_D]`.
 22. **Perceber** — usar 1 frase curta e direta no enunciado. As observações e explicações ficam nos hotspots, também de forma curta. Hotspots devem ter títulos de 2 a 5 palavras e descrições com 1 frase curta. Evitar explicações longas e análise extensa.
+23. **Semana como unidade** — a definição curta de `x.1` deve aparecer literalmente em `x.2` e `x.3`. O termo principal é compartilhado pelas 3 aulas. A música/rima do Recordar é a mesma na semana inteira. Só variam o parágrafo livre do Definir e a explicação dentro do Accordion (que adaptam o ângulo de cada aula).

@@ -12,13 +12,14 @@ Use esta skill antes de concluir uma aula, revisão, prova ou publicação.
 
 1. Ler `trivium-method-editorial/agents/skills/reviewer/SKILL.md`.
 2. Validar título, estilo, doutrina, Rise Blocks e definição curta literalmente idêntica no cabeçalho do Definir e no Recordar.
-3. Validar que o áudio do Accordion contém a definição curta e a explicação completa em texto narrável.
-4. Validar que o texto após `[MP3\]` repete o mesmo conteúdo do áudio, podendo manter negritos para leitura visual.
-5. Validar que Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
-6. No 3º ano, validar que Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
-7. Em revisões `.4`, validar que tabelas e matchings não repetem o termo no início da definição.
-8. Verificar aderência ao golden template.
-9. Identificar erros bloqueantes antes da publicação.
+3. **Consistência semanal**, validar que a definição curta, o termo principal e a música/rima são idênticos entre `x.1`, `x.2` e `x.3` da mesma semana.
+4. Validar que o áudio do Accordion contém a definição curta e a explicação completa em texto narrável.
+5. Validar que o texto após `[MP3\]` repete o mesmo conteúdo do áudio, podendo manter negritos para leitura visual.
+6. Validar que Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
+7. No 3º ano, validar que Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
+8. Em revisões `.4`, validar que a definição curta é única por semana e que tabelas e matchings opcionais não repetem o termo no início da definição.
+9. Verificar aderência ao golden template.
+10. Identificar erros bloqueantes antes da publicação.
 
 ## Referências
 

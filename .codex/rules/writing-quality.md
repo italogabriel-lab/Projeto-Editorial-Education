@@ -28,10 +28,11 @@ Substitua por vírgula ou ponto quando estiver escrevendo conteúdo didático.
 
 - O título bate com o Currículo Macro.
 - A definição curta está literalmente idêntica no cabeçalho do Definir, no Recordar e na Revisão.
+- **Consistência semanal**: a definição curta de `x.1` é literalmente idêntica em `x.2` e `x.3` da mesma semana. O termo principal e a música/rima do Recordar também são compartilhados pelas 3 aulas. Só variam o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra.
 - O áudio do Accordion contém a definição curta e a explicação completa em texto narrável.
 - O texto após `[MP3\]` repete o mesmo conteúdo do áudio, podendo manter negritos para leitura visual.
 - O Praticar mantém `[+FILL_IN]`, `[+MULTIPLE]` e `[+ACTIVITY_WORKSHEET]`, nessa ordem.
 - No 3º ano, o Narrar mantém `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas.
-- Em revisões `.4`, tabelas e matchings não repetem o termo no início da definição.
+- Em revisões `.4`, usar **uma definição curta única da semana** (a mesma de `x.1`, `x.2`, `x.3`), não três definições distintas. Quando opcionais, tabelas e matchings não repetem o termo no início da definição.
 - A estrutura segue os 5 hábitos.
 - O markdown está compatível com o template final.

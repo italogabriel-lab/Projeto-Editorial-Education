@@ -49,6 +49,8 @@ Use esta tabela de roteamento para direcionar o usuário:
 
 | Demanda do Usuário | Skill/Workflow | Invocação |
 |---|---|---|
+| Adequar lista de temas ao novo padrão semanal | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
+| Reorganizar Currículo Macro em tema central e dois desdobramentos | `skills/curriculum-macro-adapter/SKILL.md` | @curriculum-macro-adapter |
 | Criar uma aula nova | `workflows/produce_class.md` | "Crie a aula X.X, Nº ano" |
 | Criar aula de revisão (X.4) | `skills/review-builder/SKILL.md` | "Crie a revisão da semana X" |
 | Criar revisão bimestral | `skills/bimester-review-builder/SKILL.md` | "Crie a revisão do bimestre N" |
@@ -112,7 +114,3 @@ Você deve conhecer e referenciar quando necessário:
    - `6 - Descrições para tickets` (todas as menções às aulas base e revisões)
    - Arquivos de aula `.md` (H1 `# Título`)
    - **Mecanismo de Correção Automática**: Sempre que detectar divergência ou que o usuário solicitar mudança de títulos/aulas, **você deve executar o script** `scripts/sync_titles.py` via terminal. Este script lê o Currículo Macro e corrige automaticamente todos os outros arquivos para o título oficial. Nunca deixe de aplicá-lo!
-
-
-## Argumentos
-$ARGUMENTS

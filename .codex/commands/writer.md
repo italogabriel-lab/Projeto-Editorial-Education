@@ -27,16 +27,22 @@ Base: `Belas Artes - Fase da Gramática/1 Fase - Gramática/[Diretório]/Estrutu
 Abra o arquivo do Plano Pedagógico e extraia: título, tema central, versículo-chave, progressão pedagógica e visão teológica.
 **Todo o conteúdo da aula DEVE seguir essa progressão.**
 
-### 3. Verificar Termos Já Definidos
-Consulte o Currículo Macro. Todos os termos marcados com ✅ estão **PROIBIDOS**.
-Escolha um **termo inédito** relacionado ao tema para o hábito "Definir".
+### 3. Identificar Tema Central da Semana
+Consulte o Currículo Macro e o Plano Pedagógico. Identifique:
 
-### 4. Verificar Tema Já Abordado
-Consulte todos os títulos, dias e termos do Currículo Macro do ano.
-O tema central da aula e o termo do Definir devem ser **inéditos** no ano.
-É proibido redefinir em aula posterior um conceito já ensinado, mesmo com outra formulação ou título parecido.
-Quando houver sobreposição, preserve a aula anterior e troque a aula posterior por um recorte novo do módulo.
-Exemplo: se `Catedral` já foi definida, uma aula posterior pode tratar de `Fachada`, `Portal`, `Rosácea` ou `Arcobotante`, mas não redefinir `Catedral`.
+- **Tema central da semana** (sempre o título de `x.1`)
+- **Termo principal** compartilhado pelas 3 aulas
+- **Definição curta oficial** (9-10 palavras), que será **idêntica** em `x.1`, `x.2` e `x.3`
+
+Se você está redigindo `x.2` ou `x.3`, **leia primeiro** `x.1` da mesma semana e extraia dela:
+- A definição curta literal (vai no cabeçalho do Definir, no Accordion, no Statement_D e no Fill_In)
+- O termo principal
+- A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração
+
+### 4. Verificar Termos Já Definidos no Ano
+Consulte o Currículo Macro. Todos os termos marcados com ✅ em **semanas anteriores** estão **PROIBIDOS** como termo principal da nova semana.
+Dentro da mesma semana, o termo se repete propositadamente entre `x.1`, `x.2` e `x.3` — isso é regra, não erro.
+Exemplo: se `Catedral` foi o termo da semana 12, uma semana posterior pode tratar de `Fachada`, `Portal`, `Rosácea` ou `Arcobotante`, mas não retomar `Catedral` como termo central.
 
 ### 5. Título da Aula — Fonte de Verdade
 O título da aula (H1) **deve ser exatamente** o título que consta no `1 - Curriculo Macro`.
@@ -47,10 +53,10 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 
 | Arquivo | O que consultar |
 |---------|-----------------|
-| `trivium-method-editorial/knowledge-base/guia-de-estilo.md` | Tom de voz, regras de escrita |
-| `trivium-method-editorial/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada, Trivium |
-| `trivium-method-editorial/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
-| `trivium-method-editorial/templates/padrao_final_aula.md` | **GOLDEN TEMPLATE** (seguir exatamente) |
+| `editorial-squad/knowledge-base/guia-de-estilo.md` | Tom de voz, regras de escrita |
+| `editorial-squad/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada, Trivium |
+| `editorial-squad/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
+| `editorial-squad/templates/padrao_final_aula.md` | **GOLDEN TEMPLATE** (seguir exatamente) |
 
 ## Inputs
 
@@ -58,32 +64,45 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 2. Plano Pedagógico da semana/aula
 3. Lista de termos já definidos
 
-## Princípio Central — Memorização por Repetição com Variação
+## Princípio Central — A Semana como Unidade
 
-Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são 5 abordagens diferentes do mesmo conceito. Se um hábito não reforça o conceito central, ele está errado. Verifique a coerência temática entre todos os hábitos antes de finalizar.
+A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema central** (definido em `x.1`) e o explora por 3 ângulos complementares (`x.1`, `x.2`, `x.3`). Os 5 hábitos dentro de cada aula são 5 abordagens diferentes do mesmo tema. Se um hábito não reforça o tema central da semana, ele está errado. Verifique a coerência temática entre todos os hábitos antes de finalizar.
+
+**O que se mantém igual nas 3 aulas da semana:**
+- Definição curta (9-10 palavras) — literal e idêntica
+- Termo principal
+- Música ou rima do Recordar (`@link_mp3@` + nome)
+
+**O que varia entre `x.1`, `x.2` e `x.3`:**
+- Título da aula
+- Parágrafo livre logo após a definição curta no Definir
+- Tema/pergunta e explicação no Accordion
+- Imagem do Perceber e do Narrar
+- Texto literário do Narrar e perguntas
+- Atividade Extra do Praticar
 
 | Hábito | Abordagem | O que fazer |
 |--------|-----------|-------------|
-| Definir | Definição | Estabelecer o TERMO e a definição que todos os outros hábitos vão reforçar |
-| Perceber | Visual | Escolher imagem que ilustra o TERMO em ação |
-| Recordar | Auditivo | Fixar a definição curta que já apareceu literalmente no Definir |
-| Praticar | Aplicação | Fill_In e atividade que trabalham o TERMO definido |
-| Narrar | Narrativo | Texto que toca o TERMO e perguntas respondíveis pelo texto |
+| Definir | Definição | Repetir a definição curta da semana (literal de `x.1`) e adaptar o parágrafo livre ao ângulo desta aula |
+| Perceber | Visual | Escolher imagem que ilustra o tema sob o ângulo desta aula |
+| Recordar | Auditivo | Repetir a mesma definição curta e a mesma música/rima da semana |
+| Praticar | Aplicação | Fill_In com a definição da semana e atividade que trabalha o ângulo desta aula |
+| Narrar | Narrativo | Texto que toca o tema da semana e perguntas respondíveis pelo texto |
 
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
-- ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO. (sem limites longos).
-- Bloco deve ter quebras de linha limpas. NUNCA misture tudo num blocão.
-- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D.
+- ESTRUTURA EXTREMAMENTE CURTA E DIRETA NO PARÁGRAFO INTRODUTÓRIO.
+- Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D e idêntica em `x.1`, `x.2` e `x.3` da mesma semana.
 - Depois da definição, deixar uma linha em branco.
-- Frase 1: "Reconheça que..." + contexto principal.
-- Frase 2: "Observe que..." + argumento/reflexão secundária.
-- Frase 4: "Veja o vídeo abaixo." obrigatória no final ANTES do fechamento do parágrafo.
+- Duas frases em prosa direta na MESMA linha, sem "Reconheça que" nem "Observe que". A primeira apresenta o ângulo desta aula dentro do tema da semana. A segunda traz um argumento extra. Separadas por ponto e espaço, sem linha em branco entre elas.
+- Em `x.2` e `x.3`, **só varia esse parágrafo livre** (e a explicação no Accordion). A definição curta em negrito é literal de `x.1`.
+- Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
+- Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
-- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em texto narrável.
+- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em texto narrável. O tema/pergunta do Accordion pode variar entre as aulas da semana para refletir o ângulo de cada uma.
 - Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
-- Exemplo: tema `A arte nos lugares da vida`, áudio com `A arte está nos lugares da vida como resposta à beleza criada por Deus.` e a explicação logo abaixo.
+- Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre `Arte expressa a beleza criada por Deus com habilidade humana.` O parágrafo livre adapta o foco para expressão, beleza e habilidade respectivamente.
 
 ### Perceber (Observar)
 - A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
@@ -98,8 +117,9 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir
-- A rima ou música DEVE mencionar o conceito definido — não pode ser genérica
+- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e idêntica nas 3 aulas da semana
+- A rima ou música DEVE mencionar o tema central da semana — não pode ser genérica
+- A mesma música (`@link_mp3@` + nome) ou rima é usada em `x.1`, `x.2` e `x.3`. Não troque por aula.
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
@@ -107,8 +127,8 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
 - A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
-- Atividade extra com instrução de atividade prática relacionada ao conceito central no imperativo
-- Não usar `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
+- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
+- **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas
@@ -140,7 +160,3 @@ Cada aula ensina **1 conceito central** (o TERMO do Definir). Os 5 hábitos são
 ## Output
 
 Um arquivo markdown (`draft_class.md`) seguindo a estrutura do golden template, com conteúdo completo para os 5 hábitos, pronto para formatação Rise Blocks na Etapa 3.
-
-
-## Argumentos
-$ARGUMENTS

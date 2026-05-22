@@ -24,6 +24,8 @@ O framework oficial vive em `trivium-method-editorial/`.
 - Usar `trivium-method-editorial/templates/padrao_final_aula.md` como golden template.
 - Executar `trivium-method-editorial/scripts/sync_titles.py` quando houver divergência de títulos.
 - Manter o Accordion do Definir com tema ou pergunta simples, `@link_png@`, MP3 com definição curta e explicação completa, e texto visual equivalente após `[MP3\]`.
+- Tratar a **semana como unidade pedagógica**: definição curta única em `x.1`, `x.2` e `x.3`; termo principal compartilhado; música ou rima comum no Recordar. Só variam o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra.
+- Registrar 1 termo único por semana no Currículo Macro (`# Semana N\n[TermoCentral] ✅`), não 3 termos distintos.
 - Ao modificar um padrão operacional, atualizar `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/`, `.codex/` e `trivium-method-editorial/`.
 - Adotar commits convencionais, `feat:`, `fix:`, `content:`, `chore:`, `docs:`.
 

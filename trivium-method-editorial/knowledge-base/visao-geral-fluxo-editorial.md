@@ -53,12 +53,12 @@ O coracao da producao e o arquivo de fluxo `editorial-squad/workflows/produce_cl
 
 | Etapa | Agente | Input | Output | Regra principal |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Pesquisa** | Researcher | Tema + Plano Pedagogico | `research_report.md` | Fontes primarias: Webster 1828, ARA/ARC, obras classicas |
-| **2. Redacao** | Writer | Relatorio de pesquisa | `draft_class.md` | 5 Habitos, voz ativa, imperativo, max 30 palavras/frase |
+| **1. Pesquisa** | Researcher | Tema da semana + Plano Pedagogico | `research_report.md` | 1 pesquisa por semana. Fontes primarias: Webster 1828, ARA/ARC, obras classicas |
+| **2. Redacao** | Writer | Relatorio de pesquisa | `draft_class.md` | 5 Habitos, voz ativa, imperativo, max 30 palavras/frase. Definicao curta identica em x.1, x.2 e x.3 |
 | **3. Formatacao** | Standardizer + Capitalizer | Rascunho | `formatted_class.md` | Rise Blocks, capitalizacao europeia, remocao de pontuacao proibida |
-| **4. Revisao** | Reviewer | Aula formatada | `reviewed_class.md` ou rejeicao | Checklist 13 categorias, 10 erros da IA, validacao Golden Template |
+| **4. Revisao** | Reviewer | Aula formatada | `reviewed_class.md` ou rejeicao | Checklist 13 categorias, 10 erros da IA, validacao Golden Template, consistencia semanal |
 | **5. Polimento** | Copywriter | Aula aprovada | `final_class.md` | Otimizar titulos, ritmo, clareza, cadencia |
-| **6. Registro** | (Manual/Automatico) | Aula finalizada | Curriculo Macro atualizado | Marcar ✅, registrar termos, sincronizar 5 arquivos estruturais |
+| **6. Registro** | (Manual/Automatico) | Semana finalizada | Curriculo Macro atualizado | Marcar ✅, registrar termo da semana, sincronizar 5 arquivos estruturais |
 | **7. Publicacao** | Publisher | Aula final | Arquivo local + commit GitHub | Salvar como `X.Y.md`, commit com mensagem padrao |
 
 ### Fluxo de Rejeicao (Feedback Loops)
@@ -74,6 +74,26 @@ Etapa 5 (Copywriter) --[problema grave]---> volta para Etapa 3 ou 4
 ---
 
 ## 3. Estrutura Semanal de Producao
+
+### Principio: A Semana como Unidade Pedagogica
+
+A unidade de producao e a **semana inteira**, nao a aula isolada. Cada semana tem:
+
+- **1 tema central** (definido em `x.1`)
+- **1 definicao curta oficial** (de 9-10 palavras) repetida literalmente em `x.1`, `x.2` e `x.3`
+- **1 termo principal** compartilhado pelas tres aulas
+- **1 musica ou rima** comum as tres aulas no Recordar
+
+O que **varia** entre `x.1`, `x.2` e `x.3`:
+
+- Titulo da aula (cada aula tem seu titulo, todos derivados do tema central)
+- Paragrafo livre logo abaixo da definicao curta no Definir
+- Tema/pergunta do Accordion e explicacao narrada no MP3
+- Imagem do Perceber e do Narrar (cada aula explora um angulo)
+- Texto literario do Narrar e perguntas
+- Atividade Extra do Praticar (instrucao no `INSTRUCTION=`)
+
+### Arquivos da Semana
 
 Cada semana de conteudo segue um padrao fixo de 5 arquivos:
 
@@ -351,18 +371,18 @@ Se uma aula existente sofrer alteracoes significativas, o agente DEVE OBRIGATORI
 
 Ao finalizar uma semana completa (3 aulas), o Publisher deve:
 
-1. Localizar cada linha `- Dia N: [Tema]` e adicionar ` ✅`
+1. Localizar cada linha `- N.M [Titulo]` e adicionar ` ✅`
 2. Adicionar ` ✅` ao titulo da semana `## Semana N`
-3. Inserir bloco de termos apos a semana:
+3. Inserir bloco de termo da semana apos as 3 aulas:
 
 ```markdown
 # Semana N
-Termo1 ✅
-Termo2 ✅
-Termo3 ✅
+[TermoCentral] ✅
 ```
 
-Cada termo corresponde ao termo principal do Accordion/Definir daquela aula.
+O `[TermoCentral]` e o termo principal compartilhado pelas tres aulas (o mesmo termo do Accordion/Definir de `x.1`, `x.2` e `x.3`).
+
+> **Padrao antigo (descontinuado)**: blocos com `Termo1 ✅ / Termo2 ✅ / Termo3 ✅` (um termo distinto por aula) **nao** sao mais utilizados. Semanas legadas que ainda contenham esse formato devem ser refatoradas quando a aula correspondente for revisada.
 
 ---
 
@@ -506,7 +526,7 @@ git push origin main --force
 - Observacao precede analise
 - Repeticao e virtude, nao redundancia
 - Narrativa e forma natural de aprendizado
-- Vocabulario construido progressivamente (1 novo termo por aula)
+- Vocabulario construido progressivamente (1 novo termo por **semana**, trabalhado em 3 aulas)
 
 ---
 

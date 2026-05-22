@@ -69,6 +69,19 @@ No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@lin
 
 O MP3 narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o mesmo conteúdo do áudio e pode manter negritos para leitura visual. A definição curta continua literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
 
+### Padrão atual da semana (unidade pedagógica)
+
+A unidade pedagógica é a **semana inteira**, não a aula isolada. Cada semana tem:
+
+- **1 tema central**, definido em `x.1`
+- **1 definição curta única**, literal e idêntica em `x.1`, `x.2` e `x.3`
+- **1 termo principal**, compartilhado pelas 3 aulas
+- **1 música ou rima** no Recordar, comum às 3 aulas
+
+Entre `x.1`, `x.2` e `x.3` só variam o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto literário do Narrar e a Atividade Extra do Praticar. A revisão `.4` usa essa mesma definição única.
+
+No Currículo Macro, o bloco `# Semana N` registra apenas **1 termo central** (`[TermoCentral] ✅`), não 3 termos distintos.
+
 ### Comandos e skills disponíveis
 
 **Pipeline editorial:**

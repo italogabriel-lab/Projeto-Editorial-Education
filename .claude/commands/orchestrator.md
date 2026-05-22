@@ -114,7 +114,3 @@ Você deve conhecer e referenciar quando necessário:
    - `6 - Descrições para tickets` (todas as menções às aulas base e revisões)
    - Arquivos de aula `.md` (H1 `# Título`)
    - **Mecanismo de Correção Automática**: Sempre que detectar divergência ou que o usuário solicitar mudança de títulos/aulas, **você deve executar o script** `scripts/sync_titles.py` via terminal. Este script lê o Currículo Macro e corrige automaticamente todos os outros arquivos para o título oficial. Nunca deixe de aplicá-lo!
-
-
-## Argumentos
-$ARGUMENTS

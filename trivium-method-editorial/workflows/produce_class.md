@@ -25,18 +25,19 @@ Estrutura: `[Base]/Estrutura Curricular/`
 
 ---
 
-## ETAPA 1 — PESQUISA (Researcher)
+## ETAPA 1 — PESQUISA (Researcher) — por SEMANA
 
 1. Ler a skill `editorial-squad/skills/researcher/SKILL.md`
-2. Consultar o **Plano Pedagógico** do ano para localizar a semana/aula
-3. Consultar o **Currículo Macro** para identificar termos proibidos (✅)
-4. Pesquisar:
-   - Definição Webster 1828 para o termo inédito
-   - Versículos bíblicos relacionados (ARA/ARC)
-   - Obra de arte para o Perceber
-   - Poema/hino para o Recordar
-   - Trecho literário para o Narrar (usar DB de autores da skill)
-5. **Output**: relatório de pesquisa organizado pelos 5 hábitos
+2. Consultar o **Plano Pedagógico** do ano para localizar a semana (não a aula isolada)
+3. Consultar o **Currículo Macro** para identificar termos proibidos em semanas anteriores (✅)
+4. Pesquisar **uma vez por semana** (resultado serve para `x.1`, `x.2` e `x.3`):
+   - Definição Webster 1828 para o termo central da semana
+   - Definição curta de 9-10 palavras (compartilhada pelas 3 aulas)
+   - 1 versículo eixo + 2 versículos de apoio (para `x.2` e `x.3`)
+   - 3 obras de arte para o Perceber (uma por aula, todas dentro do tema)
+   - 1 música ou rima para o Recordar (compartilhada pelas 3 aulas)
+   - 3 trechos literários para o Narrar (um por aula, usar DB de autores da skill)
+5. **Output**: relatório de pesquisa organizado pelos 5 hábitos e por aula da semana
 
 ---
 
@@ -47,11 +48,12 @@ Estrutura: `[Base]/Estrutura Curricular/`
 3. Consultar a **knowledge base**:
    - `editorial-squad/knowledge-base/guia-de-estilo.md`
    - `editorial-squad/knowledge-base/doutrina-pedagogica.md`
-4. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
-5. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
-6. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem
-7. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
-8. **Output**: rascunho da aula
+4. Se a aula é `x.2` ou `x.3`, **ler primeiro `x.1`** da mesma semana e copiar literalmente: definição curta, termo principal e música/rima do Recordar
+5. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
+6. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
+7. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem
+8. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
+9. **Output**: rascunho da aula
 
 ---
 
@@ -64,8 +66,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
 5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
 6. Remover metadados, emojis de seção, separadores `---`
 7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o MP3 contém definição curta e explicação completa, e o texto após `[MP3\]` mantém conteúdo equivalente com negritos permitidos
-8. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
-9. **Output**: aula formatada com Rise Blocks
+8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo e música/rima são idênticos. Apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra devem variar
+9. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
+10. **Output**: aula formatada com Rise Blocks
 
 ---
 
@@ -100,42 +103,40 @@ Estrutura: `[Base]/Estrutura Curricular/`
 1. Abrir o **Currículo Macro** do ano correspondente:
    - Localizar `[Base]/Estrutura Curricular - [Nº] ANO/1 - Curriculo Macro - *.md`
 2. Para **cada aula finalizada** na semana:
-   - Localizar a linha `- Dia N: [Tema da aula]`
+   - Localizar a linha `- N.M [Título da aula]`
    - Adicionar ` ✅` ao final da linha (se ainda não tiver)
-3. Adicionar ` ✅` ao final do título `## Semana N – **Tema**`
-4. **Adicionar bloco de termos** logo após as 3 aulas, seguindo o padrão:
+3. Adicionar ` ✅` ao final do título `## Semana N - **Tema central**`
+4. **Adicionar bloco de termo da semana** logo após as 3 aulas, seguindo o padrão novo:
 
 ```markdown
 # Semana N
-Termo1 ✅
-Termo2 ✅
-Termo3 ✅
+[TermoCentral] ✅
 ```
 
-5. **Cada termo** deve ser o termo principal definido na aula (o do Accordion/Definir)
-6. Confirmar ao usuário: `Semana X: 3/3 aulas + 3 termos marcados ✅`
+5. O `[TermoCentral]` é o **termo principal compartilhado** pelas 3 aulas (o mesmo do Accordion/Definir de `x.1`, `x.2` e `x.3`)
+6. Confirmar ao usuário: `Semana X: 3/3 aulas + termo central marcado ✅`
+
+> **Padrão antigo (descontinuado)**: blocos com `Termo1 ✅ / Termo2 ✅ / Termo3 ✅` (um termo por aula) **não** são mais utilizados. Se encontrar uma semana legada com esse formato, refatore-a quando for atualizar as aulas.
 
 > **REGRA DE SINCRONIZAÇÃO CURRICULAR (MANUTENÇÃO)**:
-> Se você estiver **modificando/atualizando** uma aula já existente (em vez de criar uma nova), você DEVE obrigatoriamente refletir as mudanças nestes 5 arquivos:
-> 1. `1 - Curriculo Macro *.md`: Se o título (H1) da aula mudar.
-> 2. `2 - Matriz-Curricular-objetivos *.md`: Se o objetivo teológico-pedagógico ou os conceitos da semana mudarem.
+> Se você estiver **modificando/atualizando** uma aula já existente (em vez de criar uma nova), você DEVE obrigatoriamente refletir as mudanças nestes arquivos:
+> 1. `1 - Curriculo Macro *.md`: Se o título (H1) da aula mudar ou se o termo central da semana mudar.
+> 2. `2 - Matriz-Curricular-objetivos *.md`: Se o objetivo teológico-pedagógico, o tema central ou os conceitos da semana mudarem.
 > 3. `3 - Visão e Plano pedagogico *.md`: Se a abordagem da aula (Definir/Perceber), a visão teológica ou a progressão pedagógica mudarem.
 > 4. `4 - Links-para-imagens-perceber *.md`: Se a seção **Perceber** mudar (especialmente se o contexto, a cena ou a arte sugerida no texto mudar, exigindo links novos).
-> 5. **Aula de Revisão (`X.4.md`)**: Se alterar ou refinar qualquer definição, foco temático ou conteúdo do Perceber, a aula de revisão correspondente DEVE ser idêntica (textos intro, flashcards, tabelas e quizzes).
-> 6. **Definições na Revisão (`X.4.md`)**: em tabelas e matchings, não repetir o termo no início da definição. O termo já aparece na coluna `Termo` ou depois de `[=]`. Manter a definição completa somente no `[+STATEMENT_D]`.
+> 5. **Outras aulas da mesma semana**: Se alterar a definição curta de `x.1`, atualizar `x.2`, `x.3` e `x.4` (revisão) para manter a mesma frase literal.
+> 6. **Aula de Revisão (`X.4.md`)**: Usa a definição curta única da semana (não três). Se alterar conteúdo das aulas, atualizar a revisão correspondente.
 
-> **Formato completo de referência** (exemplo do 2º ano):
+> **Formato completo de referência** (novo padrão, 1º ano):
 > ```
-> ## 1ª Semana: **A Origem da Arte e da Beleza** ✅
+> ## Semana 1 - A arte e a expressão ✅
 >
-> - 1.1 A arte vem de Deus ✅
-> - 1.2 A criação é bela ✅
-> - 1.3 Feitos à imagem do criador ✅
+> - 1.1 A arte e a expressão ✅
+> - 1.2 A arte e a beleza ✅
+> - 1.3 A arte e a habilidade ✅
 >
 > # Semana 1
 > Arte ✅
-> Beleza ✅
-> Imagem ✅
 > ```
 
 
@@ -186,3 +187,4 @@ Termo3 ✅
 - Cada etapa consome o output da anterior (Context Loop)
 - O fluxo é **idempotente**: pode ser re-executado sem efeitos colaterais
 - Para uma **semana inteira**, executar 3x (aulas X.1, X.2, X.3) + revisão (X.4) + prova (X.5)
+- Como a unidade pedagógica é a **semana**, a Pesquisa (Etapa 1) pode ser feita **uma vez** e reaproveitada nas 3 redações. Definição curta, termo principal e música/rima são comuns às 3 aulas

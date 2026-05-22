@@ -18,35 +18,40 @@ Você **não cria conteúdo novo**. Você **copia e organiza** o que já existe 
 
 O arquivo de revisão bimestral possui **duas grandes seções**:
 
-### SEÇÃO 1 — Revisão por Semana
+### SEÇÃO 1 — Revisão por Semana (novo padrão — semana como unidade)
 
-Para **cada semana** do bimestre (8 semanas), montar um bloco com:
+Cada semana tem **1 tema central**, **1 definição curta única** e **1 termo principal** compartilhado pelas 3 aulas. Para cada semana do bimestre (8 semanas), montar um bloco com:
 
 ```markdown
-## [Título da semana do Currículo Macro]
+## [Tema central da semana — do Currículo Macro]
 
 [+PARAGRAPH]
 
-Revise os três conceitos estudados nesta semana, [termo1], [termo2] e [termo3]. [Frase contextual da aula .4]
+Revise o tema desta semana, [TermoCentral]. [Definição curta única da semana, idêntica à da aula .4]
 
 [-PARAGRAPH]
 
-[+TABLE]
+[+STATEMENT_D]
 
-Termo[,] Definição[,]
-[Termo1][,] [Definição da TABLE da .4 sem repetir o termo][,]
-[Termo2][,] [Definição da TABLE da .4 sem repetir o termo][,]
-[Termo3][,] [Definição da TABLE da .4 sem repetir o termo][,]
+[MP3/]
 
-[-TABLE]
+#FSH:0b12d715e4c741399594fccb12d4bbe2
+
+[Definição curta única da semana.]
+
+[MP3\]
+
+[Definição curta única da semana.]
+
+[-STATEMENT_D]
 
 [+MATCHING]
 
-[Enunciado do MATCHING do Definir da .4]
+Associe cada aula da semana ao seu ângulo dentro do tema.
 
-[Definição sem repetir o termo] [=] [Termo1]
-[Definição sem repetir o termo] [=] [Termo2]
-[Definição sem repetir o termo] [=] [Termo3]
+[Ângulo da aula x.1] [=] [Título de x.1]
+[Ângulo da aula x.2] [=] [Título de x.2]
+[Ângulo da aula x.3] [=] [Título de x.3]
 
 [-MATCHING]
 ```
@@ -55,12 +60,15 @@ Termo[,] Definição[,]
 
 | Elemento | Fonte exata | Como extrair |
 |---|---|---|
-| `## Título` | Currículo Macro | Copiar o texto após `## Semana N – **` e antes de `**` |
-| `[+PARAGRAPH]` | Aula `.4`, seção Definir | Copiar o `[+PARAGRAPH]` introdutório inteiro |
-| `[+TABLE]` | Aula `.4`, seção Definir | Copiar o `[+TABLE]` inteiro com os 3 termos e definições |
-| `[+MATCHING]` | Aula `.4`, seção Definir | Copiar o primeiro `[+MATCHING]` da seção Definir |
+| `## Título` | Currículo Macro | Copiar o tema central da semana (texto após `## Semana N - ` no novo padrão, ou após `## Semana N – **` no padrão antigo) |
+| `[+PARAGRAPH]` | Aula `.4`, seção Definir | Copiar a frase introdutória com a definição curta única da semana |
+| `[+STATEMENT_D]` | Aula `.4`, seção Recordar | Copiar o `[+STATEMENT_D]` com a definição curta única |
+| `[+MATCHING]` | Currículo Macro + Matriz | Montar a partir dos 3 títulos das aulas (x.1, x.2, x.3) que são os 3 ângulos do tema |
 
-**Regra fixa para definições em revisão:** na `[+TABLE]` e em qualquer `[+MATCHING]`, a definição NÃO deve repetir o termo no início. O termo já está na coluna `Termo` ou depois de `[=]`. Exemplo correto: `Imprensa[,] É sistema mecânico que multiplica livros rápida acessivelmente.[,]` e `É sistema mecânico que multiplica livros rápida acessivelmente. [=] Imprensa`. Essa regra não vale para `[+STATEMENT_D]`, que mantém a definição curta completa.
+**Regras de definição em revisão bimestral:**
+- A revisão usa **1 única definição curta por semana** (não três). É a mesma frase de `x.1`, `x.2`, `x.3` e `x.4`.
+- Em `[+MATCHING]` opcionais que ainda usem termo+definição (ex: para revisões legadas), não repetir o termo no início da definição.
+- O `[+STATEMENT_D]` preserva a definição curta completa.
 
 ### SEÇÃO 2 — Quiz
 
@@ -128,9 +136,9 @@ Os títulos de semana **NÃO devem usar dois-pontos (`:`)** como separador. Subs
 
 ### Passo 3 — Extrair conteúdo das aulas .4
 Para cada semana do bimestre, abrir a aula `N.4.md` e copiar:
-1. O `[+PARAGRAPH]` do Definir (texto introdutório)
-2. O `[+TABLE]` do Definir (termos e definições)
-3. O primeiro `[+MATCHING]` do Definir
+1. O `[+PARAGRAPH]` do Definir (com a definição curta única da semana)
+2. O `[+STATEMENT_D]` do Recordar (definição curta única)
+3. Montar um `[+MATCHING]` ligando cada aula (x.1, x.2, x.3) ao seu ângulo dentro do tema
 
 ### Passo 4 — Extrair questões do Quiz
 Para cada aula `.4`, abrir a seção `## [QUIZ] Praticar` e copiar:
@@ -175,4 +183,4 @@ Nome do arquivo: `[SEMANA_REVISÃO].md`
 
 ## Output
 - Arquivo `.md` completo com revisão bimestral pronto para publicação.
-- Confirmação: `Revisão bimestral montada: [N] semanas, [N] termos, [N] questões.`
+- Confirmação: `Revisão bimestral montada: [N] semanas, [N] temas centrais, [N] questões.`

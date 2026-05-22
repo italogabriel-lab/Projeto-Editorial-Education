@@ -30,7 +30,14 @@ Para novas execucoes, use:
 1. Nao substitua o fluxo moderno se o usuario nao pedir compatibilidade legada.
 2. Sempre sinalize que este skill esta em transicao.
 
+## Regra para Criação de Tickets no Kanban
 
+> **⚠️ IMPORTANTE — Campo `# Description`:** Ao criar tickets no Kanban do GitHub, o corpo do ticket DEVE conter o cabeçalho `# Description` seguido da descrição. Exemplo:
+> ```
+> [Disciplina] - Ano X - N.N Prova
+>
+> # Description
+>
+> Avaliacao dos conhecimentos das 3 aulas anteriores
+> ```
 
-## Argumentos
-$ARGUMENTS

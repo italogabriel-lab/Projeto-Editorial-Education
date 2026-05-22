@@ -17,8 +17,8 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 
 | Arquivo | O que consultar |
 |---------|-----------------|
-| `trivium-method-editorial/knowledge-base/guia-de-estilo.md` | Tom de voz final |
-| `trivium-method-editorial/templates/padrao_final_aula.md` | Conformidade estrutural |
+| `editorial-squad/knowledge-base/guia-de-estilo.md` | Tom de voz final |
+| `editorial-squad/templates/padrao_final_aula.md` | Conformidade estrutural |
 
 ## Checklist de Ajustes Finais
 
@@ -82,7 +82,3 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 ## Output
 
 Arquivo `final_class.md` — versão final polida, pronta para publicação na Etapa 7.
-
-
-## Argumentos
-$ARGUMENTS

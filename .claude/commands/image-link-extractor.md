@@ -31,7 +31,3 @@ Para fluxos novos, priorize:
 1. Trabalhe apenas sobre o habito Perceber.
 2. Se o caso pedir geracao de imagem, encaminhe para `image-generator`.
 
-
-
-## Argumentos
-$ARGUMENTS

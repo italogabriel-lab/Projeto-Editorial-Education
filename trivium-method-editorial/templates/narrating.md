@@ -2,7 +2,7 @@
 
 ## Princípio pedagógico
 
-Este é o **quinto e último contato da criança com o tema da aula**, agora pela via narrativa. O texto literário deve trazer elementos explícitos do conceito definido no Definir. As perguntas conduzem a criança a localizar no texto o que ouviu e leu. A criança deve narrar com as próprias palavras o que compreendeu, sem depender de contexto externo.
+Este é o **quinto e último contato da criança com o tema da semana**, agora pela via narrativa. O texto literário deve trazer elementos explícitos do tema central (definido em `x.1` e mantido em `x.2` e `x.3`), acentuando o ângulo específico daquela aula. As perguntas conduzem a criança a localizar no texto o que ouviu e leu. A criança deve narrar com as próprias palavras o que compreendeu, sem depender de contexto externo.
 
 **O texto DEVE conter respostas explícitas para as 3 perguntas. Não use perguntas que dependam de inferência, interpretação difícil ou conhecimento prévio.**
 
@@ -77,7 +77,7 @@ Responda oralmente às perguntas abaixo sobre o texto.
 - As 3 perguntas devem ser curtas e diretas (uma linha cada).
 - A resposta de cada pergunta deve ser extraível diretamente do texto do Narrar.
 - A resposta de cada pergunta deve aparecer em frase explícita do texto.
-- As perguntas devem abordar aspectos do conceito definido no Definir.
+- As perguntas devem abordar aspectos do tema central da semana sob o ângulo desta aula.
 - As perguntas devem usar palavras simples e familiares para a criança.
 - O objetivo é que a criança releia mentalmente o texto e narre o que compreendeu com suas palavras.
 - Proibido perguntas abertas, reflexivas, abstratas ou dependentes de inferência.
@@ -88,8 +88,8 @@ Responda oralmente às perguntas abaixo sobre o texto.
 - Aspas retas `"` no trecho literário.
 - Trecho dividido em 2 parágrafos separados por linha em branco.
 - Atribuição em linha única com negrito e itálico, terminando com ponto após o Século.
-- O texto deve conter o termo ou elementos claros do tema da aula.
-- O texto deve repetir imagens, ações ou objetos ligados ao conceito definido no Definir.
+- O texto deve conter o termo ou elementos claros do tema central da semana.
+- O texto deve repetir imagens, ações ou objetos ligados ao tema da semana, com destaque ao ângulo desta aula.
 - O texto deve conter as respostas às perguntas de forma explícita, em frases claras.
 - Evite metáforas difíceis quando elas forem necessárias para responder às perguntas.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

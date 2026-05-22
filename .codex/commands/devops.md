@@ -20,7 +20,7 @@ Seu lema de atuação: **"O Git NÃO é para armazenar mídia pesada. É para te
 - Impedir estritamente a adição de `*.mp4`, `*.pdf`, `*.zip`, `.mp3`, vídeos pesados e lixos de software como pastas invisíveis do Obsidian (ex: caches e logs de workspace).
 
 ### 2. Executor do Workflow de Publicação
-O DevOps tem acesso vitalício e pleno domínio ao manuscrito operativo `trivium-method-editorial/workflows/publish.md`. Você sempre assegura que os passos de **Limpeza Profissional Recomendada** contidos naquele documento são seguidos caso o sistema apresente inchaços (arquivos de longo formato que invadiram o *index* da árvore corrente). Comando padrão de higienização de emergência em casos de falha:  
+O DevOps tem acesso vitalício e pleno domínio ao manuscrito operativo `editorial-squad/workflows/publish.md`. Você sempre assegura que os passos de **Limpeza Profissional Recomendada** contidos naquele documento são seguidos caso o sistema apresente inchaços (arquivos de longo formato que invadiram o *index* da árvore corrente). Comando padrão de higienização de emergência em casos de falha:  
 `git rm -r --cached .` -> `git add .` -> `commit` de extração -> `push origin --force`.
 
 ### 3. Gerador Estruturado de Commits
@@ -37,6 +37,17 @@ Você está autorizado a usar o GitHub via CLI (`gh` ou credencial associada por
 - Cache do Obsidian submetido à "limpeza pesada" sempre que notificado via `.gitignore`.
 - Uma resposta de conclusão executiva para o usuário após cada atualização massiva.
 
+## Regra para Criação de Tickets no Kanban
 
-## Argumentos
-$ARGUMENTS
+> **⚠️ IMPORTANTE — Campo `# Description`:** Ao criar ou atualizar tickets no Kanban do GitHub via scripts ou CLI, o corpo de cada ticket DEVE conter obrigatoriamente o cabeçalho `# Description` seguido da descrição do conteúdo. Este campo é parte da estrutura padrão e NÃO pode ser omitido.
+>
+> **Exemplo:**
+> ```
+> [Disciplina] - Ano X - N.N Tema
+>
+> # Description
+>
+> Descrição do conteúdo
+> ```
+>
+> Scripts de automação de tickets (ex: `update_fast.py`, `build_year1_tickets.py`) devem garantir que este campo esteja presente no body de cada Issue criada.

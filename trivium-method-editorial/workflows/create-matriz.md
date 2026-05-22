@@ -53,30 +53,33 @@ Extraia:
 
 Com os dados extraídos, gere um bloco seguindo **exatamente** o formato das semanas existentes no arquivo `2 - Matriz-Curricular-objetivos - [X]º ANO.md`.
 
-### Formato obrigatório:
+### Formato obrigatório (novo padrão — semana como unidade):
 
 ```markdown
-## 📗 Semana [X] – **[Título da semana]**
+## Semana [X] - [Tema central da semana]
 
-**Tema central:** [Frase que conecta o conteúdo artístico à cosmovisão cristã reformada.]
+**Tema central**, [Tema da semana, idêntico ao título de x.1]. A aula [X].1 apresenta o coração do tema. As aulas [X].2 e [X].3 desenvolvem seus dois desdobramentos.
 
-| Aula | Título                         | Objetivo Teológico-Pedagógico                                      |
-| ---- | ------------------------------ | ------------------------------------------------------------------ |
-| X.1  | **[Título do Dia 1]**          | [Objetivo em 1 frase, começando com verbo no infinitivo.]          |
-| X.2  | **[Título do Dia 2]**          | [Objetivo em 1 frase, começando com verbo no infinitivo.]          |
-| X.3  | **[Título do Dia 3]**          | [Objetivo em 1 frase, começando com verbo no infinitivo.]          |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| X.1 | [Título do Dia 1 — idêntico ao de x.1] | Apresentar [tema central] como coração da semana e eixo da definição. |
+| X.2 | [Título do Dia 2] | Reconhecer [tema de x.2] como primeiro desdobramento do tema principal. |
+| X.3 | [Título do Dia 3] | Praticar [tema de x.3] como segundo desdobramento do tema principal. |
 
-**Conceitos da semana:** [Termo1], [Termo2], [Termo3]
+**Conceitos da semana**, [Título de x.1], [Título de x.2], [Título de x.3]
+
+---
 ```
 
 ### Regras de geração:
 
-1. **Emoji do cabeçalho**: use o ciclo 📗, 📘, 📙, 📕 (repetindo a cada 4 semanas de conteúdo, pulando revisão/prova).
-2. **Tema central**: 1 frase conectando conteúdo artístico à fé cristã reformada.
-3. **Títulos das aulas**: conforme aparecem no Currículo Macro, em negrito.
-4. **Objetivos Teológico-Pedagógicos**: verbo no infinitivo + conexão bíblica/teológica, máximo 1 frase.
-5. **Conceitos da semana**: 3 termos-chave substantivos concisos.
+1. **Cabeçalho sem emoji** (limpo, sentence-case): `## Semana [X] - [Tema]`.
+2. **Tema central**: a frase de abertura usa o template "A aula X.1 apresenta o coração do tema. As aulas X.2 e X.3 desenvolvem seus dois desdobramentos."
+3. **Títulos das aulas**: conforme aparecem no Currículo Macro, **sem negrito**, alinhados ao tema central.
+4. **Objetivos**: padrão `Apresentar / Reconhecer / Praticar` para x.1, x.2 e x.3 respectivamente.
+5. **Conceitos da semana**: lista dos 3 títulos das aulas (não três termos distintos).
 6. **Separador**: adicionar `---` após o bloco.
+7. **Importante**: o `[Tema central da semana]` precisa ser idêntico ao título de `x.1`. A definição curta de `x.1`, `x.2` e `x.3` é a mesma, derivada deste tema.
 
 ---
 
@@ -90,20 +93,7 @@ Anexe o conteúdo gerado **ao final** do arquivo `2 - Matriz-Curricular-objetivo
 
 Reporte:
 
-- ✅ Matriz Curricular da **Semana [X] — [Título]** gerada para o **[X]º Ano**
+- ✅ Matriz Curricular da **Semana [X] — [Tema central]** gerada para o **[X]º Ano**
 - ✅ Salva em `[nome do arquivo]`
-- 📋 Aulas: X.1, X.2, X.3
-- 📋 Conceitos: [Termo1], [Termo2], [Termo3]
-
----
-
-## Referência de emojis por semana
-
-O ciclo de emojis repete a cada 4 semanas de conteúdo:
-
-| Posição no ciclo | Emoji |
-|------------------|-------|
-| 1ª               | 📗    |
-| 2ª               | 📘    |
-| 3ª               | 📙    |
-| 4ª               | 📕    |
+- 📋 Aulas: X.1 (coração), X.2 (subtópico 1), X.3 (subtópico 2)
+- 📋 Tema central da semana: [Tema]

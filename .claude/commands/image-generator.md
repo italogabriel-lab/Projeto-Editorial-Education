@@ -48,8 +48,8 @@ generated/
 
 | Arquivo | O que consultar |
 |---------|-----------------|
-| `trivium-method-editorial/templates/templates/narrating.md` | Estrutura do hábito Narrar |
-| `trivium-method-editorial/knowledge-base/rise-blocks-reference.md` | Formato de imagens para Rise |
+| `trivium-method/templates/templates/narrating.md` | Estrutura do hábito Narrar |
+| `trivium-method/knowledge-base/rise-blocks-reference.md` | Formato de imagens para Rise |
 | `5 - Prompts-para-imagens-narrar-[ANO].md` | Prompts completos |
 
 ## Instruções de Geração
@@ -254,7 +254,3 @@ Organiza imagens na hierarquia correta.
 
 ### **generate_log.py**
 Gera log de produção em Markdown.
-
-
-## Argumentos
-$ARGUMENTS

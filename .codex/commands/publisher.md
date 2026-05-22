@@ -36,8 +36,18 @@ Salvar o arquivo no diretório local do ano:
 ```
 Exemplo: `36.3.md`
 
-### Etapa 2: Registrar Termo no Currículo Macro
-Marcar o termo com ✅ no Currículo Macro do ano correspondente.
+### Etapa 2: Registrar no Currículo Macro
+1. Marcar a aula com ✅ no Currículo Macro do ano correspondente.
+2. Quando completar as 3 aulas da semana, adicionar `## Semana N ✅` e o bloco de **termo único da semana**:
+
+```markdown
+# Semana N
+[TermoCentral] ✅
+```
+
+O `[TermoCentral]` é o termo principal compartilhado pelas 3 aulas (do Accordion/Definir de x.1, x.2 e x.3).
+
+> **Padrão antigo (descontinuado)**: blocos com 3 termos por semana não são mais utilizados.
 
 ### Etapa 3: Push to GitHub (via MCP)
 Quando o servidor GitHub MCP estiver configurado, usar `create_or_update_file`:
@@ -54,7 +64,7 @@ message: Aula [NUMERO_AULA] — [Título]
 ### Etapa 4: Confirmar
 Reportar ao usuário:
 - ✅ Salvo localmente em `[path local]`
-- ✅ Termo registrado no Currículo Macro
+- ✅ Aula marcada no Currículo Macro (termo da semana registrado quando completar 3/3)
 - ✅ Publicado no GitHub em `[path repo]` (se MCP ativo)
 
 ## Estrutura da Semana
@@ -70,10 +80,21 @@ Reportar ao usuário:
 ## Output
 
 - Arquivo `.md` salvo localmente
-- Termo marcado no Currículo Macro
+- Aula marcada no Currículo Macro (e termo da semana registrado ao completar a semana)
 - Commit no GitHub (quando MCP ativo)
 - Relatório de status ao usuário
 
+## Regra para Criação de Tickets no Kanban
 
-## Argumentos
-$ARGUMENTS
+> **⚠️ IMPORTANTE — Campo `# Description`:** Ao criar tickets no Kanban do GitHub (revisões, provas, aulas), o corpo de cada ticket DEVE conter obrigatoriamente o cabeçalho `# Description` seguido da descrição do conteúdo. Este campo faz parte da estrutura padrão do ticket e NÃO pode ser omitido.
+>
+> **Exemplo de estrutura do ticket:**
+> ```
+> [Disciplina] - Ano X - N.N Tema
+>
+> # Description
+>
+> Descrição do conteúdo da aula/revisão/prova
+> ```
+>
+> Esta regra vale para TODOS os tipos de tickets: aulas regulares (.1, .2, .3), revisões semanais (.4), provas semanais (.5), revisões bimestrais e provas bimestrais.

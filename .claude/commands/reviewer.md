@@ -23,10 +23,10 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 | Arquivo | Caminho | O que validar |
 |---------|---------|---------------|
-| Guia de Estilo | `trivium-method-editorial/knowledge-base/guia-de-estilo.md` | Tom de voz, formatação |
-| Doutrina Pedagógica | `trivium-method-editorial/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada |
-| Rise Blocks | `trivium-method-editorial/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
-| Golden Template | `trivium-method-editorial/templates/padrao_final_aula.md` | Estrutura exata |
+| Guia de Estilo | `editorial-squad/knowledge-base/guia-de-estilo.md` | Tom de voz, formatação |
+| Doutrina Pedagógica | `editorial-squad/knowledge-base/doutrina-pedagogica.md` | Cosmovisão reformada |
+| Rise Blocks | `editorial-squad/knowledge-base/rise-blocks-reference.md` | Sintaxe dos blocos |
+| Golden Template | `editorial-squad/templates/padrao_final_aula.md` | Estrutura exata |
 | Pontos de Atenção | `Base de Conhecimento/2-Base de Conhecimento/Pontos de Atenção para Revisão do Contéudo.md` | Regras fixas |
 | Erros da IA | `Base de Conhecimento/2-Base de Conhecimento/Principais erros da IA com o Contéudo.md` | Erros conhecidos |
 | Style Conventions | `Base de Conhecimento/2-Base de Conhecimento/13-Style conventions.md` | Convenções de escrita |
@@ -37,7 +37,34 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ## CHECKLIST DE AUDITORIA COMPLETO
 
-### 0. Título da Aula (H1) — Fonte de Verdade
+### 0. Coerência Temática — Princípio Central (verificar PRIMEIRO)
+
+A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido em `x.1`) e 1 termo principal compartilhado pelas 3 aulas. Todos os hábitos de cada aula devem reforçar esse tema por ângulos diferentes.
+
+- [ ] O TERMO da semana é o eixo de todos os hábitos da aula
+- [ ] **Perceber**: a imagem ilustra diretamente o tema sob o ângulo desta aula
+- [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o tema
+- [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir
+- [ ] **Recordar**: a rima ou música menciona o tema central da semana
+- [ ] **Praticar**: o Fill_In completa a definição do tema (mesma frase da semana)
+- [ ] **Praticar**: a múltipla escolha pergunta sobre o tema e a resposta correta é a definição
+- [ ] **Praticar**: a Atividade Extra tem relação direta com o ângulo desta aula dentro do tema da semana
+- [ ] **Narrar**: o texto traz elementos explícitos do tema da semana
+- [ ] **Narrar**: as perguntas ajudam a criança a narrar o texto com suas palavras
+- [ ] Se algum hábito não reforça o tema, **REJEITAR** e devolver ao Writer
+
+### 0a. Consistência Semanal (verificar quando a aula é `x.2` ou `x.3`)
+
+- [ ] Definição curta em negrito no cabeçalho do Definir é **literal e idêntica** à de `x.1` da mesma semana
+- [ ] Statement_D do Recordar é idêntico ao de `x.1` (texto, ordem das palavras, capitalização)
+- [ ] Fill_In do Praticar usa a mesma frase da definição da semana (apenas a posição da lacuna pode mudar)
+- [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título)
+- [ ] Termo principal é o mesmo de `x.1`
+- [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
+
+---
+
+### 0b. Título da Aula (H1) — Fonte de Verdade
 - [ ] Título H1 é **idêntico** ao título no `1 - Curriculo Macro`
 - [ ] Se divergente, **REJEITAR** e devolver ao Writer para correção
 - [ ] O Curriculo Macro é a **única fonte oficial** de títulos de aula
@@ -69,21 +96,22 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Preposições e artigos em minúscula no meio de títulos
 - [ ] Sem maiúsculas após dois-pontos (exceto nomes próprios)
 - [ ] **Consistência**: mesmo termo com mesma capitalização em TODAS as seções
-- [ ] Definição curta no cabeçalho do Definir, no Recordar e no Praticar com capitalização idêntica
+- [ ] Definição curta no cabeçalho do Definir = Recordar, capitalização idêntica
+- [ ] Praticar usa a mesma definição curta com lacunas, sem trocar palavras fora das lacunas
 
 ---
 
 ### 2. Definir — Regras Específicas
 
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
-- [ ] Duas frases em prosa direta após a definição curta
+- [ ] Duas frases em prosa direta após a definição curta, sem "Reconheça que" nem "Observe que"
 - [ ] `[+VIDEO][-VIDEO]` presente
 - [ ] Accordion: tema ou pergunta simples da aula
 - [ ] Accordion com `@link_png@`
 - [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa
 - [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
-- [ ] Primeira frase do MP3 idêntica ao cabeçalho do Definir e ao Recordar
+- [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
 - [ ] **Sem separadores** `---` entre hábitos
 - [ ] **Sem metadados** (disciplina, módulo, faixa etária)
@@ -92,9 +120,13 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ### 3. Perceber — Regras Específicas
 
-- [ ] Parágrafo em imperativo
+- [ ] Parágrafo com 1 frase curta, simples e direta
 - [ ] `[+IMAGE_LABELED]` com `@link_png@`
 - [ ] Exatamente **2 hotspots** com coordenadas, título e descrição
+- [ ] Cada título de hotspot tem 2 a 5 palavras
+- [ ] Cada descrição de hotspot tem apenas 1 frase curta
+- [ ] Observações e explicações ficam nos hotspots, não no enunciado
+- [ ] Hotspots apontam observações visuais diretas, sem análise longa
 - [ ] **Nenhum bloco extra**
 
 ---
@@ -104,7 +136,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
 - [ ] Definição CURTA no Statement_D (9-10 palavras)
 - [ ] Voice ID presente
-- [ ] Definição curta idêntica ao cabeçalho do Definir, ao Recordar e ao início do Accordion
+- [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
 ---
@@ -120,22 +152,32 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] `[+MULTIPLE]` pergunta o significado do termo
 - [ ] Resposta correta do `[+MULTIPLE]` é a definição curta completa e literal
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
-- [ ] Atividade extra usa `[+PARAGRAPH]` fixo e `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`
-- [ ] Não usar `[+ATTACHMENT]` com `@link_pdf@`
+- [ ] Em revisão `.4`, `[+TABLE]` e `[+MATCHING]` não repetem o termo no início da definição
+- [ ] Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção."
+- [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- [ ] **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ---
 
 ### 6. Narrar — Regras Específicas
 
 - [ ] `[+HEADING] Leitura [-HEADING]`
-- [ ] `[+IMAGE_TEXT_ASIDE]` com trecho entre aspas retas
+- [ ] 1º, 2º, 4º e 5º ano usam `[+IMAGE_TEXT_ASIDE]` com trecho entre aspas retas
+- [ ] 3º ano usa `[+PARAGRAPH]` na leitura e mantém `[+IMAGE]` com `@link_png@` antes de `Perguntas`
 - [ ] Trecho dividido em **2 parágrafos** (separados por linha em branco)
 - [ ] Trecho literário cristão, puritano ou poético
+- [ ] Texto traz elementos explícitos do tema da aula e do conceito definido
+- [ ] Texto contém, em frases claras, as respostas diretas para as 3 perguntas
 - [ ] Atribuição em **linha única** com **negrito** e *itálico*
 - [ ] `[+HEADING] Perguntas [-HEADING]`
 - [ ] 3 perguntas com interrogação
 - [ ] 1 linha de espaço entre perguntas
-- [ ] Perguntas relacionadas ao conteúdo da aula
+- [ ] Perguntas curtas, diretas e fáceis de compreender
+- [ ] Cada resposta aparece explicitamente no texto lido
+- [ ] Perguntas ajudam a criança a narrar com suas palavras o que compreendeu
+- [ ] Nenhuma pergunta é aberta, reflexiva, abstrata ou dependente de inferência
+- [ ] Nenhuma pergunta exige conhecimento prévio ou contexto externo ao texto
+- [ ] Se alguma pergunta falhar nesses critérios, **REJEITAR** e devolver ao Writer
 
 ---
 
@@ -162,7 +204,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 ### 9. Consistência Doutrinária
 
 - [ ] Cosmovisão cristã reformada mantida
-- [ ] Linguagem bíblica e teologicamente sólida
+- [ ] Reflexões bíblicas teologicamente sólidas
 - [ ] Versículos corretos (texto e referência ARA/ARC)
 
 ---
@@ -175,10 +217,25 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 ---
 
-### 11. Termo Único
+### 11. Termo da Semana (não da aula)
 
-- [ ] Termo NÃO aparece em aulas anteriores (Currículo Macro)
+- [ ] Termo da semana NÃO aparece em **semanas anteriores** do Currículo Macro
+- [ ] Termo se repete propositadamente entre `x.1`, `x.2` e `x.3` da mesma semana — isso é correto, não erro
+- [ ] Tema central da semana NÃO repete semana anterior do mesmo ano
 - [ ] Termo adequado ao tema e faixa etária
+- [ ] Se houver repetição em **outra semana**, REJEITAR e pedir troca do tema da semana posterior por recorte inédito no Currículo Macro
+
+---
+
+### 11b. Revisão Semanal `.4`
+
+- [ ] A revisão usa **uma única definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`), não três definições distintas
+- [ ] O Statement_D do Recordar repete essa definição única
+- [ ] O Fill_In do Praticar usa a definição única com lacuna
+- [ ] A música/rima do `[+IMAGE_TEXT_ON]` é a mesma usada nas 3 aulas da semana
+- [ ] No Perceber, o `[+IMAGE_LABELED]` mostra **uma imagem por aula**, com o título de cada aula nos hotspots
+- [ ] As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraída de cada aula da semana
+- [ ] Se houver `[+TABLE]` ou `[+MATCHING]` (opcionais), não repetir o termo no início da definição
 
 ---
 
@@ -188,7 +245,8 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 - [ ] Ordem: Definir → Perceber → Recordar → Praticar → Narrar
 - [ ] H1 para título, H2 para hábitos
 - [ ] Subtítulos com `[+HEADING]` (NUNCA H3)
-- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`, `@link_pdf@`
+- [ ] Placeholders corretos: `@link_png@`, `@link_mp3@`
+- [ ] Atividade Extra usa `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` (NÃO `[+ATTACHMENT]`)
 
 ---
 
@@ -213,7 +271,7 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 | 5 | Voz passiva | Todos os enunciados no imperativo ativo |
 | 6 | Sinais proibidos | `;`, `:`, `—` devem ser `,` ou `.` |
 | 7 | Aspas curvas | Usar apenas aspas retas |
-| 8 | Definição inconsistente | Definição curta idêntica nos locais obrigatórios |
+| 8 | Definição inconsistente | Mesma definição em 5+ locais |
 | 9 | Perguntas fora do tema | Todas relacionadas ao conteúdo |
 | 10 | Primeiro parágrafo repete título | Complementar, não repetir |
 
@@ -254,7 +312,3 @@ Correções necessárias:
 1. Resultado da auditoria (APPROVED ou REJECTED)
 2. Se aprovado: arquivo `reviewed_class.md` pronto para Etapa 5
 3. Se rejeitado: log detalhado de erros
-
-
-## Argumentos
-$ARGUMENTS

@@ -23,23 +23,33 @@ A Bibline Academy adota a **Educação Clássica Cristã** como modelo pedagógi
 
 1. **Memorização** é a atividade cognitiva central — definições, versículos, vocabulário.
 2. **Observação** precede a análise — primeiro ver, depois entender.
-3. **Repetição** é virtude, não redundância — o mesmo conceito aparece em múltiplas formas (texto, áudio, imagem, exercício).
+3. **Repetição** é virtude, não redundância — o mesmo tema aparece em múltiplas formas (texto, áudio, imagem, exercício) **ao longo de toda a semana**.
 4. **Narrativa** é a forma mais natural de aprendizagem nessa fase — histórias fixam conhecimento.
-5. **Vocabulário** é construído progressivamente — cada aula introduz 1 termo novo.
+5. **Vocabulário** é construído progressivamente — cada **semana** introduz 1 termo novo, trabalhado por 3 aulas em ângulos diferentes.
+
+### Estrutura Semanal — A Semana como Unidade Pedagógica
+
+A unidade pedagógica é a **semana**, não a aula. Cada semana tem **1 tema central** e a mesma definição curta literal nas três aulas. As aulas se desdobram assim:
+
+- **`x.1` — Coração da semana**: apresenta o tema e fixa a definição curta oficial.
+- **`x.2` — Primeiro desdobramento**: explora um ângulo específico do mesmo tema.
+- **`x.3` — Segundo desdobramento**: explora outro ângulo do mesmo tema e fecha a semana.
+
+A definição curta nasce em `x.1` e se repete literalmente em `x.2` e `x.3`. A música ou rima do Recordar é a mesma nas três aulas. Só variam o parágrafo livre do Definir (e a explicação no Accordion) e os exemplos visuais/narrativos de cada aula.
 
 ### Estrutura dos 5 Hábitos — Memorização por Repetição com Variação
 
-Cada aula é organizada em 5 hábitos que abordam o **mesmo conceito central** por ângulos diferentes. O objetivo é que a criança tenha contato repetido com o tema, fixando-o na memória ao final da aula.
+Cada aula é organizada em 5 hábitos que abordam o **mesmo tema central da semana** por ângulos diferentes. O objetivo é que a criança tenha contato repetido com o tema ao longo das três aulas, fixando-o na memória.
 
 | Hábito | Abordagem | O que a criança faz |
 |--------|-----------|---------------------|
-| **Definir** | Conceitual | Nomeia e conhece o conceito |
-| **Perceber** | Visual | Reconhece o conceito em uma imagem |
+| **Definir** | Conceitual | Nomeia e conhece o tema |
+| **Perceber** | Visual | Reconhece o tema em uma imagem |
 | **Recordar** | Auditivo e mnemônico | Repete a definição e a memoriza por rima ou música |
-| **Praticar** | Ativo | Completa lacunas, responde questões e faz atividade prática sobre o conceito |
-| **Narrar** | Narrativo | Lê um texto que toca no conceito e responde perguntas extraídas do próprio texto |
+| **Praticar** | Ativo | Completa lacunas, responde questões e faz atividade prática sobre o tema |
+| **Narrar** | Narrativo | Lê um texto que toca no tema e responde perguntas extraídas do próprio texto |
 
-**Regra de ouro**: se qualquer hábito não reforça o conceito central do Definir, a aula está incompleta. O Reviewer deve rejeitar aulas em que um hábito se desconecta do conceito central.
+**Regra de ouro**: se qualquer hábito não reforça o tema central da semana, a aula está incompleta. O Reviewer deve rejeitar aulas em que um hábito se desconecta do tema.
 
 ## Cosmovisão Cristã Reformada
 

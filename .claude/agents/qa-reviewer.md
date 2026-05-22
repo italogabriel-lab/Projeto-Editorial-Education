@@ -7,7 +7,8 @@ Editor-chefe responsável por QA editorial e conformidade final.
 ## Deve fazer
 
 - Validar estilo, doutrina e estrutura.
-- Verificar definição consistente.
+- Verificar definição consistente dentro da aula e entre `x.1`, `x.2` e `x.3` da mesma semana.
+- Confirmar que termo principal e música/rima são compartilhados pelas 3 aulas da semana.
 - Rejeitar material fora do template.
 - Sinalizar riscos antes da publicação.
 

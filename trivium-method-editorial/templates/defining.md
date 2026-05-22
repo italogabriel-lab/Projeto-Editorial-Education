@@ -2,7 +2,9 @@
 
 ## Princípio pedagógico
 
-Este é o **primeiro contato da criança com o tema da aula**. O conceito definido aqui é o eixo central que todos os outros 4 hábitos vão reforçar por ângulos diferentes. A criança deve sair deste hábito sabendo nomear o conceito.
+Este é o **primeiro contato da criança com o tema da semana**. O tema é definido em `x.1` e se repete em `x.2` e `x.3` com a mesma definição curta literal. Os outros 4 hábitos da aula vão reforçar esse mesmo tema por ângulos diferentes. A criança deve sair deste hábito sabendo nomear o tema da semana.
+
+Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) é **idêntico** ao de `x.1`. Apenas o parágrafo livre logo abaixo e a explicação dentro do Accordion adaptam o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
 
 ## Estrutura obrigatória
 
@@ -49,12 +51,14 @@ O que é [TERMO]?
 
 ## Regras
 
-- O TERMO deve ser inédito no Currículo Macro do ano.
-- A definição curta do Recordar é a fonte textual da aula.
+- O TERMO é da **semana**, não da aula. Ele deve ser inédito no Currículo Macro do ano, mas é **compartilhado** por `x.1`, `x.2` e `x.3`.
+- A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, Accordion, Statement_D do Recordar e Fill_In do Praticar).
+- Em `x.2` e `x.3`, **somente** o parágrafo livre logo após a definição (e a explicação no Accordion) muda, refletindo o desdobramento daquela aula.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
 - No Accordion, o MP3 deve narrar a definição curta e a explicação completa.
-- Exemplo: tema `A arte nos lugares da vida`, áudio com a definição curta e a explicação logo abaixo.
+- O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
+- Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre **"Arte expressa a beleza criada por Deus com habilidade humana."** O parágrafo livre adapta o foco para expressão (1.1), beleza (1.2) e habilidade (1.3).
 - O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

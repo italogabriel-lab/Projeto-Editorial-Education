@@ -2,7 +2,7 @@
 
 ## Princípio pedagógico
 
-Este é o **quarto contato da criança com o tema da aula**, agora pela via da aplicação e exercício. O Fill_In reproduz a definição com lacunas para a criança completar de memória. A múltipla escolha testa o reconhecimento da definição. A atividade extra (PDF) propõe uma experiência prática relacionada ao conceito. A criança deve sair deste hábito tendo aplicado o conceito ativamente.
+Este é o **quarto contato da criança com o tema da semana**, agora pela via da aplicação e exercício. O Fill_In reproduz a definição curta (a mesma de `x.1`, `x.2` e `x.3`) com lacunas para a criança completar de memória. A múltipla escolha testa o reconhecimento da definição. A atividade extra (PDF) propõe uma experiência prática relacionada ao ângulo daquela aula dentro do tema da semana. A criança deve sair deste hábito tendo aplicado o tema ativamente.
 
 ## Estrutura obrigatória
 
@@ -54,11 +54,12 @@ INSTRUCTION=[Instrução de atividade prática no imperativo. A atividade DEVE e
 
 ## Regras
 
-- O Fill_In usa EXATAMENTE a definição do Recordar com lacunas nas palavras-chave.
+- O Fill_In usa EXATAMENTE a definição do Recordar com lacunas nas palavras-chave (a mesma frase em `x.1`, `x.2` e `x.3`).
+- A lacuna escolhida pode variar entre as aulas da semana para destacar palavras diferentes do mesmo enunciado.
 - O bloco `[+MULTIPLE]` é obrigatório e permanece entre o Fill_In e a Atividade Extra.
 - A múltipla escolha tem a definição correta como resposta certa.
-- Os distratores devem ser plausíveis mas claramente errados para quem estudou o conceito.
-- A Atividade Extra DEVE ter relação direta com o conceito — não pode ser atividade genérica.
+- Os distratores devem ser plausíveis mas claramente errados para quem estudou o tema.
+- A Atividade Extra DEVE ter relação direta com o ângulo da aula dentro do tema da semana — não pode ser atividade genérica.
 - Não usar `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado).
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo.
