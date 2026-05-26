@@ -1,0 +1,30 @@
+# Config do gitleaks. Estende as regras default e adiciona allowlist
+# para falsos positivos conhecidos. Mantenha esta lista enxuta.
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Falsos positivos conhecidos do projeto editorial"
+
+# Caminhos que nao contem segredos reais.
+paths = [
+  '''(?i)^\.env\.example$''',
+  '''(?i)QUICK_REFERENCE\.md$''',
+  '''(?i)qa-security-checklist\.md$''',
+]
+
+# Substrings literais que nao sao segredos reais.
+# - AKIAVCODYLSA53PQK4ZA aparece em URLs assinadas do GitHub user-images,
+#   nao e nossa chave AWS.
+# - YOUR_GITHUB_TOKEN, sk-live-abc123xyz789 sao placeholders de exemplo.
+stopwords = [
+  "AKIAVCODYLSA53PQK4ZA",
+  "YOUR_GITHUB_TOKEN",
+  "sk-live-abc123xyz789",
+]
+
+# Regex de contexto. URLs do GitHub user-images contem AWS keys
+# assinadas que expiram em minutos, ignoramos por completo.
+regexes = [
+  '''private-user-images\.githubusercontent\.com''',
+]

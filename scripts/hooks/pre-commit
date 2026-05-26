@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Bloqueia commit se gitleaks detectar segredos nos arquivos staged.
+# Bypass pontual, use com criterio: git commit --no-verify
+#
+# Ativacao do hook neste clone:
+#   git config core.hooksPath scripts/hooks
+#
+# Instalacao do gitleaks (sem sudo):
+#   curl -sL https://github.com/gitleaks/gitleaks/releases/latest \
+#     -o /tmp/gitleaks.tar.gz
+#   tar -xzf /tmp/gitleaks.tar.gz -C ~/.local/bin gitleaks
+
+set -e
+
+if ! command -v gitleaks >/dev/null 2>&1; then
+  echo "gitleaks nao encontrado no PATH. Instale antes de commitar." >&2
+  echo "Veja instrucoes em scripts/hooks/pre-commit." >&2
+  exit 1
+fi
+
+gitleaks protect --staged --redact --no-banner --verbose --config .gitleaks.toml
