@@ -11,6 +11,7 @@ Diagnostica estado atual, prioriza próximos passos e encaminha para a skill cor
 - Priorizar semanas em andamento.
 - Sugerir o próximo agente ou workflow.
 - Identificar gargalos de produção.
+- Verificar se `x.2` e `x.3` permanecem ligados às palavras-chave de `x.1`.
 
 ## Não deve fazer
 

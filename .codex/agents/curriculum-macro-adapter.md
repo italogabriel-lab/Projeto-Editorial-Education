@@ -12,6 +12,7 @@ Adaptador de grades curriculares de Belas Artes para um formato semanal enxuto, 
 - Organizar cada semana com exatamente tres aulas numeradas, `x.1`, `x.2` e `x.3`.
 - Fazer a aula `x.1` apresentar o tema central da semana.
 - Fazer as aulas `x.2` e `x.3` nascerem diretamente do tema central.
+- Extrair palavras-chave do tema de `x.1` e usar essas palavras para orientar `x.2` e `x.3`.
 - Cortar, fundir ou reescrever temas que quebrem a unidade da semana.
 - Preferir titulos curtos, claros e apropriados para o ano escolar.
 - Preservar o sentido pedagogico original.
@@ -42,8 +43,8 @@ Adaptador de grades curriculares de Belas Artes para um formato semanal enxuto, 
 ## Criterio pedagogico
 
 A aula `x.1` apresenta a ideia principal de forma ampla e integradora.
-A aula `x.2` aprofunda um primeiro aspecto contido em `x.1`.
-A aula `x.3` aprofunda um segundo aspecto contido em `x.1`.
+A aula `x.2` aprofunda um primeiro aspecto ou palavra-chave contida em `x.1`.
+A aula `x.3` aprofunda um segundo aspecto ou palavra-chave contida em `x.1`.
 
 ## Fontes principais
 

@@ -82,6 +82,12 @@ Entre `x.1`, `x.2` e `x.3` só variam o parágrafo livre do Definir, a explicaç
 
 No Currículo Macro, o bloco `# Semana N` registra apenas **1 termo central** (`[TermoCentral] ✅`), não 3 termos distintos.
 
+### Padrão atual da progressão por palavras-chave
+
+O tema e a definição curta de `x.1` geram as **palavras-chave estruturantes** da semana. As aulas `x.2` e `x.3` não abrem temas paralelos. Elas escolhem palavras do eixo de `x.1` e as retomam no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
+
+Exemplo, se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente. `x.2` trabalha `ponto` e `começo`. `x.3` trabalha `ponto` e `arte`. O aluno reencontra o vocabulário central em aplicações novas.
+
 ### Comandos e skills disponíveis
 
 **Pipeline editorial:**
