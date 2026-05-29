@@ -516,9 +516,17 @@ PROXIMAS ACOES:
 <ul>
 <li><strong>Definir:</strong> Frase 1 "Reconheca que...", Frase 2 "Observe que...", Frase 3 definicao curta, Frase 4 "Veja o video abaixo." + Accordion com pergunta, link_png, MP3, definicao com negrito, reflexao com "Entenda que..."</li>
 <li><strong>Perceber:</strong> 3-4 frases no imperativo + Image Labeled com 2 hotspots</li>
-<li><strong>Recordar:</strong> "Ouca e repita a definicao abaixo" + Statement_D com definicao curta (9-10 palavras) + Image Text On</li>
+<li><strong>Recordar:</strong> "Ouca e repita a definicao abaixo" + Statement_D com definicao curta (8-10 palavras) + Image Text On</li>
 <li><strong>Praticar:</strong> Fill_In com enunciado antes + Atividade extra com PDF</li>
 <li><strong>Narrar:</strong> Trecho literario entre aspas retas + atribuicao + 3 perguntas com interrogacao</li>
+</ul>
+
+<h4>Progressao por palavras-chave:</h4>
+<ul>
+<li><strong>x.1:</strong> apresenta o tema central de forma abrangente e fixa a definicao curta unica.</li>
+<li><strong>x.2:</strong> trabalha o primeiro recorte com palavras literais do tema e da definicao de x.1.</li>
+<li><strong>x.3:</strong> trabalha o segundo recorte com palavras literais do tema e da definicao de x.1.</li>
+<li><strong>Exemplo:</strong> "O ponto representa o comeco de uma arte" gera ponto e comeco em x.2, e ponto e arte em x.3.</li>
 </ul>
 </div>
 
@@ -603,7 +611,7 @@ Corpo: "Reconheca que o imperio romano nao desapareceu."
 <li><strong>Estrutura e Escrita:</strong> Voz ativa, imperativo, sem sinais proibidos, limites de texto.</li>
 <li><strong>Definir:</strong> 3-4 frases, VIDEO, Accordion com estrutura correta, voice ID, reflexao com "Entenda que..."</li>
 <li><strong>Perceber:</strong> Imperativo, IMAGE_LABELED com exatamente 2 hotspots.</li>
-<li><strong>Recordar:</strong> Statement_D com definicao curta (9-10 palavras), voice ID.</li>
+<li><strong>Recordar:</strong> Statement_D com definicao curta (8-10 palavras), voice ID.</li>
 <li><strong>Praticar:</strong> Fill_In com enunciado antes, 3-4 lacunas, respostas na ultima linha.</li>
 <li><strong>Narrar:</strong> IMAGE_TEXT_ASIDE com trecho entre aspas retas (2 paragrafos), 3 perguntas.</li>
 <li><strong>Repeticao Consistente:</strong> Definicao identica em 5+ locais.</li>
@@ -620,7 +628,7 @@ Corpo: "Reconheca que o imperio romano nao desapareceu."
 <tbody>
 <tr><td>1</td><td>Accordion com termo repetido</td><td>Definicao direta, sem repetir nome do termo</td></tr>
 <tr><td>2</td><td>Matching invertido</td><td>Definicao primeiro, termo depois do [=]</td></tr>
-<tr><td>3</td><td>Recordar com definicao longa</td><td>Statement_D deve ter 9-10 palavras</td></tr>
+<tr><td>3</td><td>Recordar com definicao longa</td><td>Statement_D deve ter 8-10 palavras</td></tr>
 <tr><td>4</td><td>Fill_In sem enunciado</td><td>PARAGRAPH obrigatorio antes</td></tr>
 <tr><td>5</td><td>Voz passiva</td><td>Todos enunciados no imperativo ativo</td></tr>
 <tr><td>6</td><td>Sinais proibidos</td><td>;, :, — devem ser , ou .</td></tr>
@@ -947,7 +955,7 @@ Correcoes necessarias:
 <ul>
 <li>Titulo H1 DEVE ser EXATAMENTE o do Curriculo Macro (fonte de verdade)</li>
 <li>Termo principal NAO pode estar em aulas anteriores (verificar Curriculo Macro)</li>
-<li>Definicao de 9-10 palavras no Recordar</li>
+<li>Definicao de 8-10 palavras no Recordar</li>
 <li>Reflexao do Accordion comeca com "Entenda que..."</li>
 </ul>
 
@@ -1207,7 +1215,8 @@ possui os 5 arquivos (.1, .2, .3, .4, .5) publicados.</div>
 <tr><td>Voz passiva nos enunciados</td><td>2-4</td><td>Usar checklist de voz ativa</td></tr>
 <tr><td>Sinais proibidos (ponto e virgula, etc.)</td><td>2-4</td><td>Standardizer remove proativamente</td></tr>
 <tr><td>Termo ja definido em aula anterior</td><td>1-2</td><td>Consultar termos com check no Macro</td></tr>
-<tr><td>Definicao longa no Recordar</td><td>2-4</td><td>Limitar a 9-10 palavras</td></tr>
+<tr><td>Definicao longa no Recordar</td><td>2-4</td><td>Limitar a 8-10 palavras</td></tr>
+<tr><td>x.2 ou x.3 com tema paralelo</td><td>1-4</td><td>Retomar palavras-chave de x.1 nos exemplos e atividades</td></tr>
 <tr><td>Fill_In sem enunciado antes</td><td>2-4</td><td>PARAGRAPH obrigatoria antes do bloco</td></tr>
 <tr><td>Esquecer de sincronizar 5 arquivos</td><td>6</td><td>Executar sync_titles.py apos mudancas</td></tr>
 </tbody>
@@ -1236,9 +1245,10 @@ possui os 5 arquivos (.1, .2, .3, .4, .5) publicados.</div>
 <li><strong>Titulo</strong> comeca com <code>#</code> seguido do nome da aula</li>
 <li><strong>Secoes</strong> sao <code>## Definir</code>, <code>## Perceber</code>, <code>## Recordar</code>, <code>## Praticar</code>, <code>## Narrar</code></li>
 <li><strong>Definicao consistente</strong> — mesmo conceito aparece no Accordion, Recordar e Praticar</li>
-<li><strong>Recordar</strong> — definicao curta de 9-10 palavras</li>
+<li><strong>Recordar</strong> — definicao curta de 8-10 palavras</li>
 <li><strong>Praticar</strong> — Fill_In usa a definicao do Recordar com <code>_____</code></li>
 <li><strong>Narrar</strong> — aspas retas, trecho em 2 paragrafos, atribuicao em linha unica com negrito e italico</li>
+<li><strong>Progressao semanal</strong> — x.2 e x.3 retomam palavras-chave de x.1 no exemplo central e nos habitos</li>
 <li><strong>Sem <code>;</code>, <code>:</code>, <code>—</code></strong> — usar <code>,</code> ou <code>.</code></li>
 <li><strong>Voz ativa e imperativo</strong> em todas as instrucoes</li>
 <li><strong>Sem termos em ingles</strong> na versao final</li>
@@ -1269,7 +1279,7 @@ possui os 5 arquivos (.1, .2, .3, .4, .5) publicados.</div>
 [+PARAGRAPH]
 Reconheca que [contexto principal da aula].
 Observe que [argumento ou reflexao secundaria].
-[Definicao curtissima e direta — 9-10 palavras].
+[Definicao curtissima e direta — 8-10 palavras].
 Veja o video abaixo.
 [-PARAGRAPH]
 
@@ -1378,7 +1388,7 @@ Ouca e repita a definicao abaixo.
 [+STATEMENT_D]
 [MP3/]
 #11L:VOICE_ID_AQUI
-[Definicao CURTA — 9-10 palavras — IDENTICA ao Accordion]
+[Definicao CURTA — 8-10 palavras — IDENTICA ao Accordion]
 [MP3\]
 [Definicao CURTA — mesma frase]
 [-STATEMENT_D]
@@ -1425,7 +1435,7 @@ Clique abaixo para ouvir a rima sobre [tema da aula].
 <h4>Regras Criticas do Recordar:</h4>
 <ul>
 <li>Enunciado: "Ouca e repita a definicao abaixo." — EXATO</li>
-<li>Definicao no Statement_D: <strong>9-10 palavras</strong> — IDENTICA a do Accordion</li>
+<li>Definicao no Statement_D: <strong>8-10 palavras</strong> — IDENTICA a do Accordion</li>
 <li>Voice ID presente e consistente por ano</li>
 <li>Variante B (rima) e padrao para 3o ano; Variante A (musica) para demais anos</li>
 </ul>
@@ -1552,7 +1562,7 @@ Responda oralmente as perguntas abaixo sobre o texto.
 
 <div class="tutorial-content-section">
 <h3>Repeticao Obrigatoria da Definicao — Mapa Visual</h3>
-<div class="tutorial-code-block">A mesma definicao de 9-10 palavras aparece em:
+<div class="tutorial-code-block">A mesma definicao de 8-10 palavras aparece em:
 
 1. Definir → Paragrafo introdutorio (final)
    "Reconheca que... Observe que... [Definicao]. Veja o video abaixo."
