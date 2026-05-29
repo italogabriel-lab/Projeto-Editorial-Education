@@ -190,7 +190,7 @@ Leve o aluno a reconhecer a arte feita com pontos como eixo da semana. Depois, c
 | --- | --- | --- | --- |
 | 4.1 | A arte feita com pontos | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
 | 4.2 | Os pontos nas obras | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
-| 4.3 | Os pontos nas cores | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
+| 4.3 | Os pontos e a beleza | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
 
@@ -202,7 +202,7 @@ Apresente o tema principal da semana. Fixe a definição central e conduza a obs
 
 Desenvolva o subtópico 1. Retome a definição da aula 4.1 e aplique o tema a um recorte específico.
 
-3. 4.3 - Os pontos nas cores
+3. 4.3 - Os pontos e a beleza
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -215,7 +215,7 @@ O eixo A arte feita com pontos ensina a criança a ver a arte como resposta à b
 - Eixo temático, A arte feita com pontos
 - Aula coração, 4.1 A arte feita com pontos
 - Subtópico 1, 4.2 Os pontos nas obras
-- Subtópico 2, 4.3 Os pontos nas cores
+- Subtópico 2, 4.3 Os pontos e a beleza
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 5

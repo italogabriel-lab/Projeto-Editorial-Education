@@ -6,7 +6,7 @@
 
 **[Definição curta da aula, igual ao Recordar.]**
 
-[Explicação breve com **termo da aula** em destaque para 1º ano.]
+[UMA ÚNICA FRASE direta e objetiva. Negritos progressivos: em x.1 somente o **TERMO** em negrito; em x.2 o **TERMO** e a **KW2** (= resposta do fill-in); em x.3 o **TERMO** e a **KW3** (= resposta do fill-in).]
 
 Veja o vídeo abaixo.
 
@@ -38,13 +38,13 @@ Leia a definição e ouça o áudio clicando abaixo.
 
 [Definição curta da aula, igual ao Recordar.]
 
-[Explicação breve com termo da aula em destaque para 1º ano.]
+[Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
 
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
 
-[Explicação breve com **termo da aula** em destaque para 1º ano.]
+[Parágrafo livre — com negritos progressivos, literalmente idêntico ao parágrafo livre do Definir.]
 
 [-ACCORDION]
 
@@ -128,9 +128,9 @@ Complete a definição abaixo com a palavra correta.
 
 [+FILL_IN]
 
-[Definição curta com _____ na lacuna.]
+[Definição curta da semana com _____ na palavra-chave da aula. x.1: lacuna no TERMO central. x.2: lacuna na KW2. x.3: lacuna na KW3.]
 
-[resposta]
+[palavra-chave desta aula]
 
 [-FILL_IN]
 
@@ -142,10 +142,10 @@ Atividade 2
 
 [+MULTIPLE]
 
-[Pergunta simples sobre o significado do tema.]
+[Pergunta derivada do parágrafo livre desta aula. Deve diferir entre x.1, x.2 e x.3. Formatos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?", "Quando [TERMO] [VERBO]?", "Quais [ELEMENTOS]?"]
 
-[Distrator curto e plausível] [=]
-[Resposta correta alinhada à definição curta] [=] true
+[Frase-chave do parágrafo livre — resposta correta] [=] true
+[Distrator — temático mas conceitualmente errado] [=]
 
 [-MULTIPLE]
 
@@ -157,7 +157,7 @@ Atividade Extra
 
 [+PARAGRAPH]
 
-Acesse o PDF abaixo para imprimir a atividade.
+Acesse o PDF abaixo e faça a atividade com atenção.
 
 [-PARAGRAPH]
 
@@ -185,13 +185,13 @@ Leitura
 
 [Definição curta da aula, igual ao Recordar.]
 
-[Explicação breve com **termo da aula** em destaque para 1º ano.]
+[Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
 
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
 
-[Explicação breve com **termo da aula** em destaque para 1º ano.]
+[Parágrafo livre — com negritos progressivos, literalmente idêntico ao parágrafo livre do Definir.]
 
 [-IMAGE_TEXT_ASIDE]
 

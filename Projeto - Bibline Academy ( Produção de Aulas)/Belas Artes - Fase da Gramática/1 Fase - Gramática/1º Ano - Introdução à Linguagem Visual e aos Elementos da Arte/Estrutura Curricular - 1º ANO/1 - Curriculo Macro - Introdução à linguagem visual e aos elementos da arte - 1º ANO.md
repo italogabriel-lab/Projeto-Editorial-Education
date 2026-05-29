@@ -23,7 +23,7 @@
 
 - 4.1 A arte feita com pontos ✅
 - 4.2 Os pontos nas obras ✅
-- 4.3 Os pontos nas cores ✅
+- 4.3 Os pontos e a beleza ✅
 
 # Semana 4
 Pontilhado ✅

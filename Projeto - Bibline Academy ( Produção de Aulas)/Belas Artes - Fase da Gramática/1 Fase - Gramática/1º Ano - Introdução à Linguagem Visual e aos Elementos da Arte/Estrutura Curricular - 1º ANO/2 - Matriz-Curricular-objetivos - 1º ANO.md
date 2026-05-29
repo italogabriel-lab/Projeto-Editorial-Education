@@ -63,7 +63,7 @@ A aula .2 desenvolve o primeiro subtópico. A aula .3 desenvolve o segundo subt�
 | --- | --- | --- |
 | 4.1 | A arte feita com pontos | Apresentar a arte feita com pontos como coração da semana e eixo da definição. |
 | 4.2 | Os pontos nas obras | Reconhecer os pontos nas obras como primeiro desdobramento do tema principal. |
-| 4.3 | Os pontos nas cores | Praticar os pontos nas cores como segundo desdobramento do tema principal. |
+| 4.3 | Os pontos e a beleza | Praticar os pontos nas cores como segundo desdobramento do tema principal. |
 
 **Conceitos da semana**, A arte feita com pontos, Os pontos nas obras, Os pontos nas cores
 

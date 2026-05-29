@@ -154,15 +154,15 @@ Avaliar os conhecimentos das aulas da semana 2.
 
 ## Semana 3 – O ponto no desenho
 
-**Tema central da semana**, O ponto no desenho. A aula 3.1 apresenta o coração do tema com a arte feita com pontos. A aula 3.2 desenvolve o ponto como começo. A aula 3.3 desenvolve o ponto no desenho.
+**Tema central da semana**, O ponto no desenho. A aula 3.1 apresenta o coração do tema com o ponto no desenho. A aula 3.2 desenvolve o ponto como começo. A aula 3.3 desenvolve o ponto como padrão.
 
 ---
 
-[Belas artes] - Ano 1 - 3.1 A arte feita com pontos
+[Belas artes] - Ano 1 - 3.1 O ponto no desenho
 
 # Description
 
-**Tema central da semana**, O ponto no desenho. **Foco da aula**, coração pedagógico que fixa a arte feita com pontos como definição central.
+**Tema central da semana**, O ponto no desenho. **Foco da aula**, coração pedagógico que fixa o ponto no desenho como definição central.
 
 ## Objetivos
    → Reconheça a arte feita com pontos como ponto de partida do desenho.
@@ -184,11 +184,11 @@ Avaliar os conhecimentos das aulas da semana 2.
 
 ---
 
-[Belas artes] - Ano 1 - 3.3 O ponto no desenho
+[Belas artes] - Ano 1 - 3.3 O ponto como padrão
 
 # Description
 
-**Tema central da semana**, O ponto no desenho. **Foco da aula**, segundo desdobramento, O ponto no desenho.
+**Tema central da semana**, O ponto no desenho. **Foco da aula**, segundo desdobramento, O ponto como padrão.
 
 ## Objetivos
    → Pratique o uso intencional do ponto no desenho como segundo desdobramento.
@@ -205,9 +205,9 @@ Revisar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **O ponto no desenho**
 
-- 3.1 A arte feita com pontos
+- 3.1 O ponto no desenho
 - 3.2 O ponto como começo
-- 3.3 O ponto no desenho
+- 3.3 O ponto como padrão
 
 ---
 
@@ -219,9 +219,9 @@ Avaliar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **O ponto no desenho**
 
-- 3.1 A arte feita com pontos
+- 3.1 O ponto no desenho
 - 3.2 O ponto como começo
-- 3.3 O ponto no desenho
+- 3.3 O ponto como padrão
 
 ---
 
@@ -614,9 +614,9 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 ## 3ª Semana, **O ponto no desenho**
 
-- 3.1 A arte feita com pontos
+- 3.1 O ponto no desenho
 - 3.2 O ponto como começo
-- 3.3 O ponto no desenho
+- 3.3 O ponto como padrão
 
 ## 4ª Semana, **A arte feita com pontos**
 
@@ -674,9 +674,9 @@ Avaliar os conhecimentos das aulas da semana 8.
 
 ## 3ª Semana, **O ponto no desenho**
 
-- 3.1 A arte feita com pontos
+- 3.1 O ponto no desenho
 - 3.2 O ponto como começo
-- 3.3 O ponto no desenho
+- 3.3 O ponto como padrão
 
 ## 4ª Semana, **A arte feita com pontos**
 

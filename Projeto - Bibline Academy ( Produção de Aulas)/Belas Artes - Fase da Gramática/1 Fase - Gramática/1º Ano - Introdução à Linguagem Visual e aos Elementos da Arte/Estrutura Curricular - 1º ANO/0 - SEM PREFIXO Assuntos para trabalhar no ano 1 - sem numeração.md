@@ -12,7 +12,7 @@ O ponto como padrão
 
 A arte feita com pontos
 Os pontos nas obras
-Os pontos nas cores
+Os pontos e a beleza
 
 A linha no desenho
 As linhas retas e curvas

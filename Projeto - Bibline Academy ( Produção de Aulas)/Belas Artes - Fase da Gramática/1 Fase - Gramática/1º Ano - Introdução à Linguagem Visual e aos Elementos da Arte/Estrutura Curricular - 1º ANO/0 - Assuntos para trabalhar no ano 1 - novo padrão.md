@@ -12,7 +12,7 @@
 
 4.1	A arte feita com pontos
 4.2	Os pontos nas obras
-4.3	Os pontos nas cores
+4.3	Os pontos e a beleza
 
 5.1	A linha no desenho
 5.2	As linhas retas e curvas
