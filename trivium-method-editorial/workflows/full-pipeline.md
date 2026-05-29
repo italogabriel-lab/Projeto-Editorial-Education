@@ -25,6 +25,7 @@ Use esta etapa quando o usuário trouxer uma lista de temas, um arquivo `0 - Ass
 - Garanta que cada semana tenha `x.1`, `x.2` e `x.3`.
 - Use `x.1` como tema central.
 - Use `x.2` e `x.3` como desdobramentos diretos.
+- Extraia palavras-chave de `x.1` e confirme que `x.2` e `x.3` nascem delas.
 - Não crie plano de aula nesta etapa.
 
 Se o Currículo Macro já estiver aprovado e não houver pedido de adequação, pule para a Etapa 1.

@@ -76,8 +76,9 @@ Quando solicitado ou quando detectar risco, verifique:
 
 1. **Títulos (H1)** das aulas batem com o Currículo Macro?
 2. **Definições curtas** são idênticas no cabeçalho do Definir, no Recordar e na Revisão (X.4)? O áudio do Accordion contém a definição curta e a explicação completa, e o texto após `[MP3\]` é equivalente ao áudio?
-3. **Seção Perceber** das aulas base bate com a Revisão correspondente?
-4. **Links de imagens** estão atualizados no arquivo `4 - Links-para-imagens-perceber`?
+3. **Progressão por palavras-chave** está preservada? `x.2` e `x.3` retomam palavras literais do tema e da definição de `x.1`?
+4. **Seção Perceber** das aulas base bate com a Revisão correspondente?
+5. **Links de imagens** estão atualizados no arquivo `4 - Links-para-imagens-perceber`?
 
 Apresente divergências encontradas com localização exata (arquivo + linha).
 

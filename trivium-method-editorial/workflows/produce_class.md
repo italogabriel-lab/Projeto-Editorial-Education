@@ -32,7 +32,8 @@ Estrutura: `[Base]/Estrutura Curricular/`
 3. Consultar o **Currículo Macro** para identificar termos proibidos em semanas anteriores (✅)
 4. Pesquisar **uma vez por semana** (resultado serve para `x.1`, `x.2` e `x.3`):
    - Definição Webster 1828 para o termo central da semana
-   - Definição curta de 9-10 palavras (compartilhada pelas 3 aulas)
+   - Definição curta de 8-10 palavras (compartilhada pelas 3 aulas)
+   - Palavras-chave estruturantes do tema e da definição de `x.1`, usadas nos exemplos de `x.2` e `x.3`
    - 1 versículo eixo + 2 versículos de apoio (para `x.2` e `x.3`)
    - 3 obras de arte para o Perceber (uma por aula, todas dentro do tema)
    - 1 música ou rima para o Recordar (compartilhada pelas 3 aulas)
@@ -49,11 +50,12 @@ Estrutura: `[Base]/Estrutura Curricular/`
    - `editorial-squad/knowledge-base/guia-de-estilo.md`
    - `editorial-squad/knowledge-base/doutrina-pedagogica.md`
 4. Se a aula é `x.2` ou `x.3`, **ler primeiro `x.1`** da mesma semana e copiar literalmente: definição curta, termo principal e música/rima do Recordar
-5. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
-6. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
-7. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem
-8. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
-9. **Output**: rascunho da aula
+5. Extrair palavras-chave do tema e da definição de `x.1` e usá-las no exemplo central, no Definir, no Perceber, no Praticar e no Narrar de `x.2` e `x.3`. No parágrafo livre do Definir, aplicar **progressão de negritos**: `x.1` = negrito no TERMO; `x.2` = negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); `x.3` = negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). O Accordion replica o parágrafo — plain no áudio, bold no texto visual após `[MP3\]`
+6. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
+7. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
+8. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem. O Fill_In usa a definição curta da semana com a lacuna na palavra-chave específica da aula: `x.1` no termo central, `x.2` na palavra-chave do desdobramento, `x.3` na palavra-chave do contexto
+9. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
+10. **Output**: rascunho da aula
 
 ---
 
@@ -67,8 +69,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
 6. Remover metadados, emojis de seção, separadores `---`
 7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o MP3 contém definição curta e explicação completa, e o texto após `[MP3\]` mantém conteúdo equivalente com negritos permitidos
 8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo e música/rima são idênticos. Apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra devem variar
-9. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
-10. **Output**: aula formatada com Rise Blocks
+9. **Progressão por palavras-chave**: se for `x.2` ou `x.3`, garantir que palavras-chave de `x.1` aparecem no Definir, Perceber, Praticar e Narrar
+10. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
+11. **Output**: aula formatada com Rise Blocks
 
 ---
 
@@ -188,3 +191,4 @@ Estrutura: `[Base]/Estrutura Curricular/`
 - O fluxo é **idempotente**: pode ser re-executado sem efeitos colaterais
 - Para uma **semana inteira**, executar 3x (aulas X.1, X.2, X.3) + revisão (X.4) + prova (X.5)
 - Como a unidade pedagógica é a **semana**, a Pesquisa (Etapa 1) pode ser feita **uma vez** e reaproveitada nas 3 redações. Definição curta, termo principal e música/rima são comuns às 3 aulas
+- Como a progressão é por palavras-chave, `x.2` e `x.3` devem variar os exemplos sem perder o vocabulário central de `x.1`

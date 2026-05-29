@@ -31,6 +31,7 @@ Base: `Belas Artes - Fase da Gramática/1 Fase - Gramática/[Diretório]/Estrutu
 ### 2. Consultar o Plano Pedagógico
 Abra o arquivo do Plano Pedagógico e localize a **semana** correspondente. A pesquisa é **por semana**, não por aula.
 Use o tema central da semana, a visão teológica e a progressão pedagógica como **guia primário** de pesquisa.
+Extraia do tema central e da definição curta as **palavras-chave estruturantes** que devem reaparecer nas 3 aulas da semana.
 
 ### 3. Receber Lista de Termos Proibidos
 Consulte o Currículo Macro do ano.
@@ -57,17 +58,19 @@ Se a repetição estiver no Currículo Macro, sinalize como erro curricular ante
 1. **Receber o Tema da Semana**: ex: "A arte e a expressão" (semana 1), "A linha no desenho" (semana 5)
 2. **Estratégia de Busca (1 vez por semana)**:
    - Use `search_web` para definição acadêmica e clássica (Webster's 1828 Dictionary) do termo central — usada em `x.1`, `x.2` e `x.3`
+   - Extraia 3 a 6 palavras-chave literais do tema central e da definição curta. Use essas palavras como eixo de `x.2` e `x.3`
    - Encontre 1 versículo eixo da semana + 2 versículos de apoio para os desdobramentos (um para `x.2`, um para `x.3`)
    - Encontre **3 obras ou imagens** (uma por aula) que mostrem o tema sob ângulos diferentes
    - Encontre 1 poema, hino ou música para o Recordar — **a mesma para as 3 aulas**
    - Encontre **3 trechos literários** (um por aula) para o Narrar — use o DB de Autores abaixo
 3. **Compilar Relatório** organizado pelos 5 Hábitos e por aula:
-   - **Definir (semana)**: Definição Webster 1828 do termo central, etimologia, **definição curta de 9-10 palavras** que será literal em `x.1`, `x.2` e `x.3`
-   - **Definir (por aula)**: parágrafo livre com o ângulo de cada aula (3 versões)
-   - **Perceber**: 3 imagens/obras (uma por aula) que ilustram o tema sob ângulos diferentes
+   - **Definir (semana)**: Definição Webster 1828 do termo central, etimologia, **definição curta de 8-10 palavras** que será literal em `x.1`, `x.2` e `x.3`
+   - **Palavras-chave estruturantes**: lista de termos literais que vêm de `x.1` e guiam os exemplos de `x.2` e `x.3`
+   - **Definir (por aula)**: parágrafo livre com o ângulo de cada aula (3 versões), sempre retomando palavras-chave do eixo de `x.1`
+   - **Perceber**: 3 imagens/obras (uma por aula) que ilustram o tema sob ângulos diferentes e retomam palavras-chave do eixo
    - **Recordar**: definição curta da semana + versículo-chave + poema, hino ou música única para as 3 aulas
-   - **Praticar**: 3 ideias de atividade extra (uma por aula), todas dentro do tema da semana
-   - **Narrar**: 3 trechos literários (um por aula) com atribuição do autor (ver DB abaixo)
+   - **Praticar**: 3 ideias de atividade extra (uma por aula), todas dentro do tema da semana e ligadas às palavras-chave
+   - **Narrar**: 3 trechos literários (um por aula) com palavras-chave explícitas e atribuição do autor (ver DB abaixo)
 
 ## DB de Autores para o Narrar
 

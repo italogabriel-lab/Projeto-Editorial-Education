@@ -4,6 +4,8 @@
 
 Este é o **terceiro contato da criança com o tema da semana**, agora pela via auditiva e mnemônica. A definição curta é a frase literal de `x.1`, repetida em `x.2` e `x.3`. Ela abre o Definir e aparece completa no Statement_D. No Accordion, o MP3 narra a definição curta e a explicação completa. A **mesma música ou rima** é usada nas três aulas da semana — não troque por aula. A criança deve sair deste hábito conseguindo repetir a definição de cor.
 
+A música ou rima deve preservar as palavras-chave do tema central de `x.1`, para que o vocabulário principal continue presente nas três aulas.
+
 ## Estrutura obrigatória
 
 ```markdown
@@ -15,7 +17,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 #FSH:0b12d715e4c741399594fccb12d4bbe2
-[Definição CURTA, 9 a 10 palavras, EXATAMENTE a mesma do cabeçalho do Definir]
+[Definição CURTA, 8 a 10 palavras, EXATAMENTE a mesma do cabeçalho do Definir]
 [MP3\]
 
 [Definição CURTA — mesma frase]
@@ -82,9 +84,10 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [TEMA].
 
 ## Regras
 
-- A definição do Statement_D é IDÊNTICA ao cabeçalho do Definir, versão curta de 9-10 palavras.
+- A definição do Statement_D é IDÊNTICA ao cabeçalho do Definir, versão curta de 8-10 palavras.
 - A definição é a mesma em `x.1`, `x.2` e `x.3` da mesma semana.
 - A rima ou música DEVE mencionar o tema central da semana — não pode ser genérica.
 - A rima deve conter a palavra-chave do tema pelo menos uma vez.
+- Quando a semana tiver palavras-chave estruturantes explícitas, a rima ou música deve usar pelo menos uma delas.
 - A mesma música (`@link_mp3@` + Nome da música) ou rima é usada nas três aulas da semana.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

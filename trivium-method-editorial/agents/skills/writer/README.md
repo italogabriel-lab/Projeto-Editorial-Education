@@ -20,11 +20,13 @@
 ## Objetivo
 
 O **Writer** (Escriba) transforma pesquisa bruta em conteúdo pedagógico usando os 5 Hábitos da Gramática, seguindo rigorosamente o golden template.
+Ele preserva a progressão por palavras-chave: `x.1` define o eixo lexical da semana, e `x.2` e `x.3` retomam essas palavras nos exemplos e atividades.
 
 **Quando usar:**
 - Recebeu relatório de pesquisa do Researcher
 - Precisa criar conteúdo de aula
 - Segue progressão pedagógica do Plano
+- Precisa manter `x.2` e `x.3` ligados às palavras-chave de `x.1`
 
 ---
 

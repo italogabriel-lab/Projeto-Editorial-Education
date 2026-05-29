@@ -5,6 +5,7 @@
 Este é o **primeiro contato da criança com o tema da semana**. O tema é definido em `x.1` e se repete em `x.2` e `x.3` com a mesma definição curta literal. Os outros 4 hábitos da aula vão reforçar esse mesmo tema por ângulos diferentes. A criança deve sair deste hábito sabendo nomear o tema da semana.
 
 Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) é **idêntico** ao de `x.1`. Apenas o parágrafo livre logo abaixo e a explicação dentro do Accordion adaptam o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
+Esse parágrafo livre deve retomar palavras-chave do tema e da definição de `x.1`. A variação mostra exemplo novo, mas mantém o vocabulário central visível para a criança.
 
 ## Estrutura obrigatória
 
@@ -54,11 +55,12 @@ O que é [TERMO]?
 - O TERMO é da **semana**, não da aula. Ele deve ser inédito no Currículo Macro do ano, mas é **compartilhado** por `x.1`, `x.2` e `x.3`.
 - A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, Accordion, Statement_D do Recordar e Fill_In do Praticar).
 - Em `x.2` e `x.3`, **somente** o parágrafo livre logo após a definição (e a explicação no Accordion) muda, refletindo o desdobramento daquela aula.
+- Em `x.2` e `x.3`, o parágrafo livre e a explicação do Accordion devem usar palavras-chave do tema central de `x.1`.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
 - No Accordion, o MP3 deve narrar a definição curta e a explicação completa.
 - O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
-- Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre **"Arte expressa a beleza criada por Deus com habilidade humana."** O parágrafo livre adapta o foco para expressão (1.1), beleza (1.2) e habilidade (1.3).
+- Exemplo (semana 3): se `x.1` fixa **"O ponto representa o começo de uma arte."**, `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`.
 - O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

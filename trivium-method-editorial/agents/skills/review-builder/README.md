@@ -19,6 +19,7 @@
 ## Objetivo
 
 Criar revisões semanais (X.4) para cada semana do currículo.
+A revisão preserva uma definição única e retoma as palavras-chave estruturantes da semana.
 
 ---
 

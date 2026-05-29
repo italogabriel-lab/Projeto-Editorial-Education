@@ -107,8 +107,9 @@ Para completar as 10 questões, o agente deve **criar 2 questões novas** seguin
 1. **Escolher 2 temas** dentre as 8 semanas que tenham a maior relevância ou dificuldade
 2. **Tipos**: usar tipos que ainda não apareceram com frequência (ex: se há 2 FILL_IN e 2 MULTIPLE_CHOICE, criar 1 TRUE_OR_FALSE e 1 MATCHING extra)
 3. **Conteúdo**: basear-se nas definições e conceitos das aulas `.4` das semanas escolhidas
-4. **Padrão**: seguir exatamente o formato CANVAS_QUIZ dos tipos acima
-5. **Peso**: 10 pontos cada
+4. **Palavras-chave**: preservar palavras-chave estruturantes das semanas escolhidas nos enunciados e alternativas corretas
+5. **Padrão**: seguir exatamente o formato CANVAS_QUIZ dos tipos acima
+6. **Peso**: 10 pontos cada
 
 ### Resultado final: distribuição ideal
 

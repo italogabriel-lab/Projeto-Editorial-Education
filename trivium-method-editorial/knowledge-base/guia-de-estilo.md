@@ -78,6 +78,12 @@ A definição do termo principal deve aparecer **idêntica** em:
 
 O Accordion usa a definição curta e a explicação completa em texto narrável. O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual.
 
+## Repetição Obrigatória das Palavras-Chave
+
+O tema e a definição de `x.1` geram palavras-chave estruturantes. Em `x.2` e `x.3`, essas palavras devem aparecer no parágrafo livre do Definir, no Perceber, na Atividade Extra do Praticar e no texto do Narrar.
+
+Use a repetição lexical para manter a criança em contato com o mesmo eixo da semana. Não substitua palavras centrais por sinônimos quando a intenção for fixação.
+
 Exemplo:
 
 ```markdown

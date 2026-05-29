@@ -32,12 +32,14 @@ Consulte o Currículo Macro e o Plano Pedagógico. Identifique:
 
 - **Tema central da semana** (sempre o título de `x.1`)
 - **Termo principal** compartilhado pelas 3 aulas
-- **Definição curta oficial** (9-10 palavras), que será **idêntica** em `x.1`, `x.2` e `x.3`
+- **Definição curta oficial** (8-10 palavras), que será **idêntica** em `x.1`, `x.2` e `x.3`
+- **Palavras-chave estruturantes** extraídas do tema e da definição de `x.1`. Elas guiam os exemplos de `x.2` e `x.3`
 
 Se você está redigindo `x.2` ou `x.3`, **leia primeiro** `x.1` da mesma semana e extraia dela:
 - A definição curta literal (vai no cabeçalho do Definir, no Accordion, no Statement_D e no Fill_In)
 - O termo principal
 - A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração
+- As palavras-chave estruturantes do tema central e da definição curta de `x.1`
 
 ### 4. Verificar Termos Já Definidos no Ano
 Consulte o Currículo Macro. Todos os termos marcados com ✅ em **semanas anteriores** estão **PROIBIDOS** como termo principal da nova semana.
@@ -68,8 +70,10 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 
 A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema central** (definido em `x.1`) e o explora por 3 ângulos complementares (`x.1`, `x.2`, `x.3`). Os 5 hábitos dentro de cada aula são 5 abordagens diferentes do mesmo tema. Se um hábito não reforça o tema central da semana, ele está errado. Verifique a coerência temática entre todos os hábitos antes de finalizar.
 
+Use a **progressão por palavras-chave**. O tema e a definição de `x.1` fornecem palavras que devem reaparecer literalmente em `x.2` e `x.3`. Exemplo: se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`. O foco muda, mas o vocabulário central continua visível.
+
 **O que se mantém igual nas 3 aulas da semana:**
-- Definição curta (9-10 palavras) — literal e idêntica
+- Definição curta (8-10 palavras) — literal e idêntica
 - Termo principal
 - Música ou rima do Recordar (`@link_mp3@` + nome)
 
@@ -81,6 +85,8 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 - Texto literário do Narrar e perguntas
 - Atividade Extra do Praticar
 
+Essas variações devem reutilizar palavras-chave do tema central. Não crie um núcleo conceitual novo em `x.2` ou `x.3`.
+
 | Hábito | Abordagem | O que fazer |
 |--------|-----------|-------------|
 | Definir | Definição | Repetir a definição curta da semana (literal de `x.1`) e adaptar o parágrafo livre ao ângulo desta aula |
@@ -89,6 +95,8 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 | Praticar | Aplicação | Fill_In com a definição da semana e atividade que trabalha o ângulo desta aula |
 | Narrar | Narrativo | Texto que toca o tema da semana e perguntas respondíveis pelo texto |
 
+Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal de `x.1`.
+
 ## Framework dos 5 Hábitos
 
 ### Definir (Nomear)
@@ -96,7 +104,9 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 - Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D e idêntica em `x.1`, `x.2` e `x.3` da mesma semana.
 - Depois da definição, deixar uma linha em branco.
 - Duas frases em prosa direta na MESMA linha, sem "Reconheça que" nem "Observe que". A primeira apresenta o ângulo desta aula dentro do tema da semana. A segunda traz um argumento extra. Separadas por ponto e espaço, sem linha em branco entre elas.
-- Em `x.2` e `x.3`, **só varia esse parágrafo livre** (e a explicação no Accordion). A definição curta em negrito é literal de `x.1`.
+- Em `x.2` e `x.3`, **só varia esse parágrafo livre** (e a explicação no Accordion). A definição curta em negrito é literal de `x.1`, e o parágrafo livre deve usar palavras-chave do tema central.
+- **Parágrafo livre = uma frase única**: escrever UMA ÚNICA FRASE direta e objetiva. Nunca adicionar segunda frase do tipo "A criança aprende a...", "A criança percebe que..." — são genéricas e proibidas.
+- **Progressão de negritos obrigatória**: em `x.1`, a frase coloca em negrito somente o TERMO. Em `x.2`, coloca em negrito o TERMO e a palavra-chave específica de `x.2` (a mesma resposta do fill-in de `x.2`). Em `x.3`, coloca em negrito o TERMO e a palavra-chave específica de `x.3`. Exemplo (semana 3): `x.1` → 'Você observa **pontos** na arte e percebe como um pequeno sinal pode começar uma imagem.'; `x.2` → 'Você aprende que o **ponto** pode ser o **começo** de um desenho, porque uma imagem pode nascer de um pequeno sinal.'; `x.3` → 'Você usa o **ponto** na **arte** para marcar lugares, criar detalhes e organizar a imagem com cuidado.' O Accordion replica o parágrafo: plain (sem negrito) no bloco de áudio após `#FSH:`, bold (com negrito) no texto visual após `[MP3\]`.
 - Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
 - Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
@@ -106,6 +116,7 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 
 ### Perceber (Observar)
 - A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
+- Em `x.2` e `x.3`, a imagem e os hotspots devem evidenciar palavras-chave do tema de `x.1`
 - Os 2 hotspots devem apontar para elementos que ilustram diretamente o conceito definido
 - O parágrafo deve ter 1 frase curta, simples e direta
 - O enunciado deve apenas observar a imagem, nomear a obra ou cena principal e indicar o elemento visual central
@@ -117,17 +128,18 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 
 ### Recordar (Memorizar)
 - Enunciado: "Ouça e repita a definição abaixo."
-- Statement_D com definição CURTA (9-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e idêntica nas 3 aulas da semana
+- Statement_D com definição CURTA (8-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e idêntica nas 3 aulas da semana
 - A rima ou música DEVE mencionar o tema central da semana — não pode ser genérica
 - A mesma música (`@link_mp3@` + nome) ou rima é usada em `x.1`, `x.2` e `x.3`. Não troque por aula.
 
 ### Praticar (Exercitar)
 - Fill_In com parágrafo de enunciado ANTES
-- Definição do Recordar com `_____` nas lacunas — a criança completa o conceito central
+- **Fill-In progressivo**: a frase-base do Fill_In é sempre a definição curta da semana. A posição da lacuna (`_____`) muda em cada aula para cobrir a palavra-chave específica daquela aula. Em `x.1`, a lacuna fica no termo central da semana. Em `x.2`, a lacuna fica na palavra-chave do desdobramento de `x.2`. Em `x.3`, a lacuna fica na palavra-chave do contexto de `x.3`. Exemplo: "O ponto representa o começo de uma arte" → `x.1` usa `O _____ representa o começo de uma arte.` (resposta: ponto), `x.2` usa `O ponto representa o _____ de uma arte.` (resposta: começo), `x.3` usa `O ponto representa o começo de uma _____.` (resposta: arte). Assim a criança é forçada a recuperar exatamente o conceito em foco naquela aula.
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
 - A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
 - Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
+- Em `x.2` e `x.3`, a Atividade Extra deve usar palavras-chave do tema central e aplicar o ângulo da aula
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
@@ -135,6 +147,7 @@ A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema centr
 - No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` logo após a leitura, antes de `Perguntas`
 - Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
 - O texto DEVE trazer elementos explícitos do tema da aula e do conceito definido
+- Em `x.2` e `x.3`, o texto deve repetir palavras-chave de `x.1` junto ao foco específico da aula
 - O texto DEVE conter as respostas às 3 perguntas em frases claras
 - O texto deve repetir imagens, ações ou objetos ligados ao conceito definido no Definir
 - Atribuição com autor, obra, referência bíblica

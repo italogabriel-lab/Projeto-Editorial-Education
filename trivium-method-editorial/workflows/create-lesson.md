@@ -59,10 +59,12 @@ Abra o arquivo `1 - Curriculo Macro - ... - [X]º ANO.md` do ano correspondente.
 
 - Compile **todos os termos já marcados com ✅** em **semanas anteriores**. Eles estão **PROIBIDOS** como termo de uma nova semana.
 - Identifique o **tema central da semana** (o título de `x.1`) e o **termo principal** que será compartilhado pelas 3 aulas.
+- Extraia as **palavras-chave estruturantes** do tema central e da definição curta. Elas devem aparecer nos exemplos de `x.2` e `x.3`.
 - Se você está criando `x.2` ou `x.3`, **leia primeiro `x.1`** da mesma semana e extraia:
-  - A **definição curta literal** de 9-10 palavras (vai ser repetida sem alteração)
+  - A **definição curta literal** de 8-10 palavras (vai ser repetida sem alteração)
   - O **termo principal** (vai ser o mesmo)
   - O **nome da música ou rima** do Recordar (vai ser o mesmo)
+  - As **palavras-chave estruturantes** do tema e da definição de `x.1`
 - Se você está criando `x.1`, escolha um termo que:
   - Tenha relação direta com o tema central da semana
   - **NÃO conste** na lista de termos de semanas anteriores
@@ -81,6 +83,7 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Escreva a aula nos 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
 - Use o **termo da semana** (compartilhado pelas 3 aulas) como conceito central
 - Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1`. Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
+- Em `x.2` e `x.3`, use palavras-chave do tema de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
 - Siga a progressão pedagógica extraída do plano
 - Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, inclua `@link_png@`, narre definição curta e explicação completa no MP3, e mantenha texto visual equivalente após `[MP3\]`
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
@@ -103,6 +106,7 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Valide o checklist de auditoria completo
 - **Verificação adicional**: confirme que o termo da semana NÃO está na lista de termos de semanas anteriores
 - **Verificação adicional**: se for `x.2` ou `x.3`, confirme que definição curta, termo e música/rima são literais a `x.1`
+- **Verificação adicional**: se for `x.2` ou `x.3`, confirme que as palavras-chave de `x.1` reaparecem no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
 - **Verificação adicional**: confirme que a definição curta do Recordar aparece literalmente no cabeçalho do Definir. No Accordion, confirme que MP3 e texto visível têm conteúdo equivalente
 - **Verificação adicional**: confirme que Praticar contém `[+MULTIPLE]` e, no 3º ano, Narrar contém `[+IMAGE]` após a leitura
 - Se `[APPROVED_FOR_STEP_7]` → prossiga

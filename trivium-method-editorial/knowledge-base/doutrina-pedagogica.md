@@ -37,6 +37,12 @@ A unidade pedagógica é a **semana**, não a aula. Cada semana tem **1 tema cen
 
 A definição curta nasce em `x.1` e se repete literalmente em `x.2` e `x.3`. A música ou rima do Recordar é a mesma nas três aulas. Só variam o parágrafo livre do Definir (e a explicação no Accordion) e os exemplos visuais/narrativos de cada aula.
 
+### Progressão por Palavras-Chave
+
+O tema e a definição de `x.1` geram as palavras-chave estruturantes da semana. As aulas `x.2` e `x.3` retomam essas palavras em exemplos novos, para que a criança encontre o mesmo vocabulário central em aplicações diferentes.
+
+Exemplo: se `x.1` ensina "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente, `x.2` foca `ponto` e `começo`, e `x.3` foca `ponto` e `arte`. A criança progride sem perder contato com o eixo da semana.
+
 ### Estrutura dos 5 Hábitos — Memorização por Repetição com Variação
 
 Cada aula é organizada em 5 hábitos que abordam o **mesmo tema central da semana** por ângulos diferentes. O objetivo é que a criança tenha contato repetido com o tema ao longo das três aulas, fixando-o na memória.
@@ -50,6 +56,7 @@ Cada aula é organizada em 5 hábitos que abordam o **mesmo tema central da sema
 | **Narrar** | Narrativo | Lê um texto que toca no tema e responde perguntas extraídas do próprio texto |
 
 **Regra de ouro**: se qualquer hábito não reforça o tema central da semana, a aula está incompleta. O Reviewer deve rejeitar aulas em que um hábito se desconecta do tema.
+**Regra lexical**: se `x.2` ou `x.3` não retomam palavras-chave de `x.1`, a progressão semanal está fraca e deve ser revisada.
 
 ## Cosmovisão Cristã Reformada
 

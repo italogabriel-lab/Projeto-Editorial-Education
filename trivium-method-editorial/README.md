@@ -89,6 +89,12 @@ No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@lin
 
 O bloco `[MP3/]...[MP3\]` narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
 
+## Padrão Atual da Progressão por Palavras-Chave
+
+O tema e a definição curta de `x.1` geram as **palavras-chave estruturantes** da semana. As aulas `x.2` e `x.3` escolhem palavras desse eixo e as retomam no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
+
+Exemplo, se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente. `x.2` trabalha `ponto` e `começo`. `x.3` trabalha `ponto` e `arte`. A variação serve à repetição do vocabulário, sem criar tema paralelo.
+
 ## Alinhamento entre Camadas
 
 Este diretório é a fonte oficial do framework. Sempre que um padrão operacional mudar, alinhe também `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/` e `.codex/`.

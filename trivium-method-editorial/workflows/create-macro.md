@@ -70,6 +70,7 @@ Distribua os tópicos extraídos nas semanas informadas, **3 aulas por semana**,
 
 - Cada semana tem **um tema central** (o título de `x.1`).
 - A aula `x.1` apresenta o tema central. As aulas `x.2` e `x.3` são desdobramentos diretos.
+- Extraia do tema de `x.1` as palavras-chave estruturantes. Os títulos `x.2` e `x.3` devem nascer dessas palavras ou de aspectos explícitos delas.
 - Os títulos devem ser curtos, didáticos e conectados ao tema central.
 - A aula `x.1` deve ter o **mesmo título do tema da semana**.
 - Use a numeração `X.1`, `X.2`, `X.3` (sem prefixo "Dia").

@@ -80,9 +80,10 @@ Etapa 5 (Copywriter) --[problema grave]---> volta para Etapa 3 ou 4
 A unidade de producao e a **semana inteira**, nao a aula isolada. Cada semana tem:
 
 - **1 tema central** (definido em `x.1`)
-- **1 definicao curta oficial** (de 9-10 palavras) repetida literalmente em `x.1`, `x.2` e `x.3`
+- **1 definicao curta oficial** (de 8-10 palavras) repetida literalmente em `x.1`, `x.2` e `x.3`
 - **1 termo principal** compartilhado pelas tres aulas
 - **1 musica ou rima** comum as tres aulas no Recordar
+- **palavras-chave estruturantes** extraidas do tema e da definicao de `x.1`, retomadas em `x.2` e `x.3`
 
 O que **varia** entre `x.1`, `x.2` e `x.3`:
 
@@ -92,6 +93,12 @@ O que **varia** entre `x.1`, `x.2` e `x.3`:
 - Imagem do Perceber e do Narrar (cada aula explora um angulo)
 - Texto literario do Narrar e perguntas
 - Atividade Extra do Praticar (instrucao no `INSTRUCTION=`)
+
+O que **nao varia** na progressao lexical:
+
+- As palavras-chave do tema central precisam aparecer nos exemplos de `x.2` e `x.3`
+- O foco de `x.2` e `x.3` deve nascer de palavras ou aspectos presentes em `x.1`
+- Nenhuma aula da semana deve abrir um eixo conceitual paralelo
 
 ### Arquivos da Semana
 
@@ -234,7 +241,7 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 | Bloco | Conteudo |
 | :--- | :--- |
 | `[+PARAGRAPH]` | "Ouca e repita a definicao abaixo" |
-| `[+STATEMENT_D]` | Audio + Definicao (9-10 palavras, repetida) |
+| `[+STATEMENT_D]` | Audio + Definicao (8-10 palavras, repetida) |
 | `[+HEADING]` | **Variante A**: "Hora de memorizar com musica" / **Variante B**: "Hora de memorizar com rima" |
 | Variante A: `[+IMAGE_TEXT_ON]` | Imagem + Audio + Nome da musica |
 | Variante B: `[+STATEMENT_A]` | Audio + Rima de 4 versos |
@@ -269,7 +276,7 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 
 ## 7. Regra de Repeticao Obrigatoria da Definicao
 
-A definicao curta do Recordar (9-10 palavras) e a fonte textual da aula. Ela deve aparecer **literalmente** nos locais obrigatorios:
+A definicao curta do Recordar (8-10 palavras) e a fonte textual da aula. Ela deve aparecer **literalmente** nos locais obrigatorios:
 
 | Local | Secao | Formato |
 | :--- | :--- | :--- |
@@ -281,6 +288,8 @@ A definicao curta do Recordar (9-10 palavras) e a fonte textual da aula. Ela dev
 | 6. Revisao semanal (.4) | Definir e Recordar | Tabela e flashcard |
 
 O Accordion do Definir deve incluir tema ou pergunta simples, `@link_png@`, MP3 e texto visual. O MP3 narra a definicao curta e a explicacao completa.
+
+A progressao por palavras-chave e verificada junto com a definicao. Em `x.2` e `x.3`, o Definir, Perceber, Praticar e Narrar devem retomar termos literais do tema e da definicao de `x.1`.
 
 Na revisao semanal `.4`, a `[+TABLE]` e todos os `[+MATCHING]` usam a definicao sem repetir o termo no inicio. Exemplo: `Vê a criação com atenção reverente. [=] Observação da natureza`. O `[+STATEMENT_D]` preserva a definicao curta completa.
 
@@ -381,6 +390,8 @@ Ao finalizar uma semana completa (3 aulas), o Publisher deve:
 ```
 
 O `[TermoCentral]` e o termo principal compartilhado pelas tres aulas (o mesmo termo do Accordion/Definir de `x.1`, `x.2` e `x.3`).
+
+As palavras-chave estruturantes nao substituem o termo central. Elas orientam os exemplos e atividades de `x.2` e `x.3`, mantendo contato lexical com o tema de `x.1`.
 
 > **Padrao antigo (descontinuado)**: blocos com `Termo1 ✅ / Termo2 ✅ / Termo3 ✅` (um termo distinto por aula) **nao** sao mais utilizados. Semanas legadas que ainda contenham esse formato devem ser refatoradas quando a aula correspondente for revisada.
 

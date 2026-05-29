@@ -19,6 +19,7 @@
 ## Objetivo
 
 Criar revisões bimestrais que consolidam todo o conteúdo das 8-10 semanas de cada bimestre.
+As revisões preservam as definições únicas e as palavras-chave estruturantes de cada semana.
 
 ---
 

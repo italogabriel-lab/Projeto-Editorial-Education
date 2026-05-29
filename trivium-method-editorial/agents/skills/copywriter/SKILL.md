@@ -27,11 +27,13 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Desperta curiosidade no aluno
 - [ ] Reflete o conteúdo sem ser literal demais
 - [ ] Capitalização padrão europeu (ver `skills/capitalizer/SKILL.md`)
+- [ ] O H1 permanece idêntico ao Currículo Macro e não perde palavras-chave do tema
 
 ### 2. Enunciados
 - [ ] Cada enunciado é claro e direto
 - [ ] Imperativo em 100% das instruções
 - [ ] Variação nos verbos (não repetir o mesmo verbo em sequência)
+- [ ] O polimento preserva palavras-chave estruturantes de `x.1`, especialmente em `x.2` e `x.3`
 
 ### 3. Accordion — Definição
 - [ ] O Accordion contém tema, `@link_png@`, MP3 e texto visual
@@ -77,6 +79,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - Se encontrar problemas **menores** (título, enunciado, fluidez) → corrigir diretamente
 - Se encontrar problemas **estruturais** → retornar à Etapa 3 (Standardizer) ou 4 (Reviewer)
 - **NUNCA** alterar a definição do termo (ela foi validada pelo Reviewer)
+- **NUNCA** substituir palavras-chave estruturantes por sinônimos que enfraqueçam a progressão semanal
 - **NUNCA** adicionar ou remover blocos Rise
 
 ## Output

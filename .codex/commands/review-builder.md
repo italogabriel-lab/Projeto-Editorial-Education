@@ -37,11 +37,12 @@ Arquivo `X.4.md` com a estrutura:
 1. **Uma definicao curta por semana**. Nao usar 3 definicoes distintas como no padrao antigo.
 2. A definicao curta do Recordar e identica a do Definir e a das 3 aulas da semana.
 3. A musica do `[+IMAGE_TEXT_ON]` e a mesma usada nas 3 aulas (`@link_mp3@` + nome).
-4. Os hotspots do `[+IMAGE_LABELED]` mostram apenas os titulos das aulas (`X.1`, `X.2`, `X.3`), nao definicoes.
+4. Os hotspots do `[+IMAGE_LABELED]` mostram apenas os titulos das aulas (`X.1`, `X.2`, `X.3`), nao definicoes. Os textos de legenda de cada hotspot devem ser **literalmente idênticos** aos usados no `[+IMAGE_LABELED]` da respectiva aula. Copie os textos diretamente dos arquivos de aula — nunca reescreva de memória.
 5. As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraida do conteudo de cada aula. As respostas corretas refletem o angulo daquela aula dentro do tema da semana.
-6. (Opcional) Se usar `[+TABLE]` ou `[+MATCHING]`, nao repetir o termo no inicio da definicao.
-7. Nao aplique elipse aos blocos `[+STATEMENT_D]`, que preservam a definicao curta completa.
-8. **Padrao antigo (descontinuado)**: revisoes com tabelas de 3 termos+definicoes distintas nao sao mais utilizadas. Quando refatorar uma revisao legada, substitua pela estrutura nova acima.
+6. As perguntas devem preservar palavras-chave estruturantes de `x.1`, para revisar a progressao lexical da semana.
+7. (Opcional) Se usar `[+TABLE]` ou `[+MATCHING]`, nao repetir o termo no inicio da definicao.
+8. Nao aplique elipse aos blocos `[+STATEMENT_D]`, que preservam a definicao curta completa.
+9. **Padrao antigo (descontinuado)**: revisoes com tabelas de 3 termos+definicoes distintas nao sao mais utilizadas. Quando refatorar uma revisao legada, substitua pela estrutura nova acima.
 
 ## Regra para Criação de Tickets no Kanban
 

@@ -25,3 +25,9 @@
 - Sincronizar documentos estruturais quando houver mudanças de conteúdo.
 - Publicar somente depois de passar por revisão.
 - Reusar skills do framework antes de inventar novos fluxos.
+
+## Progressão por palavras-chave
+
+- Extraia do tema e da definição de `x.1` as palavras-chave estruturantes da semana.
+- Em `x.2` e `x.3`, use essas palavras no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
+- Trate as variações como aplicações do eixo de `x.1`, não como temas paralelos.

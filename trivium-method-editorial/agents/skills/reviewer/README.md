@@ -20,6 +20,7 @@
 ## Objetivo
 
 Garantir excelência técnica, precisão doutrinária e padronização final do material.
+Também verifica se `x.2` e `x.3` retomam palavras-chave de `x.1`, sem abrir tema paralelo.
 
 ---
 
@@ -54,6 +55,7 @@ Garantir excelência técnica, precisão doutrinária e padronização final do 
 ### 3. Conteúdo
 - [ ] 5 Hábitos completos
 - [ ] Definições idênticas
+- [ ] Palavras-chave de `x.1` retomadas em `x.2` e `x.3`
 - [ ] Cosmovisão reformada
 
 ---

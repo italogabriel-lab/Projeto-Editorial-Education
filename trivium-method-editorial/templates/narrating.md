@@ -2,9 +2,9 @@
 
 ## Princípio pedagógico
 
-Este é o **quinto e último contato da criança com o tema da semana**, agora pela via narrativa. O texto literário deve trazer elementos explícitos do tema central (definido em `x.1` e mantido em `x.2` e `x.3`), acentuando o ângulo específico daquela aula. As perguntas conduzem a criança a localizar no texto o que ouviu e leu. A criança deve narrar com as próprias palavras o que compreendeu, sem depender de contexto externo.
+Este é o **quinto e último contato da criança com o tema da semana**, agora pela via da repetição com imagem. O Narrar repete LITERALMENTE o conteúdo do Definir daquela aula — definição curta e parágrafo livre — apresentado com imagem e áudio. As perguntas conduzem a criança a localizar na leitura o que ouviu e leu no Definir. A criança deve narrar com as próprias palavras o que compreendeu.
 
-**O texto DEVE conter respostas explícitas para as 3 perguntas. Não use perguntas que dependam de inferência, interpretação difícil ou conhecimento prévio.**
+**Regra absoluta**: o texto do Narrar é literalmente idêntico ao Definir daquela aula. Não inventar texto novo. Não adicionar frases.
 
 ## Estrutura obrigatória
 
@@ -14,34 +14,40 @@ Leitura
 [-HEADING]
 ```
 
-### Variante A — IMAGE_TEXT_ASIDE (1º, 2º, 4º e 5º ano)
+### Variante A — IMAGE_TEXT_ASIDE com áudio (padrão para todas as aulas)
 
 ```markdown
 [+IMAGE_TEXT_ASIDE]
 
 @link_png@
 
-"[Primeiro parágrafo do trecho literário. Deve apresentar o tema da aula com palavras concretas e elementos explícitos do conceito definido no Definir.]
+[MP3/]
 
-[Segundo parágrafo. Deve conter, em frases claras, as informações que respondem diretamente às 3 perguntas abaixo.]"
+#FSH:0b12d715e4c741399594fccb12d4bbe2
 
-Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.]
+
+[Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
+
+[MP3\]
+
+**[Definição curta — bold, literalmente idêntica ao Definir.]**
+
+[Parágrafo livre — com negritos progressivos, literalmente idêntico ao texto visual do Accordion.]
 
 [-IMAGE_TEXT_ASIDE]
 ```
 
 ### Variante B — PARAGRAPH (3º ano)
 
-Use esta variante para o 3º ano. O bloco `[+IMAGE]` é obrigatório e permanece depois da leitura, antes das perguntas.
+Use esta variante para o 3º ano. O bloco `[+IMAGE]` é obrigatório e permanece depois da leitura, antes das perguntas. O conteúdo do `[+PARAGRAPH]` repete literalmente o Definir daquela aula.
 
 ```markdown
 [+PARAGRAPH]
 
-"[Primeiro parágrafo do trecho literário. Deve apresentar o tema da aula com palavras concretas e elementos explícitos do conceito definido no Definir.]
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.]
 
-[Segundo parágrafo. Deve conter, em frases claras, as informações que respondem diretamente às 3 perguntas abaixo.]"
-
-Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cristão]**, *[Nome da Obra]* ([Contexto da obra]), [Século].
+[Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
 
 [-PARAGRAPH]
 
@@ -50,46 +56,37 @@ Trecho inspirado em **[Referência Bíblica]** e nas reflexões de **[Autor Cris
 [-IMAGE]
 ```
 
-### Perguntas
+### Pergunta
 
 ```markdown
 [+HEADING]
-Perguntas
+Pergunta
 [-HEADING]
 
 [+PARAGRAPH]
-Responda oralmente às perguntas abaixo sobre o texto.
+Responda oralmente a pergunta abaixo sobre o texto.
 [-PARAGRAPH]
 
 [+LIST_NUMBERED]
 
-[Pergunta 1 — fato explícito que aparece no texto?]
-
-[Pergunta 2 — detalhe visual, ação ou objeto mencionado no texto?]
-
-[Pergunta 3 — tema da aula dito ou mostrado no texto?]
+[Uma única pergunta derivada do vocabulário do parágrafo livre. Formatos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?"]
 
 [-LIST_NUMBERED]
 ```
 
-## Regras das perguntas — obrigatórias
+## Regras da pergunta — obrigatórias
 
-- As 3 perguntas devem ser curtas e diretas (uma linha cada).
-- A resposta de cada pergunta deve ser extraível diretamente do texto do Narrar.
-- A resposta de cada pergunta deve aparecer em frase explícita do texto.
-- As perguntas devem abordar aspectos do tema central da semana sob o ângulo desta aula.
-- As perguntas devem usar palavras simples e familiares para a criança.
-- O objetivo é que a criança releia mentalmente o texto e narre o que compreendeu com suas palavras.
-- Proibido perguntas abertas, reflexivas, abstratas ou dependentes de inferência.
-- Proibido perguntas que exijam conhecimento prévio ou contexto externo ao texto.
+- **Uma única pergunta** por aula. Heading `Pergunta` (singular).
+- A pergunta é derivada diretamente do vocabulário do parágrafo livre daquela aula.
+- A resposta aparece explicitamente no texto (definição + parágrafo livre). Não requer inferência.
+- Formatos válidos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?".
+- Proibido: "O que você percebeu sobre...", perguntas abertas, reflexivas, abstratas ou inferenciais.
+- Proibido: perguntas que exijam conhecimento prévio ou contexto externo ao texto.
 
 ## Regras do texto
 
-- Aspas retas `"` no trecho literário.
-- Trecho dividido em 2 parágrafos separados por linha em branco.
-- Atribuição em linha única com negrito e itálico, terminando com ponto após o Século.
-- O texto deve conter o termo ou elementos claros do tema central da semana.
-- O texto deve repetir imagens, ações ou objetos ligados ao tema da semana, com destaque ao ângulo desta aula.
-- O texto deve conter as respostas às perguntas de forma explícita, em frases claras.
-- Evite metáforas difíceis quando elas forem necessárias para responder às perguntas.
+- O texto do Narrar é LITERALMENTE IDÊNTICO ao Definir daquela aula. Não inventar, não adicionar, não resumir.
+- Antes de `[MP3\]`: texto plain (sem negrito), igual ao áudio do Accordion do Definir.
+- Após `[MP3\]`: texto com negritos progressivos, igual ao texto visual do Accordion do Definir.
+- Proibido adicionar frases do tipo "A criança aprende a...", "A criança percebe que...", "A criança cria..." ou qualquer variação — são genéricas e violam o padrão.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

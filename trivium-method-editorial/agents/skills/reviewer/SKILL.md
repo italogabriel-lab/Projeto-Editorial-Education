@@ -42,14 +42,18 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido em `x.1`) e 1 termo principal compartilhado pelas 3 aulas. Todos os hábitos de cada aula devem reforçar esse tema por ângulos diferentes.
 
 - [ ] O TERMO da semana é o eixo de todos os hábitos da aula
+- [ ] As palavras-chave do tema e da definição de `x.1` aparecem no exemplo central da aula
 - [ ] **Perceber**: a imagem ilustra diretamente o tema sob o ângulo desta aula
+- [ ] **Perceber**: a imagem e os hotspots retomam palavras-chave do eixo de `x.1`
 - [ ] **Perceber**: os hotspots apontam para elementos que exemplificam o tema
 - [ ] **Recordar**: a definição curta é literalmente a mesma frase usada no cabeçalho do Definir
 - [ ] **Recordar**: a rima ou música menciona o tema central da semana
 - [ ] **Praticar**: o Fill_In completa a definição do tema (mesma frase da semana)
 - [ ] **Praticar**: a múltipla escolha pergunta sobre o tema e a resposta correta é a definição
 - [ ] **Praticar**: a Atividade Extra tem relação direta com o ângulo desta aula dentro do tema da semana
+- [ ] **Praticar**: a Atividade Extra usa palavras-chave do tema central
 - [ ] **Narrar**: o texto traz elementos explícitos do tema da semana
+- [ ] **Narrar**: o texto e as perguntas retomam palavras-chave do eixo de `x.1`
 - [ ] **Narrar**: as perguntas ajudam a criança a narrar o texto com suas palavras
 - [ ] Se algum hábito não reforça o tema, **REJEITAR** e devolver ao Writer
 
@@ -57,9 +61,12 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 - [ ] Definição curta em negrito no cabeçalho do Definir é **literal e idêntica** à de `x.1` da mesma semana
 - [ ] Statement_D do Recordar é idêntico ao de `x.1` (texto, ordem das palavras, capitalização)
-- [ ] Fill_In do Praticar usa a mesma frase da definição da semana (apenas a posição da lacuna pode mudar)
+- [ ] Fill_In do Praticar usa a definição curta da semana com a lacuna na palavra-chave específica de cada aula: `x.1` no termo central, `x.2` na palavra-chave do desdobramento, `x.3` na palavra-chave do contexto
 - [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título)
 - [ ] Termo principal é o mesmo de `x.1`
+- [ ] Palavras-chave de `x.1` aparecem no parágrafo livre do Definir, no Perceber, no Praticar e no Narrar
+- [ ] **Progressão de negritos no parágrafo livre**: em `x.1`, negrito somente no TERMO; em `x.2`, negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); em `x.3`, negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). Se os negritos não seguem esse padrão, **REJEITAR**.
+- [ ] Accordion plain (após `#FSH:`) não tem negrito; Accordion bold (após `[MP3\]`) repete o parágrafo com negrito idêntico ao Definir
 - [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
 
 ---
@@ -134,7 +141,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 ### 4. Recordar — Regras Específicas
 
 - [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
-- [ ] Definição CURTA no Statement_D (9-10 palavras)
+- [ ] Definição CURTA no Statement_D (8-10 palavras)
 - [ ] Voice ID presente
 - [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
@@ -145,8 +152,8 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 - [ ] `[+PARAGRAPH]` de enunciado ANTES do Fill_In
 - [ ] Fill_In contém SOMENTE o conceito (NUNCA instrução)
-- [ ] 3-4 lacunas com `_____` (5 underscores)
-- [ ] Respostas na última linha, separadas por vírgula
+- [ ] **Fill-In progressivo**: lacuna (`_____`) posicionada na palavra-chave específica da aula. Em `x.1`, a lacuna fica no termo central. Em `x.2`, na palavra-chave do desdobramento. Em `x.3`, na palavra-chave do contexto. A frase-base é sempre a definição curta da semana.
+- [ ] Resposta na última linha corresponde à palavra-chave em foco naquela aula
 - [ ] `[+HEADING] Atividade 2 [-HEADING]` depois do Fill_In
 - [ ] `[+MULTIPLE]` presente entre Fill_In e Atividade Extra
 - [ ] `[+MULTIPLE]` pergunta o significado do termo
@@ -234,6 +241,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] O Fill_In do Praticar usa a definição única com lacuna
 - [ ] A música/rima do `[+IMAGE_TEXT_ON]` é a mesma usada nas 3 aulas da semana
 - [ ] No Perceber, o `[+IMAGE_LABELED]` mostra **uma imagem por aula**, com o título de cada aula nos hotspots
+- [ ] Os textos de legenda dos hotspots são **cópias literais** dos textos usados nos `[+IMAGE_LABELED]` de `x.1`, `x.2` e `x.3` — mesmas palavras, mesma capitalização (as coordenadas podem variar)
 - [ ] As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraída de cada aula da semana
 - [ ] Se houver `[+TABLE]` ou `[+MATCHING]` (opcionais), não repetir o termo no início da definição
 
@@ -266,7 +274,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 |---|------|-----------------|
 | 1 | Accordion com MP3 incompleto | Narrar definição curta e explicação completa |
 | 2 | Matching invertido | Definição primeiro, termo depois do `[=]` |
-| 3 | Recordar com definição longa | Statement_D deve ter 9-10 palavras |
+| 3 | Recordar com definição longa | Statement_D deve ter 8-10 palavras |
 | 4 | Fill_In sem enunciado | `[+PARAGRAPH]` obrigatório antes |
 | 5 | Voz passiva | Todos os enunciados no imperativo ativo |
 | 6 | Sinais proibidos | `;`, `:`, `—` devem ser `,` ou `.` |

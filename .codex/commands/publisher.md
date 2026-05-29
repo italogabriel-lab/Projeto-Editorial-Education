@@ -47,6 +47,8 @@ Exemplo: `36.3.md`
 
 O `[TermoCentral]` é o termo principal compartilhado pelas 3 aulas (do Accordion/Definir de x.1, x.2 e x.3).
 
+Ao publicar ou registrar a semana, preserve a progressão por palavras-chave. `x.1` apresenta o tema amplo, e `x.2` e `x.3` retomam palavras literais do tema e da definição de `x.1`. Não altere definição curta, termo central, música/rima ou palavras-chave estruturantes na etapa de publicação.
+
 > **Padrão antigo (descontinuado)**: blocos com 3 termos por semana não são mais utilizados.
 
 ### Etapa 3: Push to GitHub (via MCP)

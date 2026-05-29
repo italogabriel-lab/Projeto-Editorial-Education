@@ -40,17 +40,19 @@ Para cada semana:
 
 - A aula `x.1` define ou apresenta a ideia principal de forma geral.
 - A aula `x.1` reúne os aspectos centrais do tema em uma formulação ampla e integradora.
-- A aula `x.2` aprofunda um primeiro trecho, aspecto ou expressão presente na aula `x.1`.
-- A aula `x.3` aprofunda um segundo trecho, aspecto ou expressão presente na aula `x.1`.
+- A aula `x.2` aprofunda um primeiro trecho, aspecto, expressão ou palavra-chave presente na aula `x.1`.
+- A aula `x.3` aprofunda um segundo trecho, aspecto, expressão ou palavra-chave presente na aula `x.1`.
 
 A aula `x.1` precisa funcionar como base das outras duas aulas.
 Ela deve conter a visão geral do tema da semana, e não apenas um título isolado.
+Antes de concluir a semana, extraia as palavras-chave do tema `x.1` e confirme que `x.2` e `x.3` nascem dessas palavras.
 
 ## Regras para criação dos títulos
 
 - O título `x.1` deve ser o eixo principal da semana.
 - O título `x.1` deve refletir os aspectos gerais do tema.
 - Os títulos `x.2` e `x.3` devem nascer naturalmente de `x.1`.
+- Os títulos `x.2` e `x.3` devem conter ou pressupor palavras-chave do tema de `x.1`.
 - A aula `x.2` não deve abrir um assunto paralelo.
 - A aula `x.3` não deve abrir um assunto paralelo.
 - Remova ou reescreva temas sem conexão clara com o tema principal.
@@ -63,9 +65,10 @@ Ela deve conter a visão geral do tema da semana, e não apenas um título isola
 
 1. Identifique a ideia central mais forte do bloco.
 2. Transforme essa ideia na aula `x.1`.
-3. Escolha ou reescreva dois títulos que sejam desdobramentos diretos dessa ideia.
-4. Elimine temas que quebrem a unidade pedagógica da semana.
-5. Mantenha a progressão simples, clara e coerente.
+3. Extraia 2 a 5 palavras-chave do tema de `x.1`.
+4. Escolha ou reescreva dois títulos que sejam desdobramentos diretos dessas palavras.
+5. Elimine temas que quebrem a unidade pedagógica da semana.
+6. Mantenha a progressão simples, clara e coerente.
 
 ## Formato padrão de saída
 
@@ -96,5 +99,6 @@ Antes de concluir, confirme:
 - Todas as aulas estão numeradas como `x.1`, `x.2` e `x.3`.
 - A aula `x.1` é ampla o suficiente para sustentar `x.2` e `x.3`.
 - As aulas `x.2` e `x.3` são desdobramentos diretos de `x.1`.
+- As aulas `x.2` e `x.3` retomam palavras-chave do tema de `x.1`.
 - Revisões e provas foram removidas quando o usuário pediu apenas lista de aulas.
 - A versão nova foi salva em cópia quando o usuário pediu `novo padrão`.

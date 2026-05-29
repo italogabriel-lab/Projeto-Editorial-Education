@@ -88,6 +88,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `## Definir` (H2)
 - Intro → `[+PARAGRAPH]` com definição curta em negrito na primeira linha, contexto e "Veja o vídeo abaixo."
 - A definição que abre o Definir deve ser a definição curta do Recordar, literalmente a mesma frase.
+- O parágrafo livre deve manter palavras-chave do tema central de `x.1`, especialmente em `x.2` e `x.3`.
 - Vídeo → `[+VIDEO][-VIDEO]`
 - Atividade → `[+HEADING] Atividade [-HEADING]`
 - Instrução → `[+PARAGRAPH]` ("Leia a definição e ouça o áudio...")
@@ -104,6 +105,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `## Perceber` (H2)
 - Intro → `[+PARAGRAPH]` com 1 frase curta e direta
 - Imagem → `[+IMAGE_LABELED]` com `@link_png@`, 2 hotspots com `--` separador
+- A imagem e os hotspots devem preservar o vocabulário do tema central, mesmo quando o ângulo visual muda.
 - Títulos dos hotspots devem ter 2 a 5 palavras
 - Descrições dos hotspots devem ter apenas 1 frase curta, com observação visual direta
 - Observações e explicações devem ficar nos hotspots, não no enunciado
@@ -113,7 +115,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 3. Recordar
 - `## Recordar` (H2)
 - **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
-- Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (9-10 palavras)
+- Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (8-10 palavras)
 - **CRÍTICO**: Definição IDÊNTICA à do cabeçalho do Definir
 - Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
 - `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@`, nome da música
@@ -129,6 +131,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+HEADING] Atividade Extra [-HEADING]`
 - `[+PARAGRAPH]` com texto fixo: "Acesse o PDF abaixo e faça a atividade com atenção."
 - `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa prática no imperativo
+- O `INSTRUCTION=` deve aplicar palavras-chave do tema central ao ângulo da aula.
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### 5. Narrar
@@ -139,6 +142,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `[+HEADING] Perguntas [-HEADING]`
 - `[+LIST_NUMBERED]` com 3 perguntas, interrogação, 1 linha de espaço entre elas
 - Texto deve conter elementos explícitos do tema da aula e respostas diretas para as 3 perguntas
+- Texto e perguntas devem retomar palavras-chave do eixo de `x.1`, sem trocar o tema da semana.
 - Perguntas devem ser curtas, diretas e fáceis de compreender
 - Cada resposta deve aparecer explicitamente no texto lido
 - Não usar perguntas abertas, reflexivas, abstratas ou dependentes de inferência

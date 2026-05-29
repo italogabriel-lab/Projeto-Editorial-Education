@@ -20,7 +20,7 @@ O arquivo de revisão bimestral possui **duas grandes seções**:
 
 ### SEÇÃO 1 — Revisão por Semana (novo padrão — semana como unidade)
 
-Cada semana tem **1 tema central**, **1 definição curta única** e **1 termo principal** compartilhado pelas 3 aulas. Para cada semana do bimestre (8 semanas), montar um bloco com:
+Cada semana tem **1 tema central**, **1 definição curta única**, **1 termo principal** e **palavras-chave estruturantes** compartilhadas pelas 3 aulas. Para cada semana do bimestre (8 semanas), montar um bloco com:
 
 ```markdown
 ## [Tema central da semana — do Currículo Macro]
@@ -67,6 +67,7 @@ Associe cada aula da semana ao seu ângulo dentro do tema.
 
 **Regras de definição em revisão bimestral:**
 - A revisão usa **1 única definição curta por semana** (não três). É a mesma frase de `x.1`, `x.2`, `x.3` e `x.4`.
+- As questões devem preservar palavras-chave estruturantes da semana quando forem copiadas ou organizadas.
 - Em `[+MATCHING]` opcionais que ainda usem termo+definição (ex: para revisões legadas), não repetir o termo no início da definição.
 - O `[+STATEMENT_D]` preserva a definição curta completa.
 

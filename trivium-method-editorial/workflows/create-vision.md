@@ -48,6 +48,7 @@ Extraia:
 - **Tema central**
 - **Tabela de aulas** (número, título, objetivo teológico-pedagógico)
 - **Conceitos da semana**
+- **Palavras-chave estruturantes** do tema central, quando existirem na Matriz
 
 ---
 
@@ -80,12 +81,13 @@ Com os dados extraídos, gere um bloco completo seguindo **exatamente** o format
      - `x.1` — apresenta o tema, fixa a definição central
      - `x.2` — retoma a definição de `x.1` e aplica ao primeiro recorte
      - `x.3` — retoma a definição de `x.1` e fecha o segundo recorte
+   - Cada bloco deve declarar quais palavras-chave de `x.1` serão retomadas no exemplo central da aula
 
 6. **Mensagem central do módulo**
    - 1 parágrafo que sintetiza o eixo da semana
 
 7. **Resumo pedagógico**
-   - eixo temático | aula coração | subtópico 1 | subtópico 2 | resultado esperado
+   - eixo temático | palavras-chave | aula coração | subtópico 1 | subtópico 2 | resultado esperado
 
 8. **Transição para a semana seguinte**
    - 1–2 linhas conectando ao tema central da próxima semana

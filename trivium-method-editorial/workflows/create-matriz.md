@@ -68,6 +68,8 @@ Com os dados extraídos, gere um bloco seguindo **exatamente** o formato das sem
 
 **Conceitos da semana**, [Título de x.1], [Título de x.2], [Título de x.3]
 
+**Palavras-chave estruturantes**, [2 a 5 palavras literais do tema central e da definição curta esperada]
+
 ---
 ```
 
@@ -78,8 +80,9 @@ Com os dados extraídos, gere um bloco seguindo **exatamente** o formato das sem
 3. **Títulos das aulas**: conforme aparecem no Currículo Macro, **sem negrito**, alinhados ao tema central.
 4. **Objetivos**: padrão `Apresentar / Reconhecer / Praticar` para x.1, x.2 e x.3 respectivamente.
 5. **Conceitos da semana**: lista dos 3 títulos das aulas (não três termos distintos).
-6. **Separador**: adicionar `---` após o bloco.
-7. **Importante**: o `[Tema central da semana]` precisa ser idêntico ao título de `x.1`. A definição curta de `x.1`, `x.2` e `x.3` é a mesma, derivada deste tema.
+6. **Palavras-chave estruturantes**: listar palavras que devem reaparecer em `x.2` e `x.3` nos exemplos e atividades.
+7. **Separador**: adicionar `---` após o bloco.
+8. **Importante**: o `[Tema central da semana]` precisa ser idêntico ao título de `x.1`. A definição curta de `x.1`, `x.2` e `x.3` é a mesma, derivada deste tema.
 
 ---
 
