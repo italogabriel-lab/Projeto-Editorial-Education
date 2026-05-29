@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "**/*.html",
+      "src": "src/**/*.html",
       "use": "@vercel/static"
     },
     {
@@ -13,27 +13,27 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/index.html"
+      "dest": "/src/index.html"
     },
     {
       "src": "/index.html",
-      "dest": "/index.html"
+      "dest": "/src/index.html"
     },
     {
       "src": "/metas.html",
-      "dest": "/metas.html"
+      "dest": "/src/metas.html"
     },
     {
       "src": "/metas-disciplinas.html",
-      "dest": "/metas-disciplinas.html"
+      "dest": "/src/metas-disciplinas.html"
     },
     {
       "src": "/videos.html",
-      "dest": "/videos.html"
+      "dest": "/src/videos.html"
     },
     {
       "src": "/agent-command-center.html",
-      "dest": "/agent-command-center.html"
+      "dest": "/src/agent-command-center.html"
     },
     {
       "src": "/public/(.*)",

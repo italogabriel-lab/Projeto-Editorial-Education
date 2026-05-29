@@ -36,8 +36,8 @@ async function run() {
   });
   
   const data = await res.json();
-  fs.writeFileSync('graphql_fields.json', JSON.stringify(data, null, 2));
-  console.log('Saved to graphql_fields.json');
+  fs.writeFileSync('src/data/graphql_fields.json', JSON.stringify(data, null, 2));
+  console.log('Saved to src/data/graphql_fields.json');
 }
 
 run();

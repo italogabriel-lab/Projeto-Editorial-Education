@@ -23,11 +23,6 @@
     "public/sidebar.js",
     "public/styles.css",
     "public/videos.js",
-    "index.html",
-    "metas.html",
-    "metas-disciplinas.html",
-    "videos.html",
-    "agent-command-center.html",
     "vercel.json",
     "README.md",
     "LICENSE"
