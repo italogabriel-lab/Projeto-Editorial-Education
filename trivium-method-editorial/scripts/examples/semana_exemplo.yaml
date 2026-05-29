@@ -1,0 +1,113 @@
+# ──────────────────────────────────────────────────────────────────────────────
+# ARQUIVO DE DADOS DA SEMANA — Trivium Method Editorial
+# Gerado com: python generate_lessons.py --exemplo
+#
+# Instrução de uso:
+#   1. Copie este arquivo e renomeie: dados_semana3.yaml
+#   2. Preencha todos os campos com o conteúdo da semana
+#   3. Execute: python generate_lessons.py dados_semana3.yaml
+#
+# O script gera automaticamente:
+#   - 3.1.md, 3.2.md, 3.3.md  (aulas regulares)
+#   - 3.4.md                   (revisão semanal)
+#
+# As legendas do IMAGE_LABELED da revisão são copiadas das aulas x.1, x.2, x.3.
+# ──────────────────────────────────────────────────────────────────────────────
+
+config:
+  ano: 1                                           # 1, 2 ou 3
+  audio_hash: "0b12d715e4c741399594fccb12d4bbe2"  # hash FSH — mesmo para todas as aulas da semana
+  diretorio_saida: "./output_semana3"              # pasta onde os arquivos .md serão salvos
+
+semana:
+  numero: 3
+  definicao_curta: "O ponto representa o começo de uma obra de arte."
+  nome_musica: "O ponto começa a arte"
+
+  # ── Aulas da semana ────────────────────────────────────────────────────────
+  aulas:
+
+    # x.1 — Coração da semana: define o TERMO central e a definição
+    # Negrito: somente o TERMO
+    x1:
+      titulo: "O ponto no desenho"
+      accordion_titulo: "O ponto começa a arte"
+      paragrafo_plain: "Você observa pontos na obra de arte e percebe como um pequeno sinal pode começar uma imagem."
+      palavras_negrito:
+        - "pontos"
+      perceber_frase: "Observe a imagem e veja como um ponto pode iniciar uma obra de arte simples."
+      perceber_hotspot_coords: "40 45"
+      perceber_hotspot_legenda: "Obra de arte com pontos"
+      fill_in_frase: "O _____ representa o começo de uma obra de arte."
+      fill_in_resposta: "ponto"
+      multiple_pergunta: "O que o ponto representa?"
+      multiple_resposta_correta: "O começo de uma obra de arte."
+      multiple_distratores:
+        - "Apenas manchas sem forma."          # ano 1: 1 distrator; ano 2+: até 2
+      atividade_instrucao: "Faça uma imagem simples começando com um ponto e observe como a obra de arte nasce desse sinal."
+      narrar_pergunta: "O que o ponto representa?"
+
+    # x.2 — Subtópico 1: desdobramento do tema de x.1
+    # Negrito: TERMO + KW2 (= resposta do fill-in)
+    x2:
+      titulo: "O ponto como começo"
+      accordion_titulo: "O ponto como começo"
+      paragrafo_plain: "Você aprende que o ponto pode ser o começo de uma obra de arte, porque toda imagem nasce de um pequeno sinal."
+      palavras_negrito:
+        - "ponto"
+        - "começo"
+      perceber_frase: "Observe a imagem e veja como um ponto pode ser o começo de uma obra de arte."
+      perceber_hotspot_coords: "45 45"
+      perceber_hotspot_legenda: "Ponto como começo"
+      fill_in_frase: "O ponto representa o _____ de uma obra de arte."
+      fill_in_resposta: "começo"
+      multiple_pergunta: "O que o ponto pode ser em uma obra de arte?"
+      multiple_resposta_correta: "O começo de uma obra de arte."
+      multiple_distratores:
+        - "O fim de toda imagem."
+      atividade_instrucao: "Comece um desenho com pontos e depois observe como a imagem aparece com ordem."
+      narrar_pergunta: "O que o ponto pode ser em uma obra de arte?"
+
+    # x.3 — Subtópico 2: fecha a progressão da semana
+    # Negrito: TERMO + KW3 (= resposta do fill-in)
+    x3:
+      titulo: "O ponto como padrão"
+      accordion_titulo: "O ponto na obra de arte"
+      paragrafo_plain: "Você usa o ponto na obra de arte para marcar lugares, criar detalhes e organizar a imagem com cuidado."
+      palavras_negrito:
+        - "ponto"
+        - "obra de arte"
+      perceber_frase: "Observe a imagem e veja o ponto marcando partes da obra de arte com cuidado."
+      perceber_hotspot_coords: "50 45"
+      perceber_hotspot_legenda: "Ponto na obra de arte"
+      fill_in_frase: "O ponto representa o começo de uma _____."
+      fill_in_resposta: "obra de arte"
+      multiple_pergunta: "Para que você usa o ponto na obra de arte?"
+      multiple_resposta_correta: "Para marcar lugares e criar detalhes."
+      multiple_distratores:
+        - "Para apagar toda a imagem."
+      atividade_instrucao: "Marque lugares com pontos em uma obra de arte e organize a imagem com cuidado."
+      narrar_pergunta: "Para que você usa o ponto na obra de arte?"
+
+  # ── Revisão semanal (x.4) ──────────────────────────────────────────────────
+  # As legendas do IMAGE_LABELED são copiadas automaticamente de x.1, x.2, x.3.
+  # As 3 perguntas devem cobrir um ângulo de cada aula da semana.
+  revisao:
+    fill_in_frase: "O ponto representa o começo de uma _____."
+    fill_in_resposta: "obra de arte"
+    multiples:
+      - pergunta: "O que o ponto representa?"                     # ângulo de x.1
+        resposta_correta: "O começo de uma obra de arte."
+        distratores:
+          - "Apenas rabiscos sem cuidado."
+          - "Somente linhas apagadas."
+      - pergunta: "O que o ponto pode ser em uma obra de arte?"   # ângulo de x.2
+        resposta_correta: "O começo de uma obra de arte."
+        distratores:
+          - "Apenas um erro no papel."
+          - "Somente o fim da imagem."
+      - pergunta: "Para que você usa o ponto na obra de arte?"    # ângulo de x.3
+        resposta_correta: "Para marcar lugares e criar detalhes."
+        distratores:
+          - "Para esconder toda a imagem."
+          - "Para tirar a ordem do desenho."
