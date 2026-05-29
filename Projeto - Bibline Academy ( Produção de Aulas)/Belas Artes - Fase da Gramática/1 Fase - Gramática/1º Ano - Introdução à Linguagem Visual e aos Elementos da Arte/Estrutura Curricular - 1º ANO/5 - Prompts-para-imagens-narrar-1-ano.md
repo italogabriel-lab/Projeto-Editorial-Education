@@ -294,63 +294,63 @@ Linguagem visual: harmonia cromática, beleza das cores, movimento visual.
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: preto/azul escuro para linhas, cores pastéis para fundo.
+Paleta de cores: azul escuro para a linha, fundo branco ou bege claro, toque de amarelo e verde.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
-A linha é o caminho que a mão segue para dizer o que os olhos veem."
+"Linha guia o desenho e mostra caminho, forma e direção.
+A linha nasce quando um ponto caminha pelo papel."
 
 Composição da cena
 
-A ilustração deve mostrar uma linha simples (curva ou reta) sendo traçada por uma mão.
-Elementos visuais: mão com lápis, linha única, papel ou parede.
+A ilustração deve mostrar um único ponto que se transforma em uma linha ao se mover pelo papel.
+Elementos visuais: ponto de partida marcado, rastro de linha crescendo, mão com lápis em movimento, papel branco.
 
-Linguagem visual: movimento, traçado fluido, expressão visual.
+Linguagem visual: nascimento da linha, movimento do ponto, caminho traçado no papel.
 ```
 
-### Aula 5.2 — As linhas retas
+### Aula 5.2 — As linhas retas e curvas
 
 **Prompt:**
 
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: linhas em preto, fundo colorido suave.
+Paleta de cores: linha reta em azul escuro, linha curva em vermelho, fundo claro, papel branco.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
-As linhas retas são como o coração direto: vão ao ponto, sem rodeios."
+"Linha guia o desenho e mostra caminho, forma e direção.
+A linha traça um caminho diferente quando é reta ou quando é curva."
 
 Composição da cena
 
-A ilustração deve mostrar linhas retas formando formas geométricas simples (retângulo, triângulo).
-Elementos visuais: linhas retas, formas geométricas, criança traçando.
+A ilustração deve mostrar duas linhas lado a lado: uma reta e firme à esquerda, uma curva e ondulante à direita.
+Elementos visuais: linha reta azul, linha curva vermelha, papel dividido ao meio, criança observando as duas com atenção.
 
-Linguagem visual: clareza, precisão, simplicidade direta.
+Linguagem visual: contraste de caminhos, direção reta e direção curvada, dois modos de traçar.
 ```
 
-### Aula 5.3 — As linhas curvas
+### Aula 5.3 — As linhas de barbante
 
 **Prompt:**
 
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: linhas em preto, cores suaves de fundo.
+Paleta de cores: bege barbante, laranja, azul suave, verde musgo, branco.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
-As linhas curvas são como o vento: suaves, dançantes, cheias de graça."
+"Linha guia o desenho e mostra caminho, forma e direção.
+A linha de barbante molda formas no papel com textura e presença."
 
 Composição da cena
 
-A ilustração deve mostrar linhas curvas formando ondas, arcos ou espirais.
-Elementos visuais: linhas curvas, ondas, arcos, elementos naturais.
+A ilustração deve mostrar um barbante colorido dobrado sobre papel, formando uma figura simples (flor, casa ou animal).
+Elementos visuais: barbante torcido em curvas sobre papel, forma reconhecível nascendo da linha, mãos moldando o barbante.
 
-Linguagem visual: movimento suave, fluidez, graça natural.
+Linguagem visual: linha com volume, forma criada pela textura, arte com materiais concretos.
 ```
 
 ---
