@@ -6,6 +6,8 @@ Este é o **segundo contato da criança com o tema da semana**, agora pela via v
 
 Em `x.2` e `x.3`, a imagem pode variar, mas deve tornar visíveis palavras-chave do tema de `x.1`.
 
+Em Belas Artes, a imagem deve sustentar a leitura de artes visuais. Use natureza, objetos, igreja, casa ou cenas bíblicas apenas quando elas ajudarem a observar forma, linha, cor, textura, espaço, composição, imagem, desenho, obra de arte ou beleza visual.
+
 ## Estrutura obrigatória
 
 ```markdown

@@ -19,6 +19,10 @@ A unidade pedagógica é a **semana**, não a aula. Cada semana ensina **1 tema 
 
 **Regra de ouro**: se um hábito não reforça o tema central da semana, ele está errado.
 
+**Regra da perspectiva de Belas Artes**: toda aula deve tratar o tema pela observação dos elementos visuais da arte. Natureza, casa, igreja, objetos, histórias bíblicas e vida cotidiana podem aparecer como exemplos, mas devem servir à leitura de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+
+**Regra do 1º ano**: toda aula do 1º ano é introdução à linguagem visual e aos elementos da arte. A criança deve observar como o tema aparece em imagens, desenhos, obras ou composições artísticas.
+
 **Regra da progressão por palavras-chave**: o tema e a definição de `x.1` geram palavras-chave estruturantes. A aula `x.1` apresenta o tema de forma abrangente. As aulas `x.2` e `x.3` retomam palavras literais desse tema no exemplo central, no Definir, no Perceber, no Praticar e no Narrar. Exemplo: "O ponto representa o começo de uma arte" gera `ponto` e `começo` em `x.2`, e `ponto` e `arte` em `x.3`.
 
 **Regra da semana como unidade**:
@@ -44,7 +48,7 @@ A unidade pedagógica é a **semana**, não a aula. Cada semana ensina **1 tema 
 
 **[Definição curta do Recordar, EXATAMENTE a mesma frase.]**
 
-[Duas frases em prosa direta, sem "Reconheça que" nem "Observe que". A primeira apresenta o contexto principal do tema usando palavras-chave de x.1. A segunda traz um argumento extra ou dado concreto. As duas ficam na MESMA linha, separadas por ponto e espaço, sem linha em branco entre elas.]
+[Uma frase em prosa direta, sem "Reconheça que" nem "Observe que", usando palavras-chave de x.1 e conectando o tema à observação visual da arte.]
 
 Veja o vídeo abaixo.
 

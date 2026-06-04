@@ -13,6 +13,8 @@ Adaptador de grades curriculares de Belas Artes para um formato semanal enxuto, 
 - Fazer a aula `x.1` apresentar o tema central da semana.
 - Fazer as aulas `x.2` e `x.3` nascerem diretamente do tema central.
 - Extrair palavras-chave do tema de `x.1` e usar essas palavras para orientar `x.2` e `x.3`.
+- Manter todos os títulos na perspectiva de Belas Artes e artes visuais.
+- Usar natureza, casa, igreja, objetos ou vida cotidiana apenas como caminho para observar imagem, desenho, forma, linha, cor, textura, espaco, composicao, obra de arte ou beleza visual.
 - Cortar, fundir ou reescrever temas que quebrem a unidade da semana.
 - Preferir titulos curtos, claros e apropriados para o ano escolar.
 - Preservar o sentido pedagogico original.

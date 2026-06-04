@@ -14,6 +14,7 @@ Use esta skill quando o pedido envolver criar uma aula, uma semana ou um fluxo c
 2. Identificar ano, semana e aula.
 3. Validar o título no Currículo Macro.
 4. **Tratar a semana como unidade**, definir tema central, termo principal, definição curta única e música/rima compartilhada antes de iniciar a redação. Se a aula é `x.2` ou `x.3`, ler primeiro `x.1` e herdar esses elementos.
+5. **Manter a perspectiva de Belas Artes**, tratar todo tema pela observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
 5. Extrair as palavras-chave estruturantes do tema e da definição de `x.1`. Em `x.2` e `x.3`, retomar essas palavras no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
 6. Seguir o pipeline oficial de 7 etapas.
 7. Usar `trivium-method-editorial/templates/padrao_final_aula.md`.

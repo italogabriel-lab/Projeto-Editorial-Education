@@ -6,6 +6,8 @@ Este é o **quinto e último contato da criança com o tema da semana**, agora p
 
 **Regra absoluta**: o texto do Narrar é literalmente idêntico ao Definir daquela aula. Não inventar texto novo. Não adicionar frases.
 
+Em Belas Artes, o Narrar deve preservar o vocabulário visual da aula. A criança deve responder com base em imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual quando esses termos forem o foco.
+
 ## Estrutura obrigatória
 
 ```markdown

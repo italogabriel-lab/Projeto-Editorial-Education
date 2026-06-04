@@ -29,6 +29,8 @@ Para novas execucoes, use:
 
 1. Nao substitua o fluxo moderno se o usuario nao pedir compatibilidade legada.
 2. Sempre sinalize que este skill esta em transicao.
+3. Em provas semanais, use o `Praticar` das aulas `.1`, `.2` e `.3` como referencia. Nao use perguntas sobre resumo da semana, termo da semana, coracao da semana, foco da aula, modo generico de praticar ou funcao da revisao.
+4. Em Belas Artes, preserve a perspectiva das artes visuais. As questoes devem tratar de imagem, desenho, forma, linha, cor, textura, espaco, composicao, obra de arte ou beleza visual quando esses elementos forem o eixo da semana.
 
 ## Regra para Criação de Tickets no Kanban
 
@@ -40,4 +42,3 @@ Para novas execucoes, use:
 >
 > Avaliacao dos conhecimentos das 3 aulas anteriores
 > ```
-

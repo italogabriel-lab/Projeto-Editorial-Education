@@ -81,8 +81,10 @@ Com os dados extraídos, gere um bloco seguindo **exatamente** o formato das sem
 4. **Objetivos**: padrão `Apresentar / Reconhecer / Praticar` para x.1, x.2 e x.3 respectivamente.
 5. **Conceitos da semana**: lista dos 3 títulos das aulas (não três termos distintos).
 6. **Palavras-chave estruturantes**: listar palavras que devem reaparecer em `x.2` e `x.3` nos exemplos e atividades.
-7. **Separador**: adicionar `---` após o bloco.
-8. **Importante**: o `[Tema central da semana]` precisa ser idêntico ao título de `x.1`. A definição curta de `x.1`, `x.2` e `x.3` é a mesma, derivada deste tema.
+7. **Perspectiva de Belas Artes**: cada objetivo deve tratar o tema como observação de artes visuais.
+8. **1º ano**: cada objetivo deve introduzir linguagem visual e elementos da arte por meio de imagem, desenho, obra ou composição.
+9. **Separador**: adicionar `---` após o bloco.
+10. **Importante**: o `[Tema central da semana]` precisa ser idêntico ao título de `x.1`. A definição curta de `x.1`, `x.2` e `x.3` é a mesma, derivada deste tema.
 
 ---
 

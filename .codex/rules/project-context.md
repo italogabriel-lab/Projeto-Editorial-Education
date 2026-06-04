@@ -25,3 +25,9 @@ O núcleo do framework está em `trivium-method-editorial/`.
 ## Idioma
 
 Todas as interações e saídas devem ser em português.
+
+## Perspectiva editorial de Belas Artes
+
+Toda aula de Belas Artes deve partir da observação dos elementos visuais da arte. Use exemplos concretos como natureza, casa, igreja, objetos e histórias bíblicas apenas quando eles ajudarem a criança a observar imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+
+No 1º ano, o eixo do ano é a introdução à linguagem visual e aos elementos da arte. Cada aula deve mostrar como o tema aparece em imagens, desenhos, obras ou composições artísticas.

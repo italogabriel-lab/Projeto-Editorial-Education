@@ -72,6 +72,9 @@ Distribua os tópicos extraídos nas semanas informadas, **3 aulas por semana**,
 - A aula `x.1` apresenta o tema central. As aulas `x.2` e `x.3` são desdobramentos diretos.
 - Extraia do tema de `x.1` as palavras-chave estruturantes. Os títulos `x.2` e `x.3` devem nascer dessas palavras ou de aspectos explícitos delas.
 - Os títulos devem ser curtos, didáticos e conectados ao tema central.
+- Cada semana deve manter a perspectiva de Belas Artes e artes visuais.
+- Natureza, casa, igreja, objetos ou vida cotidiana só devem aparecer como caminho para observar imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
+- No 1º ano, os títulos devem introduzir linguagem visual e elementos da arte.
 - A aula `x.1` deve ter o **mesmo título do tema da semana**.
 - Use a numeração `X.1`, `X.2`, `X.3` (sem prefixo "Dia").
 - Semanas de **Revisão** e **Provas** seguem o padrão existente.

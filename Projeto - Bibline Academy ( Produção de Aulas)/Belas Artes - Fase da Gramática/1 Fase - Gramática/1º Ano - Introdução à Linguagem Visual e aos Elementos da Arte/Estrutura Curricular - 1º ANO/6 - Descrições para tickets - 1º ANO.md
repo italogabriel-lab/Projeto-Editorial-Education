@@ -373,7 +373,7 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 ## Semana 6 – A linha como caminho
 
-**Tema central da semana**, A linha como caminho. A aula 6.1 apresenta o coração do tema com a linha como padrão. A aula 6.2 desenvolve a linha como caminho. A aula 6.3 desenvolve a linha que cria trilhas.
+**Tema central da semana**, A linha como caminho. A aula 6.1 fixa a definição central da linha como caminho. A aula 6.2 desenvolve a linha que acompanha o som. A aula 6.3 desenvolve a linha que cria trilhas.
 
 ---
 
@@ -381,25 +381,25 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 # Description
 
-**Tema central da semana**, A linha como caminho. **Foco da aula**, coração pedagógico que fixa a linha como padrão.
+**Tema central da semana**, A linha como caminho. **Foco da aula**, coração pedagógico que fixa a linha como caminho.
 
 ## Objetivos
-   → Reconheça a linha como padrão visual repetido em uma direção.
+   → Reconheça a linha como o caminho que conduz o olhar pelo desenho.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que é um padrão de linhas.
+   → Narre com as próprias palavras o percurso da linha no desenho.
 
 ---
 
-[Belas artes] - Ano 1 - 6.2 A linha como caminho
+[Belas artes] - Ano 1 - 6.2 A linha que acompanha o som
 
 # Description
 
-**Tema central da semana**, A linha como caminho. **Foco da aula**, primeiro desdobramento, A linha como caminho.
+**Tema central da semana**, A linha como caminho. **Foco da aula**, primeiro desdobramento, A linha que acompanha o som.
 
 ## Objetivos
-   → Compreenda a linha como caminho que conduz o olhar.
-   → Perceba linhas que guiam o olhar em obras e ilustrações.
-   → Narre oralmente um exemplo de linha que cria um caminho.
+   → Compreenda a linha acompanhando sons e ritmos para criar um caminho no papel.
+   → Perceba linhas que acompanham o som em obras e ilustrações.
+   → Narre oralmente um exemplo de linha que acompanha o som.
 
 ---
 
@@ -410,9 +410,9 @@ Avaliar os conhecimentos das aulas da semana 5.
 **Tema central da semana**, A linha como caminho. **Foco da aula**, segundo desdobramento, A linha que cria trilhas.
 
 ## Objetivos
-   → Pratique a linha que cria trilhas como segundo desdobramento da semana.
-   → Aplique a linha em atividade prática desenhando trilhas para um personagem.
-   → Narre a experiência de criar uma trilha com linhas.
+   → Pratique a linha que cria trilhas na imagem para guiar o olhar.
+   → Aplique a linha em atividade prática desenhando trilhas e conduzindo o olhar.
+   → Narre a experiência de criar trilhas com linhas no desenho.
 
 ---
 
@@ -425,7 +425,7 @@ Revisar os conhecimentos das aulas da semana 6.
 ## 6ª Semana, **A linha como caminho**
 
 - 6.1 A linha como caminho
-- 6.2 A linha como caminho
+- 6.2 A linha que acompanha o som
 - 6.3 A linha que cria trilhas
 
 ---
@@ -439,7 +439,7 @@ Avaliar os conhecimentos das aulas da semana 6.
 ## 6ª Semana, **A linha como caminho**
 
 - 6.1 A linha como caminho
-- 6.2 A linha como caminho
+- 6.2 A linha que acompanha o som
 - 6.3 A linha que cria trilhas
 
 ---

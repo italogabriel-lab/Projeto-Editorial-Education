@@ -4,6 +4,8 @@ Nas **semanas regulares**, contêm de **5 a 10 questões**, já nas **semanas
 
 Cada prova é composta apenas por **questões objetivas pré-estabelecidas** (exatamente como listadas, é so copiar e colcar a estrtutura), escolhidas entre os **tipos padronizados listados abaixo**.
 
+Em questões **MULTIPLE_CHOICE**, o enunciado deve terminar com `?`.
+
 |**Tipo**|**Descrição**|**Uso recomendado**|
 |---|---|---|
 |**MULTIPLE_DROPDOWN**|Permite múltiplos campos de escolha dentro de uma mesma sentença. Ideal para testar fatos ou sequências.|Verificação de conhecimento factual ou cronológico.|
@@ -44,6 +46,6 @@ January [=] Janeiro February [=] Fevereiro March [=] Março
 
 **5. MULTIPLE_CHOICE**
 
-Select all animals.
+Select all animals?
 
 Apple [=] Banana [=] Horse [=] true Pitaya [=] Zebra [=] true

@@ -147,19 +147,19 @@
 ## Semana 8 — As formas na natureza
 
 ### 8.1 — As formas na natureza
-- [Shapes in nature patterns (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Natural_patterns)
-- [Nature shapes simple (Pixabay)](https://pixabay.com/images/search/nature%20shapes/)
-- [Patterns in nature kids (Unsplash)](https://unsplash.com/s/photos/nature-patterns)
+- [Natural patterns for visual forms (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Natural_patterns)
+- [Botanical illustrations and leaf shapes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Botanical_illustrations)
+- [Nature shapes for art observation (Pixabay)](https://pixabay.com/images/search/nature%20shapes%20art/)
 
 ### 8.2 — As formas em bichos
-- [Animal silhouettes simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Animal_silhouettes)
-- [Animal shapes kids drawing (Pixabay)](https://pixabay.com/images/search/animal%20shapes%20kids/)
-- [Simple animal silhouette (Unsplash)](https://unsplash.com/s/photos/animal-silhouette-simple)
+- [Animal silhouettes as visual shapes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Animal_silhouettes)
+- [Animal drawings with clear shapes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Drawings_of_animals)
+- [Animal shapes for drawing (Pixabay)](https://pixabay.com/images/search/animal%20shape%20drawing/)
 
-### 8.3 — As figuras inventadas
-- [Imaginary creature illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Fictional_creatures)
-- [Invented creature kids drawing (Pixabay)](https://pixabay.com/images/search/imaginary%20creature%20drawing/)
-- [Fantasy creature kids art (Unsplash)](https://unsplash.com/s/photos/fantasy-creature-drawing)
+### 8.3 — As formas em figuras inventadas
+- [Biomorphism, natural forms in art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Biomorphism)
+- [Biomorphic abstract paintings (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Biomorphic_abstract_paintings)
+- [Invented creature from nature shapes (Pixabay)](https://pixabay.com/images/search/imaginary%20creature%20drawing/)
 
 ---
 

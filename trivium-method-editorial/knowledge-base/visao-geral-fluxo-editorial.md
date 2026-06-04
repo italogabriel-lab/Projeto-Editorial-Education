@@ -100,6 +100,12 @@ O que **nao varia** na progressao lexical:
 - O foco de `x.2` e `x.3` deve nascer de palavras ou aspectos presentes em `x.1`
 - Nenhuma aula da semana deve abrir um eixo conceitual paralelo
 
+### Perspectiva de Belas Artes
+
+Toda aula de Belas Artes deve tratar o tema pela observacao das artes visuais. Natureza, objetos, igreja, casa, historias biblicas e vida cotidiana podem aparecer como exemplos, mas devem conduzir a imagem, desenho, forma, linha, cor, textura, espaco, composicao, obra de arte e beleza visual.
+
+No 1o ano, cada aula introduz linguagem visual e elementos da arte. O tema precisa aparecer como algo que a crianca observa em imagens, desenhos, obras ou composicoes artisticas.
+
 ### Arquivos da Semana
 
 Cada semana de conteudo segue um padrao fixo de 5 arquivos:

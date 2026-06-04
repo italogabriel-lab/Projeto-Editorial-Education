@@ -39,6 +39,8 @@ Se o usuário pedir uma proposta nova, preserve o eixo pedagógico do Currículo
 Para cada semana:
 
 - A aula `x.1` define ou apresenta a ideia principal de forma geral.
+- A ideia principal deve permanecer dentro da perspectiva de Belas Artes e artes visuais.
+- Quando o tema usar natureza, casa, igreja, objetos ou vida cotidiana, o título deve apontar para observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
 - A aula `x.1` reúne os aspectos centrais do tema em uma formulação ampla e integradora.
 - A aula `x.2` aprofunda um primeiro trecho, aspecto, expressão ou palavra-chave presente na aula `x.1`.
 - A aula `x.3` aprofunda um segundo trecho, aspecto, expressão ou palavra-chave presente na aula `x.1`.

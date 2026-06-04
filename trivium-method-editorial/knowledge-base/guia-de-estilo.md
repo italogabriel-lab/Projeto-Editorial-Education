@@ -14,6 +14,8 @@ description: Regras de escrita, tom de voz, formatação e Rise Blocks para toda
 - Proibido: linguagem excessivamente infantilizada, gírias modernas, ironia.
 - Obrigatório: clareza na exposição e beleza na forma.
 - Tom bíblico, robusto, respeitoso. Zero traços de passiva, gerúndio excessivo ou comandos indiretos.
+- Em Belas Artes, mantenha sempre a perspectiva das artes visuais. Use exemplos de natureza, casa, igreja, objetos e histórias bíblicas para observar imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+- No 1º ano, escreva como introdução à linguagem visual e aos elementos da arte.
 
 ## Regras de Escrita Obrigatórias
 
@@ -127,6 +129,28 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 - A resposta correta do `[+MULTIPLE]` é a definição curta completa e literal.
 - A Atividade Extra usa `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=`.
 - Não usar `[+ATTACHMENT]` com `@link_pdf@`.
+
+### Provas CANVAS_QUIZ
+- Em todo `MULTIPLE_CHOICE`, a primeira linha não vazia depois de `MULTIPLE_CHOICE 10` é o enunciado.
+- Esse enunciado deve terminar com `?`.
+- Em provas semanais `.5`, gerar as questões a partir do `Praticar` das aulas `x.1`, `x.2` e `x.3`.
+- Usar os `[+FILL_IN]` progressivos e as perguntas `[+MULTIPLE]` específicas como referência direta.
+- As perguntas devem tratar do tema, das palavras-chave e dos exemplos da semana.
+- Proibido usar perguntas estruturais ou metapedagógicas como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" e "O que a revisão da semana deve manter?".
+
+### Revisão semanal
+- No `## [QUIZ] Praticar` das revisões `.4`, usar 1 `[+FILL_IN]` com a definição curta da semana.
+- Em seguida, usar 3 `[+MULTIPLE]`, uma por aula `x.1`, `x.2` e `x.3`.
+- As perguntas devem ser copiadas ou derivadas diretamente do `Praticar` das três aulas.
+- As perguntas tratam do tema, das palavras-chave e dos exemplos estudados.
+- Proibido usar perguntas estruturais ou metapedagógicas como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coração da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" e "O que a revisão da semana deve manter?".
+
+### Revisão bimestral
+- Arquivos `9.md`, `19.md`, `29.md` e `39.md` usam 8 blocos semanais.
+- Cada bloco começa com `# [nome da aula .1]`.
+- O parágrafo usa `Nesta semana estudamos que **...**`.
+- Cada bloco traz `[+HEADING] Atividade` e `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@` e o nome da aula `.1`.
+- O quiz final é `## [QUIZ] Questões` com exatamente 8 `[+FILL_IN]`, um por semana.
 
 ### Matching
 - SEMPRE a definição primeiro, termo depois do `[=]`

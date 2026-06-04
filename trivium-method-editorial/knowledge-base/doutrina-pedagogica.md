@@ -11,11 +11,11 @@ A Bibline Academy adota a **Educação Clássica Cristã** como modelo pedagógi
 
 ### O Trivium
 
-| Fase | Idade | Foco | Descrição |
-|------|-------|------|-----------|
-| **Gramática** | 7–11 anos | Fatos e Definições | Memorização, observação, vocabulário |
-| Lógica | 12–14 anos | Relações e Argumentos | Conectar ideias, questionar, debater |
-| Retórica | 15–18 anos | Expressão e Persuasão | Articular, defender, criar |
+| Fase | Idade | Pergunta estruturante | Foco | Descrição |
+|------|-------|----------------------|------|-----------|
+| **Gramática** | 7–11 anos | O que é? | Fatos e Definições | Memorização, observação, vocabulário |
+| Dialética | 12–14 anos | Como se relaciona? | Relações e Argumentos | Conectar ideias, questionar, debater |
+| Retórica | 15–18 anos | Como expresso e defendo? | Expressão e Persuasão | Articular, defender, criar |
 
 **Todas as aulas da Bibline Academy estão na Fase da Gramática** (2º ao 5º ano).
 
@@ -43,6 +43,12 @@ O tema e a definição de `x.1` geram as palavras-chave estruturantes da semana.
 
 Exemplo: se `x.1` ensina "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente, `x.2` foca `ponto` e `começo`, e `x.3` foca `ponto` e `arte`. A criança progride sem perder contato com o eixo da semana.
 
+### Perspectiva de Belas Artes e Artes Visuais
+
+Toda aula de Belas Artes deve conduzir a criança a observar os elementos visuais da arte. Natureza, casa, igreja, objetos, histórias bíblicas e vida cotidiana podem aparecer como exemplos, mas sempre a serviço da leitura visual.
+
+O foco deve voltar para imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual. No 1º ano, essa regra é ainda mais forte, pois o ano introduz a linguagem visual e os elementos da arte.
+
 ### Estrutura dos 5 Hábitos — Memorização por Repetição com Variação
 
 Cada aula é organizada em 5 hábitos que abordam o **mesmo tema central da semana** por ângulos diferentes. O objetivo é que a criança tenha contato repetido com o tema ao longo das três aulas, fixando-o na memória.
@@ -57,6 +63,71 @@ Cada aula é organizada em 5 hábitos que abordam o **mesmo tema central da sema
 
 **Regra de ouro**: se qualquer hábito não reforça o tema central da semana, a aula está incompleta. O Reviewer deve rejeitar aulas em que um hábito se desconecta do tema.
 **Regra lexical**: se `x.2` ou `x.3` não retomam palavras-chave de `x.1`, a progressão semanal está fraca e deve ser revisada.
+
+## Conceituação Clássica — Fundamento Editorial
+
+### O princípio central
+
+Na educação clássica, conceituar é definir o que a coisa é, não o que ela faz. Toda definição produzida neste projeto é **ontológica**: responde à pergunta "O que é isso?" usando o verbo ser no presente.
+
+O método moderno define pela função: "Para que serve?". A Bibline inverte essa ordem, seguindo o modelo do Breve Catecismo de Westminster: "Deus é Espírito infinito, eterno e imutável" define o ser antes de descrever o que Deus faz.
+
+### Dois tipos de definição
+
+**Definição ontológica (o que é):**
+- Usa o verbo ser no presente: "X é Y."
+- Define a natureza, a substância, o ser da coisa.
+- É a definição principal de toda aula.
+- Deve ter entre 8 e 12 palavras.
+- Exemplo correto: "A linha é o caminho que conduz o olhar por onde o desenho passa."
+- Exemplo incorreto: "A linha serve para delimitar formas e organizar o espaço visual."
+
+**Definição deontológica (o que faz):**
+- Expande a definição ontológica com atributos, funções e relações.
+- Não é usada para abrir a aula na fase da Gramática.
+- Aparece de forma complementar na Dialética e como elemento central na Retórica.
+
+### Conceituação por fase
+
+**Fase da Gramática (anos 1 a 4):**
+- A definição é ontológica e simples: "X é Y."
+- Vocabulário direto, concreto e visual.
+- A criança aprende pelo nome, pela observação e pela repetição.
+- Exemplos tangíveis: objetos, imagens, obras, sons, histórias.
+- Perguntas com resposta explícita no próprio texto da aula.
+- Sem inferências, abstrações ou comparações complexas.
+
+**Fase da Dialética (anos 5 a 8):**
+- A definição começa a incluir gênero e diferença específica.
+- O aluno é chamado a identificar por que X não é Y, mesmo que semelhante.
+- Atividades de análise de casos, comparações e argumentação lógica simples.
+- A pergunta da aula exige relação entre conceitos, não apenas memória.
+
+**Fase da Retórica (anos 9 a 12):**
+- Definições precisas com fundamentação histórica, teológica e filosófica.
+- Pesquisa Ad Fontes: ir às fontes primárias, não apenas a resumos.
+- Produção de textos argumentativos, ensaios e análises.
+- O aluno aprende a reconhecer quando uma definição é manipulada ou esvaziada.
+
+### Webster 1828 — dicionário de referência obrigatório
+
+O Webster's Dictionary of 1828 é o dicionário canônico da Bibline. Deve ser consultado por Researcher e Writer antes de propor qualquer definição.
+
+**Hierarquia de fontes para definições:**
+1. Webster's 1828 Dictionary (webstersdictionary1828.com)
+2. Breve Catecismo de Westminster
+3. Fontes primárias da disciplina
+4. Enciclopédias clássicas e teológicas
+
+Nunca usar enciclopédias digitais abertas, fontes contemporâneas de autoria incerta ou definições geradas por IA sem verificação no Webster.
+
+### Checklist de definição para Writer e Reviewer
+
+1. A definição responde "O que é?" usando o verbo ser no presente?
+2. A definição tem entre 8 e 12 palavras?
+3. A definição foi consultada no Webster 1828 antes de ser escrita?
+4. A definição pode ser memorizada por uma criança da faixa etária da aula?
+5. A resposta da pergunta principal da aula está explícita no texto, sem exigir inferência?
 
 ## Cosmovisão Cristã Reformada
 

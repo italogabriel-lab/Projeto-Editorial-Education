@@ -29,7 +29,7 @@ Arquivo `X.4.md` com a estrutura:
 - **Definir**: parágrafo único com **a definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`) + bloco `[+IMAGE_TEXT_ON]` com a música da semana
 - **Perceber**: bloco `[+IMAGE_LABELED]` com 3 hotspots, um por aula, mostrando o título de cada aula
 - **Recordar**: `[+STATEMENT_D]` com a definição curta da semana (mesma frase do Definir)
-- **Praticar**: `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` (um por aula da semana)
+- **Praticar**: `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` temáticos, um por aula da semana
 - **Narrar**: paragrafo introdutorio para a narracao oral
 
 ## Regras
@@ -38,11 +38,13 @@ Arquivo `X.4.md` com a estrutura:
 2. A definicao curta do Recordar e identica a do Definir e a das 3 aulas da semana.
 3. A musica do `[+IMAGE_TEXT_ON]` e a mesma usada nas 3 aulas (`@link_mp3@` + nome).
 4. Os hotspots do `[+IMAGE_LABELED]` mostram apenas os titulos das aulas (`X.1`, `X.2`, `X.3`), nao definicoes. Os textos de legenda de cada hotspot devem ser **literalmente idênticos** aos usados no `[+IMAGE_LABELED]` da respectiva aula. Copie os textos diretamente dos arquivos de aula — nunca reescreva de memória.
-5. As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraida do conteudo de cada aula. As respostas corretas refletem o angulo daquela aula dentro do tema da semana.
+5. As `[+MULTIPLE]` do Praticar trazem 1 pergunta extraida do conteudo de cada aula, preferencialmente copiada do `[+MULTIPLE]` do `Praticar` de `x.1`, `x.2` e `x.3`. As respostas corretas refletem o angulo daquela aula dentro do tema da semana.
 6. As perguntas devem preservar palavras-chave estruturantes de `x.1`, para revisar a progressao lexical da semana.
-7. (Opcional) Se usar `[+TABLE]` ou `[+MATCHING]`, nao repetir o termo no inicio da definicao.
-8. Nao aplique elipse aos blocos `[+STATEMENT_D]`, que preservam a definicao curta completa.
-9. **Padrao antigo (descontinuado)**: revisoes com tabelas de 3 termos+definicoes distintas nao sao mais utilizadas. Quando refatorar uma revisao legada, substitua pela estrutura nova acima.
+7. Em Belas Artes, a revisao deve preservar a perspectiva das artes visuais e perguntar sobre imagem, desenho, forma, linha, cor, textura, espaco, composicao, obra de arte ou beleza visual quando forem o eixo da semana.
+8. Proibido usar perguntas estruturais ou metapedagogicas no Praticar da revisao, como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coracao da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" e "O que a revisao da semana deve manter?".
+9. (Opcional) Se usar `[+TABLE]` ou `[+MATCHING]`, nao repetir o termo no inicio da definicao.
+10. Nao aplique elipse aos blocos `[+STATEMENT_D]`, que preservam a definicao curta completa.
+11. **Padrao antigo (descontinuado)**: revisoes com tabelas de 3 termos+definicoes distintas nao sao mais utilizadas. Quando refatorar uma revisao legada, substitua pela estrutura nova acima.
 
 ## Regra para Criação de Tickets no Kanban
 

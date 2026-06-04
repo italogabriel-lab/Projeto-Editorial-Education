@@ -619,6 +619,21 @@ def validar(data: dict) -> list:
             f"'revisao.multiples' deve ter exatamente 3 itens (um por aula). "
             f"Encontrado: {n_multiples}."
         )
+    perguntas_proibidas_revisao = {
+        "Qual frase resume a semana?",
+        "Qual frase resume melhor a semana?",
+        "Qual aula apresentou o coração da semana?",
+        "Como podemos praticar o tema da semana?",
+        "Como o aluno deve praticar o tema?",
+        "Qual foi o termo da semana?",
+        "O que a revisão da semana deve manter?",
+    }
+    for idx, multiple in enumerate(revisao.get("multiples", []), start=1):
+        pergunta = multiple.get("pergunta", "")
+        if pergunta in perguntas_proibidas_revisao:
+            erros.append(
+                f"'revisao.multiples[{idx}].pergunta' usa pergunta estrutural proibida: {pergunta}"
+            )
 
     return erros
 

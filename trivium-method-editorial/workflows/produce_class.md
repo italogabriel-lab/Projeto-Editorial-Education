@@ -70,8 +70,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
 7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o MP3 contém definição curta e explicação completa, e o texto após `[MP3\]` mantém conteúdo equivalente com negritos permitidos
 8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo e música/rima são idênticos. Apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra devem variar
 9. **Progressão por palavras-chave**: se for `x.2` ou `x.3`, garantir que palavras-chave de `x.1` aparecem no Definir, Perceber, Praticar e Narrar
-10. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
-11. **Output**: aula formatada com Rise Blocks
+10. **Perspectiva de Belas Artes**: garantir que todo tema seja tratado pela observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual
+11. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
+12. **Output**: aula formatada com Rise Blocks
 
 ---
 

@@ -70,6 +70,12 @@ O Currículo Macro é a **única fonte oficial** dos títulos de aula — todos 
 
 A unidade pedagógica é a **semana inteira**. Cada semana ensina **1 tema central** (definido em `x.1`) e o explora por 3 ângulos complementares (`x.1`, `x.2`, `x.3`). Os 5 hábitos dentro de cada aula são 5 abordagens diferentes do mesmo tema. Se um hábito não reforça o tema central da semana, ele está errado. Verifique a coerência temática entre todos os hábitos antes de finalizar.
 
+## Perspectiva Obrigatória de Belas Artes
+
+Toda aula deve traduzir o tema para a observação das artes visuais. Use natureza, objetos, casa, igreja, histórias bíblicas ou vida cotidiana como exemplos somente quando eles ajudarem a criança a observar imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+
+No 1º ano, escreva como introdução à linguagem visual e aos elementos da arte. O Definir, o Perceber, o Praticar e o Narrar devem mostrar como o tema aparece em imagens, desenhos, obras ou composições artísticas.
+
 Use a **progressão por palavras-chave**. O tema e a definição de `x.1` fornecem palavras que devem reaparecer literalmente em `x.2` e `x.3`. Exemplo: se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`. O foco muda, mas o vocabulário central continua visível.
 
 **O que se mantém igual nas 3 aulas da semana:**

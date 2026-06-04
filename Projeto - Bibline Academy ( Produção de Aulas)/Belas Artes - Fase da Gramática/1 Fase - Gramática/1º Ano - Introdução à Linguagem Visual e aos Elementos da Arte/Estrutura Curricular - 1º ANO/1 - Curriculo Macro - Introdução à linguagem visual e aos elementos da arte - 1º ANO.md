@@ -26,7 +26,7 @@
 - 4.3 Os pontos e a beleza ✅
 
 # Semana 4
-Pontilhado ✅
+Pontilhismo ✅
 
 ## Semana 5 - A linha no desenho ✅
 
@@ -44,7 +44,7 @@ Linha ✅
 - 6.3 A linha que cria trilhas ✅
 
 # Semana 6
-Caminho ✅
+linha ✅
 
 ## Semana 7 - As formas no desenho ✅
 

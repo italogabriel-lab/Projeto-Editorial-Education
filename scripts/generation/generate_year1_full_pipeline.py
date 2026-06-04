@@ -230,7 +230,7 @@ WEEKS = {
 }
 
 BIMESTERS = {
-    9: [6, 7, 8],
+    9: [1, 2, 3, 4, 5, 6, 7, 8],
     10: [6, 7, 8],
     19: [11, 12, 13, 14, 15, 16, 17, 18],
     20: [11, 12, 13, 14, 15, 16, 17, 18],
@@ -239,6 +239,53 @@ BIMESTERS = {
     39: [31, 32, 33, 34, 35, 36, 37, 38],
     40: [31, 32, 33, 34, 35, 36, 37, 38],
 }
+
+
+def title_in_sentence(title):
+    if title.startswith(("A ", "As ", "O ", "Os ")):
+        return title[0].lower() + title[1:]
+    return title
+
+
+def first_multiple_from_lesson(week, lesson_number):
+    path = BASE / f"{week}.{lesson_number}.md"
+    if not path.exists():
+        return None
+    text = path.read_text(encoding="utf-8")
+    match = re.search(r"\[\+MULTIPLE\](.*?)\[-MULTIPLE\]", text, re.S)
+    if not match:
+        return None
+    lines = [line.strip() for line in match.group(1).splitlines() if line.strip()]
+    if len(lines) < 3:
+        return None
+    choices = lines[1:]
+    while len(choices) < 3:
+        choices.append("Uma folha vazia sem forma. [=]")
+    return lines[0], choices[:3]
+
+
+def review_multiple_sections(number, data):
+    sections = []
+    for lesson_number in (1, 2, 3):
+        multiple = first_multiple_from_lesson(number, lesson_number)
+        if multiple:
+            question, choices = multiple
+        else:
+            title = data["titles"][lesson_number - 1]
+            focus = data["focus"][lesson_number - 1]
+            question = f"O que {title_in_sentence(title)} mostra no tema estudado?"
+            choices = [
+                f"{focus.capitalize()}. [=] true",
+                "Uma imagem sem ordem nem cuidado. [=]",
+                "Uma folha vazia sem forma. [=]",
+            ]
+        sections.append(
+            "[+MULTIPLE]\n\n"
+            f"{question}\n\n"
+            + "\n".join(choices)
+            + "\n\n[-MULTIPLE]"
+        )
+    return "\n\n".join(sections)
 
 
 def lesson_text(number, index, data):
@@ -478,6 +525,7 @@ def weekly_review_text(number, data):
     definition = data["definition"]
     titles = data["titles"]
     fill_word = data["fill_word"]
+    multiples = review_multiple_sections(number, data)
     return f"""# Revisão
 
 ## Definir
@@ -580,35 +628,7 @@ Atividade
 
 [-FILL_IN]
 
-[+MULTIPLE]
-
-Qual frase resume a semana?
-
-{definition} [=] true
-Uma imagem não precisa de ordem nem atenção. [=]
-A arte desta semana não usa observação. [=]
-
-[-MULTIPLE]
-
-[+MULTIPLE]
-
-Qual aula apresentou o coração da semana?
-
-{titles[0]} [=] true
-{titles[1]} [=]
-{titles[2]} [=]
-
-[-MULTIPLE]
-
-[+MULTIPLE]
-
-Como podemos praticar o tema da semana?
-
-Observando, repetindo e criando uma imagem simples. [=] true
-Pulando a definição e copiando sem olhar. [=]
-Deixando o papel vazio até o final. [=]
-
-[-MULTIPLE]
+{multiples}
 
 ## Narrar
 
@@ -625,6 +645,10 @@ def weekly_test_text(number, data):
     titles = data["titles"]
     fill_word = data["fill_word"]
     term = data["term"]
+    focus = data["focus"]
+    term_fill = definition.replace(term, "[1]", 1)
+    if term_fill == definition:
+        term_fill = definition.replace(fill_word, "[1]", 1)
     return f"""# Provas
 
 [CANVAS_QUIZ]
@@ -639,27 +663,27 @@ FILL_IN 10
 
 MULTIPLE_CHOICE 10
 
-Qual frase resume melhor a semana
+O que aparece em {title_in_sentence(titles[0])}?
 
-{definition} [=] true
+{focus[0].capitalize()}. [=] true
 Uma imagem sem ordem e sem atenção. [=]
-Uma atividade sem observação. [=]
+Uma atividade sem observar o conteúdo estudado. [=]
 
 --
 
 MULTIPLE_CHOICE 10
 
-Qual foi o termo da semana
+O que aparece em {title_in_sentence(titles[1])}?
 
-{term} [=] true
-Papel vazio. [=]
-Barulho solto. [=]
+{focus[1].capitalize()}. [=] true
+Uma folha vazia sem relação com o tema. [=]
+Um desenho feito sem atenção ao conteúdo. [=]
 
 --
 
 FILL_IN 10
 
-O termo da semana foi [1].
+{term_fill}
 
 1 [=] {term}
 
@@ -667,21 +691,21 @@ O termo da semana foi [1].
 
 MULTIPLE_CHOICE 10
 
-Qual aula apresentou o coração da semana
+O que aparece em {title_in_sentence(titles[2])}?
 
-{titles[0]} [=] true
-{titles[1]} [=]
-{titles[2]} [=]
+{focus[2].capitalize()}. [=] true
+Uma atividade feita sem observar o tema. [=]
+Uma figura sem ordem nem cuidado. [=]
 
 --
 
 MATCHING 10
 
-Relacione cada aula ao foco estudado nesta semana.
+Relacione cada assunto ao que ele mostra.
 
-{titles[0]} [=] Coração da semana
-{titles[1]} [=] Primeiro desdobramento
-{titles[2]} [=] Segundo desdobramento
+{titles[0]} [=] {focus[0].capitalize()}.
+{titles[1]} [=] {focus[1].capitalize()}.
+{titles[2]} [=] {focus[2].capitalize()}.
 
 --
 
@@ -695,126 +719,139 @@ true
 
 MULTIPLE_CHOICE 10
 
-Como o aluno deve praticar o tema
+Qual ideia combina com {title_in_sentence(titles[1])}?
 
-Com observação, repetição e uma imagem simples. [=] true
-Sem olhar para o tema da semana. [=]
-Com pressa e sem cuidado. [=]
+{focus[1].capitalize()}. [=] true
+Uma folha vazia sem relação com o tema. [=]
+Um desenho feito sem atenção ao conteúdo. [=]
 
 --
 
 FILL_IN 10
 
-Complete a palavra principal da semana, [1].
+{definition.replace(fill_word, "[1]")}
 
-1 [=] {term}
+1 [=] {fill_word}
 
 --
 
 MULTIPLE_CHOICE 10
 
-O que a revisão da semana deve manter
+Qual ideia combina com {title_in_sentence(titles[2])}?
 
-A mesma definição central da semana. [=] true
-Três definições sem ligação. [=]
-Títulos inventados fora do Macro. [=]
+{focus[2].capitalize()}. [=] true
+Uma atividade feita sem observar o tema. [=]
+Uma figura sem ordem nem cuidado. [=]
 """
+
+
+def existing_lesson_title(week):
+    path = BASE / f"{week}.1.md"
+    if path.exists():
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if line.startswith("# "):
+                return line.replace("# ", "", 1).strip()
+    return WEEKS[week]["titles"][0]
+
+
+def existing_week_definition(week):
+    path = BASE / f"{week}.1.md"
+    if path.exists():
+        lines = path.read_text(encoding="utf-8").splitlines()
+        try:
+            start = lines.index("## Definir")
+        except ValueError:
+            start = 0
+        for line in lines[start : start + 30]:
+            match = re.match(r"^\*\*(.+)\*\*$", line.strip())
+            if match:
+                return match.group(1).strip()
+    return WEEKS[week]["definition"]
+
+
+def embedded_definition(week):
+    definition = existing_week_definition(week)
+    return definition[:1].lower() + definition[1:]
+
+
+def existing_review_fill_in(week):
+    path = BASE / f"{week}.4.md"
+    if path.exists():
+        lines = path.read_text(encoding="utf-8").splitlines()
+        try:
+            start = lines.index("[+FILL_IN]")
+            end = lines.index("[-FILL_IN]", start)
+            return "\n".join(lines[start : end + 1])
+        except ValueError:
+            pass
+    data = WEEKS[week]
+    return f"""[+FILL_IN]
+
+{data['definition'].replace(data['fill_word'], "_____")}
+
+{data['fill_word']}
+
+[-FILL_IN]"""
+
+
+def existing_review_multiple(week):
+    path = BASE / f"{week}.4.md"
+    if path.exists():
+        lines = path.read_text(encoding="utf-8").splitlines()
+        try:
+            start = lines.index("[+MULTIPLE]")
+            end = lines.index("[-MULTIPLE]", start)
+            return "\n".join(lines[start : end + 1])
+        except ValueError:
+            pass
+    data = WEEKS[week]
+    return f"""[+MULTIPLE]
+
+O que {data['term']} representa?
+
+{data['definition']} [=] true
+Título inventado fora do Macro. [=]
+
+[-MULTIPLE]"""
 
 
 def bimestral_review_text(number, weeks):
-    lines = []
+    blocks = []
     for week in weeks:
-        data = WEEKS[week]
-        lines.append(f"- Semana {week}, {data['definition']}")
-    joined = "\n".join(lines)
-    first = WEEKS[weeks[0]]
-    last = WEEKS[weeks[-1]]
-    return f"""# Revisão bimestral
-
-## Definir
+        title = existing_lesson_title(week)
+        blocks.append(f"""# {title}
 
 [+PARAGRAPH]
 
-Retome as definições do bloco e repita cada uma com atenção.
+Nesta semana estudamos que **{embedded_definition(week)}**
 
 [-PARAGRAPH]
 
-[+LIST]
+[+HEADING]
 
-{joined}
+Atividade
 
-[-LIST]
+[-HEADING]
 
-## Perceber
-
-[+PARAGRAPH]
-
-Observe imagens das semanas estudadas e reconheça os termos principais.
-
-[-PARAGRAPH]
-
-[+IMAGE_LABELED]
+[+IMAGE_TEXT_ON]
 
 @link_png@
 
---
+@link_mp3@
 
-25 50
+{title}
 
-{first['term']}
-
---
-
-75 50
-
-{last['term']}
-
-[-IMAGE_LABELED]
-
-## Recordar
-
-[+STATEMENT_D]
-
-[MP3/]
-
-{AUDIO_ID}
-
-{first['definition']}
-
-[MP3\\]
-
-{first['definition']}
-
-[-STATEMENT_D]
-
-## [QUIZ] Praticar
-
-[+MULTIPLE]
-
-Qual atitude ajuda a revisar bem?
-
-Ouvir, repetir, observar e narrar com atenção. [=] true
-Trocar os títulos do Macro por novos títulos. [=]
-Esquecer as definições das semanas. [=]
-
-[-MULTIPLE]
-
-[+FILL_IN]
-
-{last['definition'].replace(last['fill_word'], "_____")}
-
-{last['fill_word']}
-
-[-FILL_IN]
-
-## Narrar
-
-[+PARAGRAPH]
-
-Conte uma definição do bloco e explique uma imagem que você observou.
-
-[-PARAGRAPH]
-"""
+[-IMAGE_TEXT_ON]""")
+    # Quiz alterna por semana: posição ímpar (1ª, 3ª, 5ª, 7ª) usa FILL_IN,
+    # posição par (2ª, 4ª, 6ª, 8ª) usa MULTIPLE. Sempre começa com FILL_IN.
+    # Resultado: 4 FILL_IN + 4 MULTIPLE, uma questão por semana.
+    questions = []
+    for position, week in enumerate(weeks):
+        if position % 2 == 0:
+            questions.append(existing_review_fill_in(week))
+        else:
+            questions.append(existing_review_multiple(week))
+    return "\n\n".join(["# Revisão bimestral", *blocks, "## [QUIZ] Questões", *questions]) + "\n"
 
 
 def bimestral_test_text(number, weeks):
@@ -840,7 +877,7 @@ FILL_IN 10
 
 MULTIPLE_CHOICE 10
 
-Qual termo pertence ao bloco estudado
+Qual termo pertence ao bloco estudado?
 
 {second['term']} [=] true
 Título inventado. [=]
@@ -866,7 +903,7 @@ true
 
 MULTIPLE_CHOICE 10
 
-Como a prova deve avaliar o aluno
+Como a prova deve avaliar o aluno?
 
 Com definições, observação visual e narração simples. [=] true
 Com temas fora do currículo Macro. [=]

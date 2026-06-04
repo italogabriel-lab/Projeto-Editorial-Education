@@ -60,6 +60,8 @@ Abra o arquivo `1 - Curriculo Macro - ... - [X]º ANO.md` do ano correspondente.
 - Compile **todos os termos já marcados com ✅** em **semanas anteriores**. Eles estão **PROIBIDOS** como termo de uma nova semana.
 - Identifique o **tema central da semana** (o título de `x.1`) e o **termo principal** que será compartilhado pelas 3 aulas.
 - Extraia as **palavras-chave estruturantes** do tema central e da definição curta. Elas devem aparecer nos exemplos de `x.2` e `x.3`.
+- Traduza o tema para a **perspectiva de Belas Artes e artes visuais**. Defina como a criança observará imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
+- No 1º ano, confirme que a aula funciona como introdução à linguagem visual e aos elementos da arte.
 - Se você está criando `x.2` ou `x.3`, **leia primeiro `x.1`** da mesma semana e extraia:
   - A **definição curta literal** de 8-10 palavras (vai ser repetida sem alteração)
   - O **termo principal** (vai ser o mesmo)
@@ -84,6 +86,7 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Use o **termo da semana** (compartilhado pelas 3 aulas) como conceito central
 - Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1`. Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
 - Em `x.2` e `x.3`, use palavras-chave do tema de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
+- Mantenha a perspectiva de Belas Artes em todos os hábitos, sem deixar exemplos de natureza, objetos ou histórias virarem tema paralelo
 - Siga a progressão pedagógica extraída do plano
 - Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, inclua `@link_png@`, narre definição curta e explicação completa no MP3, e mantenha texto visual equivalente após `[MP3\]`
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
@@ -140,8 +143,11 @@ Execute o workflow `/publish`:
   - **Definir**: a definição curta única da semana + `[+IMAGE_TEXT_ON]` com a música da semana
   - **Perceber**: `[+IMAGE_LABELED]` com 3 hotspots (um por aula) mostrando os títulos das aulas
   - **Recordar**: `[+STATEMENT_D]` com a definição curta da semana
-  - **Praticar**: 1 `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` (um por aula)
+  - **Praticar**: 1 `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` temáticos, um por aula
   - **Narrar**: parágrafo introdutório para narração oral
+- No `Praticar`, copie ou derive as 3 perguntas `[+MULTIPLE]` do `Praticar` das aulas `X.1`, `X.2` e `X.3`
+- As perguntas devem tratar do tema, das palavras-chave e dos exemplos estudados
+- Não use perguntas estruturais como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coração da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" ou "O que a revisão da semana deve manter?"
 - **Output:** Arquivo de revisão semanal salvo localmente
 
 ## Passo 5.5 — Criar Prova Semanal (quando semana completa)
@@ -150,9 +156,19 @@ Execute o workflow `/publish`:
 
 // turbo
 - Leia o skill: `.agent/skills/exam-builder/SKILL.md`
-- Extraia as definições curtas validadas e o conteúdo das 3 aulas
+- Extraia o `Praticar` das aulas `X.1`, `X.2` e `X.3`
+- Use os `[+FILL_IN]` progressivos e as perguntas `[+MULTIPLE]` específicas como referência direta
+- As perguntas devem tratar do tema, das palavras-chave e dos exemplos da semana
+- Não use perguntas estruturais como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" ou "O que a revisão da semana deve manter?"
 - Crie o arquivo `[Semana].5.md` seguindo o padrão CANVAS_QUIZ (prova = 5ª aula da semana)
+- Em provas, todo `MULTIPLE_CHOICE` deve trazer enunciado com `?`
 - **Output:** Arquivo de prova semanal salvo localmente
+
+## Passo 5.6 — Criar Revisão Bimestral
+
+- Para `9.md`, `19.md`, `29.md` e `39.md`, use 8 blocos semanais com `# [nome da aula .1]`
+- Em cada bloco, use `Nesta semana estudamos que **...**`, `[+HEADING] Atividade` e `[+IMAGE_TEXT_ON]`
+- No quiz final, use `## [QUIZ] Questões` com exatamente 8 `[+FILL_IN]`, um por semana, copiados das revisões `.4`
 
 ---
 

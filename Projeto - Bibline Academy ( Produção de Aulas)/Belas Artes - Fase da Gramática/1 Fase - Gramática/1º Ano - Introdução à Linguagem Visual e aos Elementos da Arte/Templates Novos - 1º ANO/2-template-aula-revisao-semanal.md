@@ -100,6 +100,12 @@ Atividade
 
 [-FILL_IN]
 
+<!--
+As três perguntas abaixo devem ser copiadas ou derivadas do Praticar das aulas x.1, x.2 e x.3.
+Pergunte sobre o tema, as palavras-chave e os exemplos estudados.
+Não use: "Qual frase resume a semana?", "Qual aula apresentou o coração da semana?" ou "Como podemos praticar o tema da semana?".
+-->
+
 [+MULTIPLE]
 
 [Pergunta da aula 1]

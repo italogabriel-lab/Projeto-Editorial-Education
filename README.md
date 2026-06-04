@@ -84,11 +84,58 @@ Entre `x.1`, `x.2` e `x.3` variam apenas o parágrafo livre do Definir, a explic
 
 No Perceber da revisão `.4`, os textos de legenda dos hotspots no `[+IMAGE_LABELED]` são cópias literais dos textos das aulas `x.1`, `x.2` e `x.3`.
 
+### Perspectiva de Belas Artes e artes visuais
+
+Toda aula de Belas Artes deve tratar o tema pela observação dos elementos visuais da arte. Natureza, casa, igreja, objetos, histórias bíblicas e vida cotidiana podem entrar como exemplos, mas devem servir à leitura de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+
+No 1º ano, o foco é introduzir a linguagem visual e os elementos da arte. Cada aula deve mostrar como a criança observa um elemento visual em imagens, desenhos, obras ou composições artísticas.
+
+### Conceituação clássica — regra inegociável
+
+Toda definição produzida neste framework é **ontológica**: responde à pergunta "O que é?" usando o verbo ser no presente. Proibido definir pela função ("serve para", "faz", "permite").
+
+- Definição correta: "A linha é o caminho que conduz o olhar por onde o desenho passa."
+- Definição incorreta: "A linha serve para delimitar formas e organizar o espaço visual."
+
+O **Webster's Dictionary of 1828** é o dicionário de referência obrigatório. Researcher e Writer devem consultá-lo antes de propor qualquer definição. Acesso: webstersdictionary1828.com.
+
+Hierarquia de fontes: (1) Webster 1828, (2) Breve Catecismo de Westminster, (3) fontes primárias da disciplina, (4) enciclopédias clássicas e teológicas.
+
+Referente canônico: `docs-estratégicos-funcionamento-framework/1-Projeto plataforma Editorial Bibline/Abordagem pedagógica por fase do Trivium e fundamentos de conceituação.md`.
+
 ### Padrão da progressão por palavras-chave
 
 O tema e a definição de `x.1` geram as palavras-chave estruturantes da semana. As aulas `x.2` e `x.3` não abrem temas paralelos: retomam palavras do eixo de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
 
 Exemplo com o tema "O ponto representa o começo de uma obra de arte": `x.1` coloca em negrito somente `pontos`. `x.2` coloca em negrito `ponto` e `começo`. `x.3` coloca em negrito `ponto` e `obra de arte`. O Fill-In de cada aula tem a lacuna na palavra em negrito daquela aula.
+
+### Padrão das provas CANVAS_QUIZ
+
+Em provas semanais `.5` e provas bimestrais `10.md`, `20.md`, `30.md` e `40.md`, todo bloco `MULTIPLE_CHOICE` deve ter enunciado com `?`.
+
+As provas semanais `.5` devem usar o `Praticar` das aulas `x.1`, `x.2` e `x.3` como referência direta. Copie a lógica dos `[+FILL_IN]` progressivos e das perguntas `[+MULTIPLE]` específicas. Pergunte sobre o tema, as palavras-chave e os exemplos da semana. Não use perguntas estruturais como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" ou "O que a revisão da semana deve manter?".
+
+```text
+MULTIPLE_CHOICE 10
+
+Como a linha nasce no desenho?
+
+Quando um ponto caminha pelo papel. [=] true
+Quando a imagem some do papel. [=]
+Quando a folha fica vazia. [=]
+```
+
+### Padrão da revisão semanal
+
+As revisões semanais `.4` usam uma única definição curta da semana. No `## [QUIZ] Praticar`, use 1 `[+FILL_IN]` com a definição curta e 3 `[+MULTIPLE]`, uma por aula `x.1`, `x.2` e `x.3`.
+
+As perguntas devem ser copiadas ou derivadas diretamente do `Praticar` das três aulas. Pergunte sobre o tema, as palavras-chave e os exemplos estudados. Não use perguntas estruturais como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coração da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" ou "O que a revisão da semana deve manter?".
+
+### Padrão da revisão bimestral
+
+As revisões bimestrais `9.md`, `19.md`, `29.md` e `39.md` têm 8 blocos semanais. Cada bloco usa o nome da aula `.1`, o parágrafo `Nesta semana estudamos que **...**`, o heading `Atividade` e um `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@` e o mesmo nome da aula `.1`.
+
+O quiz final é `## [QUIZ] Questões` e contém exatamente 8 `[+FILL_IN]`, uma questão por semana, copiadas das revisões semanais `.4`.
 
 ### Comandos e skills disponíveis
 
@@ -240,6 +287,8 @@ npm run build:artifacts # Gera artefatos do framework
 - **Sincronização de títulos:** `trivium-method-editorial/scripts/sync/sync_titles.py` ao detectar divergências
 - **Legendas IMAGE_LABELED na revisão x.4:** cópia literal dos textos das aulas `x.1`, `x.2` e `x.3`
 - **Idioma:** todas as interações com agentes em português
+- **Conceituação ontológica:** toda definição responde "O que é?" com o verbo ser no presente. Proibido definir pela função.
+- **Webster 1828:** dicionário de referência obrigatório para todos os termos. Consultar antes de propor qualquer definição (webstersdictionary1828.com).
 - **Alinhamento documental:** ao alterar qualquer padrão operacional, atualizar `AGENTS.md`, `CLAUDE.md`, `CODEX.md`, `README.md`, `.claude/`, `.codex/` e `trivium-method-editorial/`
 
 ---

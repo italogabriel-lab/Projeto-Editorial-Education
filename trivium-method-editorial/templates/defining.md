@@ -7,6 +7,8 @@ Este é o **primeiro contato da criança com o tema da semana**. O tema é defin
 Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) é **idêntico** ao de `x.1`. Apenas o parágrafo livre logo abaixo e a explicação dentro do Accordion adaptam o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
 Esse parágrafo livre deve retomar palavras-chave do tema e da definição de `x.1`. A variação mostra exemplo novo, mas mantém o vocabulário central visível para a criança.
 
+Em Belas Artes, o Definir deve conectar o tema à observação visual da arte. Use vocabulário de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
+
 ## Estrutura obrigatória
 
 ```markdown
@@ -56,6 +58,8 @@ O que é [TERMO]?
 - A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, Accordion, Statement_D do Recordar e Fill_In do Praticar).
 - Em `x.2` e `x.3`, **somente** o parágrafo livre logo após a definição (e a explicação no Accordion) muda, refletindo o desdobramento daquela aula.
 - Em `x.2` e `x.3`, o parágrafo livre e a explicação do Accordion devem usar palavras-chave do tema central de `x.1`.
+- O parágrafo livre deve manter a perspectiva de Belas Artes e conectar o tema à observação visual da arte.
+- No 1º ano, a frase deve introduzir linguagem visual e elementos da arte de modo simples e observável.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
 - No Accordion, o MP3 deve narrar a definição curta e a explicação completa.

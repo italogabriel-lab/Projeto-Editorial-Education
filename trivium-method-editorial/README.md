@@ -89,11 +89,35 @@ No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@lin
 
 O bloco `[MP3/]...[MP3\]` narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
 
+## Perspectiva de Belas Artes e Artes Visuais
+
+Toda aula de Belas Artes deve tratar o tema pela observação dos elementos visuais da arte. Natureza, casa, igreja, objetos, histórias bíblicas e vida cotidiana podem entrar como exemplos, mas devem servir à leitura de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte e beleza visual.
+
+No 1º ano, o foco é introduzir a linguagem visual e os elementos da arte. Cada aula deve mostrar como a criança observa um elemento visual em imagens, desenhos, obras ou composições artísticas.
+
 ## Padrão Atual da Progressão por Palavras-Chave
 
 O tema e a definição curta de `x.1` geram as **palavras-chave estruturantes** da semana. As aulas `x.2` e `x.3` escolhem palavras desse eixo e as retomam no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
 
 Exemplo, se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente. `x.2` trabalha `ponto` e `começo`. `x.3` trabalha `ponto` e `arte`. A variação serve à repetição do vocabulário, sem criar tema paralelo.
+
+## Padrão Atual da Revisão Bimestral
+
+As revisões bimestrais `9.md`, `19.md`, `29.md` e `39.md` usam 8 blocos semanais. Cada bloco começa com `# [nome da aula .1]`, traz o parágrafo `Nesta semana estudamos que **...**`, o heading `Atividade` e um `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@` e o mesmo nome da aula `.1`.
+
+O quiz final é `## [QUIZ] Questões` e contém exatamente 8 `[+FILL_IN]`, um por semana, copiados das revisões `.4`.
+
+## Padrão Atual das Revisões Semanais
+
+As revisões semanais `.4` usam uma única definição curta da semana. No `## [QUIZ] Praticar`, use 1 `[+FILL_IN]` com a definição curta e 3 `[+MULTIPLE]`, uma por aula `x.1`, `x.2` e `x.3`.
+
+As perguntas devem ser copiadas ou derivadas diretamente do `Praticar` das três aulas. Pergunte sobre o tema, as palavras-chave e os exemplos estudados. Não use perguntas estruturais como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coração da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" ou "O que a revisão da semana deve manter?".
+
+## Padrão Atual das Provas Semanais
+
+As provas semanais `.5` usam o `Praticar` das aulas `x.1`, `x.2` e `x.3` como referência direta. As questões retomam os `[+FILL_IN]` progressivos, as perguntas `[+MULTIPLE]` específicas, o tema, as palavras-chave e os exemplos da semana.
+
+Não usar perguntas estruturais ou metapedagógicas sobre resumo da semana, termo da semana, coração da semana, foco da aula, modo genérico de praticar ou função da revisão. A prova deve perguntar sobre o conteúdo estudado, não sobre a arquitetura editorial da semana.
 
 ## Alinhamento entre Camadas
 

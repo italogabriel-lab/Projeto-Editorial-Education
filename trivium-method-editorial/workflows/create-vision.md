@@ -68,6 +68,8 @@ Com os dados extraídos, gere um bloco completo seguindo **exatamente** o format
 2. **Visão teológica**
    - Trate o tema central da semana à luz da cosmovisão cristã reformada
    - Lembre que a semana é uma unidade: a aula `x.1` define o coração, `x.2` desenvolve o subtópico 1, `x.3` desenvolve o subtópico 2
+   - Mantenha a perspectiva de Belas Artes e artes visuais
+   - Use natureza, casa, igreja, objetos ou histórias bíblicas como exemplos apenas quando conduzirem à observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual
 
 3. **Objetivo geral do módulo**
    - 2–3 parágrafos descrevendo como a semana leva o aluno a reconhecer o tema central e percorrer os dois desdobramentos

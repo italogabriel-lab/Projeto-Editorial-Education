@@ -30,6 +30,13 @@
 - Em `x.2` e `x.3`, use essas palavras no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
 - Trate as variações como aplicações do eixo de `x.1`, não como temas paralelos.
 
+## Perspectiva de Belas Artes
+
+- Em toda etapa do pipeline, verificar se o tema foi traduzido para observação visual.
+- A aula deve nomear ou mostrar imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
+- Exemplos de natureza, objetos, igreja ou vida cotidiana devem apoiar a leitura visual, sem substituir o foco de Belas Artes.
+- No 1º ano, priorizar linguagem simples para introduzir os elementos da arte.
+
 ## Tema e termo únicos
 
 - Antes de criar ou revisar uma aula, consultar todo o Currículo Macro do ano.

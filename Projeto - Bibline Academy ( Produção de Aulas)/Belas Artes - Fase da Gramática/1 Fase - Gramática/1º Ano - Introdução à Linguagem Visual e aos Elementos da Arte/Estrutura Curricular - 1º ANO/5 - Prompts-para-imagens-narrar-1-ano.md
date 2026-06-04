@@ -504,19 +504,19 @@ Linguagem visual: combinação criativa, formas gerando imagem, nascimento de fi
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, marrom, azul céu, amarelo, bege.
+Paleta de cores: verde folha, marrom terra, azul céu, amarelo sol, bege claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras criadas por Deus na natureza.
-A forma natural aparece nas folhas, nos animais e em muitas partes da criação."
+"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+A forma natural aparece nas folhas e nos animais para ajudar o artista a criar imagens belas."
 
 Composição da cena
 
-A ilustração deve mostrar folhas, pedras e flores com formas bem definidas vindas da natureza.
-Elementos visuais: folha oval, pedra redonda, flor com pétalas, borboleta simples, luz suave de jardim.
+A ilustração deve mostrar uma criança observando folhas e animais, depois desenhando formas naturais em uma folha de papel.
+Elementos visuais: folha oval, asa de borboleta, passarinho simples, papel de desenho, lápis coloridos, formas naturais virando imagem.
 
-Linguagem visual: beleza natural, forma na criação, presença de Deus no mundo visível.
+Linguagem visual: observação artística, forma natural, imagem bela, desenho inspirado pela natureza.
 ```
 
 ### Aula 8.2 — As formas em bichos
@@ -526,41 +526,41 @@ Linguagem visual: beleza natural, forma na criação, presença de Deus no mundo
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja, preto, marrom, verde, azul.
+Paleta de cores: laranja suave, preto, marrom, verde, azul claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras criadas por Deus na natureza.
-A forma natural mostra figuras criadas por Deus nos animais e nas plantas."
+"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+A forma natural mostra figuras em animais e plantas que podem entrar no desenho."
 
 Composição da cena
 
-A ilustração deve mostrar animais simples cujas formas são claramente reconhecíveis (peixe, pássaro, gato).
-Elementos visuais: silhuetas de animais com cores sólidas, contornos grossos, expressões simples e amigáveis.
+A ilustração deve mostrar silhuetas simples de animais ao lado de um desenho infantil que usa essas figuras.
+Elementos visuais: peixe, pássaro e gato com contornos grossos, folha e planta simples, papel com desenho, lápis coloridos.
 
-Linguagem visual: biodiversidade criada, beleza animal, admiração pela criação.
+Linguagem visual: figuras de animais, contorno, desenho, forma natural entrando na imagem.
 ```
 
-### Aula 8.3 — As figuras inventadas
+### Aula 8.3 — As formas em figuras inventadas
 
 **Prompt:**
 
 ```
 Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
 Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: roxo, verde limão, rosa, azul, amarelo.
+Paleta de cores: roxo, verde limão, rosa, azul, amarelo claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras criadas por Deus na natureza.
-A forma natural inspira figuras inventadas que buscam beleza na natureza."
+"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+A forma natural inspira figuras inventadas para criar imagens na arte."
 
 Composição da cena
 
-A ilustração deve mostrar um ser imaginário criado a partir de formas naturais (asas de pássaro, corpo de peixe, cauda de flor).
-Elementos visuais: criatura inventada colorida, formas naturais combinadas de forma nova, fundo fantástico suave.
+A ilustração deve mostrar uma figura inventada criada com formas da natureza, como asa de pássaro, corpo de peixe e pétalas de flor.
+Elementos visuais: figura inventada colorida, formas naturais combinadas, papel de desenho, linhas simples, fundo claro de ateliê infantil.
 
-Linguagem visual: criatividade inspirada na natureza, invenção respeitosa, imaginação infantil.
+Linguagem visual: imagem artística, figura inventada, forma natural, composição simples e imaginação visual.
 ```
 
 ---

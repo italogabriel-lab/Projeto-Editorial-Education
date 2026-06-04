@@ -65,6 +65,8 @@ INSTRUCTION=[Instrução de atividade prática no imperativo. A atividade DEVE e
 - Proibido: "Qual é o significado de [TERMO]?" como pergunta fixa para todas as aulas — viola a diferenciação entre x.1, x.2 e x.3.
 - A Atividade Extra DEVE ter relação direta com o ângulo da aula dentro do tema da semana — não pode ser atividade genérica.
 - A Atividade Extra deve aplicar palavras-chave estruturantes do tema central.
+- A Atividade Extra deve transformar o tema em ação de artes visuais, como observar, desenhar, marcar, comparar, colorir, compor ou reconhecer elementos visuais.
+- Exemplos de natureza, objetos ou histórias devem levar a criança a perceber imagem, desenho, forma, linha, cor, textura, espaço, composição ou obra de arte.
 - Não usar `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado).
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo.

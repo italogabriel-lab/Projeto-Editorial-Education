@@ -41,6 +41,9 @@ Consulte TODOS estes arquivos antes de iniciar a revisão:
 
 A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido em `x.1`) e 1 termo principal compartilhado pelas 3 aulas. Todos os hábitos de cada aula devem reforçar esse tema por ângulos diferentes.
 
+- [ ] A aula mantém a perspectiva de Belas Artes e artes visuais
+- [ ] O tema aparece como observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual
+- [ ] Exemplos de natureza, objetos, igreja, casa ou histórias bíblicas servem à leitura visual e não viram tema paralelo
 - [ ] O TERMO da semana é o eixo de todos os hábitos da aula
 - [ ] As palavras-chave do tema e da definição de `x.1` aparecem no exemplo central da aula
 - [ ] **Perceber**: a imagem ilustra diretamente o tema sob o ângulo desta aula
@@ -154,10 +157,12 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Respostas na última linha, separadas por vírgula
 - [ ] `[+HEADING] Atividade 2 [-HEADING]` depois do Fill_In
 - [ ] `[+MULTIPLE]` presente entre Fill_In e Atividade Extra
-- [ ] `[+MULTIPLE]` pergunta o significado do termo
-- [ ] Resposta correta do `[+MULTIPLE]` é a definição curta completa e literal
+- [ ] `[+MULTIPLE]` pergunta sobre o tema, a palavra-chave ou o exemplo específico da aula
+- [ ] Resposta correta do `[+MULTIPLE]` retoma a frase-chave do parágrafo livre, não uma fórmula genérica
 - [ ] Se Matching presente: definição primeiro, termo depois do `[=]`
 - [ ] Em revisão `.4`, `[+TABLE]` e `[+MATCHING]` não repetem o termo no início da definição
+- [ ] Em revisão `.4`, o `## [QUIZ] Praticar` usa 1 `[+FILL_IN]` e 3 `[+MULTIPLE]`, copiadas ou derivadas do `Praticar` de `x.1`, `x.2` e `x.3`
+- [ ] Em revisão `.4`, rejeitar perguntas como "Qual frase resume a semana?", "Qual aula apresentou o coração da semana?" e "Como podemos praticar o tema da semana?"
 - [ ] Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção."
 - [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
 - [ ] **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
