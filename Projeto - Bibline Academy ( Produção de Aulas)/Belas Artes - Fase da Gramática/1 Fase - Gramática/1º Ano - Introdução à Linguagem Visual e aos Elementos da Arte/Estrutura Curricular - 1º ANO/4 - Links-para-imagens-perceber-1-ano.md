@@ -32,17 +32,12 @@
 - [Kids room decoration (Pixabay)](https://pixabay.com/images/search/kids%20room/)
 - [Family art wall (Unsplash)](https://unsplash.com/s/photos/family-art)
 
-### 2.2 — Arte nos livros
+### 2.2 — A arte nos livros e na igreja
 - [Children's book illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Children%27s_book_illustration)
-- [Picture book art (Pixabay)](https://pixabay.com/images/search/children%20book/)
-- [Coloring book pages (Unsplash)](https://unsplash.com/s/photos/coloring-book)
-
-### 2.3 — Arte na igreja
 - [Church stained glass simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Stained_glass)
-- [Simple church interior (Pixabay)](https://pixabay.com/images/search/church%20interior/)
-- [Cross and candles (Unsplash)](https://unsplash.com/s/photos/church-simple)
+- [Picture book art (Pixabay)](https://pixabay.com/images/search/children%20book/)
 
-### 2.4 — Arte em casa e na natureza
+### 2.3 — A arte em casa e na natureza
 - [Backyard nature art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Gardens)
 - [Kids in nature (Pixabay)](https://pixabay.com/images/search/kids%20nature/)
 - [Simple nature crafts (Unsplash)](https://unsplash.com/s/photos/nature-craft)
@@ -51,7 +46,7 @@
 
 ## Semana 3 — O ponto no desenho
 
-### 3.1 — Arte feita com pontos
+### 3.1 — O ponto no desenho
 - [Simple dot painting (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Paint_dots)
 - [Pointillism kids style (Pixabay)](https://pixabay.com/images/search/dot%20painting/)
 - [Colorful dots art (Unsplash)](https://unsplash.com/s/photos/colorful-dots)
@@ -61,7 +56,7 @@
 - [Starting a drawing (Pixabay)](https://pixabay.com/images/search/starting%20drawing/)
 - [First mark art (Unsplash)](https://unsplash.com/s/photos/first-mark)
 
-### 3.3 — O ponto no desenho
+### 3.3 — O ponto como padrão
 - [Children's dot art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Children%27s_art)
 - [Simple point drawing (Pixabay)](https://pixabay.com/images/search/simple%20drawing/)
 - [Dot grid art (Unsplash)](https://unsplash.com/s/photos/dot-grid)
@@ -70,7 +65,7 @@
 
 ## Semana 4 — A arte feita com pontos
 
-### 4.1 — O ponto como padrão
+### 4.1 — A arte feita com pontos
 - [Grid of dots (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Grids)
 - [Dot pattern simple (Pixabay)](https://pixabay.com/images/search/dot%20pattern/)
 - [Geometric dots (Unsplash)](https://unsplash.com/s/photos/geometric-dots)
@@ -80,7 +75,7 @@
 - [Kids point art (Pixabay)](https://pixabay.com/images/search/kids%20point/)
 - [Color point painting (Unsplash)](https://unsplash.com/s/photos/color-point)
 
-### 4.3 — Os pontos nas cores
+### 4.3 — Os pontos e a beleza
 - [Color mixing with dots (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Color_mixing)
 - [Paint dots blending (Pixabay)](https://pixabay.com/images/search/paint%20dots/)
 - [Colorful dot art (Unsplash)](https://unsplash.com/s/photos/colorful-dot-art)
@@ -94,12 +89,12 @@
 - [Continuous line art (Pixabay)](https://pixabay.com/images/search/line%20drawing/)
 - [Ink line drawing (Unsplash)](https://unsplash.com/s/photos/ink-line)
 
-### 5.2 — As linhas retas
+### 5.2 — As linhas retas e curvas
 - [Straight line art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Geometric_lines)
 - [Simple straight lines (Pixabay)](https://pixabay.com/images/search/straight%20lines/)
 - [Linear pattern (Unsplash)](https://unsplash.com/s/photos/linear-pattern)
 
-### 5.3 — As linhas curvas
+### 5.3 — As linhas de barbante
 - [Curved line art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Curves)
 - [Wavy lines drawing (Pixabay)](https://pixabay.com/images/search/curved%20lines/)
 - [Swirl pattern (Unsplash)](https://unsplash.com/s/photos/swirl-pattern)
@@ -108,12 +103,12 @@
 
 ## Semana 6 — A linha como caminho
 
-### 6.1 — A linha como padrão
+### 6.1 — A linha como caminho
 - [Pattern lines simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Patterns)
 - [Repeat line pattern (Pixabay)](https://pixabay.com/images/search/pattern%20lines/)
 - [Decorative border (Unsplash)](https://unsplash.com/s/photos/decorative-border)
 
-### 6.2 — A linha como caminho
+### 6.2 — A linha que acompanha o som
 - [Path in garden (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Garden_paths)
 - [Walking trail simple (Pixabay)](https://pixabay.com/images/search/walking%20path/)
 - [Nature trail (Unsplash)](https://unsplash.com/s/photos/nature-trail)

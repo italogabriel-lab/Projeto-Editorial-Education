@@ -18,7 +18,7 @@ Paleta de cores: azul claro, verde grama, amarelo sol, vermelho corajoso, marrom
 
 Cena inspirada no trecho
 
-"A arte expressa a beleza criada por Deus com habilidade humana.
+"Arte é a expressão da beleza criada por Deus com habilidade humana.
 O ser humano faz arte quando usa suas mãos para expressar a beleza da criação e tudo feito com habilidade dada por Deus."
 
 Composição da cena
@@ -40,7 +40,7 @@ Paleta de cores: azul céu, verde floresta, amarelo sol, rosa flor, branco nuvem
 
 Cena inspirada no trecho
 
-"Arte expressa a beleza criada por Deus com habilidade humana.
+"Arte é a expressão da beleza criada por Deus com habilidade humana.
 Com a arte, você aprende a mostrar a beleza com cuidado."
 
 Composição da cena
@@ -51,7 +51,7 @@ Elementos visuais: criança de pé, flores coloridas, sol sorridente, pássaros 
 Linguagem visual: admiração, beleza da natureza, observação atenta.
 ```
 
-### Aula 1.3 — A arte e a habilidade humana
+### Aula 1.3 — A arte e a habilidade
 
 **Prompt:**
 
@@ -62,7 +62,7 @@ Paleta de cores: laranja, roxo, verde, azul, amarelo.
 
 Cena inspirada no trecho
 
-"Arte expressa a beleza criada por Deus com habilidade humana.
+"Arte é a expressão da beleza criada por Deus com habilidade humana.
 Ela ajuda você a escolher linhas, formas e cores com atenção."
 
 Composição da cena
@@ -88,7 +88,7 @@ Paleta de cores: azul, verde, marrom, amarelo, rosa.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"A arte é a beleza criada por Deus nos lugares da vida.
 O ser humano reconhece arte quando vê beleza em casa, na igreja e na natureza com habilidade dada por Deus."
 
 Composição da cena
@@ -110,7 +110,7 @@ Paleta de cores: azul, dourado, branco, verde, vermelho.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"A arte é a beleza criada por Deus nos lugares da vida.
 Você reconhece arte em livros ilustrados e em vitrais da igreja com habilidade dada por Deus."
 
 Composição da cena
@@ -132,7 +132,7 @@ Paleta de cores: marrom, verde, azul, amarelo, rosa.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"A arte é a beleza criada por Deus nos lugares da vida.
 Você cria arte em casa com desenhos e na natureza com colagens usando habilidade dada por Deus."
 
 Composição da cena
@@ -147,7 +147,7 @@ Linguagem visual: criatividade doméstica, arte natural, habilidade prática.
 
 ## Semana 3
 
-### Aula 3.1 — A arte feita com pontos
+### Aula 3.1 — O ponto no desenho
 
 **Prompt:**
 
@@ -158,7 +158,7 @@ Paleta de cores: vermelho, azul, amarelo, verde, rosa.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"O ponto é o menor sinal que dá início a uma obra de arte.
 O ponto é o começo de toda imagem, colocado com cuidado e intenção."
 
 Composição da cena
@@ -180,7 +180,7 @@ Paleta de cores: azul celeste, branco, amarelo, verde.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"O ponto é o menor sinal que dá início a uma obra de arte.
 Cada ponto é uma decisão, um passo firme rumo à beleza."
 
 Composição da cena
@@ -191,7 +191,7 @@ Elementos visuais: folha em branco, único ponto colorido, mão com pincel.
 Linguagem visual: decisão criativa, começo simples, potencial infinito.
 ```
 
-### Aula 3.3 — O ponto no desenho
+### Aula 3.3 — O ponto como padrão
 
 **Prompt:**
 
@@ -202,7 +202,7 @@ Paleta de cores: coloridas, todas as cores em harmonia.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"O ponto é o menor sinal que dá início a uma obra de arte.
 Mil pontos se unem e a imagem nasce, como mil pensamentos se unem em um sorriso."
 
 Composição da cena
@@ -217,7 +217,7 @@ Linguagem visual: união criativa, imagem finalizada, alegria.
 
 ## Semana 4
 
-### Aula 4.1 — O ponto como padrão
+### Aula 4.1 — A arte feita com pontos
 
 **Prompt:**
 
@@ -228,7 +228,7 @@ Paleta de cores: cores repetidas em sequência (roxo, verde, laranja).
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
 O padrão repete a beleza, como as estrelas repetem seu brilho no céu."
 
 Composição da cena
@@ -250,7 +250,7 @@ Paleta de cores: variadas, cores que conversam entre si.
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
 Cada obra é uma oração em pontos, cada ponto um pensamento elevado."
 
 Composição da cena
@@ -261,7 +261,7 @@ Elementos visuais: várias telas com pontos, crianças observando, artesão trab
 Linguagem visual: variedade de estilos, trabalho artístico, inspiração.
 ```
 
-### Aula 4.3 — Os pontos nas cores
+### Aula 4.3 — Os pontos e a beleza
 
 **Prompt:**
 
@@ -272,7 +272,7 @@ Paleta de cores: tons que se misturam (azul-verde, amarelo-vermelho, rosa-roxa).
 
 Cena inspirada no trecho
 
-"A arte está nos lugares da vida como resposta à beleza criada por Deus.
+"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
 As cores dançam nos pontos, como flores dançam ao sabor do vento."
 
 Composição da cena
@@ -298,7 +298,7 @@ Paleta de cores: azul escuro para a linha, fundo branco ou bege claro, toque de 
 
 Cena inspirada no trecho
 
-"Linha guia o desenho e mostra caminho, forma e direção.
+"Linha é o sinal que nasce quando um ponto caminha pelo papel.
 A linha nasce quando um ponto caminha pelo papel."
 
 Composição da cena
@@ -320,7 +320,7 @@ Paleta de cores: linha reta em azul escuro, linha curva em vermelho, fundo claro
 
 Cena inspirada no trecho
 
-"Linha guia o desenho e mostra caminho, forma e direção.
+"Linha é o sinal que nasce quando um ponto caminha pelo papel.
 A linha traça um caminho diferente quando é reta ou quando é curva."
 
 Composição da cena
@@ -342,7 +342,7 @@ Paleta de cores: bege barbante, laranja, azul suave, verde musgo, branco.
 
 Cena inspirada no trecho
 
-"Linha guia o desenho e mostra caminho, forma e direção.
+"Linha é o sinal que nasce quando um ponto caminha pelo papel.
 A linha de barbante molda formas no papel com textura e presença."
 
 Composição da cena
@@ -368,7 +368,7 @@ Paleta de cores: verde musgo, azul suave, marrom claro, bege, branco.
 
 Cena inspirada no trecho
 
-"Caminho é linha que conduz o olhar por onde o desenho passa.
+"Linha é o caminho que conduz o olhar por onde o desenho passa.
 O caminho guia o olhar pelo papel e mostra o percurso do desenho."
 
 Composição da cena
@@ -390,7 +390,7 @@ Paleta de cores: roxo, azul, rosa, amarelo suave, branco.
 
 Cena inspirada no trecho
 
-"Caminho é linha que conduz o olhar por onde o desenho passa.
+"Linha é o caminho que conduz o olhar por onde o desenho passa.
 O caminho é uma linha que acompanha sons e ritmos e cria percursos no papel."
 
 Composição da cena
@@ -412,7 +412,7 @@ Paleta de cores: verde, marrom, azul claro, laranja, bege.
 
 Cena inspirada no trecho
 
-"Caminho é linha que conduz o olhar por onde o desenho passa.
+"Linha é o caminho que conduz o olhar por onde o desenho passa.
 O caminho mostra por onde o olhar passa e quais trilhas a linha deixa na imagem."
 
 Composição da cena
@@ -438,7 +438,7 @@ Paleta de cores: azul, vermelho, amarelo, verde, laranja.
 
 Cena inspirada no trecho
 
-"Forma organiza linhas fechadas para mostrar figuras no desenho.
+"Forma é o espaço fechado por linhas que mostra figuras no desenho.
 A forma nasce quando uma linha fecha um espaço no papel."
 
 Composição da cena
@@ -460,7 +460,7 @@ Paleta de cores: vermelho vivo, azul royal, amarelo ouro, branco, preto suave.
 
 Cena inspirada no trecho
 
-"Forma organiza linhas fechadas para mostrar figuras no desenho.
+"Forma é o espaço fechado por linhas que mostra figuras no desenho.
 A forma surge quando linhas se fecham para delimitar um espaço."
 
 Composição da cena
@@ -482,7 +482,7 @@ Paleta de cores: verde, azul, laranja, rosa, amarelo.
 
 Cena inspirada no trecho
 
-"Forma organiza linhas fechadas para mostrar figuras no desenho.
+"Forma é o espaço fechado por linhas que mostra figuras no desenho.
 A forma transforma linhas em figuras que aparecem no desenho."
 
 Composição da cena
@@ -508,7 +508,7 @@ Paleta de cores: verde folha, marrom terra, azul céu, amarelo sol, bege claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+"Forma natural é a figura criada por Deus na natureza que inspira a arte.
 A forma natural aparece nas folhas e nos animais para ajudar o artista a criar imagens belas."
 
 Composição da cena
@@ -530,7 +530,7 @@ Paleta de cores: laranja suave, preto, marrom, verde, azul claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+"Forma natural é a figura criada por Deus na natureza que inspira a arte.
 A forma natural mostra figuras em animais e plantas que podem entrar no desenho."
 
 Composição da cena
@@ -552,7 +552,7 @@ Paleta de cores: roxo, verde limão, rosa, azul, amarelo claro.
 
 Cena inspirada no trecho
 
-"Forma natural mostra figuras da natureza que inspiram imagens na arte.
+"Forma natural é a figura criada por Deus na natureza que inspira a arte.
 A forma natural inspira figuras inventadas para criar imagens na arte."
 
 Composição da cena
