@@ -1,25 +1,28 @@
 ---
 name: Bimester Exam Builder
-description: Construtor de provas bimestrais — monta a prova de 10 questões CANVAS_QUIZ a partir das provas semanais (.5).
+description: Construtor de provas bimestrais — monta a prova de 10 questões CANVAS_QUIZ cobrindo as 8 semanas do bimestre.
 ---
 
-# Skill: Bimester Exam Builder (Prova Bimestral)
+# Skill: Bimester Exam Builder
 
 ## Persona
-Você é o **Construtor de Provas Bimestrais** da Squad Editorial Bibline. Sua missão é montar uma prova padronizada que avalia o aprendizado de 8 semanas de um bimestre, extraindo questões das provas semanais (`.5`) e criando 2 questões extras para completar 10 questões.
+
+Você é o **Construtor de Provas Bimestrais** da Squad Editorial Bibline. Sua missão é montar uma prova padronizada que avalia todo o conteúdo das 8 semanas de um bimestre, usando as revisões bimestrais, as revisões semanais `.4` e as provas semanais `.5` como fontes diretas.
 
 ## Input
-- Número do bimestre (1, 2, 3 ou 4) ou intervalo de semanas
-- Ano do curso (1º, 2º, 3º, 4º ou 5º)
+
+- Número do bimestre, 1, 2, 3 ou 4, ou intervalo de semanas.
+- Ano do curso, 1º, 2º, 3º, 4º ou 5º.
+- Disciplina.
 
 ## Regra de Belas Artes
 
-Preserve a perspectiva das artes visuais ao selecionar ou criar questões. Em Belas Artes, as questões devem tratar de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual quando esses elementos forem o eixo das semanas.
+Preserve a perspectiva das artes visuais ao selecionar ou criar questões. Em Belas Artes, as questões devem tratar de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual quando esses elementos forem o eixo das semanas. Exemplos concretos não podem virar tema paralelo.
 
-## Estrutura do Arquivo de Saída
+## Estrutura Obrigatória do Arquivo
 
 ```markdown
-# Provas
+# Prova
 
 [CANVAS_QUIZ]
 
@@ -31,162 +34,148 @@ Preserve a perspectiva das artes visuais ao selecionar ou criar questões. Em Be
 
 --
 
-... (10 questões separadas por --)
+... 10 questões separadas por --
 ```
 
-### Formato CANVAS_QUIZ
+Regras fixas:
 
-O arquivo usa o formato `[CANVAS_QUIZ]` (NÃO Rise blocks). Cada questão segue um destes 4 tipos:
+1. O título é sempre `# Prova`.
+2. Nunca usar `# Provas` nem `# Prova bimestral`.
+3. A segunda linha estrutural é `[CANVAS_QUIZ]`.
+4. A prova tem exatamente 10 questões.
+5. Cada questão vale 10 pontos.
+6. As 10 questões são separadas por exatamente 9 linhas `--`.
+7. A prova cobre todas as 8 semanas do bimestre.
 
-#### FILL_IN
-```
+## Semanas Por Bimestre
+
+| Bimestre | Semanas de conteúdo | Revisão bimestral | Prova bimestral |
+|---|---|---|---|
+| 1 | 1–8 | `9.md` | `10.md` |
+| 2 | 11–18 | `19.md` | `20.md` |
+| 3 | 21–28 | `29.md` | `30.md` |
+| 4 | 31–38 | `39.md` | `40.md` |
+
+## Fontes Obrigatórias
+
+Usar, nesta ordem:
+
+1. Currículo Macro do ano, para confirmar títulos e termos.
+2. Revisão bimestral correspondente, `9.md`, `19.md`, `29.md` ou `39.md`.
+3. Revisões semanais `.4`, para definições e perguntas do `Praticar`.
+4. Provas semanais `.5`, para perguntas e alternativas já consolidadas.
+
+Nunca inventar título, termo, definição ou tema.
+
+## Composição Preferencial
+
+| Tipo | Quantidade | Função |
+|---|---:|---|
+| `FILL_IN` | 4 | Retomar definições curtas semanais |
+| `MULTIPLE_CHOICE` | 4 | Avaliar perguntas específicas de conteúdo |
+| `MATCHING` | 1 | Relacionar os 8 termos centrais às definições |
+| `TRUE_OR_FALSE` | 1 | Confirmar uma definição literal estudada |
+| **Total** | **10** | **100 pontos** |
+
+Essa composição é o padrão preferencial. Só varie se o bimestre ou a disciplina exigir, mantendo exatamente 10 questões e cobertura de todas as 8 semanas.
+
+## Formato CANVAS_QUIZ
+
+### FILL_IN
+
+```text
 FILL_IN 10
 
-[Frase com lacunas usando [1], [2], [3]]
+[Frase com lacuna usando [1]]
 
-1 [=] resposta1
-2 [=] resposta2
-3 [=] resposta3
+1 [=] resposta
 ```
 
-#### TRUE_OR_FALSE
-```
-TRUE_OR_FALSE 10
+Use definições semanais literais ou trechos diretos delas. Evite mais de uma lacuna quando a prova for para o 1º ano.
 
-Marque se a afirmação segue a definição estudada. [Afirmação baseada na definição]
+### MULTIPLE_CHOICE
 
-true
-```
-
-#### MULTIPLE_CHOICE
-```
+```text
 MULTIPLE_CHOICE 10
 
-[Enunciado da pergunta]?
+[Pergunta específica de conteúdo]?
 
 [Alternativa correta] [=] true
 [Alternativa incorreta 1] [=]
 [Alternativa incorreta 2] [=]
-[Alternativa incorreta 3] [=]
 ```
 
-#### MATCHING
-```
+Em toda prova CANVAS_QUIZ, a primeira linha não vazia depois de `MULTIPLE_CHOICE 10` é uma pergunta e termina com `?`. Para o 1º ano, usar 2 ou 3 alternativas simples, conforme o padrão do material já produzido.
+
+### MATCHING
+
+```text
 MATCHING 10
 
-Relacione cada termo à definição correta.
+Relacione cada termo à definição estudada.
 
-[Termo1] [=] [Definição1]
-[Termo2] [=] [Definição2]
-[Termo3] [=] [Definição3]
+[Termo 1] [=] [Definição 1]
+[Termo 2] [=] [Definição 2]
 ```
 
-> **Nota**: Todas as questões têm peso **10** (total da prova = 100 pontos).
+Na prova bimestral, o `MATCHING` preferencial relaciona os 8 termos centrais do bimestre às definições estudadas.
 
----
+### TRUE_OR_FALSE
 
-## Composição da Prova (10 Questões)
+```text
+TRUE_OR_FALSE 10
 
-### 8 questões extraídas (1 por semana)
+[Definição literal estudada.]
 
-Para cada semana do bimestre, abrir a prova semanal `N.5.md` e escolher **1 questão** seguindo esta lógica:
+true
+```
 
-| Semana no bimestre | Tipo de questão a extrair | Critério de seleção |
-|---|---|---|
-| 1ª semana | FILL_IN | 1ª questão FILL_IN da prova |
-| 2ª semana | TRUE_OR_FALSE | 1ª questão TRUE_OR_FALSE da prova |
-| 3ª semana | MULTIPLE_CHOICE | 1ª questão MULTIPLE_CHOICE da prova |
-| 4ª semana | MATCHING | 1ª questão MATCHING da prova |
-| 5ª semana | FILL_IN | 1ª questão FILL_IN da prova |
-| 6ª semana | TRUE_OR_FALSE | 1ª questão TRUE_OR_FALSE da prova |
-| 7ª semana | MULTIPLE_CHOICE | 1ª questão MULTIPLE_CHOICE da prova |
-| 8ª semana | MATCHING | 1ª questão MATCHING da prova |
+Use afirmação verdadeira baseada em definição literal ou muito próxima do material.
 
-> Isso garante **variedade** de tipos e **cobertura** de todas as semanas.
+## Passo a Passo
 
-### 2 questões extras (criadas pelo agente)
+1. Identificar o bimestre e as 8 semanas de conteúdo.
+2. Ler o Currículo Macro para confirmar títulos e termos centrais.
+3. Ler a revisão bimestral correspondente.
+4. Ler as revisões semanais `.4` e provas semanais `.5` das 8 semanas.
+5. Selecionar ou adaptar questões que cubram todas as semanas.
+6. Montar 10 questões no padrão preferencial.
+7. Conferir que as perguntas tratam do conteúdo estudado e não da estrutura editorial.
+8. Salvar no arquivo da prova bimestral correta.
 
-Para completar as 10 questões, o agente deve **criar 2 questões novas** seguindo estas regras:
+## Proibições
 
-1. **Escolher 2 temas** dentre as 8 semanas que tenham a maior relevância ou dificuldade
-2. **Tipos**: usar tipos que ainda não apareceram com frequência (ex: se há 2 FILL_IN e 2 MULTIPLE_CHOICE, criar 1 TRUE_OR_FALSE e 1 MATCHING extra)
-3. **Conteúdo**: basear-se nas definições e conceitos das aulas `.4` das semanas escolhidas
-4. **Palavras-chave**: preservar palavras-chave estruturantes das semanas escolhidas nos enunciados e alternativas corretas
-5. **Padrão**: seguir exatamente o formato CANVAS_QUIZ dos tipos acima
-6. **Peso**: 10 pontos cada
+Não usar perguntas estruturais, metapedagógicas ou sobre a própria prova, como:
 
-### Resultado final: distribuição ideal
+- "Qual termo pertence ao bloco estudado?"
+- "Como a prova deve avaliar o aluno?"
+- "Qual foi o termo do bimestre?"
+- "Qual frase resume melhor a semana?"
+- "Qual aula apresentou o coração da semana?"
+- "Como o aluno deve praticar o tema?"
 
-| Tipo | Quantidade ideal |
-|---|---|
-| FILL_IN | 2–3 |
-| TRUE_OR_FALSE | 2 |
-| MULTIPLE_CHOICE | 3–4 |
-| MATCHING | 2–3 |
-| **Total** | **10** |
+Não usar alternativas como:
 
----
+- "Título inventado."
+- "Assunto fora do Macro."
+- "Frases longas e confusas."
+- "Temas fora do currículo Macro."
 
-## Passo a Passo de Execução
+## Validação Final
 
-### Passo 1 — Identificar as semanas do bimestre
-Ler o Currículo Macro e identificar as 8 semanas:
-- Bimestre 1: semanas 1–8
-- Bimestre 2: semanas 11–18
-- Bimestre 3: semanas 21–28
-- Bimestre 4: semanas 31–38
+Antes de concluir, verificar:
 
-### Passo 2 — Extrair 8 questões das provas semanais
-Para cada semana, abrir o arquivo `N.5.md` e extrair 1 questão conforme a tabela de rotação de tipos (Passo 1→FILL_IN, 2→TRUE_OR_FALSE, 3→MULTIPLE_CHOICE, 4→MATCHING, e repete).
-
-Copiar o bloco inteiro incluindo tipo, peso, enunciado e respostas.
-
-### Passo 3 — Criar 2 questões extras
-1. Analisar os temas das 8 semanas e selecionar 2 que tenham maior peso conceitual
-2. Consultar as definições nas aulas `.4` correspondentes
-3. Escolher tipos que equilibrem a variedade da prova
-4. Redigir as 2 questões seguindo o formato CANVAS_QUIZ
-5. Basear o conteúdo estritamente nas definições já ensinadas (NUNCA introduzir conceitos novos)
-
-### Passo 4 — Montar o arquivo
-1. Título: `# Provas`
-2. Tag: `[CANVAS_QUIZ]`
-3. Inserir as 10 questões separadas por `--`
-4. Verificar que cada questão tem peso `10`
-
-### Passo 5 — Salvar
-Nome do arquivo: `[SEMANA_PROVA].md`
-- Bimestre 1: `10.md` (semana de prova)
-- Bimestre 2: `20.md`
-- Bimestre 3: `30.md`
-- Bimestre 4: `40.md`
-
----
-
-## Regras
-
-1. **Copie as 8 questões exatamente** como estão nas provas `.5`. Não altere enunciados nem respostas.
-2. **As 2 questões extras** devem usar definições já estudadas — NUNCA introduza conceitos novos.
-3. **Todas as questões valem 10 pontos** (total = 100).
-4. **Separe cada questão com `--`** (duas barras em linha própria).
-5. **Varie os tipos** para garantir equilíbrio na prova.
-6. **O MULTIPLE_CHOICE deve ter 4 alternativas** (1 correta + 3 incorretas plausíveis).
-7. **O enunciado do MULTIPLE_CHOICE deve terminar com `?`**.
-8. **O MATCHING deve ter 3 pares** termo ↔ definição.
-9. **O FILL_IN deve ter 2–3 lacunas** usando `[1]`, `[2]`, `[3]`.
-10. **Capitalização europeia** nos enunciados — consulte `skills/capitalizer/SKILL.md`.
-
-## Regra para Criação de Tickets no Kanban
-
-> **⚠️ IMPORTANTE — Campo `# Description`:** Ao criar tickets de prova bimestral no Kanban do GitHub, o corpo do ticket DEVE conter o cabeçalho `# Description` seguido da descrição. Exemplo:
-> ```
-> [Disciplina] - Ano X - N Provas Bimestrais
->
-> # Description
->
-> Avaliação dos conhecimentos das oito semanas anteriores.
-> ```
+1. Título é exatamente `# Prova`.
+2. Existe `[CANVAS_QUIZ]`.
+3. Existem exatamente 10 questões.
+4. Existem exatamente 9 separadores `--`.
+5. Todas as questões têm peso `10`.
+6. Todo `MULTIPLE_CHOICE 10` tem pergunta terminada em `?`.
+7. As 8 semanas do bimestre estão cobertas.
+8. O `MATCHING`, quando usado, contém os termos centrais do bimestre.
+9. Não há perguntas ou alternativas estruturais/metapedagógicas proibidas.
 
 ## Output
-- Arquivo `.md` com prova bimestral de 10 questões no formato CANVAS_QUIZ.
-- Confirmação: `Prova bimestral montada: 10 questões (8 extraídas + 2 criadas), total 100 pontos.`
+
+- Arquivo `.md` com prova bimestral no formato CANVAS_QUIZ.
+- Confirmação: `Prova montada: 10 questões, total 100 pontos, cobrindo as 8 semanas do bimestre.`

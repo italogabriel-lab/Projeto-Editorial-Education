@@ -115,6 +115,8 @@ Em provas semanais `.5` e provas bimestrais `10.md`, `20.md`, `30.md` e `40.md`,
 
 As provas semanais `.5` devem usar o `Praticar` das aulas `x.1`, `x.2` e `x.3` como referência direta. Copie a lógica dos `[+FILL_IN]` progressivos e das perguntas `[+MULTIPLE]` específicas. Pergunte sobre o tema, as palavras-chave e os exemplos da semana. Não use perguntas estruturais como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" ou "O que a revisão da semana deve manter?".
 
+As provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório `# Prova`, nunca `# Provas` nem `# Prova bimestral`. O arquivo usa `[CANVAS_QUIZ]` e tem exatamente 10 questões de 10 pontos, separadas por 9 linhas `--`. A prova cobre todo o conteúdo das 8 semanas do bimestre, usando a revisão bimestral, as revisões semanais `.4` e as provas semanais `.5` como fontes diretas. O padrão preferencial é 4 `FILL_IN`, 4 `MULTIPLE_CHOICE`, 1 `MATCHING` com os 8 termos centrais e 1 `TRUE_OR_FALSE`. Não use perguntas estruturais como "Qual termo pertence ao bloco estudado?", "Como a prova deve avaliar o aluno?", "Título inventado" ou "Assunto fora do Macro".
+
 ```text
 MULTIPLE_CHOICE 10
 

@@ -8,7 +8,7 @@ PROJECT_ID = "PVT_kwDODLv1ac4BH1XW"
 STATUS_FIELD_ID = "PVTSSF_lADODLv1ac4BH1XWzg4eN1w"
 BACKLOG_OPTION_ID = "f75ad846"
 ASSIGNEE = "Italo-bibline"
-REPO = "bibline/curriculum"
+REPO = "bibline/curriculum"d
 
 env_token = ""
 env_path = "/home/italo.gabriel/Documents/Developer/Projeto-Editorial-Education/Projeto Bibline Academy/.env"

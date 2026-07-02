@@ -8,6 +8,8 @@ Regra editorial obrigatória: toda aula de Belas Artes deve manter a perspectiva
 
 No 1º ano, cada aula introduz a linguagem visual e os elementos da arte para a criança observar esses elementos em imagens, desenhos, obras ou composições artísticas.
 
+Provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório `# Prova`, formato `[CANVAS_QUIZ]`, exatamente 10 questões de 10 pontos e cobertura das 8 semanas do bimestre. Nunca usar `# Provas`, `# Prova bimestral` ou perguntas estruturais/metapedagógicas.
+
 **Conceituação clássica obrigatória**: toda definição deve responder "O que é?" com o verbo ser no presente. Proibido definir pela função.
 
 **Webster 1828 obrigatório**: consultar webstersdictionary1828.com antes de propor qualquer definição.

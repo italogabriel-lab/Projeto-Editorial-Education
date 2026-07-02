@@ -24,6 +24,7 @@ Use esta skill antes de concluir uma aula, revisão, prova ou publicação.
 10. Em revisões bimestrais `9.md`, `19.md`, `29.md` e `39.md`, validar 8 blocos semanais com nome da aula `.1`, `IMAGE_TEXT_ON` e exatamente 8 `[+FILL_IN]` no quiz final.
 11. Em provas CANVAS_QUIZ, validar que todo enunciado de `MULTIPLE_CHOICE` termina com `?`.
 12. Em provas semanais `.5`, validar que as questões usam o `Praticar` das aulas `x.1`, `x.2` e `x.3` como referência. Rejeitar perguntas sobre resumo da semana, termo da semana, coração da semana, foco da aula, modo genérico de praticar ou função da revisão.
+13. Em provas bimestrais `10.md`, `20.md`, `30.md` e `40.md`, validar título `# Prova`, tag `[CANVAS_QUIZ]`, exatamente 10 questões de 10 pontos, 9 separadores `--`, cobertura das 8 semanas do bimestre e ausência de perguntas estruturais/metapedagógicas.
 12. Verificar aderência ao golden template.
 13. Identificar erros bloqueantes antes da publicação.
 

@@ -48,12 +48,12 @@ PERCEBER_FRASES = {
     "16.3": "Observe a textura feita com materiais naturais e veja as marcas únicas que eles deixam no papel.",
     # ── Semana 17 ──
     "17.1": "Observe como o espaço organiza o papel em fundo, borda e centro para que cada parte tenha lugar.",
-    "17.2": "Observe como o fundo preenche a área atrás das figuras principais no papel.",
-    "17.3": "Observe como o espaço organiza o grande e o pequeno para criar equilíbrio na imagem.",
+    "17.2": "Observe como o fundo aparece atrás das figuras e a borda aparece ao redor do papel.",
+    "17.3": "Observe como o centro ajuda a colocar o elemento principal no meio do papel.",
     # ── Semana 18 ──
-    "18.1": "Observe como o respiro equilibra o cheio e o vazio para que a imagem tenha ordem e clareza.",
-    "18.2": "Observe como o respiro deixa partes livres ao redor dos elementos para equilibrar o espaço.",
-    "18.3": "Observe como o respiro organiza formas e espaços na imagem da cidade no papel.",
+    "18.1": "Observe como o tamanho mostra formas grandes e pequenas dentro da obra de arte.",
+    "18.2": "Observe como formas grandes e pequenas aparecem juntas na mesma obra.",
+    "18.3": "Observe como uma forma maior pode chamar atenção dentro da obra de arte.",
     # ── Semana 21 ──
     "21.1": "Observe como a direção guia o olhar e mostra para onde a história da imagem se move.",
     "21.2": "Observe como setas e linhas guiam o olhar e mostram para onde olhar primeiro na imagem.",
@@ -87,37 +87,37 @@ PERCEBER_FRASES = {
     "28.2": "Observe a imagem da arca e dos animais de Noé e veja os detalhes visuais que a história revela.",
     "28.3": "Observe como o jardim da criação se transforma em imagem para lembrar fatos importantes.",
     # ── Semana 31 ──
-    "31.1": "Observe como a esperança olha para a beleza prometida por Deus e inspira a arte com alegria.",
-    "31.2": "Observe a imagem dos anjos e do céu e veja como a esperança a transforma em arte.",
-    "31.3": "Observe a visão do céu e veja como a esperança contempla a promessa de Deus com alegria.",
+    "31.1": 'Observe como a composição organiza linhas, formas e cores na arte.',
+    "31.2": 'Observe como o equilíbrio distribui os elementos visuais na imagem.',
+    "31.3": 'Observe como a ordem coloca cada parte no lugar certo da página.',
     # ── Semana 32 ──
-    "32.1": "Observe como a criação mostra Deus formando luz, céus e águas com poder e ordem.",
-    "32.2": "Observe a luz e as trevas e veja como a criação começa com a separação do primeiro dia.",
-    "32.3": "Observe os céus e as águas e veja como Deus os reuniu em mares e rios com poder e ordem.",
+    "32.1": 'Observe luz, céus e águas como formas visuais da criação.',
+    "32.2": 'Observe como a luz nasce e separa a claridade das trevas.',
+    "32.3": 'Observe o brilho do céu nas cores claras e luminosas.',
     # ── Semana 33 ──
-    "33.1": "Observe como a vida criada mostra terra, luminares e seres vivos em harmonia na criação de Deus.",
-    "33.2": "Observe a terra, o sol, a lua e as estrelas e veja como Deus os formou na criação.",
-    "33.3": "Observe os peixes e as aves e veja como Deus os chamou à existência na criação.",
+    "33.1": 'Observe terra, céu e seres vivos em uma cena ordenada.',
+    "33.2": 'Observe como terra e céu formam o lugar dos seres vivos.',
+    "33.3": 'Observe o movimento dos peixes, aves e animais desenhados.',
     # ── Semana 34 ──
-    "34.1": "Observe como o descanso lembra que Deus completou sua obra com perfeição e alegria.",
-    "34.2": "Observe os animais e o ser humano e veja como Deus os criou para completar a criação.",
-    "34.3": "Observe o painel completo da criação e veja como o descanso lembra a perfeição da obra de Deus.",
+    "34.1": 'Observe animais, homem e criação como obra completa de Deus.',
+    "34.2": 'Observe o homem diante da obra criada com cuidado e gratidão.',
+    "34.3": 'Observe a paz em uma imagem da obra completa de Deus.',
     # ── Semana 35 ──
-    "35.1": "Observe como a arte e a música expressam beleza com som, cor e movimento de forma integrada.",
-    "35.2": "Observe como a cor retrata o que a música provoca no ouvinte e transforma som em imagem.",
-    "35.3": "Observe como o pincel dança ao ritmo do som e expressa beleza com movimento na arte.",
+    "35.1": 'Observe como som, cor e movimento aparecem juntos na arte.',
+    "35.2": 'Observe como o som inspira escolhas de cor e traço.',
+    "35.3": 'Observe como a música vira imagem com formas e cores.',
     # ── Semana 36 ──
-    "36.1": "Observe como a imagem musical mostra o que o som faz nascer na imaginação de quem ouve.",
-    "36.2": "Observe como os olhos escutam o som e transformam a melodia em forma e cor no papel.",
-    "36.3": "Observe como a música favorita se transforma em obra visual pela imaginação e pelo traço.",
+    "36.1": 'Observe cores e formas que a música desperta na imaginação.',
+    "36.2": 'Observe o som transformado em traços e cores no papel.',
+    "36.3": 'Observe o movimento da mão acompanhando a música no papel.',
     # ── Semana 37 ──
-    "37.1": "Observe as obras que encantam e veja como o olhar percebe beleza com atenção e cuidado.",
-    "37.2": "Observe os girassóis de Van Gogh e veja como as cores vivas e o movimento encantam o olhar.",
-    "37.3": "Observe as obras de Paul Klee e veja como formas e cores alegres encantam o olhar.",
+    "37.1": 'Observe como uma obra de arte encanta o olhar com beleza.',
+    "37.2": 'Observe como a forma aparece em linhas e cores belas.',
+    "37.3": 'Observe como a beleza da obra prende o olhar com atenção.',
     # ── Semana 38 ──
-    "38.1": "Observe a obra com atenção e veja os detalhes que passariam despercebidos sem cuidado.",
-    "38.2": "Observe os detalhes do quadro como cores, texturas e formas que a observação atenta revela.",
-    "38.3": "Observe a obra que tocou o coração e veja como a observação atenta responde com gratidão.",
+    "38.1": 'Observe detalhes da obra com atenção e gratidão.',
+    "38.2": 'Observe como o olhar atento encontra detalhes pequenos no quadro.',
+    "38.3": 'Observe a beleza visível em cores, formas e detalhes.',
 }
 
 # ─── FRASES DO PERCEBER PARA AS REVISÕES .4 ─────────────────────────────────
@@ -129,7 +129,7 @@ PERCEBER_REVISOES = {
     "15.4": "Observe as imagens da semana e veja como a textura mostra diferentes superfícies na arte.",
     "16.4": "Observe as imagens da semana e veja como a textura expressiva comunica sentimento na arte.",
     "17.4": "Observe as imagens da semana e veja como o espaço organiza fundo, borda e centro no papel.",
-    "18.4": "Observe as imagens da semana e veja como o respiro equilibra o cheio e o vazio na imagem.",
+    "18.4": "Observe as imagens da semana e veja como o tamanho mostra formas grandes, pequenas e formas que chamam atenção.",
     "21.4": "Observe as imagens da semana e veja como a direção guia o olhar nas imagens.",
     "22.4": "Observe as imagens da semana e veja como o equilíbrio organiza cada obra com firmeza.",
     "23.4": "Observe as imagens da semana e veja como a composição une os elementos com ordem e beleza.",
@@ -138,14 +138,14 @@ PERCEBER_REVISOES = {
     "26.4": "Observe as imagens da semana e veja como o mundo desenhado mostra lugares com beleza e cuidado.",
     "27.4": "Observe as imagens da semana e veja como o lugar desenhado revela espaços com formas e cores.",
     "28.4": "Observe as imagens da semana e veja como a história inspira imagens com beleza e detalhes.",
-    "31.4": "Observe as imagens da semana e veja como a esperança inspira a arte com alegria e reverência.",
-    "32.4": "Observe as imagens da semana e veja como a criação revela poder e ordem em cada elemento.",
-    "33.4": "Observe as imagens da semana e veja como a vida criada mostra harmonia em cada ser.",
-    "34.4": "Observe as imagens da semana e veja como o descanso lembra a perfeição da obra de Deus.",
-    "35.4": "Observe as imagens da semana e veja como a arte e a música expressam beleza com som e cor.",
-    "36.4": "Observe as imagens da semana e veja como a imagem musical nasce do som e da imaginação.",
-    "37.4": "Observe as imagens da semana e veja como o encanto ajuda o olhar a perceber beleza nas obras.",
-    "38.4": "Observe as imagens da semana e veja como a observação atenta revela detalhes e beleza.",
+    "31.4": 'Observe as imagens da semana e veja como a composição organiza equilíbrio e ordem na arte.',
+    "32.4": 'Observe as imagens da semana e veja como a criação mostra luz e brilho no céu.',
+    "33.4": 'Observe as imagens da semana e veja como a vida criada une terra, céu e movimento.',
+    "34.4": 'Observe as imagens da semana e veja como o descanso mostra obra completa e paz.',
+    "35.4": 'Observe as imagens da semana e veja como arte e música unem som, cor e imagem.',
+    "36.4": 'Observe as imagens da semana e veja como a imagem musical transforma som em movimento.',
+    "37.4": 'Observe as imagens da semana e veja como o encanto aparece em forma, cor e obra.',
+    "38.4": 'Observe as imagens da semana e veja como a observação encontra beleza nos detalhes.',
 }
 
 # ─── TERMOS COM CAPITALIZAÇÃO INCORRETA ──────────────────────────────────────
@@ -174,8 +174,8 @@ CAPITALIZACOES = [
     ("O **Espaço**",                "O **espaço**"),
     ("O Espaço",                    "O espaço"),
     # Semana 18
-    ("O **Respiro**",               "O **respiro**"),
-    ("O Respiro",                   "O respiro"),
+    ("O **Tamanho**",               "O **tamanho**"),
+    ("O Tamanho",                   "O tamanho"),
     # Semana 21
     ("A **Direção**",               "A **direção**"),
     ("A Direção",                   "A direção"),

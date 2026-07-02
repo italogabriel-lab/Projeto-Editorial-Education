@@ -124,7 +124,7 @@ Cada semana de conteudo segue um padrao fixo de 5 arquivos:
 | :--- | :--- | :--- |
 | 1-8 (ou 11-18, 21-28, 31-38) | Conteudo | 8 semanas com 5 arquivos cada |
 | 9 (ou 19, 29, 39) | Revisao Bimestral | Compilacao das 8 revisoes semanais (.4) |
-| 10 (ou 20, 30, 40) | Prova Bimestral | CANVAS_QUIZ de 10 questoes (8 das .5 + 2 autorais) |
+| 10 (ou 20, 30, 40) | Prova Bimestral | `# Prova` com CANVAS_QUIZ de 10 questoes cobrindo as 8 semanas do bimestre |
 
 ### Ciclo Completo por Semana
 

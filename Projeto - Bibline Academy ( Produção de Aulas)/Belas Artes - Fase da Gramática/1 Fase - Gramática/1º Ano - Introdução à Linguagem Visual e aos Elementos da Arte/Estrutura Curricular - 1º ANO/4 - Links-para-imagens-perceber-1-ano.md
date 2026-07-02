@@ -8,17 +8,17 @@
 
 ## Semana 1 — A arte e a expressão
 
-### 1.1 — Criança expressando arte
+### 1.1 — A arte e a expressão
 - [Children's art drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Children%27s_drawings)
 - [Child painting with colors (Pixabay)](https://pixabay.com/images/search/child%20drawing/)
 - [Kids artwork display (Unsplash)](https://unsplash.com/s/photos/kids-art)
 
-### 1.2 — Beleza da criação de Deus
+### 1.2 — A arte e a beleza
 - [Nature beauty for kids (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Nature_photography)
 - [Creation garden (Pixabay)](https://pixabay.com/images/search/garden/)
 - [Flowers and trees (Unsplash)](https://unsplash.com/s/photos/flowers-trees)
 
-### 1.3 — Habilidade humana criando arte
+### 1.3 — A arte e a habilidade
 - [Child cutting shapes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Kindergarten_activities)
 - [Kids crafting at home (Pixabay)](https://pixabay.com/images/search/kids%20craft/)
 - [Children working with hands (Unsplash)](https://unsplash.com/s/photos/kids-craft)
@@ -27,7 +27,7 @@
 
 ## Semana 2 — A arte nos lugares da vida
 
-### 2.1 — Arte em casa
+### 2.1 — A arte nos lugares da vida
 - [Home art display (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Interior_design)
 - [Kids room decoration (Pixabay)](https://pixabay.com/images/search/kids%20room/)
 - [Family art wall (Unsplash)](https://unsplash.com/s/photos/family-art)
@@ -101,22 +101,22 @@
 
 ---
 
-## Semana 6 — A linha como caminho
+## Semana 6 — O contorno no desenho
 
-### 6.1 — A linha como caminho
-- [Pattern lines simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Patterns)
-- [Repeat line pattern (Pixabay)](https://pixabay.com/images/search/pattern%20lines/)
-- [Decorative border (Unsplash)](https://unsplash.com/s/photos/decorative-border)
+### 6.1 — O contorno no desenho
+- [Contour drawing simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Contour_drawings)
+- [Outline figure kids art (Pixabay)](https://pixabay.com/images/search/outline%20figure%20drawing/)
+- [Simple contour line art (Unsplash)](https://unsplash.com/s/photos/contour-line-art)
 
-### 6.2 — A linha que acompanha o som
-- [Path in garden (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Garden_paths)
-- [Walking trail simple (Pixabay)](https://pixabay.com/images/search/walking%20path/)
-- [Nature trail (Unsplash)](https://unsplash.com/s/photos/nature-trail)
+### 6.2 — O contorno e o limite
+- [Shape outline border (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Outline_shapes)
+- [Figure boundary art simple (Pixabay)](https://pixabay.com/images/search/shape%20outline%20simple/)
+- [Contour border drawing (Unsplash)](https://unsplash.com/s/photos/outline-border-drawing)
 
-### 6.3 — A linha que cria trilhas
-- [Trail marker signs (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Trail_markers)
-- [Pathway markers (Pixabay)](https://pixabay.com/images/search/pathway%20markers/)
-- [Simple trail signs (Unsplash)](https://unsplash.com/s/photos/trail-signs)
+### 6.3 — O contorno e a figura
+- [Silhouette figure simple art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Silhouettes)
+- [Figure contour outline kids (Pixabay)](https://pixabay.com/images/search/figure%20outline/)
+- [Simple figure contour drawing (Unsplash)](https://unsplash.com/s/photos/figure-outline-drawing)
 
 ---
 
@@ -184,53 +184,53 @@
 - [Emotional colors painting kids (Pixabay)](https://pixabay.com/images/search/colors%20emotions/)
 - [Colors and feelings art (Unsplash)](https://unsplash.com/s/photos/colors-emotions-art)
 
-### 12.2 — As cores que acalmam e agitam
+### 12.2 — Cores que acalmam e agitam
 - [Calm energetic colors (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Color_psychology)
 - [Calming vs active colors art (Pixabay)](https://pixabay.com/images/search/calm%20energetic%20colors/)
 - [Peaceful color palette art (Unsplash)](https://unsplash.com/s/photos/calm-colors-art)
 
-### 12.3 — As cores quentes e frias
+### 12.3 — Cores quentes e frias
 - [Warm cool colors comparison (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Color_temperature)
 - [Warm cold colors simple art (Pixabay)](https://pixabay.com/images/search/warm%20cool%20colors/)
 - [Color temperature art kids (Unsplash)](https://unsplash.com/s/photos/warm-cool-colors-art)
 
 ---
 
-## Semana 13 — A cor e a música
+## Semana 13 — As cores secundárias
 
-### 13.1 — A cor e a música
-- [Color and music synesthesia art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Synesthesia)
-- [Music colors abstract simple (Pixabay)](https://pixabay.com/images/search/music%20colors%20art/)
-- [Music color painting kids (Unsplash)](https://unsplash.com/s/photos/music-colors-art)
+### 13.1 — Cor secundária verde
+- [Green leaves art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Green_leaves)
+- [Green nature drawing (Pixabay)](https://pixabay.com/images/search/green%20leaves%20drawing/)
+- [Green in painting (Unsplash)](https://unsplash.com/s/photos/green-painting)
 
-### 13.2 — A cor que acompanha o som
-- [Sound waves colorful art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sound_waves)
-- [Sound color music visual (Pixabay)](https://pixabay.com/images/search/sound%20color%20music/)
-- [Colorful music notes art (Unsplash)](https://unsplash.com/s/photos/colorful-music-art)
+### 13.2 — Cor secundária laranja
+- [Orange flowers art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Orange_flowers)
+- [Orange fruit drawing (Pixabay)](https://pixabay.com/images/search/orange%20fruit%20drawing/)
+- [Orange in painting (Unsplash)](https://unsplash.com/s/photos/orange-painting)
 
-### 13.3 — A cor que expressa sentimento
-- [Expressive color painting art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Expressionist_painting)
-- [Feeling color expressive art (Pixabay)](https://pixabay.com/images/search/expressive%20color%20art/)
-- [Emotional painting colorful (Unsplash)](https://unsplash.com/s/photos/expressive-painting-color)
+### 13.3 — Cor secundária roxo
+- [Purple flowers art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Purple_flowers)
+- [Purple shadow drawing (Pixabay)](https://pixabay.com/images/search/purple%20flower%20drawing/)
+- [Purple in painting (Unsplash)](https://unsplash.com/s/photos/purple-painting)
 
 ---
 
-## Semana 14 — As cores do dia e da noite
+## Semana 14 — Luz e sombra
 
-### 14.1 — As cores do dia e da noite
-- [Day night colors sky (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sunrise_and_sunset)
-- [Day night sky colors simple (Pixabay)](https://pixabay.com/images/search/day%20night%20sky%20colors/)
-- [Day and night contrast art (Unsplash)](https://unsplash.com/s/photos/day-night-sky)
+### 14.1 — A sombra e a forma
+- [Object with shadow drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Shadows_in_art)
+- [Simple object shadow art (Pixabay)](https://pixabay.com/images/search/object%20shadow%20drawing/)
+- [Shadow shape silhouette art (Unsplash)](https://unsplash.com/s/photos/shadow-shape-drawing)
 
-### 14.2 — As cores da luz do sol
-- [Sunlight warm colors art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sunlight)
-- [Golden sunlight warm colors (Pixabay)](https://pixabay.com/images/search/sunlight%20golden%20colors/)
-- [Warm sunlight painting (Unsplash)](https://unsplash.com/s/photos/sunlight-warm-colors)
+### 14.2 — A sombra no objeto
+- [Object shading light side dark side (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Shading)
+- [Object shading drawing (Pixabay)](https://pixabay.com/images/search/object%20shading%20drawing/)
+- [Light and shadow on object art (Unsplash)](https://unsplash.com/s/photos/light-and-shadow-object)
 
-### 14.3 — As cores da noite
-- [Night sky blue purple dark (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Night_sky)
-- [Night dark blue purple art (Pixabay)](https://pixabay.com/images/search/night%20sky%20blue%20purple/)
-- [Night colors painting dark (Unsplash)](https://unsplash.com/s/photos/night-colors-dark)
+### 14.3 — A sombra no chão
+- [Cast shadow on ground drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Cast_shadows)
+- [Tree shadow on ground art (Pixabay)](https://pixabay.com/images/search/tree%20shadow%20ground/)
+- [Cast shadow landscape painting (Unsplash)](https://unsplash.com/s/photos/cast-shadow-landscape)
 
 ---
 
@@ -253,22 +253,22 @@
 
 ---
 
-## Semana 16 — A textura e o sentimento
+## Semana 16 — O padrão na arte
 
-### 16.1 — A textura e o sentimento
-- [Tactile emotional art texture (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Tactile_art)
-- [Texture feeling expressive art (Pixabay)](https://pixabay.com/images/search/texture%20expressive%20art/)
-- [Emotional texture painting (Unsplash)](https://unsplash.com/s/photos/emotional-texture-art)
+### 16.1 — O padrão na arte
+- [Repeating pattern art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Patterns_in_art)
+- [Ordered pattern art kids (Pixabay)](https://pixabay.com/images/search/repeating%20pattern%20art/)
+- [Pattern art illustration simple (Unsplash)](https://unsplash.com/s/photos/repeating-pattern-art)
 
-### 16.2 — A textura feita com massa
-- [Clay dough texture art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Clay_art)
-- [Clay dough kids texture art (Pixabay)](https://pixabay.com/images/search/clay%20dough%20texture/)
-- [Children clay texture art (Unsplash)](https://unsplash.com/s/photos/clay-kids-texture)
+### 16.2 — O padrão que se repete
+- [Repeat pattern design simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Patterns)
+- [Repeated pattern drawing kids (Pixabay)](https://pixabay.com/images/search/repeat%20pattern%20drawing/)
+- [Pattern repeat illustration kids (Unsplash)](https://unsplash.com/s/photos/pattern-repeat-drawing)
 
-### 16.3 — A textura feita com elementos naturais
-- [Natural materials art collage (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Nature_art)
-- [Nature materials texture collage (Pixabay)](https://pixabay.com/images/search/natural%20materials%20collage/)
-- [Nature craft texture art (Unsplash)](https://unsplash.com/s/photos/natural-materials-art)
+### 16.3 — O padrão em tecidos e azulejos
+- [Textile fabric pattern art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Textile_patterns)
+- [Tile azulejo pattern design (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Tile_patterns)
+- [Fabric tile pattern simple art (Pixabay)](https://pixabay.com/images/search/fabric%20tile%20pattern%20art/)
 
 ---
 
@@ -279,34 +279,34 @@
 - [Paper space art composition (Pixabay)](https://pixabay.com/images/search/art%20composition%20space/)
 - [Art composition drawing (Unsplash)](https://unsplash.com/s/photos/art-composition-space)
 
-### 17.2 — O fundo, a borda e o centro
-- [Art background border center (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Picture_composition)
-- [Foreground background art simple (Pixabay)](https://pixabay.com/images/search/art%20foreground%20background/)
-- [Art center border composition (Unsplash)](https://unsplash.com/s/photos/composition-center-border)
+### 17.2 — O fundo e a borda no papel
+- [Art background border composition (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Picture_composition)
+- [Art background border simple (Pixabay)](https://pixabay.com/images/search/art%20background%20border/)
+- [Paper border background composition (Unsplash)](https://unsplash.com/s/photos/paper-border-composition)
 
-### 17.3 — O grande e o pequeno
-- [Big small size comparison art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Scale_(art))
-- [Large small size art drawing (Pixabay)](https://pixabay.com/images/search/big%20small%20art%20drawing/)
-- [Size comparison art kids (Unsplash)](https://unsplash.com/s/photos/size-comparison-art)
+### 17.3 — O centro no papel
+- [Center composition art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Composition_(visual_arts))
+- [Center paper drawing composition (Pixabay)](https://pixabay.com/images/search/center%20composition%20drawing/)
+- [Centered composition art (Unsplash)](https://unsplash.com/s/photos/centered-composition-art)
 
 ---
 
-## Semana 18 — O espaço cheio e vazio
+## Semana 18 — O tamanho na arte
 
-### 18.1 — O espaço cheio e vazio
-- [Negative positive space art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Negative_space)
-- [Full empty space art simple (Pixabay)](https://pixabay.com/images/search/negative%20positive%20space/)
-- [Full empty space drawing (Unsplash)](https://unsplash.com/s/photos/negative-space-art)
+### 18.1 — O tamanho na arte
+- [Scale art composition (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Scale_(art))
+- [Big small art drawing (Pixabay)](https://pixabay.com/images/search/big%20small%20art%20drawing/)
+- [Scale composition art (Unsplash)](https://unsplash.com/s/photos/scale-composition-art)
 
-### 18.2 — O espaço com respiro
-- [Breathing space minimalist art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Minimalist_art)
-- [White space breathing simple art (Pixabay)](https://pixabay.com/images/search/white%20space%20minimalist/)
-- [Minimalist art breathing space (Unsplash)](https://unsplash.com/s/photos/minimalist-art-breathing)
+### 18.2 — O grande e o pequeno
+- [Scale art comparison (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Scale_(art))
+- [Large small art drawing (Pixabay)](https://pixabay.com/images/search/large%20small%20art%20drawing/)
+- [Big small size comparison art (Unsplash)](https://unsplash.com/s/photos/size-comparison-art)
 
-### 18.3 — O espaço da cidade no papel
-- [Simple city drawing kids (Wikimedia)](https://commons.wikimedia.org/wiki/Category:City_illustrations)
-- [City skyline drawing kids simple (Pixabay)](https://pixabay.com/images/search/city%20drawing%20kids/)
-- [Simple city skyline art (Unsplash)](https://unsplash.com/s/photos/city-skyline-drawing-simple)
+### 18.3 — O tamanho que chama atenção
+- [Emphasis art composition (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Composition_(visual_arts))
+- [Large object focus art (Pixabay)](https://pixabay.com/images/search/large%20object%20art/)
+- [Visual emphasis art composition (Unsplash)](https://unsplash.com/s/photos/visual-emphasis-art)
 
 ---
 
@@ -405,209 +405,190 @@
 
 ---
 
-## Semana 26 — O meu mundo em desenho
+## Semana 26 — A figura e o fundo
 
-### 26.1 — O meu mundo em desenho
-- [My world children drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Children%27s_drawings)
-- [Child world drawing my life (Pixabay)](https://pixabay.com/images/search/my%20world%20drawing%20kids/)
-- [Child world illustration art (Unsplash)](https://unsplash.com/s/photos/my-world-drawing-kids)
+### 26.1 — A figura e o fundo
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=figure+ground+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/figure%20ground%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/figure-ground-art)
 
-### 26.2 — A minha casa no desenho
-- [My house children drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:House_drawings)
-- [My home kids drawing simple (Pixabay)](https://pixabay.com/images/search/my%20house%20kids%20drawing/)
-- [Simple home illustration kids (Unsplash)](https://unsplash.com/s/photos/house-kids-drawing-simple)
+### 26.2 — A figura que aparece na frente
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=figure+foreground+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/figure%20foreground%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/figure-foreground-art)
 
-### 26.3 — O meu cantinho favorito
-- [Cozy corner favorite place art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Interior_illustrations)
-- [Cozy corner kids illustration (Pixabay)](https://pixabay.com/images/search/cozy%20corner%20kids%20art/)
-- [Favorite place cozy illustration (Unsplash)](https://unsplash.com/s/photos/cozy-favorite-place)
+### 26.3 — O fundo que fica atrás
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=background+behind+figure+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/background%20behind%20figure%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/background-behind-figure-art)
 
----
+## Semana 27 — A sobreposição na imagem
 
-## Semana 27 — Os lugares e histórias
+### 27.1 — A sobreposição na imagem
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=overlapping+shapes+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/overlapping%20shapes%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/overlapping-shapes-art)
 
-### 27.1 — Os lugares e histórias
-- [Places stories illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Place_illustrations)
-- [Story places kids art simple (Pixabay)](https://pixabay.com/images/search/places%20stories%20kids/)
-- [Storybook places illustration (Unsplash)](https://unsplash.com/s/photos/storybook-places-kids)
+### 27.2 — O objeto que cobre o outro
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=object+overlapping+another+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/object%20overlapping%20another%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/object-overlapping-another-art)
 
-### 27.2 — A igreja com torres
-- [Church with towers drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Church_architecture_illustrations)
-- [Church tower simple drawing kids (Pixabay)](https://pixabay.com/images/search/church%20tower%20drawing/)
-- [Simple church towers illustration (Unsplash)](https://unsplash.com/s/photos/church-tower-drawing)
+### 27.3 — A profundidade pela sobreposição
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=depth+overlapping+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/depth%20overlapping%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/depth-overlapping-art)
 
-### 27.3 — O parquinho colorido
-- [Colorful playground drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Playground_illustrations)
-- [Kids playground colorful art (Pixabay)](https://pixabay.com/images/search/colorful%20playground%20kids/)
-- [Playground colorful illustration (Unsplash)](https://unsplash.com/s/photos/colorful-playground-kids)
+## Semana 28 — Os planos da imagem
 
----
+### 28.1 — Os planos da imagem
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=foreground+background+planes+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/foreground%20background%20planes%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/foreground-background-planes-art)
 
-## Semana 28 — As histórias que inspiram a arte
+### 28.2 — O primeiro plano perto
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=foreground+near+object+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/foreground%20near%20object%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/foreground-near-object-art)
 
-### 28.1 — As histórias que inspiram a arte
-- [Story inspired art illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Book_illustration)
-- [Story art kids inspiration (Pixabay)](https://pixabay.com/images/search/story%20art%20kids/)
-- [Storybook art inspiration kids (Unsplash)](https://unsplash.com/s/photos/story-art-kids)
+### 28.3 — O fundo bem longe
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=background+far+landscape+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/background%20far%20landscape%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/background-far-landscape-art)
 
-### 28.2 — A arca com muitos animais
-- [Noah's ark illustration animals (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Noah%27s_Ark)
-- [Noah's ark animals kids art (Pixabay)](https://pixabay.com/images/search/noah%27s%20ark%20animals%20kids/)
-- [Ark animals illustration simple (Unsplash)](https://unsplash.com/s/photos/noahs-ark-kids)
 
-### 28.3 — O jardim da criação
-- [Garden creation beautiful art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Garden_of_Eden_in_art)
-- [Creation garden illustration kids (Pixabay)](https://pixabay.com/images/search/garden%20creation%20art/)
-- [Beautiful garden illustration kids (Unsplash)](https://unsplash.com/s/photos/garden-creation-art)
+## Semana 31 — O ritmo na arte
 
----
+### 31.1 — O ritmo na arte
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=rhythm+in+art+pattern&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/rhythm%20in%20art%20pattern/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/rhythm-in-art-pattern)
 
-## Semana 31 — O céu e a esperança
+### 31.2 — O ritmo que se repete
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=repetition+pattern+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/repetition%20pattern%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/repetition-pattern-art)
 
-### 31.1 — O céu e a esperança
-- [Blue sky hope beautiful art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sky_art)
-- [Sky hope illustration kids (Pixabay)](https://pixabay.com/images/search/sky%20hope%20art/)
-- [Sky hope beautiful clouds (Unsplash)](https://unsplash.com/s/photos/sky-hope-clouds)
+### 31.3 — O ritmo nas formas e cores
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=rhythm+shapes+colors+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/rhythm%20shapes%20colors%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/rhythm-shapes-colors-art)
 
-### 31.2 — Os anjos com tinta e papel
-- [Angel paper art drawing simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Angels_in_art)
-- [Angel paper drawing kids art (Pixabay)](https://pixabay.com/images/search/angel%20paper%20art%20kids/)
-- [Simple angel paper illustration (Unsplash)](https://unsplash.com/s/photos/angel-paper-art)
+## Semana 32 — O movimento na imagem
 
-### 31.3 — A visão do céu
-- [Heaven vision illustration art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Heaven_in_art)
-- [Heaven sky art kids simple (Pixabay)](https://pixabay.com/images/search/heaven%20sky%20art%20kids/)
-- [Heavenly sky illustration kids (Unsplash)](https://unsplash.com/s/photos/heaven-sky-illustration)
+### 32.1 — O movimento na imagem
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=movement+in+art+illustration&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/movement%20in%20art%20illustration/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/movement-in-art-illustration)
 
----
+### 32.2 — As linhas que correm
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=flowing+lines+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/flowing%20lines%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/flowing-lines-art)
 
-## Semana 32 — A criação da luz, dos céus e das águas
+### 32.3 — O movimento dos personagens
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=characters+in+motion+drawing&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/characters%20in%20motion%20drawing/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/characters-in-motion-drawing)
 
-### 32.1 — A criação da luz, dos céus e das águas
-- [Creation light sky water art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Genesis_in_art)
-- [Light sky water creation kids (Pixabay)](https://pixabay.com/images/search/creation%20light%20sky%20water/)
-- [Light sky water illustration (Unsplash)](https://unsplash.com/s/photos/creation-light-sky)
+## Semana 33 — O contraste na arte
 
-### 32.2 — A luz e as trevas
-- [Light and darkness contrast art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Light_and_shadow)
-- [Light darkness contrast simple art (Pixabay)](https://pixabay.com/images/search/light%20darkness%20art/)
-- [Light dark contrast artwork (Unsplash)](https://unsplash.com/s/photos/light-darkness-contrast)
+### 33.1 — O contraste na arte
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=contrast+in+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/contrast%20in%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/contrast-in-art)
 
-### 32.3 — Os céus e as águas
-- [Sky water simple painting (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sky_and_water_in_art)
-- [Sky water reflection painting (Pixabay)](https://pixabay.com/images/search/sky%20water%20painting/)
-- [Sky and water landscape art (Unsplash)](https://unsplash.com/s/photos/sky-water-painting)
+### 33.2 — O claro e o escuro
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=light+and+dark+contrast+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/light%20and%20dark%20contrast%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/light-and-dark-contrast-art)
 
----
+### 33.3 — As cores que se opõem
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=opposite+colors+contrast+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/opposite%20colors%20contrast%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/opposite-colors-contrast-art)
 
-## Semana 33 — A criação da terra, dos luminares e dos seres vivos
+## Semana 34 — A proporção na arte
 
-### 33.1 — A criação da terra, dos luminares e dos seres vivos
-- [Earth sun moon stars creation (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Creation_in_art)
-- [Earth luminaries living creation art (Pixabay)](https://pixabay.com/images/search/earth%20sun%20moon%20stars%20art/)
-- [Creation earth luminaries art (Unsplash)](https://unsplash.com/s/photos/creation-earth-stars)
+### 34.1 — A proporção na arte
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=proportion+in+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/proportion%20in%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/proportion-in-art)
 
-### 33.2 — A terra, o sol, a lua e as estrelas
-- [Earth sun moon stars simple (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Solar_system_illustrations)
-- [Sun moon stars simple drawing (Pixabay)](https://pixabay.com/images/search/sun%20moon%20stars%20kids/)
-- [Solar system simple kids art (Unsplash)](https://unsplash.com/s/photos/sun-moon-stars-kids)
+### 34.2 — O grande perto do pequeno
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=big+and+small+proportion+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/big%20and%20small%20proportion%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/big-and-small-proportion-art)
 
-### 33.3 — Os peixes e as aves
-- [Fish birds simple illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Fish_illustrations)
-- [Fish birds kids drawing simple (Pixabay)](https://pixabay.com/images/search/fish%20birds%20kids%20drawing/)
-- [Fish and birds illustration kids (Unsplash)](https://unsplash.com/s/photos/fish-birds-illustration)
+### 34.3 — A proporção do corpo e da casa
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=body+house+proportion+drawing&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/body%20house%20proportion%20drawing/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/body-house-proportion-drawing)
 
----
+## Semana 35 — A harmonia das cores
 
-## Semana 34 — A criação dos animais, do homem e do descanso
+### 35.1 — A harmonia das cores
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=color+harmony+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/color%20harmony%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/color-harmony-art)
 
-### 34.1 — A criação dos animais, do homem e do descanso
-- [Animals humans creation art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Creation_of_man_in_art)
-- [Creation animals humans simple art (Pixabay)](https://pixabay.com/images/search/creation%20animals%20humans/)
-- [Animals human creation kids (Unsplash)](https://unsplash.com/s/photos/creation-animals-humans)
+### 35.2 — As cores que combinam
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=matching+colors+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/matching%20colors%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/matching-colors-art)
 
-### 34.2 — Os animais e o ser humano
-- [Animals and human together art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Humans_and_animals_in_art)
-- [Child animals together drawing (Pixabay)](https://pixabay.com/images/search/child%20animals%20together/)
-- [Kids animals illustration simple (Unsplash)](https://unsplash.com/s/photos/child-animals-together)
+### 35.3 — A harmonia na paisagem
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=harmonious+landscape+painting&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/harmonious%20landscape%20painting/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/harmonious-landscape-painting)
 
-### 34.3 — O dia de Deus e o painel completo
-- [Rest day Sabbath creation art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sabbath_in_art)
-- [Day of rest complete creation art (Pixabay)](https://pixabay.com/images/search/sabbath%20rest%20art/)
-- [Rest day creation complete art (Unsplash)](https://unsplash.com/s/photos/rest-day-creation)
+## Semana 36 — O destaque na arte
 
----
+### 36.1 — O destaque na arte
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=emphasis+focal+point+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/emphasis%20focal%20point%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/emphasis-focal-point-art)
 
-## Semana 35 — A arte e a música
+### 36.2 — O ponto que chama o olhar
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=focal+point+eye+drawn+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/focal%20point%20eye%20drawn%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/focal-point-eye-drawn-art)
 
-### 35.1 — A arte e a música
-- [Art and music together illustration (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Music_in_art)
-- [Music art kids simple illustration (Pixabay)](https://pixabay.com/images/search/music%20art%20kids/)
-- [Art music expression illustration (Unsplash)](https://unsplash.com/s/photos/art-music-kids)
+### 36.3 — O destaque pela cor
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=color+emphasis+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/color%20emphasis%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/color-emphasis-art)
 
-### 35.2 — A música que cria cores
-- [Music creates colors synesthesia (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Color_music)
-- [Music colors abstract art kids (Pixabay)](https://pixabay.com/images/search/music%20creates%20colors/)
-- [Music color abstract art (Unsplash)](https://unsplash.com/s/photos/music-colors-abstract)
+## Semana 37 — A unidade na obra
 
-### 35.3 — O som que dança com o pincel
-- [Sound brush painting dance (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Music_visualization)
-- [Brush dancing sound painting art (Pixabay)](https://pixabay.com/images/search/brush%20dance%20painting/)
-- [Paintbrush dancing art sound (Unsplash)](https://unsplash.com/s/photos/brush-dance-painting)
+### 37.1 — A unidade na obra
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=unity+in+art+composition&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/unity%20in%20art%20composition/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/unity-in-art-composition)
 
----
+### 37.2 — As partes que formam o todo
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=parts+forming+whole+art&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/parts%20forming%20whole%20art/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/parts-forming-whole-art)
 
-## Semana 36 — A imagem que a música revela
+### 37.3 — A obra que parece inteira
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=unified+artwork+whole&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/unified%20artwork%20whole/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/unified-artwork-whole)
 
-### 36.1 — A imagem que a música revela
-- [Music inspired image visualization (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Music_visualization)
-- [Music reveals image art kids (Pixabay)](https://pixabay.com/images/search/music%20image%20art/)
-- [Music image revealed art (Unsplash)](https://unsplash.com/s/photos/music-image-art)
+## Semana 38 — A beleza na obra de arte
 
-### 36.2 — Os olhos que escutam
-- [Seeing listening music synesthesia (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Synesthesia_art)
-- [Eyes hearing music visual art (Pixabay)](https://pixabay.com/images/search/listening%20visual%20music/)
-- [Seeing sound art kids (Unsplash)](https://unsplash.com/s/photos/seeing-music-art)
+### 38.1 — A beleza na obra de arte
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=beauty+in+artwork&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/beauty%20in%20artwork/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/beauty-in-artwork)
 
-### 36.3 — A música favorita em imagem
-- [Favorite music in painting art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Music_in_art)
-- [Favorite song drawing kids art (Pixabay)](https://pixabay.com/images/search/favorite%20music%20art/)
-- [Music favorite painting kids (Unsplash)](https://unsplash.com/s/photos/favorite-music-painting)
+### 38.2 — O olhar que observa os elementos
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=observing+elements+artwork&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/observing%20elements%20artwork/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/observing-elements-artwork)
 
----
-
-## Semana 37 — As obras que encantam
-
-### 37.1 — As obras que encantam
-- [Enchanting famous artworks (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Masterpieces)
-- [Famous artwork beautiful simple (Pixabay)](https://pixabay.com/images/search/famous%20artwork%20kids/)
-- [Enchanting masterpiece art (Unsplash)](https://unsplash.com/s/photos/famous-artwork-kids)
-
-### 37.2 — Van Gogh e os girassóis
-- [Van Gogh Sunflowers 1888 (Wikimedia)](https://commons.wikimedia.org/wiki/File:VanGogh-sunflowers.jpg)
-- [Van Gogh sunflowers inspired kids (Pixabay)](https://pixabay.com/images/search/van%20gogh%20sunflowers/)
-- [Sunflowers Van Gogh style art (Unsplash)](https://unsplash.com/s/photos/van-gogh-sunflowers)
-
-### 37.3 — Paul Klee e as cores da alegria
-- [Paul Klee colorful joyful art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Paul_Klee)
-- [Paul Klee inspired colors kids (Pixabay)](https://pixabay.com/images/search/paul%20klee%20art%20colors/)
-- [Klee colors joy painting kids (Unsplash)](https://unsplash.com/s/photos/paul-klee-inspired-art)
-
----
-
-## Semana 38 — A observação com o coração
-
-### 38.1 — A observação com o coração
-- [Observing art with heart (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Observation_in_art)
-- [Heart observation art kids (Pixabay)](https://pixabay.com/images/search/observation%20heart%20art/)
-- [Seeing with heart illustration (Unsplash)](https://unsplash.com/s/photos/observation-heart-art)
-
-### 38.2 — Os detalhes no quadro
-- [Painting details close-up art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Painting_details)
-- [Art details observation kids (Pixabay)](https://pixabay.com/images/search/painting%20details%20kids/)
-- [Artwork details close up art (Unsplash)](https://unsplash.com/s/photos/art-details-close)
-
-### 38.3 — A obra que tocou o coração
-- [Emotional moving artwork art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Emotional_art)
-- [Art touching heart kids simple (Pixabay)](https://pixabay.com/images/search/touching%20art%20heart/)
-- [Artwork moving heart illustration (Unsplash)](https://unsplash.com/s/photos/emotional-artwork-kids)
+### 38.3 — A obra completa e bela
+- [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=complete+beautiful+artwork&title=Special:MediaSearch&type=image)
+- [Referências visuais no Pixabay](https://pixabay.com/images/search/complete%20beautiful%20artwork/)
+- [Referências visuais no Unsplash](https://unsplash.com/s/photos/complete-beautiful-artwork)

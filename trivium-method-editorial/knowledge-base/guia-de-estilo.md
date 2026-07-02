@@ -137,6 +137,13 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 - Usar os `[+FILL_IN]` progressivos e as perguntas `[+MULTIPLE]` específicas como referência direta.
 - As perguntas devem tratar do tema, das palavras-chave e dos exemplos da semana.
 - Proibido usar perguntas estruturais ou metapedagógicas como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" e "O que a revisão da semana deve manter?".
+- Em provas bimestrais `10.md`, `20.md`, `30.md` e `40.md`, o título é sempre `# Prova`.
+- Nunca usar `# Provas` nem `# Prova bimestral` como título de prova bimestral.
+- A prova bimestral usa `[CANVAS_QUIZ]`, exatamente 10 questões de 10 pontos e 9 separadores `--`.
+- A prova bimestral cobre as 8 semanas do bimestre: 1–8, 11–18, 21–28 ou 31–38.
+- Usar revisão bimestral, revisões semanais `.4` e provas semanais `.5` como fontes diretas.
+- Padrão preferencial: 4 `FILL_IN`, 4 `MULTIPLE_CHOICE`, 1 `MATCHING` com os 8 termos centrais e 1 `TRUE_OR_FALSE`.
+- Proibido usar perguntas estruturais ou metapedagógicas como "Qual termo pertence ao bloco estudado?", "Como a prova deve avaliar o aluno?", "Título inventado", "Assunto fora do Macro" ou "Qual foi o termo do bimestre?".
 
 ### Revisão semanal
 - No `## [QUIZ] Praticar` das revisões `.4`, usar 1 `[+FILL_IN]` com a definição curta da semana.
@@ -146,11 +153,11 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 - Proibido usar perguntas estruturais ou metapedagógicas como "Qual frase resume a semana?", "Qual frase resume melhor a semana?", "Qual aula apresentou o coração da semana?", "Como podemos praticar o tema da semana?", "Como o aluno deve praticar o tema?", "Qual foi o termo da semana?" e "O que a revisão da semana deve manter?".
 
 ### Revisão bimestral
-- Arquivos `9.md`, `19.md`, `29.md` e `39.md` usam 8 blocos semanais.
-- Cada bloco começa com `# [nome da aula .1]`.
+- Arquivos `9.md`, `19.md`, `29.md` e `39.md` têm título `# Revisão`. Usam 8 blocos semanais.
+- Cada bloco começa com `## [nome da aula .1]`.
 - O parágrafo usa `Nesta semana estudamos que **...**`.
 - Cada bloco traz `[+HEADING] Atividade` e `[+IMAGE_TEXT_ON]` com `@link_png@`, `@link_mp3@` e o nome da aula `.1`.
-- O quiz final é `## [QUIZ] Questões` com exatamente 8 `[+FILL_IN]`, um por semana.
+- O quiz final é `## [QUIZ] Questões` com 8 questões alternando 4 `[+FILL_IN]` e 4 `[+MULTIPLE]`.
 
 ### Matching
 - SEMPRE a definição primeiro, termo depois do `[=]`

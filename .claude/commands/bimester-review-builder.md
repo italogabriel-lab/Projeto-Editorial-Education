@@ -23,7 +23,7 @@ Preserve a perspectiva das artes visuais ao selecionar os blocos das revisões s
 Título do arquivo:
 
 ```markdown
-# Revisão bimestral
+# Revisão
 ```
 
 ### Seção semanal
@@ -31,7 +31,7 @@ Título do arquivo:
 Para cada uma das 8 semanas do bimestre, criar um bloco neste formato:
 
 ```markdown
-# [Título exato da aula x.1 da semana]
+## [Título exato da aula x.1 da semana]
 
 [+PARAGRAPH]
 
@@ -86,7 +86,7 @@ As semanas 9, 10, 19, 20, 29, 30, 39 e 40 são semanas de revisão ou prova de m
 
 | Elemento | Fonte |
 |---|---|
-| Título da seção | H1 da aula `x.1.md`, validado pelo Currículo Macro |
+| Título da seção | H2 — nome da aula `x.1.md`, validado pelo Currículo Macro |
 | Definição curta | Primeira definição em negrito no Definir da aula `x.1.md` ou definição única da revisão `x.4.md` |
 | Bloco de atividade | Padrão fixo `[+HEADING] Atividade` + `[+IMAGE_TEXT_ON]` |
 | Questão do quiz (posição ímpar) | Primeiro `[+FILL_IN]` da revisão `x.4.md` |

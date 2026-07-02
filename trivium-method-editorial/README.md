@@ -119,6 +119,14 @@ As provas semanais `.5` usam o `Praticar` das aulas `x.1`, `x.2` e `x.3` como re
 
 Não usar perguntas estruturais ou metapedagógicas sobre resumo da semana, termo da semana, coração da semana, foco da aula, modo genérico de praticar ou função da revisão. A prova deve perguntar sobre o conteúdo estudado, não sobre a arquitetura editorial da semana.
 
+## Padrão Atual das Provas Bimestrais
+
+As provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório `# Prova`, nunca `# Provas` nem `# Prova bimestral`. O arquivo usa `[CANVAS_QUIZ]`, exatamente 10 questões de 10 pontos e 9 separadores `--`.
+
+Cada prova cobre todo o conteúdo das 8 semanas do bimestre: 1–8, 11–18, 21–28 ou 31–38. Use a revisão bimestral, as revisões semanais `.4` e as provas semanais `.5` como fontes diretas. O padrão preferencial é 4 `FILL_IN`, 4 `MULTIPLE_CHOICE`, 1 `MATCHING` relacionando os 8 termos centrais às definições e 1 `TRUE_OR_FALSE` com definição literal estudada.
+
+Perguntas estruturais ou metapedagógicas são proibidas. Não usar enunciados como "Qual termo pertence ao bloco estudado?", "Como a prova deve avaliar o aluno?", "Título inventado", "Assunto fora do Macro" ou "Qual foi o termo do bimestre?".
+
 ## Alinhamento entre Camadas
 
 Este diretório é a fonte oficial do framework. Sempre que um padrão operacional mudar, alinhe também `AGENTS.md`, `CLAUDE.md`, `CLAUDE.local.md`, `CODEX.md`, `README.md`, `.claude/` e `.codex/`.

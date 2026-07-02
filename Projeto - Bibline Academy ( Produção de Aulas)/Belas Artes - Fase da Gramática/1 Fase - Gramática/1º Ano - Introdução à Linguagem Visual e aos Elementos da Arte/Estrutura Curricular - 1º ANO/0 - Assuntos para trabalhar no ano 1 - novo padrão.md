@@ -1,6 +1,6 @@
 1.1	A arte e a expressão
 1.2	A arte e a beleza
-1.3	A arte e a habilidade humana
+1.3	A arte e a habilidade
 
 2.1	A arte nos lugares da vida
 2.2	A arte nos livros e na igreja
@@ -18,9 +18,9 @@
 5.2	As linhas retas e curvas
 5.3	As linhas de barbante
 
-6.1	A linha como caminho
-6.2	A linha que acompanha o som
-6.3	A linha que cria trilhas
+6.1	O contorno no desenho
+6.2	O contorno e o limite
+6.3	O contorno e a figura
 
 7.1	As formas no desenho
 7.2	O círculo, o quadrado e o triângulo
@@ -39,32 +39,32 @@
 11.3	As cores que nascem da mistura
 
 12.1	As cores e as emoções
-12.2	As cores que acalmam e agitam
-12.3	As cores quentes e frias
+12.2	Cores que acalmam e agitam
+12.3	Cores quentes e frias
 
-13.1	A cor e a música
-13.2	A cor que acompanha o som
-13.3	A cor que expressa sentimento
+13.1	Cor secundária verde
+13.2	Cor secundária laranja
+13.3	Cor secundária roxo
 
-14.1	As cores do dia e da noite
-14.2	As cores da luz do sol
-14.3	As cores da noite
+14.1	A sombra e a forma
+14.2	A sombra no objeto
+14.3	A sombra no chão
 
 15.1	A textura na arte
 15.2	As texturas lisas e ásperas
 15.3	As texturas da areia e das folhas
 
-16.1	A textura e o sentimento
-16.2	A textura feita com massa
-16.3	A textura feita com elementos naturais
+16.1	O padrão na arte
+16.2	O padrão que se repete
+16.3	O padrão em tecidos e azulejos
 
 17.1	O espaço no papel
-17.2	O fundo, a borda e o centro
-17.3	O grande e o pequeno
+17.2	O fundo e a borda no papel
+17.3	O centro no papel
 
-18.1	O espaço cheio e vazio
-18.2	O espaço com respiro
-18.3	O espaço da cidade no papel
+18.1	O tamanho na arte
+18.2	O grande e o pequeno
+18.3	O tamanho que chama atenção
 
 19	Revisão
 	
@@ -90,53 +90,53 @@
 25.2	O sol como personagem
 25.3	O bicho inventado
 
-26.1	O meu mundo em desenho
-26.2	A minha casa no desenho
-26.3	O meu cantinho favorito
+26.1	A figura e o fundo
+26.2	A figura que aparece na frente
+26.3	O fundo que fica atrás
 
-27.1	Os lugares e histórias
-27.2	A igreja com torres
-27.3	O parquinho colorido
+27.1	A sobreposição na imagem
+27.2	O objeto que cobre o outro
+27.3	A profundidade pela sobreposição
 
-28.1	As histórias que inspiram a arte
-28.2	A arca com muitos animais
-28.3	O jardim da criação
+28.1	Os planos da imagem
+28.2	O primeiro plano perto
+28.3	O fundo bem longe
 
 29	Revisão
 	
 30	Provas
 
-31.1	O céu e a esperança
-31.2	Os anjos com tinta e papel
-31.3	A visão do céu
+31.1	O ritmo na arte
+31.2	O ritmo que se repete
+31.3	O ritmo nas formas e cores
 
-32.1	A criação da luz, dos céus e das águas
-32.2	A luz e as trevas
-32.3	Os céus e as águas
+32.1	O movimento na imagem
+32.2	As linhas que correm
+32.3	O movimento dos personagens
 
-33.1	A criação da terra, dos luminares e dos seres vivos
-33.2	A terra, o sol, a lua e as estrelas
-33.3	Os peixes e as aves
+33.1	O contraste na arte
+33.2	O claro e o escuro
+33.3	As cores que se opõem
 
-34.1	A criação dos animais, do homem e do descanso
-34.2	Os animais e o ser humano
-34.3	O dia de Deus e o painel completo
+34.1	A proporção na arte
+34.2	O grande perto do pequeno
+34.3	A proporção do corpo e da casa
 
-35.1	A arte e a música
-35.2	A música que cria cores
-35.3	O som que dança com o pincel
+35.1	A harmonia das cores
+35.2	As cores que combinam
+35.3	A harmonia na paisagem
 
-36.1	A imagem que a música revela
-36.2	Os olhos que escutam
-36.3	A música favorita em imagem
+36.1	O destaque na arte
+36.2	O ponto que chama o olhar
+36.3	O destaque pela cor
 
-37.1	As obras que encantam
-37.2	Van Gogh e os girassóis
-37.3	Paul Klee e as cores da alegria
+37.1	A unidade na obra
+37.2	As partes que formam o todo
+37.3	A obra que parece inteira
 
-38.1	A observação com o coração
-38.2	Os detalhes no quadro
-38.3	A obra que tocou o coração
+38.1	A beleza na obra de arte
+38.2	O olhar que observa os elementos
+38.3	A obra completa e bela
 
 39	Revisão
 	

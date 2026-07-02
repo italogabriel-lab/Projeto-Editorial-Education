@@ -2,6 +2,7 @@
 
 Este arquivo contém os prompts de geração de imagem para a seção **Narrar** de cada aula regular do 1º ano.
 Cada prompt segue o padrão de ilustração em aquarela infantil, simples e colorida, baseado no texto literário da aula.
+As imagens devem ter aspecto de ilustração de livro infantil, com extremidades externas muito difusas, acabamento esfumado e sem moldura rígida.
 
 ---
 
@@ -12,21 +13,22 @@ Cada prompt segue o padrão de ilustração em aquarela infantil, simples e colo
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul claro, verde grama, amarelo sol, vermelho corajoso, marrom terra.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: light blue, grass green, sun yellow, bold red, earth brown.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte é a expressão da beleza criada por Deus com habilidade humana.
-O ser humano faz arte quando usa suas mãos para expressar a beleza da criação e tudo feito com habilidade dada por Deus."
+"Art is the expression of beauty created by God through human skill.
+The human person makes art when using the hands to express the beauty of creation and everything made with skill given by God."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança sorridente desenhando ou pintando, com cores ao redor.
-Elementos visuais: criança com blusa colorida, mesa com papel e crayon, formas geométricas coloridas no ar.
+The illustration should show a child smiling drawing or painting, with colors around the child.
+Visual elements: child wearing a colorful shirt, table with paper and crayons, colorful geometric shapes in the air.
 
-Linguagem visual: alegria, criatividade, beleza simples da criação.
+Visual language: joy, creativity, simple beauty of creation.
 ```
 
 ### Aula 1.2 — A arte e a beleza
@@ -34,21 +36,22 @@ Linguagem visual: alegria, criatividade, beleza simples da criação.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul céu, verde floresta, amarelo sol, rosa flor, branco nuvem.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: sky blue, forest green, sun yellow, flower pink, cloud white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte é a expressão da beleza criada por Deus com habilidade humana.
-Com a arte, você aprende a mostrar a beleza com cuidado."
+"Art is the expression of beauty created by God through human skill.
+Through art, you learn to show beauty with care."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança observando a natureza (flores, árvores, céu).
-Elementos visuais: criança de pé, flores coloridas, sol sorridente, pássaros simples.
+The illustration should show a child observing nature (flowers, trees, sky).
+Visual elements: standing child, colorful flowers, smiling sun, simple birds.
 
-Linguagem visual: admiração, beleza da natureza, observação atenta.
+Visual language: admiration, beauty of nature, careful observation.
 ```
 
 ### Aula 1.3 — A arte e a habilidade
@@ -56,21 +59,22 @@ Linguagem visual: admiração, beleza da natureza, observação atenta.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja, roxo, verde, azul, amarelo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange, purple, green, blue, yellow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte é a expressão da beleza criada por Deus com habilidade humana.
-Ela ajuda você a escolher linhas, formas e cores com atenção."
+"Art is the expression of beauty created by God through human skill.
+It helps you choose lines, shapes, and colors with attention."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar mãos de criança segurando lápis e criando formas.
-Elementos visuais: mãos pequenas, lápis coloridos, formas geométricas (círculo, quadrado, triângulo).
+The illustration should show a child's hands holding pencils and creating shapes.
+Visual elements: small hands, colored pencils, geometric shapes (circle, square, triangle).
 
-Linguagem visual: habilidade, atenção, criatividade desenvolvida.
+Visual language: skill, attention, developed creativity.
 ```
 
 ---
@@ -82,21 +86,22 @@ Linguagem visual: habilidade, atenção, criatividade desenvolvida.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, verde, marrom, amarelo, rosa.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, green, brown, yellow, pink.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"A arte é a beleza criada por Deus nos lugares da vida.
-O ser humano reconhece arte quando vê beleza em casa, na igreja e na natureza com habilidade dada por Deus."
+"Art is the beauty created by God in places of life.
+The human person recognizes art when seeing beauty at home, in church, and in nature, with skill given by God."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma casa, uma igreja simples e a natureza.
-Elementos visuais: casa com jardim, igreja com cruz, árvores e céu.
+The illustration should show a house, a simple church, and nature.
+Visual elements: house with garden, church with cross, trees and sky.
 
-Linguagem visual: arte no cotidiano, beleza em todos os lugares, gratidão.
+Visual language: art in everyday life, beauty in all places, gratitude.
 ```
 
 ### Aula 2.2 — A arte nos livros e na igreja
@@ -104,21 +109,22 @@ Linguagem visual: arte no cotidiano, beleza em todos os lugares, gratidão.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, dourado, branco, verde, vermelho.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, gold, white, green, red.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"A arte é a beleza criada por Deus nos lugares da vida.
-Você reconhece arte em livros ilustrados e em vitrais da igreja com habilidade dada por Deus."
+"Art is the beauty created by God in places of life.
+You recognize art in illustrated books and in church stained glass, with skill given by God."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar livros coloridos e uma igreja com vitrais coloridos.
-Elementos visuais: livros abertos, páginas coloridas, igreja com janelas coloridas.
+The illustration should show colorful books and a church with colorful stained glass.
+Visual elements: open books, colorful pages, church with colorful windows.
 
-Linguagem visual: conhecimento, beleza sagrada, aprendizado.
+Visual language: knowledge, sacred beauty, learning.
 ```
 
 ### Aula 2.3 — A arte em casa e na natureza
@@ -126,21 +132,22 @@ Linguagem visual: conhecimento, beleza sagrada, aprendizado.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: marrom, verde, azul, amarelo, rosa.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: brown, green, blue, yellow, pink.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"A arte é a beleza criada por Deus nos lugares da vida.
-Você cria arte em casa com desenhos e na natureza com colagens usando habilidade dada por Deus."
+"Art is the beauty created by God in places of life.
+You create art at home with drawings and in nature with collages, using skill given by God."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar criança desenhando em casa e outra fazendo colagem com folhas.
-Elementos visuais: mesa de estudo, folhas, colagem de natureza, sorrisos.
+The illustration should show one child drawing at home and another making a collage with leaves.
+Visual elements: study table, leaves, collage of nature, smiles.
 
-Linguagem visual: criatividade doméstica, arte natural, habilidade prática.
+Visual language: domestic creativity, natural art, practical skill.
 ```
 
 ---
@@ -152,21 +159,22 @@ Linguagem visual: criatividade doméstica, arte natural, habilidade prática.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho, azul, amarelo, verde, rosa.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: red, blue, yellow, green, pink.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"O ponto é o menor sinal que dá início a uma obra de arte.
-O ponto é o começo de toda imagem, colocado com cuidado e intenção."
+"A point is the smallest mark that begins a work of art.
+The point is the beginning of every image, placed with care and intention."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar pontos coloridos que formam uma imagem simples.
-Elementos visuais: pontos coloridos, rosto sorridente formado por pontos, mão segurando pincel.
+The illustration should show colored points that form a simple image.
+Visual elements: colored points, smiling face made of points, hand holding a brush.
 
-Linguagem visual: começo do desenho, simplicidade criativa, unindo pontos.
+Visual language: beginning of the drawing, creative simplicity, connecting points.
 ```
 
 ### Aula 3.2 — O ponto como começo
@@ -174,21 +182,22 @@ Linguagem visual: começo do desenho, simplicidade criativa, unindo pontos.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul celeste, branco, amarelo, verde.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: sky blue, white, yellow, green.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"O ponto é o menor sinal que dá início a uma obra de arte.
-Cada ponto é uma decisão, um passo firme rumo à beleza."
+"A point is the smallest mark that begins a work of art.
+Each point is a decision, a firm step toward beauty."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um único ponto sendo adicionado a uma página em branco.
-Elementos visuais: folha em branco, único ponto colorido, mão com pincel.
+The illustration should show the single point being added to a blank page.
+Visual elements: blank sheet, single colored point, hand with brush.
 
-Linguagem visual: decisão criativa, começo simples, potencial infinito.
+Visual language: creative decision, simple beginning, infinite potential.
 ```
 
 ### Aula 3.3 — O ponto como padrão
@@ -196,21 +205,22 @@ Linguagem visual: decisão criativa, começo simples, potencial infinito.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: coloridas, todas as cores em harmonia.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: colorful, all colors in harmony.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"O ponto é o menor sinal que dá início a uma obra de arte.
-Mil pontos se unem e a imagem nasce, como mil pensamentos se unem em um sorriso."
+"A point is the smallest mark that begins a work of art.
+A thousand points come together and an image is born, the thousand thoughts come together in smile."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar vários pontos formando uma imagem simples (sol, flor ou rosto).
-Elementos visuais: pontos coloridos formando imagem, sorriso, natureza.
+The illustration should show many points forming a simple image (sun, flower, or face).
+Visual elements: colored points forming an image, smile, nature.
 
-Linguagem visual: união criativa, imagem finalizada, alegria.
+Visual language: creative union, finished image, joy.
 ```
 
 ---
@@ -222,21 +232,22 @@ Linguagem visual: união criativa, imagem finalizada, alegria.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: cores repetidas em sequência (roxo, verde, laranja).
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: colors repeated in sequence (purple, green, orange).
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
-O padrão repete a beleza, como as estrelas repetem seu brilho no céu."
+"Pointillism is art made with many small points side by side.
+The pattern repeats beauty, the stars repeat their brightness in sky."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar pontos em padrão repetido formando um design simples.
-Elementos visuais: pontos em linha ou círculo, fundo claro, simetria simples.
+The illustration should show points in repeated pattern forming the simple design.
+Visual elements: points in line or circle, light background, simple symmetry.
 
-Linguagem visual: ordem criativa, repetição bonita, harmonia visual.
+Visual language: creative order, beautiful repetition, visual harmony.
 ```
 
 ### Aula 4.2 — Os pontos nas obras
@@ -244,21 +255,22 @@ Linguagem visual: ordem criativa, repetição bonita, harmonia visual.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: variadas, cores que conversam entre si.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: variadas, colors that harmonize with one another.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
-Cada obra é uma oração em pontos, cada ponto um pensamento elevado."
+"Pointillism is art made with many small points side by side.
+Each work is the prayer in points, each point an elevated thought."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar diferentes obras feitas com pontos (quadro, parede, tela).
-Elementos visuais: várias telas com pontos, crianças observando, artesão trabalhando.
+The illustration should show different works feitas with points (quadro, parede, canvas).
+Visual elements: several canvases with points, children observing, artist working.
 
-Linguagem visual: variedade de estilos, trabalho artístico, inspiração.
+Visual language: variety of styles, artistic work, inspiration.
 ```
 
 ### Aula 4.3 — Os pontos e a beleza
@@ -266,21 +278,22 @@ Linguagem visual: variedade de estilos, trabalho artístico, inspiração.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: tons que se misturam (azul-verde, amarelo-vermelho, rosa-roxa).
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blended tones (blue-green, yellow-red, pink-roxa).
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Pontilhismo é a arte feita com muitos pontos pequenos lado a lado.
-As cores dançam nos pontos, como flores dançam ao sabor do vento."
+"Pointillism is art made with many small points side by side.
+The colors dance in points, the flowers dance in wind."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar pontos de cores diferentes perto um do outro, criando mistura visual.
-Elementos visuais: pontos coloridos próximos, efeito de mistura, natureza colorida.
+The illustration should show points of different colors close to one another, creating visual mixing.
+Visual elements: nearby colored points, efeito of mistura, nature colorful.
 
-Linguagem visual: harmonia cromática, beleza das cores, movimento visual.
+Visual language: chromatic harmony, beauty of colors, movement visual.
 ```
 
 ---
@@ -292,21 +305,22 @@ Linguagem visual: harmonia cromática, beleza das cores, movimento visual.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul escuro para a linha, fundo branco ou bege claro, toque de amarelo e verde.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: dark blue for line, white background or light beige, touch of yellow and green.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o sinal que nasce quando um ponto caminha pelo papel.
-A linha nasce quando um ponto caminha pelo papel."
+"A line is the mark that appears when a point travels across the paper.
+The line appears when a point travels across the paper."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um único ponto que se transforma em uma linha ao se mover pelo papel.
-Elementos visuais: ponto de partida marcado, rastro de linha crescendo, mão com lápis em movimento, papel branco.
+The illustration should show the single point that se transforma in line to se mover across the paper.
+Visual elements: marked starting point, growing line trail, hand with pencil in movement, white paper.
 
-Linguagem visual: nascimento da linha, movimento do ponto, caminho traçado no papel.
+Visual language: birth of the line, movement of the point, path traced on paper.
 ```
 
 ### Aula 5.2 — As linhas retas e curvas
@@ -314,21 +328,22 @@ Linguagem visual: nascimento da linha, movimento do ponto, caminho traçado no p
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: linha reta em azul escuro, linha curva em vermelho, fundo claro, papel branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: straight line in dark blue, curved line in red, light background, white paper.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o sinal que nasce quando um ponto caminha pelo papel.
-A linha traça um caminho diferente quando é reta ou quando é curva."
+"A line is the mark that appears when a point travels across the paper.
+The line traces the different path when it is straight or when it is curved."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar duas linhas lado a lado: uma reta e firme à esquerda, uma curva e ondulante à direita.
-Elementos visuais: linha reta azul, linha curva vermelha, papel dividido ao meio, criança observando as duas com atenção.
+The illustration should show two lines side by side, a straight and steady line on the left and a curved, wavy line on the right.
+Visual elements: blue straight line, red curved line, paper dividido to meio, child observing the duas with attention.
 
-Linguagem visual: contraste de caminhos, direção reta e direção curvada, dois modos de traçar.
+Visual language: contrast of paths, straight direction and curved direction, two ways of tracing.
 ```
 
 ### Aula 5.3 — As linhas de barbante
@@ -336,91 +351,95 @@ Linguagem visual: contraste de caminhos, direção reta e direção curvada, doi
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: bege barbante, laranja, azul suave, verde musgo, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: beige barbante, orange, soft blue, moss green, white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o sinal que nasce quando um ponto caminha pelo papel.
-A linha de barbante molda formas no papel com textura e presença."
+"A line is the mark that appears when a point travels across the paper.
+The yarn line shapes forms on paper with texture and presence."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um barbante colorido dobrado sobre papel, formando uma figura simples (flor, casa ou animal).
-Elementos visuais: barbante torcido em curvas sobre papel, forma reconhecível nascendo da linha, mãos moldando o barbante.
+The illustration should show the colorful yarn folded on paper, forming a simple figure (flower, house, or animal).
+Visual elements: barbante torcido in curvas over paper, recognizable shape nascendoof line, hands moldando the barbante.
 
-Linguagem visual: linha com volume, forma criada pela textura, arte com materiais concretos.
+Visual language: line with volume, form created by texture, art with concrete materials.
 ```
 
 ---
 
 ## Semana 6
 
-### Aula 6.1 — A linha como caminho
+### Aula 6.1 — O contorno no desenho
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde musgo, azul suave, marrom claro, bege, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: soft blue, light green, orange, beige, white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o caminho que conduz o olhar por onde o desenho passa.
-O caminho guia o olhar pelo papel e mostra o percurso do desenho."
+"An outline is the edge that defines the limit of figure in drawing.
+The outline appears the edge that marks where each figure begins and ends in work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma linha-caminho sinuosa que percorre o papel, guiando o olhar.
-Elementos visuais: linha grossa percorrendo o espaço, árvores simples ao lado, horizonte suave.
+The illustration should show the simple figure, like a bird or the vaso, with clearly marked outline and visible as a the thick edge around a figure.
+Visual elements: figure with emphasized edge, clean background, space around it well defined.
 
-Linguagem visual: percurso, guia, movimento do olhar.
+Visual language: edge, limit, beginning and end of figure.
 ```
 
-### Aula 6.2 — A linha que acompanha o som
+### Aula 6.2 — O contorno e o limite
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: roxo, azul, rosa, amarelo suave, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, green, yellow, light purple, white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o caminho que conduz o olhar por onde o desenho passa.
-O caminho é uma linha que acompanha sons e ritmos e cria percursos no papel."
+"An outline is the edge that defines the limit of figure in drawing.
+The outline defines the limit of figure and shows where it ends on paper."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma linha ondulante que sobe e desce como se seguisse o ritmo de uma melodia.
-Elementos visuais: linha sinuosa, notas musicais simples, criança com instrumento ou ouvido atento.
+The illustration should show two simple figures side by side, with outline of each one emphasized, showing where one ends and where the other begins.
+Visual elements: duas figures with clearly marked edges, space between them, visible limit.
 
-Linguagem visual: ritmo, melodia visual, movimento musical.
+Visual language: limit, separation, edge that defines where a figure ends.
 ```
 
-### Aula 6.3 — A linha que cria trilhas
+### Aula 6.3 — O contorno e a figura
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, marrom, azul claro, laranja, bege.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: green, red, blue, yellow, beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Linha é o caminho que conduz o olhar por onde o desenho passa.
-O caminho mostra por onde o olhar passa e quais trilhas a linha deixa na imagem."
+"An outline is the edge that defines the limit of figure in drawing.
+The outline surrounds a figure and shows its complete shape on paper."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar trilhas de linhas deixadas pelo pincel cruzando o papel em direções diferentes.
-Elementos visuais: trilhas de pincel coloridas, marcas no papel, pés ou mãos deixando rastros.
+The illustration should show the simple figure, like a tree or the pessoa, completely surrounded by its outline, with complete form clearly visible on paper.
+Visual elements: whole figure with surrounding outline, recognizable shape, soft background.
 
-Linguagem visual: rastro, trilha, presença da linha no espaço.
+Visual language: surrounding, complete form, edge around a figure.
 ```
 
 ---
@@ -432,21 +451,22 @@ Linguagem visual: rastro, trilha, presença da linha no espaço.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, vermelho, amarelo, verde, laranja.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, red, yellow, green, orange.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma é o espaço fechado por linhas que mostra figuras no desenho.
-A forma nasce quando uma linha fecha um espaço no papel."
+"Shape is the space enclosed by lines that shows figures in drawing.
+The shape is born when the line closes the space on paper."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar diversas formas geométricas simples surgindo de linhas que se fecham.
-Elementos visuais: círculo, quadrado, triângulo, linhas se unindo nas pontas, papel colorido.
+The illustration should show diversas simple geometric shapes surgindo of lines that se fecham.
+Visual elements: circle, square, triangle, lines se unindo in pontas, colored paper.
 
-Linguagem visual: nascimento da forma, linha que fecha, organização visual.
+Visual language: birth of shape, line that fecha, visual organization.
 ```
 
 ### Aula 7.2 — O círculo, o quadrado e o triângulo
@@ -454,21 +474,22 @@ Linguagem visual: nascimento da forma, linha que fecha, organização visual.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho vivo, azul royal, amarelo ouro, branco, preto suave.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: vivid red, royal blue, golden yellow, white, soft black.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma é o espaço fechado por linhas que mostra figuras no desenho.
-A forma surge quando linhas se fecham para delimitar um espaço."
+"Shape is the space enclosed by lines that shows figures in drawing.
+The shape appears when lines close to delimit the space."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar as três formas básicas lado a lado, cada uma com cor diferente e tamanho amigável.
-Elementos visuais: círculo vermelho, quadrado azul, triângulo amarelo, fundo claro, traços grossos e alegres.
+The illustration should show the three basic shapes side by side, each with a different color and friendly size.
+Visual elements: red circle, blue square, yellow triangle, light background, thick lines and cheerful.
 
-Linguagem visual: as três formas fundamentais, clareza visual, base do desenho.
+Visual language: the three fundamental shapes, clarity visual, basis of drawing.
 ```
 
 ### Aula 7.3 — As formas que criam imagens
@@ -476,21 +497,22 @@ Linguagem visual: as três formas fundamentais, clareza visual, base do desenho.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, azul, laranja, rosa, amarelo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: green, blue, orange, pink, yellow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma é o espaço fechado por linhas que mostra figuras no desenho.
-A forma transforma linhas em figuras que aparecem no desenho."
+"Shape is the space enclosed by lines that shows figures in drawing.
+The shape turns lines into figures that appear in drawing."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar formas simples se combinando para criar figuras reconhecíveis (casa, sol, flor).
-Elementos visuais: triângulo + quadrado formando casa, círculo + linhas formando sol, pétalas surgindo de círculos.
+The illustration should show simple shapes se combinando for criar recognizable figures (house, sun, flor).
+Visual elements: triangle + square forming house, circle + lines forming sun, petals emerging from circles.
 
-Linguagem visual: combinação criativa, formas gerando imagem, nascimento de figuras.
+Visual language: creative combination, shapes generating an image, nascimento of figures.
 ```
 
 ---
@@ -502,21 +524,22 @@ Linguagem visual: combinação criativa, formas gerando imagem, nascimento de fi
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde folha, marrom terra, azul céu, amarelo sol, bege claro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: leaf green, earth brown, sky blue, sun yellow, light beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma natural é a figura criada por Deus na natureza que inspira a arte.
-A forma natural aparece nas folhas e nos animais para ajudar o artista a criar imagens belas."
+"Natural shape is a figure created by God in nature that inspires art.
+Natural shape appears in leaves and animals to help the artist create beautiful images."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança observando folhas e animais, depois desenhando formas naturais em uma folha de papel.
-Elementos visuais: folha oval, asa de borboleta, passarinho simples, papel de desenho, lápis coloridos, formas naturais virando imagem.
+The illustration should show a child observing leaves and animals, then drawing natural shapes in sheet of paper.
+Visual elements: oval leaf, asa of butterfly, simple little bird, drawing paper, colored pencils, natural shapes virando image.
 
-Linguagem visual: observação artística, forma natural, imagem bela, desenho inspirado pela natureza.
+Visual language: artistic observation, natural shape, beautiful image, drawing inspired by nature.
 ```
 
 ### Aula 8.2 — As formas em bichos
@@ -524,21 +547,22 @@ Linguagem visual: observação artística, forma natural, imagem bela, desenho i
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja suave, preto, marrom, verde, azul claro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: soft orange, black, brown, green, light blue.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma natural é a figura criada por Deus na natureza que inspira a arte.
-A forma natural mostra figuras em animais e plantas que podem entrar no desenho."
+"Natural shape is a figure created by God in nature that inspires art.
+Natural shape shows figures in animals and plants that can enter the drawing."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar silhuetas simples de animais ao lado de um desenho infantil que usa essas figuras.
-Elementos visuais: peixe, pássaro e gato com contornos grossos, folha e planta simples, papel com desenho, lápis coloridos.
+The illustration should show silhuetas simple of animals beside it of drawing infantil that usa essas figures.
+Visual elements: fish, bird and cat with thick outlines, sheet and planta simple, paper with drawing, colored pencils.
 
-Linguagem visual: figuras de animais, contorno, desenho, forma natural entrando na imagem.
+Visual language: figures of animals, outline, drawing, natural shape entering an image.
 ```
 
 ### Aula 8.3 — As formas em figuras inventadas
@@ -546,21 +570,22 @@ Linguagem visual: figuras de animais, contorno, desenho, forma natural entrando 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: roxo, verde limão, rosa, azul, amarelo claro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: purple, lime green, pink, blue, yellow claro.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma natural é a figura criada por Deus na natureza que inspira a arte.
-A forma natural inspira figuras inventadas para criar imagens na arte."
+"Natural shape is a figure created by God in nature that inspires art.
+Natural shape inspires invented figures to create images in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma figura inventada criada com formas da natureza, como asa de pássaro, corpo de peixe e pétalas de flor.
-Elementos visuais: figura inventada colorida, formas naturais combinadas, papel de desenho, linhas simples, fundo claro de ateliê infantil.
+The illustration should show the invented figure created with shapes of nature, like a bird wing, fish body and flower petals.
+Visual elements: invented figure colorful, combined natural shapes, drawing paper, simple lines, light background of children's studio.
 
-Linguagem visual: imagem artística, figura inventada, forma natural, composição simples e imaginação visual.
+Visual language: artistic image, invented figure, natural shape, simple composition and visual imagination.
 ```
 
 ---
@@ -572,21 +597,22 @@ Linguagem visual: imagem artística, figura inventada, forma natural, composiç�
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho puro, azul puro, amarelo puro, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: pure red, pure blue, pure yellow, white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor primária inicia misturas e ajuda outras cores a nascer.
-A cor primária é a cor que não nasce de nenhuma mistura e inicia o ciclo das cores."
+"Primary color begins mixtures and helps other colors appear.
+Primary color is the color that does not come from any mixture and begins the cycle of colors."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar três grandes gotas ou manchas de tinta — vermelho, azul e amarelo — lado a lado.
-Elementos visuais: três manchas de cor brilhante, potes de tinta, pincéis, fundo branco limpo.
+The illustration should show three large drops or stains of paint, red, blue and yellow, side by side.
+Visual elements: three bright color spots, paint jars, brushes, clean white background.
 
-Linguagem visual: pureza das cores, início, potencial criativo.
+Visual language: purity of colors, beginning, creative potential.
 ```
 
 ### Aula 11.2 — O vermelho, o azul e o amarelo
@@ -594,21 +620,22 @@ Linguagem visual: pureza das cores, início, potencial criativo.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho, azul, amarelo, branco, contornos escuros suaves.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: red, blue, yellow, white, outlines escuros soft.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor primária inicia misturas e ajuda outras cores a nascer.
-A cor primária inicia misturas que criam novas cores a partir do vermelho, do azul e do amarelo."
+"Primary color begins mixtures and helps other colors appear.
+Primary color begins mixtures that create new colors from red, blue, and yellow."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança com três potes de tinta nas mãos, sorrindo, prestes a misturá-los.
-Elementos visuais: criança centralizada, pote vermelho, pote azul, pote amarelo, expressão de curiosidade.
+The illustration should show a child with three paint jars in hands, smiling, about to mix them.
+Visual elements: child centralizada, red paint jar, blue paint jar, yellow paint jar, curious expression.
 
-Linguagem visual: as três cores que geram todas as outras, alegria de descoberta.
+Visual language: the three colors that generate all the others, joy of descoberta.
 ```
 
 ### Aula 11.3 — As cores que nascem da mistura
@@ -616,21 +643,22 @@ Linguagem visual: as três cores que geram todas as outras, alegria de descobert
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja, verde, roxo — as secundárias nascendo das primárias.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange, green, purple, secondary colors emerging from primary colors.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor primária inicia misturas e ajuda outras cores a nascer.
-A cor primária ajuda outras cores a nascer quando duas ou mais se combinam."
+"Primary color begins mixtures and helps other colors appear.
+Primary color helps other colors appear when two or more colors combine."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar duas cores se misturando em um pote e criando uma terceira cor nova.
-Elementos visuais: vermelho + amarelo = laranja, pincel girando no pote, cor nova aparecendo com brilho.
+The illustration should show two colors mixing in jar and creating a new third color.
+Visual elements: red + yellow = orange, brush swirling on jar, new color appearing with a glow.
 
-Linguagem visual: transformação criativa, cores nascendo, milagre das misturas.
+Visual language: creative transformation, colors being born, miracle of mixtures.
 ```
 
 ---
@@ -642,205 +670,214 @@ Linguagem visual: transformação criativa, cores nascendo, milagre das misturas
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: várias cores expressivas — vermelho, azul, amarelo, roxo, verde.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: several expressive colors, red, blue, yellow, purple, green.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor expressiva mostra sentimentos com beleza, ordem e cuidado.
-A cor expressiva mostra sentimentos com beleza e ordem quando é escolhida com cuidado."
+"Expressive color shows feelings with beauty, order, and care.
+Expressive color shows feelings with beauty and order when chosen with care."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um rosto de criança rodeado de cores que expressam emoções diferentes.
-Elementos visuais: rosto sorridente, cores ao redor simbolizando alegria, calma, energia; traços suaves.
+The illustration should show a child's face surrounded by colors that express different emotions.
+Visual elements: smiling face, colors around it symbolizing joy, calm, energy; soft lines.
 
-Linguagem visual: sentimento expresso com cor, beleza emocional, cuidado na escolha.
+Visual language: sentimento expresso with color, beauty emocional, care in escolha.
 ```
 
-### Aula 12.2 — As cores que acalmam e agitam
+### Aula 12.2 — Cores que acalmam e agitam
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul suave + verde à esquerda; vermelho + laranja à direita.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: soft blue + green on left; red + orange on right.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor expressiva mostra sentimentos com beleza, ordem e cuidado.
-A cor expressiva comunica sentimentos diferentes conforme a cor que o artista escolhe."
+"Expressive color shows feelings with beauty, order, and care.
+Expressive color communicates different feelings according to color the artist chooses."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar dois lados: um com criança tranquila cercada de azul e verde; outro com criança animada em vermelho e laranja.
-Elementos visuais: divisão suave no centro, criança calma e criança dançando, contraste de temperatura de cor.
+The illustration should show dois sides: the with child tranquila cercada of blue and green; another with child animada in red and orange.
+Visual elements: soft division on center, child calm and dancing child, contrast of color temperature.
 
-Linguagem visual: contraste emocional, temperatura de cor, sentimento comunicado visualmente.
+Visual language: contrast emocional, color temperature, sentimento comunicado visualmente.
 ```
 
-### Aula 12.3 — As cores quentes e frias
+### Aula 12.3 — Cores quentes e frias
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho, laranja, amarelo (quentes); azul, violeta, verde (frias).
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: red, orange, yellow (quentes); blue, violeta, green (frias).
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor expressiva mostra sentimentos com beleza, ordem e cuidado.
-A cor expressiva usa cores quentes e frias com cuidado para mostrar sentimentos com beleza."
+"Expressive color shows feelings with beauty, order, and care.
+Expressive color uses warm and cool colors carefully to show feelings with beauty."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o sol e o fogo ao lado de um lago gelado e do céu noturno, demonstrando temperatura de cor.
-Elementos visuais: sol laranja, chamas vermelhas de um lado; lago azul, estrelas roxas do outro lado.
+The illustration should show the sun and the fogo beside it of icy lake eof night sky, demonstrando color temperature.
+Visual elements: orange sun, red flames of side; lago blue, purple starsof another side.
 
-Linguagem visual: temperatura emocional, contraste visual, harmonia entre quente e frio.
+Visual language: temperatura emocional, contrast visual, harmony entre quente and frio.
 ```
 
 ---
 
 ## Semana 13
 
-### Aula 13.1 — A cor e a música
+### Aula 13.1 — Cor secundária verde
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: amarelo, laranja, azul, roxo, rosa — cores que vibram como sons.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: leaf green, grass green, light brown, soft blue and white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor musical acompanha o som e expressa sentimento na arte.
-A cor musical une escuta e observação ao conectar o som às escolhas de cor."
+"Secondary color is the color derived from the primary colors, like a green, orange, and purple.
+Secondary colors appear in green of leaves and help fill an image with life."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança de olhos fechados ouvindo música enquanto cores surgem ao seu redor.
-Elementos visuais: criança com fone ou próxima a instrumento, manchas coloridas no ar, expressão de contentamento.
+The illustration should show a child observing the green in leaves, in grass and in detalhes of life.
+Visual elements: green leaves, grass, simple drawing, child pointing for green areas.
 
-Linguagem visual: escuta ativa, sinestesia suave, som que vira cor.
+Visual language: observation of green, secondary color in emphasis, organized image.
 ```
 
-### Aula 13.2 — A cor que acompanha o som
+### Aula 13.2 — Cor secundária laranja
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: ondas de cor em azul, rosa, verde e amarelo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange ensunarado, green soft, earth brown, light blue and white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor musical acompanha o som e expressa sentimento na arte.
-A cor musical acompanha o som e transforma a escuta em gesto e cor no papel."
+"Secondary color is the color derived from the primary colors, like a green, orange, and purple.
+Secondary colors include orange, which brightens fruits, flowers, and details in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar ondas coloridas que emanam de um instrumento musical simples (tambor, flauta ou sino).
-Elementos visuais: instrumento no centro, ondas de cor irradiando para fora, ritmo visual sugerido.
+The illustration should show a child observing the orange in frutos, flowers and bright parts.
+Visual elements: orange fruit, orange flower, bright areas, simple composition.
 
-Linguagem visual: vibração sonora em cor, ritmo visual, som que se vê.
+Visual language: observation of orange, secondary color in emphasis, bright parts.
 ```
 
-### Aula 13.3 — A cor que expressa sentimento
+### Aula 13.3 — Cor secundária roxo
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: rosa profundo, azul, vermelho, dourado — cores que carregam emoção.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: soft purple, deep purple, subtle green, night blue and white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Cor musical acompanha o som e expressa sentimento na arte.
-A cor musical expressa sentimento quando a cor escolhida nasce do que a música provoca."
+"Secondary color is the color derived from the primary colors, like a green, orange, and purple.
+Secondary colors include purple, which appears in shadows, flowers, and deep details."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um papel com pinceladas coloridas que parecem emanar diretamente de uma emoção musical.
-Elementos visuais: folha com manchas de tinta expressivas, notas musicais integradas na composição, pincel solto.
+The illustration should show a child observing the purple in flowers, shadows and detalhes deep.
+Visual elements: purple flowers, soft shadow, deep detail in simple composition.
 
-Linguagem visual: sentimento em cor, expressão livre, emoção que vira imagem.
+Visual language: observation of purple, secondary color in emphasis, visual depth.
 ```
 
 ---
 
 ## Semana 14
 
-### Aula 14.1 — As cores do dia e da noite
+### Aula 14.1 — A sombra e a forma
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul escuro + estrelas de um lado; amarelo dourado + laranja do outro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: golden yellow, soft brown, beige, light gray for shadow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Luz muda as cores do dia e da noite com beleza.
-A luz muda as cores do dia e da noite ao iluminar a criação com beleza."
+"Shadow is the dark form that appears when something blocks the light.
+A shadow appears behind an object and shows its form in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar metade do céu iluminado pelo sol e metade coberto pela noite estrelada.
-Elementos visuais: sol brilhante, céu azul claro à esquerda; lua e estrelas, céu escuro à direita; horizonte no centro.
+The illustration should show an object simple, like a tree or the bola, with sua dark shadow projetada behind dele.
+Visual elements: sun in upper colorner casting light, object in center, dark shadow with the same shape as an object beside it.
 
-Linguagem visual: ciclo da criação, beleza do tempo, luz que transforma.
+Visual language: form revealed by shadow, contrast between light and darkness, simple observation.
 ```
 
-### Aula 14.2 — As cores da luz do sol
+### Aula 14.2 — A sombra no objeto
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: amarelo ouro, laranja quente, bege, rosa suave, branco luminoso.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: golden yellow of sideof object, cinza and brown escuroof another side.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Luz muda as cores do dia e da noite com beleza.
-A luz revela cores diferentes conforme o momento do dia e a posição do sol."
+"Shadow is the dark form that appears when something blocks the light.
+A form shadow covers the side of object without light and marks its form."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar raios de sol dourado chegando até uma paisagem simples e iluminando cada elemento.
-Elementos visuais: sol no canto superior, raios dourados, árvore iluminada, criança de olhos abertos admirando.
+The illustration should show an object simple, like a fruta or the bola, iluminado of side and escurecidoof another side.
+Visual elements: light source of side, object in center with metade clara and metade escura, child observing the contrast.
 
-Linguagem visual: luz como revelação, admiração da criação, calor dourado do dia.
+Visual language: form shadow, light side and dark sideof same object, volume simple.
 ```
 
-### Aula 14.3 — As cores da noite
+### Aula 14.3 — A sombra no chão
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e acolhedora, ambiente noturno sereno.
-Paleta de cores: azul marinho, roxo suave, preto, branco prata, amarelo lua.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: yellow, orange and greenof landscape, black and cinza escuro for shadow on ground.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Luz muda as cores do dia e da noite com beleza.
-A luz mostra as cores da noite com tons escuros e suaves que cobrem a criação."
+"Shadow is the dark form that appears when something blocks the light.
+A cast shadow appears on the ground on the side opposite the light that illuminates an object."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma paisagem noturna tranquila com lua, estrelas e elementos da natureza em tons escuros.
-Elementos visuais: lua cheia brilhante, estrelas simples, silhueta de árvore, céu degradê azul-roxo.
+The illustration should show the tree or an object simple in landscape, with sua dark shadow projetada on ground beside it.
+Visual elements: sun in upper colorner, tree on center, dark shadow alongada on ground, grassdo simple around it.
 
-Linguagem visual: serenidade noturna, beleza escura, presença de Deus na noite.
+Visual language: cast shadow, relationship between light, object, and ground, simple observation.
 ```
 
 ---
@@ -852,21 +889,23 @@ Linguagem visual: serenidade noturna, beleza escura, presença de Deus na noite.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: bege, marrom claro, cinza suave, verde, laranja.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: water blue, stone gray, wood brown, light beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura mostra se a superfície parece lisa, áspera ou marcada.
-A textura mostra como uma superfície parece ao toque e à vista."
+"Texture is the quality of a surface that appears smooth, rough, or marked.
+  Texture shows how the surface appears to the touch and to the eye."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar diferentes superfícies lado a lado: lisa como água, áspera como pedra, marcada como madeira.
-Elementos visuais: três quadrados ou faixas com texturas distintas, mão tocando uma delas, expressão de descoberta.
+A child with a brush in hand observing three small paintings on an easel.
+Each painting shows a different texture painted in watercolor: the first with a smooth and even water surface, the second with stone painted with rough overlapping brushstrokes, the third with wood painted with wavy lines and marked veins.
+A child points to one of the paintings with brush, expressing discovery.
 
-Linguagem visual: variedade tátil, descoberta sensorial, beleza das superfícies.
+Visual language: texture in a work of art, smooth, rough, and marked, observation and discovery through art.
 ```
 
 ### Aula 15.2 — As texturas lisas e ásperas
@@ -874,21 +913,23 @@ Linguagem visual: variedade tátil, descoberta sensorial, beleza das superfície
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: cinza suave para liso; marrom rugoso para áspero; branco de fundo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: light blue, white, pale gray, soft beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura mostra se a superfície parece lisa, áspera ou marcada.
-A textura revela superfícies lisas quando o material não tem marcas nem irregularidades."
+"Texture is the quality of a surface that appears smooth, rough, or marked.
+Texture is smooth when the surface has no marks or irregularities."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança comparando dois objetos: um liso (vidro ou espelho) e um áspero (casca de árvore).
-Elementos visuais: mão na casca rugosa, mão no vidro liso, expressão de comparação, traços que comunicam textura.
+A child with a thin brush painting a white canvas, creating a completely smooth and even area with light and soft blue watercolor.
+Beside it, the painted work of art shows the surface without marks or irregularities, like a calm lake or a clear sky, with flat and continuous brushstrokes.
+A child moves the brush in a long, soft stroke over the canvas, without lifting the brush.
 
-Linguagem visual: contraste tátil, descoberta comparativa, percepção sensorial.
+Visual language: smooth texture in a work of art, surface without marks, continuous and even brushstroke, visual perception of smoothness.
 ```
 
 ### Aula 15.3 — As texturas da areia e das folhas
@@ -896,91 +937,96 @@ Linguagem visual: contraste tátil, descoberta comparativa, percepção sensoria
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: areia dourada, verde folha, marrom terra, azul claro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: sand yellow, ocre gold, leaf green, earth brown, warm beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura mostra se a superfície parece lisa, áspera ou marcada.
-A textura da areia e das folhas deixa superfícies marcadas com padrões únicos."
+"Texture is the quality of a surface that appears smooth, rough, or marked.
+The texture of sand and leaves is marked with unique patterns left by each material."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar mãos de criança brincando com areia e folhas, deixando marcas e impressões.
-Elementos visuais: mãos na areia com pegadas, folhas pressionadas deixando nervuras, prazer na descoberta natural.
+A child with a brush in hand observing the work of art that shows the grainy texture of sand and the marked veins of a dry leaf, painted in watercolor on canvas.
+A child imitates the pattern of work with the child's own brush, creating grainy marks and branching lines over the paper.
+In a background, two small canvases show the works: one with the texture of sand in ocre and gold, another with the texture of leaf in brown and green.
 
-Linguagem visual: marcas únicas da natureza, impressões vivas, arte natural.
+Visual language: marked textures in a work of art, unique patterns of sand and leaf veins expressed through watercolor brushstrokes.
 ```
 
 ---
 
 ## Semana 16
 
-### Aula 16.1 — A textura e o sentimento
+### Aula 16.1 — O padrão na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho expressivo, roxo, azul escuro, marrom, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, red, yellow, green, repeated shapes in order.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura expressiva comunica sentimento por marcas, massas e materiais.
-A textura expressiva usa marcas e materiais para comunicar sentimento na arte."
+"Pattern is the form that repeats in an orderly way in art.
+Pattern is the form that appears more than once in same drawing or work of art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma tela com textura espessa cujas marcas de tinta comunicam uma emoção visível.
-Elementos visuais: tela com pinceladas grossas, marcas de espátula, criança contemplando a obra com expressão emotiva.
+The illustration should show a simple work of art where the same geometric shape appears repeatedly in an orderly way over the paper.
+Visual elements: sequence of repeated shapes with alternating colors, drawing paper, child observing the repetition with attention.
 
-Linguagem visual: emoção em relevo, sentimento tangível, textura que fala.
+Visual language: visual order, creative repetition, recognizable pattern in a work of art.
 ```
 
-### Aula 16.2 — A textura feita com massa
+### Aula 16.2 — O padrão que se repete
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: bege massa, verde, azul, amarelo — terra e cor juntos.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange, blue, green, white, shapes in rhythm.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura expressiva comunica sentimento por marcas, massas e materiais.
-A textura expressiva se forma com massas que deixam marcas espessas e com volume."
+"Pattern is the form that repeats in an orderly way in art.
+Pattern is the form that repeats the same image to create order and visual rhythm in work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança modelando argila ou massa, deixando marcas com os dedos que criam textura.
-Elementos visuais: mãos na argila, sulcos e relevos criados pelos dedos, peça artística em formação.
+The illustration should show a child drawing the sequence of shapes identical in tira of paper, creating the pattern with visual rhythm.
+Visual elements: tira of paper with shapes iguais repetidas, child with brush, discovery smile, visual rhythm evidente.
 
-Linguagem visual: volume criativo, marca das mãos, arte tridimensional.
+Visual language: rhythm created by repetition, order and joy in visual sequence.
 ```
 
-### Aula 16.3 — A textura feita com elementos naturais
+### Aula 16.3 — O padrão em tecidos e azulejos
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, marrom, bege, amarelo outono, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, white, orange, green, colors of tiles and fabrics.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Textura expressiva comunica sentimento por marcas, massas e materiais.
-A textura expressiva usa materiais naturais que deixam marcas únicas no papel."
+"Pattern is the form that repeats in an orderly way in art.
+Pattern appears in art of fabrics and tiles as shapes and colors that repeat with order."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança colando folhas, palitos e areia em um papel para criar uma colagem texturizada.
-Elementos visuais: folhas secas, gravetos, sementes, cola, papel com colagem em andamento, expressão concentrada.
+The illustration should show a child observing the painel of blueejos colorful with repeated pattern, beside it of tecido estampado with same tipo of pattern.
+Visual elements: blueejos with colorful geometric shapes, tecido with estampa ordenada, child pointing for repetitionof shapes.
 
-Linguagem visual: arte natural, descoberta dos materiais do mundo, criatividade com a criação de Deus.
+Visual language: pattern in applied art, repetition in decorative surfaces, beauty of order created by man.
 ```
 
 ---
@@ -992,135 +1038,141 @@ Linguagem visual: arte natural, descoberta dos materiais do mundo, criatividade 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: branco, azul suave, verde claro, bege, amarelo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: white, soft blue, light green, beige, yellow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Espaço organiza fundo, borda e centro dentro do papel.
-O espaço organiza o papel em fundo, borda e centro para que cada parte tenha o seu lugar."
+"Space organizes background, edge, and center inside the paper.
+O space organiza the paper in background, edge and center for that cada parte tenha the seu lugar."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma folha em branco sendo organizada com zonas marcadas suavemente: fundo, borda e centro.
-Elementos visuais: papel com divisões visuais suaves, seta apontando para o centro, criança observando com atenção.
+The illustration should show the blank sheet sendo organizada with zonas markeds softmente: background, edge and center.
+Visual elements: paper with soft visual divisions, arrow pointing to the center, child observing with attention.
 
-Linguagem visual: organização visual, lugar de cada elemento, clareza espacial.
+Visual language: visual organization, lugar of cada element, clarity espacial.
 ```
 
-### Aula 17.2 — O fundo, a borda e o centro
+### Aula 17.2 — O fundo e a borda no papel
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul de fundo, verde borda, laranja no centro — três zonas distintas.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: soft blue for background, light green for edge, paper white and subtle yellow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Espaço organiza fundo, borda e centro dentro do papel.
-O espaço começa pelo fundo que preenche a área atrás das figuras principais."
+"Space is the area of the paper divided into background, edge, and center.
+O space usa a background behindof figures and the edge around itof paper for organizar an image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um desenho com três zonas claramente distintas: fundo azul, moldura verde, figura central em laranja.
-Elementos visuais: fundo preenchido, borda suave ao redor, elemento principal no centro bem posicionado.
+The illustration should show the sheet with soft background behind of simple figures and the edge visible around itof paper.
+Visual elements: background preenchido, clear edge around it, simple figures on paper, visual organization without foco on center.
 
-Linguagem visual: profundidade, camadas visuais, composição ordenada.
+Visual language: background, edge, limitof paper, visual organization.
 ```
 
-### Aula 17.3 — O grande e o pequeno
+### Aula 17.3 — O centro no papel
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, verde, amarelo, vermelho, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: paper white, yellow on center, soft blue, light green and red discreto.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Espaço organiza fundo, borda e centro dentro do papel.
-O espaço organiza figuras pelo centro ao colocar o maior elemento no meio do papel."
+"Space is the area of the paper divided into background, edge, and center.
+O space usa the center for colocar the main element on middle of paper."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o mesmo elemento em tamanhos diferentes: um grande no centro e vários pequenos ao redor.
-Elementos visuais: flor grande no centro, flores pequenas ao redor, contraste de tamanho evidente e agradável.
+The illustration should show the sheet with main element simple colocado clearly on centerof paper.
+Visual elements: main figure on center, clean background, subtle edge, balanced composition.
 
-Linguagem visual: escala, hierarquia visual, grande e pequeno em harmonia.
+Visual language: center, middle of paper, main element, balanced composition.
 ```
 
 ---
 
 ## Semana 18
 
-### Aula 18.1 — O espaço cheio e vazio
+### Aula 18.1 — O tamanho na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: branco limpo para vazio; azul, verde, amarelo para cheio.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: light blue, yellow, green, red discreto and paper white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Respiro equilibra espaço cheio e vazio para ordenar o desenho.
-O respiro equilibra o cheio e o vazio para que a imagem tenha ordem e clareza."
+"Size is the visual measure of shape in work.
+Size shows whether the shape appears homege or small within a work of art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar dois lados do papel: um preenchido com formas e um espaço vazio ao lado que dá respiro.
-Elementos visuais: formas coloridas de um lado, espaço branco sereno do outro, equilíbrio visual entre os dois.
+The illustration should show the work simple with shapes of sizes different, clearly homeges and small.
+Visual elements: large circle, small square, medium triangle, clean paper, child observing the differences.
 
-Linguagem visual: equilíbrio, respiro visual, ordem na composição.
+Visual language: size, visual measure, homege shape, small shape.
 ```
 
-### Aula 18.2 — O espaço com respiro
+### Aula 18.2 — O grande e o pequeno
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: branco, azul claro, verde suave — tons que transmitem leveza.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, green, yellow, red and white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Respiro equilibra espaço cheio e vazio para ordenar o desenho.
-O respiro equilibra o espaço ao deixar partes livres ao redor dos elementos do desenho."
+"Size is the visual measure of shape in work.
+Size uses measure to show homege and small shapes in same work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um único elemento simples bem posicionado no papel com amplo espaço branco ao redor.
-Elementos visuais: folha com uma única flor ou pássaro centralizado, espaço generoso em volta, leveza e serenidade.
+The illustration should show duas shapes semelhantes, the homege and the small, side by side in same work.
+Visual elements: flor homege and flor small, simple shapes, contrast claro of visual measure.
 
-Linguagem visual: leveza, presença marcante pelo espaço vazio, arte mínima com máximo impacto.
+Visual language: large, small, measure, visual comparison.
 ```
 
-### Aula 18.3 — O espaço da cidade no papel
+### Aula 18.3 — O tamanho que chama atenção
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul céu, cinza suave, verde, laranja, amarelo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: yellow vivo, light blue, green soft, red and white.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Respiro equilibra espaço cheio e vazio para ordenar o desenho.
-O respiro equilibra o cheio e o vazio ao organizar formas com espaço entre elas."
+"Size is the visual measure of shape in work.
+The size of shape draws attention when it appears homeger than the others in work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma cidade simples desenhada por criança, com prédios, ruas e espaços entre os elementos.
-Elementos visuais: casinhas e prédios simples com espaços verdes entre eles, céu azul acima, rua ao centro.
+The illustration should show the homeger shape on visual centerof work, chamando attention entre shapes smaller.
+Visual elements: sun homege or flor homege, shapes smaller around it, foco claro on element homeger.
 
-Linguagem visual: cidade organizada, espaço como planejamento, ordem urbana infantil.
+Visual language: emphasis, size homeger, visual attention, main shape.
 ```
 
 ---
@@ -1132,21 +1184,22 @@ Linguagem visual: cidade organizada, espaço como planejamento, ordem urbana inf
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, vermelho, amarelo, verde, bege.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, red, yellow, green, beige.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Direção guia o olhar e conduz a história na imagem.
-A direção guia o olhar e mostra para onde a história da imagem se move."
+"Direction guides the eye and leads the story in the image.
+Direction guides the eye and shows where an image story moves."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um caminho visual que leva o olhar de um ponto ao outro dentro da imagem.
-Elementos visuais: elementos visuais dispostos em sequência (pássaro, árvore, casa), olhos de criança seguindo o caminho.
+The illustration should show the visual path that leads the eye from one point to another inside an image.
+Visual elements: visual elements arranged in sequence (bird, tree, house), child's eyes following a path.
 
-Linguagem visual: movimento do olhar, narrativa visual, caminho da história.
+Visual language: movement of the eye, visual narrative, path of story.
 ```
 
 ### Aula 21.2 — A seta que guia a história
@@ -1154,21 +1207,22 @@ Linguagem visual: movimento do olhar, narrativa visual, caminho da história.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho vivo, azul, amarelo, branco — cores que chamam atenção.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: vivid red, blue, yellow, white, colors that draw attention.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Direção guia o olhar e conduz a história na imagem.
-A direção guia o olhar ao usar setas e linhas que mostram para onde olhar primeiro."
+"Direction guides the eye and leads the story in the image.
+Direction guides the eye by using arrows and lines that show where to look first."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar setas coloridas guiando o olhar por uma pequena história visual simples.
-Elementos visuais: seta apontando para personagem, depois para ação, depois para resultado — como um quadrinho simples.
+The illustration should show colorful arrows guiding the eye through a small simple visual story.
+Visual elements: arrow pointing to character, then to action, then to result, like a simple comic strip.
 
-Linguagem visual: sequência narrativa, guia visual, seta como condutor.
+Visual language: narrative sequence, visual guide, arrow like a conductor.
 ```
 
 ### Aula 21.3 — O caminho feito com pincel
@@ -1176,21 +1230,22 @@ Linguagem visual: sequência narrativa, guia visual, seta como condutor.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, verde, laranja, rosa — traços de tinta vivos.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, green, orange, pink, lively paint strokes.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Direção guia o olhar e conduz a história na imagem.
-A direção conduz a história ao criar caminhos com o pincel que orientam os olhos."
+"Direction guides the eye and leads the story in the image.
+Direction leads the story by creating brush paths that guide the eyes."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar traços de pincel formando um caminho que guia o olhar pelo papel.
-Elementos visuais: pinceladas largas em movimento, criança segurando pincel com gestos amplos, caminho visual formado.
+The illustration should show brush strokes forming a path that guides the eye across the paper.
+Visual elements: wide brushstrokes in movement, child holding brush with broad gestures, formed visual path.
 
-Linguagem visual: gesto como guia, pincel como narrador, movimento criativo.
+Visual language: gesture as a guide, brush like a narrator, creative movement.
 ```
 
 ---
@@ -1202,21 +1257,22 @@ Linguagem visual: gesto como guia, pincel como narrador, movimento criativo.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, vermelho, amarelo, verde — distribuídos simetricamente.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue, red, yellow, green, symmetrically distributed.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Equilíbrio organiza partes diferentes para a obra ficar firme e bela.
-O equilíbrio organiza partes diferentes para que a obra fique firme e bela."
+"Balance organizes different parts so the work remains stable and beautiful.
+Balance organizes different parts so the work remains stable and beautiful."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma obra em que os elementos estão distribuídos de forma equilibrada dos dois lados.
-Elementos visuais: formas e cores espelhadas no papel, sensação de estabilidade, criança com expressão satisfeita.
+The illustration should show a work where elements are distributed in a balanced way on both sides.
+Visual elements: mirrored shapes and colors on paper, sense of stability, child with satisfied expression.
 
-Linguagem visual: harmonia, estabilidade visual, obra que não cai.
+Visual language: harmony, visual stability, a work that does not fall.
 ```
 
 ### Aula 22.2 — O equilíbrio da dobradura
@@ -1224,21 +1280,22 @@ Linguagem visual: harmonia, estabilidade visual, obra que não cai.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, azul, amarelo, rosa — cores de papel colorido.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: green, blue, yellow, pink, colors of colored paper.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Equilíbrio organiza partes diferentes para a obra ficar firme e bela.
-O equilíbrio organiza partes simétricas ao dobrar o papel e repetir as formas."
+"Balance organizes different parts so the work remains stable and beautiful.
+Balance organizes symmetrical parts by folding the paper and repeating shapes."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar mãos de criança dobrando papel ao meio, revelando um padrão simétrico ao abrir.
-Elementos visuais: papel dobrado ao meio, forma simétrica revelada, borboleta ou flor nascendo da dobra, sorriso de surpresa.
+The illustration should show a child's hands folding paper in half, revealing the symmetrical pattern when opened.
+Visual elements: paper folded in half, revealed symmetrical shape, butterfly or flower emerging from the fold, surprised smile.
 
-Linguagem visual: simetria revelada, equilíbrio pelo dobrar, surpresa criativa.
+Visual language: revealed symmetry, balance through folding, creative surprise.
 ```
 
 ### Aula 22.3 — O equilíbrio da simetria
@@ -1246,21 +1303,22 @@ Linguagem visual: simetria revelada, equilíbrio pelo dobrar, surpresa criativa.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul e espelho azul, verde e espelho verde, fundo claro.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: blue and espelho blue, green and espelho green, light background.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Equilíbrio organiza partes diferentes para a obra ficar firme e bela.
-O equilíbrio da simetria deixa a obra firme ao espelhar formas de um lado para o outro."
+"Balance organizes different parts so the work remains stable and beautiful.
+The balance of symmetry makes the work stable by mirroring shapes from one side to other."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma figura simétrica (borboleta, rosto, mandala simples) com eixo de simetria visível.
-Elementos visuais: borboleta com asas idênticas, linha central clara, criança traçando o eixo com o dedo.
+The illustration should show the symmetrical figure (butterfly, rosto, mandala simple) with axis of symmetry visible.
+Visual elements: butterfly with identical wings, clear central line, child tracing the axis with a finger.
 
-Linguagem visual: espelho criativo, ordem pelo reflexo, firmeza da simetria.
+Visual language: creative mirror, order through reflection, stability of symmetry.
 ```
 
 ---
@@ -1272,21 +1330,22 @@ Linguagem visual: espelho criativo, ordem pelo reflexo, firmeza da simetria.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: todas — vermelho, azul, amarelo, verde, laranja, roxo.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: all colors, red, blue, yellow, green, orange, purple.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Composição une ponto, linha, forma, cor e espaço com ordem.
-A composição une todos os elementos visuais em uma obra com ordem e beleza."
+"Composition joins point, line, shape, color, and space with order.
+Composition joins all visual elements in work with order and beauty."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma obra completa onde todos os elementos aparecem integrados: pontos, linhas, formas, cores e espaços.
-Elementos visuais: obra rica e colorida com cada elemento reconhecível, criança contemplando satisfeita.
+The illustration should show a complete work where all elements appear integrated: points, lines, shapes, colors and spaces.
+Visual elements: rich work and colorful with each recognizable element, child gazing with satisfaction.
 
-Linguagem visual: integração criativa, obra completa, todos os elementos em harmonia.
+Visual language: creative integration, work complete, all elements in harmony.
 ```
 
 ### Aula 23.2 — O quadro com formas e cores
@@ -1294,21 +1353,22 @@ Linguagem visual: integração criativa, obra completa, todos os elementos em ha
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: paleta viva e contrastante — vermelho, azul, amarelo, verde, laranja.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: vivid and contrasting palette, red, blue, yellow, green, orange.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Composição une ponto, linha, forma, cor e espaço com ordem.
-A composição une forma e cor para criar um quadro com equilíbrio e harmonia."
+"Composition joins point, line, shape, color, and space with order.
+Composition joins shape and color to create the picture with balance and harmony."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma tela com formas geométricas coloridas organizadas em composição equilibrada.
-Elementos visuais: círculos, quadrados e triângulos coloridos, dispostos com espaço entre si, enquadrado com moldura simples.
+The illustration should show the canvas with colorful geometric shapes organized in a balanced composition.
+Visual elements: circles, squares and triangles colorful, dispostos with space entre si, ensquare with moldura simple.
 
-Linguagem visual: composição geométrica colorida, equilíbrio de cor e forma, obra acabada.
+Visual language: colorful geometric composition, balance of color and shape, finished work.
 ```
 
 ### Aula 23.3 — A obra com ponto, linha e espaço
@@ -1316,21 +1376,22 @@ Linguagem visual: composição geométrica colorida, equilíbrio de cor e forma,
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: preto, azul, branco — simplicidade dos elementos básicos.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: black, blue, white, simplicity of basic elements.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Composição une ponto, linha, forma, cor e espaço com ordem.
-A composição usa ponto, linha e espaço para criar obras com ordem e sentido."
+"Composition joins point, line, shape, color, and space with order.
+Composition uses point, line, and space to create works with order and meaning."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma composição minimalista com pontos, linhas e espaços organizados com intenção.
-Elementos visuais: pontos de diferentes tamanhos, linhas de diferentes espessuras, espaço vazio intencional — obra de beleza simples.
+The illustration should show the minimalist composition with points, lines and spaces organized with intention.
+Visual elements: points of different sizes, lines of different thicknesses, intentional empty space, work of simple beauty.
 
-Linguagem visual: minimalismo intencional, beleza no básico, elementos fundamentais em harmonia.
+Visual language: intentional minimalism, beauty in the basics, fundamental elements in harmony.
 ```
 
 ---
@@ -1342,21 +1403,22 @@ Linguagem visual: minimalismo intencional, beleza no básico, elementos fundamen
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja, azul, verde, amarelo — cores alegres e simples.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange, blue, green, yellow, colors cheerful and simple.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma simples ajuda o desenho a nascer com clareza e ordem.
-A forma simples ajuda o desenho a nascer com clareza ao usar círculos, quadrados e triângulos."
+"Simple shape helps the drawing begin with clarity and order.
+Simple shape helps the drawing begin clearly by using circles, squares, and triangles."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança desenhando passo a passo usando formas básicas que se transformam em uma figura.
-Elementos visuais: círculo virando rosto, quadrado virando corpo, criança com lápis, sequência visual de construção.
+The illustration should show a child drawing step by step using basic shapes that turn into a figure.
+Visual elements: circle becoming a face, square becoming a body, child with pencils, visual construction sequence.
 
-Linguagem visual: construção gradual, forma como ponto de partida, clareza do processo.
+Visual language: gradual construction, shape as a starting point, clarity of process.
 ```
 
 ### Aula 24.2 — O círculo que vira gato
@@ -1364,21 +1426,22 @@ Linguagem visual: construção gradual, forma como ponto de partida, clareza do 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: laranja, preto, branco, amarelo — cores do gato e do papel.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: orange, black, white, yellow, colors of cat and the paper.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma simples ajuda o desenho a nascer com clareza e ordem.
-A forma simples ajuda o desenho a nascer quando o círculo vira cabeça, olho ou corpo."
+"Simple shape helps the drawing begin with clarity and order.
+Simple shape helps the drawing begin when the circle becomes a head, an eye, or a body."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar dois momentos: um círculo simples do lado esquerdo e o gato completo do lado direito.
-Elementos visuais: círculo laranja, setas mostrando as adições (orelhas, olhos, bigodes, cauda), gato sorridente ao final.
+The illustration should show two moments, a simple circle on the left and the complete cat on the right.
+Visual elements: orange circle, arrows showing the additions (ears, eyes, whiskers, tail), cat smiling at the end.
 
-Linguagem visual: transformação criativa, círculo como semente, forma que ganha vida.
+Visual language: creative transformation, circle like a seed, shape that gains life.
 ```
 
 ### Aula 24.3 — O triângulo e o quadrado na casa
@@ -1386,21 +1449,22 @@ Linguagem visual: transformação criativa, círculo como semente, forma que gan
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: vermelho telhado, azul parede, verde grama, amarelo sol.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: red roof, blue wall, grass green, sun yellow.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Forma simples ajuda o desenho a nascer com clareza e ordem.
-A forma simples permite o desenho nascer com clareza ao usar triângulos e quadrados para criar casas."
+"Simple shape helps the drawing begin with clarity and order.
+Simple shape allows the drawing to begin clearly by using triangles and squares to create houses."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma casa simples construída com triângulo (telhado) e quadrado (paredes), como um passo a passo visual.
-Elementos visuais: quadrado azul + triângulo vermelho = casa completa, jardim simples, sol no canto, criança na frente.
+The illustration should show a simple house built with triangle (roof) and square (walls), like a visual step by step.
+Visual elements: blue square + red triangle = complete house, simple garden, sun in the corner, child in front.
 
-Linguagem visual: construção geométrica, forma que vira lar, clareza construtiva.
+Visual language: geometric construction, shape that becomes a home, constructive clarity.
 ```
 
 ---
@@ -1412,21 +1476,22 @@ Linguagem visual: construção geométrica, forma que vira lar, clareza construt
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, azul, laranja, amarelo, rosa — cores animadas e vivas.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: green, blue, orange, yellow, pink, lively and animated colors.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Personagem transforma formas simples em figuras com expressão.
-O personagem transforma formas simples em figuras com expressão e vida."
+"Character turns simple shapes into figures with expression.
+The character turns simple shapes into figures with expression and life."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar vários personagens-animais simples feitos de formas geométricas, cada um com expressão própria.
-Elementos visuais: cachorro com círculos, pássaro com triângulos, peixe com ovais — cada um sorrindo ou expressando algo.
+The illustration should show several simple animal-characters made of geometric shapes, each with a unique expression.
+Visual elements: dog with circles, bird with triangles, fish with ovals, each one smiling or expressing something.
 
-Linguagem visual: personalidade visual, vida nas formas, expressão que nasce do simples.
+Visual language: visual personality, life in shapes, expression born from simplicity.
 ```
 
 ### Aula 25.2 — O sol como personagem
@@ -1434,21 +1499,22 @@ Linguagem visual: personalidade visual, vida nas formas, expressão que nasce do
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz alegre e calorosa.
-Paleta de cores: amarelo vivo, laranja, branco, azul céu.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful and warm light.
+Color palette: vivid yellow, orange, white, sky blue.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Personagem transforma formas simples em figuras com expressão.
-O personagem transforma formas simples em figuras que ganham rosto, corpo e movimento."
+"Character turns simple shapes into figures with expression.
+The character turns simple shapes into figures that gain face, body, and movement."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um sol com rosto sorridente, braços e expressão animada — o círculo transformado em personagem.
-Elementos visuais: círculo amarelo com rosto sorridente, raios como braços e cabelo, fundo azul, postura alegre.
+The illustration should show the sun with smiling face, arms and animated expression, the circle transformed into a character.
+Visual elements: yellow circle with smiling face, rays like arms and hair, blue background, cheerful posture.
 
-Linguagem visual: animismo infantil, forma simples com alma, alegria solar.
+Visual language: childlike animism, simple shape with soul, solar joy.
 ```
 
 ### Aula 25.3 — O bicho inventado
@@ -1456,789 +1522,770 @@ Linguagem visual: animismo infantil, forma simples com alma, alegria solar.
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: roxo, verde limão, rosa, turquesa — cores fantásticas e únicas.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere.
+Color palette: purple, lime green, pink, turquoise, fantastic and unique colors.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Personagem transforma formas simples em figuras com expressão.
-O personagem inventado mostra expressão quando o artista dá forma, cor e traço únicos ao ser criado."
+"Character turns simple shapes into figures with expression.
+The invented character shows expression when the artist gives unique shape, color, and line to created being."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criatura inventada com mistura de animais conhecidos, expressão própria e cores únicas.
-Elementos visuais: corpo composto por asas de borboleta, pescoço de girafa e cauda de peixe — ser alegre e amigável.
+The illustration should show the invented creature with a mixture of familiar animals, unique expression and unique colors.
+Visual elements: body composed of butterfly wings, giraffe neck and fish tail, cheerful and friendly being.
 
-Linguagem visual: imaginação criativa, unicidade da criatura, personagem inventado com amor.
+Visual language: creative imagination, uniqueness of the creature, invented character with love.
 ```
 
 ---
 
 ## Semana 26
 
-### Aula 26.1 — O meu mundo em desenho
+### Aula 26.1 — A figura e o fundo
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: verde, azul, marrom, amarelo, rosa — as cores do dia a dia.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Mundo desenhado mostra lugares queridos com ordem, beleza e gratidão.
-O mundo desenhado mostra lugares queridos com ordem, beleza e cuidado no papel."
+"Figure is the shape that appears in front of background in image.
+You observe a figure that appears in front of background in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um mapa infantil do mundo de uma criança: casa, escola, praça e natureza vistos de cima.
-Elementos visuais: casinha, árvore, parque, escola, caminhos entre eles — vista aérea simples e colorida.
+The illustration should show a figure and a background in a simple visual scene for a 6 to 7 year old child.
+Visual elements: figure and background, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: meu mundo como obra, gratidão pelos lugares amados, mapa afetivo.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 26.2 — A minha casa no desenho
+### Aula 26.2 — A figura que aparece na frente
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e acolhedora, ambiente familiar.
-Paleta de cores: laranja telhado, amarelo parede, verde jardim, azul janelas, branco.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Mundo desenhado mostra lugares queridos com ordem, beleza e gratidão.
-O mundo desenhado mostra lugares queridos como a casa, a escola e o quintal com carinho."
+"Figure is the shape that appears in front of background in image.
+You perceive a figure that appears in front of image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar a casa da criança desenhada com amor: janelas com cortinas, jardim na frente, fumaça do telhado.
-Elementos visuais: casa simples com detalhes afetivos (flores na janela, caminho de pedras, árvore favorita).
+The illustration should show a figure that appears in front in a simple visual scene for a 6 to 7 year old child.
+Visual elements: figure in front, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: lar amado, beleza do cotidiano, gratidão pelo lugar de morar.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 26.3 — O meu cantinho favorito
+### Aula 26.3 — O fundo que fica atrás
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e intimista, ambiente aconchegante.
-Paleta de cores: bege, marrom claro, azul, verde, rosa — tons de aconchego.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Mundo desenhado mostra lugares queridos com ordem, beleza e gratidão.
-O mundo desenhado expressa gratidão ao registrar o cantinho favorito com beleza e cuidado."
+"Figure is the shape that appears in front of background in image.
+You see a background that stays behind a figure in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um cantinho acolhedor: almofadas, livros, janela com luz suave — o lugar preferido de uma criança.
-Elementos visuais: cantinho com travesseiro, livro, janela com sol, planta pequena, expressão serena de criança.
+The illustration should show a background that stays behind in a simple visual scene for a 6 to 7 year old child.
+Visual elements: background behind, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: refúgio amoroso, cantinho de paz, gratidão pelo aconchego.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 27
 
-### Aula 27.1 — Os lugares e histórias
+### Aula 27.1 — A sobreposição na imagem
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, ambiente acolhedor.
-Paleta de cores: azul, verde, marrom, bege, amarelo — cores de lugares variados.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Lugar desenhado mostra espaços e histórias com formas e cores.
-O lugar desenhado mostra espaços e histórias com formas e cores que revelam a identidade do lugar."
+"Overlap is the shape that covers another to create depth.
+You observe overlap when one shape covers another in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar diferentes lugares pequenos ao lado: praça, parque, mercado, escola — cada um com sua cor e forma.
-Elementos visuais: quatro pequenas cenas de lugares distintos, cada uma com elemento característico, cores diferentes.
+The illustration should show the overlap in image in a simple visual scene for a 6 to 7 year old child.
+Visual elements: overlap in image, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: diversidade de lugares, identidade visual de cada espaço, história que o lugar conta.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 27.2 — A igreja com torres
+### Aula 27.2 — O objeto que cobre o outro
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e reverente, ambiente sereno.
-Paleta de cores: pedra cinza suave, azul céu, branco, verde, dourado.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Lugar desenhado mostra espaços e histórias com formas e cores.
-O lugar desenhado usa formas verticais e horizontais para retratar a Igreja com torres e arcos."
+"Overlap is the shape that covers another to create depth.
+You percebe the overlap quando an object cobre the another in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma igreja simples e majestosa com torres altas, vitrais coloridos e céu limpo ao redor.
-Elementos visuais: torres verticais, arco da entrada, vitral colorido na fachada, céu azul, árvores ao lado.
+The illustration should show an object that cobre the another in a simple visual scene for a 6 to 7 year old child.
+Visual elements: object that cobre, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: verticalidade sagrada, beleza da casa de Deus, torres que apontam para o alto.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 27.3 — O parquinho colorido
+### Aula 27.3 — A profundidade pela sobreposição
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz alegre e solar, ambiente de brincadeira.
-Paleta de cores: vermelho, azul, amarelo, verde, laranja — todas as cores da alegria.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Lugar desenhado mostra espaços e histórias com formas e cores.
-O lugar desenhado usa cores vivas para mostrar a alegria do parquinho e da brincadeira."
+"Overlap is the shape that covers another to create depth.
+You see overlap create depth when one shape covers another."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um parquinho vibrante com crianças brincando, escorregador, balanço e grama verde.
-Elementos visuais: escorregador vermelho, balanço azul, crianças sorrindo, grama verde, sol alto e alegre.
+The illustration should show the depth through overlap in a simple visual scene for a 6 to 7 year old child.
+Visual elements: depth, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: alegria do brincar, cores que comunicam festa, lugar de encontro e vida.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 28
 
-### Aula 28.1 — As histórias que inspiram a arte
+### Aula 28.1 — Os planos da imagem
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e inspiradora.
-Paleta de cores: dourado, marrom, azul, verde — cores de livro e memória.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"História inspira imagens que ajudam a lembrar fatos importantes.
-A história inspira imagens que ajudam a criança a lembrar fatos importantes com beleza."
+"Plane is the distance that separates what is near from what is far in an image.
+You observa the plano quando algo fica near and another fica longe in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança ouvindo uma história e vendo as imagens ganharem vida na imaginação.
-Elementos visuais: criança com livro aberto, imagens da história surgindo ao redor como bolhas de pensamento simples.
+The illustration should show an image planes in a simple visual scene for a 6 to 7 year old child.
+Visual elements: image planes, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: imaginação ativada, história que vira imagem, memória visual.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 28.2 — A arca com muitos animais
+### Aula 28.2 — O primeiro plano perto
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e alegre, céu de tempestade suavizado.
-Paleta de cores: marrom madeira, azul água, verde, laranja, cinza nuvem.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"História inspira imagens que ajudam a lembrar fatos importantes.
-A história inspira imagens que retratam a arca e os animais de Noé com detalhes visuais."
+"Plane is the distance that separates what is near from what is far in an image.
+You percebe the plano of near on first planoof image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar a arca de Noé com animais entrando em pares, céu dramático e arco-íris suave ao fundo.
-Elementos visuais: arca grande de madeira, animais em duplas (elefante, girafa, leão), arco-íris ao fundo.
+The illustration should show the near foreground in a simple visual scene for a 6 to 7 year old child.
+Visual elements: near foreground, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: fidelidade de Deus, diversidade da criação, história que se torna imagem.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 28.3 — O jardim da criação
+### Aula 28.3 — O fundo bem longe
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz dourada e pura, ambiente do paraíso original.
-Paleta de cores: verde vivo, azul cristalino, amarelo ouro, rosa flor, branco luz.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"História inspira imagens que ajudam a lembrar fatos importantes.
-A história ajuda a lembrar fatos importantes ao transformar o jardim da criação em imagem."
+"Plane is the distance that separates what is near from what is far in an image.
+You see the far plane in the background of the image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o jardim do Éden com flores, animais e água clara — beleza perfeita e ordenada.
-Elementos visuais: flores coloridas, árvore frutífera, rio cristalino, animais mansos, luz suave vinda de cima.
+The illustration should show the far background in a simple visual scene for a 6 to 7 year old child.
+Visual elements: far background, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: paraíso original, beleza perfeita de Deus, mundo como foi criado para ser.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 31
 
-### Aula 31.1 — O céu e a esperança
+### Aula 31.1 — O ritmo na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz dourada e gloriosa, atmosfera de promessa.
-Paleta de cores: azul profundo, dourado, branco luminoso, roxo suave, prata.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Esperança olha para a beleza prometida por Deus com alegria.
-A esperança olha para a beleza prometida por Deus e inspira a arte com alegria e reverência."
+"Rhythm is the repetition of shapes and colors in art.
+You observe rhythm when shapes and colors repeat in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança olhando para o céu com expressão de alegria e esperança, braços abertos.
-Elementos visuais: criança de costas olhando para o alto, céu com luz dourada e nuvens suaves, postura de admiração.
+The illustration should show the rhythm in art in a simple visual scene for a 6 to 7 year old child.
+Visual elements: rhythm in art, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: esperança ativa, olhar para o alto, alegria da promessa divina.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 31.2 — Os anjos com tinta e papel
+### Aula 31.2 — O ritmo que se repete
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e luminosa, ambiente sereno.
-Paleta de cores: branco, dourado, azul suave, rosa, prata.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Esperança olha para a beleza prometida por Deus com alegria.
-A esperança olha para a beleza dos anjos e do céu e a transforma em imagem com tinta e papel."
+"Rhythm is the repetition of shapes and colors in art.
+You percebe the rhythm in repetition that volta sempre in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança desenhando um anjo com asas em papel, e o anjo parece ganhar vida suavemente.
-Elementos visuais: criança com pincel, papel com anjo desenhado, asas brancas e douradas, luz suave em volta.
+The illustration should show the rhythm that se repete in a simple visual scene for a 6 to 7 year old child.
+Visual elements: repetition, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: esperança que cria, anjo saindo do papel, arte como resposta à fé.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 31.3 — A visão do céu
+### Aula 31.3 — O ritmo nas formas e cores
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz gloriosa e suave, atmosfera de revelação.
-Paleta de cores: dourado intenso, branco, roxo, azul, prata brilhante.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Esperança olha para a beleza prometida por Deus com alegria.
-A esperança contempla a promessa de Deus com alegria ao desenhar a visão do céu."
+"Rhythm is the repetition of shapes and colors in art.
+You see rhythm in shapes that repeat with colors in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma visão simplificada do céu: portões de luz, jardim celestial, luz intensa e acolhedora.
-Elementos visuais: portão dourado, flores de luz, nuvens suaves, criança contemplando de longe com expressão de paz.
+The illustration should show the rhythm in shapes and colors in a simple visual scene for a 6 to 7 year old child.
+Visual elements: shapes in rhythm, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: promessa cumprida, beleza da eternidade, esperança concreta.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 32
 
-### Aula 32.1 — A criação da luz, dos céus e das águas
+### Aula 32.1 — O movimento na imagem
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz dramática e magnífica, atmosfera de criação.
-Paleta de cores: branco luminoso, azul profundo, preto trevas, azul céu, turquesa água.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Criação mostra Deus formando luz, céus e águas com poder.
-A criação mostra Deus formando luz, céus e águas com poder e ordem."
+"Movement is the action of lines and characters in an image.
+You observa the movement quando lines and personagens parecem se mexer in image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o momento em que a luz foi separada das trevas, com o céu e a água se organizando.
-Elementos visuais: metade brilhante de luz, metade escura de trevas, divisão clara, céu azul surgindo, água abaixo.
+The illustration should show the movement in image in a simple visual scene for a 6 to 7 year old child.
+Visual elements: movement in image, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: poder criador de Deus, ordem saindo do caos, beleza da criação inicial.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 32.2 — A luz e as trevas
+### Aula 32.2 — As linhas que correm
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Contraste dramático entre luz e escuridão.
-Paleta de cores: branco, amarelo vivo versus preto, roxo escuro — contraste total.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Criação mostra Deus formando luz, céus e águas com poder.
-A criação começa com a luz que Deus separou das trevas no primeiro dia."
+"Movement is the action of lines and characters in an image.
+You perceive movement in lines that run through an image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar a separação da luz e das trevas no primeiro dia da criação.
-Elementos visuais: metade esquerda brilhante (branco e dourado), metade direita escura (preto e roxo), linha de separação clara.
+The illustration should show the lines that colorrem in a simple visual scene for a 6 to 7 year old child.
+Visual elements: lines that colorrem, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: separação divina, luz como ordem, contraste que dá sentido.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 32.3 — Os céus e as águas
+### Aula 32.3 — O movimento dos personagens
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz clara e renovada, atmosfera de criação.
-Paleta de cores: azul céu, turquesa água, branco nuvem, verde costa suave.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Criação mostra Deus formando luz, céus e águas com poder.
-A criação mostra as águas que Deus reuniu em mares e rios com poder e ordem."
+"Movement is the action of lines and characters in an image.
+You see the movement of characters that seem to walk in the image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o céu azul acima e as águas claras abaixo — o segundo dia da criação.
-Elementos visuais: céu vasto com nuvens brancas, linha do horizonte clara, águas calmas abaixo, gradiente suave.
+The illustration should show the movement of characters in a simple visual scene for a 6 to 7 year old child.
+Visual elements: movement of characters, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: ordem da criação, beleza dos céus e mares, majestade do segundo dia.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 33
 
-### Aula 33.1 — A criação da terra, dos luminares e dos seres vivos
+### Aula 33.1 — O contraste na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz plena da criação, ambiente de abundância.
-Paleta de cores: verde terra, azul céu, amarelo sol, cinza lua, laranja amanhecer.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Vida criada mostra terra, luminares e seres vivos em ordem.
-A vida criada mostra terra, luminares e seres vivos em harmonia na criação de Deus."
+"Contrast is the opposition between light and dark in art.
+You observa the contrast quando the claro and the escuro aparecem juntos in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar terra verde, sol e lua no céu, e animais primeiros surgindo — tudo em harmonia.
-Elementos visuais: montanhas verdes, sol brilhante, lua ao lado, peixe no mar, pássaro no ar, tudo junto.
+The illustration should show the contrast in art in a simple visual scene for a 6 to 7 year old child.
+Visual elements: contrast in art, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: plenitude da criação, ordem e harmonia, vida em abundância.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 33.2 — A terra, o sol, a lua e as estrelas
+### Aula 33.2 — O claro e o escuro
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz cósmica e maravilhosa.
-Paleta de cores: azul marinho, amarelo ouro, prata, verde, laranja.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Vida criada mostra terra, luminares e seres vivos em ordem.
-A vida criada inclui a terra que Deus formou junto com o sol, a lua e as estrelas."
+"Contrast is the opposition between light and dark in art.
+You percebe the contrast entre the claro and the escuro in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar o sistema da criação: terra verde no centro, sol e lua visíveis, estrelas ao fundo.
-Elementos visuais: globo verde e azul, sol grande e amarelo, lua prata, estrelas douradas ao redor, tudo em ordem.
+The illustration should show the claro and the escuro in a simple visual scene for a 6 to 7 year old child.
+Visual elements: claro and escuro, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: sistema celeste criado, beleza cósmica, admiração pelos luminares.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 33.3 — Os peixes e as aves
+### Aula 33.3 — As cores que se opõem
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave de manhã, ambiente de criação viva.
-Paleta de cores: azul mar, turquesa, verde, amarelo, laranja — cores vivas da criação.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Vida criada mostra terra, luminares e seres vivos em ordem.
-A vida criada revela os seres vivos como peixes e aves que Deus chamou à existência."
+"Contrast is the opposition between light and dark in art.
+You see contrast in the opposition of colors that face each other in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar peixes coloridos no mar abaixo e pássaros no céu acima, dividindo o mundo criado.
-Elementos visuais: mar azul com peixes diversos, céu claro com pássaros de asas abertas, horizonte entre os dois.
+The illustration should show colors that oppose each other in a simple visual scene for a 6 to 7 year old child.
+Visual elements: colors that oppose each other, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: diversidade da vida criada, terra e água habitadas, beleza dos primeiros animais.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 34
 
-### Aula 34.1 — A criação dos animais, do homem e do descanso
+### Aula 34.1 — A proporção na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz plena do sexto dia, atmosfera de completude.
-Paleta de cores: verde, marrom, azul, amarelo — toda a criação reunida.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Descanso lembra que Deus completou sua obra com perfeição.
-O descanso lembra que Deus completou sua obra com perfeição e alegria."
+"Proportion is the size relationship between parts of an image.
+You observa the proportion quando compara the sizeof partsof image."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar animais e uma figura humana simples num jardim abundante — a criação completa e bela.
-Elementos visuais: animais variados, silhueta humana entre eles, jardim florido, sol e céu, expressão de completude.
+The illustration should show the proportion in art in a simple visual scene for a 6 to 7 year old child.
+Visual elements: proportion in art, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: criação finalizada, obra perfeita, alegria do criador.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 34.2 — Os animais e o ser humano
+### Aula 34.2 — O grande perto do pequeno
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e harmoniosa, ambiente de paz na criação.
-Paleta de cores: marrom, verde, azul, amarelo, laranja — natureza e humanidade juntas.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Descanso lembra que Deus completou sua obra com perfeição.
-O descanso lembra que Deus completou a criação dos animais e do ser humano com perfeição."
+"Proportion is the size relationship between parts of an image.
+You percebe the proportion on sizeof homege nearof pequeno."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança simples e amigável cercada de animais, em cena de convivência harmoniosa.
-Elementos visuais: criança sentada, cachorro ao lado, pássaro no ombro, leão manso, flores ao redor — paz total.
+The illustration should show the homege nearof pequeno in a simple visual scene for a 6 to 7 year old child.
+Visual elements: homege nearof pequeno, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: harmonia entre criatura e criador, relação humana com os animais, domínio amoroso.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 34.3 — O dia de Deus e o painel completo
+### Aula 34.3 — A proporção do corpo e da casa
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e repousante do sétimo dia.
-Paleta de cores: dourado, branco, azul suave, verde calmo — cores de descanso.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Descanso lembra que Deus completou sua obra com perfeição.
-O descanso lembra que Deus completou sua obra com perfeição ao criar um painel completo da criação."
+"Proportion is the size relationship between parts of an image.
+You see the proportion between parts of the body and the house."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um painel dividido em sete partes, cada uma com cena de um dia da criação — completo e belo.
-Elementos visuais: sete quadrados ou círculos representando os sete dias, último com luz dourada e descanso.
+The illustration should show the proportionof colorpo eof house in a simple visual scene for a 6 to 7 year old child.
+Visual elements: parts in proportion, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: obra completa, sete dias como uma obra de arte, descanso como selo de perfeição.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 35
 
-### Aula 35.1 — A arte e a música
+### Aula 35.1 — A harmonia das cores
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz alegre e harmoniosa, ambiente de celebração.
-Paleta de cores: vermelho, azul, amarelo, verde, laranja, roxo — todo o arco-íris.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte e música expressam beleza com som, cor e movimento.
-A arte e a música expressam beleza com som, cor e movimento de forma integrada."
+"Harmony is the agreement of colors that combine in landscape.
+You observe harmony when colors combine well in landscape."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança pintando enquanto ouve música — pincel e notas musicais dançando juntos.
-Elementos visuais: criança com pincel, tela colorida, notas musicais no ar, expressão de alegria total.
+The illustration should show the harmony of colors in a simple visual scene for a 6 to 7 year old child.
+Visual elements: harmony of colors, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: integração das artes, beleza que une som e cor, expressão total.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 35.2 — A música que cria cores
+### Aula 35.2 — As cores que combinam
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz vibrante e alegre, ambiente criativo.
-Paleta de cores: cores que nascem do som — laranja vibrante, roxo profundo, verde claro, rosa.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte e música expressam beleza com som, cor e movimento.
-A arte e a música expressam beleza ao usar a cor para retratar o que a música provoca no ouvinte."
+"Harmony is the agreement of colors that combine in landscape.
+You perceive harmony in colors that combine without clashing."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar instrumentos musicais com cores emanando diretamente deles para o papel.
-Elementos visuais: violino com ondas roxas, tambor com ondas laranjas, flauta com ondas verdes — cores saindo dos sons.
+The illustration should show colors that harmonize in a simple visual scene for a 6 to 7 year old child.
+Visual elements: colors that harmonize, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: música como fonte de cor, sinestesia alegre, instrumento que pinta.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 35.3 — O som que dança com o pincel
+### Aula 35.3 — A harmonia na paisagem
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz dinâmica e em movimento, atmosfera de dança.
-Paleta de cores: azul, rosa, verde, amarelo — pinceladas em movimento.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Arte e música expressam beleza com som, cor e movimento.
-A arte e a música expressam beleza com movimento quando o pincel dança ao ritmo do som."
+"Harmony is the agreement of colors that combine in landscape.
+You see the harmony of colors that combine in landscape."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um pincel se movendo em arcos e espirais ao ritmo de notas musicais ao redor.
-Elementos visuais: pincel em movimento amplo, rastro de cor curvilíneo, notas musicais ao redor, papel com vida.
+The illustration should show the harmony in landscape in a simple visual scene for a 6 to 7 year old child.
+Visual elements: harmony in landscape, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: movimento criativo, ritmo visual, pincel como dançarino.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 36
 
-### Aula 36.1 — A imagem que a música revela
+### Aula 36.1 — O destaque na arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e reveladora, atmosfera de descoberta.
-Paleta de cores: branco que ganha cor, azul, rosa, verde — revelação gradual.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Imagem musical mostra o que o som faz nascer na imaginação.
-A imagem musical mostra o que o som faz nascer na imaginação de quem ouve."
+"Emphasis is a point that draws the eye through color in art.
+You observe emphasis in point that draws the eye through color in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar um papel em branco do qual emerge uma imagem colorida — como se a música revelasse o que estava oculto.
-Elementos visuais: papel branco com imagem surgindo no centro, cores irradiando, notas musicais ao redor.
+The illustration should show the emphasis in art in a simple visual scene for a 6 to 7 year old child.
+Visual elements: emphasis in art, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: revelação musical, som que descobre imagens, imaginação ativada.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 36.2 — Os olhos que escutam
+### Aula 36.2 — O ponto que chama o olhar
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e contemplativa, ambiente de escuta profunda.
-Paleta de cores: azul, roxo, dourado, branco — cores de profundidade e presença.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Imagem musical mostra o que o som faz nascer na imaginação.
-A imagem musical nasce do som quando os olhos escutam e transformam a melodia em forma e cor."
+"Emphasis is a point that draws the eye through color in art.
+You percebe the emphasis on point that draws the eye in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança de olhos fechados ouvindo e de olhos abertos vendo as cores que o som criou.
-Elementos visuais: dois momentos num só — olhos fechados com notas, olhos abertos com formas coloridas surgindo.
+The illustration should show a point that draws the eye in a simple visual scene for a 6 to 7 year old child.
+Visual elements: point that draws the eye, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: escuta que vira visão, percepção integrada, música que se torna imagem.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 36.3 — A música favorita em imagem
+### Aula 36.3 — O destaque pela cor
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz calorosa e pessoal, atmosfera íntima e alegre.
-Paleta de cores: escolhida pela criança — colorido, pessoal, alegre.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Imagem musical mostra o que o som faz nascer na imaginação.
-A imagem musical revela o que o som faz nascer na imaginação ao transformar uma música favorita em obra visual."
+"Emphasis is a point that draws the eye through color in art.
+You see emphasis that draws the eye through color in art."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança pintando sua música favorita — a obra sendo a tradução pessoal do som em cor e forma.
-Elementos visuais: criança com pincel, tela com formas e cores únicas, sorriso no rosto, fones no ouvido ou instrumento ao lado.
+The illustration should show the emphasis through color in a simple visual scene for a 6 to 7 year old child.
+Visual elements: emphasis through color, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: expressão pessoal, arte como resposta à música amada, obra que vem de dentro.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 37
 
-### Aula 37.1 — As obras que encantam
+### Aula 37.1 — A unidade na obra
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e admirativa, atmosfera de galeria infantil.
-Paleta de cores: dourado, azul, vermelho, verde — cores de obras famosas.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Encanto ajuda o olhar a perceber beleza nas obras de arte.
-O encanto ajuda o olhar a perceber beleza nas obras de arte com atenção e cuidado."
+"Unity is the joining of parts into a whole work.
+You observa the unity quando parts se juntam in work whole."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança diante de várias pequenas obras de arte emolduradas, olhando com admiração.
-Elementos visuais: galeria simples, quadros variados, criança de olhos arregalados, expressão de encanto puro.
+The illustration should show the unity in work in a simple visual scene for a 6 to 7 year old child.
+Visual elements: unity in work, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: admiração pela arte, olhar que percebe, beleza que para no coração.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 37.2 — Van Gogh e os girassóis
+### Aula 37.2 — As partes que formam o todo
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz solar e quente, atmosfera dos girassóis.
-Paleta de cores: amarelo ouro, laranja, azul de Van Gogh, verde, marrom.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Encanto ajuda o olhar a perceber beleza nas obras de arte.
-O encanto ajuda o olhar a perceber a beleza dos girassóis de Van Gogh com cores vivas e movimento."
+"Unity is the joining of parts into a whole work.
+You percebe the unity in parts that form the todoof work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar girassóis em estilo infantil inspirado em Van Gogh — pinceladas visíveis, cores vibrantes, vaso simples.
-Elementos visuais: vaso de cerâmica, girassóis amarelos com centros escuros, pinceladas em espiral, fundo azul vibrante.
+The illustration should show parts that form the todo in a simple visual scene for a 6 to 7 year old child.
+Visual elements: parts that form the todo, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: pincelada expressiva, cor que vibra, beleza simples e poderosa de Van Gogh.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 37.3 — Paul Klee e as cores da alegria
+### Aula 37.3 — A obra que parece inteira
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz festiva e colorida, atmosfera de alegria pura.
-Paleta de cores: todas as cores em quadrados e triângulos — paleta de Paul Klee.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Encanto ajuda o olhar a perceber beleza nas obras de arte.
-O encanto ajuda o olhar a perceber beleza nas obras de Paul Klee com formas e cores alegres."
+"Unity is the joining of parts into a whole work.
+You see unity in a work that appears whole."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar formas geométricas coloridas em estilo inspirado em Paul Klee — ritmo visual, cores vivas.
-Elementos visuais: grade de quadrados coloridos como vitrais, linhas negras suaves delimitando as cores, leveza e ritmo.
+The illustration should show the work that appears whole in a simple visual scene for a 6 to 7 year old child.
+Visual elements: work whole, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: alegria geométrica, cor como celebração, arte que convida a sorrir.
+Visual language: observation, beauty, order and gratitude.
 ```
-
----
 
 ## Semana 38
 
-### Aula 38.1 — A observação com o coração
+### Aula 38.1 — A beleza na obra de arte
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e contemplativa, atmosfera de atenção.
-Paleta de cores: verde, azul, amarelo suave, rosa — cores que convidam ao olhar.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Observação atenta vê detalhes e responde com gratidão.
-A observação atenta vê detalhes que passariam despercebidos e responde com gratidão."
+"Beauty is the harmony of elements that pleases the eye in the work.
+You observa the beauty quando the harmonyof elements pleases the eye in work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança parada e olhando com atenção para algo simples — uma flor, um pássaro, uma pedra.
-Elementos visuais: criança inclinada, olhos bem abertos, objeto de observação magnificado ao lado, expressão de maravilha.
+The illustration should show the beauty in a work of art in a simple visual scene for a 6 to 7 year old child.
+Visual elements: beauty in work, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: olhar que para, atenção como presente, gratidão pelos detalhes pequenos.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 38.2 — Os detalhes no quadro
+### Aula 38.2 — O olhar que observa os elementos
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz focada e investigativa, atmosfera de descoberta.
-Paleta de cores: variada — as cores da obra observada.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Observação atenta vê detalhes e responde com gratidão.
-A observação atenta percebe detalhes como cores, texturas e formas escondidas no quadro."
+"Beauty is the harmony of elements that pleases the eye in the work.
+You percebe the beauty quando the eye observa elementsof work."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança com lupa olhando para um quadro, descobrindo detalhes que não viu antes.
-Elementos visuais: criança com lupa, quadro com detalhes ampliados em bolhas de destaque, expressão de descoberta.
+The illustration should show the eye that observa elements in a simple visual scene for a 6 to 7 year old child.
+Visual elements: elementsof work, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: descoberta no detalhe, olhar investigativo, gratidão pelo que se revela.
+Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 38.3 — A obra que tocou o coração
+### Aula 38.3 — A obra completa e bela
 
 **Prompt:**
 
 ```
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços grossos.
-Luz suave e emocional, atmosfera de toque interior.
-Paleta de cores: dourado, rosa, azul suave — cores que aquecem o coração.
+Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
+Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
+Soft, cheerful light, warm welcoming atmosphere, no written text in image.
 
-Cena inspirada no trecho
+Scene inspired by this passage
 
-"Observação atenta vê detalhes e responde com gratidão.
-A observação atenta responde com gratidão ao perceber a beleza na obra que tocou o coração."
+"Beauty is the harmony of elements that pleases the eye in the work.
+You see beauty in a complete work that pleases the eye."
 
-Composição da cena
+Scene composition
 
-A ilustração deve mostrar uma criança diante de uma obra simples, mão no coração, expressão emocionada e grata.
-Elementos visuais: criança com mão no peito, quadro à frente irradiando luz suave, lágrima de alegria, sorriso sereno.
+The illustration should show a complete work and beautiful in a simple visual scene for a 6 to 7 year old child.
+Visual elements: work complete and beautiful, simple shapes, harmonious colors and organized space.
 
-Linguagem visual: emoção autêntica, arte que toca, resposta do coração à beleza.
+Visual language: observation, beauty, order and gratitude.
 ```

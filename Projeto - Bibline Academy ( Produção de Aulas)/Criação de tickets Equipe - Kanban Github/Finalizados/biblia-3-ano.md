@@ -11,7 +11,7 @@
 
 ---
 
-[Bíblia] - Ano 3 - 18.1 O que significa diante de mim
+[Bíblia] - Ano 3 - 18.1 O que significa diante de mim 
 
 # Description
 

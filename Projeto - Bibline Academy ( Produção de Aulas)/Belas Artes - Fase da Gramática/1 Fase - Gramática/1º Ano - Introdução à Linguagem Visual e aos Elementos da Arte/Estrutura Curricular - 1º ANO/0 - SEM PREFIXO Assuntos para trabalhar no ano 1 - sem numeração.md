@@ -18,9 +18,9 @@ A linha no desenho
 As linhas retas e curvas
 As linhas de barbante
 
-A linha como caminho
-A linha que acompanha o som
-A linha que cria trilhas
+O contorno no desenho
+O contorno e o limite
+O contorno e a figura
 
 As formas no desenho
 O círculo, o quadrado e o triângulo
@@ -39,32 +39,32 @@ O vermelho, o azul e o amarelo
 As cores que nascem da mistura
 
 As cores e as emoções
-As cores que acalmam e agitam
-As cores quentes e frias
+Cores que acalmam e agitam
+Cores quentes e frias
 
-A cor e a música
-A cor que acompanha o som
-A cor que expressa sentimento
+Cor secundária verde
+Cor secundária laranja
+Cor secundária roxo
 
-As cores do dia e da noite
-As cores da luz do sol
-As cores da noite
+A sombra e a forma
+A sombra no objeto
+A sombra no chão
 
 A textura na arte
 As texturas lisas e ásperas
 As texturas da areia e das folhas
 
-A textura e o sentimento
-A textura feita com massa
-A textura feita com elementos naturais
+O padrão na arte
+O padrão que se repete
+O padrão em tecidos e azulejos
 
 O espaço no papel
-O fundo, a borda e o centro
-O grande e o pequeno
+O fundo e a borda no papel
+O centro no papel
 
-O espaço cheio e vazio
-O espaço com respiro
-O espaço da cidade no papel
+O tamanho na arte
+O grande e o pequeno
+O tamanho que chama atenção
 
 Revisão
 
@@ -90,53 +90,53 @@ Os animais e personagens
 O sol como personagem
 O bicho inventado
 
-O meu mundo em desenho
-A minha casa no desenho
-O meu cantinho favorito
+A figura e o fundo
+A figura que aparece na frente
+O fundo que fica atrás
 
-Os lugares e histórias
-A igreja com torres
-O parquinho colorido
+A sobreposição na imagem
+O objeto que cobre o outro
+A profundidade pela sobreposição
 
-As histórias que inspiram a arte
-A arca com muitos animais
-O jardim da criação
+Os planos da imagem
+O primeiro plano perto
+O fundo bem longe
 
 Revisão
 
 Provas
 
-O céu e a esperança
-Os anjos com tinta e papel
-A visão do céu
+O ritmo na arte
+O ritmo que se repete
+O ritmo nas formas e cores
 
-A criação da luz, dos céus e das águas
-A luz e as trevas
-Os céus e as águas
+O movimento na imagem
+As linhas que correm
+O movimento dos personagens
 
-A criação da terra, dos luminares e dos seres vivos
-A terra, o sol, a lua e as estrelas
-Os peixes e as aves
+O contraste na arte
+O claro e o escuro
+As cores que se opõem
 
-A criação dos animais, do homem e do descanso
-Os animais e o ser humano
-O dia de Deus e o painel completo
+A proporção na arte
+O grande perto do pequeno
+A proporção do corpo e da casa
 
-A arte e a música
-A música que cria cores
-O som que dança com o pincel
+A harmonia das cores
+As cores que combinam
+A harmonia na paisagem
 
-A imagem que a música revela
-Os olhos que escutam
-A música favorita em imagem
+O destaque na arte
+O ponto que chama o olhar
+O destaque pela cor
 
-As obras que encantam
-Van Gogh e os girassóis
-Paul Klee e as cores da alegria
+A unidade na obra
+As partes que formam o todo
+A obra que parece inteira
 
-A observação com o coração
-Os detalhes no quadro
-A obra que tocou o coração
+A beleza na obra de arte
+O olhar que observa os elementos
+A obra completa e bela
 
 Revisão
 
