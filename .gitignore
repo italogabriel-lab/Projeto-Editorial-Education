@@ -86,6 +86,7 @@ diagnose_kanban_geografia.py
 node_modules/
 node_modules
 .playwright/
+.worktrees/
 .codex
 !.codex/
 !.codex/**
