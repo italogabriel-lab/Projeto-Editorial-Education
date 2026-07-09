@@ -630,11 +630,11 @@ Avaliar os conhecimentos das aulas da semana 8.
 - 5.2 As linhas retas e curvas
 - 5.3 As linhas de barbante
 
-## 6ª Semana, **A linha como caminho**
+## 6ª Semana, **O contorno no desenho**
 
-- 6.1 A linha como caminho
-- 6.2 A linha como caminho
-- 6.3 A linha que cria trilhas
+- 6.1 O contorno no desenho
+- 6.2 O contorno e o limite
+- 6.3 O contorno e a figura
 
 ## 7ª Semana, **As formas no desenho**
 
@@ -690,11 +690,11 @@ Avaliar os conhecimentos das aulas da semana 8.
 - 5.2 As linhas retas e curvas
 - 5.3 As linhas de barbante
 
-## 6ª Semana, **A linha como caminho**
+## 6ª Semana, **O contorno no desenho**
 
-- 6.1 A linha como caminho
-- 6.2 A linha como caminho
-- 6.3 A linha que cria trilhas
+- 6.1 O contorno no desenho
+- 6.2 O contorno e o limite
+- 6.3 O contorno e a figura
 
 ## 7ª Semana, **As formas no desenho**
 
