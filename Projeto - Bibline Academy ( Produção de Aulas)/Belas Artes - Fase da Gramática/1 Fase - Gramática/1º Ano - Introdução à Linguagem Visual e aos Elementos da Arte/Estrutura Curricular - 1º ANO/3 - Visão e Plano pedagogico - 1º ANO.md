@@ -1045,7 +1045,7 @@ Leve o aluno a reconhecer o desenho com formas simples como eixo da semana. Depo
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
 | 24.1 | O desenho com formas simples | Coração da semana. Define o tema principal. | Eclesiastes 3.11 |
-| 24.2 | O círculo que vira gato | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
+| 24.2 | O círculo que dar origem a imagen | Subtópico 1. Desenvolve o primeiro recorte. | Êxodo 35.35 |
 | 24.3 | O triângulo e o quadrado na casa | Subtópico 2. Desenvolve o segundo recorte. | Colossenses 3.23 |
 
 ## Progressão pedagógica
@@ -1054,7 +1054,7 @@ Leve o aluno a reconhecer o desenho com formas simples como eixo da semana. Depo
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 24.2 - O círculo que vira gato
+2. 24.2 - O círculo que dar origem a imagen
 
 Desenvolva o subtópico 1. Retome a definição da aula 24.1 e aplique o tema a um recorte específico.
 
@@ -1070,7 +1070,7 @@ O eixo O desenho com formas simples ensina a criança a ver a arte como resposta
 
 - Eixo temático, O desenho com formas simples
 - Aula coração, 24.1 O desenho com formas simples
-- Subtópico 1, 24.2 O círculo que vira gato
+- Subtópico 1, 24.2 O círculo que dar origem a imagen
 - Subtópico 2, 24.3 O triângulo e o quadrado na casa
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
@@ -1080,7 +1080,7 @@ Depois de trabalhar o desenho com formas simples, avance para os animais e perso
 
 ---
 
-## Semana 25 - Os animais e personagens
+## Semana 25 - O personagem na obra de arte
 
 ## Visão teológica
 
@@ -1096,34 +1096,34 @@ Leve o aluno a reconhecer os animais e personagens como eixo da semana. Depois, 
 
 | Aula | Título | Função pedagógica | Versículo de apoio |
 | --- | --- | --- | --- |
-| 25.1 | Os animais e personagens | Coração da semana. Define o tema principal. | Salmo 90.17 |
-| 25.2 | O sol como personagem | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 25.3 | O bicho inventado | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 25.1 | O personagem na obra de arte | Coração da semana. Define o tema principal. | Salmo 90.17 |
+| 25.2 | A figura que ganha rosto | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
+| 25.3 | O personagem inventado | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
-1. 25.1 - Os animais e personagens
+1. 25.1 - O personagem na obra de arte
 
 Apresente o tema principal da semana. Fixe a definição central e conduza a observação inicial.
 
-2. 25.2 - O sol como personagem
+2. 25.2 - A figura que ganha rosto
 
 Desenvolva o subtópico 1. Retome a definição da aula 25.1 e aplique o tema a um recorte específico.
 
-3. 25.3 - O bicho inventado
+3. 25.3 - O personagem inventado
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
 ## Mensagem central do módulo
 
-O eixo Os animais e personagens ensina a criança a ver a arte como resposta à beleza criada por Deus. Cada atividade deve unir atenção, ordem e gratidão.
+O eixo O personagem na obra de arte ensina a criança a ver a arte como resposta à beleza criada por Deus. Cada atividade deve unir atenção, ordem e gratidão.
 
 ## Resumo pedagógico
 
-- Eixo temático, Os animais e personagens
-- Aula coração, 25.1 Os animais e personagens
-- Subtópico 1, 25.2 O sol como personagem
-- Subtópico 2, 25.3 O bicho inventado
+- Eixo temático, O personagem na obra de arte
+- Aula coração, 25.1 O personagem na obra de arte
+- Subtópico 1, 25.2 A figura que ganha rosto
+- Subtópico 2, 25.3 O personagem inventado
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 26
@@ -1254,7 +1254,7 @@ Leve o aluno a reconhecer os planos da imagem como eixo da semana. Depois, condu
 | --- | --- | --- | --- |
 | 28.1 | Os planos da imagem | Coração da semana. Define o tema principal. | Provérbios 3.6 |
 | 28.2 | O primeiro plano perto | Subtópico 1. Desenvolve o primeiro recorte. | Romanos 11.36 |
-| 28.3 | O fundo bem longe | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
+| 28.3 | O plano fundo longe | Subtópico 2. Desenvolve o segundo recorte. | Gênesis 1.31 |
 
 ## Progressão pedagógica
 
@@ -1266,7 +1266,7 @@ Apresente o tema principal da semana. Fixe a definição central e conduza a obs
 
 Desenvolva o subtópico 1. Retome a definição da aula 28.1 e aplique o tema a um recorte específico.
 
-3. 28.3 - O fundo bem longe
+3. 28.3 - O plano fundo longe
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -1279,7 +1279,7 @@ O eixo Os planos da imagem ensina a criança a ver a arte como resposta à belez
 - Eixo temático, Os planos da imagem
 - Aula coração, 28.1 Os planos da imagem
 - Subtópico 1, 28.2 O primeiro plano perto
-- Subtópico 2, 28.3 O fundo bem longe
+- Subtópico 2, 28.3 O plano fundo longe
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 31

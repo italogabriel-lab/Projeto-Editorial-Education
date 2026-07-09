@@ -374,7 +374,7 @@
 - [Simple shape drawing kids art (Pixabay)](https://pixabay.com/images/search/simple%20shapes%20drawing/)
 - [Basic shapes artwork drawing (Unsplash)](https://unsplash.com/s/photos/simple-shape-drawing)
 
-### 24.2 — O círculo que vira gato
+### 24.2 — O círculo que dar origem a imagen
 - [Circle becomes cat drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Cat_drawings)
 - [Circle cat drawing step kids (Pixabay)](https://pixabay.com/images/search/circle%20cat%20drawing/)
 - [Cat from circle drawing simple (Unsplash)](https://unsplash.com/s/photos/cat-drawing-circle)
@@ -386,19 +386,19 @@
 
 ---
 
-## Semana 25 — Os animais e personagens
+## Semana 25 — O personagem na obra de arte
 
-### 25.1 — Os animais e personagens
+### 25.1 — O personagem na obra de arte
 - [Simple animal characters drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Animal_characters)
 - [Kids animal character art simple (Pixabay)](https://pixabay.com/images/search/animal%20character%20kids%20art/)
 - [Animal character simple drawing (Unsplash)](https://unsplash.com/s/photos/animal-character-drawing)
 
-### 25.2 — O sol como personagem
+### 25.2 — A figura que ganha rosto
 - [Sun character smiling face (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Sun_symbols)
 - [Happy sun character drawing kids (Pixabay)](https://pixabay.com/images/search/sun%20character%20face/)
 - [Smiling sun illustration kids (Unsplash)](https://unsplash.com/s/photos/sun-character-smiling)
 
-### 25.3 — O bicho inventado
+### 25.3 — O personagem inventado
 - [Imaginary animal fantasy drawing (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Fantasy_animals)
 - [Invented creature kids art drawing (Pixabay)](https://pixabay.com/images/search/imaginary%20animal%20drawing/)
 - [Fantasy animal kids illustration (Unsplash)](https://unsplash.com/s/photos/fantasy-animal-kids)
@@ -451,7 +451,7 @@
 - [Referências visuais no Pixabay](https://pixabay.com/images/search/foreground%20near%20object%20art/)
 - [Referências visuais no Unsplash](https://unsplash.com/s/photos/foreground-near-object-art)
 
-### 28.3 — O fundo bem longe
+### 28.3 — O plano fundo longe
 - [Referências em Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=background+far+landscape+art&title=Special:MediaSearch&type=image)
 - [Referências visuais no Pixabay](https://pixabay.com/images/search/background%20far%20landscape%20art/)
 - [Referências visuais no Unsplash](https://unsplash.com/s/photos/background-far-landscape-art)

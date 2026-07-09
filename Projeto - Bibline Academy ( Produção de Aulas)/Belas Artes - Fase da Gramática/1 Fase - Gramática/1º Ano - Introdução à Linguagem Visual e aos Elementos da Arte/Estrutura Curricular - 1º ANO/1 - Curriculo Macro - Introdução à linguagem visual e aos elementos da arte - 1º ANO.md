@@ -174,17 +174,17 @@ Composição ✅
 ## Semana 24 - O desenho com formas simples ✅
 
 - 24.1 O desenho com formas simples ✅
-- 24.2 O círculo que vira gato ✅
+- 24.2 O círculo que dar origem a imagen ✅
 - 24.3 O triângulo e o quadrado na casa ✅
 
 # Semana 24
 Forma simples ✅
 
-## Semana 25 - Os animais e personagens ✅
+## Semana 25 - O personagem na obra de arte ✅
 
-- 25.1 Os animais e personagens ✅
-- 25.2 O sol como personagem ✅
-- 25.3 O bicho inventado ✅
+- 25.1 O personagem na obra de arte ✅
+- 25.2 A figura que ganha rosto ✅
+- 25.3 O personagem inventado ✅
 
 # Semana 25
 Personagem ✅
@@ -211,7 +211,7 @@ Sobreposição
 
 - 28.1 Os planos da imagem
 - 28.2 O primeiro plano perto
-- 28.3 O fundo bem longe
+- 28.3 O plano fundo longe
 
 # Semana 28
 Plano

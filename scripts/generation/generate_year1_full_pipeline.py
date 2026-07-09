@@ -126,7 +126,7 @@ WEEKS = {
     24: {
         "term": "Forma simples",
         "definition": "Forma simples ajuda o desenho a nascer com clareza e ordem.",
-        "titles": ["O desenho com formas simples", "O círculo que vira gato", "O triângulo e o quadrado na casa"],
+        "titles": ["O desenho com formas simples", "O círculo que dar origem a imagen", "O triângulo e o quadrado na casa"],
         "explanation": "A forma simples ajuda a criança a construir imagens reconhecíveis. Ela transforma círculo, triângulo e quadrado em desenhos organizados.",
         "fill_word": "ordem",
         "focus": ["o desenho com formas simples", "o círculo que vira gato", "o triângulo e o quadrado na casa"],
@@ -134,7 +134,7 @@ WEEKS = {
     25: {
         "term": "Personagem",
         "definition": "Personagem transforma formas simples em figuras com expressão.",
-        "titles": ["Os animais e personagens", "O sol como personagem", "O bicho inventado"],
+        "titles": ["O personagem na obra de arte", "A figura que ganha rosto", "O personagem inventado"],
         "explanation": "O personagem ajuda a criança a criar figuras com expressão. Ela usa formas simples para desenhar animais, sol e seres inventados.",
         "fill_word": "expressão",
         "focus": ["os animais e personagens", "o sol como personagem", "o bicho inventado"],

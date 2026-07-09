@@ -83,12 +83,12 @@
 23.3	A obra com ponto, linha e espaço
 
 24.1	O desenho com formas simples
-24.2	O círculo que vira gato
+24.2	O círculo que dar origem a imagen
 24.3	O triângulo e o quadrado na casa
 
-25.1	Os animais e personagens
-25.2	O sol como personagem
-25.3	O bicho inventado
+25.1	O personagem na obra de arte
+25.2	A figura que ganha rosto
+25.3	O personagem inventado
 
 26.1	A figura e o fundo
 26.2	A figura que aparece na frente

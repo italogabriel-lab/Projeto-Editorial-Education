@@ -1421,7 +1421,7 @@ Visual elements: circle becoming a face, square becoming a body, child with penc
 Visual language: gradual construction, shape as a starting point, clarity of process.
 ```
 
-### Aula 24.2 — O círculo que vira gato
+### Aula 24.2 — O círculo que dar origem a imagen
 
 **Prompt:**
 
@@ -1471,7 +1471,7 @@ Visual language: geometric construction, shape that becomes a home, constructive
 
 ## Semana 25
 
-### Aula 25.1 — Os animais e personagens
+### Aula 25.1 — O personagem na obra de arte
 
 **Prompt:**
 
@@ -1494,7 +1494,7 @@ Visual elements: dog with circles, bird with triangles, fish with ovals, each on
 Visual language: visual personality, life in shapes, expression born from simplicity.
 ```
 
-### Aula 25.2 — O sol como personagem
+### Aula 25.2 — A figura que ganha rosto
 
 **Prompt:**
 
@@ -1517,7 +1517,7 @@ Visual elements: yellow circle with smiling face, rays like arms and hair, blue 
 Visual language: childlike animism, simple shape with soul, solar joy.
 ```
 
-### Aula 25.3 — O bicho inventado
+### Aula 25.3 — O personagem inventado
 
 **Prompt:**
 
@@ -1724,7 +1724,7 @@ Visual elements: near foreground, simple shapes, harmonious colors and organized
 Visual language: observation, beauty, order and gratitude.
 ```
 
-### Aula 28.3 — O fundo bem longe
+### Aula 28.3 — O plano fundo longe
 
 **Prompt:**
 

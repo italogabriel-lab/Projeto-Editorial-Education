@@ -310,24 +310,24 @@ Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
 | 24.1 | O desenho com formas simples | Apresentar o desenho com formas simples como coração da semana e eixo da definição. |
-| 24.2 | O círculo que vira gato | Reconhecer o círculo que vira gato como primeiro desdobramento do tema principal. |
+| 24.2 | O círculo que dar origem a imagen | Reconhecer o círculo que dar origem a imagen como primeiro desdobramento do tema principal. |
 | 24.3 | O triângulo e o quadrado na casa | Praticar o triângulo e o quadrado na casa como segundo desdobramento do tema principal. |
 
-**Conceitos da semana**, O desenho com formas simples, O círculo que vira gato, O triângulo e o quadrado na casa
+**Conceitos da semana**, O desenho com formas simples, O círculo que dar origem a imagen, O triângulo e o quadrado na casa
 
 ---
 
-## Semana 25 - Os animais e personagens
+## Semana 25 - O personagem na obra de arte
 
-**Tema central**, Os animais e personagens. A aula 25.1 apresenta o coração do tema. As aulas 25.2 e 25.3 desenvolvem seus dois desdobramentos.
+**Tema central**, O personagem na obra de arte. A aula 25.1 apresenta o coração do tema. As aulas 25.2 e 25.3 desenvolvem seus dois desdobramentos.
 
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
-| 25.1 | Os animais e personagens | Apresentar os animais e personagens como coração da semana e eixo da definição. |
-| 25.2 | O sol como personagem | Reconhecer o sol como personagem como primeiro desdobramento do tema principal. |
-| 25.3 | O bicho inventado | Praticar o bicho inventado como segundo desdobramento do tema principal. |
+| 25.1 | O personagem na obra de arte | Apresentar os animais e personagens como coração da semana e eixo da definição. |
+| 25.2 | A figura que ganha rosto | Reconhecer o sol como personagem como primeiro desdobramento do tema principal. |
+| 25.3 | O personagem inventado | Praticar o bicho inventado como segundo desdobramento do tema principal. |
 
-**Conceitos da semana**, Os animais e personagens, O sol como personagem, O bicho inventado
+**Conceitos da semana**, O personagem na obra de arte, A figura que ganha rosto, O personagem inventado
 
 ---
 
@@ -367,7 +367,7 @@ Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
 | --- | --- | --- |
 | 28.1 | Os planos da imagem | Apresentar os planos da imagem como coração da semana e eixo da definição. |
 | 28.2 | O primeiro plano perto | Reconhecer o primeiro plano perto como primeiro desdobramento do tema principal. |
-| 28.3 | O fundo bem longe | Praticar o fundo bem longe como segundo desdobramento do tema principal. |
+| 28.3 | O plano fundo longe | Praticar o fundo bem longe como segundo desdobramento do tema principal. |
 
 **Conceitos da semana**, Os planos da imagem, O primeiro plano perto, O fundo bem longe
 

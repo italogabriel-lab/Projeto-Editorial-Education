@@ -1652,11 +1652,11 @@ Avaliar os conhecimentos das aulas da semana 23.
 
 ---
 
-[Belas artes] - Ano 1 - 24.2 O círculo que vira gato
+[Belas artes] - Ano 1 - 24.2 O círculo que dar origem a imagen
 
 # Description
 
-**Tema central da semana**, O desenho com formas simples. **Foco da aula**, primeiro desdobramento, O círculo que vira gato.
+**Tema central da semana**, O desenho com formas simples. **Foco da aula**, primeiro desdobramento, O círculo que dar origem a imagen.
 
 ## Objetivos
    → Compreenda o círculo que vira gato como primeiro desdobramento da semana.
@@ -1687,7 +1687,7 @@ Revisar os conhecimentos das aulas da semana 24.
 ## 24ª Semana, **O desenho com formas simples**
 
 - 24.1 O desenho com formas simples
-- 24.2 O círculo que vira gato
+- 24.2 O círculo que dar origem a imagen
 - 24.3 O triângulo e o quadrado na casa
 
 ---
@@ -1701,22 +1701,22 @@ Avaliar os conhecimentos das aulas da semana 24.
 ## 24ª Semana, **O desenho com formas simples**
 
 - 24.1 O desenho com formas simples
-- 24.2 O círculo que vira gato
+- 24.2 O círculo que dar origem a imagen
 - 24.3 O triângulo e o quadrado na casa
 
 ---
 
-## Semana 25 – Os animais e personagens
+## Semana 25 – O personagem na obra de arte
 
-**Tema central da semana**, Os animais e personagens. A aula 25.1 apresenta o coração do tema. A aula 25.2 desenvolve o sol como personagem. A aula 25.3 desenvolve o bicho inventado.
+**Tema central da semana**, O personagem na obra de arte. A aula 25.1 apresenta o coração do tema. A aula 25.2 desenvolve o sol como personagem. A aula 25.3 desenvolve o bicho inventado.
 
 ---
 
-[Belas artes] - Ano 1 - 25.1 Os animais e personagens
+[Belas artes] - Ano 1 - 25.1 O personagem na obra de arte
 
 # Description
 
-**Tema central da semana**, Os animais e personagens. **Foco da aula**, coração pedagógico que fixa o personagem como criação do artista.
+**Tema central da semana**, O personagem na obra de arte. **Foco da aula**, coração pedagógico que fixa o personagem como criação do artista.
 
 ## Objetivos
    → Reconheça os animais e personagens como criações imaginadas pelo artista.
@@ -1725,11 +1725,11 @@ Avaliar os conhecimentos das aulas da semana 24.
 
 ---
 
-[Belas artes] - Ano 1 - 25.2 O sol como personagem
+[Belas artes] - Ano 1 - 25.2 A figura que ganha rosto
 
 # Description
 
-**Tema central da semana**, Os animais e personagens. **Foco da aula**, primeiro desdobramento, O sol como personagem.
+**Tema central da semana**, O personagem na obra de arte. **Foco da aula**, primeiro desdobramento, A figura que ganha rosto.
 
 ## Objetivos
    → Compreenda o sol como personagem como primeiro desdobramento da semana.
@@ -1738,11 +1738,11 @@ Avaliar os conhecimentos das aulas da semana 24.
 
 ---
 
-[Belas artes] - Ano 1 - 25.3 O bicho inventado
+[Belas artes] - Ano 1 - 25.3 O personagem inventado
 
 # Description
 
-**Tema central da semana**, Os animais e personagens. **Foco da aula**, segundo desdobramento, O bicho inventado.
+**Tema central da semana**, O personagem na obra de arte. **Foco da aula**, segundo desdobramento, O personagem inventado.
 
 ## Objetivos
    → Pratique o bicho inventado como segundo desdobramento da semana.
@@ -1757,11 +1757,11 @@ Avaliar os conhecimentos das aulas da semana 24.
 
 Revisar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana, **Os animais e personagens**
+## 25ª Semana, **O personagem na obra de arte**
 
-- 25.1 Os animais e personagens
-- 25.2 O sol como personagem
-- 25.3 O bicho inventado
+- 25.1 O personagem na obra de arte
+- 25.2 A figura que ganha rosto
+- 25.3 O personagem inventado
 
 ---
 
@@ -1771,11 +1771,11 @@ Revisar os conhecimentos das aulas da semana 25.
 
 Avaliar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana, **Os animais e personagens**
+## 25ª Semana, **O personagem na obra de arte**
 
-- 25.1 Os animais e personagens
-- 25.2 O sol como personagem
-- 25.3 O bicho inventado
+- 25.1 O personagem na obra de arte
+- 25.2 A figura que ganha rosto
+- 25.3 O personagem inventado
 
 ---
 
@@ -1957,7 +1957,7 @@ Avaliar os conhecimentos das aulas da semana 27.
 
 ---
 
-[Belas artes] - Ano 1 - 28.3 O fundo bem longe
+[Belas artes] - Ano 1 - 28.3 O plano fundo longe
 
 # Description
 
@@ -1980,7 +1980,7 @@ Revisar os conhecimentos das aulas da semana 28.
 
 - 28.1 Os planos da imagem
 - 28.2 O primeiro plano perto
-- 28.3 O fundo bem longe
+- 28.3 O plano fundo longe
 
 ---
 
@@ -2029,14 +2029,14 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 24ª Semana, **O desenho com formas simples**
 
 - 24.1 O desenho com formas simples
-- 24.2 O círculo que vira gato
+- 24.2 O círculo que dar origem a imagen
 - 24.3 O triângulo e o quadrado na casa
 
-## 25ª Semana, **Os animais e personagens**
+## 25ª Semana, **O personagem na obra de arte**
 
-- 25.1 Os animais e personagens
-- 25.2 O sol como personagem
-- 25.3 O bicho inventado
+- 25.1 O personagem na obra de arte
+- 25.2 A figura que ganha rosto
+- 25.3 O personagem inventado
 
 ## 26ª Semana, **A figura e o fundo**
 
@@ -2089,14 +2089,14 @@ Avaliar os conhecimentos das aulas da semana 28.
 ## 24ª Semana, **O desenho com formas simples**
 
 - 24.1 O desenho com formas simples
-- 24.2 O círculo que vira gato
+- 24.2 O círculo que dar origem a imagen
 - 24.3 O triângulo e o quadrado na casa
 
-## 25ª Semana, **Os animais e personagens**
+## 25ª Semana, **O personagem na obra de arte**
 
-- 25.1 Os animais e personagens
-- 25.2 O sol como personagem
-- 25.3 O bicho inventado
+- 25.1 O personagem na obra de arte
+- 25.2 A figura que ganha rosto
+- 25.3 O personagem inventado
 
 ## 26ª Semana, **A figura e o fundo**
 

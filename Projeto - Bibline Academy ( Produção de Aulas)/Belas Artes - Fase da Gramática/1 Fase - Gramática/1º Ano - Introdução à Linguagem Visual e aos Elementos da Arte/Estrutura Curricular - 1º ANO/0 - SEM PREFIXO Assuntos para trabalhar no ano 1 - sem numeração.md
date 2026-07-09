@@ -83,12 +83,12 @@ O quadro com formas e cores
 A obra com ponto, linha e espaço
 
 O desenho com formas simples
-O círculo que vira gato
+O círculo que dar origem a imagen
 O triângulo e o quadrado na casa
 
-Os animais e personagens
-O sol como personagem
-O bicho inventado
+O personagem na obra de arte
+A figura que ganha rosto
+O personagem inventado
 
 A figura e o fundo
 A figura que aparece na frente
