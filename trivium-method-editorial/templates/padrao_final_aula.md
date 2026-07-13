@@ -78,9 +78,7 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 #FSH:0b12d715e4c741399594fccb12d4bbe2
 
-[Definição curta da aula, igual ao Recordar.]
-
-[Explicação breve da aula em texto narrável, retomando palavras-chave do tema central.]
+[Definição curta da aula, igual ao Recordar.] [Explicação breve da aula em texto narrável, retomando palavras-chave do tema central.]
 
 [MP3\]
 
@@ -186,15 +184,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [tema da aula].
 
 #FSH:0b12d715e4c741399594fccb12d4bbe2
 
-*[Título da rima]*
-
-[Verso 1 rimando com o tema da aula]
-
-[Verso 2]
-
-[Verso 3]
-
-[Verso 4]
+*[Título da rima]* [Verso 1 rimando com o tema da aula] [Verso 2] [Verso 3] [Verso 4]
 
 [MP3\]
 
@@ -285,9 +275,7 @@ Leitura
 
 #FSH:0b12d715e4c741399594fccb12d4bbe2
 
-[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.]
-
-[Parágrafo livre — plain, sem negrito, literalmente idêntico ao Definir.]
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao Definir.]
 
 [MP3\]
 
@@ -343,19 +331,19 @@ Responda oralmente a pergunta abaixo sobre o texto.
 3. **Sem separadores `---`** entre seções.
 4. **Título** começa com `#` seguido do nome criativo da aula.
 5. **Seções** são `## Definir`, `## Perceber`, `## Recordar`, `## Praticar`, `## Narrar`.
-6. **Definição literalmente idêntica** — a frase curta do Recordar aparece sem alteração no cabeçalho do Definir e no Statement_D. Dentro do Accordion, o MP3 deve conter a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o mesmo conteúdo, podendo manter negritos. O Praticar usa a frase do Recordar com `_____`.
+6. **Texto do MP3 em linha única** — todo conteúdo textual entre `#FSH:` e `[MP3\]` fica em uma única linha, com os trechos separados por espaço. Isso inclui definição e explicação no Accordion e no Narrar, além da rima do Recordar. O texto visual após `[MP3\]` repete o conteúdo e pode manter negritos, versos e parágrafos. A frase curta do Recordar aparece sem alteração no cabeçalho do Definir e no Statement_D. O Praticar usa a frase do Recordar com `_____`.
 7. **Recordar** — definição curta de 8-10 palavras.
 8. **Praticar** — manter sempre `[+FILL_IN]`, depois `[+MULTIPLE]`, depois `[+ACTIVITY_WORKSHEET]`.
 9. **Praticar** — Fill In usa a definição curta da semana com a lacuna (`_____`) na palavra-chave específica da aula. Em `x.1`, a lacuna fica no termo central da semana. Em `x.2`, a lacuna fica na palavra-chave do desdobramento de `x.2`. Em `x.3`, a lacuna fica na palavra-chave do contexto de `x.3`. Exemplo com "O ponto representa o começo de uma arte": `x.1` → `O _____ representa o começo de uma arte.` (ponto); `x.2` → `O ponto representa o _____ de uma arte.` (começo); `x.3` → `O ponto representa o começo de uma _____.` (arte). **[+MULTIPLE]**: a pergunta é derivada do parágrafo livre daquela aula — não é fixa nem igual para x.1, x.2 e x.3. Formatos válidos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?", "Quando [TERMO] [VERBO]?", "Quais [ELEMENTOS]?". A resposta correta é uma frase-chave do parágrafo livre. O distrator é temático mas conceitualmente errado. 2 opções para o 1º ano. Proibido usar "Qual é o significado de [TERMO]?" como pergunta fixa.
 10. **Praticar** — Atividade Extra usa `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa. O bloco `[+ATTACHMENT]` com `@link_pdf@` **NÃO é mais utilizado**.
-11. **Narrar = espelho literal do Definir** — o bloco `[+IMAGE_TEXT_ASIDE]` do Narrar repete literalmente a definição curta e o parágrafo livre do Definir daquela aula. Antes de `[MP3\]`, texto plain (sem negrito). Após `[MP3\]`, texto com negritos progressivos idênticos ao texto visual do Accordion. Nenhuma frase adicional é permitida — em especial proibidas frases do tipo "A criança aprende a...", "A criança percebe que...".
+11. **Narrar = espelho literal do Definir** — o bloco `[+IMAGE_TEXT_ASIDE]` do Narrar repete literalmente a definição curta e o parágrafo livre do Definir daquela aula. Antes de `[MP3\]`, ambos ficam em uma única linha plain, separados por espaço. Após `[MP3\]`, o texto usa negritos progressivos idênticos ao texto visual do Accordion e pode permanecer em parágrafos. Nenhuma frase adicional é permitida — em especial proibidas frases do tipo "A criança aprende a...", "A criança percebe que...".
 12. **Narrar no 3º ano** — manter sempre `[+PARAGRAPH]` para a leitura e, logo depois, `[+IMAGE]` com `@link_png@` antes de `Perguntas`.
 13. **Sem `;`, `:`, `—`** — usar `,` ou `.`.
 14. **Voz ativa e imperativo** em todas as instruções.
 15. **Sem termos em inglês** na versão final — o inglês é usado apenas na pesquisa (Researcher). O Accordion começa com uma pergunta sobre o termo em português.
 16. **Pergunta do Narrar** — uma única pergunta por aula, heading `Pergunta` (singular). A pergunta é derivada diretamente do vocabulário do parágrafo livre daquela aula. Formatos válidos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?". A resposta deve aparecer explicitamente no texto. Proibido: "O que você percebeu sobre...", perguntas abertas, reflexivas, abstratas ou inferenciais.
 17. **Parágrafo inicial do Definir** — iniciar com a definição curta em negrito, literalmente idêntica ao Recordar. Depois, **UMA ÚNICA FRASE** em prosa direta, sem "Reconheça que" nem "Observe que", focada no conceito da aula. Proibido escrever segunda frase do tipo "A criança aprende a...", "A criança percebe que..." — são genéricas e não acrescentam conteúdo. **Progressão de negritos obrigatória**: em `x.1`, a frase coloca em negrito somente o TERMO; em `x.2`, coloca em negrito o TERMO e a KW2 (= resposta do fill-in de `x.2`); em `x.3`, coloca em negrito o TERMO e a KW3 (= resposta do fill-in de `x.3`). Exemplo (semana 3): `x.1` 'Você observa **pontos** na arte e percebe como um pequeno sinal pode começar uma imagem.'; `x.2` 'Você aprende que o **ponto** pode ser o **começo** de um desenho, porque uma imagem pode nascer de um pequeno sinal.'; `x.3` 'Você usa o **ponto** na **arte** para marcar lugares, criar detalhes e organizar a imagem com cuidado.' O Accordion espelha: plain no áudio (após `#FSH:`), bold no texto visual (após `[MP3\]`).
-18. **Accordion do Definir** — conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual. O áudio dentro de `[MP3/]...[MP3\]` narra a definição curta e a explicação completa. O texto após `[MP3\]` repete o mesmo conteúdo, com negritos permitidos. Exemplo: tema "A arte nos lugares da vida", áudio com a definição curta e a explicação logo abaixo.
+18. **Accordion do Definir** — conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual. O áudio dentro de `[MP3/]...[MP3\]` narra a definição curta e a explicação completa em uma única linha, separadas por espaço. O texto após `[MP3\]` repete o conteúdo, com negritos e parágrafos permitidos.
 19. **Pergunta do Narrar — verificação mínima** — confirmar que a resposta da pergunta está literalmente no texto (definição + parágrafo livre). Confirmar que o vocabulário da pergunta vem do parágrafo livre. Confirmar que o heading é "Pergunta" (singular) e há uma única pergunta no `[+LIST_NUMBERED]`.
 21. **Revisões `.4`** — usam **uma única definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`), não três definições distintas. Em flashcards visuais por aula, mostre apenas o título de cada aula. Em tabelas e matchings opcionais, não repetir o termo no início da definição. A definição completa fica somente no `[+STATEMENT_D]`.
 22. **Perceber** — usar 1 frase curta e direta no enunciado. As observações e explicações ficam nos hotspots, também de forma curta. Hotspots devem ter títulos de 2 a 5 palavras e descrições com 1 frase curta. Evitar explicações longas e análise extensa.

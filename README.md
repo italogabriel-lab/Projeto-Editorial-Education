@@ -82,6 +82,8 @@ A unidade pedagógica é a semana inteira, não a aula isolada. Cada semana tem:
 
 Entre `x.1`, `x.2` e `x.3` variam apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens e a Atividade Extra. A revisão `.4` usa essa mesma definição única.
 
+Quando um MP3 reunir a definição curta e a explicação, ambas devem ficar em uma única linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+
 No Perceber da revisão `.4`, os textos de legenda dos hotspots no `[+IMAGE_LABELED]` são cópias literais dos textos das aulas `x.1`, `x.2` e `x.3`.
 
 ### Perspectiva de Belas Artes e artes visuais

@@ -70,10 +70,10 @@ WEEKS = {
     15: {
         "term": "Textura",
         "definition": "Textura mostra se a superfície parece lisa, áspera ou marcada.",
-        "titles": ["A textura na arte", "As texturas lisas e ásperas", "As texturas da areia e das folhas"],
+        "titles": ["A textura na arte", "As texturas lisas e ásperas", "A textura marcada na arte"],
         "explanation": "A textura ajuda a criança a observar o que uma superfície parece ter ao toque. Ela aprende a representar marcas com cuidado.",
         "fill_word": "marcada",
-        "focus": ["a textura na arte", "as texturas lisas e ásperas", "as texturas da areia e das folhas"],
+        "focus": ["a textura na arte", "as texturas lisas e ásperas", "a textura marcada na arte"],
     },
     16: {
         "term": "Textura expressiva",

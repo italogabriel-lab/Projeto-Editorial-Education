@@ -201,9 +201,9 @@ Avalie os objetivos do bloco anterior com atividades simples, orais e visuais.
 | --- | --- | --- |
 | 15.1 | A textura na arte | Apresentar a textura na arte como coração da semana e eixo da definição. |
 | 15.2 | As texturas lisas e ásperas | Reconhecer as texturas lisas e ásperas como primeiro desdobramento do tema principal. |
-| 15.3 | As texturas da areia e das folhas | Praticar as texturas da areia e das folhas como segundo desdobramento do tema principal. |
+| 15.3 | A textura marcada na arte | Reconhecer a textura marcada na arte como segundo desdobramento do tema principal. |
 
-**Conceitos da semana**, A textura na arte, As texturas lisas e ásperas, As texturas da areia e das folhas
+**Conceitos da semana**, A textura na arte, As texturas lisas e ásperas, A textura marcada na arte
 
 ---
 

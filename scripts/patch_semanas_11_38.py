@@ -41,7 +41,7 @@ PERCEBER_FRASES = {
     # ── Semana 15 ──
     "15.1": "Observe a textura na arte e veja como a superfície parece diferente ao toque e à vista.",
     "15.2": "Observe a diferença entre superfícies lisas e ásperas e veja como cada uma aparece na arte.",
-    "15.3": "Observe a textura da areia e das folhas e veja os padrões marcados que cada material deixa.",
+    "15.3": "Observe a textura marcada na arte e veja linhas, pontos e relevos que formam padrões visíveis.",
     # ── Semana 16 ──
     "16.1": "Observe a textura expressiva e veja como marcas e materiais comunicam sentimento na arte.",
     "16.2": "Observe a textura feita com massa e veja as marcas espessas e com volume que ela cria.",

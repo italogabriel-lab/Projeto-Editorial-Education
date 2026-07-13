@@ -40,9 +40,7 @@ O que é [TERMO]?
 
 [MP3/]
 #FSH:0b12d715e4c741399594fccb12d4bbe2
-[Definição curta da aula, igual ao Recordar.]
-
-[Explicação breve da aula em texto narrável.]
+[Definição curta da aula, igual ao Recordar.] [Explicação breve da aula em texto narrável.]
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
@@ -62,7 +60,7 @@ O que é [TERMO]?
 - No 1º ano, a frase deve introduzir linguagem visual e elementos da arte de modo simples e observável.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
-- No Accordion, o MP3 deve narrar a definição curta e a explicação completa.
+- No Accordion, o MP3 deve narrar a definição curta e a explicação completa em uma única linha, separadas por espaço. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
 - O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
 - Exemplo (semana 3): se `x.1` fixa **"O ponto representa o começo de uma arte."**, `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`.
 - O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.

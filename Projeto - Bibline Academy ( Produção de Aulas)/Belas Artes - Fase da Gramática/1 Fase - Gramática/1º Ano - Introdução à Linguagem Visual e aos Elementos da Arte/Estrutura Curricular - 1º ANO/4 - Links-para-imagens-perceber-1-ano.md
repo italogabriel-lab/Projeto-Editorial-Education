@@ -246,10 +246,10 @@
 - [Smooth rough texture comparison (Pixabay)](https://pixabay.com/images/search/smooth%20rough%20texture/)
 - [Contrasting textures art (Unsplash)](https://unsplash.com/s/photos/smooth-rough-texture-art)
 
-### 15.3 — As texturas da areia e das folhas
-- [Sand leaf natural texture (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Natural_texture)
-- [Sand leaves natural texture art (Pixabay)](https://pixabay.com/images/search/sand%20leaf%20texture/)
-- [Natural textures sand leaves (Unsplash)](https://unsplash.com/s/photos/sand-leaves-natural-texture)
+### 15.3 — A textura marcada na arte
+- [Textured painting (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Textured_paintings)
+- [Marked texture painting (Pixabay)](https://pixabay.com/images/search/marked%20texture%20painting/)
+- [Textured artwork surface (Unsplash)](https://unsplash.com/s/photos/textured-artwork)
 
 ---
 

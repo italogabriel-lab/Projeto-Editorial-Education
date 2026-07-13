@@ -52,7 +52,7 @@ A sombra no chão
 
 A textura na arte
 As texturas lisas e ásperas
-As texturas da areia e das folhas
+A textura marcada na arte
 
 O padrão na arte
 O padrão que se repete

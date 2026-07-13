@@ -14,4 +14,6 @@ Provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório 
 
 **Webster 1828 obrigatório**: consultar webstersdictionary1828.com antes de propor qualquer definição.
 
+**Áudio em linha única**: quando o MP3 contiver definição curta e explicação, as duas ficam na mesma linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+
 Referente pedagógico canônico: `docs-estratégicos-funcionamento-framework/1-Projeto plataforma Editorial Bibline/Abordagem pedagógica por fase do Trivium e fundamentos de conceituação.md`.

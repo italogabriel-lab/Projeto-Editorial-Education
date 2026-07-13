@@ -116,7 +116,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] `[+VIDEO][-VIDEO]` presente
 - [ ] Accordion: tema ou pergunta simples da aula
 - [ ] Accordion com `@link_png@`
-- [ ] Accordion: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa
+- [ ] Accordion e Narrar: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa em uma única linha, separadas por espaço
 - [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
 - [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado

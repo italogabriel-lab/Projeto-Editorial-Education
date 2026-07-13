@@ -932,7 +932,7 @@ A child moves the brush in a long, soft stroke over the canvas, without lifting 
 Visual language: smooth texture in a work of art, surface without marks, continuous and even brushstroke, visual perception of smoothness.
 ```
 
-### Aula 15.3 — As texturas da areia e das folhas
+### Aula 15.3 — A textura marcada na arte
 
 **Prompt:**
 
@@ -940,20 +940,20 @@ Visual language: smooth texture in a work of art, surface without marks, continu
 Simple watercolor illustration, child-friendly style, with the look of a children's book illustration, soft yet lively colors, thick outlines, and a clean composition.
 Very soft and highly diffuse outer edges, with a feathered finish that fades into a white background, without a rigid frame.
 Soft, cheerful light, warm welcoming atmosphere.
-Color palette: sand yellow, ocre gold, leaf green, earth brown, warm beige.
+Color palette: ocre gold, deep blue, red earth, warm beige, dark green.
 
 Scene inspired by this passage
 
 "Texture is the quality of a surface that appears smooth, rough, or marked.
-The texture of sand and leaves is marked with unique patterns left by each material."
+Texture is marked in art when lines, dots, and reliefs form visible patterns."
 
 Scene composition
 
-A child with a brush in hand observing the work of art that shows the grainy texture of sand and the marked veins of a dry leaf, painted in watercolor on canvas.
-A child imitates the pattern of work with the child's own brush, creating grainy marks and branching lines over the paper.
-In a background, two small canvases show the works: one with the texture of sand in ocre and gold, another with the texture of leaf in brown and green.
+A child with a brush in hand observing a work of art that shows marked texture through lines, dots, and small reliefs in watercolor on canvas.
+A child imitates the work with the brush, creating lines, dots, and raised marks over the paper.
+In the background, two small canvases show compositions with visible marked patterns.
 
-Visual language: marked textures in a work of art, unique patterns of sand and leaf veins expressed through watercolor brushstrokes.
+Visual language: marked texture in a work of art, lines, dots, and reliefs forming visible patterns through watercolor brushstrokes.
 ```
 
 ---

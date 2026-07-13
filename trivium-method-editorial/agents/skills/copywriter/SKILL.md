@@ -38,6 +38,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 ### 3. Accordion — Definição
 - [ ] O Accordion contém tema, `@link_png@`, MP3 e texto visual
 - [ ] O áudio do Accordion contém definição curta e explicação completa
+- [ ] Definição curta e explicação ocupam uma única linha no áudio do Accordion e do Narrar, separadas por espaço
 - [ ] O texto após `[MP3\]` repete o conteúdo do MP3 com negritos permitidos
 - [ ] Não há conteúdo extra fora do tema, imagem, MP3 e texto visual
 

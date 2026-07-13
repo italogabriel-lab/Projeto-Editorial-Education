@@ -102,7 +102,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
   - `@link_png@` logo abaixo do tema.
   - `[MP3/]` com voice ID, definição curta e explicação completa em texto narrável.
   - Texto após `[MP3\]` equivalente ao áudio, podendo manter negritos para leitura visual.
-- **CRÍTICO**: o áudio do Accordion deve narrar a definição curta e a explicação completa.
+- **CRÍTICO**: o áudio do Accordion e do Narrar deve narrar a definição curta e a explicação completa em uma única linha, separadas por espaço.
 - **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir e no Recordar.
 - **CRÍTICO**: manter `@link_png@` dentro do Accordion do Definir.
 

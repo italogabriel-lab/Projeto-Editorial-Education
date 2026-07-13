@@ -46,6 +46,7 @@ As aulas seguem um pipeline de 7 etapas com agentes especializados:
 - Bloco de termo no Currículo Macro: 1 termo central por semana (`# Semana N\n[TermoCentral] ✅`), não 3 termos distintos.
 - Accordion do Definir: tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
 - MP3 do Accordion: narrar a definição curta e a explicação completa em texto narrável.
+- **Áudio em linha única**: quando o MP3 contiver definição curta e explicação, ambas ficam na mesma linha, separadas por espaço. Aplicar no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
 - Texto após `[MP3\]`: repetir o conteúdo do áudio, com negritos visuais permitidos.
 - Definição curta: manter literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões — e entre as 3 aulas da mesma semana.
 - **Fill-In progressivo**: a frase-base do `[+FILL_IN]` é sempre a definição curta da semana. A posição da lacuna (`_____`) muda em cada aula para cobrir a palavra-chave específica daquela aula. Em `x.1`, a lacuna fica no termo central da semana. Em `x.2`, a lacuna fica na palavra-chave do desdobramento. Em `x.3`, a lacuna fica na palavra-chave do contexto. Exemplo: "O ponto representa o começo de uma arte" → `x.1` `O _____ representa o começo de uma arte.` (ponto); `x.2` `O ponto representa o _____ de uma arte.` (começo); `x.3` `O ponto representa o começo de uma _____.` (arte).

@@ -1004,7 +1004,7 @@ Avaliar os conhecimentos das aulas da semana 14.
 
 ## Semana 15 – A textura na arte
 
-**Tema central da semana**, A textura na arte. A aula 15.1 apresenta o coração do tema. A aula 15.2 desenvolve texturas lisas e ásperas. A aula 15.3 desenvolve texturas da areia e das folhas.
+**Tema central da semana**, A textura na arte. A aula 15.1 apresenta o coração do tema. A aula 15.2 desenvolve texturas lisas e ásperas. A aula 15.3 desenvolve a textura marcada na arte.
 
 ---
 
@@ -1034,16 +1034,16 @@ Avaliar os conhecimentos das aulas da semana 14.
 
 ---
 
-[Belas artes] - Ano 1 - 15.3 As texturas da areia e das folhas
+[Belas artes] - Ano 1 - 15.3 A textura marcada na arte
 
 # Description
 
-**Tema central da semana**, A textura na arte. **Foco da aula**, segundo desdobramento, As texturas da areia e das folhas.
+**Tema central da semana**, A textura na arte. **Foco da aula**, segundo desdobramento, A textura marcada na arte.
 
 ## Objetivos
-   → Pratique texturas da areia e das folhas como segundo desdobramento da semana.
-   → Aplique materiais naturais em atividade prática produzindo uma textura no papel.
-   → Narre a experiência de criar arte com textura natural.
+   → Reconheça a textura marcada na arte como segundo desdobramento da semana.
+   → Observe linhas, pontos e relevos que formam padrões visíveis.
+   → Crie uma composição com textura marcada.
 
 ---
 
@@ -1057,7 +1057,7 @@ Revisar os conhecimentos das aulas da semana 15.
 
 - 15.1 A textura na arte
 - 15.2 As texturas lisas e ásperas
-- 15.3 As texturas da areia e das folhas
+- 15.3 A textura marcada na arte
 
 ---
 
@@ -1071,7 +1071,7 @@ Avaliar os conhecimentos das aulas da semana 15.
 
 - 15.1 A textura na arte
 - 15.2 As texturas lisas e ásperas
-- 15.3 As texturas da areia e das folhas
+- 15.3 A textura marcada na arte
 
 ---
 
@@ -1332,7 +1332,7 @@ Avaliar os conhecimentos das aulas da semana 18.
 
 - 15.1 A textura na arte
 - 15.2 As texturas lisas e ásperas
-- 15.3 As texturas da areia e das folhas
+- 15.3 A textura marcada na arte
 
 ## 16ª Semana, **O padrão na arte**
 
@@ -1392,7 +1392,7 @@ Avaliar os conhecimentos das aulas da semana 18.
 
 - 15.1 A textura na arte
 - 15.2 As texturas lisas e ásperas
-- 15.3 As texturas da areia e das folhas
+- 15.3 A textura marcada na arte
 
 ## 16ª Semana, **O padrão na arte**
 

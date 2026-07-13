@@ -88,7 +88,7 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Em `x.2` e `x.3`, use palavras-chave do tema de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
 - Mantenha a perspectiva de Belas Artes em todos os hábitos, sem deixar exemplos de natureza, objetos ou histórias virarem tema paralelo
 - Siga a progressão pedagógica extraída do plano
-- Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, inclua `@link_png@`, narre definição curta e explicação completa no MP3, e mantenha texto visual equivalente após `[MP3\]`
+- Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion e no Narrar, narre definição curta e explicação completa na mesma linha do MP3, separadas por espaço. Mantenha o texto visual equivalente após `[MP3\]`, em parágrafos quando necessário.
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
 - No 3º ano, em Narrar, mantenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
 - **Output:** Rascunho em Rise Blocks → `[READY_FOR_STEP_5]`

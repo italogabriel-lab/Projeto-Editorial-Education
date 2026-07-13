@@ -27,9 +27,7 @@ Leitura
 
 #FSH:0b12d715e4c741399594fccb12d4bbe2
 
-[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.]
-
-[Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
 
 [MP3\]
 
@@ -88,7 +86,7 @@ Responda oralmente a pergunta abaixo sobre o texto.
 ## Regras do texto
 
 - O texto do Narrar é LITERALMENTE IDÊNTICO ao Definir daquela aula. Não inventar, não adicionar, não resumir.
-- Antes de `[MP3\]`: texto plain (sem negrito), igual ao áudio do Accordion do Definir.
+- Antes de `[MP3\]`: definição curta e parágrafo livre plain, em uma única linha e separados por espaço, igual ao áudio do Accordion do Definir.
 - Após `[MP3\]`: texto com negritos progressivos, igual ao texto visual do Accordion do Definir.
 - Proibido adicionar frases do tipo "A criança aprende a...", "A criança percebe que...", "A criança cria..." ou qualquer variação — são genéricas e violam o padrão.
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

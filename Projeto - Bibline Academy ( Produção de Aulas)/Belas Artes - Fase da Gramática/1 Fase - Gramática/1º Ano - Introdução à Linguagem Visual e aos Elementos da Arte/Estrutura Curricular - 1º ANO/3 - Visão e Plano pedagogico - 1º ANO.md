@@ -670,7 +670,7 @@ Leve o aluno a reconhecer a textura na arte como eixo da semana. Depois, conduza
 | --- | --- | --- | --- |
 | 15.1 | A textura na arte | Coração da semana. Define o tema principal. | Salmo 90.17 |
 | 15.2 | As texturas lisas e ásperas | Subtópico 1. Desenvolve o primeiro recorte. | Provérbios 3.6 |
-| 15.3 | As texturas da areia e das folhas | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
+| 15.3 | A textura marcada na arte | Subtópico 2. Desenvolve o segundo recorte. | Romanos 11.36 |
 
 ## Progressão pedagógica
 
@@ -682,7 +682,7 @@ Apresente o tema principal da semana. Fixe a definição central e conduza a obs
 
 Desenvolva o subtópico 1. Retome a definição da aula 15.1 e aplique o tema a um recorte específico.
 
-3. 15.3 - As texturas da areia e das folhas
+3. 15.3 - A textura marcada na arte
 
 Desenvolva o subtópico 2. Feche a semana com prática visual, memorização e narração oral.
 
@@ -695,7 +695,7 @@ O eixo A textura na arte ensina a criança a ver a arte como resposta à beleza 
 - Eixo temático, A textura na arte
 - Aula coração, 15.1 A textura na arte
 - Subtópico 1, 15.2 As texturas lisas e ásperas
-- Subtópico 2, 15.3 As texturas da areia e das folhas
+- Subtópico 2, 15.3 A textura marcada na arte
 - Resultado esperado, o aluno reconhece o eixo da semana e o expressa em atividade visual simples.
 
 ## Transição para a semana 16

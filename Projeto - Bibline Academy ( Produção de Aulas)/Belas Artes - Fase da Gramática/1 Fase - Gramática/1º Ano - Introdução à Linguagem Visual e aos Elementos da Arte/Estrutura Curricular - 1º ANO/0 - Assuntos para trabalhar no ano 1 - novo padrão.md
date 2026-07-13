@@ -52,7 +52,7 @@
 
 15.1	A textura na arte
 15.2	As texturas lisas e ásperas
-15.3	As texturas da areia e das folhas
+15.3	A textura marcada na arte
 
 16.1	O padrão na arte
 16.2	O padrão que se repete

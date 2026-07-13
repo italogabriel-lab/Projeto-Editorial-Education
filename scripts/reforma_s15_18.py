@@ -15,9 +15,9 @@ AULAS = [
  "A **textura** é **lisa** quando a superfície não tem marcas nem irregularidades.",
  "Textura é a qualidade da superfície que parece _____, áspera ou marcada.","lisa"),
 (15,3,"Textura mostra se a superfície parece lisa, áspera ou marcada.","Textura é a qualidade da superfície que parece lisa, áspera ou marcada.",
- "A textura da areia e das folhas deixa superfícies marcadas com padrões únicos.",
- "A textura da areia e das folhas é marcada com padrões únicos que cada material deixa.",
- "A **textura** da areia e das folhas é **marcada** com padrões únicos que cada material deixa.",
+ "A textura marcada na arte forma padrões visíveis com linhas, pontos e relevos.",
+ "A textura é marcada na arte quando linhas, pontos e relevos formam padrões visíveis.",
+ "A **textura** é **marcada** na arte quando linhas, pontos e relevos formam padrões visíveis.",
  "Textura é a qualidade da superfície que parece lisa, áspera ou _____.","marcada"),
 # Semana 16
 (16,1,"Textura expressiva comunica sentimento por marcas, massas e materiais.","Textura expressiva é a textura criada com marcas, massas e materiais na arte.",
