@@ -96,7 +96,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - O parágrafo livre deve manter palavras-chave do tema central de `x.1`, especialmente em `x.2` e `x.3`.
 - Vídeo → `[+VIDEO][-VIDEO]`
 - Atividade → `[+HEADING] Atividade [-HEADING]`
-- Instrução → `[+PARAGRAPH]` ("Leia a definição e ouça o áudio...")
+- Instrução → `[+PARAGRAPH]` com o texto literal "Leia o fato e ouça o áudio clicando abaixo."
 - Definição → `[+ACCORDION]`:
   - Tema ou pergunta simples da aula.
   - `@link_png@` logo abaixo do tema.
@@ -119,7 +119,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 
 ### 3. Recordar
 - `## Recordar` (H2)
-- **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
+- **OBRIGATÓRIO**: `[+PARAGRAPH] Ouça e repita o fato abaixo. [-PARAGRAPH]`
 - Definição → `[+STATEMENT_D]` com `[MP3/]` voice ID + definição CURTA (8-10 palavras)
 - **CRÍTICO**: Definição IDÊNTICA à do cabeçalho do Definir
 - Música → `[+HEADING] Hora de memorizar com música [-HEADING]`
@@ -128,7 +128,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 4. Praticar
 - `## Praticar` (H2)
 - `[+HEADING] Atividade [-HEADING]`
-- **OBRIGATÓRIO**: `[+PARAGRAPH] Complete as lacunas para... [-PARAGRAPH]` (instrução imperativa)
+- **OBRIGATÓRIO**: `[+PARAGRAPH] Complete o fato abaixo com a palavra correta. [-PARAGRAPH]`
 - `[+FILL_IN]`: definição do Recordar com `_____` (5 underscores), respostas na linha seguinte
 - `[+HEADING] Atividade 2 [-HEADING]`
 - **OBRIGATÓRIO**: `[+MULTIPLE]` entre o Fill_In e a Atividade Extra

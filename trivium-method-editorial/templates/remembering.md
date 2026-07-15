@@ -10,7 +10,7 @@ A música ou rima deve preservar as palavras-chave do tema central de `x.1`, par
 
 ```markdown
 [+PARAGRAPH]
-Ouça e repita a definição abaixo.
+Ouça e repita o fato abaixo.
 [-PARAGRAPH]
 
 [+STATEMENT_D]
@@ -90,4 +90,5 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre [TEMA].
 - A rima deve conter a palavra-chave do tema pelo menos uma vez.
 - Quando a semana tiver palavras-chave estruturantes explícitas, a rima ou música deve usar pelo menos uma delas.
 - A mesma música (`@link_mp3@` + Nome da música) ou rima é usada nas três aulas da semana.
+- O primeiro parágrafo do hábito usa literalmente "Ouça e repita o fato abaixo.".
 - Sem `;`, `:`, `—` — usar `,` ou `.`.

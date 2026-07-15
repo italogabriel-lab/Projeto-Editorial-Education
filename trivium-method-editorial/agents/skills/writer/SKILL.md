@@ -116,6 +116,7 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
 - Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
+- Antes do Accordion, escreva literalmente: "Leia o fato e ouça o áudio clicando abaixo.".
 - Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em uma única linha, separadas por espaço. Aplicar a mesma linha única ao áudio do Narrar. O tema/pergunta do Accordion pode variar entre as aulas da semana para refletir o ângulo de cada uma.
 - Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
 - Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre `Arte expressa a beleza criada por Deus com habilidade humana.` O parágrafo livre adapta o foco para expressão, beleza e habilidade respectivamente.
@@ -133,12 +134,13 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Nenhum bloco extra permitido
 
 ### Recordar (Memorizar)
-- Enunciado: "Ouça e repita a definição abaixo."
+- Enunciado: "Ouça e repita o fato abaixo."
 - Statement_D com definição CURTA (8-10 palavras), EXATAMENTE a mesma frase do cabeçalho do Definir e idêntica nas 3 aulas da semana
 - A rima ou música DEVE mencionar o tema central da semana — não pode ser genérica
 - A mesma música (`@link_mp3@` + nome) ou rima é usada em `x.1`, `x.2` e `x.3`. Não troque por aula.
 
 ### Praticar (Exercitar)
+- Enunciado antes do Fill_In: "Complete o fato abaixo com a palavra correta."
 - Fill_In com parágrafo de enunciado ANTES
 - **Fill-In progressivo**: a frase-base do Fill_In é sempre a definição curta da semana. A posição da lacuna (`_____`) muda em cada aula para cobrir a palavra-chave específica daquela aula. Em `x.1`, a lacuna fica no termo central da semana. Em `x.2`, a lacuna fica na palavra-chave do desdobramento de `x.2`. Em `x.3`, a lacuna fica na palavra-chave do contexto de `x.3`. Exemplo: "O ponto representa o começo de uma arte" → `x.1` usa `O _____ representa o começo de uma arte.` (resposta: ponto), `x.2` usa `O ponto representa o _____ de uma arte.` (resposta: começo), `x.3` usa `O ponto representa o começo de uma _____.` (resposta: arte). Assim a criança é forçada a recuperar exatamente o conceito em foco naquela aula.
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`

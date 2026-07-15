@@ -84,6 +84,10 @@ Entre `x.1`, `x.2` e `x.3` variam apenas o parágrafo livre do Definir, a explic
 
 Quando um MP3 reunir a definição curta e a explicação, ambas devem ficar em uma única linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
 
+Os enunciados fixos das novas aulas são "Leia o fato e ouça o áudio clicando abaixo." no Definir, "Ouça e repita o fato abaixo." no Recordar e "Complete o fato abaixo com a palavra correta." antes do Fill_In no Praticar.
+
+No Recordar da revisão semanal `.4`, use "Recorde o fato estudado durante a semana.".
+
 No Perceber da revisão `.4`, os textos de legenda dos hotspots no `[+IMAGE_LABELED]` são cópias literais dos textos das aulas `x.1`, `x.2` e `x.3`.
 
 ### Perspectiva de Belas Artes e artes visuais

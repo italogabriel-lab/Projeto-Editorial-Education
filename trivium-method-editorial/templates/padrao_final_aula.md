@@ -64,7 +64,7 @@ Atividade
 
 [+PARAGRAPH]
 
-Leia a definição e ouça o áudio. [Instrução no imperativo].
+Leia o fato e ouça o áudio clicando abaixo.
 
 [-PARAGRAPH]
 
@@ -122,7 +122,7 @@ Leia a definição e ouça o áudio. [Instrução no imperativo].
 
 [+PARAGRAPH]
 
-Ouça e repita a definição abaixo.
+Ouça e repita o fato abaixo.
 
 [-PARAGRAPH]
 
@@ -210,7 +210,7 @@ Atividade
 
 [+PARAGRAPH]
 
-Complete as lacunas para [instrução no imperativo].
+Complete o fato abaixo com a palavra correta.
 
 [-PARAGRAPH]
 

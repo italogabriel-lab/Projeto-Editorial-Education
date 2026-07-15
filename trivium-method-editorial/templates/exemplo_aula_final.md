@@ -48,7 +48,7 @@ Atividade
 
 [+PARAGRAPH]
 
-Leia a definição e ouça o áudio. Reconheça que a arte foi uma ferramenta de discipulado na Igreja primitiva.
+Leia o fato e ouça o áudio clicando abaixo.
 
 [-PARAGRAPH]
 
@@ -125,7 +125,7 @@ Veja Jonas saindo do peixe. Assim como Jonas, Jesus ressuscitou ao terceiro dia.
 
 [+PARAGRAPH]
 
-Ouça e repita a definição abaixo.
+Ouça e repita o fato abaixo.
 
 [-PARAGRAPH]
 
@@ -171,7 +171,7 @@ Atividade
 
 [+PARAGRAPH]
 
-Complete as lacunas para reafirmar o propósito didático da arte cristã.
+Complete o fato abaixo com a palavra correta.
 
 [-PARAGRAPH]
 

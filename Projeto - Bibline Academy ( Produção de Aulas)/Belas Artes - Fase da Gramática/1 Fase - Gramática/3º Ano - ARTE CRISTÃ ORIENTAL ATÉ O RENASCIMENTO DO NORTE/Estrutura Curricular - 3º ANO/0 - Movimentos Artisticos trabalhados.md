@@ -1,381 +1,318 @@
-## ESTRUTURA CURRICULAR PADRÃO
+# Progressão de movimentos artísticos e musicais, 3º ano
 
-Para **cada movimento artístico**, trabalhe sempre estes **eixos fixos**:
+## Escopo do ano
 
-1. Contexto histórico e cultural
-    
-2. Cosmovisão e visão de mundo
-    
-3. Função da arte na sociedade
-    
-4. Materiais, técnicas e suportes
-    
-5. Forma, composição e linguagem visual
-    
-6. Arquitetura, escultura e pintura
-    
-7. Artistas, obras e exemplos-chave
-    
-8. Legado e influência histórica
-    
+O 3º ano percorre a arte medieval e os Renascimentos. O ano começa com uma breve ponte bizantina, acompanha as tradições cristãs e islâmicas medievais, passa pelo Românico e pelo Gótico e termina com o Renascimento italiano, o Renascimento do Norte e a Reforma.
 
-Agora aplico isso  **tópicos e sub-tópicos específicos**.
+Este arquivo é o mapa-mestre para a próxima sincronização do Currículo Macro, da Matriz Curricular, da Visão e Plano pedagógico e dos demais documentos dependentes. Até essa sincronização, os títulos de aula vigentes continuam no Currículo Macro.
 
-Da arte cristã oriental ao renascimento do norte
+## Abordagem pedagógica
 
-1. Arte Bizantina
-Contexto histórico e cultural
+O 3º ano pertence à fase da Gramática.
 
-Império Romano do Oriente
+- Pergunta estruturante, o que é.
+- Ênfase em nomear estilos, edifícios, técnicas, obras, instrumentos e formas musicais.
+- Definições ontológicas, concretas e visuais.
+- Narrativa cronológica com pessoas, lugares e obras memoráveis.
+- Observação da relação entre imagem, arquitetura, liturgia, manuscrito e música.
+- Contrastes usados apenas para tornar características visíveis, sem exigir análise dialética.
 
-Constantinopla como centro político e religioso
+## Limites cronológicos
 
-Cristianismo oficializado
+- Início, continuidade bizantina e formação do mundo medieval.
+- Núcleo medieval, arte islâmica, arte insular, Carolíngia, Otoniana, Românica e Gótica.
+- Transição, Proto-Renascimento italiano.
+- Renascimentos, italiano e do Norte.
+- Encerramento, arte e Reforma no século XVI.
+- Continuidade no 4º ano, Maneirismo e Barroco.
 
-Cosmovisão e visão de mundo
+## Diagnóstico da estrutura atual
 
-Centralidade de Cristo
+A estrutura atual organiza bem Bizâncio, arte islâmica, Românico, Gótico e Renascimento do Norte, mas precisa destes ajustes na próxima sincronização.
 
-Arte como teologia visual
+1. Bizâncio e Iconoclastia ocupam espaço excessivo depois de já encerrarem o 2º ano.
+2. Faltam arte insular, Renascimento Carolíngio e arte Otoniana.
+3. Giotto deve aparecer como ponte entre o Gótico e o Renascimento.
+4. O Renascimento italiano não pode ficar apenas como introdução final.
+5. Leonardo, Michelangelo e Rafael precisam anteceder o Maneirismo do 4º ano.
+6. A música deve avançar do canto medieval à polifonia renascentista.
+7. A Mesquita Azul, construída no século XVII, não deve ser a obra principal do núcleo medieval islâmico.
+8. O repertório musical precisa distinguir canto bizantino, canto gregoriano, organum, Ars Nova e polifonia renascentista.
 
-Ênfase na eternidade
+## Eixos obrigatórios para cada período
 
-Função da arte na sociedade
+1. Contexto histórico e cultural.
+2. Cosmovisão e visão de mundo.
+3. Lugar da arte na sociedade.
+4. Materiais, técnicas e suportes.
+5. Forma, composição e linguagem visual.
+6. Arquitetura, escultura, pintura, manuscrito e gravura.
+7. Artistas, artesãos, obras e edifícios.
+8. Estilo musical, compositores, obras e práticas de escuta.
+9. Legado e transição para o período seguinte.
 
-Ensino da fé
+## Linha do tempo integrada
 
-Ornamentação litúrgica
+| Núcleo | Datação aproximada | Artes visuais | Música |
+|---|---:|---|---|
+| Ponte bizantina | c. 330 a 1453 | mosaico, ícone, cúpula e controvérsia das imagens | canto bizantino |
+| Arte islâmica medieval | séc. VII a XV | mesquita, caligrafia, geometria, arabesco e jardim | recitação, canto e tradições instrumentais de corte |
+| Arte insular e Carolíngia | c. 600 a 900 | manuscrito iluminado, entrelaço e renovação imperial | canto litúrgico e organização do repertório gregoriano |
+| Arte Otoniana | c. 900 a 1050 | manuscrito, metal, escultura e monumentalidade | continuidade do canto litúrgico |
+| Arte Românica | c. 1000 a 1150 | igreja maciça, portal esculpido, afresco e peregrinação | monodia, Hildegard de Bingen e canção medieval |
+| Arte Gótica | c. 1140 a 1400 | arco ogival, vitral, verticalidade, naturalismo e Giotto | Escola de Notre-Dame, Léonin, Pérotin e Machaut |
+| Proto-Renascimento | c. 1250 a 1400 | volume, emoção, narrativa e espaço pictórico | Ars Nova e maior complexidade rítmica |
+| Renascimento italiano | c. 1400 a 1520 | perspectiva, proporção, anatomia, equilíbrio e humanismo | Dufay, Josquin e Palestrina |
+| Renascimento do Norte e Reforma | c. 1400 a 1600 | óleo, detalhe, gravura, retrato e simbolismo | polifonia franco-flamenga, coral luterano e música inglesa |
 
-Exaltação do poder imperial cristão
+A arte islâmica e Bizâncio coexistem com a Europa medieval. O currículo apresenta essas linhas paralelas sem tratá-las como etapas que se substituem de forma absoluta.
 
-Materiais, técnicas e suportes
+## Distribuição pedagógica por bimestre
 
-Mosaicos em ouro
+| Bimestre | Semanas de conteúdo | Eixo histórico | Resultado esperado |
+|---|---|---|---|
+| 1º | 1 a 8 | ponte bizantina, arte islâmica e Alta Idade Média | reconhecer ícone, caligrafia, geometria, manuscrito, canto e tradição |
+| 2º | 11 a 18 | Românico, Gótico e música medieval | nomear arco, abóbada, portal, vitral, organum, monodia e polifonia |
+| 3º | 21 a 28 | Proto-Renascimento e Renascimento italiano | observar volume, perspectiva, proporção, anatomia e equilíbrio |
+| 4º | 31 a 38 | Renascimento do Norte, Reforma e síntese | reconhecer óleo, detalhe, gravura, retrato, coral e diversidade regional |
 
-Têmpera sobre madeira
+## 1. Ponte bizantina e Iconoclastia
 
-Afrescos
+### Foco
 
-Forma, composição e linguagem visual
+- Retomar a Arte Bizantina apenas o suficiente para ligar os dois anos.
+- Apresentar a Iconoclastia como controvérsia histórica sobre imagens.
+- Distinguir produção de imagens, veneração e idolatria com linguagem adequada à idade.
+- Mostrar a permanência da tradição bizantina no Oriente cristão.
 
-Frontalidade
+### Linguagem visual
 
-Hierarquia visual
+- Frontalidade, fundo dourado, hierarquia, ícone e mosaico.
+- Destruição, restauração e padronização de imagens.
+- Igreja centralizada e espaço litúrgico.
 
-Fundo dourado
+### Obras e lugares
 
-Arquitetura, escultura e pintura
+- Santa Sofia.
+- Mosaicos de Ravena.
+- Cristo Pantocrator do Mosteiro de Santa Catarina.
 
-Igrejas centralizadas
+### Música
 
-Ícones
+- Canto bizantino e tradição vocal litúrgica.
+- Relação entre melodia, texto, arquitetura e reverberação.
 
-Mosaicos monumentais
+## 2. Arte islâmica medieval
 
-Artistas, obras e exemplos-chave
+### Contexto e cosmovisão
 
-Mosaicos de Ravena
+- Expansão dos califados e formação de centros urbanos.
+- Ênfase em caligrafia, geometria e ornamentação.
+- Representação figurativa varia conforme época, região e contexto. Evitar afirmar ausência total de figuras humanas em toda arte islâmica.
 
-Basílica de Santa Sofia
+### Linguagem visual
 
-Legado e influência histórica
+- Arabesco, padrão geométrico, simetria, repetição, caligrafia e azulejo.
+- Pátio, cúpula, arco, minarete, água e jardim.
+- Integração entre arquitetura e ornamentação.
 
-Base da arte cristã oriental
+### Obras e lugares
 
-Influência sobre a arte medieval
+- Domo da Rocha.
+- Grande Mesquita de Córdova.
+- Alhambra.
+- Manuscritos e objetos decorativos islâmicos.
 
-2. Iconoclastia
-Contexto histórico e cultural
+### Música e cultura sonora
 
-Conflitos religiosos internos
+- Tradições de recitação e canto.
+- Instrumentos como oud, rabab e percussão.
+- Circulação de conhecimentos musicais entre o mundo islâmico e a Europa medieval.
 
-Debate sobre o uso de imagens
+## 3. Arte insular, Carolíngia e Otoniana
 
-Cosmovisão e visão de mundo
+### Arte insular
 
-Questionamento da representação sagrada
+- Manuscritos iluminados, entrelaços, animais estilizados e letras ornamentadas.
+- Livro de Kells e Evangelhos de Lindisfarne.
+- Relação entre texto bíblico, imagem e trabalho monástico.
 
-Defesa ou rejeição dos ícones
+### Renascimento Carolíngio
 
-Função da arte na sociedade
+- Renovação cultural no império de Carlos Magno.
+- Manuscritos, capela palatina e recuperação de modelos romanos.
+- Capela Palatina de Aachen.
 
-Centro de controvérsia teológica
+### Arte Otoniana
 
-Regulamentação do uso da imagem
+- Manuscritos expressivos, metalurgia, marfim e escultura monumental.
+- Cruz de Gero e Evangelhos de Otão III.
+- Ponte entre a tradição carolíngia e o Românico.
 
-Materiais, técnicas e suportes
+### Música
 
-Destruição e restauração de ícones
+- Organização do canto litúrgico ocidental.
+- Canto gregoriano como repertório medieval, não antigo.
+- Mosteiro, memória oral, notação inicial e calendário litúrgico.
 
-Produção padronizada
+## 4. Arte Românica
 
-Forma, composição e linguagem visual
+### Contexto e cosmovisão
 
-Estilo rígido e simbólico
+- Mosteiros, feudalismo, peregrinações e rotas religiosas.
+- Igreja como centro de ensino, culto e produção artística.
+- Imagens bíblicas apresentadas em portais, capitéis, afrescos e manuscritos.
 
-Arquitetura, escultura e pintura
+### Linguagem visual
 
-Predomínio da pintura sacra
+- Paredes espessas, arco semicircular, abóbada de berço e planta de peregrinação.
+- Figuras simplificadas, hierarquia, gesto expressivo e adaptação ao espaço arquitetónico.
+- Escultura integrada ao portal e ao capitel.
 
-Artistas, obras e exemplos-chave
+### Obras e lugares
 
-Ícones restaurados após a crise
+- Catedral de Santiago de Compostela.
+- Abadia de Sainte-Foy de Conques.
+- Tímpano de Autun.
+- Tapeçaria de Bayeux como narrativa visual do período.
 
-Legado e influência histórica
+### Música
 
-Definição teológica da imagem cristã
+- Monodia litúrgica.
+- Hildegard de Bingen.
+- Trovadores e troveiros como repertório secular.
+- Voz, modo, melisma e notação medieval.
 
-3. Arte Islâmica
-Contexto histórico e cultural
+## 5. Arte Gótica
 
-Expansão do Islã
+### Contexto e cosmovisão
 
-Formação de grandes impérios
+- Crescimento das cidades, universidades, corporações de ofício e catedrais.
+- Luz, altura e ordem arquitetónica como marcas do espaço gótico.
+- Maior naturalismo na escultura e na pintura.
 
-Cosmovisão e visão de mundo
+### Linguagem visual
 
-Ênfase na transcendência divina
+- Arco ogival, abóbada de nervuras, arcobotante, vitral e rosácea.
+- Verticalidade, luminosidade, narrativa em janelas e fachadas.
+- Transição de figuras hieráticas para maior volume e expressão.
 
-Evitação da representação humana
+### Obras, artistas e lugares
 
-Função da arte na sociedade
+- Catedral de Chartres.
+- Notre-Dame de Paris.
+- Catedral de Reims.
+- Sainte-Chapelle.
+- Giotto como artista de transição.
 
-Ornamentação religiosa
+### Música
 
-Expressão da ordem e repetição
+- Escola de Notre-Dame.
+- Léonin e Pérotin.
+- Organum e polifonia.
+- Guillaume de Machaut e a Ars Nova.
+- Kyrie da Messe de Nostre Dame como referência de escuta.
 
-Materiais, técnicas e suportes
+## 6. Proto-Renascimento italiano
 
-Azulejos
+### Contexto
 
-Caligrafia
+- Cidades italianas, ordens mendicantes e renovação da narrativa religiosa.
+- Permanência de elementos bizantinos com crescente observação do corpo, do espaço e da emoção.
 
-Geometria decorativa
+### Linguagem visual
 
-Forma, composição e linguagem visual
+- Volume, gesto, peso corporal, cenário e narrativa.
+- Tentativas de profundidade antes da perspectiva matemática.
+- Afresco como suporte central.
 
-Arabescos
+### Artistas e obras
 
-Simetria
+- Cimabue.
+- Giotto.
+- Afrescos da Capela Scrovegni.
+- Duccio e a tradição de Siena.
 
-Padrões repetitivos
+### Música
 
-Arquitetura, escultura e pintura
+- Ars Nova italiana.
+- Francesco Landini.
+- Relação entre ritmo, poesia e canção urbana.
 
-Mesquitas
+## 7. Renascimento italiano
 
-Ausência de escultura figurativa
+### Recortes internos
 
-Artistas, obras e exemplos-chave
+- Primeiro Renascimento, c. 1400 a 1490.
+- Alto Renascimento, c. 1490 a 1520.
 
-Mesquita Azul
+### Contexto e cosmovisão
 
-Alhambra
+- Cidades-estado, oficinas, mecenato e estudo da Antiguidade.
+- Humanismo, investigação da natureza e dignidade do trabalho artístico.
+- Avaliar o humanismo a partir da distinção entre criatura e Criador.
 
-Legado e influência histórica
+### Linguagem visual
 
-Influência decorativa na Europa medieval
+- Perspectiva linear, proporção, anatomia, contrapposto e composição equilibrada.
+- Arquitetura baseada em geometria, ordem e modelos clássicos.
+- Integração entre arte, ciência e técnica.
 
-4. Arte Românica
-Contexto histórico e cultural
+### Artistas, obras e lugares
 
-Europa feudal
+- Brunelleschi e a cúpula de Santa Maria del Fiore.
+- Donatello e o Davi.
+- Masaccio e A Trindade.
+- Botticelli e A Primavera.
+- Leonardo da Vinci, A Última Ceia e Mona Lisa.
+- Michelangelo, Davi e teto da Capela Sistina.
+- Rafael, A Escola de Atenas.
 
-Peregrinações
+### Música
 
-Centralidade da Igreja
+- Guillaume Dufay como ponte.
+- Josquin des Prez e Ave Maria... Virgo Serena.
+- Giovanni Pierluigi da Palestrina.
+- Contraponto imitativo, moteto, missa e clareza polifónica.
 
-Cosmovisão e visão de mundo
+## 8. Renascimento do Norte e Reforma
 
-Ênfase no juízo e na eternidade
+### Contexto e cosmovisão
 
-Temor e reverência
+- Cidades comerciais, oficinas flamengas, imprensa e circulação de gravuras.
+- Humanismo cristão, leitura bíblica e reformas religiosas.
+- Atenção ao cotidiano, à criação e à moralidade.
 
-Função da arte na sociedade
+### Linguagem visual
 
-Catequese visual
+- Óleo sobre madeira, camadas transparentes, detalhe, textura e luz simbólica.
+- Retrato, paisagem, interior doméstico e simbolismo de objetos.
+- Xilogravura, gravura em metal e reprodução de imagens.
 
-Ensino bíblico aos iletrados
+### Artistas e obras
 
-Materiais, técnicas e suportes
+- Jan van Eyck e O Casal Arnolfini.
+- Rogier van der Weyden.
+- Hieronymus Bosch.
+- Albrecht Dürer, Melancolia I e Lebre Jovem.
+- Hans Holbein, Os Embaixadores.
+- Pieter Bruegel, o Velho.
 
-Pedra
+### Música
 
-Afrescos
+- Polifonia franco-flamenga.
+- Josquin des Prez como figura de ligação entre regiões.
+- Coral luterano e Castelo Forte.
+- Thomas Tallis e música inglesa da Reforma.
+- Relação entre imprensa musical, culto e canto comunitário.
 
-Escultura em portais
+## Ponte para o 4º ano
 
-Forma, composição e linguagem visual
+O aluno encerra o 3º ano reconhecendo o equilíbrio do Alto Renascimento e a diversidade do Renascimento do Norte. O 4º ano começa quando esse equilíbrio se torna tensão no Maneirismo e drama no Barroco.
 
-Figuras rígidas
+## Fontes de referência
 
-Simbolismo forte
-
-Proporções simplificadas
-
-Arquitetura, escultura e pintura
-
-Igrejas de paredes espessas
-
-Arcos semicirculares
-
-Artistas, obras e exemplos-chave
-
-Catedral de Santiago de Compostela
-
-Legado e influência histórica
-
-Transição para o gótico
-
-5. Arte Gótica
-Contexto histórico e cultural
-
-Crescimento das cidades
-
-Nova espiritualidade urbana
-
-Cosmovisão e visão de mundo
-
-Ênfase na luz como símbolo divino
-
-Elevação espiritual
-
-Função da arte na sociedade
-
-Inspirar devoção
-
-Ensinar por meio dos vitrais
-
-Materiais, técnicas e suportes
-
-Vitrais
-
-Arcos ogivais
-
-Abóbadas altas
-
-Forma, composição e linguagem visual
-
-Verticalidade
-
-Luminosidade
-
-Detalhamento crescente
-
-Arquitetura, escultura e pintura
-
-Fachada gótica
-
-Escultura mais natural
-
-Artistas, obras e exemplos-chave
-
-Catedral de Notre-Dame
-
-Catedral de Chartres
-
-Legado e influência histórica
-
-Preparação para o naturalismo renascentista
-
-6. Pré-Renascimento do Norte
-Contexto histórico e cultural
-
-Burguesia emergente
-
-Vida urbana no norte da Europa
-
-Cosmovisão e visão de mundo
-
-Valorização do cotidiano
-
-Espiritualidade doméstica
-
-Função da arte na sociedade
-
-Representar cenas comuns
-
-Integrar fé e vida diária
-
-Materiais, técnicas e suportes
-
-Óleo sobre madeira
-
-Pintura detalhada
-
-Forma, composição e linguagem visual
-
-Minúcia
-
-Realismo simbólico
-
-Arquitetura, escultura e pintura
-
-Pintura como meio principal
-
-Artistas, obras e exemplos-chave
-
-Jan van Eyck
-
-Legado e influência histórica
-
-Consolidação do realismo
-
-7. Renascimento do Norte
-Contexto histórico e cultural
-
-Humanismo cristão
-
-Reformas religiosas
-
-Cosmovisão e visão de mundo
-
-Observação detalhada da criação
-
-Moralidade visual
-
-Função da arte na sociedade
-
-Ensino moral
-
-Representação da vida comum
-
-Materiais, técnicas e suportes
-
-Óleo refinado
-
-Gravura
-
-Forma, composição e linguagem visual
-
-Precisão
-
-Luz simbólica
-
-Arquitetura, escultura e pintura
-
-Pintura dominante
-
-Gravura difundida
-
-Artistas, obras e exemplos-chave
-
-Albrecht Dürer
-
-Hans Holbein
-
-Legado e influência histórica
-
-Base do realismo moderno
-
-ENCERRAMENTO CURRICULAR DO 3º ANO
-
-Este volume permite ao aluno:
-
-Compreender a arte medieval cristã
-
-Identificar mudanças de cosmovisão
-
-Reconhecer transições técnicas e formais
-
-Preparar-se para as rupturas do maneirismo e barroco no 4º ano
+- `História da arte.md`.
+- `História da Música.md`.
+- `Referencias-Arte-Musica-3-Ano.md`.
+- `Abordagem pedagógica por fase do Trivium e fundamentos de conceituação.md`.

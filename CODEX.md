@@ -16,4 +16,8 @@ Provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório 
 
 **Áudio em linha única**: quando o MP3 contiver definição curta e explicação, as duas ficam na mesma linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
 
+**Enunciados fixos dos hábitos**: em Definir, use "Leia o fato e ouça o áudio clicando abaixo." antes do Accordion. Em Recordar, use "Ouça e repita o fato abaixo.". Em Praticar, antes do Fill_In, use "Complete o fato abaixo com a palavra correta.".
+
+**Revisão semanal**: no Recordar da aula `.4`, use "Recorde o fato estudado durante a semana.".
+
 Referente pedagógico canônico: `docs-estratégicos-funcionamento-framework/1-Projeto plataforma Editorial Bibline/Abordagem pedagógica por fase do Trivium e fundamentos de conceituação.md`.

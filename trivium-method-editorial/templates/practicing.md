@@ -14,7 +14,7 @@ Atividade
 [-HEADING]
 
 [+PARAGRAPH]
-Complete as lacunas para reafirmar a definição que você aprendeu.
+Complete o fato abaixo com a palavra correta.
 [-PARAGRAPH]
 
 [+FILL_IN]
@@ -56,6 +56,7 @@ INSTRUCTION=[Instrução de atividade prática no imperativo. A atividade DEVE e
 ## Regras
 
 - O Fill_In usa EXATAMENTE a definição do Recordar com lacunas nas palavras-chave (a mesma frase em `x.1`, `x.2` e `x.3`).
+- O parágrafo antes do Fill_In usa literalmente "Complete o fato abaixo com a palavra correta.".
 - A lacuna escolhida pode variar entre as aulas da semana para destacar palavras diferentes do mesmo enunciado.
 - O bloco `[+MULTIPLE]` é obrigatório e permanece entre o Fill_In e a Atividade Extra.
 - **Pergunta do [+MULTIPLE]**: derivada do parágrafo livre daquela aula específica. Formatos válidos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?", "Quando [TERMO] [VERBO]?", "Quais [ELEMENTOS]?". A pergunta deve ser diferente em x.1, x.2 e x.3 do mesmo trio semanal.

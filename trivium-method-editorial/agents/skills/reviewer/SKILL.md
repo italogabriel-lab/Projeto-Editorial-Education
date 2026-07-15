@@ -143,7 +143,9 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 ### 4. Recordar — Regras Específicas
 
-- [ ] `[+PARAGRAPH] Ouça e repita a definição abaixo. [-PARAGRAPH]`
+- [ ] Definir usa `[+PARAGRAPH] Leia o fato e ouça o áudio clicando abaixo. [-PARAGRAPH]` antes do Accordion
+- [ ] `[+PARAGRAPH] Ouça e repita o fato abaixo. [-PARAGRAPH]`
+- [ ] Praticar usa `[+PARAGRAPH] Complete o fato abaixo com a palavra correta. [-PARAGRAPH]` antes do Fill_In
 - [ ] Definição CURTA no Statement_D (8-10 palavras)
 - [ ] Voice ID presente
 - [ ] Definição idêntica ao cabeçalho do Definir

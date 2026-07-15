@@ -1,411 +1,371 @@
-Do maneirismo ao realismo americano
+# Progressão de movimentos artísticos e musicais, 4º ano
+
+## Escopo do ano
 
-1. Maneirismo
-Contexto histórico e cultural
+O 4º ano percorre a arte ocidental do Maneirismo ao Realismo Americano. O ano acompanha a passagem da tensão pós-renascentista ao Barroco, do Rococó ao Neoclassicismo, do Romantismo ao Realismo e termina com a transição para a modernidade.
 
-Pós-Renascimento
+Este arquivo é o mapa-mestre para a próxima sincronização do Currículo Macro, da Matriz Curricular, da Visão e Plano pedagógico e dos demais documentos dependentes. Até essa sincronização, os títulos de aula vigentes continuam no Currículo Macro.
 
-Crises religiosas da Reforma e Contrarreforma
+## Abordagem pedagógica
+
+O 4º ano encerra a fase da Gramática.
 
-Instabilidade política na Europa
+- Pergunta estruturante, o que é.
+- Ênfase em reconhecer as marcas visuais e sonoras de cada período.
+- Definições ontológicas, concretas e memoráveis.
+- Cronologia apoiada por artistas, compositores, obras e acontecimentos.
+- Comparações simples servem à identificação, sem exigir argumentação abstrata.
+- O aluno deve terminar o ano com vocabulário histórico suficiente para iniciar a Dialética no 5º ano.
 
-Cosmovisão e visão de mundo
+## Limites cronológicos
 
-Perda do equilíbrio clássico
+- Início, Maneirismo no século XVI.
+- Barroco e Rococó, séculos XVII e XVIII.
+- Neoclassicismo, Classicismo musical e Romantismo.
+- Realismo europeu e Realismo Americano no século XIX.
+- Encerramento, Manet e a transição para o Impressionismo.
+- Continuidade no 5º ano, modernidade, vanguardas e arte contemporânea.
 
-Sensação de tensão e incerteza
+## Diagnóstico da estrutura atual
 
-Busca por expressão refinada e artificial
+A estrutura atual possui a sequência visual principal, mas precisa destes ajustes na próxima sincronização.
 
-Função da arte na sociedade
+1. A música ainda aparece como referência lateral e deve acompanhar cada período.
+2. Classicismo musical é o termo adequado para Mozart e Haydn. Neoclassicismo musical designa outro movimento do século XX.
+3. Barroco italiano, holandês, flamengo e espanhol precisam de distinção.
+4. Beethoven deve aparecer como transição entre Classicismo e Romantismo.
+5. O Realismo não possui equivalente musical direto. O paralelo correto é cronológico, com Romantismo tardio e nacionalismo.
+6. Manet deve encerrar o ano como ponte, sem ser apresentado como impressionista pleno.
+7. As sobreposições entre Rococó, Neoclassicismo e Romantismo precisam ficar explícitas.
 
-Expressar inquietação
+## Eixos obrigatórios para cada período
 
-Demonstrar habilidade técnica
+1. Contexto histórico e cultural.
+2. Cosmovisão e visão de mundo.
+3. Lugar da arte na sociedade.
+4. Materiais, técnicas e suportes.
+5. Forma, composição e linguagem visual.
+6. Arquitetura, escultura, pintura e artes decorativas.
+7. Artistas, obras e edifícios.
+8. Estilo musical, compositores, obras e práticas de escuta.
+9. Legado e transição para o período seguinte.
 
-Ornamentar cortes e igrejas
+## Linha do tempo integrada
 
-Materiais, técnicas e suportes
+| Núcleo | Datação aproximada | Artes visuais | Música |
+|---|---:|---|---|
+| Maneirismo | c. 1520 a 1600 | tensão, alongamento, artificialidade e composição instável | madrigal tardio e transição para a monodia |
+| Barroco | c. 1600 a 1750 | drama, claro-escuro, movimento e teatralidade | tonalidade, baixo contínuo, fuga, concerto, ópera e oratório |
+| Barroco holandês e espanhol | séc. XVII | retrato, gênero, interior, realismo e luz | tradições barrocas regionais |
+| Rococó | c. 1715 a 1780 | leveza, curva, ornamento, intimidade e vida cortesã | estilo galante e transição para o Classicismo |
+| Neoclassicismo visual | c. 1750 a 1850 | ordem, linha, virtude cívica e Antiguidade | paralelo cronológico com o Classicismo musical |
+| Classicismo musical | c. 1750 a 1820 | equilíbrio formal no campo sonoro | Haydn, Mozart e forma sonata |
+| Transição clássica e romântica | c. 1790 a 1830 | sobreposição entre Neoclassicismo e Romantismo | Beethoven |
+| Romantismo | c. 1780 a 1900 nas artes visuais | emoção, sublime, imaginação, cor e nacionalismo | Schubert, Chopin, Liszt, Mendelssohn e Brahms |
+| Realismo | c. 1848 a 1900 | cotidiano, trabalho, observação e crítica social | Romantismo tardio e nacionalismo musical |
+| Realismo Americano | c. 1860 a 1900 | vida comum, paisagem, identidade e modernização | Dvořák e repertórios ligados à identidade nacional |
+| Transição para a modernidade | c. 1860 a 1880 | Manet, vida urbana e ruptura académica | expansão harmónica no fim do Romantismo |
 
-Pintura a óleo
+As correspondências entre arte e música são históricas e pedagógicas. Elas não significam que todos os movimentos visuais tenham um movimento musical com o mesmo nome.
 
-Afrescos
+## Distribuição pedagógica por bimestre
 
-Escultura em mármore
+| Bimestre | Semanas de conteúdo | Eixo histórico | Resultado esperado |
+|---|---|---|---|
+| 1º | 1 a 8 | Maneirismo e primeiro Barroco | reconhecer tensão, alongamento, claro-escuro, movimento, monodia e baixo contínuo |
+| 2º | 11 a 18 | Barroco maduro, Rococó e Classicismo | reconhecer drama, ornamento, estilo galante, equilíbrio, fuga, concerto e forma sonata |
+| 3º | 21 a 28 | Neoclassicismo, Beethoven e Romantismo | observar linha, ordem, sublime, emoção, paisagem, virtuosismo e expansão formal |
+| 4º | 31 a 38 | Realismo, Realismo Americano e Manet | reconhecer cotidiano, trabalho, identidade, observação visual e transição moderna |
 
-Forma, composição e linguagem visual
+## 1. Maneirismo
 
-Alongamento das figuras
+### Contexto e cosmovisão
 
-Composições complexas
+- Crises religiosas e políticas do século XVI.
+- Fim do equilíbrio estável do Alto Renascimento.
+- Oficinas, cortes e igrejas valorizam invenção e virtuosismo.
 
-Tensão visual
+### Linguagem visual
 
-Arquitetura, escultura e pintura
+- Figuras alongadas.
+- Poses complexas.
+- Espaço instável.
+- Cores inesperadas.
+- Elegância artificial e tensão compositiva.
 
-Pintura predominante
+### Artistas e obras
 
-Esculturas com poses dramáticas
+- Parmigianino, Madonna do Pescoço Longo.
+- Pontormo, A Deposição da Cruz.
+- Bronzino, retratos de corte.
+- El Greco, O Enterro do Conde de Orgaz.
+- Giambologna, Rapto das Sabinas.
 
-Artistas, obras e exemplos-chave
+### Música
 
-Parmigianino
+- Madrigal tardio.
+- Cromatismo e expressão textual.
+- Carlo Gesualdo como exemplo de tensão harmónica.
+- Claudio Monteverdi como ponte entre Renascimento e Barroco.
 
-El Greco
+## 2. Primeiro Barroco italiano
 
-Legado e influência histórica
+### Contexto e cosmovisão
 
-Transição para o barroco
+- Contrarreforma, cortes e desenvolvimento da ópera.
+- Arte usada para ensinar, persuadir, celebrar e dramatizar.
+- Atenção ao acontecimento, ao gesto e à presença física.
 
-Ampliação da expressividade
+### Linguagem visual
 
-2. Barroco
-Contexto histórico e cultural
+- Tenebrismo.
+- Diagonal.
+- Movimento.
+- Naturalismo.
+- Teatro visual.
 
-Contrarreforma Católica
+### Artistas e obras
 
-Monarquias absolutistas
+- Caravaggio, A Vocação de São Mateus.
+- Annibale Carracci.
+- Artemisia Gentileschi, Judite decapitando Holofernes.
+- Bernini, Êxtase de Santa Teresa.
 
-Expansão colonial
+### Música
 
-Cosmovisão e visão de mundo
+- Monteverdi e a ópera.
+- Baixo contínuo.
+- Contraste entre solista e conjunto.
+- Vivaldi e o concerto.
 
-Ênfase na emoção
+## 3. Barroco holandês, flamengo e espanhol
 
-Exaltação da fé
+### Contexto
 
-Demonstração de poder
+- Repúblicas comerciais, monarquias, Reforma e Contrarreforma.
+- Mercados de arte, retrato, cenas domésticas, paisagem e pintura religiosa.
+- Diferentes usos da imagem em contextos confessionais distintos.
 
-Função da arte na sociedade
+### Linguagem visual
 
-Persuadir e impressionar
+- Luz, textura, espaço interior, retrato coletivo e cena de gênero.
+- Escala monumental em Rubens.
+- Silêncio e observação em Vermeer.
+- Profundidade psicológica em Rembrandt.
 
-Ensinar a fé
+### Artistas e obras
 
-Exaltar governantes
+- Rembrandt, A Ronda Noturna e autorretratos.
+- Vermeer, Moça com Brinco de Pérola.
+- Rubens, Elevação da Cruz.
+- Velázquez, As Meninas.
 
-Materiais, técnicas e suportes
+### Música
 
-Óleo sobre tela
+- Johann Sebastian Bach.
+- Fuga, invenção, suíte e cantata.
+- Invenção n.º 5 em Mi bemol maior, BWV 776.
+- Concertos de Brandemburgo.
+- Handel e o oratório.
 
-Escultura monumental
+## 4. Rococó e estilo galante
 
-Arquitetura grandiosa
+### Contexto e cosmovisão
 
-Forma, composição e linguagem visual
+- Vida cortesã e salões do século XVIII.
+- Intimidade, lazer, ornamento e sociabilidade.
+- Reação posterior contra o excesso decorativo.
 
-Contraste de luz e sombra
+### Linguagem visual
 
-Movimento intenso
+- Curvas, assimetria, cores claras, superfície ornamentada e cenas galantes.
+- Interiores decorativos e integração das artes.
 
-Dramaticidade
+### Artistas e obras
 
-Arquitetura, escultura e pintura
+- Antoine Watteau.
+- François Boucher.
+- Jean-Honoré Fragonard, O Balanço.
+- Arquitetura e interiores rococós.
 
-Igrejas ornamentadas
+### Música
 
-Esculturas dinâmicas
+- Estilo galante.
+- Frases mais claras e texturas mais leves.
+- C. P. E. Bach como figura de transição.
+- Preparação para Haydn e Mozart.
 
-Pintura narrativa
+## 5. Neoclassicismo visual e Classicismo musical
 
-Artistas, obras e exemplos-chave
+### Contexto e cosmovisão
 
-Caravaggio
+- Iluminismo, arqueologia, revoluções e recuperação da Antiguidade.
+- Virtude cívica, dever, ordem e clareza.
+- Distinguir o nome Neoclassicismo visual do nome Classicismo musical.
 
-Bernini
+### Linguagem visual
 
-Rembrandt
+- Linha definida.
+- Composição estável.
+- Superfície controlada.
+- Temas históricos.
+- Arquitetura baseada em ordens clássicas.
 
-Legado e influência histórica
+### Artistas e obras
 
-Expansão do drama visual
+- Jacques-Louis David, O Juramento dos Horácios e A Morte de Marat.
+- Jean-Auguste-Dominique Ingres.
+- Antonio Canova.
+- Arquitetura neoclássica cívica.
 
-Influência na arte religiosa
+### Música
 
-3. Rococó
-Contexto histórico e cultural
+- Joseph Haydn.
+- Wolfgang Amadeus Mozart.
+- Sinfonia, quarteto de cordas e forma sonata.
+- Fantasia em Ré menor, K.397.
+- Sinfonia n.º 40.
 
-França do século XVIII
+## 6. Beethoven e a transição para o Romantismo
 
-Vida cortesã aristocrática
+### Foco histórico
 
-Cosmovisão e visão de mundo
+- Continuidade das formas clássicas com maior escala, tensão e expressão pessoal.
+- Ponte entre o equilíbrio do Classicismo e a expansão romântica.
+- Mudança da posição social do compositor e do artista.
 
-Ênfase no prazer e na leveza
+### Música
 
-Foco na intimidade
+- Ludwig van Beethoven.
+- Bagatelas, sonatas, quartetos e sinfonias.
+- Bagatela n.º 1, Op. 33.
+- Sinfonia n.º 5 ou Sinfonia n.º 9 como exemplos de expansão formal.
 
-Função da arte na sociedade
+### Relação visual
 
-Decorar palácios
+- O Neoclassicismo ainda está ativo.
+- O Romantismo surge em sobreposição.
+- A cronologia deve mostrar transição, não substituição instantânea.
 
-Representar lazer e elegância
+## 7. Romantismo
 
-Materiais, técnicas e suportes
+### Contexto e cosmovisão
 
-Pintura leve
+- Revoluções, industrialização, nacionalismos e valorização do indivíduo.
+- Imaginação, emoção, liberdade, natureza e sublime.
+- A natureza deve ser apresentada como criação, não como divindade.
 
-Decoração ornamental
+### Linguagem visual
 
-Forma, composição e linguagem visual
+- Cor intensa.
+- Movimento.
+- Atmosfera.
+- Paisagem sublime.
+- Cena histórica contemporânea.
 
-Curvas delicadas
+### Artistas e obras
 
-Cores suaves
+- Caspar David Friedrich, O Caminhante sobre o Mar de Névoa.
+- Francisco Goya, O 3 de Maio de 1808.
+- Eugène Delacroix, A Liberdade Guiando o Povo.
+- J. M. W. Turner.
+- Théodore Géricault.
 
-Ornamentos detalhados
+### Música
 
-Arquitetura, escultura e pintura
+- Franz Schubert.
+- Frédéric Chopin.
+- Felix Mendelssohn.
+- Franz Liszt, Consolação n.º 1, S.172.
+- Johannes Brahms.
+- Canção, peça de caráter, poema sinfónico e virtuosismo.
 
-Interiores decorativos
+## 8. Realismo
 
-Pinturas de cenas galantes
+### Contexto e cosmovisão
 
-Artistas, obras e exemplos-chave
+- Industrialização, urbanização, trabalho e questões sociais.
+- Interesse pelo presente e pela vida comum.
+- Rejeição de idealização heroica e fantasia romântica.
 
-Jean-Honoré Fragonard
+### Linguagem visual
 
-Antoine Watteau
+- Cores terrosas.
+- Composição direta.
+- Escala monumental aplicada ao cotidiano.
+- Observação do trabalho, da cidade e do campo.
 
-Legado e influência histórica
+### Artistas e obras
 
-Reação posterior do neoclassicismo
+- Gustave Courbet, Os Quebradores de Pedras.
+- Jean-François Millet, As Respigadeiras.
+- Honoré Daumier.
+- Rosa Bonheur.
 
-4. Neoclassicismo
-Contexto histórico e cultural
+### Música no mesmo horizonte histórico
 
-Iluminismo
+- Romantismo tardio.
+- Nacionalismo musical.
+- Modest Mussorgsky, Bedřich Smetana e Antonín Dvořák.
+- Não apresentar Realismo musical como movimento equivalente consolidado.
 
-Revoluções políticas
+## 9. Realismo Americano
 
-Cosmovisão e visão de mundo
+### Contexto e cosmovisão
 
-Retorno à razão
+- Guerra Civil, expansão urbana, paisagem, trabalho e identidade nacional.
+- Registro da vida comum e das mudanças do país.
+- Relação entre observação, memória e construção de identidade.
 
-Valorização da virtude cívica
+### Linguagem visual
 
-Função da arte na sociedade
+- Narrativa clara.
+- Figura humana em atividade.
+- Paisagem e vida moderna.
+- Realismo descritivo e variedade regional.
 
-Ensinar moral
+### Artistas e obras
 
-Exaltar heróis históricos
+- Winslow Homer, A Corrente do Golfo.
+- Thomas Eakins, A Clínica de Gross.
+- Henry Ossawa Tanner.
+- Mary Cassatt como ponte para o Impressionismo.
 
-Materiais, técnicas e suportes
+### Música no mesmo horizonte histórico
 
-Pintura histórica
+- Antonín Dvořák e Sinfonia do Novo Mundo.
+- Spirituals e tradições musicais americanas como contexto cultural, tratados com fontes responsáveis.
+- Nacionalismo e identidade musical no fim do século XIX.
 
-Escultura inspirada na antiguidade
+## 10. Manet e a transição para a modernidade
 
-Forma, composição e linguagem visual
+### Foco
 
-Clareza
+- Vida urbana moderna.
+- Pintura direta.
+- Superfície visível.
+- Questionamento da composição académica.
+- Relação entre tradição e ruptura.
 
-Simetria
+### Artista e obras
 
-Composição equilibrada
+- Édouard Manet.
+- Almoço na Relva.
+- Olympia.
+- Um Bar no Folies-Bergère.
 
-Arquitetura, escultura e pintura
+### Música
 
-Templos e edifícios públicos
+- Expansão harmónica no fim do Romantismo.
+- Preparação para Debussy e o Impressionismo musical do 5º ano.
 
-Pintura narrativa moral
+## Ponte para o 5º ano
 
-Artistas, obras e exemplos-chave
+O aluno encerra o 4º ano reconhecendo que Realismo e Manet aproximam a arte da vida moderna. O 5º ano começa com o Impressionismo e passa a comparar relações, diferenças e rupturas entre movimentos.
 
-Jacques-Louis David
+## Fontes de referência
 
-Legado e influência histórica
-
-Influência na arte acadêmica
-
-5. Romantismo
-Contexto histórico e cultural
-
-Revoluções industriais
-
-Nacionalismos emergentes
-
-Cosmovisão e visão de mundo
-
-Ênfase na emoção
-
-Valorização da natureza
-
-Centralidade do indivíduo
-
-Função da arte na sociedade
-
-Expressar sentimentos intensos
-
-Representar o sublime
-
-Materiais, técnicas e suportes
-
-Pintura a óleo
-
-Paisagens dramáticas
-
-Forma, composição e linguagem visual
-
-Movimento
-
-Contrastes fortes
-
-Atmosferas emocionais
-
-Arquitetura, escultura e pintura
-
-Pintura como principal meio
-
-Artistas, obras e exemplos-chave
-
-Caspar David Friedrich
-
-Eugène Delacroix
-
-Legado e influência histórica
-
-Influência sobre o simbolismo e expressionismo
-
-6. Realismo
-Contexto histórico e cultural
-
-Sociedade industrial
-
-Questões sociais emergentes
-
-Cosmovisão e visão de mundo
-
-Valorização do cotidiano
-
-Observação objetiva
-
-Função da arte na sociedade
-
-Representar trabalhadores
-
-Criticar desigualdades
-
-Materiais, técnicas e suportes
-
-Pintura realista
-
-Temas sociais
-
-Forma, composição e linguagem visual
-
-Cores naturais
-
-Composição simples
-
-Arquitetura, escultura e pintura
-
-Pintura predominante
-
-Artistas, obras e exemplos-chave
-
-Gustave Courbet
-
-Legado e influência histórica
-
-Preparação para o impressionismo
-
-7. Realismo Americano
-Contexto histórico e cultural
-
-Expansão urbana dos Estados Unidos
-
-Construção da identidade nacional
-
-Cosmovisão e visão de mundo
-
-Ênfase na vida comum
-
-Representação do cotidiano americano
-
-Função da arte na sociedade
-
-Registrar hábitos
-
-Representar a cultura nacional
-
-Materiais, técnicas e suportes
-
-Pintura figurativa
-
-Representação urbana e rural
-
-Forma, composição e linguagem visual
-
-Narrativa visual clara
-
-Realismo descritivo
-
-Arquitetura, escultura e pintura
-
-Pintura dominante
-
-Artistas, obras e exemplos-chave
-
-Winslow Homer
-
-Thomas Eakins
-
-Legado e influência histórica
-
-Ponte para a arte moderna
-
-8. Transição para a modernidade
-Contexto histórico e cultural
-
-Revolução industrial avançada
-
-Novas tecnologias
-
-Cosmovisão e visão de mundo
-
-Questionamento das tradições
-
-Fragmentação da visão clássica
-
-Função da arte na sociedade
-
-Experimentação
-
-Ruptura com a tradição
-
-Materiais, técnicas e suportes
-
-Novas técnicas de pintura
-
-Exploração de materiais
-
-Forma, composição e linguagem visual
-
-Início da simplificação
-
-Mudanças na percepção
-
-Arquitetura, escultura e pintura
-
-Transformações iniciais na pintura
-
-Artistas, obras e exemplos-chave
-
-Édouard Manet
-
-Legado e influência histórica
-
-Abertura para o impressionismo
-
-ENCERRAMENTO DO VOL. 4
-
-Este volume permite ao aluno:
-
-Compreender as grandes transformações do século XVI ao XIX
-
-Identificar mudanças de cosmovisão
-
-Reconhecer rupturas estéticas progressivas
-
-Preparar-se para a arte moderna no Vol. 4
+- `História da arte.md`.
+- `História da Música.md`.
+- `Referencias-Arte-Musica-4-Ano.md`.
+- `Abordagem pedagógica por fase do Trivium e fundamentos de conceituação.md`.

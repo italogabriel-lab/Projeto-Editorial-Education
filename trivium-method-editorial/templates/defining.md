@@ -29,7 +29,7 @@ Atividade
 [-HEADING]
 
 [+PARAGRAPH]
-Leia a definição e ouça o áudio.
+Leia o fato e ouça o áudio clicando abaixo.
 [-PARAGRAPH]
 
 [+ACCORDION]
@@ -64,5 +64,6 @@ O que é [TERMO]?
 - O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
 - Exemplo (semana 3): se `x.1` fixa **"O ponto representa o começo de uma arte."**, `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`.
 - O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.
+- O parágrafo imediatamente antes do Accordion usa literalmente "Leia o fato e ouça o áudio clicando abaixo.".
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

@@ -2,23 +2,32 @@
 
 ## Da criação até a Arte Bizantina
 
-## Semana 1 - A origem da arte e da beleza
+## Semana 1 - A arte vem de Deus
 
 - 1.1 A arte vem de Deus
 - 1.2 A criação é bela
 - 1.3 Feitos à imagem do Criador
 
-## Semana 2 - As primeiras artes na história bíblica
+# Semana 1
+Criação
+
+## Semana 2 - Arte nos primeiros dias
 
 - 2.1 Arte nos primeiros dias
 - 2.2 Jubal e o som da música
-- 2.3 Tubalcaim e o ferro em chamas
+- 2.3 Tubalcaim e o ofício do metal
+
+# Semana 2
+Ofício
 
 ## Semana 3 - A arte como louvor
 
-- 3.1 Arte como louvor
+- 3.1 A arte como louvor
 - 3.2 Cores que expressam sentimentos
 - 3.3 O som da alegria
+
+# Semana 3
+Louvor
 
 ## Semana 4 - Imagens que contam histórias
 
@@ -26,182 +35,273 @@
 - 4.2 Luz nas pinturas
 - 4.3 O que a arte revela sobre Deus
 
+# Semana 4
+Imagem
+
 ## Semana 5 - O dom criativo em Gênesis
 
 - 5.1 O dom criativo em Gênesis
 - 5.2 No princípio, Deus criou
 - 5.3 O homem criador
 
-## Semana 6 - A cor na criação
+# Semana 5
+Dom criativo
 
-- 6.1 Deus, o grande colorista
+## Semana 6 - A cor na criação de Deus
+
+- 6.1 A cor na criação de Deus
 - 6.2 O arco da aliança
-- 6.3 Explorando o círculo cromático
+- 6.3 O círculo cromático
 
-## Semana 7 - A linguagem das cores
+# Semana 6
+Cor
+
+## Semana 7 - Cores primárias e secundárias
 
 - 7.1 Cores primárias e secundárias
 - 7.2 O poder do matiz e da luz
 - 7.3 O céu como tela divina
 
-## Semana 8 - A linguagem dos sons
+# Semana 7
+Matiz
+
+## Semana 8 - Sons que tocam o coração
 
 - 8.1 Sons que tocam o coração
 - 8.2 Ritmo e melodia
 - 8.3 Vozes dos instrumentos
 
+# Semana 8
+Som
+
 9 Revisão
 
 10 Provas
 
-## Semana 11 - A arte de ver e ouvir
+## Semana 11 - A arte dos primeiros homens
 
-- 11.1 Aprender a observar
-- 11.2 Composição e luz nas obras
-- 11.3 Forma e emoção na música
+- 11.1 A arte dos primeiros homens
+- 11.2 A primeira galeria da humanidade
+- 11.3 As grandes cavernas da arte rupestre
 
-## Semana 12 - A arte dos primeiros homens
+# Semana 11
+Arte rupestre
 
-- 12.1 A primeira galeria da humanidade
-- 12.2 Caçadas e cenas antigas
-- 12.3 As grandes cavernas da arte rupestre
+## Semana 12 - Símbolos nas cavernas
 
-## Semana 13 - Símbolos e mistérios das cavernas
+- 12.1 Símbolos nas cavernas
+- 12.2 Animais na arte rupestre
+- 12.3 A caverna como memória
 
-- 13.1 Símbolos nas cavernas
-- 13.2 Animais e mistérios na arte rupestre
-- 13.3 A caverna como memória
+# Semana 12
+Símbolo
 
-## Semana 14 - Viagem à arte ancestral
+## Semana 13 - Pinturas em Lascaux
 
-- 14.1 Viagem às cavernas da arte
-- 14.2 Formas nas pinturas em Lascaux
-- 14.3 Altamira e seus búfalos
+- 13.1 Pinturas em Lascaux
+- 13.2 Formas na arte de Altamira
+- 13.3 Contornos e silhuetas rupestres
 
-## Semana 15 - Esculturas e monumentos antigos
+# Semana 13
+Contorno
 
-- 15.1 Esculturas na antiguidade
-- 15.2 Estátuas e significados
-- 15.3 O símbolo da fertilidade
+## Semana 14 - Esculturas portáteis
 
-## Semana 16 - Monumentos e céus antigos
+- 14.1 Esculturas portáteis
+- 14.2 A Vênus de Willendorf
+- 14.3 O corpo como forma na arte pré-histórica
 
-- 16.1 Megálitos e monumentos
-- 16.2 Stonehenge e o sol
-- 16.3 Rituais e arte celeste
+# Semana 14
+Escultura portátil
 
-## Semana 17 - A música da terra
+## Semana 15 - Megálitos e monumentos
 
-- 17.1 Música da terra
-- 17.2 Flautas e tambores antigos
-- 17.3 O som do fogo
+- 15.1 Megálitos e monumentos
+- 15.2 Stonehenge como monumento
+- 15.3 Pedras, escala e paisagem
 
-## Semana 18 - A arte que une
+# Semana 15
+Megalito
 
-- 18.1 Pintura em grupo
-- 18.2 A tradição dos ancestrais
-- 18.3 A arte que une
+## Semana 16 - Música da terra
+
+- 16.1 Música da terra
+- 16.2 Flautas de osso
+- 16.3 Percussão e sons antigos
+
+# Semana 16
+Flauta
+
+## Semana 17 - A arte que une
+
+- 17.1 A arte que une
+- 17.2 Pintura em grupo
+- 17.3 A tradição dos ancestrais
+
+# Semana 17
+Tradição
+
+## Semana 18 - A arte pré-histórica e seus materiais
+
+- 18.1 A arte pré-histórica e seus materiais
+- 18.2 Pigmentos minerais e carvão
+- 18.3 Gravura e superfície rochosa
+
+# Semana 18
+Pigmento
 
 19 Revisão
 
 20 Provas
 
-## Semana 21 - A arte do Egito Antigo
+## Semana 21 - A Mesopotâmia e suas cidades
 
-- 21.1 Arte egípcia e simetria
-- 21.2 Pirâmides do deserto
-- 21.3 A paisagem do Egito como influência artística
+- 21.1 A Mesopotâmia e suas cidades
+- 21.2 O zigurate como templo
+- 21.3 A torre de Babel e o orgulho
 
-## Semana 22 - Símbolos da arte egípcia
+# Semana 21
+Zigurate
 
-- 22.1 Símbolos da arte egípcia
-- 22.2 Anseio pela eternidade
-- 22.3 A busca pela imortalidade
+## Semana 22 - Estelas e relevos mesopotâmicos
 
-## Semana 23 - Linguagem e cor no Egito
+- 22.1 Estelas e relevos mesopotâmicos
+- 22.2 O código de Hamurábi
+- 22.3 A lei gravada em pedra
 
-- 23.1 Hieróglifos e histórias
-- 23.2 Narrativa registrada nas paredes antigas
-- 23.3 O poder dos símbolos
+# Semana 22
+Estela
 
-## Semana 24 - As cores do Nilo
+## Semana 23 - Selos cilíndricos e escrita cuneiforme
 
-- 24.1 As cores do Nilo
-- 24.2 Paleta e significado nas cores
-- 24.3 Contraste no deserto e no rio
+- 23.1 Selos cilíndricos e escrita cuneiforme
+- 23.2 Imagens do poder na Assíria
+- 23.3 Relevos de guerra e caça
 
-## Semana 25 - A vida e o cotidiano no Egito
+# Semana 23
+Relevo
 
-- 25.1 O labor na vida cotidiana do Egito
-- 25.2 O adorno nas joias e tecidos antigos
-- 25.3 O ofício representado nas pinturas
+## Semana 24 - Instrumentos e música na Mesopotâmia
 
-## Semana 26 - O Egito em arte e memória
+- 24.1 Instrumentos e música na Mesopotâmia
+- 24.2 Liras e harpas de Ur
+- 24.3 O Hino Hurrita como registro antigo
 
-- 26.1 Máscaras, múmias e o desejo de preservar a vida
-- 26.2 Composição em amuletos e sarcófagos
-- 26.3 A transcendência buscada na arte egípcia
+# Semana 24
+Harpa
 
-## Semana 27 - Arte egípcia, estilo e sociedade
+## Semana 25 - A arte egípcia e a lei da frontalidade
 
-- 27.1 O cânone artístico e a lei da frontalidade
-- 27.2 Hierarquia visual na arte egípcia
-- 27.3 Registro visual da vida e dos ofícios
+- 25.1 A arte egípcia e a lei da frontalidade
+- 25.2 Pirâmides de Gizé
+- 25.3 A monumentalidade do Egito
 
-## Semana 28 - O Egito em arte e legado
+# Semana 25
+Frontalidade
 
-- 28.1 O Egito em arte e legado
-- 28.2 Símbolos no imaginário
-- 28.3 Ressignificação do Egito no cinema e na arte
+## Semana 26 - Hieróglifos e imagem
+
+- 26.1 Hieróglifos e imagem
+- 26.2 Narrativa nas paredes dos templos
+- 26.3 O poder dos símbolos egípcios
+
+# Semana 26
+Hieróglifo
+
+## Semana 27 - As cores do Nilo
+
+- 27.1 As cores do Nilo
+- 27.2 Cor simbólica na arte egípcia
+- 27.3 Contraste na paleta egípcia
+
+# Semana 27
+Paleta
+
+## Semana 28 - Esculturas e máscaras do Egito
+
+- 28.1 Esculturas e máscaras do Egito
+- 28.2 O busto de Nefertiti
+- 28.3 A máscara funerária de Tutancâmon
+
+# Semana 28
+Escultura egípcia
 
 29 Revisão
 
 30 Provas
 
-## Semana 31 - A arte mesopotâmica
+## Semana 31 - A arte egeia e suas ilhas
 
-- 31.1 Arte mesopotâmica
-- 31.2 Zigurates e a torre de Babel
-- 31.3 A torre e o orgulho
+- 31.1 A arte egeia e suas ilhas
+- 31.2 Figuras das Cíclades
+- 31.3 Formas simplificadas da arte cicládica
 
-## Semana 32 - Arte egeia
+# Semana 31
+Arte cicládica
 
-- 32.1 Identidade visual na arte egeia
-- 32.2 Movimento e natureza na arte egeia
-- 32.3 Frescos de Cnossos
+## Semana 32 - A arte minoica e Cnossos
 
-## Semana 33 - Arte grega
+- 32.1 A arte minoica e Cnossos
+- 32.2 Frescos do palácio de Cnossos
+- 32.3 Movimento e natureza na arte minoica
 
-- 33.1 A ordem na arquitetura grega
-- 33.2 Pintura em vasos
-- 33.3 Mitologia e arte
+# Semana 32
+Fresco minoico
 
-## Semana 34 - Arte romana
+## Semana 33 - A arte grega e suas ordens
 
-- 34.1 Realismo romano
-- 34.2 Mosaicos e afrescos
-- 34.3 Idealização e intenção artística
+- 33.1 A arte grega e suas ordens
+- 33.2 O Partenon e as colunas gregas
+- 33.3 A ordem na arquitetura grega
 
-## Semana 35 - Arte cristã primitiva
+# Semana 33
+Ordem grega
 
-- 35.1 Arte cristã primitiva
-- 35.2 Símbolos cristãos
-- 35.3 Pinturas nas catacumbas
+## Semana 34 - Vasos gregos e narrativa
 
-## Semana 36 - Arte cristã primitiva em serviço
+- 34.1 Vasos gregos e narrativa
+- 34.2 Figuras negras e figuras vermelhas
+- 34.3 Cenas da mitologia nos vasos
 
-- 36.1 Narrativa bíblica
-- 36.2 Forma simples
-- 36.3 Função didática
+# Semana 34
+Vaso grego
 
-## Semana 37 - Arte Bizantina
+## Semana 35 - Escultura grega e proporção
 
-- 37.1 Arte Bizantina e o império cristão
-- 37.2 Arte Bizantina e mosaicos de ouro
-- 37.3 Arte Bizantina e ícones
+- 35.1 Escultura grega e proporção
+- 35.2 O Doríforo de Policleto
+- 35.3 A proporção do corpo humano na Grécia
 
-## Semana 38 - Arte Bizantina, forma e espaço
+# Semana 35
+Proporção
 
-- 38.1 Frontalidade e hierarquia
-- 38.2 Arquitetura centralizada
-- 38.3 Basílica Santa Sofia
+## Semana 36 - A lira e a música grega
+
+- 36.1 A lira e a música grega
+- 36.2 Música no teatro e na educação
+- 36.3 O Epitáfio de Sícilo
+
+# Semana 36
+Lira
+
+## Semana 37 - Arte Cristã Primitiva e catacumbas
+
+- 37.1 Arte cristã primitiva e catacumbas
+- 37.2 O Bom Pastor nas catacumbas
+- 37.3 Símbolos cristãos nas pinturas
+
+# Semana 37
+Catacumba
+
+## Semana 38 - Arte Bizantina e ícones
+
+- 38.1 Arte Bizantina e ícones
+- 38.2 O Cristo Pantocrator
+- 38.3 A Basílica de Santa Sofia
+
+# Semana 38
+Ícone
+
+39 Revisão
+
+40 Provas

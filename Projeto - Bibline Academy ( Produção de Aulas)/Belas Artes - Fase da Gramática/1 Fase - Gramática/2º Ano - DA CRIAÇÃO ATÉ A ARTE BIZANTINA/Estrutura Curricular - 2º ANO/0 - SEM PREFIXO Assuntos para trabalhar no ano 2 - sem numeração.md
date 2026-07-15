@@ -1,12 +1,12 @@
-A origem da arte e da beleza
+A arte vem de Deus
 A criação é bela
 Feitos à imagem do Criador
 
 Arte nos primeiros dias
 Jubal e o som da música
-Tubalcaim e o ferro em chamas
+Tubalcaim e o ofício do metal
 
-Arte como louvor
+A arte como louvor
 Cores que expressam sentimentos
 O som da alegria
 
@@ -18,9 +18,9 @@ O dom criativo em Gênesis
 No princípio, Deus criou
 O homem criador
 
-Deus, o grande colorista
+A cor na criação de Deus
 O arco da aliança
-Explorando o círculo cromático
+O círculo cromático
 
 Cores primárias e secundárias
 O poder do matiz e da luz
@@ -34,106 +34,146 @@ Revisão
 
 Provas
 
-Aprender a observar
-Composição e luz nas obras
-Forma e emoção na música
-
+A arte dos primeiros homens
 A primeira galeria da humanidade
-Caçadas e cenas antigas
 As grandes cavernas da arte rupestre
 
 Símbolos nas cavernas
-Animais e mistérios na arte rupestre
+Animais na arte rupestre
 A caverna como memória
 
-Viagem às cavernas da arte
-Formas nas pinturas em Lascaux
-Altamira e seus búfalos
+Pinturas em Lascaux
+Formas na arte de Altamira
+Contornos e silhuetas rupestres
 
-Esculturas na antiguidade
-Estátuas e significados
-O símbolo da fertilidade
+Esculturas portáteis
+A Vênus de Willendorf
+O corpo como forma na arte pré-histórica
 
 Megálitos e monumentos
-Stonehenge e o sol
-Rituais e arte celeste
+Stonehenge como monumento
+Pedras, escala e paisagem
 
 Música da terra
-Flautas e tambores antigos
-O som do fogo
+Flautas de osso
+Percussão e sons antigos
 
+A arte que une
 Pintura em grupo
 A tradição dos ancestrais
-A arte que une
+
+A arte pré-histórica e seus materiais
+Pigmentos minerais e carvão
+Gravura e superfície rochosa
 
 Revisão
 
 Provas
 
-Arte egípcia e simetria
-Pirâmides do deserto
-A paisagem do Egito como influência artística
+A Mesopotâmia e suas cidades
+O zigurate como templo
+A torre de Babel e o orgulho
 
-Símbolos da arte egípcia
-Anseio pela eternidade
-A busca pela imortalidade
+Estelas e relevos mesopotâmicos
+O código de Hamurábi
+A lei gravada em pedra
 
-Hieróglifos e histórias
-Narrativa registrada nas paredes antigas
-O poder dos símbolos
+Selos cilíndricos e escrita cuneiforme
+Imagens do poder na Assíria
+Relevos de guerra e caça
+
+Instrumentos e música na Mesopotâmia
+Liras e harpas de Ur
+O Hino Hurrita como registro antigo
+
+A arte egípcia e a lei da frontalidade
+Pirâmides de Gizé
+A monumentalidade do Egito
+
+Hieróglifos e imagem
+Narrativa nas paredes dos templos
+O poder dos símbolos egípcios
 
 As cores do Nilo
-Paleta e significado nas cores
-Contraste no deserto e no rio
+Cor simbólica na arte egípcia
+Contraste na paleta egípcia
 
-O labor na vida cotidiana do Egito
-O adorno nas joias e tecidos antigos
-O ofício representado nas pinturas
-
-Máscaras, múmias e o desejo de preservar a vida
-Composição em amuletos e sarcófagos
-A transcendência buscada na arte egípcia
-
-O cânone artístico e a lei da frontalidade
-Hierarquia visual na arte egípcia
-Registro visual da vida e dos ofícios
-
-O Egito em arte e legado
-Símbolos no imaginário
-Ressignificação do Egito no cinema e na arte
+Esculturas e máscaras do Egito
+O busto de Nefertiti
+A máscara funerária de Tutancâmon
 
 Revisão
 
 Provas
 
-Arte mesopotâmica
-Zigurates e a torre de Babel
-A torre e o orgulho
+A arte egeia e suas ilhas
+Figuras das Cíclades
+Formas simplificadas da arte cicládica
 
-Identidade visual na arte egeia
-Movimento e natureza na arte egeia
-Frescos de Cnossos
+A arte minoica e Cnossos
+Frescos do palácio de Cnossos
+Movimento e natureza na arte minoica
 
+A arte micênica e suas muralhas
+A Porta dos Leões em Micenas
+Forças e defesa na arte micênica
+
+A arte grega e suas ordens
+O Partenon e as colunas gregas
 A ordem na arquitetura grega
-Pintura em vasos
-Mitologia e arte
 
-Realismo romano
-Mosaicos e afrescos
-Idealização e intenção artística
+Vasos gregos e narrativa
+Figuras negras e figuras vermelhas
+Cenas da mitologia nos vasos
 
-Arte cristã primitiva
-Símbolos cristãos
-Pinturas nas catacumbas
+Escultura grega e proporção
+O Doríforo de Policleto
+A proporção do corpo humano na Grécia
 
-Narrativa bíblica
-Forma simples
-Função didática
+A lira e a música grega
+Música no teatro e na educação
+O Epitáfio de Sícilo
 
-Arte Bizantina e o império cristão
+A arte grega do período helenístico
+A Vitória de Samotrácia
+Drama e movimento no Helenismo
+
+Revisão
+
+Provas
+
+A arte romana e o retrato
+Augusto de Prima Porta
+O rosto como registro de poder
+
+Arquitetura romana e engenharia
+O Coliseu e o Panteão
+Arco, abóbada e cúpula
+
+Mosaico e afresco romanos
+Afrescos de Pompeia
+A Coluna de Trajano
+
+Música romana e vida pública
+Instrumentos militares e teatrais
+A música no cotidiano de Roma
+
+Arte cristã primitiva e catacumbas
+O Bom Pastor nas catacumbas
+Símbolos cristãos nas pinturas
+
+Sarcófagos e basílicas cristãs
+O sarcófago de Júnio Basso
+A basílica como espaço cristão
+
 Arte Bizantina e mosaicos de ouro
-Arte Bizantina e ícones
+Mosaicos de Justiniano em Ravena
+Frontalidade e hierarquia na arte bizantina
 
-Frontalidade e hierarquia
-Arquitetura centralizada
-Basílica Santa Sofia
+Arte Bizantina e ícones
+O Cristo Pantocrator
+A Basílica de Santa Sofia
+
+Revisão
+
+Provas

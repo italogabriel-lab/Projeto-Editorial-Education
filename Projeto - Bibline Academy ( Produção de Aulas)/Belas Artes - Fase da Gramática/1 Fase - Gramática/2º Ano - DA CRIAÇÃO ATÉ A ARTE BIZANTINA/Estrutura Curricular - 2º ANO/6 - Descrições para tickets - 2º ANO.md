@@ -7,9 +7,9 @@
 
 ---
 
-## Semana 1 – A origem da arte e da beleza
+## Semana 1 – A arte vem de Deus
 
-**Tema central da semana**, A origem da arte e da beleza. A aula 1.1 fixa a definição central. A aula 1.2 desenvolve A criação é bela. A aula 1.3 desenvolve Feitos à imagem do Criador.
+**Tema central da semana**, A arte tem origem em Deus, aparece na criação e se reflete no homem.
 
 ---
 
@@ -17,12 +17,12 @@
 
 # Description
 
-**Tema central da semana**, A origem da arte e da beleza. **Foco da aula**, coração pedagógico que fixa a definição central.
+**Tema central da semana**, A arte vem de Deus. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
    → Reconheça A arte vem de Deus como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A origem da arte e da beleza.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte vem de Deus.
 
 ---
 
@@ -30,7 +30,7 @@
 
 # Description
 
-**Tema central da semana**, A origem da arte e da beleza. **Foco da aula**, primeiro desdobramento, A criação é bela.
+**Tema central da semana**, A arte vem de Deus. **Foco da aula**, primeiro desdobramento, A criação é bela.
 
 ## Objetivos
    → Compreenda A criação é bela como primeiro desdobramento do tema da semana.
@@ -43,7 +43,7 @@
 
 # Description
 
-**Tema central da semana**, A origem da arte e da beleza. **Foco da aula**, segundo desdobramento, Feitos à imagem do Criador.
+**Tema central da semana**, A arte vem de Deus. **Foco da aula**, segundo desdobramento, Feitos à imagem do Criador.
 
 ## Objetivos
    → Pratique Feitos à imagem do Criador como segundo desdobramento do tema da semana.
@@ -58,7 +58,7 @@
 
 Revisar os conhecimentos das aulas da semana 1.
 
-## 1ª Semana, **A origem da arte e da beleza**
+## 1ª Semana, **A arte vem de Deus**
 - 1.1 A arte vem de Deus
 - 1.2 A criação é bela
 - 1.3 Feitos à imagem do Criador
@@ -71,16 +71,16 @@ Revisar os conhecimentos das aulas da semana 1.
 
 Avaliar os conhecimentos das aulas da semana 1.
 
-## 1ª Semana, **A origem da arte e da beleza**
+## 1ª Semana, **A arte vem de Deus**
 - 1.1 A arte vem de Deus
 - 1.2 A criação é bela
 - 1.3 Feitos à imagem do Criador
 
 ---
 
-## Semana 2 – As primeiras artes na história bíblica
+## Semana 2 – Arte nos primeiros dias
 
-**Tema central da semana**, As primeiras artes na história bíblica. A aula 2.1 apresenta o coração do tema. A aula 2.2 desenvolve Jubal e o som da música. A aula 2.3 desenvolve Tubalcaim e o ferro em chamas.
+**Tema central da semana**, A arte acompanha o homem desde os primeiros dias e manifesta dons recebidos do Criador.
 
 ---
 
@@ -88,12 +88,12 @@ Avaliar os conhecimentos das aulas da semana 1.
 
 # Description
 
-**Tema central da semana**, As primeiras artes na história bíblica. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Arte nos primeiros dias. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
    → Reconheça Arte nos primeiros dias como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre As primeiras artes na história bíblica.
+   → Narre com as próprias palavras o que esta aula ensina sobre Arte nos primeiros dias.
 
 ---
 
@@ -101,7 +101,7 @@ Avaliar os conhecimentos das aulas da semana 1.
 
 # Description
 
-**Tema central da semana**, As primeiras artes na história bíblica. **Foco da aula**, primeiro desdobramento, Jubal e o som da música.
+**Tema central da semana**, Arte nos primeiros dias. **Foco da aula**, primeiro desdobramento, Jubal e o som da música.
 
 ## Objetivos
    → Compreenda Jubal e o som da música como primeiro desdobramento do tema da semana.
@@ -110,16 +110,16 @@ Avaliar os conhecimentos das aulas da semana 1.
 
 ---
 
-[Belas artes] - Ano 2 - 2.3 Tubalcaim e o ferro em chamas (Update)
+[Belas artes] - Ano 2 - 2.3 Tubalcaim e o ofício do metal (Update)
 
 # Description
 
-**Tema central da semana**, As primeiras artes na história bíblica. **Foco da aula**, segundo desdobramento, Tubalcaim e o ferro em chamas.
+**Tema central da semana**, Arte nos primeiros dias. **Foco da aula**, segundo desdobramento, Tubalcaim e o ofício do metal.
 
 ## Objetivos
-   → Pratique Tubalcaim e o ferro em chamas como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Tubalcaim e o ferro em chamas em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Tubalcaim e o ferro em chamas dentro da progressão da semana.
+   → Pratique Tubalcaim e o ofício do metal como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Tubalcaim e o ofício do metal em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Tubalcaim e o ofício do metal dentro da progressão da semana.
 
 ---
 
@@ -129,10 +129,10 @@ Avaliar os conhecimentos das aulas da semana 1.
 
 Revisar os conhecimentos das aulas da semana 2.
 
-## 2ª Semana, **As primeiras artes na história bíblica**
+## 2ª Semana, **Arte nos primeiros dias**
 - 2.1 Arte nos primeiros dias
 - 2.2 Jubal e o som da música
-- 2.3 Tubalcaim e o ferro em chamas
+- 2.3 Tubalcaim e o ofício do metal
 
 ---
 
@@ -142,27 +142,27 @@ Revisar os conhecimentos das aulas da semana 2.
 
 Avaliar os conhecimentos das aulas da semana 2.
 
-## 2ª Semana, **As primeiras artes na história bíblica**
+## 2ª Semana, **Arte nos primeiros dias**
 - 2.1 Arte nos primeiros dias
 - 2.2 Jubal e o som da música
-- 2.3 Tubalcaim e o ferro em chamas
+- 2.3 Tubalcaim e o ofício do metal
 
 ---
 
 ## Semana 3 – A arte como louvor
 
-**Tema central da semana**, A arte como louvor. A aula 3.1 apresenta o coração do tema. A aula 3.2 desenvolve Cores que expressam sentimentos. A aula 3.3 desenvolve O som da alegria.
+**Tema central da semana**, A arte redimida responde à bondade de Deus com adoração, alegria e beleza ordenada.
 
 ---
 
-[Belas artes] - Ano 2 - 3.1 Arte como louvor (Update)
+[Belas artes] - Ano 2 - 3.1 A arte como louvor (Update)
 
 # Description
 
-**Tema central da semana**, A arte como louvor. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte como louvor. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte como louvor como coração pedagógico da semana.
+   → Reconheça A arte como louvor como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
    → Narre com as próprias palavras o que esta aula ensina sobre A arte como louvor.
 
@@ -201,7 +201,7 @@ Avaliar os conhecimentos das aulas da semana 2.
 Revisar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **A arte como louvor**
-- 3.1 Arte como louvor
+- 3.1 A arte como louvor
 - 3.2 Cores que expressam sentimentos
 - 3.3 O som da alegria
 
@@ -214,7 +214,7 @@ Revisar os conhecimentos das aulas da semana 3.
 Avaliar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **A arte como louvor**
-- 3.1 Arte como louvor
+- 3.1 A arte como louvor
 - 3.2 Cores que expressam sentimentos
 - 3.3 O som da alegria
 
@@ -222,7 +222,7 @@ Avaliar os conhecimentos das aulas da semana 3.
 
 ## Semana 4 – Imagens que contam histórias
 
-**Tema central da semana**, Imagens que contam histórias. A aula 4.1 apresenta o coração do tema. A aula 4.2 desenvolve Luz nas pinturas. A aula 4.3 desenvolve O que a arte revela sobre Deus.
+**Tema central da semana**, A imagem pode servir à memória, ao ensino e à contemplação quando subordinada à verdade.
 
 ---
 
@@ -230,7 +230,7 @@ Avaliar os conhecimentos das aulas da semana 3.
 
 # Description
 
-**Tema central da semana**, Imagens que contam histórias. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Imagens que contam histórias. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
    → Reconheça Imagens que contam histórias como coração pedagógico da semana.
@@ -293,7 +293,7 @@ Avaliar os conhecimentos das aulas da semana 4.
 
 ## Semana 5 – O dom criativo em Gênesis
 
-**Tema central da semana**, O dom criativo em Gênesis. A aula 5.1 fixa a definição central. A aula 5.2 desenvolve No princípio, Deus criou. A aula 5.3 desenvolve O homem criador.
+**Tema central da semana**, O ato criador de Deus é o fundamento da criatividade humana.
 
 ---
 
@@ -362,22 +362,22 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 ---
 
-## Semana 6 – A cor na criação
+## Semana 6 – A cor na criação de Deus
 
-**Tema central da semana**, A cor na criação. A aula 6.1 apresenta o coração do tema. A aula 6.2 desenvolve O arco da aliança. A aula 6.3 desenvolve Explorando o círculo cromático.
+**Tema central da semana**, A cor é parte da ordem, da promessa e da glória presentes na criação.
 
 ---
 
-[Belas artes] - Ano 2 - 6.1 Deus, o grande colorista (Update)
+[Belas artes] - Ano 2 - 6.1 A cor na criação de Deus (Update)
 
 # Description
 
-**Tema central da semana**, A cor na criação. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A cor na criação de Deus. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Deus, o grande colorista como coração pedagógico da semana.
+   → Reconheça A cor na criação de Deus como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A cor na criação.
+   → Narre com as próprias palavras o que esta aula ensina sobre A cor na criação de Deus.
 
 ---
 
@@ -385,7 +385,7 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 # Description
 
-**Tema central da semana**, A cor na criação. **Foco da aula**, primeiro desdobramento, O arco da aliança.
+**Tema central da semana**, A cor na criação de Deus. **Foco da aula**, primeiro desdobramento, O arco da aliança.
 
 ## Objetivos
    → Compreenda O arco da aliança como primeiro desdobramento do tema da semana.
@@ -394,16 +394,16 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 ---
 
-[Belas artes] - Ano 2 - 6.3 Explorando o círculo cromático (Update)
+[Belas artes] - Ano 2 - 6.3 O círculo cromático (Update)
 
 # Description
 
-**Tema central da semana**, A cor na criação. **Foco da aula**, segundo desdobramento, Explorando o círculo cromático.
+**Tema central da semana**, A cor na criação de Deus. **Foco da aula**, segundo desdobramento, O círculo cromático.
 
 ## Objetivos
-   → Pratique Explorando o círculo cromático como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Explorando o círculo cromático em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Explorando o círculo cromático dentro da progressão da semana.
+   → Pratique O círculo cromático como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de O círculo cromático em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender O círculo cromático dentro da progressão da semana.
 
 ---
 
@@ -413,10 +413,10 @@ Avaliar os conhecimentos das aulas da semana 5.
 
 Revisar os conhecimentos das aulas da semana 6.
 
-## 6ª Semana, **A cor na criação**
-- 6.1 Deus, o grande colorista
+## 6ª Semana, **A cor na criação de Deus**
+- 6.1 A cor na criação de Deus
 - 6.2 O arco da aliança
-- 6.3 Explorando o círculo cromático
+- 6.3 O círculo cromático
 
 ---
 
@@ -426,16 +426,16 @@ Revisar os conhecimentos das aulas da semana 6.
 
 Avaliar os conhecimentos das aulas da semana 6.
 
-## 6ª Semana, **A cor na criação**
-- 6.1 Deus, o grande colorista
+## 6ª Semana, **A cor na criação de Deus**
+- 6.1 A cor na criação de Deus
 - 6.2 O arco da aliança
-- 6.3 Explorando o círculo cromático
+- 6.3 O círculo cromático
 
 ---
 
-## Semana 7 – A linguagem das cores
+## Semana 7 – Cores primárias e secundárias
 
-**Tema central da semana**, A linguagem das cores. A aula 7.1 apresenta o coração do tema. A aula 7.2 desenvolve O poder do matiz e da luz. A aula 7.3 desenvolve O céu como tela divina.
+**Tema central da semana**, A cor fala por contraste, harmonia e simbolismo.
 
 ---
 
@@ -443,12 +443,12 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 # Description
 
-**Tema central da semana**, A linguagem das cores. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
    → Reconheça Cores primárias e secundárias como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A linguagem das cores.
+   → Narre com as próprias palavras o que esta aula ensina sobre Cores primárias e secundárias.
 
 ---
 
@@ -456,7 +456,7 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 # Description
 
-**Tema central da semana**, A linguagem das cores. **Foco da aula**, primeiro desdobramento, O poder do matiz e da luz.
+**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, primeiro desdobramento, O poder do matiz e da luz.
 
 ## Objetivos
    → Compreenda O poder do matiz e da luz como primeiro desdobramento do tema da semana.
@@ -469,7 +469,7 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 # Description
 
-**Tema central da semana**, A linguagem das cores. **Foco da aula**, segundo desdobramento, O céu como tela divina.
+**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, segundo desdobramento, O céu como tela divina.
 
 ## Objetivos
    → Pratique O céu como tela divina como segundo desdobramento do tema da semana.
@@ -484,7 +484,7 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 Revisar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana, **A linguagem das cores**
+## 7ª Semana, **Cores primárias e secundárias**
 - 7.1 Cores primárias e secundárias
 - 7.2 O poder do matiz e da luz
 - 7.3 O céu como tela divina
@@ -497,16 +497,16 @@ Revisar os conhecimentos das aulas da semana 7.
 
 Avaliar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana, **A linguagem das cores**
+## 7ª Semana, **Cores primárias e secundárias**
 - 7.1 Cores primárias e secundárias
 - 7.2 O poder do matiz e da luz
 - 7.3 O céu como tela divina
 
 ---
 
-## Semana 8 – A linguagem dos sons
+## Semana 8 – Sons que tocam o coração
 
-**Tema central da semana**, A linguagem dos sons. A aula 8.1 apresenta o coração do tema. A aula 8.2 desenvolve Ritmo e melodia. A aula 8.3 desenvolve Vozes dos instrumentos.
+**Tema central da semana**, O som participa da ordem criada e educa a escuta do coração.
 
 ---
 
@@ -514,12 +514,12 @@ Avaliar os conhecimentos das aulas da semana 7.
 
 # Description
 
-**Tema central da semana**, A linguagem dos sons. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Sons que tocam o coração. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
    → Reconheça Sons que tocam o coração como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A linguagem dos sons.
+   → Narre com as próprias palavras o que esta aula ensina sobre Sons que tocam o coração.
 
 ---
 
@@ -527,7 +527,7 @@ Avaliar os conhecimentos das aulas da semana 7.
 
 # Description
 
-**Tema central da semana**, A linguagem dos sons. **Foco da aula**, primeiro desdobramento, Ritmo e melodia.
+**Tema central da semana**, Sons que tocam o coração. **Foco da aula**, primeiro desdobramento, Ritmo e melodia.
 
 ## Objetivos
    → Compreenda Ritmo e melodia como primeiro desdobramento do tema da semana.
@@ -540,7 +540,7 @@ Avaliar os conhecimentos das aulas da semana 7.
 
 # Description
 
-**Tema central da semana**, A linguagem dos sons. **Foco da aula**, segundo desdobramento, Vozes dos instrumentos.
+**Tema central da semana**, Sons que tocam o coração. **Foco da aula**, segundo desdobramento, Vozes dos instrumentos.
 
 ## Objetivos
    → Pratique Vozes dos instrumentos como segundo desdobramento do tema da semana.
@@ -555,7 +555,7 @@ Avaliar os conhecimentos das aulas da semana 7.
 
 Revisar os conhecimentos das aulas da semana 8.
 
-## 8ª Semana, **A linguagem dos sons**
+## 8ª Semana, **Sons que tocam o coração**
 - 8.1 Sons que tocam o coração
 - 8.2 Ritmo e melodia
 - 8.3 Vozes dos instrumentos
@@ -568,117 +568,80 @@ Revisar os conhecimentos das aulas da semana 8.
 
 Avaliar os conhecimentos das aulas da semana 8.
 
-## 8ª Semana, **A linguagem dos sons**
+## 8ª Semana, **Sons que tocam o coração**
 - 8.1 Sons que tocam o coração
 - 8.2 Ritmo e melodia
 - 8.3 Vozes dos instrumentos
 
 ---
 
-## Semana 11 – A arte de ver e ouvir
-
-**Tema central da semana**, A arte de ver e ouvir. A aula 11.1 fixa a definição central. A aula 11.2 desenvolve Composição e luz nas obras. A aula 11.3 desenvolve Forma e emoção na música.
-
----
-
-[Belas artes] - Ano 2 - 11.1 Aprender a observar (Update)
+[Belas artes] - Ano 2 - 9 Revisão (Update)
 
 # Description
 
-**Tema central da semana**, A arte de ver e ouvir. **Foco da aula**, coração pedagógico que fixa a definição central.
+Revisar todo o conteúdo do 1º bimestre, semanas 1 a 8.
+
+- Semana 1
+- Semana 2
+- Semana 3
+- Semana 4
+- Semana 5
+- Semana 6
+- Semana 7
+- Semana 8
+
+---
+
+[Belas artes] - Ano 2 - 10 Prova (Update)
+
+# Description
+
+Avaliar todo o conteúdo do 1º bimestre, semanas 1 a 8.
+
+- Semana 1
+- Semana 2
+- Semana 3
+- Semana 4
+- Semana 5
+- Semana 6
+- Semana 7
+- Semana 8
+
+---
+
+## Semana 11 – A arte dos primeiros homens
+
+**Tema central da semana**, As primeiras obras humanas registram memória, trabalho e sobrevivência.
+
+---
+
+[Belas artes] - Ano 2 - 11.1 A arte dos primeiros homens (Update)
+
+# Description
+
+**Tema central da semana**, A arte dos primeiros homens. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Aprender a observar como coração pedagógico da semana.
-   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A arte de ver e ouvir.
-
----
-
-[Belas artes] - Ano 2 - 11.2 Composição e luz nas obras (Update)
-
-# Description
-
-**Tema central da semana**, A arte de ver e ouvir. **Foco da aula**, primeiro desdobramento, Composição e luz nas obras.
-
-## Objetivos
-   → Compreenda Composição e luz nas obras como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Composição e luz nas obras.
-   → Narre oralmente um exemplo que mostre Composição e luz nas obras.
-
----
-
-[Belas artes] - Ano 2 - 11.3 Forma e emoção na música (Update)
-
-# Description
-
-**Tema central da semana**, A arte de ver e ouvir. **Foco da aula**, segundo desdobramento, Forma e emoção na música.
-
-## Objetivos
-   → Pratique Forma e emoção na música como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Forma e emoção na música em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Forma e emoção na música dentro da progressão da semana.
-
----
-
-[Belas artes] - Ano 2 - 11.4 Revisão (Update)
-
-# Description
-
-Revisar os conhecimentos das aulas da semana 11.
-
-## 11ª Semana, **A arte de ver e ouvir**
-- 11.1 Aprender a observar
-- 11.2 Composição e luz nas obras
-- 11.3 Forma e emoção na música
-
----
-
-[Belas artes] - Ano 2 - 11.5 Prova (Update)
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 11.
-
-## 11ª Semana, **A arte de ver e ouvir**
-- 11.1 Aprender a observar
-- 11.2 Composição e luz nas obras
-- 11.3 Forma e emoção na música
-
----
-
-## Semana 12 – A arte dos primeiros homens
-
-**Tema central da semana**, A arte dos primeiros homens. A aula 12.1 apresenta o coração do tema. A aula 12.2 desenvolve Caçadas e cenas antigas. A aula 12.3 desenvolve As grandes cavernas da arte rupestre.
-
----
-
-[Belas artes] - Ano 2 - 12.1 A primeira galeria da humanidade (Update)
-
-# Description
-
-**Tema central da semana**, A arte dos primeiros homens. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
-
-## Objetivos
-   → Reconheça A primeira galeria da humanidade como coração pedagógico da semana.
+   → Reconheça A arte dos primeiros homens como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
    → Narre com as próprias palavras o que esta aula ensina sobre A arte dos primeiros homens.
 
 ---
 
-[Belas artes] - Ano 2 - 12.2 Caçadas e cenas antigas (Update)
+[Belas artes] - Ano 2 - 11.2 A primeira galeria da humanidade (Update)
 
 # Description
 
-**Tema central da semana**, A arte dos primeiros homens. **Foco da aula**, primeiro desdobramento, Caçadas e cenas antigas.
+**Tema central da semana**, A arte dos primeiros homens. **Foco da aula**, primeiro desdobramento, A primeira galeria da humanidade.
 
 ## Objetivos
-   → Compreenda Caçadas e cenas antigas como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Caçadas e cenas antigas.
-   → Narre oralmente um exemplo que mostre Caçadas e cenas antigas.
+   → Compreenda A primeira galeria da humanidade como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a A primeira galeria da humanidade.
+   → Narre oralmente um exemplo que mostre A primeira galeria da humanidade.
 
 ---
 
-[Belas artes] - Ano 2 - 12.3 As grandes cavernas da arte rupestre (Update)
+[Belas artes] - Ano 2 - 11.3 As grandes cavernas da arte rupestre (Update)
 
 # Description
 
@@ -691,16 +654,87 @@ Avaliar os conhecimentos das aulas da semana 11.
 
 ---
 
+[Belas artes] - Ano 2 - 11.4 Revisão (Update)
+
+# Description
+
+Revisar os conhecimentos das aulas da semana 11.
+
+## 11ª Semana, **A arte dos primeiros homens**
+- 11.1 A arte dos primeiros homens
+- 11.2 A primeira galeria da humanidade
+- 11.3 As grandes cavernas da arte rupestre
+
+---
+
+[Belas artes] - Ano 2 - 11.5 Prova (Update)
+
+# Description
+
+Avaliar os conhecimentos das aulas da semana 11.
+
+## 11ª Semana, **A arte dos primeiros homens**
+- 11.1 A arte dos primeiros homens
+- 11.2 A primeira galeria da humanidade
+- 11.3 As grandes cavernas da arte rupestre
+
+---
+
+## Semana 12 – Símbolos nas cavernas
+
+**Tema central da semana**, Símbolos e animais expressam temor, imaginação e busca de sentido.
+
+---
+
+[Belas artes] - Ano 2 - 12.1 Símbolos nas cavernas (Update)
+
+# Description
+
+**Tema central da semana**, Símbolos nas cavernas. **Foco da aula**, coração pedagógico que fixa a definição central.
+
+## Objetivos
+   → Reconheça Símbolos nas cavernas como coração pedagógico da semana.
+   → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
+   → Narre com as próprias palavras o que esta aula ensina sobre Símbolos nas cavernas.
+
+---
+
+[Belas artes] - Ano 2 - 12.2 Animais na arte rupestre (Update)
+
+# Description
+
+**Tema central da semana**, Símbolos nas cavernas. **Foco da aula**, primeiro desdobramento, Animais na arte rupestre.
+
+## Objetivos
+   → Compreenda Animais na arte rupestre como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Animais na arte rupestre.
+   → Narre oralmente um exemplo que mostre Animais na arte rupestre.
+
+---
+
+[Belas artes] - Ano 2 - 12.3 A caverna como memória (Update)
+
+# Description
+
+**Tema central da semana**, Símbolos nas cavernas. **Foco da aula**, segundo desdobramento, A caverna como memória.
+
+## Objetivos
+   → Pratique A caverna como memória como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A caverna como memória em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A caverna como memória dentro da progressão da semana.
+
+---
+
 [Belas artes] - Ano 2 - 12.4 Revisão (Update)
 
 # Description
 
 Revisar os conhecimentos das aulas da semana 12.
 
-## 12ª Semana, **A arte dos primeiros homens**
-- 12.1 A primeira galeria da humanidade
-- 12.2 Caçadas e cenas antigas
-- 12.3 As grandes cavernas da arte rupestre
+## 12ª Semana, **Símbolos nas cavernas**
+- 12.1 Símbolos nas cavernas
+- 12.2 Animais na arte rupestre
+- 12.3 A caverna como memória
 
 ---
 
@@ -710,55 +744,55 @@ Revisar os conhecimentos das aulas da semana 12.
 
 Avaliar os conhecimentos das aulas da semana 12.
 
-## 12ª Semana, **A arte dos primeiros homens**
-- 12.1 A primeira galeria da humanidade
-- 12.2 Caçadas e cenas antigas
-- 12.3 As grandes cavernas da arte rupestre
+## 12ª Semana, **Símbolos nas cavernas**
+- 12.1 Símbolos nas cavernas
+- 12.2 Animais na arte rupestre
+- 12.3 A caverna como memória
 
 ---
 
-## Semana 13 – Símbolos e mistérios das cavernas
+## Semana 13 – Pinturas em Lascaux
 
-**Tema central da semana**, Símbolos e mistérios das cavernas. A aula 13.1 apresenta o coração do tema. A aula 13.2 desenvolve Animais e mistérios na arte rupestre. A aula 13.3 desenvolve A caverna como memória.
+**Tema central da semana**, A observação de Lascaux e Altamira ajuda a ler técnica, forma e intenção nas obras antigas.
 
 ---
 
-[Belas artes] - Ano 2 - 13.1 Símbolos nas cavernas (Update)
+[Belas artes] - Ano 2 - 13.1 Pinturas em Lascaux (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos e mistérios das cavernas. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Pinturas em Lascaux. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Símbolos nas cavernas como coração pedagógico da semana.
+   → Reconheça Pinturas em Lascaux como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Símbolos e mistérios das cavernas.
+   → Narre com as próprias palavras o que esta aula ensina sobre Pinturas em Lascaux.
 
 ---
 
-[Belas artes] - Ano 2 - 13.2 Animais e mistérios na arte rupestre (Update)
+[Belas artes] - Ano 2 - 13.2 Formas na arte de Altamira (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos e mistérios das cavernas. **Foco da aula**, primeiro desdobramento, Animais e mistérios na arte rupestre.
+**Tema central da semana**, Pinturas em Lascaux. **Foco da aula**, primeiro desdobramento, Formas na arte de Altamira.
 
 ## Objetivos
-   → Compreenda Animais e mistérios na arte rupestre como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Animais e mistérios na arte rupestre.
-   → Narre oralmente um exemplo que mostre Animais e mistérios na arte rupestre.
+   → Compreenda Formas na arte de Altamira como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Formas na arte de Altamira.
+   → Narre oralmente um exemplo que mostre Formas na arte de Altamira.
 
 ---
 
-[Belas artes] - Ano 2 - 13.3 A caverna como memória (Update)
+[Belas artes] - Ano 2 - 13.3 Contornos e silhuetas rupestres (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos e mistérios das cavernas. **Foco da aula**, segundo desdobramento, A caverna como memória.
+**Tema central da semana**, Pinturas em Lascaux. **Foco da aula**, segundo desdobramento, Contornos e silhuetas rupestres.
 
 ## Objetivos
-   → Pratique A caverna como memória como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A caverna como memória em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A caverna como memória dentro da progressão da semana.
+   → Pratique Contornos e silhuetas rupestres como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Contornos e silhuetas rupestres em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Contornos e silhuetas rupestres dentro da progressão da semana.
 
 ---
 
@@ -768,10 +802,10 @@ Avaliar os conhecimentos das aulas da semana 12.
 
 Revisar os conhecimentos das aulas da semana 13.
 
-## 13ª Semana, **Símbolos e mistérios das cavernas**
-- 13.1 Símbolos nas cavernas
-- 13.2 Animais e mistérios na arte rupestre
-- 13.3 A caverna como memória
+## 13ª Semana, **Pinturas em Lascaux**
+- 13.1 Pinturas em Lascaux
+- 13.2 Formas na arte de Altamira
+- 13.3 Contornos e silhuetas rupestres
 
 ---
 
@@ -781,55 +815,55 @@ Revisar os conhecimentos das aulas da semana 13.
 
 Avaliar os conhecimentos das aulas da semana 13.
 
-## 13ª Semana, **Símbolos e mistérios das cavernas**
-- 13.1 Símbolos nas cavernas
-- 13.2 Animais e mistérios na arte rupestre
-- 13.3 A caverna como memória
+## 13ª Semana, **Pinturas em Lascaux**
+- 13.1 Pinturas em Lascaux
+- 13.2 Formas na arte de Altamira
+- 13.3 Contornos e silhuetas rupestres
 
 ---
 
-## Semana 14 – Viagem à arte ancestral
+## Semana 14 – Esculturas portáteis
 
-**Tema central da semana**, Viagem à arte ancestral. A aula 14.1 apresenta o coração do tema. A aula 14.2 desenvolve Formas nas pinturas em Lascaux. A aula 14.3 desenvolve Altamira e seus búfalos.
+**Tema central da semana**, A tridimensionalidade amplia a experiência artística, mas também expõe o risco da idolatria.
 
 ---
 
-[Belas artes] - Ano 2 - 14.1 Viagem às cavernas da arte (Update)
+[Belas artes] - Ano 2 - 14.1 Esculturas portáteis (Update)
 
 # Description
 
-**Tema central da semana**, Viagem à arte ancestral. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Esculturas portáteis. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Viagem às cavernas da arte como coração pedagógico da semana.
+   → Reconheça Esculturas portáteis como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Viagem à arte ancestral.
+   → Narre com as próprias palavras o que esta aula ensina sobre Esculturas portáteis.
 
 ---
 
-[Belas artes] - Ano 2 - 14.2 Formas nas pinturas em Lascaux (Update)
+[Belas artes] - Ano 2 - 14.2 A Vênus de Willendorf (Update)
 
 # Description
 
-**Tema central da semana**, Viagem à arte ancestral. **Foco da aula**, primeiro desdobramento, Formas nas pinturas em Lascaux.
+**Tema central da semana**, Esculturas portáteis. **Foco da aula**, primeiro desdobramento, A Vênus de Willendorf.
 
 ## Objetivos
-   → Compreenda Formas nas pinturas em Lascaux como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Formas nas pinturas em Lascaux.
-   → Narre oralmente um exemplo que mostre Formas nas pinturas em Lascaux.
+   → Compreenda A Vênus de Willendorf como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a A Vênus de Willendorf.
+   → Narre oralmente um exemplo que mostre A Vênus de Willendorf.
 
 ---
 
-[Belas artes] - Ano 2 - 14.3 Altamira e seus búfalos (Update)
+[Belas artes] - Ano 2 - 14.3 O corpo como forma na arte pré-histórica (Update)
 
 # Description
 
-**Tema central da semana**, Viagem à arte ancestral. **Foco da aula**, segundo desdobramento, Altamira e seus búfalos.
+**Tema central da semana**, Esculturas portáteis. **Foco da aula**, segundo desdobramento, O corpo como forma na arte pré-histórica.
 
 ## Objetivos
-   → Pratique Altamira e seus búfalos como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Altamira e seus búfalos em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Altamira e seus búfalos dentro da progressão da semana.
+   → Pratique O corpo como forma na arte pré-histórica como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de O corpo como forma na arte pré-histórica em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender O corpo como forma na arte pré-histórica dentro da progressão da semana.
 
 ---
 
@@ -839,10 +873,10 @@ Avaliar os conhecimentos das aulas da semana 13.
 
 Revisar os conhecimentos das aulas da semana 14.
 
-## 14ª Semana, **Viagem à arte ancestral**
-- 14.1 Viagem às cavernas da arte
-- 14.2 Formas nas pinturas em Lascaux
-- 14.3 Altamira e seus búfalos
+## 14ª Semana, **Esculturas portáteis**
+- 14.1 Esculturas portáteis
+- 14.2 A Vênus de Willendorf
+- 14.3 O corpo como forma na arte pré-histórica
 
 ---
 
@@ -852,55 +886,55 @@ Revisar os conhecimentos das aulas da semana 14.
 
 Avaliar os conhecimentos das aulas da semana 14.
 
-## 14ª Semana, **Viagem à arte ancestral**
-- 14.1 Viagem às cavernas da arte
-- 14.2 Formas nas pinturas em Lascaux
-- 14.3 Altamira e seus búfalos
+## 14ª Semana, **Esculturas portáteis**
+- 14.1 Esculturas portáteis
+- 14.2 A Vênus de Willendorf
+- 14.3 O corpo como forma na arte pré-histórica
 
 ---
 
-## Semana 15 – Esculturas e monumentos antigos
+## Semana 15 – Megálitos e monumentos
 
-**Tema central da semana**, Esculturas e monumentos antigos. A aula 15.1 apresenta o coração do tema. A aula 15.2 desenvolve Estátuas e significados. A aula 15.3 desenvolve O símbolo da fertilidade.
+**Tema central da semana**, Monumentos e rituais celestes revelam busca humana por ordem, tempo e transcendência.
 
 ---
 
-[Belas artes] - Ano 2 - 15.1 Esculturas na antiguidade (Update)
+[Belas artes] - Ano 2 - 15.1 Megálitos e monumentos (Update)
 
 # Description
 
-**Tema central da semana**, Esculturas e monumentos antigos. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Megálitos e monumentos. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Esculturas na antiguidade como coração pedagógico da semana.
+   → Reconheça Megálitos e monumentos como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Esculturas e monumentos antigos.
+   → Narre com as próprias palavras o que esta aula ensina sobre Megálitos e monumentos.
 
 ---
 
-[Belas artes] - Ano 2 - 15.2 Estátuas e significados (Update)
+[Belas artes] - Ano 2 - 15.2 Stonehenge como monumento (Update)
 
 # Description
 
-**Tema central da semana**, Esculturas e monumentos antigos. **Foco da aula**, primeiro desdobramento, Estátuas e significados.
+**Tema central da semana**, Megálitos e monumentos. **Foco da aula**, primeiro desdobramento, Stonehenge como monumento.
 
 ## Objetivos
-   → Compreenda Estátuas e significados como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Estátuas e significados.
-   → Narre oralmente um exemplo que mostre Estátuas e significados.
+   → Compreenda Stonehenge como monumento como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Stonehenge como monumento.
+   → Narre oralmente um exemplo que mostre Stonehenge como monumento.
 
 ---
 
-[Belas artes] - Ano 2 - 15.3 O símbolo da fertilidade (Update)
+[Belas artes] - Ano 2 - 15.3 Pedras, escala e paisagem (Update)
 
 # Description
 
-**Tema central da semana**, Esculturas e monumentos antigos. **Foco da aula**, segundo desdobramento, O símbolo da fertilidade.
+**Tema central da semana**, Megálitos e monumentos. **Foco da aula**, segundo desdobramento, Pedras, escala e paisagem.
 
 ## Objetivos
-   → Pratique O símbolo da fertilidade como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O símbolo da fertilidade em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O símbolo da fertilidade dentro da progressão da semana.
+   → Pratique Pedras, escala e paisagem como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Pedras, escala e paisagem em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Pedras, escala e paisagem dentro da progressão da semana.
 
 ---
 
@@ -910,10 +944,10 @@ Avaliar os conhecimentos das aulas da semana 14.
 
 Revisar os conhecimentos das aulas da semana 15.
 
-## 15ª Semana, **Esculturas e monumentos antigos**
-- 15.1 Esculturas na antiguidade
-- 15.2 Estátuas e significados
-- 15.3 O símbolo da fertilidade
+## 15ª Semana, **Megálitos e monumentos**
+- 15.1 Megálitos e monumentos
+- 15.2 Stonehenge como monumento
+- 15.3 Pedras, escala e paisagem
 
 ---
 
@@ -923,55 +957,55 @@ Revisar os conhecimentos das aulas da semana 15.
 
 Avaliar os conhecimentos das aulas da semana 15.
 
-## 15ª Semana, **Esculturas e monumentos antigos**
-- 15.1 Esculturas na antiguidade
-- 15.2 Estátuas e significados
-- 15.3 O símbolo da fertilidade
+## 15ª Semana, **Megálitos e monumentos**
+- 15.1 Megálitos e monumentos
+- 15.2 Stonehenge como monumento
+- 15.3 Pedras, escala e paisagem
 
 ---
 
-## Semana 16 – Monumentos e céus antigos
+## Semana 16 – Música da terra
 
-**Tema central da semana**, Monumentos e céus antigos. A aula 16.1 apresenta o coração do tema. A aula 16.2 desenvolve Stonehenge e o sol. A aula 16.3 desenvolve Rituais e arte celeste.
+**Tema central da semana**, Os sons da natureza e dos instrumentos antigos ajudam a formar escuta, ritmo e sensibilidade.
 
 ---
 
-[Belas artes] - Ano 2 - 16.1 Megálitos e monumentos (Update)
+[Belas artes] - Ano 2 - 16.1 Música da terra (Update)
 
 # Description
 
-**Tema central da semana**, Monumentos e céus antigos. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Música da terra. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Megálitos e monumentos como coração pedagógico da semana.
+   → Reconheça Música da terra como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Monumentos e céus antigos.
+   → Narre com as próprias palavras o que esta aula ensina sobre Música da terra.
 
 ---
 
-[Belas artes] - Ano 2 - 16.2 Stonehenge e o sol (Update)
+[Belas artes] - Ano 2 - 16.2 Flautas de osso (Update)
 
 # Description
 
-**Tema central da semana**, Monumentos e céus antigos. **Foco da aula**, primeiro desdobramento, Stonehenge e o sol.
+**Tema central da semana**, Música da terra. **Foco da aula**, primeiro desdobramento, Flautas de osso.
 
 ## Objetivos
-   → Compreenda Stonehenge e o sol como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Stonehenge e o sol.
-   → Narre oralmente um exemplo que mostre Stonehenge e o sol.
+   → Compreenda Flautas de osso como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Flautas de osso.
+   → Narre oralmente um exemplo que mostre Flautas de osso.
 
 ---
 
-[Belas artes] - Ano 2 - 16.3 Rituais e arte celeste (Update)
+[Belas artes] - Ano 2 - 16.3 Percussão e sons antigos (Update)
 
 # Description
 
-**Tema central da semana**, Monumentos e céus antigos. **Foco da aula**, segundo desdobramento, Rituais e arte celeste.
+**Tema central da semana**, Música da terra. **Foco da aula**, segundo desdobramento, Percussão e sons antigos.
 
 ## Objetivos
-   → Pratique Rituais e arte celeste como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Rituais e arte celeste em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Rituais e arte celeste dentro da progressão da semana.
+   → Pratique Percussão e sons antigos como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Percussão e sons antigos em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Percussão e sons antigos dentro da progressão da semana.
 
 ---
 
@@ -981,10 +1015,10 @@ Avaliar os conhecimentos das aulas da semana 15.
 
 Revisar os conhecimentos das aulas da semana 16.
 
-## 16ª Semana, **Monumentos e céus antigos**
-- 16.1 Megálitos e monumentos
-- 16.2 Stonehenge e o sol
-- 16.3 Rituais e arte celeste
+## 16ª Semana, **Música da terra**
+- 16.1 Música da terra
+- 16.2 Flautas de osso
+- 16.3 Percussão e sons antigos
 
 ---
 
@@ -994,55 +1028,55 @@ Revisar os conhecimentos das aulas da semana 16.
 
 Avaliar os conhecimentos das aulas da semana 16.
 
-## 16ª Semana, **Monumentos e céus antigos**
-- 16.1 Megálitos e monumentos
-- 16.2 Stonehenge e o sol
-- 16.3 Rituais e arte celeste
+## 16ª Semana, **Música da terra**
+- 16.1 Música da terra
+- 16.2 Flautas de osso
+- 16.3 Percussão e sons antigos
 
 ---
 
-## Semana 17 – A música da terra
+## Semana 17 – A arte que une
 
-**Tema central da semana**, A música da terra. A aula 17.1 apresenta o coração do tema. A aula 17.2 desenvolve Flautas e tambores antigos. A aula 17.3 desenvolve O som do fogo.
+**Tema central da semana**, A criação coletiva expressa tradição, cooperação e comunhão.
 
 ---
 
-[Belas artes] - Ano 2 - 17.1 Música da terra (Update)
+[Belas artes] - Ano 2 - 17.1 A arte que une (Update)
 
 # Description
 
-**Tema central da semana**, A música da terra. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte que une. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Música da terra como coração pedagógico da semana.
+   → Reconheça A arte que une como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A música da terra.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte que une.
 
 ---
 
-[Belas artes] - Ano 2 - 17.2 Flautas e tambores antigos (Update)
+[Belas artes] - Ano 2 - 17.2 Pintura em grupo (Update)
 
 # Description
 
-**Tema central da semana**, A música da terra. **Foco da aula**, primeiro desdobramento, Flautas e tambores antigos.
+**Tema central da semana**, A arte que une. **Foco da aula**, primeiro desdobramento, Pintura em grupo.
 
 ## Objetivos
-   → Compreenda Flautas e tambores antigos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Flautas e tambores antigos.
-   → Narre oralmente um exemplo que mostre Flautas e tambores antigos.
+   → Compreenda Pintura em grupo como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Pintura em grupo.
+   → Narre oralmente um exemplo que mostre Pintura em grupo.
 
 ---
 
-[Belas artes] - Ano 2 - 17.3 O som do fogo (Update)
+[Belas artes] - Ano 2 - 17.3 A tradição dos ancestrais (Update)
 
 # Description
 
-**Tema central da semana**, A música da terra. **Foco da aula**, segundo desdobramento, O som do fogo.
+**Tema central da semana**, A arte que une. **Foco da aula**, segundo desdobramento, A tradição dos ancestrais.
 
 ## Objetivos
-   → Pratique O som do fogo como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O som do fogo em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O som do fogo dentro da progressão da semana.
+   → Pratique A tradição dos ancestrais como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A tradição dos ancestrais em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A tradição dos ancestrais dentro da progressão da semana.
 
 ---
 
@@ -1052,10 +1086,10 @@ Avaliar os conhecimentos das aulas da semana 16.
 
 Revisar os conhecimentos das aulas da semana 17.
 
-## 17ª Semana, **A música da terra**
-- 17.1 Música da terra
-- 17.2 Flautas e tambores antigos
-- 17.3 O som do fogo
+## 17ª Semana, **A arte que une**
+- 17.1 A arte que une
+- 17.2 Pintura em grupo
+- 17.3 A tradição dos ancestrais
 
 ---
 
@@ -1065,55 +1099,55 @@ Revisar os conhecimentos das aulas da semana 17.
 
 Avaliar os conhecimentos das aulas da semana 17.
 
-## 17ª Semana, **A música da terra**
-- 17.1 Música da terra
-- 17.2 Flautas e tambores antigos
-- 17.3 O som do fogo
+## 17ª Semana, **A arte que une**
+- 17.1 A arte que une
+- 17.2 Pintura em grupo
+- 17.3 A tradição dos ancestrais
 
 ---
 
-## Semana 18 – A arte que une
+## Semana 18 – A arte pré-histórica e seus materiais
 
-**Tema central da semana**, A arte que une. A aula 18.1 apresenta o coração do tema. A aula 18.2 desenvolve A tradição dos ancestrais. A aula 18.3 desenvolve A arte que une.
+**Tema central da semana**, Os materiais revelam como o homem transforma a criação em expressão.
 
 ---
 
-[Belas artes] - Ano 2 - 18.1 Pintura em grupo (Update)
+[Belas artes] - Ano 2 - 18.1 A arte pré-histórica e seus materiais (Update)
 
 # Description
 
-**Tema central da semana**, A arte que une. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte pré-histórica e seus materiais. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Pintura em grupo como coração pedagógico da semana.
+   → Reconheça A arte pré-histórica e seus materiais como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A arte que une.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte pré-histórica e seus materiais.
 
 ---
 
-[Belas artes] - Ano 2 - 18.2 A tradição dos ancestrais (Update)
+[Belas artes] - Ano 2 - 18.2 Pigmentos minerais e carvão (Update)
 
 # Description
 
-**Tema central da semana**, A arte que une. **Foco da aula**, primeiro desdobramento, A tradição dos ancestrais.
+**Tema central da semana**, A arte pré-histórica e seus materiais. **Foco da aula**, primeiro desdobramento, Pigmentos minerais e carvão.
 
 ## Objetivos
-   → Compreenda A tradição dos ancestrais como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a A tradição dos ancestrais.
-   → Narre oralmente um exemplo que mostre A tradição dos ancestrais.
+   → Compreenda Pigmentos minerais e carvão como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Pigmentos minerais e carvão.
+   → Narre oralmente um exemplo que mostre Pigmentos minerais e carvão.
 
 ---
 
-[Belas artes] - Ano 2 - 18.3 A arte que une (Update)
+[Belas artes] - Ano 2 - 18.3 Gravura e superfície rochosa (Update)
 
 # Description
 
-**Tema central da semana**, A arte que une. **Foco da aula**, segundo desdobramento, A arte que une.
+**Tema central da semana**, A arte pré-histórica e seus materiais. **Foco da aula**, segundo desdobramento, Gravura e superfície rochosa.
 
 ## Objetivos
-   → Pratique A arte que une como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A arte que une em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A arte que une dentro da progressão da semana.
+   → Pratique Gravura e superfície rochosa como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Gravura e superfície rochosa em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Gravura e superfície rochosa dentro da progressão da semana.
 
 ---
 
@@ -1123,10 +1157,10 @@ Avaliar os conhecimentos das aulas da semana 17.
 
 Revisar os conhecimentos das aulas da semana 18.
 
-## 18ª Semana, **A arte que une**
-- 18.1 Pintura em grupo
-- 18.2 A tradição dos ancestrais
-- 18.3 A arte que une
+## 18ª Semana, **A arte pré-histórica e seus materiais**
+- 18.1 A arte pré-histórica e seus materiais
+- 18.2 Pigmentos minerais e carvão
+- 18.3 Gravura e superfície rochosa
 
 ---
 
@@ -1136,55 +1170,89 @@ Revisar os conhecimentos das aulas da semana 18.
 
 Avaliar os conhecimentos das aulas da semana 18.
 
-## 18ª Semana, **A arte que une**
-- 18.1 Pintura em grupo
-- 18.2 A tradição dos ancestrais
-- 18.3 A arte que une
+## 18ª Semana, **A arte pré-histórica e seus materiais**
+- 18.1 A arte pré-histórica e seus materiais
+- 18.2 Pigmentos minerais e carvão
+- 18.3 Gravura e superfície rochosa
 
 ---
 
-## Semana 21 – A arte do Egito Antigo
-
-**Tema central da semana**, A arte do Egito Antigo. A aula 21.1 fixa a definição central. A aula 21.2 desenvolve Pirâmides do deserto. A aula 21.3 desenvolve A paisagem do Egito como influência artística.
-
----
-
-[Belas artes] - Ano 2 - 21.1 Arte egípcia e simetria (Update)
+[Belas artes] - Ano 2 - 19 Revisão (Update)
 
 # Description
 
-**Tema central da semana**, A arte do Egito Antigo. **Foco da aula**, coração pedagógico que fixa a definição central.
+Revisar todo o conteúdo do 2º bimestre, semanas 11 a 18.
+
+- Semana 11
+- Semana 12
+- Semana 13
+- Semana 14
+- Semana 15
+- Semana 16
+- Semana 17
+- Semana 18
+
+---
+
+[Belas artes] - Ano 2 - 20 Prova (Update)
+
+# Description
+
+Avaliar todo o conteúdo do 2º bimestre, semanas 11 a 18.
+
+- Semana 11
+- Semana 12
+- Semana 13
+- Semana 14
+- Semana 15
+- Semana 16
+- Semana 17
+- Semana 18
+
+---
+
+## Semana 21 – A Mesopotâmia e suas cidades
+
+**Tema central da semana**, A Mesopotâmia articula cidade, templo, poder e orgulho em sua visualidade.
+
+---
+
+[Belas artes] - Ano 2 - 21.1 A Mesopotâmia e suas cidades (Update)
+
+# Description
+
+**Tema central da semana**, A Mesopotâmia e suas cidades. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte egípcia e simetria como coração pedagógico da semana.
+   → Reconheça A Mesopotâmia e suas cidades como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A arte do Egito Antigo.
+   → Narre com as próprias palavras o que esta aula ensina sobre A Mesopotâmia e suas cidades.
 
 ---
 
-[Belas artes] - Ano 2 - 21.2 Pirâmides do deserto (Update)
+[Belas artes] - Ano 2 - 21.2 O zigurate como templo (Update)
 
 # Description
 
-**Tema central da semana**, A arte do Egito Antigo. **Foco da aula**, primeiro desdobramento, Pirâmides do deserto.
+**Tema central da semana**, A Mesopotâmia e suas cidades. **Foco da aula**, primeiro desdobramento, O zigurate como templo.
 
 ## Objetivos
-   → Compreenda Pirâmides do deserto como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Pirâmides do deserto.
-   → Narre oralmente um exemplo que mostre Pirâmides do deserto.
+   → Compreenda O zigurate como templo como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O zigurate como templo.
+   → Narre oralmente um exemplo que mostre O zigurate como templo.
 
 ---
 
-[Belas artes] - Ano 2 - 21.3 A paisagem do Egito como influência artística (Update)
+[Belas artes] - Ano 2 - 21.3 A torre de Babel e o orgulho (Update)
 
 # Description
 
-**Tema central da semana**, A arte do Egito Antigo. **Foco da aula**, segundo desdobramento, A paisagem do Egito como influência artística.
+**Tema central da semana**, A Mesopotâmia e suas cidades. **Foco da aula**, segundo desdobramento, A torre de Babel e o orgulho.
 
 ## Objetivos
-   → Pratique A paisagem do Egito como influência artística como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A paisagem do Egito como influência artística em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A paisagem do Egito como influência artística dentro da progressão da semana.
+   → Pratique A torre de Babel e o orgulho como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A torre de Babel e o orgulho em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A torre de Babel e o orgulho dentro da progressão da semana.
 
 ---
 
@@ -1194,10 +1262,10 @@ Avaliar os conhecimentos das aulas da semana 18.
 
 Revisar os conhecimentos das aulas da semana 21.
 
-## 21ª Semana, **A arte do Egito Antigo**
-- 21.1 Arte egípcia e simetria
-- 21.2 Pirâmides do deserto
-- 21.3 A paisagem do Egito como influência artística
+## 21ª Semana, **A Mesopotâmia e suas cidades**
+- 21.1 A Mesopotâmia e suas cidades
+- 21.2 O zigurate como templo
+- 21.3 A torre de Babel e o orgulho
 
 ---
 
@@ -1207,55 +1275,55 @@ Revisar os conhecimentos das aulas da semana 21.
 
 Avaliar os conhecimentos das aulas da semana 21.
 
-## 21ª Semana, **A arte do Egito Antigo**
-- 21.1 Arte egípcia e simetria
-- 21.2 Pirâmides do deserto
-- 21.3 A paisagem do Egito como influência artística
+## 21ª Semana, **A Mesopotâmia e suas cidades**
+- 21.1 A Mesopotâmia e suas cidades
+- 21.2 O zigurate como templo
+- 21.3 A torre de Babel e o orgulho
 
 ---
 
-## Semana 22 – Símbolos da arte egípcia
+## Semana 22 – Estelas e relevos mesopotâmicos
 
-**Tema central da semana**, Símbolos da arte egípcia. A aula 22.1 apresenta o coração do tema. A aula 22.2 desenvolve Anseio pela eternidade. A aula 22.3 desenvolve A busca pela imortalidade.
+**Tema central da semana**, Lei, memória e poder se inscrevem na pedra como afirmação de autoridade.
 
 ---
 
-[Belas artes] - Ano 2 - 22.1 Símbolos da arte egípcia (Update)
+[Belas artes] - Ano 2 - 22.1 Estelas e relevos mesopotâmicos (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos da arte egípcia. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Estelas e relevos mesopotâmicos. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Símbolos da arte egípcia como coração pedagógico da semana.
+   → Reconheça Estelas e relevos mesopotâmicos como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Símbolos da arte egípcia.
+   → Narre com as próprias palavras o que esta aula ensina sobre Estelas e relevos mesopotâmicos.
 
 ---
 
-[Belas artes] - Ano 2 - 22.2 Anseio pela eternidade (Update)
+[Belas artes] - Ano 2 - 22.2 O código de Hamurábi (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos da arte egípcia. **Foco da aula**, primeiro desdobramento, Anseio pela eternidade.
+**Tema central da semana**, Estelas e relevos mesopotâmicos. **Foco da aula**, primeiro desdobramento, O código de Hamurábi.
 
 ## Objetivos
-   → Compreenda Anseio pela eternidade como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Anseio pela eternidade.
-   → Narre oralmente um exemplo que mostre Anseio pela eternidade.
+   → Compreenda O código de Hamurábi como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O código de Hamurábi.
+   → Narre oralmente um exemplo que mostre O código de Hamurábi.
 
 ---
 
-[Belas artes] - Ano 2 - 22.3 A busca pela imortalidade (Update)
+[Belas artes] - Ano 2 - 22.3 A lei gravada em pedra (Update)
 
 # Description
 
-**Tema central da semana**, Símbolos da arte egípcia. **Foco da aula**, segundo desdobramento, A busca pela imortalidade.
+**Tema central da semana**, Estelas e relevos mesopotâmicos. **Foco da aula**, segundo desdobramento, A lei gravada em pedra.
 
 ## Objetivos
-   → Pratique A busca pela imortalidade como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A busca pela imortalidade em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A busca pela imortalidade dentro da progressão da semana.
+   → Pratique A lei gravada em pedra como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A lei gravada em pedra em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A lei gravada em pedra dentro da progressão da semana.
 
 ---
 
@@ -1265,10 +1333,10 @@ Avaliar os conhecimentos das aulas da semana 21.
 
 Revisar os conhecimentos das aulas da semana 22.
 
-## 22ª Semana, **Símbolos da arte egípcia**
-- 22.1 Símbolos da arte egípcia
-- 22.2 Anseio pela eternidade
-- 22.3 A busca pela imortalidade
+## 22ª Semana, **Estelas e relevos mesopotâmicos**
+- 22.1 Estelas e relevos mesopotâmicos
+- 22.2 O código de Hamurábi
+- 22.3 A lei gravada em pedra
 
 ---
 
@@ -1278,55 +1346,55 @@ Revisar os conhecimentos das aulas da semana 22.
 
 Avaliar os conhecimentos das aulas da semana 22.
 
-## 22ª Semana, **Símbolos da arte egípcia**
-- 22.1 Símbolos da arte egípcia
-- 22.2 Anseio pela eternidade
-- 22.3 A busca pela imortalidade
+## 22ª Semana, **Estelas e relevos mesopotâmicos**
+- 22.1 Estelas e relevos mesopotâmicos
+- 22.2 O código de Hamurábi
+- 22.3 A lei gravada em pedra
 
 ---
 
-## Semana 23 – Linguagem e cor no Egito
+## Semana 23 – Selos cilíndricos e escrita cuneiforme
 
-**Tema central da semana**, Linguagem e cor no Egito. A aula 23.1 apresenta o coração do tema. A aula 23.2 desenvolve Narrativa registrada nas paredes antigas. A aula 23.3 desenvolve O poder dos símbolos.
+**Tema central da semana**, Imagem e escrita se unem para registrar poder, comércio e narrativa.
 
 ---
 
-[Belas artes] - Ano 2 - 23.1 Hieróglifos e histórias (Update)
+[Belas artes] - Ano 2 - 23.1 Selos cilíndricos e escrita cuneiforme (Update)
 
 # Description
 
-**Tema central da semana**, Linguagem e cor no Egito. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Selos cilíndricos e escrita cuneiforme. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Hieróglifos e histórias como coração pedagógico da semana.
+   → Reconheça Selos cilíndricos e escrita cuneiforme como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Linguagem e cor no Egito.
+   → Narre com as próprias palavras o que esta aula ensina sobre Selos cilíndricos e escrita cuneiforme.
 
 ---
 
-[Belas artes] - Ano 2 - 23.2 Narrativa registrada nas paredes antigas (Update)
+[Belas artes] - Ano 2 - 23.2 Imagens do poder na Assíria (Update)
 
 # Description
 
-**Tema central da semana**, Linguagem e cor no Egito. **Foco da aula**, primeiro desdobramento, Narrativa registrada nas paredes antigas.
+**Tema central da semana**, Selos cilíndricos e escrita cuneiforme. **Foco da aula**, primeiro desdobramento, Imagens do poder na Assíria.
 
 ## Objetivos
-   → Compreenda Narrativa registrada nas paredes antigas como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Narrativa registrada nas paredes antigas.
-   → Narre oralmente um exemplo que mostre Narrativa registrada nas paredes antigas.
+   → Compreenda Imagens do poder na Assíria como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Imagens do poder na Assíria.
+   → Narre oralmente um exemplo que mostre Imagens do poder na Assíria.
 
 ---
 
-[Belas artes] - Ano 2 - 23.3 O poder dos símbolos (Update)
+[Belas artes] - Ano 2 - 23.3 Relevos de guerra e caça (Update)
 
 # Description
 
-**Tema central da semana**, Linguagem e cor no Egito. **Foco da aula**, segundo desdobramento, O poder dos símbolos.
+**Tema central da semana**, Selos cilíndricos e escrita cuneiforme. **Foco da aula**, segundo desdobramento, Relevos de guerra e caça.
 
 ## Objetivos
-   → Pratique O poder dos símbolos como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O poder dos símbolos em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O poder dos símbolos dentro da progressão da semana.
+   → Pratique Relevos de guerra e caça como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Relevos de guerra e caça em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Relevos de guerra e caça dentro da progressão da semana.
 
 ---
 
@@ -1336,10 +1404,10 @@ Avaliar os conhecimentos das aulas da semana 22.
 
 Revisar os conhecimentos das aulas da semana 23.
 
-## 23ª Semana, **Linguagem e cor no Egito**
-- 23.1 Hieróglifos e histórias
-- 23.2 Narrativa registrada nas paredes antigas
-- 23.3 O poder dos símbolos
+## 23ª Semana, **Selos cilíndricos e escrita cuneiforme**
+- 23.1 Selos cilíndricos e escrita cuneiforme
+- 23.2 Imagens do poder na Assíria
+- 23.3 Relevos de guerra e caça
 
 ---
 
@@ -1349,55 +1417,55 @@ Revisar os conhecimentos das aulas da semana 23.
 
 Avaliar os conhecimentos das aulas da semana 23.
 
-## 23ª Semana, **Linguagem e cor no Egito**
-- 23.1 Hieróglifos e histórias
-- 23.2 Narrativa registrada nas paredes antigas
-- 23.3 O poder dos símbolos
+## 23ª Semana, **Selos cilíndricos e escrita cuneiforme**
+- 23.1 Selos cilíndricos e escrita cuneiforme
+- 23.2 Imagens do poder na Assíria
+- 23.3 Relevos de guerra e caça
 
 ---
 
-## Semana 24 – As cores do Nilo
+## Semana 24 – Instrumentos e música na Mesopotâmia
 
-**Tema central da semana**, As cores do Nilo. A aula 24.1 apresenta o coração do tema. A aula 24.2 desenvolve Paleta e significado nas cores. A aula 24.3 desenvolve Contraste no deserto e no rio.
+**Tema central da semana**, A música mesopotâmica serve ao templo, à corte e à cerimônia como linguagem da ordem.
 
 ---
 
-[Belas artes] - Ano 2 - 24.1 As cores do Nilo (Update)
+[Belas artes] - Ano 2 - 24.1 Instrumentos e música na Mesopotâmia (Update)
 
 # Description
 
-**Tema central da semana**, As cores do Nilo. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Instrumentos e música na Mesopotâmia. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça As cores do Nilo como coração pedagógico da semana.
+   → Reconheça Instrumentos e música na Mesopotâmia como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre As cores do Nilo.
+   → Narre com as próprias palavras o que esta aula ensina sobre Instrumentos e música na Mesopotâmia.
 
 ---
 
-[Belas artes] - Ano 2 - 24.2 Paleta e significado nas cores (Update)
+[Belas artes] - Ano 2 - 24.2 Liras e harpas de Ur (Update)
 
 # Description
 
-**Tema central da semana**, As cores do Nilo. **Foco da aula**, primeiro desdobramento, Paleta e significado nas cores.
+**Tema central da semana**, Instrumentos e música na Mesopotâmia. **Foco da aula**, primeiro desdobramento, Liras e harpas de Ur.
 
 ## Objetivos
-   → Compreenda Paleta e significado nas cores como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Paleta e significado nas cores.
-   → Narre oralmente um exemplo que mostre Paleta e significado nas cores.
+   → Compreenda Liras e harpas de Ur como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Liras e harpas de Ur.
+   → Narre oralmente um exemplo que mostre Liras e harpas de Ur.
 
 ---
 
-[Belas artes] - Ano 2 - 24.3 Contraste no deserto e no rio (Update)
+[Belas artes] - Ano 2 - 24.3 O Hino Hurrita como registro antigo (Update)
 
 # Description
 
-**Tema central da semana**, As cores do Nilo. **Foco da aula**, segundo desdobramento, Contraste no deserto e no rio.
+**Tema central da semana**, Instrumentos e música na Mesopotâmia. **Foco da aula**, segundo desdobramento, O Hino Hurrita como registro antigo.
 
 ## Objetivos
-   → Pratique Contraste no deserto e no rio como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Contraste no deserto e no rio em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Contraste no deserto e no rio dentro da progressão da semana.
+   → Pratique O Hino Hurrita como registro antigo como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de O Hino Hurrita como registro antigo em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender O Hino Hurrita como registro antigo dentro da progressão da semana.
 
 ---
 
@@ -1407,10 +1475,10 @@ Avaliar os conhecimentos das aulas da semana 23.
 
 Revisar os conhecimentos das aulas da semana 24.
 
-## 24ª Semana, **As cores do Nilo**
-- 24.1 As cores do Nilo
-- 24.2 Paleta e significado nas cores
-- 24.3 Contraste no deserto e no rio
+## 24ª Semana, **Instrumentos e música na Mesopotâmia**
+- 24.1 Instrumentos e música na Mesopotâmia
+- 24.2 Liras e harpas de Ur
+- 24.3 O Hino Hurrita como registro antigo
 
 ---
 
@@ -1420,55 +1488,55 @@ Revisar os conhecimentos das aulas da semana 24.
 
 Avaliar os conhecimentos das aulas da semana 24.
 
-## 24ª Semana, **As cores do Nilo**
-- 24.1 As cores do Nilo
-- 24.2 Paleta e significado nas cores
-- 24.3 Contraste no deserto e no rio
+## 24ª Semana, **Instrumentos e música na Mesopotâmia**
+- 24.1 Instrumentos e música na Mesopotâmia
+- 24.2 Liras e harpas de Ur
+- 24.3 O Hino Hurrita como registro antigo
 
 ---
 
-## Semana 25 – A vida e o cotidiano no Egito
+## Semana 25 – A arte egípcia e a lei da frontalidade
 
-**Tema central da semana**, A vida e o cotidiano no Egito. A aula 25.1 apresenta o coração do tema. A aula 25.2 desenvolve O adorno nas joias e tecidos antigos. A aula 25.3 desenvolve O ofício representado nas pinturas.
+**Tema central da semana**, O Egito procura ordem, permanência e poder por meio da forma visual e da lei da frontalidade.
 
 ---
 
-[Belas artes] - Ano 2 - 25.1 O labor na vida cotidiana do Egito (Update)
+[Belas artes] - Ano 2 - 25.1 A arte egípcia e a lei da frontalidade (Update)
 
 # Description
 
-**Tema central da semana**, A vida e o cotidiano no Egito. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte egípcia e a lei da frontalidade. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça O labor na vida cotidiana do Egito como coração pedagógico da semana.
+   → Reconheça A arte egípcia e a lei da frontalidade como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A vida e o cotidiano no Egito.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte egípcia e a lei da frontalidade.
 
 ---
 
-[Belas artes] - Ano 2 - 25.2 O adorno nas joias e tecidos antigos (Update)
+[Belas artes] - Ano 2 - 25.2 Pirâmides de Gizé (Update)
 
 # Description
 
-**Tema central da semana**, A vida e o cotidiano no Egito. **Foco da aula**, primeiro desdobramento, O adorno nas joias e tecidos antigos.
+**Tema central da semana**, A arte egípcia e a lei da frontalidade. **Foco da aula**, primeiro desdobramento, Pirâmides de Gizé.
 
 ## Objetivos
-   → Compreenda O adorno nas joias e tecidos antigos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a O adorno nas joias e tecidos antigos.
-   → Narre oralmente um exemplo que mostre O adorno nas joias e tecidos antigos.
+   → Compreenda Pirâmides de Gizé como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Pirâmides de Gizé.
+   → Narre oralmente um exemplo que mostre Pirâmides de Gizé.
 
 ---
 
-[Belas artes] - Ano 2 - 25.3 O ofício representado nas pinturas (Update)
+[Belas artes] - Ano 2 - 25.3 A monumentalidade do Egito (Update)
 
 # Description
 
-**Tema central da semana**, A vida e o cotidiano no Egito. **Foco da aula**, segundo desdobramento, O ofício representado nas pinturas.
+**Tema central da semana**, A arte egípcia e a lei da frontalidade. **Foco da aula**, segundo desdobramento, A monumentalidade do Egito.
 
 ## Objetivos
-   → Pratique O ofício representado nas pinturas como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O ofício representado nas pinturas em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O ofício representado nas pinturas dentro da progressão da semana.
+   → Pratique A monumentalidade do Egito como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A monumentalidade do Egito em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A monumentalidade do Egito dentro da progressão da semana.
 
 ---
 
@@ -1478,10 +1546,10 @@ Avaliar os conhecimentos das aulas da semana 24.
 
 Revisar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana, **A vida e o cotidiano no Egito**
-- 25.1 O labor na vida cotidiana do Egito
-- 25.2 O adorno nas joias e tecidos antigos
-- 25.3 O ofício representado nas pinturas
+## 25ª Semana, **A arte egípcia e a lei da frontalidade**
+- 25.1 A arte egípcia e a lei da frontalidade
+- 25.2 Pirâmides de Gizé
+- 25.3 A monumentalidade do Egito
 
 ---
 
@@ -1491,55 +1559,55 @@ Revisar os conhecimentos das aulas da semana 25.
 
 Avaliar os conhecimentos das aulas da semana 25.
 
-## 25ª Semana, **A vida e o cotidiano no Egito**
-- 25.1 O labor na vida cotidiana do Egito
-- 25.2 O adorno nas joias e tecidos antigos
-- 25.3 O ofício representado nas pinturas
+## 25ª Semana, **A arte egípcia e a lei da frontalidade**
+- 25.1 A arte egípcia e a lei da frontalidade
+- 25.2 Pirâmides de Gizé
+- 25.3 A monumentalidade do Egito
 
 ---
 
-## Semana 26 – O Egito em arte e memória
+## Semana 26 – Hieróglifos e imagem
 
-**Tema central da semana**, O Egito em arte e memória. A aula 26.1 apresenta o coração do tema. A aula 26.2 desenvolve Composição em amuletos e sarcófagos. A aula 26.3 desenvolve A transcendência buscada na arte egípcia.
+**Tema central da semana**, Escrita, narrativa e ornamento servem à memória, à autoridade e ao poder egípcio.
 
 ---
 
-[Belas artes] - Ano 2 - 26.1 Máscaras, múmias e o desejo de preservar a vida (Update)
+[Belas artes] - Ano 2 - 26.1 Hieróglifos e imagem (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e memória. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Hieróglifos e imagem. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Máscaras, múmias e o desejo de preservar a vida como coração pedagógico da semana.
+   → Reconheça Hieróglifos e imagem como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre O Egito em arte e memória.
+   → Narre com as próprias palavras o que esta aula ensina sobre Hieróglifos e imagem.
 
 ---
 
-[Belas artes] - Ano 2 - 26.2 Composição em amuletos e sarcófagos (Update)
+[Belas artes] - Ano 2 - 26.2 Narrativa nas paredes dos templos (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e memória. **Foco da aula**, primeiro desdobramento, Composição em amuletos e sarcófagos.
+**Tema central da semana**, Hieróglifos e imagem. **Foco da aula**, primeiro desdobramento, Narrativa nas paredes dos templos.
 
 ## Objetivos
-   → Compreenda Composição em amuletos e sarcófagos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Composição em amuletos e sarcófagos.
-   → Narre oralmente um exemplo que mostre Composição em amuletos e sarcófagos.
+   → Compreenda Narrativa nas paredes dos templos como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Narrativa nas paredes dos templos.
+   → Narre oralmente um exemplo que mostre Narrativa nas paredes dos templos.
 
 ---
 
-[Belas artes] - Ano 2 - 26.3 A transcendência buscada na arte egípcia (Update)
+[Belas artes] - Ano 2 - 26.3 O poder dos símbolos egípcios (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e memória. **Foco da aula**, segundo desdobramento, A transcendência buscada na arte egípcia.
+**Tema central da semana**, Hieróglifos e imagem. **Foco da aula**, segundo desdobramento, O poder dos símbolos egípcios.
 
 ## Objetivos
-   → Pratique A transcendência buscada na arte egípcia como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A transcendência buscada na arte egípcia em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A transcendência buscada na arte egípcia dentro da progressão da semana.
+   → Pratique O poder dos símbolos egípcios como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de O poder dos símbolos egípcios em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender O poder dos símbolos egípcios dentro da progressão da semana.
 
 ---
 
@@ -1549,10 +1617,10 @@ Avaliar os conhecimentos das aulas da semana 25.
 
 Revisar os conhecimentos das aulas da semana 26.
 
-## 26ª Semana, **O Egito em arte e memória**
-- 26.1 Máscaras, múmias e o desejo de preservar a vida
-- 26.2 Composição em amuletos e sarcófagos
-- 26.3 A transcendência buscada na arte egípcia
+## 26ª Semana, **Hieróglifos e imagem**
+- 26.1 Hieróglifos e imagem
+- 26.2 Narrativa nas paredes dos templos
+- 26.3 O poder dos símbolos egípcios
 
 ---
 
@@ -1562,55 +1630,55 @@ Revisar os conhecimentos das aulas da semana 26.
 
 Avaliar os conhecimentos das aulas da semana 26.
 
-## 26ª Semana, **O Egito em arte e memória**
-- 26.1 Máscaras, múmias e o desejo de preservar a vida
-- 26.2 Composição em amuletos e sarcófagos
-- 26.3 A transcendência buscada na arte egípcia
+## 26ª Semana, **Hieróglifos e imagem**
+- 26.1 Hieróglifos e imagem
+- 26.2 Narrativa nas paredes dos templos
+- 26.3 O poder dos símbolos egípcios
 
 ---
 
-## Semana 27 – Arte egípcia, estilo e sociedade
+## Semana 27 – As cores do Nilo
 
-**Tema central da semana**, Arte egípcia, estilo e sociedade. A aula 27.1 apresenta o coração do tema. A aula 27.2 desenvolve Hierarquia visual na arte egípcia. A aula 27.3 desenvolve Registro visual da vida e dos ofícios.
+**Tema central da semana**, A paleta egípcia nasce da paisagem e do simbolismo social e religioso.
 
 ---
 
-[Belas artes] - Ano 2 - 27.1 O cânone artístico e a lei da frontalidade (Update)
+[Belas artes] - Ano 2 - 27.1 As cores do Nilo (Update)
 
 # Description
 
-**Tema central da semana**, Arte egípcia, estilo e sociedade. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, As cores do Nilo. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça O cânone artístico e a lei da frontalidade como coração pedagógico da semana.
+   → Reconheça As cores do Nilo como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte egípcia, estilo e sociedade.
+   → Narre com as próprias palavras o que esta aula ensina sobre As cores do Nilo.
 
 ---
 
-[Belas artes] - Ano 2 - 27.2 Hierarquia visual na arte egípcia (Update)
+[Belas artes] - Ano 2 - 27.2 Cor simbólica na arte egípcia (Update)
 
 # Description
 
-**Tema central da semana**, Arte egípcia, estilo e sociedade. **Foco da aula**, primeiro desdobramento, Hierarquia visual na arte egípcia.
+**Tema central da semana**, As cores do Nilo. **Foco da aula**, primeiro desdobramento, Cor simbólica na arte egípcia.
 
 ## Objetivos
-   → Compreenda Hierarquia visual na arte egípcia como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Hierarquia visual na arte egípcia.
-   → Narre oralmente um exemplo que mostre Hierarquia visual na arte egípcia.
+   → Compreenda Cor simbólica na arte egípcia como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Cor simbólica na arte egípcia.
+   → Narre oralmente um exemplo que mostre Cor simbólica na arte egípcia.
 
 ---
 
-[Belas artes] - Ano 2 - 27.3 Registro visual da vida e dos ofícios (Update)
+[Belas artes] - Ano 2 - 27.3 Contraste na paleta egípcia (Update)
 
 # Description
 
-**Tema central da semana**, Arte egípcia, estilo e sociedade. **Foco da aula**, segundo desdobramento, Registro visual da vida e dos ofícios.
+**Tema central da semana**, As cores do Nilo. **Foco da aula**, segundo desdobramento, Contraste na paleta egípcia.
 
 ## Objetivos
-   → Pratique Registro visual da vida e dos ofícios como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Registro visual da vida e dos ofícios em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Registro visual da vida e dos ofícios dentro da progressão da semana.
+   → Pratique Contraste na paleta egípcia como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Contraste na paleta egípcia em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Contraste na paleta egípcia dentro da progressão da semana.
 
 ---
 
@@ -1620,10 +1688,10 @@ Avaliar os conhecimentos das aulas da semana 26.
 
 Revisar os conhecimentos das aulas da semana 27.
 
-## 27ª Semana, **Arte egípcia, estilo e sociedade**
-- 27.1 O cânone artístico e a lei da frontalidade
-- 27.2 Hierarquia visual na arte egípcia
-- 27.3 Registro visual da vida e dos ofícios
+## 27ª Semana, **As cores do Nilo**
+- 27.1 As cores do Nilo
+- 27.2 Cor simbólica na arte egípcia
+- 27.3 Contraste na paleta egípcia
 
 ---
 
@@ -1633,55 +1701,55 @@ Revisar os conhecimentos das aulas da semana 27.
 
 Avaliar os conhecimentos das aulas da semana 27.
 
-## 27ª Semana, **Arte egípcia, estilo e sociedade**
-- 27.1 O cânone artístico e a lei da frontalidade
-- 27.2 Hierarquia visual na arte egípcia
-- 27.3 Registro visual da vida e dos ofícios
+## 27ª Semana, **As cores do Nilo**
+- 27.1 As cores do Nilo
+- 27.2 Cor simbólica na arte egípcia
+- 27.3 Contraste na paleta egípcia
 
 ---
 
-## Semana 28 – O Egito em arte e legado
+## Semana 28 – Esculturas e máscaras do Egito
 
-**Tema central da semana**, O Egito em arte e legado. A aula 28.1 apresenta o coração do tema. A aula 28.2 desenvolve Símbolos no imaginário. A aula 28.3 desenvolve Ressignificação do Egito no cinema e na arte.
+**Tema central da semana**, Máscaras e esculturas mostram o desejo de vencer o esquecimento e a morte.
 
 ---
 
-[Belas artes] - Ano 2 - 28.1 O Egito em arte e legado (Update)
+[Belas artes] - Ano 2 - 28.1 Esculturas e máscaras do Egito (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e legado. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Esculturas e máscaras do Egito. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça O Egito em arte e legado como coração pedagógico da semana.
+   → Reconheça Esculturas e máscaras do Egito como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre O Egito em arte e legado.
+   → Narre com as próprias palavras o que esta aula ensina sobre Esculturas e máscaras do Egito.
 
 ---
 
-[Belas artes] - Ano 2 - 28.2 Símbolos no imaginário (Update)
+[Belas artes] - Ano 2 - 28.2 O busto de Nefertiti (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e legado. **Foco da aula**, primeiro desdobramento, Símbolos no imaginário.
+**Tema central da semana**, Esculturas e máscaras do Egito. **Foco da aula**, primeiro desdobramento, O busto de Nefertiti.
 
 ## Objetivos
-   → Compreenda Símbolos no imaginário como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Símbolos no imaginário.
-   → Narre oralmente um exemplo que mostre Símbolos no imaginário.
+   → Compreenda O busto de Nefertiti como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O busto de Nefertiti.
+   → Narre oralmente um exemplo que mostre O busto de Nefertiti.
 
 ---
 
-[Belas artes] - Ano 2 - 28.3 Ressignificação do Egito no cinema e na arte (Update)
+[Belas artes] - Ano 2 - 28.3 A máscara funerária de Tutancâmon (Update)
 
 # Description
 
-**Tema central da semana**, O Egito em arte e legado. **Foco da aula**, segundo desdobramento, Ressignificação do Egito no cinema e na arte.
+**Tema central da semana**, Esculturas e máscaras do Egito. **Foco da aula**, segundo desdobramento, A máscara funerária de Tutancâmon.
 
 ## Objetivos
-   → Pratique Ressignificação do Egito no cinema e na arte como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Ressignificação do Egito no cinema e na arte em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Ressignificação do Egito no cinema e na arte dentro da progressão da semana.
+   → Pratique A máscara funerária de Tutancâmon como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A máscara funerária de Tutancâmon em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A máscara funerária de Tutancâmon dentro da progressão da semana.
 
 ---
 
@@ -1691,10 +1759,10 @@ Avaliar os conhecimentos das aulas da semana 27.
 
 Revisar os conhecimentos das aulas da semana 28.
 
-## 28ª Semana, **O Egito em arte e legado**
-- 28.1 O Egito em arte e legado
-- 28.2 Símbolos no imaginário
-- 28.3 Ressignificação do Egito no cinema e na arte
+## 28ª Semana, **Esculturas e máscaras do Egito**
+- 28.1 Esculturas e máscaras do Egito
+- 28.2 O busto de Nefertiti
+- 28.3 A máscara funerária de Tutancâmon
 
 ---
 
@@ -1704,55 +1772,89 @@ Revisar os conhecimentos das aulas da semana 28.
 
 Avaliar os conhecimentos das aulas da semana 28.
 
-## 28ª Semana, **O Egito em arte e legado**
-- 28.1 O Egito em arte e legado
-- 28.2 Símbolos no imaginário
-- 28.3 Ressignificação do Egito no cinema e na arte
+## 28ª Semana, **Esculturas e máscaras do Egito**
+- 28.1 Esculturas e máscaras do Egito
+- 28.2 O busto de Nefertiti
+- 28.3 A máscara funerária de Tutancâmon
 
 ---
 
-## Semana 31 – A arte mesopotâmica
-
-**Tema central da semana**, A arte mesopotâmica. A aula 31.1 fixa a definição central. A aula 31.2 desenvolve Zigurates e a torre de Babel. A aula 31.3 desenvolve A torre e o orgulho.
-
----
-
-[Belas artes] - Ano 2 - 31.1 Arte mesopotâmica (Update)
+[Belas artes] - Ano 2 - 29 Revisão (Update)
 
 # Description
 
-**Tema central da semana**, A arte mesopotâmica. **Foco da aula**, coração pedagógico que fixa a definição central.
+Revisar todo o conteúdo do 3º bimestre, semanas 21 a 28.
+
+- Semana 21
+- Semana 22
+- Semana 23
+- Semana 24
+- Semana 25
+- Semana 26
+- Semana 27
+- Semana 28
+
+---
+
+[Belas artes] - Ano 2 - 30 Prova (Update)
+
+# Description
+
+Avaliar todo o conteúdo do 3º bimestre, semanas 21 a 28.
+
+- Semana 21
+- Semana 22
+- Semana 23
+- Semana 24
+- Semana 25
+- Semana 26
+- Semana 27
+- Semana 28
+
+---
+
+## Semana 31 – A arte egeia e suas ilhas
+
+**Tema central da semana**, A arte egeia expressa uma sensibilidade distinta do Egito e da Mesopotâmia, com leveza, natureza e movimento.
+
+---
+
+[Belas artes] - Ano 2 - 31.1 A arte egeia e suas ilhas (Update)
+
+# Description
+
+**Tema central da semana**, A arte egeia e suas ilhas. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte mesopotâmica como coração pedagógico da semana.
+   → Reconheça A arte egeia e suas ilhas como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre A arte mesopotâmica.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte egeia e suas ilhas.
 
 ---
 
-[Belas artes] - Ano 2 - 31.2 Zigurates e a torre de Babel (Update)
+[Belas artes] - Ano 2 - 31.2 Figuras das Cíclades (Update)
 
 # Description
 
-**Tema central da semana**, A arte mesopotâmica. **Foco da aula**, primeiro desdobramento, Zigurates e a torre de Babel.
+**Tema central da semana**, A arte egeia e suas ilhas. **Foco da aula**, primeiro desdobramento, Figuras das Cíclades.
 
 ## Objetivos
-   → Compreenda Zigurates e a torre de Babel como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Zigurates e a torre de Babel.
-   → Narre oralmente um exemplo que mostre Zigurates e a torre de Babel.
+   → Compreenda Figuras das Cíclades como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Figuras das Cíclades.
+   → Narre oralmente um exemplo que mostre Figuras das Cíclades.
 
 ---
 
-[Belas artes] - Ano 2 - 31.3 A torre e o orgulho (Update)
+[Belas artes] - Ano 2 - 31.3 Formas simplificadas da arte cicládica (Update)
 
 # Description
 
-**Tema central da semana**, A arte mesopotâmica. **Foco da aula**, segundo desdobramento, A torre e o orgulho.
+**Tema central da semana**, A arte egeia e suas ilhas. **Foco da aula**, segundo desdobramento, Formas simplificadas da arte cicládica.
 
 ## Objetivos
-   → Pratique A torre e o orgulho como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de A torre e o orgulho em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender A torre e o orgulho dentro da progressão da semana.
+   → Pratique Formas simplificadas da arte cicládica como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Formas simplificadas da arte cicládica em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Formas simplificadas da arte cicládica dentro da progressão da semana.
 
 ---
 
@@ -1762,10 +1864,10 @@ Avaliar os conhecimentos das aulas da semana 28.
 
 Revisar os conhecimentos das aulas da semana 31.
 
-## 31ª Semana, **A arte mesopotâmica**
-- 31.1 Arte mesopotâmica
-- 31.2 Zigurates e a torre de Babel
-- 31.3 A torre e o orgulho
+## 31ª Semana, **A arte egeia e suas ilhas**
+- 31.1 A arte egeia e suas ilhas
+- 31.2 Figuras das Cíclades
+- 31.3 Formas simplificadas da arte cicládica
 
 ---
 
@@ -1775,55 +1877,55 @@ Revisar os conhecimentos das aulas da semana 31.
 
 Avaliar os conhecimentos das aulas da semana 31.
 
-## 31ª Semana, **A arte mesopotâmica**
-- 31.1 Arte mesopotâmica
-- 31.2 Zigurates e a torre de Babel
-- 31.3 A torre e o orgulho
+## 31ª Semana, **A arte egeia e suas ilhas**
+- 31.1 A arte egeia e suas ilhas
+- 31.2 Figuras das Cíclades
+- 31.3 Formas simplificadas da arte cicládica
 
 ---
 
-## Semana 32 – Arte egeia
+## Semana 32 – A arte minoica e Cnossos
 
-**Tema central da semana**, Arte egeia. A aula 32.1 apresenta o coração do tema. A aula 32.2 desenvolve Movimento e natureza na arte egeia. A aula 32.3 desenvolve Frescos de Cnossos.
+**Tema central da semana**, Movimento, natureza e frescos ajudam a ler outra sensibilidade do mundo antigo.
 
 ---
 
-[Belas artes] - Ano 2 - 32.1 Identidade visual na arte egeia (Update)
+[Belas artes] - Ano 2 - 32.1 A arte minoica e Cnossos (Update)
 
 # Description
 
-**Tema central da semana**, Arte egeia. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte minoica e Cnossos. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Identidade visual na arte egeia como coração pedagógico da semana.
+   → Reconheça A arte minoica e Cnossos como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte egeia.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte minoica e Cnossos.
 
 ---
 
-[Belas artes] - Ano 2 - 32.2 Movimento e natureza na arte egeia (Update)
+[Belas artes] - Ano 2 - 32.2 Frescos do palácio de Cnossos (Update)
 
 # Description
 
-**Tema central da semana**, Arte egeia. **Foco da aula**, primeiro desdobramento, Movimento e natureza na arte egeia.
+**Tema central da semana**, A arte minoica e Cnossos. **Foco da aula**, primeiro desdobramento, Frescos do palácio de Cnossos.
 
 ## Objetivos
-   → Compreenda Movimento e natureza na arte egeia como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Movimento e natureza na arte egeia.
-   → Narre oralmente um exemplo que mostre Movimento e natureza na arte egeia.
+   → Compreenda Frescos do palácio de Cnossos como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Frescos do palácio de Cnossos.
+   → Narre oralmente um exemplo que mostre Frescos do palácio de Cnossos.
 
 ---
 
-[Belas artes] - Ano 2 - 32.3 Frescos de Cnossos (Update)
+[Belas artes] - Ano 2 - 32.3 Movimento e natureza na arte minoica (Update)
 
 # Description
 
-**Tema central da semana**, Arte egeia. **Foco da aula**, segundo desdobramento, Frescos de Cnossos.
+**Tema central da semana**, A arte minoica e Cnossos. **Foco da aula**, segundo desdobramento, Movimento e natureza na arte minoica.
 
 ## Objetivos
-   → Pratique Frescos de Cnossos como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Frescos de Cnossos em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Frescos de Cnossos dentro da progressão da semana.
+   → Pratique Movimento e natureza na arte minoica como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Movimento e natureza na arte minoica em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Movimento e natureza na arte minoica dentro da progressão da semana.
 
 ---
 
@@ -1833,10 +1935,10 @@ Avaliar os conhecimentos das aulas da semana 31.
 
 Revisar os conhecimentos das aulas da semana 32.
 
-## 32ª Semana, **Arte egeia**
-- 32.1 Identidade visual na arte egeia
-- 32.2 Movimento e natureza na arte egeia
-- 32.3 Frescos de Cnossos
+## 32ª Semana, **A arte minoica e Cnossos**
+- 32.1 A arte minoica e Cnossos
+- 32.2 Frescos do palácio de Cnossos
+- 32.3 Movimento e natureza na arte minoica
 
 ---
 
@@ -1846,55 +1948,55 @@ Revisar os conhecimentos das aulas da semana 32.
 
 Avaliar os conhecimentos das aulas da semana 32.
 
-## 32ª Semana, **Arte egeia**
-- 32.1 Identidade visual na arte egeia
-- 32.2 Movimento e natureza na arte egeia
-- 32.3 Frescos de Cnossos
+## 32ª Semana, **A arte minoica e Cnossos**
+- 32.1 A arte minoica e Cnossos
+- 32.2 Frescos do palácio de Cnossos
+- 32.3 Movimento e natureza na arte minoica
 
 ---
 
-## Semana 33 – Arte grega
+## Semana 33 – A arte grega e suas ordens
 
-**Tema central da semana**, Arte grega. A aula 33.1 apresenta o coração do tema. A aula 33.2 desenvolve Pintura em vasos. A aula 33.3 desenvolve Mitologia e arte.
+**Tema central da semana**, A Grécia busca ordem, proporção e harmonia como ideais de beleza.
 
 ---
 
-[Belas artes] - Ano 2 - 33.1 A ordem na arquitetura grega (Update)
+[Belas artes] - Ano 2 - 33.1 A arte grega e suas ordens (Update)
 
 # Description
 
-**Tema central da semana**, Arte grega. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A arte grega e suas ordens. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça A ordem na arquitetura grega como coração pedagógico da semana.
+   → Reconheça A arte grega e suas ordens como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte grega.
+   → Narre com as próprias palavras o que esta aula ensina sobre A arte grega e suas ordens.
 
 ---
 
-[Belas artes] - Ano 2 - 33.2 Pintura em vasos (Update)
+[Belas artes] - Ano 2 - 33.2 O Partenon e as colunas gregas (Update)
 
 # Description
 
-**Tema central da semana**, Arte grega. **Foco da aula**, primeiro desdobramento, Pintura em vasos.
+**Tema central da semana**, A arte grega e suas ordens. **Foco da aula**, primeiro desdobramento, O Partenon e as colunas gregas.
 
 ## Objetivos
-   → Compreenda Pintura em vasos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Pintura em vasos.
-   → Narre oralmente um exemplo que mostre Pintura em vasos.
+   → Compreenda O Partenon e as colunas gregas como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O Partenon e as colunas gregas.
+   → Narre oralmente um exemplo que mostre O Partenon e as colunas gregas.
 
 ---
 
-[Belas artes] - Ano 2 - 33.3 Mitologia e arte (Update)
+[Belas artes] - Ano 2 - 33.3 A ordem na arquitetura grega (Update)
 
 # Description
 
-**Tema central da semana**, Arte grega. **Foco da aula**, segundo desdobramento, Mitologia e arte.
+**Tema central da semana**, A arte grega e suas ordens. **Foco da aula**, segundo desdobramento, A ordem na arquitetura grega.
 
 ## Objetivos
-   → Pratique Mitologia e arte como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Mitologia e arte em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Mitologia e arte dentro da progressão da semana.
+   → Pratique A ordem na arquitetura grega como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A ordem na arquitetura grega em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A ordem na arquitetura grega dentro da progressão da semana.
 
 ---
 
@@ -1904,10 +2006,10 @@ Avaliar os conhecimentos das aulas da semana 32.
 
 Revisar os conhecimentos das aulas da semana 33.
 
-## 33ª Semana, **Arte grega**
-- 33.1 A ordem na arquitetura grega
-- 33.2 Pintura em vasos
-- 33.3 Mitologia e arte
+## 33ª Semana, **A arte grega e suas ordens**
+- 33.1 A arte grega e suas ordens
+- 33.2 O Partenon e as colunas gregas
+- 33.3 A ordem na arquitetura grega
 
 ---
 
@@ -1917,55 +2019,55 @@ Revisar os conhecimentos das aulas da semana 33.
 
 Avaliar os conhecimentos das aulas da semana 33.
 
-## 33ª Semana, **Arte grega**
-- 33.1 A ordem na arquitetura grega
-- 33.2 Pintura em vasos
-- 33.3 Mitologia e arte
+## 33ª Semana, **A arte grega e suas ordens**
+- 33.1 A arte grega e suas ordens
+- 33.2 O Partenon e as colunas gregas
+- 33.3 A ordem na arquitetura grega
 
 ---
 
-## Semana 34 – Arte romana
+## Semana 34 – Vasos gregos e narrativa
 
-**Tema central da semana**, Arte romana. A aula 34.1 apresenta o coração do tema. A aula 34.2 desenvolve Mosaicos e afrescos. A aula 34.3 desenvolve Idealização e intenção artística.
+**Tema central da semana**, O vaso grego é objeto de uso, arte e narrativa ao mesmo tempo.
 
 ---
 
-[Belas artes] - Ano 2 - 34.1 Realismo romano (Update)
+[Belas artes] - Ano 2 - 34.1 Vasos gregos e narrativa (Update)
 
 # Description
 
-**Tema central da semana**, Arte romana. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Vasos gregos e narrativa. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Realismo romano como coração pedagógico da semana.
+   → Reconheça Vasos gregos e narrativa como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte romana.
+   → Narre com as próprias palavras o que esta aula ensina sobre Vasos gregos e narrativa.
 
 ---
 
-[Belas artes] - Ano 2 - 34.2 Mosaicos e afrescos (Update)
+[Belas artes] - Ano 2 - 34.2 Figuras negras e figuras vermelhas (Update)
 
 # Description
 
-**Tema central da semana**, Arte romana. **Foco da aula**, primeiro desdobramento, Mosaicos e afrescos.
+**Tema central da semana**, Vasos gregos e narrativa. **Foco da aula**, primeiro desdobramento, Figuras negras e figuras vermelhas.
 
 ## Objetivos
-   → Compreenda Mosaicos e afrescos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Mosaicos e afrescos.
-   → Narre oralmente um exemplo que mostre Mosaicos e afrescos.
+   → Compreenda Figuras negras e figuras vermelhas como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Figuras negras e figuras vermelhas.
+   → Narre oralmente um exemplo que mostre Figuras negras e figuras vermelhas.
 
 ---
 
-[Belas artes] - Ano 2 - 34.3 Idealização e intenção artística (Update)
+[Belas artes] - Ano 2 - 34.3 Cenas da mitologia nos vasos (Update)
 
 # Description
 
-**Tema central da semana**, Arte romana. **Foco da aula**, segundo desdobramento, Idealização e intenção artística.
+**Tema central da semana**, Vasos gregos e narrativa. **Foco da aula**, segundo desdobramento, Cenas da mitologia nos vasos.
 
 ## Objetivos
-   → Pratique Idealização e intenção artística como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Idealização e intenção artística em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Idealização e intenção artística dentro da progressão da semana.
+   → Pratique Cenas da mitologia nos vasos como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Cenas da mitologia nos vasos em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Cenas da mitologia nos vasos dentro da progressão da semana.
 
 ---
 
@@ -1975,10 +2077,10 @@ Avaliar os conhecimentos das aulas da semana 33.
 
 Revisar os conhecimentos das aulas da semana 34.
 
-## 34ª Semana, **Arte romana**
-- 34.1 Realismo romano
-- 34.2 Mosaicos e afrescos
-- 34.3 Idealização e intenção artística
+## 34ª Semana, **Vasos gregos e narrativa**
+- 34.1 Vasos gregos e narrativa
+- 34.2 Figuras negras e figuras vermelhas
+- 34.3 Cenas da mitologia nos vasos
 
 ---
 
@@ -1988,55 +2090,55 @@ Revisar os conhecimentos das aulas da semana 34.
 
 Avaliar os conhecimentos das aulas da semana 34.
 
-## 34ª Semana, **Arte romana**
-- 34.1 Realismo romano
-- 34.2 Mosaicos e afrescos
-- 34.3 Idealização e intenção artística
+## 34ª Semana, **Vasos gregos e narrativa**
+- 34.1 Vasos gregos e narrativa
+- 34.2 Figuras negras e figuras vermelhas
+- 34.3 Cenas da mitologia nos vasos
 
 ---
 
-## Semana 35 – Arte cristã primitiva
+## Semana 35 – Escultura grega e proporção
 
-**Tema central da semana**, Arte cristã primitiva. A aula 35.1 fixa a definição central. A aula 35.2 desenvolve Símbolos cristãos. A aula 35.3 desenvolve Pinturas nas catacumbas.
+**Tema central da semana**, A escultura grega busca o ideal do corpo humano como expressão de ordem e beleza.
 
 ---
 
-[Belas artes] - Ano 2 - 35.1 Arte cristã primitiva (Update)
+[Belas artes] - Ano 2 - 35.1 Escultura grega e proporção (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva. **Foco da aula**, coração pedagógico que fixa a definição central.
+**Tema central da semana**, Escultura grega e proporção. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte cristã primitiva como coração pedagógico da semana.
+   → Reconheça Escultura grega e proporção como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte cristã primitiva.
+   → Narre com as próprias palavras o que esta aula ensina sobre Escultura grega e proporção.
 
 ---
 
-[Belas artes] - Ano 2 - 35.2 Símbolos cristãos (Update)
+[Belas artes] - Ano 2 - 35.2 O Doríforo de Policleto (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva. **Foco da aula**, primeiro desdobramento, Símbolos cristãos.
+**Tema central da semana**, Escultura grega e proporção. **Foco da aula**, primeiro desdobramento, O Doríforo de Policleto.
 
 ## Objetivos
-   → Compreenda Símbolos cristãos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Símbolos cristãos.
-   → Narre oralmente um exemplo que mostre Símbolos cristãos.
+   → Compreenda O Doríforo de Policleto como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O Doríforo de Policleto.
+   → Narre oralmente um exemplo que mostre O Doríforo de Policleto.
 
 ---
 
-[Belas artes] - Ano 2 - 35.3 Pinturas nas catacumbas (Update)
+[Belas artes] - Ano 2 - 35.3 A proporção do corpo humano na Grécia (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva. **Foco da aula**, segundo desdobramento, Pinturas nas catacumbas.
+**Tema central da semana**, Escultura grega e proporção. **Foco da aula**, segundo desdobramento, A proporção do corpo humano na Grécia.
 
 ## Objetivos
-   → Pratique Pinturas nas catacumbas como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Pinturas nas catacumbas em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Pinturas nas catacumbas dentro da progressão da semana.
+   → Pratique A proporção do corpo humano na Grécia como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A proporção do corpo humano na Grécia em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A proporção do corpo humano na Grécia dentro da progressão da semana.
 
 ---
 
@@ -2046,10 +2148,10 @@ Avaliar os conhecimentos das aulas da semana 34.
 
 Revisar os conhecimentos das aulas da semana 35.
 
-## 35ª Semana, **Arte cristã primitiva**
-- 35.1 Arte cristã primitiva
-- 35.2 Símbolos cristãos
-- 35.3 Pinturas nas catacumbas
+## 35ª Semana, **Escultura grega e proporção**
+- 35.1 Escultura grega e proporção
+- 35.2 O Doríforo de Policleto
+- 35.3 A proporção do corpo humano na Grécia
 
 ---
 
@@ -2059,55 +2161,55 @@ Revisar os conhecimentos das aulas da semana 35.
 
 Avaliar os conhecimentos das aulas da semana 35.
 
-## 35ª Semana, **Arte cristã primitiva**
-- 35.1 Arte cristã primitiva
-- 35.2 Símbolos cristãos
-- 35.3 Pinturas nas catacumbas
+## 35ª Semana, **Escultura grega e proporção**
+- 35.1 Escultura grega e proporção
+- 35.2 O Doríforo de Policleto
+- 35.3 A proporção do corpo humano na Grécia
 
 ---
 
-## Semana 36 – Arte cristã primitiva em serviço
+## Semana 36 – A lira e a música grega
 
-**Tema central da semana**, Arte cristã primitiva em serviço. A aula 36.1 apresenta o coração do tema. A aula 36.2 desenvolve Forma simples. A aula 36.3 desenvolve Função didática.
+**Tema central da semana**, A música grega educa, narra e celebra como parte da vida pública e da formação do caráter.
 
 ---
 
-[Belas artes] - Ano 2 - 36.1 Narrativa bíblica (Update)
+[Belas artes] - Ano 2 - 36.1 A lira e a música grega (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva em serviço. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, A lira e a música grega. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Narrativa bíblica como coração pedagógico da semana.
+   → Reconheça A lira e a música grega como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte cristã primitiva em serviço.
+   → Narre com as próprias palavras o que esta aula ensina sobre A lira e a música grega.
 
 ---
 
-[Belas artes] - Ano 2 - 36.2 Forma simples (Update)
+[Belas artes] - Ano 2 - 36.2 Música no teatro e na educação (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva em serviço. **Foco da aula**, primeiro desdobramento, Forma simples.
+**Tema central da semana**, A lira e a música grega. **Foco da aula**, primeiro desdobramento, Música no teatro e na educação.
 
 ## Objetivos
-   → Compreenda Forma simples como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Forma simples.
-   → Narre oralmente um exemplo que mostre Forma simples.
+   → Compreenda Música no teatro e na educação como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a Música no teatro e na educação.
+   → Narre oralmente um exemplo que mostre Música no teatro e na educação.
 
 ---
 
-[Belas artes] - Ano 2 - 36.3 Função didática (Update)
+[Belas artes] - Ano 2 - 36.3 O Epitáfio de Sícilo (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva em serviço. **Foco da aula**, segundo desdobramento, Função didática.
+**Tema central da semana**, A lira e a música grega. **Foco da aula**, segundo desdobramento, O Epitáfio de Sícilo.
 
 ## Objetivos
-   → Pratique Função didática como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Função didática em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Função didática dentro da progressão da semana.
+   → Pratique O Epitáfio de Sícilo como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de O Epitáfio de Sícilo em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender O Epitáfio de Sícilo dentro da progressão da semana.
 
 ---
 
@@ -2117,10 +2219,10 @@ Avaliar os conhecimentos das aulas da semana 35.
 
 Revisar os conhecimentos das aulas da semana 36.
 
-## 36ª Semana, **Arte cristã primitiva em serviço**
-- 36.1 Narrativa bíblica
-- 36.2 Forma simples
-- 36.3 Função didática
+## 36ª Semana, **A lira e a música grega**
+- 36.1 A lira e a música grega
+- 36.2 Música no teatro e na educação
+- 36.3 O Epitáfio de Sícilo
 
 ---
 
@@ -2130,55 +2232,55 @@ Revisar os conhecimentos das aulas da semana 36.
 
 Avaliar os conhecimentos das aulas da semana 36.
 
-## 36ª Semana, **Arte cristã primitiva em serviço**
-- 36.1 Narrativa bíblica
-- 36.2 Forma simples
-- 36.3 Função didática
+## 36ª Semana, **A lira e a música grega**
+- 36.1 A lira e a música grega
+- 36.2 Música no teatro e na educação
+- 36.3 O Epitáfio de Sícilo
 
 ---
 
-## Semana 37 – Arte Bizantina
+## Semana 37 – Arte cristã primitiva e catacumbas
 
-**Tema central da semana**, Arte Bizantina. A aula 37.1 fixa a definição central. A aula 37.2 desenvolve Arte Bizantina e mosaicos de ouro. A aula 37.3 desenvolve Arte Bizantina e ícones.
+**Tema central da semana**, A igreja primitiva usa símbolos e imagens simples para confessar a fé e consolar os fiéis.
 
 ---
 
-[Belas artes] - Ano 2 - 37.1 Arte Bizantina e o império cristão (Update)
+[Belas artes] - Ano 2 - 37.1 Arte cristã primitiva e catacumbas (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina. **Foco da aula**, coração pedagógico que fixa a definição central.
+**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte Bizantina e o império cristão como coração pedagógico da semana.
+   → Reconheça Arte cristã primitiva e catacumbas como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte Bizantina.
+   → Narre com as próprias palavras o que esta aula ensina sobre Arte cristã primitiva e catacumbas.
 
 ---
 
-[Belas artes] - Ano 2 - 37.2 Arte Bizantina e mosaicos de ouro (Update)
+[Belas artes] - Ano 2 - 37.2 O Bom Pastor nas catacumbas (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina. **Foco da aula**, primeiro desdobramento, Arte Bizantina e mosaicos de ouro.
+**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, primeiro desdobramento, O Bom Pastor nas catacumbas.
 
 ## Objetivos
-   → Compreenda Arte Bizantina e mosaicos de ouro como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Arte Bizantina e mosaicos de ouro.
-   → Narre oralmente um exemplo que mostre Arte Bizantina e mosaicos de ouro.
+   → Compreenda O Bom Pastor nas catacumbas como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O Bom Pastor nas catacumbas.
+   → Narre oralmente um exemplo que mostre O Bom Pastor nas catacumbas.
 
 ---
 
-[Belas artes] - Ano 2 - 37.3 Arte Bizantina e ícones (Update)
+[Belas artes] - Ano 2 - 37.3 Símbolos cristãos nas pinturas (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina. **Foco da aula**, segundo desdobramento, Arte Bizantina e ícones.
+**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, segundo desdobramento, Símbolos cristãos nas pinturas.
 
 ## Objetivos
-   → Pratique Arte Bizantina e ícones como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Arte Bizantina e ícones em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Arte Bizantina e ícones dentro da progressão da semana.
+   → Pratique Símbolos cristãos nas pinturas como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de Símbolos cristãos nas pinturas em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender Símbolos cristãos nas pinturas dentro da progressão da semana.
 
 ---
 
@@ -2188,10 +2290,10 @@ Avaliar os conhecimentos das aulas da semana 36.
 
 Revisar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana, **Arte Bizantina**
-- 37.1 Arte Bizantina e o império cristão
-- 37.2 Arte Bizantina e mosaicos de ouro
-- 37.3 Arte Bizantina e ícones
+## 37ª Semana, **Arte cristã primitiva e catacumbas**
+- 37.1 Arte cristã primitiva e catacumbas
+- 37.2 O Bom Pastor nas catacumbas
+- 37.3 Símbolos cristãos nas pinturas
 
 ---
 
@@ -2201,55 +2303,55 @@ Revisar os conhecimentos das aulas da semana 37.
 
 Avaliar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana, **Arte Bizantina**
-- 37.1 Arte Bizantina e o império cristão
-- 37.2 Arte Bizantina e mosaicos de ouro
-- 37.3 Arte Bizantina e ícones
+## 37ª Semana, **Arte cristã primitiva e catacumbas**
+- 37.1 Arte cristã primitiva e catacumbas
+- 37.2 O Bom Pastor nas catacumbas
+- 37.3 Símbolos cristãos nas pinturas
 
 ---
 
-## Semana 38 – Arte Bizantina, forma e espaço
+## Semana 38 – Arte Bizantina e ícones
 
-**Tema central da semana**, Arte Bizantina, forma e espaço. A aula 38.1 apresenta o coração do tema. A aula 38.2 desenvolve Arquitetura centralizada. A aula 38.3 desenvolve Basílica Santa Sofia.
+**Tema central da semana**, A arte bizantina articula império, liturgia, ouro e ícones como linguagem de glória e transcendência.
 
 ---
 
-[Belas artes] - Ano 2 - 38.1 Frontalidade e hierarquia (Update)
+[Belas artes] - Ano 2 - 38.1 Arte Bizantina e ícones (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina, forma e espaço. **Foco da aula**, coração pedagógico que apresenta o tema central da semana.
+**Tema central da semana**, Arte Bizantina e ícones. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Frontalidade e hierarquia como coração pedagógico da semana.
+   → Reconheça Arte Bizantina e ícones como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte Bizantina, forma e espaço.
+   → Narre com as próprias palavras o que esta aula ensina sobre Arte Bizantina e ícones.
 
 ---
 
-[Belas artes] - Ano 2 - 38.2 Arquitetura centralizada (Update)
+[Belas artes] - Ano 2 - 38.2 O Cristo Pantocrator (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina, forma e espaço. **Foco da aula**, primeiro desdobramento, Arquitetura centralizada.
+**Tema central da semana**, Arte Bizantina e ícones. **Foco da aula**, primeiro desdobramento, O Cristo Pantocrator.
 
 ## Objetivos
-   → Compreenda Arquitetura centralizada como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Arquitetura centralizada.
-   → Narre oralmente um exemplo que mostre Arquitetura centralizada.
+   → Compreenda O Cristo Pantocrator como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O Cristo Pantocrator.
+   → Narre oralmente um exemplo que mostre O Cristo Pantocrator.
 
 ---
 
-[Belas artes] - Ano 2 - 38.3 Basílica Santa Sofia (Update)
+[Belas artes] - Ano 2 - 38.3 A Basílica de Santa Sofia (Update)
 
 # Description
 
-**Tema central da semana**, Arte Bizantina, forma e espaço. **Foco da aula**, segundo desdobramento, Basílica Santa Sofia.
+**Tema central da semana**, Arte Bizantina e ícones. **Foco da aula**, segundo desdobramento, A Basílica de Santa Sofia.
 
 ## Objetivos
-   → Pratique Basílica Santa Sofia como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Basílica Santa Sofia em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Basílica Santa Sofia dentro da progressão da semana.
+   → Pratique A Basílica de Santa Sofia como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de A Basílica de Santa Sofia em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender A Basílica de Santa Sofia dentro da progressão da semana.
 
 ---
 
@@ -2259,10 +2361,10 @@ Avaliar os conhecimentos das aulas da semana 37.
 
 Revisar os conhecimentos das aulas da semana 38.
 
-## 38ª Semana, **Arte Bizantina, forma e espaço**
-- 38.1 Frontalidade e hierarquia
-- 38.2 Arquitetura centralizada
-- 38.3 Basílica Santa Sofia
+## 38ª Semana, **Arte Bizantina e ícones**
+- 38.1 Arte Bizantina e ícones
+- 38.2 O Cristo Pantocrator
+- 38.3 A Basílica de Santa Sofia
 
 ---
 
@@ -2272,9 +2374,44 @@ Revisar os conhecimentos das aulas da semana 38.
 
 Avaliar os conhecimentos das aulas da semana 38.
 
-## 38ª Semana, **Arte Bizantina, forma e espaço**
-- 38.1 Frontalidade e hierarquia
-- 38.2 Arquitetura centralizada
-- 38.3 Basílica Santa Sofia
+## 38ª Semana, **Arte Bizantina e ícones**
+- 38.1 Arte Bizantina e ícones
+- 38.2 O Cristo Pantocrator
+- 38.3 A Basílica de Santa Sofia
 
 ---
+
+[Belas artes] - Ano 2 - 39 Revisão (Update)
+
+# Description
+
+Revisar todo o conteúdo do 4º bimestre, semanas 31 a 38.
+
+- Semana 31
+- Semana 32
+- Semana 33
+- Semana 34
+- Semana 35
+- Semana 36
+- Semana 37
+- Semana 38
+
+---
+
+[Belas artes] - Ano 2 - 40 Prova (Update)
+
+# Description
+
+Avaliar todo o conteúdo do 4º bimestre, semanas 31 a 38.
+
+- Semana 31
+- Semana 32
+- Semana 33
+- Semana 34
+- Semana 35
+- Semana 36
+- Semana 37
+- Semana 38
+
+---
+

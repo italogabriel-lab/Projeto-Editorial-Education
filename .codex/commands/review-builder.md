@@ -28,7 +28,7 @@ Arquivo `X.4.md` com a estrutura:
 
 - **Definir**: parágrafo único com **a definição curta da semana** (a mesma de `x.1`, `x.2` e `x.3`) + bloco `[+IMAGE_TEXT_ON]` com a música da semana
 - **Perceber**: bloco `[+IMAGE_LABELED]` com 3 hotspots, um por aula, mostrando o título de cada aula
-- **Recordar**: `[+STATEMENT_D]` com a definição curta da semana (mesma frase do Definir)
+- **Recordar**: parágrafo literal "Recorde o fato estudado durante a semana." + `[+STATEMENT_D]` com a definição curta da semana (mesma frase do Definir)
 - **Praticar**: `[+FILL_IN]` com a definição da semana + 3 `[+MULTIPLE]` temáticos, um por aula da semana
 - **Narrar**: paragrafo introdutorio para a narracao oral
 
