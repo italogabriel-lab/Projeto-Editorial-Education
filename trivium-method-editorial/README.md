@@ -87,7 +87,11 @@ Todas as skills estão disponíveis como slash commands:
 
 No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
 
-O bloco `[MP3/]...[MP3\]` narra a definição curta e a explicação completa em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+No 2º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, MP3, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+
+O bloco `[MP3/]...[MP3\]` narra a definição curta, a explicação completa da palavra-chave e a conexão teológica em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
+
+O marcador de áudio de todas as aulas é a linha literal `#VOX:`, sem voice ID. Em aulas regulares com um único hotspot em `[+IMAGE_LABELED]`, usar a coordenada central `49 50`. Revisões `.4` podem usar vários hotspots com coordenadas próprias.
 
 ## Perspectiva de Belas Artes e Artes Visuais
 
@@ -100,6 +104,12 @@ No 1º ano, o foco é introduzir a linguagem visual e os elementos da arte. Cada
 O tema e a definição curta de `x.1` geram as **palavras-chave estruturantes** da semana. As aulas `x.2` e `x.3` escolhem palavras desse eixo e as retomam no exemplo central, no Definir, no Perceber, no Praticar e no Narrar.
 
 Exemplo, se `x.1` fixa "O ponto representa o começo de uma arte", `x.1` apresenta o tema de forma abrangente. `x.2` trabalha `ponto` e `começo`. `x.3` trabalha `ponto` e `arte`. A variação serve à repetição do vocabulário, sem criar tema paralelo.
+
+## Conexão teológica semanal
+
+No início do Definir, apresentar a definição curta, a explicação variável da palavra-chave e a conexão teológica ligada ao tema. A chamada "Veja o vídeo abaixo." deve ficar na mesma linha da conexão teológica. A conexão teológica é uma única formulação por semana e se repete literalmente nas aulas `x.1`, `x.2` e `x.3`.
+
+O áudio do Accordion e do Narrar deve narrar os três trechos em uma única linha. O texto visual após `[MP3\]` e o bloco `[+IMAGE_TEXT_ASIDE]` repetem o mesmo conteúdo, com negritos permitidos apenas na definição e na explicação progressiva da palavra-chave.
 
 ## Padrão Atual da Revisão Bimestral
 

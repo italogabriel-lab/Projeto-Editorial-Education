@@ -7,8 +7,8 @@ Jubal e o som da música
 Tubalcaim e o ofício do metal
 
 A arte como louvor
-Cores que expressam sentimentos
-O som da alegria
+A beleza do louvor na música
+O som do louvor a Deus
 
 Imagens que contam histórias
 Luz nas pinturas
@@ -158,9 +158,9 @@ Música romana e vida pública
 Instrumentos militares e teatrais
 A música no cotidiano de Roma
 
-Arte cristã primitiva e catacumbas
-O Bom Pastor nas catacumbas
-Símbolos cristãos nas pinturas
+Roma e a arte cristã primitiva
+O retrato romano e o poder
+As catacumbas e a memória cristã
 
 Sarcófagos e basílicas cristãs
 O sarcófago de Júnio Basso

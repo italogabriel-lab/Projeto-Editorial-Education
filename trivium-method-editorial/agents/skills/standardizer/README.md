@@ -44,7 +44,7 @@ Transforma rascunho do Writer em conteúdo formatado com Rise Blocks, aplicando 
 | `[+HEADING]` | Subtítulos |
 | `[+ACCORDION]` | Definição expandível |
 | `[+VIDEO]` | Placeholder vídeo |
-| `[+IMAGE_LABELED]` | Imagem com hotspots |
+| `[+IMAGE_LABELED]` | Aula regular com hotspot central em `49 50` |
 | `[+FILL_IN]` | Lacunas |
 
 ---

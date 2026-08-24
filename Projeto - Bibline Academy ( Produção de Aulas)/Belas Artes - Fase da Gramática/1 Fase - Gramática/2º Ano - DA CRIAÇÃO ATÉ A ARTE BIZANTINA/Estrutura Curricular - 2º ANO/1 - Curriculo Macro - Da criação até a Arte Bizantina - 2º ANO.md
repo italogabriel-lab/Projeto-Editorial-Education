@@ -23,8 +23,8 @@ Ofício
 ## Semana 3 - A arte como louvor
 
 - 3.1 A arte como louvor
-- 3.2 Cores que expressam sentimentos
-- 3.3 O som da alegria
+- 3.2 A beleza do louvor na música
+- 3.3 O som do louvor a Deus
 
 # Semana 3
 Louvor
@@ -284,14 +284,14 @@ Proporção
 # Semana 36
 Lira
 
-## Semana 37 - Arte Cristã Primitiva e catacumbas
+## Semana 37 - Roma e a arte cristã primitiva
 
-- 37.1 Arte cristã primitiva e catacumbas
-- 37.2 O Bom Pastor nas catacumbas
-- 37.3 Símbolos cristãos nas pinturas
+- 37.1 Roma e a arte cristã primitiva
+- 37.2 O retrato romano e o poder
+- 37.3 As catacumbas e a memória cristã
 
 # Semana 37
-Catacumba
+Arte romana
 
 ## Semana 38 - Arte Bizantina e ícones
 

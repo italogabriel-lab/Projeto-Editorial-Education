@@ -80,7 +80,7 @@ Atividade
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — idêntica ao Definir.]
 

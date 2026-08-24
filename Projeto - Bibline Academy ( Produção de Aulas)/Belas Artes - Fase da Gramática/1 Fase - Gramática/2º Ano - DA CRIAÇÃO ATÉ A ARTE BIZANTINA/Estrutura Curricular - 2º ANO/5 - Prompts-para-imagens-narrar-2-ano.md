@@ -1,7 +1,7 @@
 # Prompts para Imagens — Narrar (2º Ano)
 
-Este arquivo contém os prompts de geração de imagem para a seção **Narrar** de cada aula regular do 2º ano.
-Cada prompt segue o padrão de ilustração em aquarela infantil, simples e colorida, baseado no texto literário da aula.
+Este arquivo reúne os prompts de geração de imagem para a seção **Narrar** das aulas regulares do 2º ano.
+Os títulos e os trechos de referência são sincronizados com o Currículo Macro e com os textos atuais das aulas.
 
 ---
 
@@ -12,21 +12,18 @@ Cada prompt segue o padrão de ilustração em aquarela infantil, simples e colo
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave e contemplativa, ambiente belo e acolhedor.
-Paleta de cores: dourado claro, azul céu, verde folha, branco luz, marrom terra.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Antes que o homem criasse qualquer obra, Deus já havia criado luz, cor, forma e ordem.
-A criação inteira mostra que a arte começa no próprio caráter do Criador."
+"A criação mostra a arte de Deus em cada forma, cor e ordem do mundo."
 
 Composição da cena
-
-A ilustração deve mostrar uma paisagem ampla da criação com luz surgindo sobre montanhas, rio, árvores e flores.
-Elementos visuais: céu luminoso, água calma, flores coloridas, pássaros simples, atmosfera de começo e ordem.
-
-Linguagem visual: reverência, origem, beleza criada por Deus.
+A cena deve representar visualmente **A arte vem de Deus**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A criação mostra a arte de Deus em cada forma, cor e ordem do mundo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 1.2 — A criação é bela
@@ -34,21 +31,18 @@ Linguagem visual: reverência, origem, beleza criada por Deus.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente alegre e harmonioso.
-Paleta de cores: azul claro, verde relva, amarelo sol, rosa flor, branco nuvem.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A beleza da criação revela a bondade de Deus.
-Cada forma, cor e proporção convida o coração à contemplação."
+"A criação mostra beleza em cada forma feita por Deus."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança observando a paisagem com atenção, cercada por flores, árvores, montanhas e um rio.
-Elementos visuais: criança parada contemplando, flores variadas, água refletindo a luz, céu limpo.
-
-Linguagem visual: admiração, contemplação, harmonia da criação.
+A cena deve representar visualmente **A criação é bela**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A criação mostra beleza em cada forma feita por Deus.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 1.3 — Feitos à imagem do Criador
@@ -56,21 +50,18 @@ Linguagem visual: admiração, contemplação, harmonia da criação.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz acolhedora, ambiente criativo e sereno.
-Paleta de cores: amarelo claro, azul suave, verde, laranja, marrom madeira.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O homem cria porque foi feito à imagem do Criador.
-Quando pinta, constrói e cuida, ele reflete de modo limitado a sabedoria de Deus."
+"A criação revela a imagem do Criador em cada forma e beleza do mundo."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança desenhando ou modelando, com sinais de criação ao redor.
-Elementos visuais: papel, lápis, formas simples, mãos em ação, expressão concentrada e alegre.
-
-Linguagem visual: criatividade, responsabilidade, imagem de Deus.
+A cena deve representar visualmente **Feitos à imagem do Criador**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A criação revela a imagem do Criador em cada forma e beleza do mundo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
@@ -82,21 +73,18 @@ Linguagem visual: criatividade, responsabilidade, imagem de Deus.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente bíblico e natural.
-Paleta de cores: verde oliva, azul do céu, bege areia, marrom terra, dourado claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Nos primeiros dias da história humana, o homem já nomeava, organizava e trabalhava.
-Esses atos mostram a habilidade dada por Deus desde o início."
+"O ofício aparece nos primeiros dias como a habilidade que Deus deu ao homem para criar."
 
 Composição da cena
-
-A ilustração deve mostrar uma família antiga em ambiente natural, observando animais, trabalhando e organizando o espaço.
-Elementos visuais: campo aberto, animais próximos, gestos de cuidado e nomeação, atmosfera de começo da humanidade.
-
-Linguagem visual: origem, vocação, primeiros gestos criativos.
+A cena deve representar visualmente **Arte nos primeiros dias**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ofício aparece nos primeiros dias como a habilidade que Deus deu ao homem para criar.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 2.2 — Jubal e o som da música
@@ -104,113 +92,98 @@ Linguagem visual: origem, vocação, primeiros gestos criativos.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave e musical, ambiente campestre.
-Paleta de cores: azul claro, verde campo, marrom madeira, dourado suave, creme.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Jubal ouviu sons da criação e organizou vibrações em música.
-O dom do som tornou-se expressão de ordem, beleza e alegria."
+"O ofício aparece na música quando Jubal usa a habilidade que Deus lhe deu para criar música."
 
 Composição da cena
-
-A ilustração deve mostrar Jubal ou um músico antigo com harpa e flauta em espaço aberto.
-Elementos visuais: instrumento de corda, flauta simples, árvores, vento leve, pássaros próximos.
-
-Linguagem visual: escuta, som, nascimento da música.
+A cena deve representar visualmente **Jubal e o som da música**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ofício aparece na música quando Jubal usa a habilidade que Deus lhe deu para criar música.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 2.3 — Tubalcaim e o ferro em chamas
+### Aula 2.3 — Tubalcaim e o ofício do metal
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente, ambiente de oficina antiga.
-Paleta de cores: vermelho fogo, laranja brasa, cinza metal, marrom escuro, dourado quente.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Tubalcaim aqueceu o metal e o moldou com habilidade.
-O trabalho das mãos transformou matéria bruta em instrumento útil."
+"O ofício aparece quando o homem usa as mãos para criar formas de metal."
 
 Composição da cena
-
-A ilustração deve mostrar uma pequena oficina com fogo, martelo e metal em transformação.
-Elementos visuais: brasa brilhante, ferramenta simples, ferro aquecido, gesto firme e concentrado.
-
-Linguagem visual: trabalho, transformação, domínio responsável.
+A cena deve representar visualmente **Tubalcaim e o ofício do metal**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ofício aparece quando o homem usa as mãos para criar formas de metal.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 3
 
-### Aula 3.1 — Arte como louvor
+### Aula 3.1 — A arte como louvor
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz alegre, ambiente de celebração reverente.
-Paleta de cores: azul claro, dourado, verde, vermelho suave, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte verdadeira pode tornar-se louvor quando nasce da gratidão.
-Cores, sons e formas se unem para glorificar ao Criador."
+"O louvor nasce quando o coração responde à bondade de Deus com gratidão."
 
 Composição da cena
-
-A ilustração deve mostrar crianças cantando, desenhando e celebrando em ambiente simples.
-Elementos visuais: instrumentos leves, folhas com arte, gestos de alegria, céu claro.
-
-Linguagem visual: gratidão, culto, alegria ordenada.
+A cena deve representar visualmente **A arte como louvor**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O louvor nasce quando o coração responde à bondade de Deus com gratidão.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 3.2 — Cores que expressam sentimentos
+### Aula 3.2 — A beleza do louvor na música
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente expressivo e harmonioso.
-Paleta de cores: azul calmo, amarelo alegre, vermelho vivo, verde esperança, roxo contemplativo.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As cores podem sugerir calma, alegria, reverência e movimento.
-Elas falam ao coração sem usar palavras."
+"O louvor revela a beleza de Deus quando a música expressa gratidão."
 
 Composição da cena
-
-A ilustração deve mostrar manchas de cor organizadas em torno de uma criança contemplando uma pintura.
-Elementos visuais: blocos cromáticos, pincel, expressão serena, fundo claro.
-
-Linguagem visual: emoção, sensibilidade, linguagem das cores.
+A cena deve representar visualmente **A beleza do louvor na música**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O louvor revela a beleza de Deus quando a música expressa gratidão.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 3.3 — O som da alegria
+### Aula 3.3 — O som do louvor a Deus
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz festiva, ambiente aberto e comunitário.
-Paleta de cores: amarelo sol, azul claro, verde vivo, vermelho alegre, laranja.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A música alegre nasce quando o coração responde com gratidão.
-O som organizado pode expressar celebração e esperança."
+"O louvor expressa alegria quando a música usa o som para agradecer a Deus."
 
 Composição da cena
-
-A ilustração deve mostrar um pequeno grupo cantando ou tocando junto com alegria.
-Elementos visuais: mãos batendo ritmo, instrumento simples, rostos sorridentes, movimento leve.
-
-Linguagem visual: celebração, ritmo, alegria compartilhada.
+A cena deve representar visualmente **O som do louvor a Deus**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O louvor expressa alegria quando a música usa o som para agradecer a Deus.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
@@ -222,21 +195,18 @@ Linguagem visual: celebração, ritmo, alegria compartilhada.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente de narrativa visual.
-Paleta de cores: azul suave, verde, bege claro, vermelho leve, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A imagem pode guardar memória e ensinar.
-Uma sequência de cenas ajuda o olhar a acompanhar uma história."
+"A imagem guarda memória e ensina uma verdade por meio de formas visíveis."
 
 Composição da cena
-
-A ilustração deve mostrar um painel ou mural com três pequenas cenas em sequência.
-Elementos visuais: figuras simples, molduras, gestos narrativos, criança observando.
-
-Linguagem visual: memória, narrativa, leitura da imagem.
+A cena deve representar visualmente **Imagens que contam histórias**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A imagem guarda memória e ensina uma verdade por meio de formas visíveis.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 4.2 — Luz nas pinturas
@@ -244,21 +214,18 @@ Linguagem visual: memória, narrativa, leitura da imagem.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz marcada, ambiente contemplativo.
-Paleta de cores: dourado suave, azul escuro, branco luminoso, marrom, cinza claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A luz orienta o olhar e destaca o que a imagem deseja mostrar.
-Claridade e sombra ajudam a criar sentido."
+"A imagem usa a luz para revelar a memória e a verdade na pintura."
 
 Composição da cena
-
-A ilustração deve mostrar um quadro ou parede iluminada por uma janela lateral.
-Elementos visuais: faixa de luz, sombra suave, figura principal destacada, ambiente silencioso.
-
-Linguagem visual: foco, revelação, direção do olhar.
+A cena deve representar visualmente **Luz nas pinturas**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A imagem usa a luz para revelar a memória e a verdade na pintura.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 4.3 — O que a arte revela sobre Deus
@@ -266,21 +233,18 @@ Linguagem visual: foco, revelação, direção do olhar.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave e elevada, ambiente reverente.
-Paleta de cores: azul céu, branco, dourado claro, verde, rosa leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte pode apontar para a ordem, a beleza e o cuidado de Deus.
-Quando olha com atenção, o aluno percebe sinais do Criador."
+"A imagem é a forma visível que revela a verdade sobre Deus por meio da beleza."
 
 Composição da cena
-
-A ilustração deve unir natureza, imagem e gesto humano em uma só cena harmoniosa.
-Elementos visuais: criança observando quadro e paisagem, céu luminoso, flores, água.
-
-Linguagem visual: discernimento, glória, contemplação.
+A cena deve representar visualmente **O que a arte revela sobre Deus**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A imagem é a forma visível que revela a verdade sobre Deus por meio da beleza.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
@@ -292,21 +256,18 @@ Linguagem visual: discernimento, glória, contemplação.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de começo e ordem, ambiente sereno.
-Paleta de cores: azul profundo, branco, verde novo, dourado, marrom terra.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A criatividade humana vem do Deus que criou com ordem e bondade.
-Cada ato criativo reflete algo da sabedoria do início."
+"Dom criativo é a capacidade que Deus deu para o homem criar com ordem e beleza."
 
 Composição da cena
-
-A ilustração deve mostrar sinais de ordem surgindo no mundo criado.
-Elementos visuais: céu, água, terra, plantas jovens, mãos preparando algo simples.
-
-Linguagem visual: começo, ordem, vocação criativa.
+A cena deve representar visualmente **O dom criativo em Gênesis**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: Dom criativo é a capacidade que Deus deu para o homem criar com ordem e beleza.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 5.2 — No princípio, Deus criou
@@ -314,21 +275,18 @@ Linguagem visual: começo, ordem, vocação criativa.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz dramática e limpa, ambiente de origem.
-Paleta de cores: preto suave, azul profundo, branco luminoso, dourado, cinza leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"No princípio, Deus trouxe ordem, separou luz e trevas e formou um mundo bom.
-Tudo começou pela ação soberana do Criador."
+"O dom criativo mostra a capacidade de Deus ao criar tudo com ordem."
 
 Composição da cena
-
-A ilustração deve mostrar contraste entre trevas e luz se abrindo.
-Elementos visuais: metade escura, metade clara, horizonte nascendo, sensação de início.
-
-Linguagem visual: origem, separação, majestade.
+A cena deve representar visualmente **No princípio, Deus criou**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O dom criativo mostra a capacidade de Deus ao criar tudo com ordem.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 5.3 — O homem criador
@@ -336,47 +294,41 @@ Linguagem visual: origem, separação, majestade.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz acolhedora, ambiente de trabalho criativo.
-Paleta de cores: amarelo claro, azul, verde, marrom madeira, laranja.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O homem não cria do nada, mas organiza e transforma o que Deus fez.
-Criar é servir com inteligência, cuidado e gratidão."
+"Dom criativo é a capacidade que Deus deu ao homem para criar com ordem e transformar o mundo."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança construindo, desenhando e organizando materiais.
-Elementos visuais: blocos, papel, cordão, formas simples, postura atenta.
-
-Linguagem visual: serviço, invenção, responsabilidade.
+A cena deve representar visualmente **O homem criador**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: Dom criativo é a capacidade que Deus deu ao homem para criar com ordem e transformar o mundo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 6
 
-### Aula 6.1 — Deus, o grande colorista
+### Aula 6.1 — A cor na criação de Deus
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz ampla e alegre, ambiente natural exuberante.
-Paleta de cores: azul brilhante, verde vivo, amarelo, vermelho flor, violeta.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A criação exibe uma paleta rica e ordenada.
-As cores não surgem por acaso, mas como parte da beleza criada por Deus."
+"A cor revela a beleza que Deus colocou na criação para o olhar contemplar."
 
 Composição da cena
-
-A ilustração deve mostrar uma paisagem muito colorida com céu, flores, árvores, água e animais pequenos.
-Elementos visuais: faixas de cor, variedade cromática, equilíbrio e vida.
-
-Linguagem visual: exuberância, harmonia, gratidão.
+A cena deve representar visualmente **A cor na criação de Deus**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A cor revela a beleza que Deus colocou na criação para o olhar contemplar.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 6.2 — O arco da aliança
@@ -384,43 +336,37 @@ Linguagem visual: exuberância, harmonia, gratidão.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz depois da chuva, ambiente pacífico.
-Paleta de cores: azul céu, verde folha, amarelo leve, violeta, vermelho suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O arco-íris é sinal de promessa e fidelidade.
-As cores da aliança lembram cuidado, misericórdia e esperança."
+"A cor do arco revela a glória e a promessa de Deus."
 
 Composição da cena
-
-A ilustração deve mostrar um vale ou campo após a chuva com arco-íris bem visível.
-Elementos visuais: nuvens se abrindo, poças de água, colina, luz tranquila.
-
-Linguagem visual: promessa, paz, esperança.
+A cena deve representar visualmente **O arco da aliança**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A cor do arco revela a glória e a promessa de Deus.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 6.3 — Explorando o círculo cromático
+### Aula 6.3 — O círculo cromático
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara de estudo, ambiente de descoberta.
-Paleta de cores: vermelho, azul, amarelo, verde, laranja, violeta.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As cores podem ser organizadas para mostrar relação, mistura e contraste.
-O círculo cromático ajuda o aluno a perceber ordem dentro da variedade."
+"A cor organiza o círculo cromático da criação com ordem e beleza."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança olhando ou montando um círculo cromático com tintas.
-Elementos visuais: pote de tinta, pincel, roda de cores, mãos pequenas em ação.
-
-Linguagem visual: estudo, organização, descoberta.
+A cena deve representar visualmente **O círculo cromático**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A cor organiza o círculo cromático da criação com ordem e beleza.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
@@ -432,21 +378,18 @@ Linguagem visual: estudo, organização, descoberta.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente didático e alegre.
-Paleta de cores: vermelho, azul, amarelo, verde, laranja, violeta.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As cores primárias estão na base da mistura.
-Delas nascem novas combinações que ampliam a linguagem visual."
+"O matiz distingue as cores primárias das secundárias revelando profundidade na arte."
 
 Composição da cena
-
-A ilustração deve mostrar tintas primárias sendo misturadas para formar cores secundárias.
-Elementos visuais: círculos de tinta, pincel, bandeja de mistura, fundo simples.
-
-Linguagem visual: clareza, ensino, transformação.
+A cena deve representar visualmente **Cores primárias e secundárias**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O matiz distingue as cores primárias das secundárias revelando profundidade na arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 7.2 — O poder do matiz e da luz
@@ -454,21 +397,18 @@ Linguagem visual: clareza, ensino, transformação.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz variável, ambiente sensível e delicado.
-Paleta de cores: azul frio, dourado quente, cinza claro, rosa suave, verde leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Uma mesma cor pode parecer diferente com mais luz ou mais sombra.
-O matiz ajuda o olhar a perceber nuance e profundidade."
+"O matiz usa a variação de luz para revelar profundidade e beleza na obra de arte."
 
 Composição da cena
-
-A ilustração deve mostrar uma mesma cena em variações de luz e intensidade de cor.
-Elementos visuais: duas áreas semelhantes com diferença de brilho, sombra e tom.
-
-Linguagem visual: nuance, percepção, sensibilidade.
+A cena deve representar visualmente **O poder do matiz e da luz**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O matiz usa a variação de luz para revelar profundidade e beleza na obra de arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 7.3 — O céu como tela divina
@@ -476,21 +416,18 @@ Linguagem visual: nuance, percepção, sensibilidade.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz poética, ambiente aberto e contemplativo.
-Paleta de cores: azul amanhecer, dourado sol, rosa nuvem, laranja entardecer, violeta noite.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O céu muda de cor ao longo do dia e ensina a linguagem da luz.
-Cada hora revela nova beleza sobre a grande tela divina."
+"O matiz é a variação de cor que revela a profundidade do céu como tela divina."
 
 Composição da cena
-
-A ilustração deve mostrar o horizonte em três momentos, manhã, tarde e entardecer.
-Elementos visuais: nuvens leves, sol baixo, gradações suaves, linha do horizonte.
-
-Linguagem visual: passagem do tempo, beleza do céu, contemplação.
+A cena deve representar visualmente **O céu como tela divina**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O matiz é a variação de cor que revela a profundidade do céu como tela divina.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
@@ -502,21 +439,18 @@ Linguagem visual: passagem do tempo, beleza do céu, contemplação.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz tranquila, ambiente sensorial e acolhedor.
-Paleta de cores: azul suave, verde claro, amarelo pálido, branco, marrom claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O ouvido aprende a perceber o som do vento, da água e da voz.
-Certos sons acalmam, chamam atenção e despertam o coração."
+"O som toca o coração porque o ouvido percebe sua ordem e beleza na criação."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança ouvindo a natureza com atenção.
-Elementos visuais: água corrente, folhas movidas pelo vento, pássaros, expressão serena.
-
-Linguagem visual: escuta, atenção, sensibilidade.
+A cena deve representar visualmente **Sons que tocam o coração**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O som toca o coração porque o ouvido percebe sua ordem e beleza na criação.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 8.2 — Ritmo e melodia
@@ -524,21 +458,18 @@ Linguagem visual: escuta, atenção, sensibilidade.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz leve, ambiente musical e ordenado.
-Paleta de cores: azul, amarelo, verde, vermelho suave, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Ritmo organiza a repetição e melodia conduz o som.
-Juntos, eles formam um caminho musical que o ouvido pode seguir."
+"O som organiza ritmo e melodia para formar ordem e beleza."
 
 Composição da cena
-
-A ilustração deve mostrar notas simples e gestos rítmicos organizados em sequência.
-Elementos visuais: palmas, linhas musicais, pequenos instrumentos, repetição visual.
-
-Linguagem visual: ordem sonora, sequência, musicalidade.
+A cena deve representar visualmente **Ritmo e melodia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O som organiza ritmo e melodia para formar ordem e beleza.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ### Aula 8.3 — Vozes dos instrumentos
@@ -546,1699 +477,1480 @@ Linguagem visual: ordem sonora, sequência, musicalidade.
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente de descoberta musical.
-Paleta de cores: marrom madeira, dourado, azul claro, verde leve, vermelho suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Cada instrumento tem sua própria voz.
-Cordas, sopro e percussão falam de maneiras diferentes, mas podem trabalhar juntos."
+"O som dos instrumentos revela a beleza da criação ao ouvido."
 
 Composição da cena
-
-A ilustração deve mostrar alguns instrumentos simples lado a lado, como flauta, tambor e cordas.
-Elementos visuais: objetos bem definidos, fundo leve, comparação tranquila entre formas.
-
-Linguagem visual: variedade, comparação, unidade sonora.
+A cena deve representar visualmente **Vozes dos instrumentos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O som dos instrumentos revela a beleza da criação ao ouvido.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 11
 
-### Aula 11.1 — Aprender a observar
+### Aula 11.1 — A arte dos primeiros homens
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz limpa, ambiente de atenção e descoberta.
-Paleta de cores: azul claro, bege, verde, amarelo suave, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Observar exige calma, foco e tempo.
-O artista aprende a ver detalhes que um olhar apressado não percebe."
+"A arte rupestre revela a memória dos primeiros homens em pinturas feitas nas rochas."
 
 Composição da cena
-
-A ilustração deve mostrar uma criança diante de uma obra ou objeto, olhando com concentração.
-Elementos visuais: quadro, detalhe ampliado, postura tranquila, gesto de análise.
-
-Linguagem visual: foco, paciência, atenção.
+A cena deve representar visualmente **A arte dos primeiros homens**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte rupestre revela a memória dos primeiros homens em pinturas feitas nas rochas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 11.2 — Composição e luz nas obras
+### Aula 11.2 — A primeira galeria da humanidade
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz direcionada, ambiente visualmente equilibrado.
-Paleta de cores: dourado leve, azul, cinza claro, verde, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A composição organiza as partes da obra.
-A luz ajuda a destacar o que deve ser visto primeiro."
+"A arte rupestre forma uma galeria de memória visual nas paredes das cavernas."
 
 Composição da cena
-
-A ilustração deve mostrar uma obra simples com foco principal iluminado.
-Elementos visuais: enquadramento claro, área de destaque, contraste suave, equilíbrio.
-
-Linguagem visual: organização, direção do olhar, equilíbrio.
+A cena deve representar visualmente **A primeira galeria da humanidade**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte rupestre forma uma galeria de memória visual nas paredes das cavernas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 11.3 — Forma e emoção na música
+### Aula 11.3 — As grandes cavernas da arte rupestre
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente emocional e ordenado.
-Paleta de cores: azul profundo, dourado leve, vinho claro, verde, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A música também tem forma.
-Ela pode conduzir emoção, intensidade e pausa com ordem."
+"A arte rupestre usa a forma das grandes cavernas para organizar as pinturas."
 
 Composição da cena
-
-A ilustração deve mostrar um músico ou criança tocando com expressão concentrada.
-Elementos visuais: instrumento, linhas musicais, postura sensível, ambiente silencioso.
-
-Linguagem visual: forma, emoção, escuta profunda.
+A cena deve representar visualmente **As grandes cavernas da arte rupestre**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte rupestre usa a forma das grandes cavernas para organizar as pinturas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 12
 
-### Aula 12.1 — A primeira galeria da humanidade
+### Aula 12.1 — Símbolos nas cavernas
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente de fogo, ambiente de caverna e descoberta.
-Paleta de cores: ocre, marrom, vermelho terra, laranja suave, cinza pedra.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As primeiras paredes pintadas guardaram memória, caça e sobrevivência.
-A caverna tornou-se uma galeria antiga da humanidade."
+"O símbolo guarda presença, animal e memória nas marcas visuais das cavernas antigas."
 
 Composição da cena
-
-A ilustração deve mostrar pessoas diante de uma parede de caverna com pinturas simples.
-Elementos visuais: rocha irregular, fogo pequeno, silhuetas, figuras de animais.
-
-Linguagem visual: antiguidade, memória, descoberta.
+A cena deve representar visualmente **Símbolos nas cavernas**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O símbolo guarda presença, animal e memória nas marcas visuais das cavernas antigas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 12.2 — Caçadas e cenas antigas
+### Aula 12.2 — Animais na arte rupestre
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz baixa e terrosa, ambiente narrativo.
-Paleta de cores: marrom, ocre, preto suave, vermelho terra, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Caçadas e deslocamentos foram registrados em imagens simples.
-A arte serviu para contar o que o grupo viveu."
+"O símbolo usa o animal para guardar presença e memória nas marcas das cavernas."
 
 Composição da cena
-
-A ilustração deve mostrar cena antiga com pessoas, animais e movimento simples.
-Elementos visuais: figuras alongadas, rebanho ou caça, chão pedregoso, ritmo narrativo.
-
-Linguagem visual: ação, sobrevivência, registro.
+A cena deve representar visualmente **Animais na arte rupestre**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O símbolo usa o animal para guardar presença e memória nas marcas das cavernas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 12.3 — As grandes cavernas da arte rupestre
+### Aula 12.3 — A caverna como memória
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de tocha suave, ambiente amplo e misterioso.
-Paleta de cores: cinza pedra, ocre, laranja, vermelho escuro, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Grandes cavernas guardam paredes e tetos cobertos por imagens.
-O espaço inteiro se tornou lugar de memória visual."
+"O símbolo é a marca visual que transforma a caverna em lugar de memória dos que viveram."
 
 Composição da cena
-
-A ilustração deve mostrar teto e parede de caverna com várias pinturas rupestres.
-Elementos visuais: profundidade, forma rochosa, figuras repetidas, sensação de grandeza.
-
-Linguagem visual: amplitude, memória, antiguidade.
+A cena deve representar visualmente **A caverna como memória**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O símbolo é a marca visual que transforma a caverna em lugar de memória dos que viveram.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 13
 
-### Aula 13.1 — Símbolos nas cavernas
+### Aula 13.1 — Pinturas em Lascaux
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz baixa e misteriosa, ambiente arqueológico.
-Paleta de cores: vermelho argila, marrom, bege, cinza, preto suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Mãos, marcas e sinais foram deixados nas cavernas como vestígios de presença.
-Cada símbolo dizia algo sobre o grupo e sua memória."
+"O contorno define a forma, a silhueta e a imagem nas pinturas das rochas de Lascaux."
 
 Composição da cena
-
-A ilustração deve mostrar parede rochosa com mãos impressas e sinais simples.
-Elementos visuais: marcas repetidas, textura de pedra, proximidade do olhar.
-
-Linguagem visual: símbolo, rastro, identidade.
+A cena deve representar visualmente **Pinturas em Lascaux**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O contorno define a forma, a silhueta e a imagem nas pinturas das rochas de Lascaux.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 13.2 — Animais e mistérios na arte rupestre
+### Aula 13.2 — Formas na arte de Altamira
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de fogo e sombra, ambiente de tensão e admiração.
-Paleta de cores: ocre, preto, vermelho escuro, marrom, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Animais grandes e fortes ocuparam o imaginário rupestre.
-As imagens misturam observação, temor e fascínio."
+"O contorno usa a linha para definir a forma e a silhueta na arte rupestre de Altamira."
 
 Composição da cena
-
-A ilustração deve mostrar bisões ou cervos em movimento sobre a parede da caverna.
-Elementos visuais: sombra projetada, contorno forte, sensação de vida animal.
-
-Linguagem visual: força, mistério, fascínio.
+A cena deve representar visualmente **Formas na arte de Altamira**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O contorno usa a linha para definir a forma e a silhueta na arte rupestre de Altamira.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 13.3 — A caverna como memória
+### Aula 13.3 — Contornos e silhuetas rupestres
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de abrigo, ambiente íntimo e antigo.
-Paleta de cores: marrom, laranja fogo, ocre, cinza, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A caverna guardava abrigo, fogo e lembranças.
-O espaço se tornou lugar de reunião e memória compartilhada."
+"O contorno é a linha que define a forma e a silhueta como imagem visível na rocha."
 
 Composição da cena
-
-A ilustração deve mostrar interior de caverna com fogo pequeno e parede marcada por pinturas.
-Elementos visuais: grupo reunido, pedra, calor, registro visual ao fundo.
-
-Linguagem visual: abrigo, lembrança, comunidade.
+A cena deve representar visualmente **Contornos e silhuetas rupestres**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O contorno é a linha que define a forma e a silhueta como imagem visível na rocha.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 14
 
-### Aula 14.1 — Viagem às cavernas da arte
+### Aula 14.1 — Esculturas portáteis
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de descoberta, ambiente de exploração respeitosa.
-Paleta de cores: azul claro, verde musgo, cinza pedra, marrom, dourado leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Entrar nas cavernas da arte é viajar para os começos da memória visual humana.
-Cada parede antiga conta algo sobre o passado."
+"A escultura portátil apresenta volume, corpo e presença em uma forma tridimensional."
 
 Composição da cena
-
-A ilustração deve mostrar entrada de caverna e pessoas pequenas se aproximando com curiosidade.
-Elementos visuais: rocha, trilha, abertura escura, vegetação ao redor.
-
-Linguagem visual: exploração, descoberta, respeito ao passado.
+A cena deve representar visualmente **Esculturas portáteis**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura portátil apresenta volume, corpo e presença em uma forma tridimensional.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 14.2 — Formas nas pinturas em Lascaux
+### Aula 14.2 — A Vênus de Willendorf
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de observação, ambiente artístico antigo.
-Paleta de cores: ocre, marrom, vermelho terra, bege, preto suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Em Lascaux, as formas dos animais ocupam o espaço com movimento e equilíbrio.
-Os contornos revelam atenção e observação cuidadosa."
+"A escultura portátil mostra volume e corpo na Vênus de Willendorf."
 
 Composição da cena
-
-A ilustração deve mostrar parede com figuras animais de Lascaux em composição ampla.
-Elementos visuais: contornos, curvas, repetição, fundo de pedra.
-
-Linguagem visual: forma, observação, ritmo visual.
+A cena deve representar visualmente **A Vênus de Willendorf**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura portátil mostra volume e corpo na Vênus de Willendorf.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 14.3 — Altamira e seus búfalos
+### Aula 14.3 — O corpo como forma na arte pré-histórica
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente, ambiente de teto pintado.
-Paleta de cores: vermelho escuro, marrom, preto, bege, ocre dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os búfalos de Altamira impressionam pela força e pela presença.
-O teto da caverna se torna grande superfície de imagem."
+"A escultura portátil apresenta o corpo como forma tridimensional na arte pré-histórica."
 
 Composição da cena
-
-A ilustração deve mostrar o teto da caverna com grandes bisões pintados.
-Elementos visuais: vista inclinada para cima, corpos robustos, cor terrosa, impacto visual.
-
-Linguagem visual: presença, força, grandeza.
+A cena deve representar visualmente **O corpo como forma na arte pré-histórica**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura portátil apresenta o corpo como forma tridimensional na arte pré-histórica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 15
 
-### Aula 15.1 — Esculturas na antiguidade
+### Aula 15.1 — Megálitos e monumentos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz neutra, ambiente de objeto arqueológico.
-Paleta de cores: bege pedra, marrom barro, cinza, ocre, dourado leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A escultura antiga deu forma tridimensional à memória e ao símbolo.
-Pedra e barro ganharam corpo e presença."
+"O megalito é uma grande pedra que marca paisagens e memórias."
 
 Composição da cena
-
-A ilustração deve mostrar pequenas esculturas antigas dispostas em superfície simples.
-Elementos visuais: figura de pedra, barro modelado, sombra curta, sensação de volume.
-
-Linguagem visual: matéria, forma, tridimensionalidade.
+A cena deve representar visualmente **Megálitos e monumentos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O megalito é uma grande pedra que marca paisagens e memórias.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 15.2 — Estátuas e significados
+### Aula 15.2 — Stonehenge como monumento
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de interior ritual, ambiente simbólico.
-Paleta de cores: bege, marrom, dourado claro, vermelho escuro, cinza.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Uma estátua pode carregar memória, honra e crença.
-A forma visível comunica significado a quem a contempla."
+"O megalito de Stonehenge reúne cada pedra em uma paisagem que marca tempo e lugar."
 
 Composição da cena
-
-A ilustração deve mostrar uma estátua antiga em destaque, cercada por espaço simples e respeitoso.
-Elementos visuais: pedestal, objeto central, gestos de reverência ou observação.
-
-Linguagem visual: símbolo, presença, interpretação.
+A cena deve representar visualmente **Stonehenge como monumento**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O megalito de Stonehenge reúne cada pedra em uma paisagem que marca tempo e lugar.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 15.3 — O símbolo da fertilidade
+### Aula 15.3 — Pedras, escala e paisagem
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente arqueológico e discreto.
-Paleta de cores: ocre, marrom claro, bege, vermelho argila, cinza.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Certas pequenas figuras antigas expressavam ideias de vida, abundância e continuidade.
-O símbolo mostra o que um povo desejava proteger ou celebrar."
+"O megalito organiza grandes pedras nas paisagens e preserva sua memória."
 
 Composição da cena
-
-A ilustração deve mostrar uma pequena estatueta antiga em contexto de estudo arqueológico.
-Elementos visuais: superfície de pedra, objeto central pequeno, caderno ou ferramentas ao lado.
-
-Linguagem visual: símbolo, antiguidade, reflexão.
+A cena deve representar visualmente **Pedras, escala e paisagem**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O megalito organiza grandes pedras nas paisagens e preserva sua memória.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 16
 
-### Aula 16.1 — Megálitos e monumentos
+### Aula 16.1 — Música da terra
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz aberta, ambiente ventoso e antigo.
-Paleta de cores: cinza pedra, verde campo, azul céu, marrom terra, dourado suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Grandes pedras erguidas mostram esforço comum, memória e intenção.
-O monumento faz o olhar parar diante do que um povo quis marcar."
+"A flauta aparece em vestígios pré-históricos como instrumento de sopro."
 
 Composição da cena
-
-A ilustração deve mostrar pedras erguidas em campo aberto.
-Elementos visuais: pedras altas, gramado, nuvens, sensação de peso e permanência.
-
-Linguagem visual: monumento, memória, escala.
+A cena deve representar visualmente **Música da terra**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A flauta aparece em vestígios pré-históricos como instrumento de sopro.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 16.2 — Stonehenge e o sol
+### Aula 16.2 — Flautas de osso
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz solar marcante, ambiente monumental.
-Paleta de cores: dourado do sol, azul claro, cinza pedra, verde pálido, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Stonehenge relaciona pedra, espaço e movimento do sol.
-O alinhamento ajuda a perceber tempo, direção e atenção ao céu."
+"A flauta de osso revela um vestígio da música pré-histórica."
 
 Composição da cena
-
-A ilustração deve mostrar o sol atravessando o alinhamento das pedras.
-Elementos visuais: círculo de pedras, horizonte, raio de luz, campo aberto.
-
-Linguagem visual: orientação, tempo, contemplação celeste.
+A cena deve representar visualmente **Flautas de osso**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A flauta de osso revela um vestígio da música pré-histórica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 16.3 — Rituais e arte celeste
+### Aula 16.3 — Percussão e sons antigos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz noturna suave, ambiente solene.
-Paleta de cores: azul noite, prata, cinza pedra, roxo escuro, dourado leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Sob o céu estrelado, povos antigos uniram gesto, espaço e observação.
-A arte celeste revela o desejo humano de ordem e transcendência."
+"A flauta produz som em registros da música pré-histórica."
 
 Composição da cena
-
-A ilustração deve mostrar pessoas reunidas perto de pedras sob céu cheio de estrelas.
-Elementos visuais: círculo de pedras, estrelas, postura coletiva, silêncio visual.
-
-Linguagem visual: solenidade, céu, busca de sentido.
+A cena deve representar visualmente **Percussão e sons antigos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A flauta produz som em registros da música pré-histórica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 17
 
-### Aula 17.1 — Música da terra
+### Aula 17.1 — A arte que une
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz natural, ambiente de escuta e natureza.
-Paleta de cores: verde folha, azul água, marrom terra, amarelo pálido, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A terra emite sons no vento, na água, nas folhas e nos passos.
-O ouvido atento aprende a perceber ritmo no próprio mundo criado."
+"A tradição une geração, grupo e memória pela arte que passa de um para outro."
 
 Composição da cena
-
-A ilustração deve mostrar criança escutando o ambiente natural com calma.
-Elementos visuais: água correndo, folhas movidas, pássaros, expressão de atenção.
-
-Linguagem visual: escuta, natureza, ritmo do mundo.
+A cena deve representar visualmente **A arte que une**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A tradição une geração, grupo e memória pela arte que passa de um para outro.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 17.2 — Flautas e tambores antigos
+### Aula 17.2 — Pintura em grupo
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente e simples, ambiente de instrumento tradicional.
-Paleta de cores: marrom madeira, bege, vermelho terra, dourado, azul suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Instrumentos antigos ampliaram a voz da terra.
-Flautas e tambores organizaram sopro, pulso e repetição."
+"A tradição une o grupo e a geração com a memória de pintar juntos pela arte."
 
 Composição da cena
-
-A ilustração deve mostrar flauta e tambor sobre chão simples ou em mãos humanas.
-Elementos visuais: textura de madeira, pele do tambor, gesto de tocar.
-
-Linguagem visual: tradição, ritmo, materialidade sonora.
+A cena deve representar visualmente **Pintura em grupo**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A tradição une o grupo e a geração com a memória de pintar juntos pela arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 17.3 — O som do fogo
+### Aula 17.3 — A tradição dos ancestrais
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente de fogueira, ambiente noturno acolhedor.
-Paleta de cores: laranja, vermelho, marrom escuro, azul noite, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O fogo estala, ilumina e marca o ritmo da noite.
-Seu som também ensina atenção, pausa e intensidade."
+"A tradição é o legado que passa de geração em geração unindo grupo e memória pela arte."
 
 Composição da cena
-
-A ilustração deve mostrar pessoas ou crianças ouvindo uma fogueira crepitar.
-Elementos visuais: faíscas pequenas, troncos, rostos iluminados, noite tranquila.
-
-Linguagem visual: calor, escuta, intensidade.
+A cena deve representar visualmente **A tradição dos ancestrais**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A tradição é o legado que passa de geração em geração unindo grupo e memória pela arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 18
 
-### Aula 18.1 — Pintura em grupo
+### Aula 18.1 — A arte pré-histórica e seus materiais
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente comunitário e alegre.
-Paleta de cores: azul, verde, amarelo, vermelho suave, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Pintar em grupo ensina cooperação, espera e partilha.
-A obra cresce quando muitas mãos trabalham juntas."
+"O pigmento é a cor da terra que forma mineral, carvão e superfície na arte pré-histórica."
 
 Composição da cena
-
-A ilustração deve mostrar várias crianças ou pessoas criando um mural coletivo.
-Elementos visuais: pincéis, tinta, parede larga, gestos de ajuda mútua.
-
-Linguagem visual: cooperação, trabalho comum, alegria partilhada.
+A cena deve representar visualmente **A arte pré-histórica e seus materiais**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O pigmento é a cor da terra que forma mineral, carvão e superfície na arte pré-histórica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 18.2 — A tradição dos ancestrais
+### Aula 18.2 — Pigmentos minerais e carvão
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente, ambiente de transmissão e cuidado.
-Paleta de cores: bege, marrom, dourado, verde claro, azul suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A tradição passa de pessoa para pessoa.
-O mais velho ensina, o mais novo observa e aprende."
+"O pigmento usa o mineral e o carvão para extrair da terra a cor da superfície da arte."
 
 Composição da cena
-
-A ilustração deve mostrar um adulto ou ancião ensinando um gesto artístico a crianças.
-Elementos visuais: roda pequena, mãos apontando, objeto ou pintura em processo.
-
-Linguagem visual: herança, ensino, continuidade.
+A cena deve representar visualmente **Pigmentos minerais e carvão**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O pigmento usa o mineral e o carvão para extrair da terra a cor da superfície da arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 18.3 — A arte que une
+### Aula 18.3 — Gravura e superfície rochosa
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de celebração simples, ambiente comunitário.
-Paleta de cores: amarelo claro, azul, verde, rosa leve, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte pode reunir pessoas em torno de uma memória, de uma tarefa e de uma alegria comum.
-Uma obra partilhada fortalece vínculos."
+"O pigmento é a cor que o artista extraiu da terra para marcar a superfície rochosa com arte."
 
 Composição da cena
-
-A ilustração deve mostrar grupo admirando ou concluindo uma obra feita junto.
-Elementos visuais: mural terminado, rostos tranquilos, proximidade, gesto de alegria.
-
-Linguagem visual: comunhão, vínculo, unidade.
+A cena deve representar visualmente **Gravura e superfície rochosa**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O pigmento é a cor que o artista extraiu da terra para marcar a superfície rochosa com arte.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 21
 
-### Aula 21.1 — Arte egípcia e simetria
+### Aula 21.1 — A Mesopotâmia e suas cidades
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz firme, ambiente antigo e ordenado.
-Paleta de cores: dourado, azul do Nilo, verde escuro, vermelho ocre, bege areia.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte egípcia organiza figuras com forte simetria e posição estável.
-A ordem visual ajuda a comunicar permanência e autoridade."
+"O zigurate aparece como uma torre escalonada que domina a cidade mesopotâmica."
 
 Composição da cena
-
-A ilustração deve mostrar parede egípcia com figuras organizadas em eixos claros.
-Elementos visuais: perfil egípcio, linhas horizontais, repetição e equilíbrio.
-
-Linguagem visual: ordem, rigidez, autoridade.
+A cena deve representar visualmente **A Mesopotâmia e suas cidades**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O zigurate aparece como uma torre escalonada que domina a cidade mesopotâmica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 21.2 — Pirâmides do deserto
+### Aula 21.2 — O zigurate como templo
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz quente do entardecer, ambiente amplo.
-Paleta de cores: dourado areia, laranja suave, azul claro, marrom, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As pirâmides dominam a paisagem e falam de permanência.
-Sua forma simples e grandiosa marca o horizonte do Egito."
+"O zigurate eleva o templo em níveis visuais e o destaca no centro da cidade mesopotâmica."
 
 Composição da cena
-
-A ilustração deve mostrar pirâmides sobre o deserto com céu aberto ao fundo.
-Elementos visuais: areia, sombras longas, linhas triangulares, espaço vasto.
-
-Linguagem visual: escala, permanência, monumentalidade.
+A cena deve representar visualmente **O zigurate como templo**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O zigurate eleva o templo em níveis visuais e o destaca no centro da cidade mesopotâmica.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 21.3 — A paisagem do Egito como influência artística
+### Aula 21.3 — A torre de Babel e o orgulho
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente de rio e deserto.
-Paleta de cores: azul água, verde palmeira, bege areia, dourado, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O Nilo, o deserto e as palmeiras moldaram o olhar egípcio.
-A paisagem influenciou cores, formas e temas da arte."
+"O zigurate e a torre de Babel mostram o antigo orgulho humano em construções de pedra."
 
 Composição da cena
-
-A ilustração deve mostrar rio, palmeiras, barco e deserto em equilíbrio.
-Elementos visuais: faixa de água, vegetação estreita, areia extensa, horizonte limpo.
-
-Linguagem visual: paisagem, contexto, influência visual.
+A cena deve representar visualmente **A torre de Babel e o orgulho**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O zigurate e a torre de Babel mostram o antigo orgulho humano em construções de pedra.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 22
 
-### Aula 22.1 — Símbolos da arte egípcia
+### Aula 22.1 — Estelas e relevos mesopotâmicos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de interior antigo, ambiente simbólico.
-Paleta de cores: dourado, azul escuro, verde, vermelho, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Símbolos egípcios como ankh, escaravelho e olhos comunicavam ideias de vida, proteção e poder.
-Cada forma tinha função visual e religiosa."
+"A estela aparece como uma pedra erguida com relevo, lei, poder e memória."
 
 Composição da cena
-
-A ilustração deve mostrar vários símbolos egípcios organizados em faixa clara.
-Elementos visuais: emblemas destacados, fundo de pedra, repetição ornamental.
-
-Linguagem visual: símbolo, significado, linguagem sagrada.
+A cena deve representar visualmente **Estelas e relevos mesopotâmicos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A estela aparece como uma pedra erguida com relevo, lei, poder e memória.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 22.2 — Anseio pela eternidade
+### Aula 22.2 — O código de Hamurábi
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave e solene, ambiente funerário.
-Paleta de cores: dourado, marrom, azul profundo, bege, verde escuro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O desejo de durar para sempre marcou os túmulos e as imagens do Egito.
-A arte procurou guardar nome, forma e memória."
+"A estela apresenta a lei gravada entre figuras e sinais do poder mesopotâmico."
 
 Composição da cena
-
-A ilustração deve mostrar câmara ou tumba com objetos bem organizados.
-Elementos visuais: sarcófago, parede decorada, brilho discreto, silêncio visual.
-
-Linguagem visual: permanência, memória, solenidade.
+A cena deve representar visualmente **O código de Hamurábi**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A estela apresenta a lei gravada entre figuras e sinais do poder mesopotâmico.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 22.3 — A busca pela imortalidade
+### Aula 22.3 — A lei gravada em pedra
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz dourada e silenciosa, ambiente ritual.
-Paleta de cores: dourado, azul escuro, bege, vermelho escuro, preto suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte egípcia tentou responder ao medo da morte com imagens de proteção e travessia.
-A busca pela imortalidade aparece em ritos e objetos."
+"A estela guarda a lei como memória visível em uma pedra erguida."
 
 Composição da cena
-
-A ilustração deve mostrar cena funerária idealizada com símbolos de passagem.
-Elementos visuais: máscara, objetos rituais, linhas estáveis, atmosfera séria.
-
-Linguagem visual: transcendência, busca, mistério.
+A cena deve representar visualmente **A lei gravada em pedra**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A estela guarda a lei como memória visível em uma pedra erguida.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 23
 
-### Aula 23.1 — Hieróglifos e histórias
+### Aula 23.1 — Selos cilíndricos e escrita cuneiforme
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de parede antiga, ambiente de escrita visual.
-Paleta de cores: bege pedra, azul, vermelho ocre, verde, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os hieróglifos unem sinal e imagem.
-Escrever também se tornou forma de narrar visualmente."
+"O relevo aparece nos selos cilíndricos como imagem elevada em uma superfície plana."
 
 Composição da cena
-
-A ilustração deve mostrar escriba ou parede coberta por sinais hieroglíficos.
-Elementos visuais: colunas de sinais, figura inclinada para escrever, textura de parede.
-
-Linguagem visual: escrita, imagem, narrativa.
+A cena deve representar visualmente **Selos cilíndricos e escrita cuneiforme**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O relevo aparece nos selos cilíndricos como imagem elevada em uma superfície plana.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 23.2 — Narrativa registrada nas paredes antigas
+### Aula 23.2 — Imagens do poder na Assíria
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz estável, ambiente de mural antigo.
-Paleta de cores: ocre, azul, verde, vermelho, bege claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As paredes antigas guardavam histórias em faixas, cenas e repetições.
-O olhar seguia a narrativa como quem lê um grande painel."
+"O relevo mostra o poder assírio em figuras de reis, animais e palácios."
 
 Composição da cena
-
-A ilustração deve mostrar parede com várias cenas dispostas em sequência horizontal.
-Elementos visuais: faixas narrativas, personagens pequenos, cor organizada, repetição.
-
-Linguagem visual: sequência, mural, história visual.
+A cena deve representar visualmente **Imagens do poder na Assíria**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O relevo mostra o poder assírio em figuras de reis, animais e palácios.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 23.3 — O poder dos símbolos
+### Aula 23.3 — Relevos de guerra e caça
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz concentrada, ambiente decorativo e simbólico.
-Paleta de cores: dourado, azul, verde, preto suave, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Símbolos e ornamentos moldam a imaginação e orientam o olhar.
-Eles podem marcar autoridade, proteção e identidade."
+"O relevo reúne cenas de guerra e caça em uma superfície plana de pedra."
 
 Composição da cena
-
-A ilustração deve mostrar conjunto de ornamentos e sinais egípcios em destaque.
-Elementos visuais: padrões repetidos, bordas, símbolos centrais, brilho leve.
-
-Linguagem visual: ornamento, poder, imaginação.
+A cena deve representar visualmente **Relevos de guerra e caça**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O relevo reúne cenas de guerra e caça em uma superfície plana de pedra.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 24
 
-### Aula 24.1 — As cores do Nilo
+### Aula 24.1 — Instrumentos e música na Mesopotâmia
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz aberta, ambiente de paisagem egípcia.
-Paleta de cores: azul do rio, verde faixa fértil, dourado areia, marrom barro, branco luz.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As cores do Nilo nascem da água, da vegetação e da areia.
-A paisagem distribui tons que também entram na arte."
+"A harpa aparece como instrumento musical de cordas e forma triangular."
 
 Composição da cena
-
-A ilustração deve mostrar o Nilo cortando a paisagem entre área verde e deserto.
-Elementos visuais: barco simples, palmeiras, faixa azul, margem fértil.
-
-Linguagem visual: geografia, cor, contraste natural.
+A cena deve representar visualmente **Instrumentos e música na Mesopotâmia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A harpa aparece como instrumento musical de cordas e forma triangular.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 24.2 — Paleta e significado nas cores
+### Aula 24.2 — Liras e harpas de Ur
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de ateliê antigo, ambiente de materiais.
-Paleta de cores: azul, verde, vermelho argila, dourado, preto leve.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Pigmentos e cores foram escolhidos com intenção.
-A paleta egípcia comunica sentido visual e simbólico."
+"A harpa produz sons por meio de suas cordas organizadas na forma triangular."
 
 Composição da cena
-
-A ilustração deve mostrar recipientes com pigmentos e superfície preparada para pintura.
-Elementos visuais: potes, pós coloridos, pincel simples, mãos organizando materiais.
-
-Linguagem visual: material, escolha, significado.
+A cena deve representar visualmente **Liras e harpas de Ur**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A harpa produz sons por meio de suas cordas organizadas na forma triangular.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 24.3 — Contraste no deserto e no rio
+### Aula 24.3 — O Hino Hurrita como registro antigo
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz nítida, ambiente de oposição visual.
-Paleta de cores: bege claro, azul intenso, verde vivo, dourado, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O contraste entre a água do rio e a areia do deserto chama o olhar.
-Esse encontro de cores e superfícies ajuda a formar a visualidade egípcia."
+"A harpa mantém sua forma triangular ao acompanhar o hino antigo."
 
 Composição da cena
-
-A ilustração deve mostrar lado árido e lado fértil em mesma paisagem.
-Elementos visuais: borda entre areia e água, vegetação estreita, céu aberto.
-
-Linguagem visual: contraste, ambiente, observação.
+A cena deve representar visualmente **O Hino Hurrita como registro antigo**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A harpa mantém sua forma triangular ao acompanhar o hino antigo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 25
 
-### Aula 25.1 — O labor na vida cotidiana do Egito
+### Aula 25.1 — A arte egípcia e a lei da frontalidade
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz diurna, ambiente de atividade comum.
-Paleta de cores: bege, verde, azul, marrom, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O trabalho diário de plantar, carregar e construir apareceu nas imagens do Egito.
-A arte registrou o ritmo do cotidiano."
+"A frontalidade aparece na apresentação frontal de uma figura na arte egípcia."
 
 Composição da cena
-
-A ilustração deve mostrar trabalhadores em tarefas simples perto do rio ou do campo.
-Elementos visuais: cestos, água, plantas, gestos repetidos, movimento organizado.
-
-Linguagem visual: cotidiano, esforço, registro.
+A cena deve representar visualmente **A arte egípcia e a lei da frontalidade**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A frontalidade aparece na apresentação frontal de uma figura na arte egípcia.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 25.2 — O adorno nas joias e tecidos antigos
+### Aula 25.2 — Pirâmides de Gizé
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz dourada, ambiente de detalhe e ornamentação.
-Paleta de cores: ouro, azul, vermelho, verde, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Joias e tecidos antigos revelavam cuidado com forma, cor e repetição.
-O adorno também falava de posição e gosto."
+"A frontalidade organiza a figura egípcia diante das pirâmides de Gizé."
 
 Composição da cena
-
-A ilustração deve mostrar colares, braceletes e tecidos decorados com padrões claros.
-Elementos visuais: linhas repetidas, brilho leve, textura, organização simétrica.
-
-Linguagem visual: adorno, delicadeza, repetição.
+A cena deve representar visualmente **Pirâmides de Gizé**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A frontalidade organiza a figura egípcia diante das pirâmides de Gizé.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 25.3 — O ofício representado nas pinturas
+### Aula 25.3 — A monumentalidade do Egito
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz estável, ambiente mural e funcional.
-Paleta de cores: ocre, azul, verde, marrom, vermelho suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As pinturas egípcias mostravam artesãos, trabalhadores e tarefas específicas.
-O ofício tornava-se memória visual."
+"A frontalidade permanece na arte egípcia em figuras, pirâmides e monumentos."
 
 Composição da cena
-
-A ilustração deve mostrar uma parede com pintores, artesãos ou agricultores em ação.
-Elementos visuais: ferramentas simples, gestos repetidos, personagens em fila ou faixa.
-
-Linguagem visual: trabalho, ofício, memória visual.
+A cena deve representar visualmente **A monumentalidade do Egito**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A frontalidade permanece na arte egípcia em figuras, pirâmides e monumentos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 26
 
-### Aula 26.1 — Máscaras, múmias e o desejo de preservar a vida
+### Aula 26.1 — Hieróglifos e imagem
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz baixa e respeitosa, ambiente funerário.
-Paleta de cores: dourado escuro, marrom, azul profundo, bege, verde apagado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Máscaras, múmias e túmulos mostram o desejo de guardar o corpo e a memória.
-A arte funerária tenta resistir ao esquecimento."
+"O hieróglifo aparece como símbolo sagrado que une imagem e escrita egípcia."
 
 Composição da cena
-
-A ilustração deve mostrar câmara funerária com máscara e sarcófago em destaque.
-Elementos visuais: faixa dourada, parede decorada, clima silencioso, organização ritual.
-
-Linguagem visual: preservação, memória, solenidade.
+A cena deve representar visualmente **Hieróglifos e imagem**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O hieróglifo aparece como símbolo sagrado que une imagem e escrita egípcia.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 26.2 — Composição em amuletos e sarcófagos
+### Aula 26.2 — Narrativa nas paredes dos templos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz focada, ambiente de objeto ritual.
-Paleta de cores: dourado, azul, vermelho escuro, verde, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Amuletos e sarcófagos organizam sinais, figuras e padrões com intenção.
-A composição visual ajuda a reforçar a ideia de proteção."
+"O hieróglifo transforma a imagem em narrativa nas paredes dos templos egípcios."
 
 Composição da cena
-
-A ilustração deve mostrar objetos funerários organizados lado a lado.
-Elementos visuais: pequenos objetos, faixas decorativas, simetria, repetição.
-
-Linguagem visual: composição, proteção, ordem visual.
+A cena deve representar visualmente **Narrativa nas paredes dos templos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O hieróglifo transforma a imagem em narrativa nas paredes dos templos egípcios.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 26.3 — A transcendência buscada na arte egípcia
+### Aula 26.3 — O poder dos símbolos egípcios
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz simbólica, ambiente espiritual e antigo.
-Paleta de cores: azul noite, dourado, bege, preto suave, verde escuro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte egípcia tentou visualizar passagem, permanência e elevação.
-Ela revela o desejo humano de vencer os limites da vida."
+"O hieróglifo une imagem e escrita para representar o poder egípcio."
 
 Composição da cena
-
-A ilustração deve mostrar imagem simbólica de subida, travessia ou porta sagrada.
-Elementos visuais: escada, portal, estrelas pequenas, figura caminhando.
-
-Linguagem visual: transcendência, desejo, mistério.
+A cena deve representar visualmente **O poder dos símbolos egípcios**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O hieróglifo une imagem e escrita para representar o poder egípcio.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 27
 
-### Aula 27.1 — O cânone artístico e a lei da frontalidade
+### Aula 27.1 — As cores do Nilo
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente didático e formal.
-Paleta de cores: bege, azul, vermelho ocre, verde, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte egípcia segue regras fixas para mostrar cabeça, tronco e pernas.
-A frontalidade organiza a figura segundo convenção estável."
+"A paleta egípcia reúne cores contrastantes nas imagens do Nilo e do deserto."
 
 Composição da cena
-
-A ilustração deve mostrar figura egípcia em perfil composto, com partes organizadas de modo típico.
-Elementos visuais: olho frontal, corpo de frente, pernas de lado, linhas de guia.
-
-Linguagem visual: regra, convenção, estilo fixo.
+A cena deve representar visualmente **As cores do Nilo**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A paleta egípcia reúne cores contrastantes nas imagens do Nilo e do deserto.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 27.2 — Hierarquia visual na arte egípcia
+### Aula 27.2 — Cor simbólica na arte egípcia
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz estável, ambiente de mural social.
-Paleta de cores: dourado, azul, bege, marrom, verde.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Figuras maiores indicam mais importância.
-O tamanho visual comunica posição e autoridade."
+"A paleta reúne cores que representam água, vegetação, areia e vida egípcia."
 
 Composição da cena
-
-A ilustração deve mostrar uma cena egípcia com personagens em escalas diferentes.
-Elementos visuais: faraó maior, servos menores, organização em faixas, ordem visual.
-
-Linguagem visual: hierarquia, poder, leitura social.
+A cena deve representar visualmente **Cor simbólica na arte egípcia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A paleta reúne cores que representam água, vegetação, areia e vida egípcia.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 27.3 — Registro visual da vida e dos ofícios
+### Aula 27.3 — Contraste na paleta egípcia
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de mural, ambiente narrativo.
-Paleta de cores: ocre, verde, azul, marrom, vermelho claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"As paredes egípcias registram pesca, colheita, construção e serviço.
-O cotidiano torna-se imagem permanente."
+"A paleta organiza o contraste entre cores claras e escuras na arte egípcia."
 
 Composição da cena
-
-A ilustração deve mostrar grande mural com diversas ações do dia a dia.
-Elementos visuais: trabalhadores, ferramentas, animais, repetição de cenas.
-
-Linguagem visual: sociedade, trabalho, memória.
+A cena deve representar visualmente **Contraste na paleta egípcia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A paleta organiza o contraste entre cores claras e escuras na arte egípcia.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 28
 
-### Aula 28.1 — O Egito em arte e legado
+### Aula 28.1 — Esculturas e máscaras do Egito
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de museu, ambiente de herança histórica.
-Paleta de cores: bege, dourado, azul escuro, marrom, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Objetos egípcios continuam sendo vistos e estudados muitos séculos depois.
-O legado permanece no olhar de quem visita e aprende."
+"A escultura egípcia aparece como imagem talhada em pedra ou metal."
 
 Composição da cena
-
-A ilustração deve mostrar uma sala simples de museu com objetos egípcios em exposição.
-Elementos visuais: vitrines, máscara, estatueta, observadores atentos.
-
-Linguagem visual: legado, permanência, estudo.
+A cena deve representar visualmente **Esculturas e máscaras do Egito**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura egípcia aparece como imagem talhada em pedra ou metal.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 28.2 — Símbolos no imaginário
+### Aula 28.2 — O busto de Nefertiti
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz imaginativa, ambiente de releitura visual.
-Paleta de cores: dourado, azul, roxo claro, bege, laranja suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Pirâmides, esfinges e símbolos egípcios continuam povoando a imaginação moderna.
-O antigo ainda reaparece em novas imagens."
+"A escultura egípcia apresenta o busto de Nefertiti como imagem talhada em pedra."
 
 Composição da cena
-
-A ilustração deve mostrar mistura de referências egípcias em cenário imaginativo.
-Elementos visuais: pirâmide, símbolo, céu dramático, composição fantasiosa mas simples.
-
-Linguagem visual: imaginação, herança, releitura.
+A cena deve representar visualmente **O busto de Nefertiti**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura egípcia apresenta o busto de Nefertiti como imagem talhada em pedra.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 28.3 — Ressignificação do Egito no cinema e na arte
+### Aula 28.3 — A máscara funerária de Tutancâmon
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de cartaz ou exposição, ambiente de releitura moderna.
-Paleta de cores: dourado, preto suave, vermelho, azul, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"O Egito reaparece no cinema, em cartazes e em cenas inventadas.
-As imagens antigas ganham novos sentidos no presente."
+"A escultura egípcia apresenta a máscara funerária como imagem dourada de metal."
 
 Composição da cena
-
-A ilustração deve mostrar cartaz, exposição ou cenário moderno inspirado no Egito.
-Elementos visuais: moldura de cartaz, pirâmides estilizadas, símbolos adaptados.
-
-Linguagem visual: releitura, modernidade, permanência do imaginário.
+A cena deve representar visualmente **A máscara funerária de Tutancâmon**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A escultura egípcia apresenta a máscara funerária como imagem dourada de metal.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 31
 
-### Aula 31.1 — Arte mesopotâmica
+### Aula 31.1 — A arte egeia e suas ilhas
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz seca e clara, ambiente urbano antigo.
-Paleta de cores: bege barro, marrom, azul pálido, dourado areia, cinza.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A Mesopotâmia construiu cidades, relevos e imagens ligadas ao poder urbano.
-A arte fala de muralha, templo e autoridade."
+"A arte cicládica aparece em figuras simples ligadas às ilhas do Egeu."
 
 Composição da cena
-
-A ilustração deve mostrar relevo esculpido e cidade murada ao fundo.
-Elementos visuais: blocos de pedra, muralha, figuras antigas, sensação de centro urbano.
-
-Linguagem visual: cidade, poder, relevo.
+A cena deve representar visualmente **A arte egeia e suas ilhas**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte cicládica aparece em figuras simples ligadas às ilhas do Egeu.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 31.2 — Zigurates e a torre de Babel
+### Aula 31.2 — Figuras das Cíclades
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz forte, ambiente monumental.
-Paleta de cores: bege, marrom, azul claro, dourado, laranja suave.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Torres em degraus uniram construção, culto e exaltação humana.
-A altura tornou-se linguagem visual de grandeza."
+"A arte cicládica mostra ilhas e figuras humanas de formas claras e reduzidas."
 
 Composição da cena
-
-A ilustração deve mostrar zigurate ou torre em degraus com figuras pequenas ao redor.
-Elementos visuais: níveis sobrepostos, escadas, multidão discreta, sensação de altura.
-
-Linguagem visual: grandeza, ambição, monumento.
+A cena deve representar visualmente **Figuras das Cíclades**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte cicládica mostra ilhas e figuras humanas de formas claras e reduzidas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 31.3 — A torre e o orgulho
+### Aula 31.3 — Formas simplificadas da arte cicládica
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz dramática, ambiente de tensão.
-Paleta de cores: cinza claro, bege, azul escuro, dourado apagado, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Quando a construção se torna exaltação, a forma revela o coração.
-A torre mostra o desejo humano de subir por si mesmo."
+"A arte cicládica apresenta o aspecto visual de figuras humanas simplificadas."
 
 Composição da cena
-
-A ilustração deve mostrar torre alta com clima de esforço e exaltação humana.
-Elementos visuais: andaimes simples, trabalhadores pequenos, céu pesado, foco na altura.
-
-Linguagem visual: ambição, orgulho, advertência.
+A cena deve representar visualmente **Formas simplificadas da arte cicládica**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte cicládica apresenta o aspecto visual de figuras humanas simplificadas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 32
 
-### Aula 32.1 — Identidade visual na arte egeia
+### Aula 32.1 — A arte minoica e Cnossos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz marítima, ambiente leve e fluido.
-Paleta de cores: azul mar, branco, coral, verde água, bege claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte egeia se reconhece por padrões marinhos, formas leves e movimento.
-Sua identidade visual nasce perto do mar."
+"O fresco minoico aparece em paredes com cores, figuras e movimento."
 
 Composição da cena
-
-A ilustração deve mostrar padrões marinhos e decoração inspirada em ondas e peixes.
-Elementos visuais: conchas, espirais, faixas fluidas, fundo claro.
-
-Linguagem visual: mar, identidade, fluidez.
+A cena deve representar visualmente **A arte minoica e Cnossos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O fresco minoico aparece em paredes com cores, figuras e movimento.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 32.2 — Movimento e natureza na arte egeia
+### Aula 32.2 — Frescos do palácio de Cnossos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz brilhante, ambiente cheio de movimento.
-Paleta de cores: azul turquesa, branco, verde água, laranja coral, areia clara.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Peixes, ondas e gestos ágeis aparecem com leveza na arte egeia.
-A natureza é vista como fonte de movimento."
+"O fresco minoico forma uma pintura mural colorida no palácio de Cnossos."
 
 Composição da cena
-
-A ilustração deve mostrar formas onduladas, peixes e figuras em movimento.
-Elementos visuais: ondas curvas, animais marinhos, sensação de dança visual.
-
-Linguagem visual: movimento, natureza, ritmo.
+A cena deve representar visualmente **Frescos do palácio de Cnossos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O fresco minoico forma uma pintura mural colorida no palácio de Cnossos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 32.3 — Frescos de Cnossos
+### Aula 32.3 — Movimento e natureza na arte minoica
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de palácio antigo, ambiente decorativo.
-Paleta de cores: vermelho, azul, branco, preto suave, ocre.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os frescos de Cnossos cobrem a parede com cor, figura e movimento.
-A pintura torna-se parte do espaço."
+"O fresco minoico apresenta movimento e natureza em figuras leves de Cnossos."
 
 Composição da cena
-
-A ilustração deve mostrar parede de palácio com fresco colorido bem destacado.
-Elementos visuais: moldura mural, figuras estilizadas, fundo arquitetônico leve.
-
-Linguagem visual: parede viva, cor, palácio.
+A cena deve representar visualmente **Movimento e natureza na arte minoica**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O fresco minoico apresenta movimento e natureza em figuras leves de Cnossos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 33
 
-### Aula 33.1 — A ordem na arquitetura grega
+### Aula 33.1 — A arte grega e suas ordens
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente clássico e equilibrado.
-Paleta de cores: bege pedra, branco, azul céu, dourado leve, cinza claro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arquitetura grega organizou colunas, medidas e proporções com regularidade.
-A ordem visual tornou-se marca de sua busca por forma."
+"A ordem grega aparece em templos com colunas organizadas e proporções regulares."
 
 Composição da cena
-
-A ilustração deve mostrar um templo com colunas bem proporcionadas e simétricas.
-Elementos visuais: escadaria, colunas, frontão, espaço limpo e ordenado.
-
-Linguagem visual: proporção, equilíbrio, ordem clássica.
+A cena deve representar visualmente **A arte grega e suas ordens**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A ordem grega aparece em templos com colunas organizadas e proporções regulares.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 33.2 — Pintura em vasos
+### Aula 33.2 — O Partenon e as colunas gregas
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave, ambiente de objeto narrativo.
-Paleta de cores: preto, terracota, bege, vermelho argila, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os vasos gregos receberam faixas de imagem e contaram histórias em sua superfície.
-O objeto do cotidiano tornou-se lugar de narrativa visual."
+"A ordem grega organiza colunas com base, eixo e capitel em um templo."
 
 Composição da cena
-
-A ilustração deve mostrar um vaso grego grande com faixa pintada em destaque.
-Elementos visuais: alças, cena circular, contraste entre fundo e figura, pedestal simples.
-
-Linguagem visual: objeto narrativo, desenho, tradição.
+A cena deve representar visualmente **O Partenon e as colunas gregas**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A ordem grega organiza colunas com base, eixo e capitel em um templo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 33.3 — Mitologia e arte
+### Aula 33.3 — A ordem na arquitetura grega
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz teatral, ambiente clássico.
-Paleta de cores: azul, vermelho escuro, dourado suave, branco, cinza.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte grega também contou histórias de deuses e heróis.
-Forma bela e narrativa mítica andaram juntas."
+"A ordem grega relaciona proporção e beleza na arquitetura dos templos."
 
 Composição da cena
-
-A ilustração deve mostrar cena mítica clássica simplificada, com herói ou figura simbólica.
-Elementos visuais: capa, vaso ou coluna ao lado, postura heroica, fundo discreto.
-
-Linguagem visual: mito, heroísmo, narrativa clássica.
+A cena deve representar visualmente **A ordem na arquitetura grega**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A ordem grega relaciona proporção e beleza na arquitetura dos templos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 34
 
-### Aula 34.1 — Realismo romano
+### Aula 34.1 — Vasos gregos e narrativa
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz firme, ambiente oficial e sóbrio.
-Paleta de cores: cinza pedra, marrom, vermelho escuro, bege, dourado apagado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Roma representou rostos com marcas, rugas e expressão severa.
-O realismo serviu à memória e à autoridade."
+"O vaso grego aparece como recipiente decorado com imagens narrativas."
 
 Composição da cena
-
-A ilustração deve mostrar busto romano detalhado com traços fortes.
-Elementos visuais: rosto sério, pedestal, fundo simples, atenção às rugas e à expressão.
-
-Linguagem visual: poder, retrato, verdade aparente.
+A cena deve representar visualmente **Vasos gregos e narrativa**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O vaso grego aparece como recipiente decorado com imagens narrativas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 34.2 — Mosaicos e afrescos
+### Aula 34.2 — Figuras negras e figuras vermelhas
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz interna, ambiente decorado e rico em detalhes.
-Paleta de cores: terracota, dourado, azul, verde, creme.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Roma cobriu pisos e paredes com imagens feitas de pequenas peças e pinturas.
-A decoração visual ocupou o espaço da casa e do poder."
+"O vaso grego reúne imagens negras e vermelhas em faixas pintadas."
 
 Composição da cena
-
-A ilustração deve mostrar piso em mosaico e parede com afresco em um mesmo ambiente romano.
-Elementos visuais: padrão geométrico no chão, cena pintada na parede, colunas ou moldura.
-
-Linguagem visual: decoração, técnica, grandeza doméstica e pública.
+A cena deve representar visualmente **Figuras negras e figuras vermelhas**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O vaso grego reúne imagens negras e vermelhas em faixas pintadas.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 34.3 — Idealização e intenção artística
+### Aula 34.3 — Cenas da mitologia nos vasos
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz de comparação, ambiente clássico.
-Paleta de cores: cinza claro, bege, azul profundo, vermelho suave, dourado.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A forma pode parecer neutra, mas serve a intenções diferentes.
-Comparar Grécia e Roma ajuda a ler a glória que cada imagem promove."
+"O vaso grego apresenta narrativas de heróis e deuses em sua superfície."
 
 Composição da cena
-
-A ilustração deve mostrar lado a lado uma figura idealizada e um retrato romano mais realista.
-Elementos visuais: duas esculturas ou retratos, contraste entre perfeição e marcas do tempo.
-
-Linguagem visual: comparação, intenção, discernimento.
+A cena deve representar visualmente **Cenas da mitologia nos vasos**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O vaso grego apresenta narrativas de heróis e deuses em sua superfície.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 35
 
-### Aula 35.1 — Arte cristã primitiva
+### Aula 35.1 — Escultura grega e proporção
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz suave e discreta, ambiente de comunidade pequena.
-Paleta de cores: bege, marrom, azul escuro, dourado leve, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os primeiros cristãos usaram imagens simples e discretas em meio à perseguição.
-A arte serviu à fé e à memória do povo."
+"A proporção aparece na escultura grega como relação entre partes do corpo."
 
 Composição da cena
-
-A ilustração deve mostrar pequena comunidade cristã reunida com poucos sinais visuais.
-Elementos visuais: casa simples, grupo pequeno, gesto de ensino, símbolo discreto.
-
-Linguagem visual: simplicidade, fé, perseverança.
+A cena deve representar visualmente **Escultura grega e proporção**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A proporção aparece na escultura grega como relação entre partes do corpo.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 35.2 — Símbolos cristãos
+### Aula 35.2 — O Doríforo de Policleto
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz clara, ambiente de sinal e confissão.
-Paleta de cores: azul, branco, dourado claro, verde suave, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Peixe, âncora e pastor foram sinais usados para ensinar e identificar a fé.
-O símbolo cristão fala com simplicidade e esperança."
+"A proporção organiza a medida do corpo no Doríforo de Policleto."
 
 Composição da cena
-
-A ilustração deve mostrar símbolos cristãos organizados de forma didática.
-Elementos visuais: peixe, âncora, ovelha ou pastor, fundo simples e limpo.
-
-Linguagem visual: confissão, esperança, clareza.
+A cena deve representar visualmente **O Doríforo de Policleto**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A proporção organiza a medida do corpo no Doríforo de Policleto.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 35.3 — Pinturas nas catacumbas
+### Aula 35.3 — A proporção do corpo humano na Grécia
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz baixa e respeitosa, ambiente subterrâneo.
-Paleta de cores: bege pedra, marrom, azul escuro, vermelho suave, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Nas catacumbas, a pintura guardou memória, oração e esperança.
-As paredes simples receberam cenas da fé cristã."
+"A proporção relaciona as partes do corpo humano na escultura grega."
 
 Composição da cena
-
-A ilustração deve mostrar corredor ou câmara com pintura cristã simples na parede.
-Elementos visuais: arco baixo, parede pintada, lamparina ou luz pequena, silêncio.
-
-Linguagem visual: esperança, memória, fé em meio à prova.
+A cena deve representar visualmente **A proporção do corpo humano na Grécia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A proporção relaciona as partes do corpo humano na escultura grega.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 36
 
-### Aula 36.1 — Narrativa bíblica
+### Aula 36.1 — A lira e a música grega
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz didática, ambiente de ensino visual.
-Paleta de cores: azul claro, verde, marrom, dourado leve, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A imagem pode servir à narração bíblica quando ajuda o aluno a lembrar a história.
-Forma simples e conteúdo claro andam juntos."
+"A lira aparece como instrumento grego de cordas e forma curva."
 
 Composição da cena
-
-A ilustração deve mostrar cena bíblica simplificada, fácil de reconhecer e contar.
-Elementos visuais: personagens poucos, gesto claro, fundo discreto.
-
-Linguagem visual: clareza, narrativa, catequese.
+A cena deve representar visualmente **A lira e a música grega**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A lira aparece como instrumento grego de cordas e forma curva.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 36.2 — Forma simples
+### Aula 36.2 — Música no teatro e na educação
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz limpa, ambiente de economia visual.
-Paleta de cores: branco, azul, bege, verde claro, marrom.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A simplicidade ajuda o olhar a compreender sem distração.
-Poucos elementos podem comunicar com mais clareza."
+"A lira reúne cordas que acompanham música no teatro e na educação."
 
 Composição da cena
-
-A ilustração deve mostrar imagem cristã muito simples, com traços claros e poucos detalhes.
-Elementos visuais: figura central, fundo quase vazio, contorno suave.
-
-Linguagem visual: simplicidade, clareza, foco.
+A cena deve representar visualmente **Música no teatro e na educação**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A lira reúne cordas que acompanham música no teatro e na educação.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 36.3 — Função didática
+### Aula 36.3 — O Epitáfio de Sícilo
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz acolhedora, ambiente de aprendizagem comunitária.
-Paleta de cores: amarelo claro, azul, verde, bege, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte cristã primitiva ensinou pela imagem.
-Crianças e adultos podiam olhar, lembrar e repetir a verdade."
+"A lira mantém sua forma curva nas imagens da música grega."
 
 Composição da cena
-
-A ilustração deve mostrar pessoa ensinando crianças por meio de uma imagem ou painel simples.
-Elementos visuais: gesto de explicação, grupo atento, imagem visível, ambiente sereno.
-
-Linguagem visual: ensino, memória, formação.
+A cena deve representar visualmente **O Epitáfio de Sícilo**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A lira mantém sua forma curva nas imagens da música grega.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 37
 
-### Aula 37.1 — Arte Bizantina e o império cristão
+### Aula 37.1 — Roma e a arte cristã primitiva
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz dourada, ambiente imperial e sagrado.
-Paleta de cores: ouro, púrpura, azul escuro, branco, verde escuro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"No império bizantino, a arte uniu trono e altar.
-Mosaicos, igrejas e figuras imperiais comunicavam poder e fé."
+"A arte romana expressa poder, memória e vida pública em retratos, edifícios e monumentos."
 
 Composição da cena
-
-A ilustração deve mostrar igreja bizantina com figura imperial ou ambiente de corte cristã.
-Elementos visuais: vestes ricas, fundo dourado, coluna, cruz ou mosaico.
-
-Linguagem visual: poder, culto, majestade.
+A cena deve representar visualmente **Roma e a arte cristã primitiva**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte romana expressa poder, memória e vida pública em retratos, edifícios e monumentos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 37.2 — Arte Bizantina e mosaicos de ouro
+### Aula 37.2 — O retrato romano e o poder
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz brilhante, ambiente de parede sagrada.
-Paleta de cores: ouro intenso, azul profundo, vermelho escuro, branco, verde.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Pequenas tesselas douradas cobrem a parede e refletem a luz.
-O mosaico bizantino cria sensação de glória e transcendência."
+"A arte romana mostra o poder em retratos, edifícios e monumentos públicos."
 
 Composição da cena
-
-A ilustração deve mostrar detalhe de mosaico dourado com brilho forte e figura central.
-Elementos visuais: tesselas, fundo luminoso, olhos grandes, moldura decorativa.
-
-Linguagem visual: brilho, glória, solenidade.
+A cena deve representar visualmente **O retrato romano e o poder**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte romana mostra o poder em retratos, edifícios e monumentos públicos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 37.3 — Arte Bizantina e ícones
+### Aula 37.3 — As catacumbas e a memória cristã
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz frontal e calma, ambiente de contemplação.
-Paleta de cores: dourado, azul escuro, vermelho profundo, verde escuro, bege.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Os ícones apresentam figuras frontais, estáveis e solenes.
-O olhar é conduzido para a presença e para a reverência."
+"A arte romana preserva a memória cristã nas catacumbas e em seus símbolos."
 
 Composição da cena
-
-A ilustração deve mostrar uma figura frontal sobre fundo dourado, em estilo inspirado em ícone.
-Elementos visuais: rosto central, mãos visíveis, fundo plano, aura de solenidade.
-
-Linguagem visual: frontalidade, reverência, quietude.
+A cena deve representar visualmente **As catacumbas e a memória cristã**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: A arte romana preserva a memória cristã nas catacumbas e em seus símbolos.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
 ---
 
 ## Semana 38
 
-### Aula 38.1 — Frontalidade e hierarquia
+### Aula 38.1 — Arte Bizantina e ícones
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz simétrica, ambiente visualmente ordenado.
-Paleta de cores: dourado, azul, vermelho, branco, verde escuro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arte bizantina organiza o olhar por frontalidade e hierarquia.
-A figura principal domina o centro com estabilidade e autoridade."
+"O ícone aparece como imagem sagrada frontal na arte bizantina."
 
 Composição da cena
-
-A ilustração deve mostrar composição frontal e simétrica com figura central maior.
-Elementos visuais: eixo central, repetição lateral, fundo dourado, postura rígida.
-
-Linguagem visual: centro, autoridade, ordem visual.
+A cena deve representar visualmente **Arte Bizantina e ícones**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ícone aparece como imagem sagrada frontal na arte bizantina.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 38.2 — Arquitetura centralizada
+### Aula 38.2 — O Cristo Pantocrator
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz interna elevada, ambiente arquitetônico amplo.
-Paleta de cores: bege claro, dourado, azul suave, cinza, branco.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"A arquitetura centralizada conduz o corpo e o olhar para o centro.
-Cúpula, eixo e espaço se unem para formar ambiente de reverência."
+"O ícone apresenta a imagem de Cristo Pantocrator sobre fundo dourado."
 
 Composição da cena
-
-A ilustração deve mostrar interior com cúpula central e linhas que convergem para o meio.
-Elementos visuais: arcos, janelas altas, chão geométrico, sensação de unidade.
-
-Linguagem visual: espaço, centro, elevação.
+A cena deve representar visualmente **O Cristo Pantocrator**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ícone apresenta a imagem de Cristo Pantocrator sobre fundo dourado.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 38.3 — Basílica Santa Sofia
+### Aula 38.3 — A Basílica de Santa Sofia
 
 **Prompt:**
 
 ```text
-Ilustração em aquarela simples, estilo infantil, com cores vibrantes e traços macios.
-Luz grandiosa e suave, ambiente monumental e sereno.
-Paleta de cores: dourado claro, bege, azul cinza, branco, verde escuro.
+Ilustração em aquarela simples, estilo infantil, com traços macios e composição clara.
+Luz suave, proporções compreensíveis e acabamento adequado para crianças de 7 e 8 anos.
+A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-
-"Santa Sofia impressiona pela cúpula, pela luz e pela amplitude.
-O edifício torna o espaço inteiro parte da experiência visual."
+"O ícone integra a arte sagrada ligada à Basílica de Santa Sofia."
 
 Composição da cena
-
-A ilustração deve mostrar o grande interior da Basílica Santa Sofia com cúpula luminosa.
-Elementos visuais: arcos largos, luz descendo do alto, piso amplo, atmosfera reverente.
-
-Linguagem visual: grandeza, espaço sagrado, assombro.
+A cena deve representar visualmente **A Basílica de Santa Sofia**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
+Elementos visuais: O ícone integra a arte sagrada ligada à Basílica de Santa Sofia.
+A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
+Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
