@@ -80,9 +80,13 @@ A unidade pedagógica é a semana inteira, não a aula isolada. Cada semana tem:
 - 1 termo principal compartilhado pelas 3 aulas
 - 1 música ou rima no Recordar, comum às 3 aulas
 
-Entre `x.1`, `x.2` e `x.3` variam apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens e a Atividade Extra. A revisão `.4` usa essa mesma definição única.
+Entre `x.1`, `x.2` e `x.3` varia apenas a explicação da palavra-chave, as imagens e a Atividade Extra. O Definir segue a ordem definição curta, explicação da palavra-chave e conexão teológica da semana, com "Veja o vídeo abaixo." na mesma linha da conexão. A conexão teológica é ligada ao tema e permanece literalmente idêntica nas três aulas. A revisão `.4` usa essa mesma definição única.
 
-Quando um MP3 reunir a definição curta e a explicação, ambas devem ficar em uma única linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+No 2º ano, o bloco do Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+
+Quando um MP3 reunir a definição curta, a explicação e a conexão teológica, os três trechos devem ficar em uma única linha, separados por espaço, no Accordion, nos TABS do 2º ano e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+
+Nas aulas, o marcador do áudio é sempre a linha literal `#VOX:` dentro de `[MP3/]`. O padrão antigo `#FSH:` e outros voice IDs não devem ser usados. Em aulas regulares com apenas um hotspot central em `[+IMAGE_LABELED]`, a coordenada padrão é `49 50`. Revisões `.4` podem usar múltiplos hotspots com coordenadas próprias.
 
 Os enunciados fixos das novas aulas são "Leia o fato e ouça o áudio clicando abaixo." no Definir, "Ouça e repita o fato abaixo." no Recordar e "Complete o fato abaixo com a palavra correta." antes do Fill_In no Praticar.
 

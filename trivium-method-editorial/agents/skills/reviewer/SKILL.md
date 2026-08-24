@@ -69,7 +69,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Termo principal é o mesmo de `x.1`
 - [ ] Palavras-chave de `x.1` aparecem no parágrafo livre do Definir, no Perceber, no Praticar e no Narrar
 - [ ] **Progressão de negritos no parágrafo livre**: em `x.1`, negrito somente no TERMO; em `x.2`, negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); em `x.3`, negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). Se os negritos não seguem esse padrão, **REJEITAR**.
-- [ ] Accordion plain (após `#FSH:`) não tem negrito; Accordion bold (após `[MP3\]`) repete o parágrafo com negrito idêntico ao Definir
+- [ ] Accordion plain (após `#VOX:`) não tem negrito; Accordion bold (após `[MP3\]`) repete o parágrafo com negrito idêntico ao Definir
 - [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
 
 ---
@@ -116,11 +116,11 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
 - [ ] Duas frases em prosa direta após a definição curta, sem "Reconheça que" nem "Observe que"
 - [ ] `[+VIDEO][-VIDEO]` presente
-- [ ] Accordion: tema ou pergunta simples da aula
-- [ ] Accordion com `@link_png@`
-- [ ] Accordion e Narrar: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa em uma única linha, separadas por espaço
-- [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
-- [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
+- [ ] Accordion, ou TABS no 2º ano, com tema ou pergunta simples da aula
+- [ ] Accordion com `@link_png@`, ou um único TABS com `@link_png@` no 2º ano
+- [ ] Accordion, TABS do 2º ano e Narrar: áudio dentro de `[MP3/]...[MP3\]` contém definição curta, explicação completa e conexão teológica em uma única linha, separadas por espaço
+- [ ] Accordion ou TABS: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
+- [ ] Marcador literal `#VOX:` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
 - [ ] **Sem separadores** `---` entre hábitos
@@ -132,7 +132,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 - [ ] Parágrafo com 1 frase curta, simples e direta
 - [ ] `[+IMAGE_LABELED]` com `@link_png@`
-- [ ] Exatamente **2 hotspots** com coordenadas, título e descrição
+- [ ] Em aula regular, exatamente **1 hotspot** com coordenada central `49 50`, título e descrição
 - [ ] Cada título de hotspot tem 2 a 5 palavras
 - [ ] Cada descrição de hotspot tem apenas 1 frase curta
 - [ ] Observações e explicações ficam nos hotspots, não no enunciado
@@ -143,11 +143,11 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 ### 4. Recordar — Regras Específicas
 
-- [ ] Definir usa `[+PARAGRAPH] Leia o fato e ouça o áudio clicando abaixo. [-PARAGRAPH]` antes do Accordion
+- [ ] Definir usa `[+PARAGRAPH] Leia o fato e ouça o áudio clicando abaixo. [-PARAGRAPH]` antes do Accordion, ou antes dos TABS no 2º ano
 - [ ] `[+PARAGRAPH] Ouça e repita o fato abaixo. [-PARAGRAPH]`
 - [ ] Praticar usa `[+PARAGRAPH] Complete o fato abaixo com a palavra correta. [-PARAGRAPH]` antes do Fill_In
 - [ ] Definição CURTA no Statement_D (8-10 palavras)
-- [ ] Voice ID presente
+- [ ] Marcador `#VOX:` presente
 - [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
@@ -181,10 +181,10 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Trecho dividido em **2 parágrafos** (separados por linha em branco)
 - [ ] Trecho literário cristão, puritano ou poético
 - [ ] Texto traz elementos explícitos do tema da aula e do conceito definido
-- [ ] Texto contém, em frases claras, as respostas diretas para as 3 perguntas
+- [ ] No 2º ano, o texto contém, em frases claras, as respostas diretas para as 2 perguntas
 - [ ] Atribuição em **linha única** com **negrito** e *itálico*
 - [ ] `[+HEADING] Perguntas [-HEADING]`
-- [ ] 3 perguntas com interrogação
+- [ ] No 2º ano, exatamente 2 perguntas com interrogação
 - [ ] 1 linha de espaço entre perguntas
 - [ ] Perguntas curtas, diretas e fáceis de compreender
 - [ ] Cada resposta aparece explicitamente no texto lido

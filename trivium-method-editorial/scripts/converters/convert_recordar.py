@@ -61,7 +61,7 @@ Clique abaixo para ouvir a rima e reforçar o aprendizado sobre {topic}.
 
 [MP3/]
 
-#XAI:rex
+#VOX:
 
 *{title}*
 

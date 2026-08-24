@@ -8,7 +8,7 @@ BASE = Path(
 )
 MACRO = BASE / "Estrutura Curricular - 1º ANO/1 - Curriculo Macro - Introdução à linguagem visual e aos elementos da arte - 1º ANO.md"
 
-AUDIO_ID = "#FSH:0b12d715e4c741399594fccb12d4bbe2"
+AUDIO_ID = "#VOX:"
 
 WEEKS = {
     6: {

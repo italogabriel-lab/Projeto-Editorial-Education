@@ -51,12 +51,12 @@
 - [Children singing together (Pixabay)](https://pixabay.com/images/search/children%20singing/)
 - [Worship music scene (Unsplash)](https://unsplash.com/s/photos/worship-music)
 
-### 3.2 — Cores que expressam sentimentos
-- [Expressive color painting (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Color_in_art)
-- [Color palette emotion (Pixabay)](https://pixabay.com/images/search/color%20palette/)
-- [Abstract emotional colors (Unsplash)](https://unsplash.com/s/photos/abstract-colors)
+### 3.2 — A beleza do louvor na música
+- [Choir and worship art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Choirs)
+- [Children singing together (Pixabay)](https://pixabay.com/images/search/children%20singing/)
+- [Worship music scene (Unsplash)](https://unsplash.com/s/photos/worship-music)
 
-### 3.3 — O som da alegria
+### 3.3 — O som do louvor a Deus
 - [Celebration music (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Musical_ensembles)
 - [Festive children music (Pixabay)](https://pixabay.com/images/search/music%20festival%20kids/)
 - [Joyful music group (Unsplash)](https://unsplash.com/s/photos/happy-music)
@@ -460,3 +460,139 @@
 - [Pharaoh funerary mask (Unsplash)](https://unsplash.com/s/photos/tutankhamun)
 
 ---
+
+## Semana 31 — A arte egeia e suas ilhas
+
+### 31.1 — A arte egeia e suas ilhas
+- [Aegean art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Aegean_art)
+- [Aegean islands art (Pixabay)](https://pixabay.com/images/search/aegean%20islands/)
+- [Aegean landscape (Unsplash)](https://unsplash.com/s/photos/aegean-islands)
+
+### 31.2 — Figuras das Cíclades
+- [Cycladic art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Cycladic_art)
+- [Cycladic figurines (Pixabay)](https://pixabay.com/images/search/cycladic/)
+- [Cycladic figurines (Unsplash)](https://unsplash.com/s/photos/cycladic-art)
+
+### 31.3 — Formas simplificadas da arte cicládica
+- [Cycladic figurines and forms (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Cycladic_figures)
+- [Simplified human forms (Pixabay)](https://pixabay.com/images/search/ancient%20figurine/)
+- [Minimal sculpture (Unsplash)](https://unsplash.com/s/photos/minimal-sculpture)
+
+## Semana 32 — A arte minoica e Cnossos
+
+### 32.1 — A arte minoica e Cnossos
+- [Minoan art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Minoan_art)
+- [Minoan culture (Pixabay)](https://pixabay.com/images/search/minoan/)
+- [Minoan art and Crete (Unsplash)](https://unsplash.com/s/photos/minoan-art)
+
+### 32.2 — Frescos do palácio de Cnossos
+- [Knossos frescoes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Frescoes_in_Knossos)
+- [Ancient fresco painting (Pixabay)](https://pixabay.com/images/search/ancient%20fresco/)
+- [Minoan fresco (Unsplash)](https://unsplash.com/s/photos/minoan-fresco)
+
+### 32.3 — Movimento e natureza na arte minoica
+- [Minoan nature frescoes (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Minoan_frescoes)
+- [Ancient movement art (Pixabay)](https://pixabay.com/images/search/ancient%20dance%20art/)
+- [Nature and movement in art (Unsplash)](https://unsplash.com/s/photos/movement-nature-art)
+
+## Semana 33 — A arte grega e suas ordens
+
+### 33.1 — A arte grega e suas ordens
+- [Orders of Greek architecture (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Orders_of_Greek_architecture)
+- [Greek columns (Pixabay)](https://pixabay.com/images/search/greek%20columns/)
+- [Greek architecture (Unsplash)](https://unsplash.com/s/photos/greek-architecture)
+
+### 33.2 — O Partenon e as colunas gregas
+- [Parthenon (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Parthenon)
+- [Parthenon columns (Pixabay)](https://pixabay.com/images/search/parthenon/)
+- [Parthenon Athens (Unsplash)](https://unsplash.com/s/photos/parthenon)
+
+### 33.3 — A ordem na arquitetura grega
+- [Greek architectural details (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Ancient_Greek_architecture)
+- [Greek temple details (Pixabay)](https://pixabay.com/images/search/greek%20temple/)
+- [Greek temple columns (Unsplash)](https://unsplash.com/s/photos/greek-temple)
+
+## Semana 34 — Vasos gregos e narrativa
+
+### 34.1 — Vasos gregos e narrativa
+- [Ancient Greek pottery (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Ancient_Greek_pottery)
+- [Greek vase (Pixabay)](https://pixabay.com/images/search/greek%20vase/)
+- [Greek pottery (Unsplash)](https://unsplash.com/s/photos/greek-pottery)
+
+### 34.2 — Figuras negras e figuras vermelhas
+- [Black-figure pottery (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Black-figure_pottery)
+- [Red-figure pottery (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Red-figure_pottery)
+- [Greek vase figures (Pixabay)](https://pixabay.com/images/search/greek%20vase%20figures/)
+
+### 34.3 — Cenas da mitologia nos vasos
+- [Mythological scenes on Greek pottery (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Mythological_scenes_on_ancient_Greek_vases)
+- [Greek mythology vase (Pixabay)](https://pixabay.com/images/search/greek%20mythology%20vase/)
+- [Greek vase painting (Unsplash)](https://unsplash.com/s/photos/greek-vase-painting)
+
+## Semana 35 — Escultura grega e proporção
+
+### 35.1 — Escultura grega e proporção
+- [Ancient Greek sculpture (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Ancient_Greek_sculpture)
+- [Greek sculpture (Pixabay)](https://pixabay.com/images/search/greek%20sculpture/)
+- [Greek statue (Unsplash)](https://unsplash.com/s/photos/greek-statue)
+
+### 35.2 — O Doríforo de Policleto
+- [Doryphoros (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Doryphoros)
+- [Polykleitos sculpture (Pixabay)](https://pixabay.com/images/search/polykleitos/)
+- [Doryphoros sculpture (Unsplash)](https://unsplash.com/s/photos/doryphoros)
+
+### 35.3 — A proporção do corpo humano na Grécia
+- [Greek human proportions (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Proportions_in_art)
+- [Human proportion sculpture (Pixabay)](https://pixabay.com/images/search/human%20proportion%20sculpture/)
+- [Classical human figure (Unsplash)](https://unsplash.com/s/photos/classical-sculpture-human)
+
+## Semana 36 — A lira e a música grega
+
+### 36.1 — A lira e a música grega
+- [Lyre in ancient Greek art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Lyres_in_ancient_Greek_art)
+- [Ancient Greek lyre (Pixabay)](https://pixabay.com/images/search/ancient%20lyre/)
+- [Lyre instrument (Unsplash)](https://unsplash.com/s/photos/lyre)
+
+### 36.2 — Música no teatro e na educação
+- [Music in ancient Greek art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Music_in_ancient_Greece)
+- [Ancient Greek music (Pixabay)](https://pixabay.com/images/search/ancient%20greek%20music/)
+- [Ancient theatre music (Unsplash)](https://unsplash.com/s/photos/ancient-greek-theatre)
+
+### 36.3 — O Epitáfio de Sícilo
+- [Seikilos epitaph (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Seikilos_epitaph)
+- [Ancient musical inscription (Pixabay)](https://pixabay.com/images/search/ancient%20musical%20inscription/)
+- [Ancient Greek inscription (Unsplash)](https://unsplash.com/s/photos/ancient-greek-inscription)
+
+## Semana 37 — Roma e a arte cristã primitiva
+
+### 37.1 — Roma e a arte cristã primitiva
+- [Roman art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Ancient_Roman_art)
+- [Roman monument (Pixabay)](https://pixabay.com/images/search/roman%20monument/)
+- [Roman art and architecture (Unsplash)](https://unsplash.com/s/photos/roman-art)
+
+### 37.2 — O retrato romano e o poder
+- [Roman portraiture (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Ancient_Roman_portraits)
+- [Roman bust (Pixabay)](https://pixabay.com/images/search/roman%20bust/)
+- [Roman sculpture portrait (Unsplash)](https://unsplash.com/s/photos/roman-bust)
+
+### 37.3 — As catacumbas e a memória cristã
+- [Roman catacombs (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Catacombs_of_Rome)
+- [Christian catacomb art (Pixabay)](https://pixabay.com/images/search/catacomb%20art/)
+- [Early Christian art (Unsplash)](https://unsplash.com/s/photos/early-christian-art)
+
+## Semana 38 — Arte Bizantina e ícones
+
+### 38.1 — Arte Bizantina e ícones
+- [Byzantine art (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Byzantine_art)
+- [Byzantine icon (Pixabay)](https://pixabay.com/images/search/byzantine%20icon/)
+- [Byzantine art (Unsplash)](https://unsplash.com/s/photos/byzantine-art)
+
+### 38.2 — O Cristo Pantocrator
+- [Christ Pantocrator (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Christ_Pantocrator)
+- [Pantocrator icon (Pixabay)](https://pixabay.com/images/search/pantocrator/)
+- [Byzantine Christ icon (Unsplash)](https://unsplash.com/s/photos/byzantine-icon)
+
+### 38.3 — A Basílica de Santa Sofia
+- [Hagia Sophia (Wikimedia)](https://commons.wikimedia.org/wiki/Category:Hagia_Sophia)
+- [Hagia Sophia interior (Pixabay)](https://pixabay.com/images/search/hagia%20sophia/)
+- [Hagia Sophia architecture (Unsplash)](https://unsplash.com/s/photos/hagia-sophia)

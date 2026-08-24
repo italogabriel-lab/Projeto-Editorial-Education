@@ -240,7 +240,7 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 | Bloco | Conteudo |
 | :--- | :--- |
 | `[+PARAGRAPH]` | 1 frase curta e direta sobre a imagem principal |
-| `[+IMAGE_LABELED]` | Imagem com 2 hotspots, titulo de 2 a 5 palavras e descricao de 1 frase curta |
+| `[+IMAGE_LABELED]` | Aula regular com 1 hotspot central em `49 50`, título de 2 a 5 palavras e descrição de 1 frase curta |
 
 ### 6.3 Recordar (`## Recordar`)
 
@@ -276,7 +276,7 @@ Toda aula regular (.1, .2, .3) segue obrigatoriamente esta estrutura:
 | **Variante B** (3o ano): `[+PARAGRAPH]` | Mesmo conteudo da Variante A em formato paragrafo |
 | `[+HEADING]` | "Perguntas" |
 | `[+PARAGRAPH]` | "Responda oralmente as perguntas abaixo sobre o texto" |
-| `[+LIST_NUMBERED]` | 3 perguntas diretas, com respostas explicitas no texto |
+| `[+LIST_NUMBERED]` | 2 perguntas diretas no 2º ano, com respostas explícitas no texto |
 
 ---
 
@@ -482,6 +482,8 @@ Os scripts automatizam tarefas de sincronizacao e manutencao que seriam propensa
 
 Alguns habitos possuem mais de uma opcao de bloco Rise permitida:
 
+No 2º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+
 | Habito | Contexto | Opcao A (padrao) | Opcao B (alternativa) |
 | :--- | :--- | :--- | :--- |
 | **Perceber** (Revisao `.4`) | 3 atividades visuais por semana | `FLASHCARD_GRID` / `FLASHCARD_STACK` / `IMAGE` | `TABS` (2 abas com imagem + texto descritivo) |
@@ -629,7 +631,7 @@ RISE BLOCKS REFERENCE (rise-blocks-reference.md)
 | `@link_mp3@` | Audio a inserir | Accordion, Recordar |
 | `@link_pdf@` | PDF de atividade | Praticar (Atividade Extra) |
 | `[+VIDEO][-VIDEO]` | Video (tags vazias) | Definir |
-| `#11L:XXXXXXXXX` | Voice ID (ElevenLabs) | Accordion, Statement_D, Statement_A |
+| `#VOX:` | Marcador padrão de áudio | Accordion, Statement_D, Statement_A |
 
 ---
 

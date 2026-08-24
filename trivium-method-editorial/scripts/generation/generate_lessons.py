@@ -22,18 +22,19 @@ Requisitos:
     pip install pyyaml
 
 Compatibilidade:
-    Anos 1, 2 e 3 do padrão Trivium Method Editorial (Belas Artes e outras
+    Anos 1 a 5 do padrão Trivium Method Editorial (Belas Artes e outras
     disciplinas com o mesmo template de 5 hábitos: Definir, Perceber,
     Recordar, Praticar e Narrar).
 
 Diferenças por ano:
     Ano 1 : 2 opções no [+MULTIPLE] (1 correta + 1 distrator)
     Ano 2 : 3 opções no [+MULTIPLE] (1 correta + 2 distratores)
-    Ano 3 : 3 opções + Narrar usa [+PARAGRAPH]+[+IMAGE] em vez de [+IMAGE_TEXT_ASIDE]
+    Anos 3 a 5 : 3 opções e o mesmo Narrar com [+IMAGE_TEXT_ASIDE]
 
 Padrões editoriais aplicados automaticamente:
-    - Definição curta idêntica em Definir, Accordion, Recordar e Narrar
-    - Accordion plain (sem negrito) antes de [MP3\\] e bold depois
+    - Definição curta idêntica em Definir, Accordion/TABS, Recordar e Narrar
+    - No ano 2, um único TABS no Definir, com título, imagem, definição, áudio, texto visual e conexão teológica
+    - Accordion/TABS plain (sem negrito) antes de [MP3\\] e bold depois
     - Narrar espelha literalmente o Definir (plain antes, bold depois)
     - Legendas do IMAGE_LABELED na revisão copiadas das aulas x.1, x.2, x.3
     - Fill-In da revisão com lacuna na palavra-chave correta
@@ -97,9 +98,12 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
     """
     aula = semana["aulas"][chave]
     ano = config.get("ano", 1)
-    hash_audio = config.get("audio_hash", "0b12d715e4c741399594fccb12d4bbe2")
     definicao = semana["definicao_curta"]
     musica = semana["nome_musica"]
+    conexao_teologica = semana.get(
+        "conexao_teologica",
+        "[Conexão teológica da semana, ligada ao tema.]",
+    )
 
     titulo = aula["titulo"]
     accordion_titulo = aula.get("accordion_titulo", titulo)
@@ -107,9 +111,10 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
 
     paragrafo_plain = aula["paragrafo_plain"]
     paragrafo_bold = aplicar_negrito(paragrafo_plain, palavras_negrito)
+    audio_plain = f"{definicao} {paragrafo_plain} {conexao_teologica}"
 
     perceber_frase = aula["perceber_frase"]
-    hotspot_coords = aula["perceber_hotspot_coords"]
+    hotspot_coords = aula.get("perceber_hotspot_coords") or "49 50"
     hotspot_legenda = aula["perceber_hotspot_legenda"]
 
     fill_frase = aula["fill_in_frase"]
@@ -121,6 +126,17 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
 
     instrucao = aula["atividade_instrucao"]
     narrar_pergunta = aula["narrar_pergunta"]
+    narrar_perguntas = aula.get("narrar_perguntas")
+    if not narrar_perguntas:
+        narrar_perguntas = [narrar_pergunta]
+        if ano == 2:
+            sujeito = re.match(
+                r"^((?:A|O) .+?)\s+(?:é|representa|mostra|revela|expressa|guarda|organiza|aparece|surge|forma|une|preserva|marca|produz)\b",
+                definicao,
+                flags=re.IGNORECASE,
+            )
+            if sujeito:
+                narrar_perguntas.append(f"O que é {sujeito.group(1).lower()}?")
 
     L = []  # linhas do arquivo
 
@@ -136,7 +152,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         paragrafo_bold,
         "",
-        "Veja o vídeo abaixo.",
+        f"{conexao_teologica} Veja o vídeo abaixo.",
         "",
         "[-PARAGRAPH]",
         "",
@@ -150,33 +166,62 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         "[+PARAGRAPH]",
         "",
-        "Leia a definição e ouça o áudio clicando abaixo.",
+        "Leia o fato e ouça o áudio clicando abaixo.",
         "",
         "[-PARAGRAPH]",
         "",
-        "[+ACCORDION]",
-        "",
-        accordion_titulo,
-        "",
-        "@link_png@",
-        "",
-        MP3_ABRIR,
-        "",
-        f"#FSH:{hash_audio}",
-        "",
-        definicao,
-        "",
-        paragrafo_plain,
-        "",
-        MP3_FECHAR,
-        "",
-        f"**{definicao}**",
-        "",
-        paragrafo_bold,
-        "",
-        "[-ACCORDION]",
-        "",
     ]
+
+    if ano == 2:
+        L += [
+            "[+TABS]",
+            "",
+            "Definição e explicação",
+            "",
+            "@link_png@",
+            "",
+            MP3_ABRIR,
+            "",
+            "#VOX:",
+            "",
+            audio_plain,
+            "",
+            MP3_FECHAR,
+            "",
+            f"**{definicao}**",
+            "",
+            paragrafo_bold,
+            "",
+            conexao_teologica,
+            "",
+            "[-TABS]",
+            "",
+        ]
+    else:
+        L += [
+            "[+ACCORDION]",
+            "",
+            accordion_titulo,
+            "",
+            "@link_png@",
+            "",
+            MP3_ABRIR,
+            "",
+            "#VOX:",
+            "",
+            audio_plain,
+            "",
+            MP3_FECHAR,
+            "",
+            f"**{definicao}**",
+            "",
+            paragrafo_bold,
+            "",
+            conexao_teologica,
+            "",
+            "[-ACCORDION]",
+            "",
+        ]
 
     # ── Perceber ──────────────────────────────────────────────────────────────
     L += [
@@ -216,7 +261,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         MP3_ABRIR,
         "",
-        f"#FSH:{hash_audio}",
+        "#VOX:",
         "",
         definicao,
         "",
@@ -333,66 +378,48 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
     ]
 
-    if ano == 3:
-        # Ano 3: [+PARAGRAPH] com o texto + [+IMAGE] separado antes das perguntas
-        L += [
-            "[+PARAGRAPH]",
-            "",
-            f"**{definicao}**",
-            "",
-            paragrafo_bold,
-            "",
-            "[-PARAGRAPH]",
-            "",
-            "[+IMAGE]",
-            "",
-            "@link_png@",
-            "",
-            "[-IMAGE]",
-            "",
-        ]
-    else:
-        # Anos 1 e 2: [+IMAGE_TEXT_ASIDE] com áudio — espelho literal do Definir
-        L += [
-            "[+IMAGE_TEXT_ASIDE]",
-            "",
-            "@link_png@",
-            "",
-            MP3_ABRIR,
-            "",
-            f"#FSH:{hash_audio}",
-            "",
-            definicao,
-            "",
-            paragrafo_plain,
-            "",
-            MP3_FECHAR,
-            "",
-            f"**{definicao}**",
-            "",
-            paragrafo_bold,
-            "",
-            "[-IMAGE_TEXT_ASIDE]",
-            "",
-        ]
+    # Todos os anos usam [+IMAGE_TEXT_ASIDE] com áudio, como espelho literal do Definir.
+    L += [
+        "[+IMAGE_TEXT_ASIDE]",
+        "",
+        "@link_png@",
+        "",
+        MP3_ABRIR,
+        "",
+        "#VOX:",
+        "",
+        audio_plain,
+        "",
+        MP3_FECHAR,
+        "",
+        f"**{definicao}**",
+        "",
+        paragrafo_bold,
+        "",
+        conexao_teologica,
+        "",
+        "[-IMAGE_TEXT_ASIDE]",
+        "",
+    ]
 
     L += [
         "[+HEADING]",
         "",
-        "Pergunta",
+        "Perguntas" if len(narrar_perguntas) > 1 else "Pergunta",
         "",
         "[-HEADING]",
         "",
         "[+PARAGRAPH]",
         "",
-        "Responda oralmente a pergunta abaixo sobre o texto.",
+        "Responda oralmente às perguntas abaixo sobre o texto."
+        if len(narrar_perguntas) > 1
+        else "Responda oralmente à pergunta abaixo sobre o texto.",
         "",
         "[-PARAGRAPH]",
         "",
         "[+LIST_NUMBERED]",
         "",
-        narrar_pergunta,
-        "",
+        *sum(([pergunta, ""] for pergunta in narrar_perguntas), []),
         "[-LIST_NUMBERED]",
     ]
 
@@ -408,7 +435,6 @@ def gerar_revisao(config: dict, semana: dict) -> str:
     Gera o conteúdo markdown da revisão semanal (x.4).
     As legendas do IMAGE_LABELED são copiadas automaticamente das aulas x.1, x.2 e x.3.
     """
-    hash_audio = config.get("audio_hash", "0b12d715e4c741399594fccb12d4bbe2")
     definicao = semana["definicao_curta"]
     musica = semana["nome_musica"]
     revisao = semana["revisao"]
@@ -508,7 +534,7 @@ def gerar_revisao(config: dict, semana: dict) -> str:
         "",
         MP3_ABRIR,
         "",
-        f"#FSH:{hash_audio}",
+        "#VOX:",
         "",
         definicao,
         "",
@@ -661,13 +687,14 @@ EXEMPLO_YAML = """\
 
 config:
   ano: 1                                           # 1, 2 ou 3
-  audio_hash: "0b12d715e4c741399594fccb12d4bbe2"  # hash FSH — mesmo para todas as aulas da semana
+  # O marcador padrão de áudio é #VOX:, sem voice ID.
   diretorio_saida: "./output_semana3"              # pasta onde os arquivos .md serão salvos
 
 semana:
   numero: 3
   definicao_curta: "O ponto representa o começo de uma obra de arte."
   nome_musica: "O ponto começa a arte"
+  conexao_teologica: "A arte redimida responde à bondade de Deus com adoração, alegria e beleza ordenada."
 
   # ── Aulas da semana ────────────────────────────────────────────────────────
   aulas:

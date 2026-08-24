@@ -6,7 +6,9 @@
 
 **[Definição curta da semana — literal e idêntica nas aulas x.1, x.2 e x.3.]**
 
-[UMA ÚNICA FRASE direta e objetiva. Negritos progressivos: em x.1 somente o **TERMO** em negrito; em x.2 o **TERMO** e a **KW2** (= resposta do fill-in de x.2); em x.3 o **TERMO** e a **KW3** (= resposta do fill-in de x.3).] Veja o vídeo abaixo.
+[UMA ÚNICA FRASE direta e objetiva. Negritos progressivos: em x.1 somente o **TERMO** em negrito; em x.2 o **TERMO** e a **KW2** (= resposta do fill-in de x.2); em x.3 o **TERMO** e a **KW3** (= resposta do fill-in de x.3).]
+
+[Conexão teológica da semana, ligada ao tema e literalmente idêntica em x.1, x.2 e x.3. Veja o vídeo abaixo.]
 
 [-PARAGRAPH]
 
@@ -32,15 +34,17 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
-[Definição curta da semana — plain, sem negrito.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao do Definir.]
+[Definição curta da semana — plain, sem negrito.] [Explicação da palavra-chave — plain, sem negrito, literalmente idêntica ao Definir.] [Conexão teológica da semana — plain, literalmente idêntica ao Definir.]
 
 [MP3\]
 
 **[Definição curta da semana.]**
 
-[Parágrafo livre — com negritos progressivos, literalmente idêntico ao parágrafo livre do Definir.]
+[Explicação da palavra-chave com negritos progressivos, literalmente idêntica ao Definir.]
+
+[Conexão teológica da semana, literalmente idêntica ao Definir.]
 
 [-ACCORDION]
 
@@ -76,7 +80,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — idêntica ao Definir.]
 
@@ -177,15 +181,17 @@ Leitura
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
-[Definição curta da semana — plain, sem negrito.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao do Definir.]
+[Definição curta da semana — plain, sem negrito.] [Explicação da palavra-chave — plain, sem negrito, literalmente idêntica ao Definir.] [Conexão teológica da semana — plain, literalmente idêntica ao Definir.]
 
 [MP3\]
 
 **[Definição curta da semana.]**
 
-[Parágrafo livre — com negritos progressivos, literalmente idêntico ao parágrafo livre do Definir.]
+[Explicação da palavra-chave com negritos progressivos, literalmente idêntica ao Definir.]
+
+[Conexão teológica da semana, literalmente idêntica ao Definir.]
 
 [-IMAGE_TEXT_ASIDE]
 

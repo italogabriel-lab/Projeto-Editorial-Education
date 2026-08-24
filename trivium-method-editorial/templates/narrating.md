@@ -2,7 +2,9 @@
 
 ## Princípio pedagógico
 
-Este é o **quinto e último contato da criança com o tema da semana**, agora pela via da repetição com imagem. O Narrar repete LITERALMENTE o conteúdo do Definir daquela aula — definição curta e parágrafo livre — apresentado com imagem e áudio. As perguntas conduzem a criança a localizar na leitura o que ouviu e leu no Definir. A criança deve narrar com as próprias palavras o que compreendeu.
+Este é o **quinto e último contato da criança com o tema da semana**, agora pela via da repetição com imagem. O Narrar repete LITERALMENTE o conteúdo do Definir daquela aula, definição curta, explicação da palavra-chave e conexão teológica, apresentado com imagem e áudio. As perguntas conduzem a criança a localizar na leitura o que ouviu e leu no Definir. A criança deve narrar com as próprias palavras o que compreendeu.
+
+**Padrão do 2º ano**: o bloco final usa heading `Perguntas` e exatamente 2 perguntas direcionadas por aula. Cada resposta deve aparecer explicitamente no texto do Narrar.
 
 **Regra absoluta**: o texto do Narrar é literalmente idêntico ao Definir daquela aula. Não inventar texto novo. Não adicionar frases.
 
@@ -25,9 +27,9 @@ Leitura
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
-[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Explicação da palavra-chave e conexão teológica — plain, literalmente idênticas ao Definir.]
 
 [MP3\]
 
@@ -35,12 +37,14 @@ Leitura
 
 [Parágrafo livre — com negritos progressivos, literalmente idêntico ao texto visual do Accordion.]
 
+[Conexão teológica da semana, literalmente idêntica ao texto visual do Accordion.]
+
 [-IMAGE_TEXT_ASIDE]
 ```
 
-### Variante B — PARAGRAPH (3º ano)
+### Variante B — PARAGRAPH (legado)
 
-Use esta variante para o 3º ano. O bloco `[+IMAGE]` é obrigatório e permanece depois da leitura, antes das perguntas. O conteúdo do `[+PARAGRAPH]` repete literalmente o Definir daquela aula.
+Esta variante pertence a aulas antigas do 3º ano. Para novas aulas dos anos 2º, 3º, 4º e 5º, use sempre a Variante A, com `[+IMAGE_TEXT_ASIDE]`, áudio e conexão teológica.
 
 ```markdown
 [+PARAGRAPH]

@@ -34,7 +34,7 @@ Confirme que a arte serviu como uma Bíblia visual para os que não sabiam ler.
 
 A palavra "Didática" vem do grego didaktikos, que significa "apto a ensinar".
 
-Veja o vídeo abaixo.
+A arte cristã ensina a verdade quando permanece subordinada à Palavra de Deus. Veja o vídeo abaixo.
 
 [-PARAGRAPH]
 
@@ -60,17 +60,21 @@ Função didática da arte cristã
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.
 
 O aluno reconhece a função didática quando observa imagens que ensinam a fé cristã com clareza.
+
+A arte cristã ensina a verdade quando permanece subordinada à Palavra de Deus.
 
 [MP3\]
 
 **Função didática é o uso da imagem para ensinar a fé e formar discípulos na verdade bíblica.**
 
 O aluno reconhece a **função didática** quando observa imagens que ensinam a fé cristã com clareza.
+
+A arte cristã ensina a verdade quando permanece subordinada à Palavra de Deus.
 
 [-ACCORDION]
 
@@ -103,19 +107,11 @@ Entenda que a arte transformou paredes em salas de aula.
 
 --
 
-30 50
+49 50
 
 A história contada
 
-Veja a cena dramática de Jonas caindo no mar. A desobediência traz consequências, mas Deus permanece soberano sobre a tempestade.
-
---
-
-70 50
-
-A esperança revelada
-
-Veja Jonas saindo do peixe. Assim como Jonas, Jesus ressuscitou ao terceiro dia. A imagem ensinou teologia.
+Veja a cena central de Jonas no mar. Observe como a composição visual conduz o olhar pela narrativa.
 
 [-IMAGE_LABELED]
 
@@ -133,7 +129,7 @@ Ouça e repita o fato abaixo.
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 Função didática é o uso da imagem para ensinar a fé.
 

@@ -84,11 +84,12 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Consulte a base de conhecimento (`.agent/knowledge-base/`)
 - Escreva a aula nos 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
 - Use o **termo da semana** (compartilhado pelas 3 aulas) como conceito central
-- Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1`. Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
+- Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1` e a mesma conexão teológica da semana. No início do Definir, use a ordem definição curta, explicação variável da palavra-chave e conexão teológica, com "Veja o vídeo abaixo." na mesma linha da conexão. Apenas a explicação da palavra-chave, as imagens, o texto específico do Narrar e a Atividade Extra variam
 - Em `x.2` e `x.3`, use palavras-chave do tema de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
 - Mantenha a perspectiva de Belas Artes em todos os hábitos, sem deixar exemplos de natureza, objetos ou histórias virarem tema paralelo
 - Siga a progressão pedagógica extraída do plano
-- Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion e no Narrar, narre definição curta e explicação completa na mesma linha do MP3, separadas por espaço. Mantenha o texto visual equivalente após `[MP3\]`, em parágrafos quando necessário.
+- Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, nos TABS do 2º ano e no Narrar, narre definição curta, explicação completa e conexão teológica na mesma linha do MP3, separadas por espaço. Mantenha o texto visual equivalente após `[MP3\]`, em parágrafos quando necessário.
+- No 2º ano, substitua o Accordion do Definir por um único `[+TABS]`, com título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
 - No 3º ano, em Narrar, mantenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
 - **Output:** Rascunho em Rise Blocks → `[READY_FOR_STEP_5]`

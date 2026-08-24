@@ -50,7 +50,9 @@ Estrutura: `[Base]/Estrutura Curricular/`
    - `editorial-squad/knowledge-base/guia-de-estilo.md`
    - `editorial-squad/knowledge-base/doutrina-pedagogica.md`
 4. Se a aula é `x.2` ou `x.3`, **ler primeiro `x.1`** da mesma semana e copiar literalmente: definição curta, termo principal e música/rima do Recordar
-5. Extrair palavras-chave do tema e da definição de `x.1` e usá-las no exemplo central, no Definir, no Perceber, no Praticar e no Narrar de `x.2` e `x.3`. No parágrafo livre do Definir, aplicar **progressão de negritos**: `x.1` = negrito no TERMO; `x.2` = negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); `x.3` = negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). No áudio do Accordion e do Narrar, definição curta e explicação plain ficam em uma única linha, separadas por espaço. O texto visual após `[MP3\]` usa a versão bold e pode permanecer em parágrafos.
+5. Extrair palavras-chave do tema e da definição de `x.1` e usá-las no exemplo central, no Definir, no Perceber, no Praticar e no Narrar de `x.2` e `x.3`. No Definir, manter a ordem definição curta, explicação variável da palavra-chave e conexão teológica da semana, escrevendo "Veja o vídeo abaixo." na mesma linha da conexão. Aplicar **progressão de negritos** apenas na explicação, `x.1` = negrito no TERMO; `x.2` = negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); `x.3` = negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). A conexão teológica é idêntica em `x.1`, `x.2` e `x.3`. No áudio do Accordion, dos TABS do 2º ano e do Narrar, definição curta, explicação e conexão teológica plain ficam em uma única linha, separadas por espaço. O texto visual após `[MP3\]` usa a versão bold e pode permanecer em parágrafos.
+5.1. **No 2º ano**, substituir o Accordion do Definir por um único `[+TABS]`, com título, `@link_png@`, definição, explicação, MP3, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+6. Em cada aula regular, usar o marcador literal `#VOX:` no MP3. Quando `[+IMAGE_LABELED]` tiver apenas um hotspot, usar a coordenada central `49 50`. Revisões `.4` podem manter vários hotspots.
 6. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
 7. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
 8. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem. O Fill_In usa a definição curta da semana com a lacuna na palavra-chave específica da aula: `x.1` no termo central, `x.2` na palavra-chave do desdobramento, `x.3` na palavra-chave do contexto
@@ -68,7 +70,7 @@ Estrutura: `[Base]/Estrutura Curricular/`
 5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
 6. Remover metadados, emojis de seção, separadores `---`
 7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o MP3 contém definição curta e explicação completa, e o texto após `[MP3\]` mantém conteúdo equivalente com negritos permitidos
-8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo e música/rima são idênticos. Apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra devem variar
+8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo, conexão teológica e música/rima são idênticos. Apenas a explicação da palavra-chave, as imagens, o texto específico do Narrar e a Atividade Extra devem variar
 9. **Progressão por palavras-chave**: se for `x.2` ou `x.3`, garantir que palavras-chave de `x.1` aparecem no Definir, Perceber, Praticar e Narrar
 10. **Perspectiva de Belas Artes**: garantir que todo tema seja tratado pela observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual
 11. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano

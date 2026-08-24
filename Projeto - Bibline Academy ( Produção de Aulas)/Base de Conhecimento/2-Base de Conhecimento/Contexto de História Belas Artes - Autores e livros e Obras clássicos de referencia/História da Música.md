@@ -11,6 +11,8 @@ tags: [tipo/leitura, status/validado, area/musica, area/historia-da-arte]
 
 # História da Música - Períodos, Estilos e Compositores
 
+> **Escopo curricular:** esta nota começa no Gótico e serve como referência comparativa para o 3º ano em diante. Para o 2º ano, as práticas musicais antigas devem ser consultadas em `Referencias-Arte-Musica-2-Ano.md`, sempre distinguindo vestígios históricos de reconstruções sonoras.
+
 > Nota de leitura — síntese de um vídeo (reel do Instagram) que apresenta a linha do tempo dos grandes períodos da história da música erudita ocidental, ilustrando cada período com um trecho de obra e seu compositor.
 
 ## Metadados

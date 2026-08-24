@@ -4,8 +4,10 @@
 
 Este é o **primeiro contato da criança com o tema da semana**. O tema é definido em `x.1` e se repete em `x.2` e `x.3` com a mesma definição curta literal. Os outros 4 hábitos da aula vão reforçar esse mesmo tema por ângulos diferentes. A criança deve sair deste hábito sabendo nomear o tema da semana.
 
-Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) é **idêntico** ao de `x.1`. Apenas o parágrafo livre logo abaixo e a explicação dentro do Accordion adaptam o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
+Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) e a conexão teológica são **idênticos** aos de `x.1`. Apenas a explicação da palavra-chave adapta o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
 Esse parágrafo livre deve retomar palavras-chave do tema e da definição de `x.1`. A variação mostra exemplo novo, mas mantém o vocabulário central visível para a criança.
+
+No 2º ano, o bloco de atividade do Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
 
 Em Belas Artes, o Definir deve conectar o tema à observação visual da arte. Use vocabulário de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
 
@@ -16,9 +18,9 @@ Em Belas Artes, o Definir deve conectar o tema à observação visual da arte. U
 
 **[Definição curta do Recordar, EXATAMENTE a mesma frase.]**
 
-[Contexto principal do tema, em prosa direta, sem "Reconheça que". Argumento secundário ou dado concreto, sem "Observe que".]
+[Explicação da palavra-chave do tema, em prosa direta, sem "Reconheça que".]
 
-Veja o vídeo abaixo.
+[Conexão teológica da semana, ligada ao tema e literalmente idêntica em `x.1`, `x.2` e `x.3`. Veja o vídeo abaixo.]
 
 [-PARAGRAPH]
 
@@ -39,13 +41,15 @@ O que é [TERMO]?
 @link_png@
 
 [MP3/]
-#FSH:0b12d715e4c741399594fccb12d4bbe2
-[Definição curta da aula, igual ao Recordar.] [Explicação breve da aula em texto narrável.]
+#VOX:
+[Definição curta da aula, igual ao Recordar.] [Explicação breve da aula e conexão teológica em texto narrável.]
 [MP3\]
 
 **[Definição curta da aula, igual ao Recordar.]**
 
 [Explicação breve da aula com destaques visuais quando necessário.]
+
+[Conexão teológica da semana, literalmente idêntica ao Definir.]
 
 [-ACCORDION]
 ```
@@ -54,16 +58,16 @@ O que é [TERMO]?
 
 - O TERMO é da **semana**, não da aula. Ele deve ser inédito no Currículo Macro do ano, mas é **compartilhado** por `x.1`, `x.2` e `x.3`.
 - A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, Accordion, Statement_D do Recordar e Fill_In do Praticar).
-- Em `x.2` e `x.3`, **somente** o parágrafo livre logo após a definição (e a explicação no Accordion) muda, refletindo o desdobramento daquela aula.
-- Em `x.2` e `x.3`, o parágrafo livre e a explicação do Accordion devem usar palavras-chave do tema central de `x.1`.
+- Em `x.2` e `x.3`, **somente** a explicação da palavra-chave muda, refletindo o desdobramento daquela aula. A conexão teológica permanece idêntica.
+- Em `x.2` e `x.3`, a explicação e a conexão teológica devem usar e reforçar palavras-chave do tema central de `x.1`.
 - O parágrafo livre deve manter a perspectiva de Belas Artes e conectar o tema à observação visual da arte.
 - No 1º ano, a frase deve introduzir linguagem visual e elementos da arte de modo simples e observável.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
-- No Accordion, o MP3 deve narrar a definição curta e a explicação completa em uma única linha, separadas por espaço. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+- No Accordion, o MP3 deve narrar a definição curta, a explicação completa e a conexão teológica em uma única linha, separadas por espaço. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
 - O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
 - Exemplo (semana 3): se `x.1` fixa **"O ponto representa o começo de uma arte."**, `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`.
-- O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio.
-- O parágrafo imediatamente antes do Accordion usa literalmente "Leia o fato e ouça o áudio clicando abaixo.".
+- O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio. No 2º ano, usar um único TABS no lugar do Accordion, com título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+- O parágrafo imediatamente antes do Accordion ou dos TABS usa literalmente "Leia o fato e ouça o áudio clicando abaixo.".
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

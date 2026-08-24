@@ -78,7 +78,7 @@ A definição do termo principal deve aparecer **idêntica** em:
 2. No Recordar (Statement_D)
 3. Na Revisão semanal (tabela + Recordar)
 
-O Accordion usa a definição curta e a explicação completa em texto narrável. O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual.
+O Accordion usa a definição curta, a explicação completa da palavra-chave e a conexão teológica em texto narrável. O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual. A conexão teológica é idêntica nas três aulas da semana.
 
 ## Repetição Obrigatória das Palavras-Chave
 
@@ -95,7 +95,7 @@ A arte nos lugares da vida
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 A arte está nos lugares da vida como resposta à beleza criada por Deus.
 
@@ -115,7 +115,7 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 - Manter `@link_png@` logo abaixo do tema.
 - O áudio contém a definição curta e a explicação completa em texto narrável.
 - O texto após MP3\ repete o conteúdo do áudio, podendo manter negritos para leitura visual.
-- Voice ID obrigatório: `#11L:XXXXXXXXXXXXXXXXX`
+- Marcador de áudio obrigatório: `#VOX:`
 
 ### Fill_In
 - SEMPRE com parágrafo de enunciado ANTES: `[+PARAGRAPH] Complete as lacunas... [-PARAGRAPH]`
@@ -167,7 +167,7 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 - Trecho literário cristão, puritano ou poético entre aspas retas
 - No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` antes das perguntas
 - Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
-- 3 perguntas com interrogação e espaçamento entre elas
+- No 2º ano, 2 perguntas com interrogação e espaçamento entre elas. Nos demais anos, seguir a quantidade do template específico.
 - Perguntas curtas, diretas e fáceis de compreender
 - Cada resposta deve aparecer explicitamente no texto lido
 - O trecho deve trazer elementos claros do tema da aula

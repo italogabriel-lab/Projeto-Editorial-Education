@@ -1,7 +1,7 @@
 # Referências de Arte e Música - 2º Ano
 **Período:** Da Criação até a Arte Bizantina (Antiguidade)
 
-> **Nota Curricular:** Como a história oficial da música clássica ocidental registrada começa a partir do Período Gótico (após o ano 1000 d.C.), as referências musicais para a antiguidade são baseadas em cantos primitivos e gregorianos. Na arte, focamos em monumentos arquitetônicos e pinturas fundamentais da Antiguidade Clássica.
+> **Nota Curricular:** As fontes musicais da Antiguidade são fragmentárias e chegam por instrumentos, imagens, textos e registros preservados. O currículo distingue práticas antigas, canto cristão primitivo e canto bizantino do canto gregoriano medieval.
 
 ## 1. Arte Pré-Histórica e Mesopotâmica
 - **Artistas:** Construtores e pintores anônimos.
@@ -46,5 +46,5 @@
   - Mosaicos do Imperador Justiniano e da Imperatriz Teodora (Ravena).
   - Ícone de Cristo Pantocrator.
 - **Referências Musicais:**
-  - Canto Gregoriano Primitivo e salmodia da Igreja primitiva.
+  - Salmodia e cantos cristãos antigos da Igreja primitiva.
   - Cantos da Igreja Ortodoxa Bizantina.

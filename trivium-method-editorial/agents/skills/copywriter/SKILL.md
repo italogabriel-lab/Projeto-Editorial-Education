@@ -45,7 +45,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 ### 4. Narrar — Trecho Literário
 - [ ] O trecho é claro, narrativo e acessível
 - [ ] O trecho traz elementos explícitos do tema da aula
-- [ ] O trecho contém as respostas diretas para as 3 perguntas
+- [ ] No 2º ano, o trecho contém as respostas diretas para as 2 perguntas
 - [ ] Atribuição completa e formatada corretamente
 - [ ] Conexão clara com o tema da aula
 - [ ] No 3º ano, a imagem do Narrar permanece em `[+IMAGE]` após a leitura
@@ -56,7 +56,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Os distratores são curtos, plausíveis e claramente errados
 
 ### 5. Narrar — Perguntas
-- [ ] As 3 perguntas são curtas, diretas e fáceis de compreender
+- [ ] No 2º ano, as 2 perguntas são curtas, diretas e fáceis de compreender
 - [ ] Cada resposta aparece explicitamente no texto lido
 - [ ] As perguntas ajudam a criança a narrar com suas palavras
 - [ ] Não há perguntas abertas, reflexivas, abstratas ou inferenciais

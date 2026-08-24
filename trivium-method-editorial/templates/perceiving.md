@@ -23,17 +23,9 @@ Em Belas Artes, a imagem deve sustentar a leitura de artes visuais. Use natureza
 
 --
 
-[X1] [Y1]
+49 50
 
-[Título curto do hotspot 1]
-
-[Uma frase curta no imperativo, apontando o que observar.]
-
---
-
-[X2] [Y2]
-
-[Título curto do hotspot 2]
+[Título curto do hotspot central]
 
 [Uma frase curta no imperativo, apontando o que observar.]
 
@@ -43,7 +35,7 @@ Em Belas Artes, a imagem deve sustentar a leitura de artes visuais. Use natureza
 ## Regras
 
 - A imagem DEVE mostrar o conceito definido no Definir em ação, em exemplo ou em contexto.
-- Os 2 hotspots devem apontar para elementos que ilustram diretamente o conceito.
+- O hotspot único da aula regular deve apontar para o elemento central que ilustra diretamente o conceito e usar `49 50`.
 - Os hotspots devem nomear elementos ligados às palavras-chave estruturantes da semana.
 - O parágrafo do Perceber deve ter 1 frase curta, simples e direta.
 - As observações e explicações ficam nos hotspots, também de forma curta.

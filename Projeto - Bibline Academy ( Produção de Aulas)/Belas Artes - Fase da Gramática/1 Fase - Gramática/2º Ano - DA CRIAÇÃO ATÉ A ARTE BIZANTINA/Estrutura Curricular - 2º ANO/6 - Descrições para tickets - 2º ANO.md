@@ -168,29 +168,29 @@ Avaliar os conhecimentos das aulas da semana 2.
 
 ---
 
-[Belas artes] - Ano 2 - 3.2 Cores que expressam sentimentos (Update)
+[Belas artes] - Ano 2 - 3.2 A beleza do louvor na música (Update)
 
 # Description
 
-**Tema central da semana**, A arte como louvor. **Foco da aula**, primeiro desdobramento, Cores que expressam sentimentos.
+**Tema central da semana**, A arte como louvor. **Foco da aula**, primeiro desdobramento, A beleza do louvor na música.
 
 ## Objetivos
-   → Compreenda Cores que expressam sentimentos como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a Cores que expressam sentimentos.
-   → Narre oralmente um exemplo que mostre Cores que expressam sentimentos.
+   → Compreenda a beleza do louvor na música como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados à beleza do louvor na música.
+   → Narre oralmente um exemplo que mostre a beleza do louvor na música.
 
 ---
 
-[Belas artes] - Ano 2 - 3.3 O som da alegria (Update)
+[Belas artes] - Ano 2 - 3.3 O som do louvor a Deus (Update)
 
 # Description
 
-**Tema central da semana**, A arte como louvor. **Foco da aula**, segundo desdobramento, O som da alegria.
+**Tema central da semana**, A arte como louvor. **Foco da aula**, segundo desdobramento, O som do louvor a Deus.
 
 ## Objetivos
-   → Pratique O som da alegria como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O som da alegria em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O som da alegria dentro da progressão da semana.
+   → Pratique o som do louvor a Deus como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo da aula sobre o som do louvor a Deus em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender sobre o som do louvor a Deus dentro da progressão da semana.
 
 ---
 
@@ -202,8 +202,8 @@ Revisar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **A arte como louvor**
 - 3.1 A arte como louvor
-- 3.2 Cores que expressam sentimentos
-- 3.3 O som da alegria
+- 3.2 A beleza do louvor na música
+- 3.3 O som do louvor a Deus
 
 ---
 
@@ -215,8 +215,8 @@ Avaliar os conhecimentos das aulas da semana 3.
 
 ## 3ª Semana, **A arte como louvor**
 - 3.1 A arte como louvor
-- 3.2 Cores que expressam sentimentos
-- 3.3 O som da alegria
+- 3.2 A beleza do louvor na música
+- 3.3 O som do louvor a Deus
 
 ---
 
@@ -2239,48 +2239,48 @@ Avaliar os conhecimentos das aulas da semana 36.
 
 ---
 
-## Semana 37 – Arte cristã primitiva e catacumbas
+## Semana 37 – Roma e a arte cristã primitiva
 
-**Tema central da semana**, A igreja primitiva usa símbolos e imagens simples para confessar a fé e consolar os fiéis.
+**Tema central da semana**, Roma organiza poder e memória em imagens públicas, enquanto as comunidades cristãs preservam a fé em catacumbas e símbolos.
 
 ---
 
-[Belas artes] - Ano 2 - 37.1 Arte cristã primitiva e catacumbas (Update)
+[Belas artes] - Ano 2 - 37.1 Roma e a arte cristã primitiva (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, coração pedagógico que fixa a definição central.
+**Tema central da semana**, Roma e a arte cristã primitiva. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Arte cristã primitiva e catacumbas como coração pedagógico da semana.
+   → Reconheça Roma e a arte cristã primitiva como coração pedagógico da semana.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Arte cristã primitiva e catacumbas.
+   → Narre com as próprias palavras o que esta aula ensina sobre Roma e a arte cristã primitiva.
 
 ---
 
-[Belas artes] - Ano 2 - 37.2 O Bom Pastor nas catacumbas (Update)
+[Belas artes] - Ano 2 - 37.2 O retrato romano e o poder (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, primeiro desdobramento, O Bom Pastor nas catacumbas.
+**Tema central da semana**, Roma e a arte cristã primitiva. **Foco da aula**, primeiro desdobramento, O retrato romano e o poder.
 
 ## Objetivos
-   → Compreenda O Bom Pastor nas catacumbas como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a O Bom Pastor nas catacumbas.
-   → Narre oralmente um exemplo que mostre O Bom Pastor nas catacumbas.
+   → Compreenda O retrato romano e o poder como primeiro desdobramento do tema da semana.
+   → Perceba exemplos visuais, históricos ou simbólicos ligados a O retrato romano e o poder.
+   → Narre oralmente um exemplo que mostre O retrato romano e o poder.
 
 ---
 
-[Belas artes] - Ano 2 - 37.3 Símbolos cristãos nas pinturas (Update)
+[Belas artes] - Ano 2 - 37.3 As catacumbas e a memória cristã (Update)
 
 # Description
 
-**Tema central da semana**, Arte cristã primitiva e catacumbas. **Foco da aula**, segundo desdobramento, Símbolos cristãos nas pinturas.
+**Tema central da semana**, Roma e a arte cristã primitiva. **Foco da aula**, segundo desdobramento, As catacumbas e a memória cristã.
 
 ## Objetivos
-   → Pratique Símbolos cristãos nas pinturas como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de Símbolos cristãos nas pinturas em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender Símbolos cristãos nas pinturas dentro da progressão da semana.
+   → Pratique As catacumbas e a memória cristã como segundo desdobramento do tema da semana.
+   → Aplique o conteúdo de As catacumbas e a memória cristã em atividade prática, comparação ou observação guiada.
+   → Narre a experiência de aprender As catacumbas e a memória cristã dentro da progressão da semana.
 
 ---
 
@@ -2290,10 +2290,10 @@ Avaliar os conhecimentos das aulas da semana 36.
 
 Revisar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana, **Arte cristã primitiva e catacumbas**
-- 37.1 Arte cristã primitiva e catacumbas
-- 37.2 O Bom Pastor nas catacumbas
-- 37.3 Símbolos cristãos nas pinturas
+## 37ª Semana, **Roma e a arte cristã primitiva**
+- 37.1 Roma e a arte cristã primitiva
+- 37.2 O retrato romano e o poder
+- 37.3 As catacumbas e a memória cristã
 
 ---
 
@@ -2303,10 +2303,10 @@ Revisar os conhecimentos das aulas da semana 37.
 
 Avaliar os conhecimentos das aulas da semana 37.
 
-## 37ª Semana, **Arte cristã primitiva e catacumbas**
-- 37.1 Arte cristã primitiva e catacumbas
-- 37.2 O Bom Pastor nas catacumbas
-- 37.3 Símbolos cristãos nas pinturas
+## 37ª Semana, **Roma e a arte cristã primitiva**
+- 37.1 Roma e a arte cristã primitiva
+- 37.2 O retrato romano e o poder
+- 37.3 As catacumbas e a memória cristã
 
 ---
 
@@ -2414,4 +2414,3 @@ Avaliar todo o conteúdo do 4º bimestre, semanas 31 a 38.
 - Semana 38
 
 ---
-
