@@ -35,7 +35,6 @@ Revisão
 Provas
 
 Crises sociais e guerras
-
 Angústia existencial do século XX
 Subjetividade intensa e visão dramática
 
@@ -73,11 +72,9 @@ Provas
 
 Busca pela essência visual
 Ruptura total com a figuração
-
 Ênfase na forma e na cor pura
 
 Explorar ritmo, linha e cor
-
 Pintura abstrata e composições geométricas
 Ausência da figura humana
 
@@ -111,11 +108,9 @@ Provas
 
 Pós-Segunda Guerra Mundial
 Questionamento radical da tradição
-
 O artista como criador autônomo
 
 Experimentação e ruptura
-
 Pintura gestual e grandes formatos
 Expressividade livre e abstração intensa
 
