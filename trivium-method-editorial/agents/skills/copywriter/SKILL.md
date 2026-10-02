@@ -48,7 +48,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] No 2º ano, o trecho contém as respostas diretas para as 2 perguntas
 - [ ] Atribuição completa e formatada corretamente
 - [ ] Conexão clara com o tema da aula
-- [ ] No 3º ano, a imagem do Narrar permanece em `[+IMAGE]` após a leitura
+- [ ] No 3º ano, Narrar usa `[+IMAGE_TEXT_ASIDE]`, com conexão teológica na linha de `@link_png@`
 
 ### 4.1. Praticar — Múltipla Escolha
 - [ ] O `[+MULTIPLE]` permanece depois do Fill_In

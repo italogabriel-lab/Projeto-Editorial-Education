@@ -87,7 +87,7 @@ Todas as skills estão disponíveis como slash commands:
 
 No hábito Definir, o `[+ACCORDION]` deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual.
 
-No 2º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, MP3, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+No 3º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo H1 canónico, `@link_png@`, definição, explicação, MP3 e texto visual, seguido diretamente de `[-TABS]`. A conexão teológica fica na linha de `@link_png@` do `[+IMAGE_TEXT_ASIDE]` em Narrar.
 
 O bloco `[MP3/]...[MP3\]` narra a definição curta, a explicação completa da palavra-chave e a conexão teológica em texto narrável. O texto após `[MP3\]` repete o conteúdo do áudio, com negritos visuais permitidos. A definição curta permanece literalmente idêntica no cabeçalho do Definir, no Recordar, no Praticar e nas revisões.
 

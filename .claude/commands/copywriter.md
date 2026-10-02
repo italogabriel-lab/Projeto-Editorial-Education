@@ -36,8 +36,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] O polimento preserva palavras-chave estruturantes de `x.1`, especialmente em `x.2` e `x.3`
 
 ### 3. Accordion ou TABS — Definição
-- [ ] O Accordion contém tema, `@link_png@`, MP3 e texto visual. No 2º ano, um único TABS contém título, `@link_png@`, MP3, definição, explicação, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
-- [ ] O áudio do Accordion ou do TABS contém definição curta, explicação completa e conexão teológica
+- [ ] No 3º ano, o TABS contém título, `@link_png@`, MP3, definição, explicação e texto visual, sem conexão teológica.
 - [ ] O texto após `[MP3\]` repete o conteúdo do MP3 com negritos permitidos
 - [ ] Não há conteúdo extra fora do tema, imagem, MP3 e texto visual
 
@@ -47,7 +46,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] No 2º ano, o trecho contém as respostas diretas para as 2 perguntas
 - [ ] Atribuição completa e formatada corretamente
 - [ ] Conexão clara com o tema da aula
-- [ ] No 3º ano, a imagem do Narrar permanece em `[+IMAGE]` após a leitura
+- [ ] No 3º ano, Narrar usa `[+IMAGE_TEXT_ASIDE]`, com conexão teológica na linha de `@link_png@`
 
 ### 4.1. Praticar — Múltipla Escolha
 - [ ] O `[+MULTIPLE]` permanece depois do Fill_In

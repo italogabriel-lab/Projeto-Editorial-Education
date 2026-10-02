@@ -29,13 +29,13 @@ Compatibilidade:
 Diferenças por ano:
     Ano 1 : 2 opções no [+MULTIPLE] (1 correta + 1 distrator)
     Ano 2 : 3 opções no [+MULTIPLE] (1 correta + 2 distratores)
-    Anos 3 a 5 : 3 opções e o mesmo Narrar com [+IMAGE_TEXT_ASIDE]
+    Anos 3 a 5 : 3 opções e Narrar com [+IMAGE_TEXT_ASIDE]
 
 Padrões editoriais aplicados automaticamente:
     - Definição curta idêntica em Definir, Accordion/TABS, Recordar e Narrar
-    - No ano 2, um único TABS no Definir, com título, imagem, definição, áudio, texto visual e conexão teológica
+    - No 3º ano, o TABS do Definir contém somente definição e explicação
     - Accordion/TABS plain (sem negrito) antes de [MP3\\] e bold depois
-    - Narrar espelha literalmente o Definir (plain antes, bold depois)
+    - No 3º ano, Narrar coloca a conexão teológica na linha de @link_png@
     - Legendas do IMAGE_LABELED na revisão copiadas das aulas x.1, x.2, x.3
     - Fill-In da revisão com lacuna na palavra-chave correta
 """
@@ -99,11 +99,12 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
     aula = semana["aulas"][chave]
     ano = config.get("ano", 1)
     definicao = semana["definicao_curta"]
-    musica = semana["nome_musica"]
+    musica = semana["aulas"]["x1"]["titulo"] if ano == 3 else semana["nome_musica"]
     conexao_teologica = semana.get(
         "conexao_teologica",
         "[Conexão teológica da semana, ligada ao tema.]",
     )
+    conexao_sem_video = conexao_teologica.replace(" Veja o vídeo abaixo.", "")
 
     titulo = aula["titulo"]
     accordion_titulo = aula.get("accordion_titulo", titulo)
@@ -111,7 +112,8 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
 
     paragrafo_plain = aula["paragrafo_plain"]
     paragrafo_bold = aplicar_negrito(paragrafo_plain, palavras_negrito)
-    audio_plain = f"{definicao} {paragrafo_plain} {conexao_teologica}"
+    audio_plain = f"{definicao} {paragrafo_plain} {conexao_sem_video}"
+    audio_definir = f"{definicao} {paragrafo_plain}" if ano == 3 else audio_plain
 
     perceber_frase = aula["perceber_frase"]
     hotspot_coords = aula.get("perceber_hotspot_coords") or "49 50"
@@ -152,7 +154,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         paragrafo_bold,
         "",
-        f"{conexao_teologica} Veja o vídeo abaixo.",
+        f"{conexao_sem_video} Veja o vídeo abaixo." if ano != 3 else "Veja o vídeo abaixo.",
         "",
         "[-PARAGRAPH]",
         "",
@@ -172,11 +174,11 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
     ]
 
-    if ano == 2:
+    if ano in (2, 3):
         L += [
             "[+TABS]",
             "",
-            "Definição e explicação",
+            titulo,
             "",
             "@link_png@",
             "",
@@ -184,7 +186,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
             "",
             "#VOX:",
             "",
-            audio_plain,
+            audio_definir,
             "",
             MP3_FECHAR,
             "",
@@ -192,8 +194,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
             "",
             paragrafo_bold,
             "",
-            conexao_teologica,
-            "",
+            *([] if ano == 3 else [conexao_sem_video, ""]),
             "[-TABS]",
             "",
         ]
@@ -217,7 +218,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
             "",
             paragrafo_bold,
             "",
-            conexao_teologica,
+            conexao_sem_video,
             "",
             "[-ACCORDION]",
             "",
@@ -253,7 +254,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         "[+PARAGRAPH]",
         "",
-        "Ouça e repita a definição abaixo.",
+        "Ouça e repita o fato abaixo.",
         "",
         "[-PARAGRAPH]",
         "",
@@ -307,7 +308,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         "[+PARAGRAPH]",
         "",
-        "Complete a definição abaixo com a palavra correta.",
+        "Complete o fato abaixo com a palavra correta.",
         "",
         "[-PARAGRAPH]",
         "",
@@ -378,11 +379,11 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
     ]
 
-    # Todos os anos usam [+IMAGE_TEXT_ASIDE] com áudio, como espelho literal do Definir.
+    # No 3º ano, a conexão teológica acompanha a imagem e não o texto visual.
     L += [
         "[+IMAGE_TEXT_ASIDE]",
         "",
-        "@link_png@",
+        f"@link_png@ {conexao_sem_video}" if ano == 3 else "@link_png@",
         "",
         MP3_ABRIR,
         "",
@@ -396,8 +397,7 @@ def gerar_aula(config: dict, semana: dict, chave: str) -> str:
         "",
         paragrafo_bold,
         "",
-        conexao_teologica,
-        "",
+        *([] if ano == 3 else [conexao_sem_video, ""]),
         "[-IMAGE_TEXT_ASIDE]",
         "",
     ]
@@ -435,8 +435,9 @@ def gerar_revisao(config: dict, semana: dict) -> str:
     Gera o conteúdo markdown da revisão semanal (x.4).
     As legendas do IMAGE_LABELED são copiadas automaticamente das aulas x.1, x.2 e x.3.
     """
+    ano = config.get("ano", 1)
     definicao = semana["definicao_curta"]
-    musica = semana["nome_musica"]
+    musica = semana["aulas"]["x1"]["titulo"] if ano == 3 else semana["nome_musica"]
     revisao = semana["revisao"]
 
     # Legendas copiadas literalmente das aulas originais (regra editorial)
@@ -520,7 +521,7 @@ def gerar_revisao(config: dict, semana: dict) -> str:
         "",
         "[+PARAGRAPH]",
         "",
-        "Recorde agora o fato aprendido durante a semana.",
+        "Recorde o fato estudado durante a semana.",
         "",
         "[-PARAGRAPH]",
         "",

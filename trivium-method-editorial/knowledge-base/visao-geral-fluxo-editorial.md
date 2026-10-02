@@ -116,7 +116,7 @@ Cada semana de conteudo segue um padrao fixo de 5 arquivos:
 | `X.2.md` | Aula regular (Dia 2) | Segunda aula da semana |
 | `X.3.md` | Aula regular (Dia 3) | Terceira aula da semana |
 | `X.4.md` | Revisao semanal | Flashcards, matching e questoes das 3 aulas |
-| `X.5.md` | Prova semanal | Quiz CANVAS com questoes das 3 aulas |
+| `X.5.md` | Prova semanal | Quiz CANVAS com exatamente 10 questoes, derivadas das 3 aulas da semana |
 
 ### Estrutura Bimestral (10 semanas)
 
@@ -482,7 +482,7 @@ Os scripts automatizam tarefas de sincronizacao e manutencao que seriam propensa
 
 Alguns habitos possuem mais de uma opcao de bloco Rise permitida:
 
-No 2º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+No 3º ano, o Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo H1 canónico, `@link_png@`, definição, explicação, áudio e texto visual, seguido diretamente de `[-TABS]`. A conexão teológica fica na linha de `@link_png@` do `[+IMAGE_TEXT_ASIDE]` em Narrar.
 
 | Habito | Contexto | Opcao A (padrao) | Opcao B (alternativa) |
 | :--- | :--- | :--- | :--- |
@@ -637,3 +637,14 @@ RISE BLOCKS REFERENCE (rise-blocks-reference.md)
 
 *Ultima atualizacao: 2026-03-24*
 *Documento atualizado com base na analise completa do ecossistema editorial-squad.*
+
+
+## Fontes visuais do Perceber
+
+Para cada aula, priorize Getty Collection, Rawpixel Public Domain, National Gallery of Art e Artvee; Wikimedia Commons também pode ser usado como fonte complementar quando previsto no arquivo de links do ano. No Commons, a busca serve apenas para localizar candidatos. Abra a página individual do arquivo e selecione somente itens identificados como CC0 ou Domínio Público/PDM sem obrigação de atribuir autor ou fonte; prefira CC0. Exclua CC BY, CC BY-SA e qualquer licença que exija crédito, compartilhamento pela mesma licença ou outra condição de reutilização. Se status, licença ou direitos forem ambíguos, não use a imagem. PDM é uma marca informativa, não uma licença nem garantia universal; confira avisos de direitos e possíveis direitos de imagem, privacidade, marca ou outros direitos não autorais. Use o link direto da página individual do arquivo, nunca apenas a busca. Registre internamente título, autor, instituição, licença e URL para rastreabilidade; esse registro não cria obrigação externa de atribuição. Pixabay e Unsplash são complementares, e todas as fontes exigem verificação da licença do item específico.
+
+## Hotspot central das revisões
+
+Em toda aula `.4`, use `49 50` no hotspot central do `[+IMAGE_LABELED]`. Nunca use `50 50`. Os hotspots laterais podem usar `20 50` e `80 50` quando a revisão apresentar três imagens.
+
+- **Enunciado temático do Perceber nas revisões `.4`**: escrever uma frase curta no imperativo que retome explicitamente o tema central da semana e seus elementos visuais. O enunciado deve orientar a observação das imagens da semana. É proibida a fórmula genérica "Observe as imagens da semana e identifique as palavras-chave estudadas."

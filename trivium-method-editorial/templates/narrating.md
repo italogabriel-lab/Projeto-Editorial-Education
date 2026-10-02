@@ -6,7 +6,9 @@ Este é o **quinto e último contato da criança com o tema da semana**, agora p
 
 **Padrão do 2º ano**: o bloco final usa heading `Perguntas` e exatamente 2 perguntas direcionadas por aula. Cada resposta deve aparecer explicitamente no texto do Narrar.
 
-**Regra absoluta**: o texto do Narrar é literalmente idêntico ao Definir daquela aula. Não inventar texto novo. Não adicionar frases.
+**Regra absoluta**: definição e explicação do Narrar são literalmente idênticas ao Definir daquela aula. No 3º ano, a conexão teológica é a única informação adicional e fica junto da imagem. Não inventar texto novo.
+
+**Exceção do 3º ano**: use um único `[+IMAGE_TEXT_ASIDE]`. A conexão teológica semanal fica na linha de `@link_png@`. O MP3 a narra depois da definição e explicação, mas o texto visual após `[MP3\]` mostra somente definição e explicação. Não usar `[+PARAGRAPH]` seguido de `[+IMAGE]`.
 
 Em Belas Artes, o Narrar deve preservar o vocabulário visual da aula. A criança deve responder com base em imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual quando esses termos forem o foco.
 
@@ -44,7 +46,7 @@ Leitura
 
 ### Variante B — PARAGRAPH (legado)
 
-Esta variante pertence a aulas antigas do 3º ano. Para novas aulas dos anos 2º, 3º, 4º e 5º, use sempre a Variante A, com `[+IMAGE_TEXT_ASIDE]`, áudio e conexão teológica.
+Esta variante pertence a aulas antigas e não deve ser usada no 3º ano.
 
 ```markdown
 [+PARAGRAPH]

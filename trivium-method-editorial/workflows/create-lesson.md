@@ -65,7 +65,7 @@ Abra o arquivo `1 - Curriculo Macro - ... - [X]º ANO.md` do ano correspondente.
 - Se você está criando `x.2` ou `x.3`, **leia primeiro `x.1`** da mesma semana e extraia:
   - A **definição curta literal** de 8-10 palavras (vai ser repetida sem alteração)
   - O **termo principal** (vai ser o mesmo)
-  - O **nome da música ou rima** do Recordar (vai ser o mesmo)
+  - O **nome da música ou rima** do Recordar (vai ser o mesmo). No 3º ano, usar literalmente o título de `x.1` em `x.1`, `x.2`, `x.3` e `x.4`
   - As **palavras-chave estruturantes** do tema e da definição de `x.1`
 - Se você está criando `x.1`, escolha um termo que:
   - Tenha relação direta com o tema central da semana
@@ -84,14 +84,15 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - Consulte a base de conhecimento (`.agent/knowledge-base/`)
 - Escreva a aula nos 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
 - Use o **termo da semana** (compartilhado pelas 3 aulas) como conceito central
-- Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1` e a mesma conexão teológica da semana. No início do Definir, use a ordem definição curta, explicação variável da palavra-chave e conexão teológica, com "Veja o vídeo abaixo." na mesma linha da conexão. Apenas a explicação da palavra-chave, as imagens, o texto específico do Narrar e a Atividade Extra variam
+- Em `x.2` e `x.3`, mantenha a **mesma definição curta literal** de `x.1` e a mesma conexão teológica da semana. No 3º ano, o Definir usa somente definição, explicação e "Veja o vídeo abaixo.", e a conexão fica na linha de `@link_png@` do Narrar.
 - Em `x.2` e `x.3`, use palavras-chave do tema de `x.1` no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
 - Mantenha a perspectiva de Belas Artes em todos os hábitos, sem deixar exemplos de natureza, objetos ou histórias virarem tema paralelo
+- Para o Perceber, consulte o arquivo `4 - Links-para-imagens-perceber` e use busca temática em inglês. Priorize Openverse com filtro `CC0/PDM`, Rawpixel Public Domain e itens Open Access ou Public Domain. Confirme a licença na página individual e registre título, autor, instituição, licença e URL. No Wikimedia Commons, aceite apenas CC0 ou Domínio Público/PDM sem obrigação de atribuição, prefira CC0, descarte CC BY/CC BY-SA e use link direto do arquivo; busca não comprova licença.
 - Siga a progressão pedagógica extraída do plano
-- Use a definição curta do Recordar literalmente no cabeçalho do Definir e no Statement_D. No Accordion, nos TABS do 2º ano e no Narrar, narre definição curta, explicação completa e conexão teológica na mesma linha do MP3, separadas por espaço. Mantenha o texto visual equivalente após `[MP3\]`, em parágrafos quando necessário.
-- No 2º ano, substitua o Accordion do Definir por um único `[+TABS]`, com título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+- No 3º ano, o TABS do Definir contém somente definição e explicação. No Narrar, o MP3 traz definição, explicação e conexão em uma linha, e o texto visual após `[MP3\]` contém somente definição e explicação.
+- No 3º ano, substitua o Accordion do Definir por um único `[+TABS]`, com título, `@link_png@`, definição, explicação, áudio e texto visual, seguido diretamente de `[-TABS]`.
 - Em Praticar, mantenha sempre Fill_In, depois `[+MULTIPLE]`, depois Atividade Extra com `[+ACTIVITY_WORKSHEET]`
-- No 3º ano, em Narrar, mantenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
+- No 3º ano, em Narrar, use um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`
 - **Output:** Rascunho em Rise Blocks → `[READY_FOR_STEP_5]`
 
 ### 3.2 — Passo 5: Standardizer (Editor de Estilo)
@@ -111,8 +112,10 @@ Com o plano pedagógico e o tema central da semana definidos, execute as 4 etapa
 - **Verificação adicional**: confirme que o termo da semana NÃO está na lista de termos de semanas anteriores
 - **Verificação adicional**: se for `x.2` ou `x.3`, confirme que definição curta, termo e música/rima são literais a `x.1`
 - **Verificação adicional**: se for `x.2` ou `x.3`, confirme que as palavras-chave de `x.1` reaparecem no exemplo central, no Definir, no Perceber, no Praticar e no Narrar
+- **Verificação de imagens**: confirme que cada link do Perceber usa palavra-chave em inglês, aponta para o tema da aula e tem licença individual verificada. Rejeite imagens sem indicação clara de CC0, Public Domain, Open Access ou licença compatível.
+- **Revisão `.4`**: confirme que o enunciado do Perceber retoma explicitamente o tema central e os elementos visuais da semana, sem fórmula genérica.
 - **Verificação adicional**: confirme que a definição curta do Recordar aparece literalmente no cabeçalho do Definir. No Accordion, confirme que MP3 e texto visível têm conteúdo equivalente
-- **Verificação adicional**: confirme que Praticar contém `[+MULTIPLE]` e, no 3º ano, Narrar contém `[+IMAGE]` após a leitura
+- **Verificação adicional**: confirme que Praticar contém `[+MULTIPLE]` e, no 3º ano, Narrar contém um único `[+IMAGE_TEXT_ASIDE]`
 - Se `[APPROVED_FOR_STEP_7]` → prossiga
 - Se `[REJECTED]` → retorne ao passo indicado e repita
 
@@ -161,7 +164,7 @@ Execute o workflow `/publish`:
 - Use os `[+FILL_IN]` progressivos e as perguntas `[+MULTIPLE]` específicas como referência direta
 - As perguntas devem tratar do tema, das palavras-chave e dos exemplos da semana
 - Não use perguntas estruturais como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" ou "O que a revisão da semana deve manter?"
-- Crie o arquivo `[Semana].5.md` seguindo o padrão CANVAS_QUIZ (prova = 5ª aula da semana)
+- Crie o arquivo `[Semana].5.md` seguindo o padrão CANVAS_QUIZ com exatamente 10 questões de 10 pontos, separadas por 9 linhas `--` (prova = 5ª aula da semana)
 - Em provas, todo `MULTIPLE_CHOICE` deve trazer enunciado com `?`
 - **Output:** Arquivo de prova semanal salvo localmente
 

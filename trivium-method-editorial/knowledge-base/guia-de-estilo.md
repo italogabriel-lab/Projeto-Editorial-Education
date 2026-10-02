@@ -165,7 +165,7 @@ O ser humano reconhece **arte** quando observa beleza em casa, na igreja, nos li
 
 ### Narrar
 - Trecho literário cristão, puritano ou poético entre aspas retas
-- No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` antes das perguntas
+- No 3º ano, usar um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`, nunca `[+PARAGRAPH]` seguido de `[+IMAGE]`
 - Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
 - No 2º ano, 2 perguntas com interrogação e espaçamento entre elas. Nos demais anos, seguir a quantidade do template específico.
 - Perguntas curtas, diretas e fáceis de compreender

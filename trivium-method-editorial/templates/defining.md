@@ -5,13 +5,19 @@
 Este é o **primeiro contato da criança com o tema da semana**. O tema é definido em `x.1` e se repete em `x.2` e `x.3` com a mesma definição curta literal. Os outros 4 hábitos da aula vão reforçar esse mesmo tema por ângulos diferentes. A criança deve sair deste hábito sabendo nomear o tema da semana.
 
 Nas aulas `x.2` e `x.3`, o cabeçalho do Definir (definição curta em negrito) e a conexão teológica são **idênticos** aos de `x.1`. Apenas a explicação da palavra-chave adapta o ângulo específico da aula (primeiro desdobramento, segundo desdobramento).
+
+**Exceção do 3º ano**: o Definir contém somente definição curta, explicação da palavra-chave e "Veja o vídeo abaixo.". A conexão teológica fica no Narrar, na linha de `@link_png@` do `[+IMAGE_TEXT_ASIDE]`.
 Esse parágrafo livre deve retomar palavras-chave do tema e da definição de `x.1`. A variação mostra exemplo novo, mas mantém o vocabulário central visível para a criança.
 
-No 2º ano, o bloco de atividade do Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+Nos 2º e 3º anos, o bloco de atividade do Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo título, `@link_png@`, definição, explicação, áudio e texto visual, seguido diretamente de `[-TABS]`.
+
+No 3º ano, o TABS não inclui a conexão teológica, apenas definição e explicação.
 
 Em Belas Artes, o Definir deve conectar o tema à observação visual da arte. Use vocabulário de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual.
 
 ## Estrutura obrigatória
+
+Nos anos 1, 4 e 5, use o bloco Accordion demonstrado abaixo. Nos anos 2 e 3, mantenha o conteúdo e substitua as tags de abertura e fechamento por `[+TABS]` e `[-TABS]`, usando como título o H1 canónico da aula.
 
 ```markdown
 [+PARAGRAPH]
@@ -57,17 +63,17 @@ O que é [TERMO]?
 ## Regras
 
 - O TERMO é da **semana**, não da aula. Ele deve ser inédito no Currículo Macro do ano, mas é **compartilhado** por `x.1`, `x.2` e `x.3`.
-- A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, Accordion, Statement_D do Recordar e Fill_In do Praticar).
+- A definição curta nasce em `x.1` e se **repete literalmente** em `x.2` e `x.3` (cabeçalho do Definir, bloco Accordion ou TABS, Statement_D do Recordar e Fill_In do Praticar).
 - Em `x.2` e `x.3`, **somente** a explicação da palavra-chave muda, refletindo o desdobramento daquela aula. A conexão teológica permanece idêntica.
 - Em `x.2` e `x.3`, a explicação e a conexão teológica devem usar e reforçar palavras-chave do tema central de `x.1`.
 - O parágrafo livre deve manter a perspectiva de Belas Artes e conectar o tema à observação visual da arte.
 - No 1º ano, a frase deve introduzir linguagem visual e elementos da arte de modo simples e observável.
 - O Definir inicia com a definição curta em negrito, logo na primeira linha do `[+PARAGRAPH]`.
 - A definição curta deve aparecer literalmente no cabeçalho do Definir, no Statement_D do Recordar e no Praticar com lacunas.
-- No Accordion, o MP3 deve narrar a definição curta, a explicação completa e a conexão teológica em uma única linha, separadas por espaço. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
-- O tema/pergunta do Accordion pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
+- No Accordion ou TABS, o MP3 deve narrar a definição curta, a explicação completa e a conexão teológica em uma única linha, separadas por espaço. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+- O tema do Accordion ou o título do TABS pode variar entre `x.1`, `x.2` e `x.3` para refletir o ângulo de cada aula.
 - Exemplo (semana 3): se `x.1` fixa **"O ponto representa o começo de uma arte."**, `x.1` apresenta o tema de forma abrangente, `x.2` trabalha `ponto` e `começo`, e `x.3` trabalha `ponto` e `arte`.
-- O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio. No 2º ano, usar um único TABS no lugar do Accordion, com título, `@link_png@`, definição, explicação, áudio, texto visual e conexão teológica, seguido diretamente de `[-TABS]`.
+- O Accordion deve conter tema ou pergunta simples, `@link_png@`, MP3 e texto visual equivalente ao áudio. No 3º ano, usar um único TABS com título, `@link_png@`, definição, explicação, áudio e texto visual, sem conexão teológica.
 - O parágrafo imediatamente antes do Accordion ou dos TABS usa literalmente "Leia o fato e ouça o áudio clicando abaixo.".
 - Sem `;`, `:`, `—` — usar `,` ou `.`.
 - Voz ativa, imperativo, frases ≤ 30 palavras.

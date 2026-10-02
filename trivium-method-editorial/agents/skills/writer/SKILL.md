@@ -38,7 +38,7 @@ Consulte o Currículo Macro e o Plano Pedagógico. Identifique:
 Se você está redigindo `x.2` ou `x.3`, **leia primeiro** `x.1` da mesma semana e extraia dela:
 - A definição curta literal (vai no cabeçalho do Definir, no Accordion, no Statement_D e no Fill_In)
 - O termo principal
-- A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração
+- A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração. No 3º ano, o nome exibido é literalmente o título da aula `x.1`.
 - As palavras-chave estruturantes do tema central e da definição curta de `x.1`
 
 ### 4. Verificar Termos Já Definidos no Ano
@@ -113,11 +113,10 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Em `x.2` e `x.3`, **só varia esse parágrafo livre** (e a explicação no Accordion). A definição curta em negrito é literal de `x.1`, e o parágrafo livre deve usar palavras-chave do tema central.
 - **Parágrafo livre = uma frase única**: escrever UMA ÚNICA FRASE direta e objetiva. Nunca adicionar segunda frase do tipo "A criança aprende a...", "A criança percebe que..." — são genéricas e proibidas.
 - **Progressão de negritos obrigatória**: em `x.1`, a frase coloca em negrito somente o TERMO. Em `x.2`, coloca em negrito o TERMO e a palavra-chave específica de `x.2` (a mesma resposta do fill-in de `x.2`). Em `x.3`, coloca em negrito o TERMO e a palavra-chave específica de `x.3`. Exemplo (semana 3): `x.1` → 'Você observa **pontos** na arte e percebe como um pequeno sinal pode começar uma imagem.'; `x.2` → 'Você aprende que o **ponto** pode ser o **começo** de um desenho, porque uma imagem pode nascer de um pequeno sinal.'; `x.3` → 'Você usa o **ponto** na **arte** para marcar lugares, criar detalhes e organizar a imagem com cuidado.' No áudio do Accordion e do Narrar, a definição curta e o parágrafo livre plain ficam em uma única linha, separados por espaço. O texto visual após `[MP3\]` usa a versão bold e pode permanecer em parágrafos.
-- Escrever "Veja o vídeo abaixo." na mesma linha da conexão teológica, antes do fechamento do parágrafo.
-- Frase final obrigatória: a conexão teológica da semana seguida de "Veja o vídeo abaixo.".
+- No 3º ano, escrever "Veja o vídeo abaixo." após a explicação, sem conexão teológica no Definir. A conexão fica na linha de `@link_png@` do Narrar.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
 - Antes do Accordion ou dos TABS, escreva literalmente: "Leia o fato e ouça o áudio clicando abaixo.".
-- Accordion nos anos 1, 3, 4 e 5, ou um único TABS no 2º ano, com título, `@link_png@`, MP3 com definição curta, explicação completa e conexão teológica em uma única linha, separadas por espaço. Aplicar a mesma linha única ao áudio do Narrar. No 2º ano, encerrar o TABS diretamente após o texto visual da conexão teológica.
+- No 3º ano, usar um único TABS com título, `@link_png@`, definição e explicação. A conexão teológica não entra no TABS. Em Narrar, o MP3 mantém definição, explicação e conexão em linha única, e a conexão fica junto de `@link_png@`.
 - Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
 - Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre `Arte expressa a beleza criada por Deus com habilidade humana.` O parágrafo livre adapta o foco para expressão, beleza e habilidade respectivamente.
 
@@ -146,17 +145,18 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
 - A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
-- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
+- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` que peça a reprodução prática de forma, composição, técnica ou detalhe visual específico da aula. Proibido usar enunciado genérico ou pedir somente que a criança escreva uma palavra.
 - Em `x.2` e `x.3`, a Atividade Extra deve usar palavras-chave do tema central e aplicar o ângulo da aula
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas
-- No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` logo após a leitura, antes de `Perguntas`
+- No 3º ano, usar um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`, nunca `[+PARAGRAPH]` seguido de `[+IMAGE]`
 - Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
 - O texto DEVE trazer elementos explícitos do tema da aula e do conceito definido
 - Em `x.2` e `x.3`, o texto deve repetir palavras-chave de `x.1` junto ao foco específico da aula
 - No 2º ano, o texto DEVE conter as respostas às 2 perguntas em frases claras. Nos demais anos, seguir a quantidade do template específico.
+- No 3º ano, usar 3 perguntas na ordem definição, explicação e conexão teológica. A terceira pergunta deve pedir um dado explícito da frase teológica, sem mencionar "conexão teológica" nem usar pergunta genérica.
 - O texto deve repetir imagens, ações ou objetos ligados ao conceito definido no Definir
 - Atribuição com autor, obra, referência bíblica
 - No 2º ano, 2 perguntas curtas, diretas e fáceis de compreender. Nos demais anos, seguir a quantidade do template específico.
@@ -181,3 +181,8 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 ## Output
 
 Um arquivo markdown (`draft_class.md`) seguindo a estrutura do golden template, com conteúdo completo para os 5 hábitos, pronto para formatação Rise Blocks na Etapa 3.
+
+
+## Fontes visuais do Perceber
+
+Para cada aula, priorize Getty Collection, Rawpixel Public Domain, National Gallery of Art e Artvee; Wikimedia Commons também pode ser usado como fonte complementar quando previsto no arquivo de links do ano. No Commons, a busca serve apenas para localizar candidatos. Abra a página individual do arquivo e selecione somente itens identificados como CC0 ou Domínio Público/PDM sem obrigação de atribuir autor ou fonte; prefira CC0. Exclua CC BY, CC BY-SA e qualquer licença que exija crédito, compartilhamento pela mesma licença ou outra condição de reutilização. Se status, licença ou direitos forem ambíguos, não use a imagem. PDM é uma marca informativa, não uma licença nem garantia universal; confira avisos de direitos e possíveis direitos de imagem, privacidade, marca ou outros direitos não autorais. Use o link direto da página individual do arquivo, nunca apenas a busca. Registre internamente título, autor, instituição, licença e URL para rastreabilidade; esse registro não cria obrigação externa de atribuição. Pixabay e Unsplash são complementares, e todas as fontes exigem verificação da licença do item específico.

@@ -91,20 +91,20 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 ### 1. Definir
 - `# [Título da Aula]` (H1)
 - `## Definir` (H2)
-- Intro → `[+PARAGRAPH]` com definição curta em negrito na primeira linha, explicação variável da palavra-chave e conexão teológica da semana, seguida de "Veja o vídeo abaixo." na mesma linha
+- No 3º ano, Intro → `[+PARAGRAPH]` com definição curta em negrito, explicação variável e "Veja o vídeo abaixo.", sem conexão teológica
 - A definição que abre o Definir deve ser a definição curta do Recordar, literalmente a mesma frase.
 - O parágrafo livre deve manter palavras-chave do tema central de `x.1`, especialmente em `x.2` e `x.3`.
 - Vídeo → `[+VIDEO][-VIDEO]`
 - Atividade → `[+HEADING] Atividade [-HEADING]`
 - Instrução → `[+PARAGRAPH]` com o texto literal "Leia o fato e ouça o áudio clicando abaixo."
-- Definição → `[+ACCORDION]`:
+- Definição → `[+ACCORDION]` nos anos 1, 4 e 5, ou `[+TABS]` nos anos 2 e 3:
   - Tema ou pergunta simples da aula.
   - `@link_png@` logo abaixo do tema.
   - `[MP3/]` com o marcador literal `#VOX:`, definição curta e explicação completa em texto narrável.
   - Texto após `[MP3\]` equivalente ao áudio, podendo manter negritos para leitura visual.
-- **CRÍTICO**: o áudio do Accordion, dos TABS do 2º ano e do Narrar deve narrar a definição curta, a explicação completa e a conexão teológica em uma única linha, separadas por espaço.
+- **CRÍTICO no 3º ano**: o TABS narra somente definição e explicação. O MP3 do Narrar narra definição, explicação e conexão em uma única linha.
 - **CRÍTICO**: A definição curta completa DEVE ser literalmente idêntica no cabeçalho do Definir e no Recordar.
-- **CRÍTICO**: manter `@link_png@` dentro do Accordion do Definir, ou do único TABS do 2º ano.
+- **CRÍTICO**: manter `@link_png@` dentro do Accordion do Definir, ou do único TABS dos 2º e 3º anos.
 
 ### 2. Perceber
 - `## Perceber` (H2)
@@ -143,7 +143,7 @@ Usar EXATAMENTE as tags abaixo. NÃO usar markdown padrão para esses elementos.
 - `## Narrar` (H2)
 - `[+HEADING] Leitura [-HEADING]`
 - Para 1º, 2º, 4º e 5º ano, usar `[+IMAGE_TEXT_ASIDE]` com `@link_png@`, trecho entre aspas retas dividido em **2 parágrafos** e atribuição em linha única
-- Para 3º ano, usar `[+PARAGRAPH]` para o trecho e manter `[+IMAGE]` com `@link_png@` logo depois da leitura, antes de `Perguntas`
+- Para 3º ano, usar um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`, nunca `[+PARAGRAPH]` seguido de `[+IMAGE]`
 - `[+HEADING] Perguntas [-HEADING]`
 - No 2º ano, `[+LIST_NUMBERED]` com exatamente 2 perguntas, interrogação e 1 linha de espaço entre elas. Nos demais anos, seguir a quantidade do template específico.
 - Texto deve conter elementos explícitos do tema da aula e respostas diretas para todas as perguntas
