@@ -106,7 +106,7 @@ Antes de gerar qualquer aula, consultar nesta ordem:
 | 4 | Imagens que contam histórias | Imagem | Imagens que contam histórias | Luz nas pinturas | O que a arte revela sobre Deus |
 | 5 | O dom criativo em Gênesis | Dom criativo | O dom criativo em Gênesis | No princípio, Deus criou | O homem criador |
 | 6 | A cor na criação de Deus | Cor | A cor na criação de Deus | O arco da aliança | O círculo cromático |
-| 7 | Cores primárias e secundárias | Matiz | Cores primárias e secundárias | O poder do matiz e da luz | O céu como tela divina |
+| 7 | O matiz na pintura | Matiz | O matiz na pintura | Matizes entre cores primárias e secundárias | Matizes do céu em uma paisagem |
 | 8 | Sons que tocam o coração | Som | Sons que tocam o coração | Ritmo e melodia | Vozes dos instrumentos |
 | 9 | Revisão bimestral | — | Revisão das semanas 1 a 8 | — | — |
 | 10 | Prova bimestral | — | Prova das semanas 1 a 8 | — | — |
@@ -220,7 +220,7 @@ Estrutura:
 
 Use o template: Estrutura Curricular - 2º ANO/Templates Novos - 2º ANO/4-template-prova-semanal.md
 
-Estrutura: # Provas, [CANVAS_QUIZ], 9 questões de 10 pontos separadas por --
+Estrutura: # Provas, [CANVAS_QUIZ], 10 questões de 10 pontos separadas por 9 linhas --
 Padrão: 3 FILL_IN (progressivos) + 3 MULTIPLE_CHOICE + 1 MATCHING + 1 TRUE_OR_FALSE + 1 MULTIPLE_CHOICE
 
 === SAÍDA ESPERADA ===
@@ -259,7 +259,7 @@ SEMANAS E TÍTULOS .1:
 - Semana 4 → Imagens que contam histórias
 - Semana 5 → O dom criativo em Gênesis
 - Semana 6 → A cor na criação de Deus
-- Semana 7 → Cores primárias e secundárias
+- Semana 7 → O matiz na pintura
 - Semana 8 → Sons que tocam o coração
 
 DEFINIÇÕES CURTAS (literais, buscar nas aulas .1 de cada semana):

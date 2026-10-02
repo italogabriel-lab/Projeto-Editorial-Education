@@ -56,11 +56,11 @@ Dom criativo
 # Semana 6
 Cor
 
-## Semana 7 - Cores primárias e secundárias
+## Semana 7 - O matiz na pintura
 
-- 7.1 Cores primárias e secundárias
-- 7.2 O poder do matiz e da luz
-- 7.3 O céu como tela divina
+- 7.1 O matiz na pintura
+- 7.2 Matizes entre cores primárias e secundárias
+- 7.3 Matizes do céu em uma paisagem
 
 # Semana 7
 Matiz

@@ -97,17 +97,17 @@ A aula `.2` desenvolve o primeiro subtópico. A aula `.3` desenvolve o segundo s
 
 ---
 
-## Semana 7, Cores primárias e secundárias
+## Semana 7, O matiz na pintura
 
-**Tema central**, Cores primárias e secundárias. A aula 7.1 apresenta a base das cores. A aula 7.2 desenvolve o matiz e a luz. A aula 7.3 desenvolve o céu como tela divina.
+**Tema central**, O matiz na pintura. A aula 7.1 apresenta o matiz como qualidade da cor. A aula 7.2 observa matizes entre cores primárias e secundárias. A aula 7.3 observa os matizes do céu em uma paisagem pintada.
 
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
-| 7.1 | Cores primárias e secundárias | Identificar a estrutura básica da linguagem cromática. |
-| 7.2 | O poder do matiz e da luz | Reconhecer o matiz e a luz como primeiro desdobramento expressivo do tema. |
-| 7.3 | O céu como tela divina | Entender o firmamento como segundo desdobramento da linguagem das cores. |
+| 7.1 | O matiz na pintura | Identificar o matiz como qualidade que distingue uma cor. |
+| 7.2 | Matizes entre cores primárias e secundárias | Reconhecer o matiz em cores primárias e secundárias de uma pintura. |
+| 7.3 | Matizes do céu em uma paisagem | Identificar os matizes do céu representados em uma paisagem. |
 
-**Conceitos da semana**, Cor primária, Matiz, Firmamento
+**Conceitos da semana**, Matiz, Cor primária, Cor secundária
 
 ---
 

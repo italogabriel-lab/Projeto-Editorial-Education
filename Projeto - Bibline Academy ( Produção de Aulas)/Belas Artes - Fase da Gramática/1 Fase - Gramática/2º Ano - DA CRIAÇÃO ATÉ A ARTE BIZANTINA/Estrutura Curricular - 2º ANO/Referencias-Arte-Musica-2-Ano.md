@@ -1,6 +1,7 @@
 # Referências de Arte e Música - 2º Ano
 **Período:** Da Criação até a Arte Bizantina (Antiguidade)
 
+
 > **Nota Curricular:** As fontes musicais da Antiguidade são fragmentárias e chegam por instrumentos, imagens, textos e registros preservados. O currículo distingue práticas antigas, canto cristão primitivo e canto bizantino do canto gregoriano medieval.
 
 ## 1. Arte Pré-Histórica e Mesopotâmica

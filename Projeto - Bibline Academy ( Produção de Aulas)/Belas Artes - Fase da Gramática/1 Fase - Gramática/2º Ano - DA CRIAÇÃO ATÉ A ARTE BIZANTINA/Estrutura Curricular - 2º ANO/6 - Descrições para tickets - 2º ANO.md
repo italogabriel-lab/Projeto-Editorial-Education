@@ -433,48 +433,48 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 ---
 
-## Semana 7 – Cores primárias e secundárias
+## Semana 7 – O matiz na pintura
 
 **Tema central da semana**, A cor fala por contraste, harmonia e simbolismo.
 
 ---
 
-[Belas artes] - Ano 2 - 7.1 Cores primárias e secundárias (Update)
+[Belas artes] - Ano 2 - 7.1 O matiz na pintura (Update)
 
 # Description
 
-**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, coração pedagógico que fixa a definição central.
+**Tema central da semana**, O matiz na pintura. **Foco da aula**, coração pedagógico que fixa a definição central.
 
 ## Objetivos
-   → Reconheça Cores primárias e secundárias como coração pedagógico da semana.
+   → Reconheça o matiz como qualidade que distingue uma cor das outras.
    → Recorde a definição central por meio da escuta, da repetição e da canção memorizadora.
-   → Narre com as próprias palavras o que esta aula ensina sobre Cores primárias e secundárias.
+   → Narre com as próprias palavras o que esta aula ensina sobre o matiz na pintura.
 
 ---
 
-[Belas artes] - Ano 2 - 7.2 O poder do matiz e da luz (Update)
+[Belas artes] - Ano 2 - 7.2 Matizes entre cores primárias e secundárias (Update)
 
 # Description
 
-**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, primeiro desdobramento, O poder do matiz e da luz.
+**Tema central da semana**, O matiz na pintura. **Foco da aula**, primeiro desdobramento, Matizes entre cores primárias e secundárias.
 
 ## Objetivos
-   → Compreenda O poder do matiz e da luz como primeiro desdobramento do tema da semana.
-   → Perceba exemplos visuais, históricos ou simbólicos ligados a O poder do matiz e da luz.
-   → Narre oralmente um exemplo que mostre O poder do matiz e da luz.
+   → Compreenda os matizes entre cores primárias e secundárias como primeiro desdobramento do tema da semana.
+   → Perceba em uma pintura o matiz de cores primárias e secundárias.
+   → Narre oralmente um exemplo que mostre a diferença entre esses matizes.
 
 ---
 
-[Belas artes] - Ano 2 - 7.3 O céu como tela divina (Update)
+[Belas artes] - Ano 2 - 7.3 Matizes do céu em uma paisagem (Update)
 
 # Description
 
-**Tema central da semana**, Cores primárias e secundárias. **Foco da aula**, segundo desdobramento, O céu como tela divina.
+**Tema central da semana**, O matiz na pintura. **Foco da aula**, segundo desdobramento, Matizes do céu em uma paisagem.
 
 ## Objetivos
-   → Pratique O céu como tela divina como segundo desdobramento do tema da semana.
-   → Aplique o conteúdo de O céu como tela divina em atividade prática, comparação ou observação guiada.
-   → Narre a experiência de aprender O céu como tela divina dentro da progressão da semana.
+   → Pratique a observação dos matizes do céu em uma paisagem pintada.
+   → Aplique o conteúdo em uma atividade de pintura com matizes do céu.
+   → Narre a presença de matizes no céu de uma paisagem pintada.
 
 ---
 
@@ -484,10 +484,10 @@ Avaliar os conhecimentos das aulas da semana 6.
 
 Revisar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana, **Cores primárias e secundárias**
-- 7.1 Cores primárias e secundárias
-- 7.2 O poder do matiz e da luz
-- 7.3 O céu como tela divina
+## 7ª Semana, **O matiz na pintura**
+- 7.1 O matiz na pintura
+- 7.2 Matizes entre cores primárias e secundárias
+- 7.3 Matizes do céu em uma paisagem
 
 ---
 
@@ -497,10 +497,10 @@ Revisar os conhecimentos das aulas da semana 7.
 
 Avaliar os conhecimentos das aulas da semana 7.
 
-## 7ª Semana, **Cores primárias e secundárias**
-- 7.1 Cores primárias e secundárias
-- 7.2 O poder do matiz e da luz
-- 7.3 O céu como tela divina
+## 7ª Semana, **O matiz na pintura**
+- 7.1 O matiz na pintura
+- 7.2 Matizes entre cores primárias e secundárias
+- 7.3 Matizes do céu em uma paisagem
 
 ---
 

@@ -373,7 +373,7 @@ Linguagem visual: artes visuais, observação, forma, composição e memória hi
 
 ## Semana 7
 
-### Aula 7.1 — Cores primárias e secundárias
+### Aula 7.1 — O matiz na pintura
 
 **Prompt:**
 
@@ -383,16 +383,16 @@ Luz suave, proporções compreensíveis e acabamento adequado para crianças de 
 A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-"O matiz distingue as cores primárias das secundárias revelando profundidade na arte."
+"O matiz nomeia a cor que vemos em uma pintura."
 
 Composição da cena
-A cena deve representar visualmente **Cores primárias e secundárias**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
-Elementos visuais: O matiz distingue as cores primárias das secundárias revelando profundidade na arte.
+A cena deve representar visualmente **O matiz na pintura**, mostrando uma pintura com áreas vermelhas, azuis e amarelas.
+Elementos visuais: O matiz nomeia a cor que vemos em uma pintura.
 A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
 Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 7.2 — O poder do matiz e da luz
+### Aula 7.2 — Matizes entre cores primárias e secundárias
 
 **Prompt:**
 
@@ -402,16 +402,16 @@ Luz suave, proporções compreensíveis e acabamento adequado para crianças de 
 A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-"O matiz usa a variação de luz para revelar profundidade e beleza na obra de arte."
+"A qualidade do matiz distingue as cores primárias das secundárias em uma pintura."
 
 Composição da cena
-A cena deve representar visualmente **O poder do matiz e da luz**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
-Elementos visuais: O matiz usa a variação de luz para revelar profundidade e beleza na obra de arte.
+A cena deve representar visualmente **Matizes entre cores primárias e secundárias**, mostrando uma pintura com cores primárias e secundárias em áreas distinguíveis.
+Elementos visuais: A qualidade do matiz distingue as cores primárias das secundárias em uma pintura.
 A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
 Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```
 
-### Aula 7.3 — O céu como tela divina
+### Aula 7.3 — Matizes do céu em uma paisagem
 
 **Prompt:**
 
@@ -421,11 +421,11 @@ Luz suave, proporções compreensíveis e acabamento adequado para crianças de 
 A imagem deve priorizar observação visual, forma, linha, espaço, composição e contexto histórico. Não inserir texto, letras ou elementos modernos.
 
 Cena inspirada no trecho
-"O matiz é a variação de cor que revela a profundidade do céu como tela divina."
+"O matiz de uma cor aparece no céu pintado em uma paisagem."
 
 Composição da cena
-A cena deve representar visualmente **O céu como tela divina**, mostrando uma obra, objeto, espaço ou prática artística coerente com o período estudado.
-Elementos visuais: O matiz é a variação de cor que revela a profundidade do céu como tela divina.
+A cena deve representar visualmente **Matizes do céu em uma paisagem**, mostrando uma paisagem pintada com céu azul, amarelo e alaranjado.
+Elementos visuais: O matiz de uma cor aparece no céu pintado em uma paisagem.
 A composição deve destacar o elemento central da aula e manter uma leitura visual simples, bela e historicamente reconhecível.
 Linguagem visual: artes visuais, observação, forma, composição e memória histórica.
 ```

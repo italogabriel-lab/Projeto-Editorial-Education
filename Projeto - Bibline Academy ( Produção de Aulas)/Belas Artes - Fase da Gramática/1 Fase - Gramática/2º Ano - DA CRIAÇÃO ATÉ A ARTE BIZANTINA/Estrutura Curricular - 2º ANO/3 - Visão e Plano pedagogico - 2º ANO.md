@@ -115,7 +115,7 @@ Levar o aluno a reconhecer que a arte nasce de Deus, acompanha a história human
 
 ---
 
-## Semana 7, Cores primárias e secundárias
+## Semana 7, O matiz na pintura
 
 **Visão teológica**, A cor fala por contraste, harmonia e simbolismo.
 
@@ -123,9 +123,9 @@ Levar o aluno a reconhecer que a arte nasce de Deus, acompanha a história human
 
 | Aula | Título | Função na progressão |
 | --- | --- | --- |
-| 7.1 | Cores primárias e secundárias | Coração da semana. Define a base da linguagem cromática. |
-| 7.2 | O poder do matiz e da luz | Primeiro desdobramento. Desenvolve variação e intensidade. |
-| 7.3 | O céu como tela divina | Segundo desdobramento. Desenvolve a observação do firmamento. |
+| 7.1 | O matiz na pintura | Coração da semana. Define o matiz como qualidade que distingue uma cor. |
+| 7.2 | Matizes entre cores primárias e secundárias | Primeiro desdobramento. Observa como o matiz diferencia cores em uma pintura. |
+| 7.3 | Matizes do céu em uma paisagem | Segundo desdobramento. Observa os matizes do céu representados em uma paisagem. |
 
 **Mensagem central**, As cores ensinam ordem, significado e contemplação.
 
