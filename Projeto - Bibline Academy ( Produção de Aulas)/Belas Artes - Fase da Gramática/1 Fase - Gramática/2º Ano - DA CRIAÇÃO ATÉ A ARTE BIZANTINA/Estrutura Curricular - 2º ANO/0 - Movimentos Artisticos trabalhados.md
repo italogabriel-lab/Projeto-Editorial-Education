@@ -4,7 +4,7 @@
 
 O 2º ano inicia a história das artes. O percurso começa nos fundamentos bíblicos da criação e da vocação humana, passa pelas primeiras culturas visuais e termina na Arte Bizantina.
 
-Este arquivo é o mapa-mestre para a próxima sincronização do Currículo Macro, da Matriz Curricular, da Visão e Plano pedagógico e dos demais documentos dependentes. Até essa sincronização, os títulos de aula vigentes continuam no Currículo Macro.
+Este arquivo é o mapa-mestre histórico do 2º ano e deve permanecer sincronizado com o Currículo Macro, a Matriz Curricular, a Visão e Plano pedagógico e os demais documentos dependentes.
 
 ## Abordagem pedagógica
 
@@ -25,16 +25,14 @@ O 2º ano pertence à fase da Gramática.
 - Encerramento, Arte Cristã Primitiva e Arte Bizantina.
 - Continuidade no 3º ano, arte medieval, Gótico e Renascimentos.
 
-## Diagnóstico da estrutura atual
+## Estado curricular sincronizado
 
-A estrutura atual contém bons temas de criação, linguagem visual e culturas antigas, mas precisa destes ajustes na próxima sincronização.
-
-1. A Mesopotâmia deve aparecer antes do Egito.
-2. O Egito não deve ocupar sozinho todo um bimestre.
-3. A Arte Egeia e a Arte Grega precisam de espaço maior antes de Roma.
-4. A história da música deve acompanhar cada cultura, sem inventar repertórios inexistentes.
-5. Canto gregoriano não deve ser apresentado como música da Antiguidade. Ele pertence ao percurso medieval do 3º ano.
-6. A Arte Bizantina deve encerrar o ano como ponte para a Idade Média.
+1. O 1º bimestre apresenta os fundamentos bíblicos, a linguagem visual e a linguagem sonora.
+2. O 2º bimestre percorre a Pré-História.
+3. O 3º bimestre percorre Mesopotâmia e Egito.
+4. O 4º bimestre percorre Egeu e Grécia, introduz Roma como ponte para o Cristianismo primitivo e encerra em Bizâncio.
+5. A música antiga é apresentada por vestígios arqueológicos, imagens, instrumentos e registros preservados, sem tratar reconstruções como documentos originais.
+6. O canto cristão primitivo e o canto bizantino são distinguidos do canto gregoriano medieval, que pertence ao percurso do 3º ano.
 
 ## Eixos obrigatórios para cada período
 
@@ -68,10 +66,10 @@ As datas se sobrepõem porque culturas diferentes coexistiram. A sequência curr
 
 | Bimestre | Semanas de conteúdo | Eixo histórico | Resultado esperado |
 |---|---|---|---|
-| 1º | 1 a 8 | fundamentos bíblicos e Arte Pré-Histórica | nomear arte, beleza, imagem, som, pigmento, gravura, escultura e monumento |
-| 2º | 11 a 18 | Mesopotâmia e Egito | reconhecer cidade, templo, estela, pirâmide, frontalidade, hierarquia e escrita visual |
-| 3º | 21 a 28 | Arte Egeia e Arte Grega | observar movimento, proporção, ordem, vaso, escultura, teatro, lira e harmonia |
-| 4º | 31 a 38 | Roma, Arte Cristã Primitiva e Bizâncio | reconhecer retrato, arco, cúpula, mosaico, basílica, símbolo cristão, ícone e canto litúrgico |
+| 1º | 1 a 8 | fundamentos bíblicos, linguagem visual e linguagem sonora | nomear arte, beleza, imagem, cor, som, ritmo, melodia e instrumento |
+| 2º | 11 a 18 | Arte Pré-Histórica | reconhecer caverna, símbolo, contorno, escultura, monumento, pigmento e gravura |
+| 3º | 21 a 28 | Mesopotâmia e Egito | reconhecer cidade, templo, estela, zigurate, escrita, pirâmide, frontalidade e cor simbólica |
+| 4º | 31 a 38 | Arte Egeia, Arte Grega, Roma, Cristianismo primitivo e Bizâncio | reconhecer movimento, proporção, ordem, vaso, lira, retrato, catacumba, ícone e canto litúrgico |
 
 ## 1. Fundamentos bíblicos da arte e da música
 

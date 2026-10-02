@@ -251,7 +251,7 @@ Contraste
 
 - 34.1 A proporção na arte
 - 34.2 O grande perto do pequeno
-- 34.3 A proporção do corpo e da casa
+- 34.3 A proporção da árvore e da flor
 
 # Semana 34
 Proporção

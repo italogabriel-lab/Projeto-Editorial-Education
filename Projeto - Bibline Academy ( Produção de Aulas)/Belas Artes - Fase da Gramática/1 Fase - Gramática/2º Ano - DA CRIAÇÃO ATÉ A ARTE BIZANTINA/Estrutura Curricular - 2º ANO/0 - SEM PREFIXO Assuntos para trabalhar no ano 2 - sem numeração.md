@@ -7,8 +7,8 @@ Jubal e o som da música
 Tubalcaim e o ofício do metal
 
 A arte como louvor
-Cores que expressam sentimentos
-O som da alegria
+A beleza do louvor na música
+O som do louvor a Deus
 
 Imagens que contam histórias
 Luz nas pinturas
@@ -22,9 +22,9 @@ A cor na criação de Deus
 O arco da aliança
 O círculo cromático
 
-Cores primárias e secundárias
-O poder do matiz e da luz
-O céu como tela divina
+O matiz na pintura
+Matizes entre cores primárias e secundárias
+Matizes do céu em uma paisagem
 
 Sons que tocam o coração
 Ritmo e melodia
@@ -114,10 +114,6 @@ A arte minoica e Cnossos
 Frescos do palácio de Cnossos
 Movimento e natureza na arte minoica
 
-A arte micênica e suas muralhas
-A Porta dos Leões em Micenas
-Forças e defesa na arte micênica
-
 A arte grega e suas ordens
 O Partenon e as colunas gregas
 A ordem na arquitetura grega
@@ -134,41 +130,9 @@ A lira e a música grega
 Música no teatro e na educação
 O Epitáfio de Sícilo
 
-A arte grega do período helenístico
-A Vitória de Samotrácia
-Drama e movimento no Helenismo
-
-Revisão
-
-Provas
-
-A arte romana e o retrato
-Augusto de Prima Porta
-O rosto como registro de poder
-
-Arquitetura romana e engenharia
-O Coliseu e o Panteão
-Arco, abóbada e cúpula
-
-Mosaico e afresco romanos
-Afrescos de Pompeia
-A Coluna de Trajano
-
-Música romana e vida pública
-Instrumentos militares e teatrais
-A música no cotidiano de Roma
-
-Arte cristã primitiva e catacumbas
-O Bom Pastor nas catacumbas
-Símbolos cristãos nas pinturas
-
-Sarcófagos e basílicas cristãs
-O sarcófago de Júnio Basso
-A basílica como espaço cristão
-
-Arte Bizantina e mosaicos de ouro
-Mosaicos de Justiniano em Ravena
-Frontalidade e hierarquia na arte bizantina
+Roma e a arte cristã primitiva
+O retrato romano e o poder
+As catacumbas e a memória cristã
 
 Arte Bizantina e ícones
 O Cristo Pantocrator

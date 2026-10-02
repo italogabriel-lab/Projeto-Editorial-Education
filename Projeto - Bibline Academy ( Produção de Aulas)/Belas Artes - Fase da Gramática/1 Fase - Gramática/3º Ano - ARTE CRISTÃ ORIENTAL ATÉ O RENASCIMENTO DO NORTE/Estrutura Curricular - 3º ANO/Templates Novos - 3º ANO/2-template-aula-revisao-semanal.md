@@ -50,7 +50,7 @@ Atividade
 
 --
 
-50 50
+49 50
 
 [Título da aula x.2]
 
@@ -80,7 +80,7 @@ Atividade
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — idêntica ao Definir.]
 

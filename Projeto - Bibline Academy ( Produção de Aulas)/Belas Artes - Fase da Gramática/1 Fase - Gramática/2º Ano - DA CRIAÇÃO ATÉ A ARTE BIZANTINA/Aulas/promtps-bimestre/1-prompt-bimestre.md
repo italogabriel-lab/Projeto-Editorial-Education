@@ -81,7 +81,7 @@ Antes de gerar qualquer aula, consultar nesta ordem:
 | Hábito | Enunciado fixo |
 | --- | --- |
 | Definir (antes do Accordion) | `Leia o fato e ouça o áudio clicando abaixo.` |
-| Recordar (parágrafo de abertura) | `Ouça e repita a definição abaixo.` |
+| Recordar (parágrafo de abertura) | `Ouça e repita o fato abaixo.` |
 | Praticar (antes do Fill-In) | `Complete o fato abaixo com a palavra correta.` |
 | Revisão semanal — Recordar | `Recorde o fato estudado durante a semana.` |
 
@@ -102,11 +102,11 @@ Antes de gerar qualquer aula, consultar nesta ordem:
 | --- | --- | --- | --- | --- | --- |
 | 1 | A arte vem de Deus | Criação | A arte vem de Deus | A criação é bela | Feitos à imagem do Criador |
 | 2 | Arte nos primeiros dias | Ofício | Arte nos primeiros dias | Jubal e o som da música | Tubalcaim e o ofício do metal |
-| 3 | A arte como louvor | Louvor | A arte como louvor | Cores que expressam sentimentos | O som da alegria |
+| 3 | A arte como louvor | Louvor | A arte como louvor | A beleza do louvor na música | O som do louvor a Deus |
 | 4 | Imagens que contam histórias | Imagem | Imagens que contam histórias | Luz nas pinturas | O que a arte revela sobre Deus |
 | 5 | O dom criativo em Gênesis | Dom criativo | O dom criativo em Gênesis | No princípio, Deus criou | O homem criador |
 | 6 | A cor na criação de Deus | Cor | A cor na criação de Deus | O arco da aliança | O círculo cromático |
-| 7 | Cores primárias e secundárias | Matiz | Cores primárias e secundárias | O poder do matiz e da luz | O céu como tela divina |
+| 7 | O matiz na pintura | Matiz | O matiz na pintura | Matizes entre cores primárias e secundárias | Matizes do céu em uma paisagem |
 | 8 | Sons que tocam o coração | Som | Sons que tocam o coração | Ritmo e melodia | Vozes dos instrumentos |
 | 9 | Revisão bimestral | — | Revisão das semanas 1 a 8 | — | — |
 | 10 | Prova bimestral | — | Prova das semanas 1 a 8 | — | — |
@@ -164,7 +164,7 @@ DEFINIR:
 - [+VIDEO][-VIDEO]
 - [+HEADING] Atividade [-HEADING]
 - [+PARAGRAPH] "Leia o fato e ouça o áudio clicando abaixo." [-PARAGRAPH]
-- [+ACCORDION]: pergunta simples, @link_png@, [MP3/], #FSH:..., definição+parágrafo (plain, 1 linha), [MP3\], definição bold + parágrafo bold
+- [+ACCORDION]: pergunta simples, @link_png@, [MP3/], #VOX:..., definição+parágrafo (plain, 1 linha), [MP3\], definição bold + parágrafo bold
 - [-ACCORDION]
 
 PERCEBER:
@@ -173,8 +173,8 @@ PERCEBER:
 - Use os links em: 4 - Links-para-imagens-perceber-2-ano.md, seção Semana [SEMANA], aula [SEMANA].[N]
 
 RECORDAR:
-- [+PARAGRAPH] "Ouça e repita a definição abaixo." [-PARAGRAPH]
-- [+STATEMENT_D]: [MP3/], #FSH:..., definição plain, [MP3\], definição plain [-STATEMENT_D]
+- [+PARAGRAPH] "Ouça e repita o fato abaixo." [-PARAGRAPH]
+- [+STATEMENT_D]: [MP3/], #VOX:..., definição plain, [MP3\], definição plain [-STATEMENT_D]
 - [+HEADING] Hora de memorizar com música [-HEADING]
 - [+PARAGRAPH] "Clique abaixo para ouvir a música." [-PARAGRAPH]
 - [+IMAGE_TEXT_ON]: @link_png@, @link_mp3@, [nome da música] [-IMAGE_TEXT_ON]
@@ -191,7 +191,7 @@ PRATICAR:
 
 NARRAR (padrão 2º ano — 2 perguntas):
 - [+HEADING] Leitura [-HEADING]
-- [+IMAGE_TEXT_ASIDE]: @link_png@, [MP3/], #FSH:..., definição+parágrafo (plain, 1 linha), [MP3\], definição bold + parágrafo bold [-IMAGE_TEXT_ASIDE]
+- [+IMAGE_TEXT_ASIDE]: @link_png@, [MP3/], #VOX:..., definição+parágrafo (plain, 1 linha), [MP3\], definição bold + parágrafo bold [-IMAGE_TEXT_ASIDE]
 - Use o prompt de imagem em: 5 - Prompts-para-imagens-narrar-2-ano.md, seção Semana [SEMANA], Aula [SEMANA].[N]
 - [+HEADING] Perguntas [-HEADING]
 - [+PARAGRAPH] "Responda oralmente as perguntas abaixo sobre o texto." [-PARAGRAPH]
@@ -220,7 +220,7 @@ Estrutura:
 
 Use o template: Estrutura Curricular - 2º ANO/Templates Novos - 2º ANO/4-template-prova-semanal.md
 
-Estrutura: # Provas, [CANVAS_QUIZ], 9 questões de 10 pontos separadas por --
+Estrutura: # Provas, [CANVAS_QUIZ], 10 questões de 10 pontos separadas por 9 linhas --
 Padrão: 3 FILL_IN (progressivos) + 3 MULTIPLE_CHOICE + 1 MATCHING + 1 TRUE_OR_FALSE + 1 MULTIPLE_CHOICE
 
 === SAÍDA ESPERADA ===
@@ -259,7 +259,7 @@ SEMANAS E TÍTULOS .1:
 - Semana 4 → Imagens que contam histórias
 - Semana 5 → O dom criativo em Gênesis
 - Semana 6 → A cor na criação de Deus
-- Semana 7 → Cores primárias e secundárias
+- Semana 7 → O matiz na pintura
 - Semana 8 → Sons que tocam o coração
 
 DEFINIÇÕES CURTAS (literais, buscar nas aulas .1 de cada semana):

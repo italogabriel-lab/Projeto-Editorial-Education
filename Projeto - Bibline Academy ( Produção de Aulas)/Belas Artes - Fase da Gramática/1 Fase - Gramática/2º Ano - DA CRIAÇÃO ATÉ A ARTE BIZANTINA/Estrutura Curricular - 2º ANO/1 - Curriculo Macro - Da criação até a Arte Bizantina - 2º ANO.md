@@ -23,8 +23,8 @@ Ofício
 ## Semana 3 - A arte como louvor
 
 - 3.1 A arte como louvor
-- 3.2 Cores que expressam sentimentos
-- 3.3 O som da alegria
+- 3.2 A beleza do louvor na música
+- 3.3 O som do louvor a Deus
 
 # Semana 3
 Louvor
@@ -56,11 +56,11 @@ Dom criativo
 # Semana 6
 Cor
 
-## Semana 7 - Cores primárias e secundárias
+## Semana 7 - O matiz na pintura
 
-- 7.1 Cores primárias e secundárias
-- 7.2 O poder do matiz e da luz
-- 7.3 O céu como tela divina
+- 7.1 O matiz na pintura
+- 7.2 Matizes entre cores primárias e secundárias
+- 7.3 Matizes do céu em uma paisagem
 
 # Semana 7
 Matiz
@@ -284,14 +284,14 @@ Proporção
 # Semana 36
 Lira
 
-## Semana 37 - Arte Cristã Primitiva e catacumbas
+## Semana 37 - Roma e a arte cristã primitiva
 
-- 37.1 Arte cristã primitiva e catacumbas
-- 37.2 O Bom Pastor nas catacumbas
-- 37.3 Símbolos cristãos nas pinturas
+- 37.1 Roma e a arte cristã primitiva
+- 37.2 O retrato romano e o poder
+- 37.3 As catacumbas e a memória cristã
 
 # Semana 37
-Catacumba
+Arte romana
 
 ## Semana 38 - Arte Bizantina e ícones
 

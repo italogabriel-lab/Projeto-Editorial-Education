@@ -11,6 +11,8 @@ tags: [tipo/leitura, status/validado, area/arte, area/historia-da-arte]
 
 # História da Arte - Períodos, Artistas e Obras Principais
 
+> **Escopo curricular:** esta nota começa no Gótico e serve como referência comparativa para o 3º ano em diante. Para o 2º ano, da Criação até a Arte Bizantina, a fonte específica é `Referencias-Arte-Musica-2-Ano.md`, complementada pelos documentos de movimentos artísticos do 2º ano.
+
 > Nota de leitura — síntese da linha do tempo dos grandes períodos da história da arte ocidental (pintura/escultura/arquitetura), seguindo o mesmo recorte de períodos usado em [[../02_Leituras_e_fontes/SOURCE - História da Música - Períodos, Estilos e Compositores|História da Música - Períodos, Estilos e Compositores]], para permitir comparação direta entre artes visuais e música em cada época.
 
 ## Metadados

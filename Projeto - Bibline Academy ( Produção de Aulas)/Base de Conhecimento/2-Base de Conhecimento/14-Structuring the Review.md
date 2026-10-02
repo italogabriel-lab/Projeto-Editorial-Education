@@ -162,9 +162,9 @@ Leia e ouça cada fato com atenção e relembre o que foi aprendido nas aulas de
 
 [MP3/]  
 // [https://help.elevenlabs.io/hc/en-us/articles/14599760033937-How-do-I-find-the-voice-ID-of-my-voices-via-the-website-and-API](https://help.elevenlabs.io/hc/en-us/articles/14599760033937-How-do-I-find-the-voice-ID-of-my-voices-via-the-website-and-API)  
-#11L:6F5Zhi321D3Oq7v1oNT4  
+#VOX:
 No princípio, criou Deus os céus e a terra.  
-#11L:XrExE9yKIg1WjnnlVkGX  
+#VOX:
 Disse Deus: Haja luz; e houve luz.  
 #GGL:pt-BR-Chirp3-HD-Leda  
 E viu Deus que a luz era boa; e fez separação entre a luz e as trevas.  
@@ -184,7 +184,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus gravida erat 
 
 [MP3/]  
 // [https://help.elevenlabs.io/](https://help.elevenlabs.io/)...  
-#11L:Zy3R7p821H5Qx8d2ePL9  
+#VOX:
 E disse Deus: Haja firmamento no meio das águas, e separação entre águas e águas.  
 [MP3]
 

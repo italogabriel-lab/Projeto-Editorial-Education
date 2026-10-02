@@ -78,11 +78,15 @@ A unidade pedagógica é a semana inteira, não a aula isolada. Cada semana tem:
 - 1 tema central, definido em `x.1`
 - 1 definição curta única, literalmente idêntica em `x.1`, `x.2` e `x.3`
 - 1 termo principal compartilhado pelas 3 aulas
-- 1 música ou rima no Recordar, comum às 3 aulas
+- 1 música ou rima no Recordar, comum às 3 aulas. No 3º ano, o título em `[+IMAGE_TEXT_ON]` é literalmente o título da aula `x.1`, repetido em `x.1`, `x.2`, `x.3` e `x.4`.
 
-Entre `x.1`, `x.2` e `x.3` variam apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens e a Atividade Extra. A revisão `.4` usa essa mesma definição única.
+Entre `x.1`, `x.2` e `x.3` varia apenas a explicação da palavra-chave, as imagens e a Atividade Extra. Na folha de atividades, o `INSTRUCTION=` pede a reprodução de forma, composição, técnica ou detalhe visual específico da aula. No 3º ano, o Definir traz somente definição curta, explicação e "Veja o vídeo abaixo.". A conexão teológica, ligada ao tema e literalmente idêntica nas três aulas, fica na linha de `@link_png@` do `[+IMAGE_TEXT_ASIDE]` em Narrar. A revisão `.4` usa essa mesma definição única.
 
-Quando um MP3 reunir a definição curta e a explicação, ambas devem ficar em uma única linha, separadas por espaço, no Accordion e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+No 3º ano, o bloco do Definir usa um único `[+TABS]` no lugar de `[+ACCORDION]`, contendo H1 canónico, `@link_png@`, definição, explicação, áudio e texto visual, seguido diretamente de `[-TABS]`. A conexão teológica não aparece nesse bloco.
+
+Quando um MP3 reunir a definição curta, a explicação e a conexão teológica, os três trechos devem ficar em uma única linha, separados por espaço, no Accordion, nos TABS dos 2º e 3º anos e no Narrar. O texto visual após `[MP3\]` pode permanecer em parágrafos, com negritos.
+
+Nas aulas, o marcador do áudio é sempre a linha literal `#VOX:` dentro de `[MP3/]`. O padrão antigo `#FSH:` e outros voice IDs não devem ser usados. Em aulas regulares com apenas um hotspot central em `[+IMAGE_LABELED]`, a coordenada padrão é `49 50`. Revisões `.4` podem usar múltiplos hotspots com coordenadas próprias.
 
 Os enunciados fixos das novas aulas são "Leia o fato e ouça o áudio clicando abaixo." no Definir, "Ouça e repita o fato abaixo." no Recordar e "Complete o fato abaixo com a palavra correta." antes do Fill_In no Praticar.
 
@@ -120,6 +124,8 @@ Exemplo com o tema "O ponto representa o começo de uma obra de arte": `x.1` col
 Em provas semanais `.5` e provas bimestrais `10.md`, `20.md`, `30.md` e `40.md`, todo bloco `MULTIPLE_CHOICE` deve ter enunciado com `?`.
 
 As provas semanais `.5` devem usar o `Praticar` das aulas `x.1`, `x.2` e `x.3` como referência direta. Copie a lógica dos `[+FILL_IN]` progressivos e das perguntas `[+MULTIPLE]` específicas. Pergunte sobre o tema, as palavras-chave e os exemplos da semana. Não use perguntas estruturais como "Qual frase resume melhor a semana?", "Qual foi o termo da semana?", "Qual aula apresentou o coração da semana?", "Relacione cada aula ao foco estudado nesta semana.", "Como o aluno deve praticar o tema?" ou "O que a revisão da semana deve manter?".
+
+As provas semanais `.5` usam `[CANVAS_QUIZ]` com exatamente 10 questões de 10 pontos, separadas por 9 linhas `--`, derivadas do conteúdo de `Praticar` das três aulas da semana.
 
 As provas bimestrais `10.md`, `20.md`, `30.md` e `40.md` usam título obrigatório `# Prova`, nunca `# Provas` nem `# Prova bimestral`. O arquivo usa `[CANVAS_QUIZ]` e tem exatamente 10 questões de 10 pontos, separadas por 9 linhas `--`. A prova cobre todo o conteúdo das 8 semanas do bimestre, usando a revisão bimestral, as revisões semanais `.4` e as provas semanais `.5` como fontes diretas. O padrão preferencial é 4 `FILL_IN`, 4 `MULTIPLE_CHOICE`, 1 `MATCHING` com os 8 termos centrais e 1 `TRUE_OR_FALSE`. Não use perguntas estruturais como "Qual termo pertence ao bloco estudado?", "Como a prova deve avaliar o aluno?", "Título inventado" ou "Assunto fora do Macro".
 
@@ -304,3 +310,16 @@ npm run build:artifacts # Gera artefatos do framework
 ## Licença
 
 MIT — Italo Gabriel
+
+
+## Fontes visuais do Perceber
+
+Para cada aula, priorize Getty Collection, Rawpixel Public Domain, National Gallery of Art e Artvee; Wikimedia Commons também pode ser usado como fonte complementar quando previsto no arquivo de links do ano. No Commons, a busca serve apenas para localizar candidatos. Abra a página individual do arquivo e selecione somente itens identificados como CC0 ou Domínio Público/PDM sem obrigação de atribuir autor ou fonte; prefira CC0. Exclua CC BY, CC BY-SA e qualquer licença que exija crédito, compartilhamento pela mesma licença ou outra condição de reutilização. Se status, licença ou direitos forem ambíguos, não use a imagem. PDM é uma marca informativa, não uma licença nem garantia universal; confira avisos de direitos e possíveis direitos de imagem, privacidade, marca ou outros direitos não autorais. Use o link direto da página individual do arquivo, nunca apenas a busca. Registre internamente título, autor, instituição, licença e URL para rastreabilidade; esse registro não cria obrigação externa de atribuição. Pixabay e Unsplash são complementares, e todas as fontes exigem verificação da licença do item específico.
+
+## Hotspot central das revisões
+
+Em toda aula `.4`, use `49 50` no hotspot central do `[+IMAGE_LABELED]`. Nunca use `50 50`. Os hotspots laterais podem usar `20 50` e `80 50` quando a revisão apresentar três imagens.
+
+
+
+- **Enunciado temático do Perceber nas revisões `.4`**: escrever uma frase curta no imperativo que retome explicitamente o tema central da semana e seus elementos visuais. O enunciado deve orientar a observação das imagens da semana. É proibida a fórmula genérica "Observe as imagens da semana e identifique as palavras-chave estudadas."

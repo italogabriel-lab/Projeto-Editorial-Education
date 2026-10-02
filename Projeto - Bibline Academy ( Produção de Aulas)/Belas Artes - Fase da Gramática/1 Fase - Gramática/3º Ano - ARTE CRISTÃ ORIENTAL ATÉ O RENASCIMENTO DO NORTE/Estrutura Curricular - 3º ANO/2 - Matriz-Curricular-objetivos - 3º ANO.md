@@ -1,479 +1,481 @@
-### _3º ANO – VOL. 2_
-### _Arte Cristã Oriental até o Renascimento do Norte_
+# 3º ano - Matriz curricular e objetivos
 
-**Base:** Fase da Gramática do Trivium | Cosmovisão Cristã Reformada  
-**Fontes:** Bíblia Sagrada + Webster's Dictionary 1828  
-**Público-alvo:** Pais educadores e alunos entre 8 e 12 anos  
-**Formato:** 5 Hábitos (Definir, Perceber, Recordar, Praticar, Narrar)
+## Arte Cristã Oriental até o Renascimento do Norte
 
----
+**Base:** Fase da Gramática do Trivium e cosmovisão cristã reformada.
 
-## 📗 Semana 1 – **Arte Bizantina: o Império e a fé**
+**Organização:** Cada semana apresenta um tema central, dois desdobramentos visuais e um termo central. A sequência começa com Bizâncio como ponte, percorre a Idade Média e culmina nos Renascimentos.
 
-**Tema central:** A arte bizantina nasce da união entre poder imperial e fé cristã no Oriente.
+# 1º bimestre
 
-| Aula | Título                                            | Objetivo Teológico-Pedagógico                                                             |
-| ---- | ------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| 1.1  | **Império Romano do oriente e arte bizantina** | Compreender a formação do Império Bizantino como herdeiro de Roma e berço de uma imensa tradição artística cristã. |
-| 1.2  | **Constantinopla como centro**                    | Reconhecer Constantinopla como capital da cristandade oriental e grande centro irradiador de arte monumental.     |
-| 1.3  | **Cristianismo e transformação da arte pública**  | Entender como a oficialização transformou a função e a escala da arte cristã em grandes espaços públicos. |
+**Eixo histórico:** ponte bizantina e formação da arte medieval.
 
-**Conceitos da semana:** Império, Cristandade, Oficialização
+**Resultado esperado:** Reconhecer o ícone, o arabesco, o manuscrito, o arco românico e a narrativa visual medieval.
 
----
+## Semana 1 - A ponte bizantina para a Idade Média
 
-## 📘 Semana 2 – **Arte Bizantina: teologia visual**
+**Tema central:** A ponte bizantina para a Idade Média.
 
-**Tema central:** A arte bizantina serviu como instrumento de ensino da fé e adoração.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 1.1 | **A ponte bizantina para a Idade Média** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a ponte bizantina para a idade média. |
+| 1.2 | **Ícones e mosaicos bizantinos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em ícones e mosaicos bizantinos. |
+| 1.3 | **Constantinopla e o legado cristão oriental** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em constantinopla e o legado cristão oriental. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 2.1 | **Cristo como centro da arte** | Identificar Cristo como tema central de toda a arte bizantina. |
-| 2.2 | **Arte como ensino da fé** | Compreender que a arte serviu para instruir o povo na verdade bíblica. |
-| 2.3 | **Ornamentação litúrgica** | Reconhecer a ornamentação das igrejas como expressão de reverência e adoração. |
+**Termo central:** Ícone.
 
-**Conceitos da semana:** Teologia, Liturgia, Ornamentação
+## Semana 2 - A arte islâmica medieval
 
----
+**Tema central:** A arte islâmica medieval.
 
-## 📙 Semana 3 – **Arte Bizantina: materiais e técnicas**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 2.1 | **A arte islâmica medieval** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arte islâmica medieval. |
+| 2.2 | **Caligrafia, geometria e arabescos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em caligrafia, geometria e arabescos. |
+| 2.3 | **Mesquitas, pátios e ornamentação** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em mesquitas, pátios e ornamentação. |
 
-**Tema central:** Os materiais bizantinos comunicavam a glória divina por meio de luz e brilho.
+**Termo central:** Arabesco.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 3.1 | **Mosaicos em ouro** | Estudar o mosaico dourado como linguagem de glória e eternidade. |
-| 3.2 | **Têmpera sobre madeira** | Conhecer a técnica dos ícones pintados sobre madeira com tinta de ovo. |
-| 3.3 | **Afrescos bizantinos** | Identificar os afrescos como meio de decoração e ensino nas igrejas. |
+## Semana 3 - A arte insular e os manuscritos
 
-**Conceitos da semana:** Mosaico, Têmpera, Afresco
+**Tema central:** A arte insular e os manuscritos.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 3.1 | **A arte insular e os manuscritos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arte insular e os manuscritos. |
+| 3.2 | **Entrelaços e letras ornamentadas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em entrelaços e letras ornamentadas. |
+| 3.3 | **O Livro de Kells e a imagem bíblica** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o livro de kells e a imagem bíblica. |
 
-## 📕 Semana 4 – **Arte Bizantina: forma e arquitetura**
+**Termo central:** Manuscrito iluminado.
 
-**Tema central:** A forma fixa e a arquitetura centralizada expressam ordem divina e transcendência.
+## Semana 4 - O Renascimento Carolíngio
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 4.1 | **Frontalidade e hierarquia** | Compreender a frontalidade como linguagem de presença e autoridade eterna. |
-| 4.2 | **Fundo dourado e eternidade** | Reconhecer o ouro como símbolo da glória celestial, não mero ornamento. |
-| 4.3 | **Igrejas centralizadas** | Entender o espaço centralizado como expressão da soberania divina. |
+**Tema central:** O Renascimento Carolíngio.
 
-**Conceitos da semana:** Frontalidade, Hierarquia, Centralidade
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 4.1 | **O Renascimento Carolíngio** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o renascimento carolíngio. |
+| 4.2 | **A Capela Palatina de Aachen** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a capela palatina de aachen. |
+| 4.3 | **Manuscritos e modelos da arte romana** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em manuscritos e modelos da arte romana. |
 
----
+**Termo central:** Renascimento Carolíngio.
 
-## 📗 Semana 5 – **Arte Bizantina: obras e legado**
+## Semana 5 - A arte Otoniana
 
-**Tema central:** As grandes obras bizantinas deixaram um legado duradouro para a arte cristã.
+**Tema central:** A arte Otoniana.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 5.1 | **Mosaicos de Ravena** | Estudar os mosaicos de Ravena como exemplo supremo da arte bizantina. |
-| 5.2 | **Basílica de Santa Sofia** | Conhecer Santa Sofia como marco de arquitetura e símbolo de fé e poder. |
-| 5.3 | **Legado e influência medieval** | Discernir a influência bizantina sobre toda a arte cristã medieval. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 5.1 | **A arte Otoniana** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arte otoniana. |
+| 5.2 | **Manuscritos, metais e marfins** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em manuscritos, metais e marfins. |
+| 5.3 | **A Cruz de Gero e a expressão das figuras** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a cruz de gero e a expressão das figuras. |
 
-**Conceitos da semana:** Ravena, Basílica, Legado
+**Termo central:** Arte Otoniana.
 
----
+## Semana 6 - A arte Românica e a vida medieval
 
-## 📘 Semana 6 – **Iconoclastia: a crise das imagens**
+**Tema central:** A arte Românica e a vida medieval.
 
-**Tema central:** A Igreja enfrentou uma crise profunda sobre o uso correto das imagens na adoração.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 6.1 | **A arte Românica e a vida medieval** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arte românica e a vida medieval. |
+| 6.2 | **Mosteiros, peregrinações e imagens cristãs** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em mosteiros, peregrinações e imagens cristãs. |
+| 6.3 | **O canto gregoriano nos espaços românicos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o canto gregoriano nos espaços românicos. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 6.1 | **Conflitos religiosos internos** | Compreender as tensões internas da Igreja sobre o papel das imagens. |
-| 6.2 | **O debate sobre o uso de imagens** | Analisar os argumentos a favor e contra o uso de imagens sagradas. |
-| 6.3 | **Defesa dos ícones** | Identificar os defensores dos ícones e seus fundamentos teológicos. |
+**Termo central:** Arte Românica.
 
-**Conceitos da semana:** Iconoclastia, Controvérsia, Defesa
+## Semana 7 - A arquitetura Românica
 
----
+**Tema central:** A arquitetura Românica.
 
-## 📙 Semana 7 – **Iconoclastia: destruição e restauração**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 7.1 | **A arquitetura Românica** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arquitetura românica. |
+| 7.2 | **Paredes espessas, arcos e abóbadas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em paredes espessas, arcos e abóbadas. |
+| 7.3 | **Santiago de Compostela e os caminhos de peregrinação** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em santiago de compostela e os caminhos de peregrinação. |
 
-**Tema central:** A destruição das imagens e sua posterior restauração revelam o peso da teologia sobre a arte.
+**Termo central:** Arco semicircular.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 7.1 | **Destruição dos ícones** | Reconhecer o impacto da destruição das imagens sobre a fé e a cultura. |
-| 7.2 | **Restauração e produção padronizada** | Entender como os ícones foram restaurados com regras teológicas rígidas. |
-| 7.3 | **Estilo rígido e simbólico** | Compreender o estilo iconográfico como resultado da controvérsia. |
+## Semana 8 - As imagens da arte Românica
 
-**Conceitos da semana:** Destruição, Restauração, Padronização
+**Tema central:** As imagens da arte Românica.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 8.1 | **As imagens da arte Românica** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em as imagens da arte românica. |
+| 8.2 | **Portais, capitéis e afrescos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em portais, capitéis e afrescos. |
+| 8.3 | **Figuras, gestos e narrativas bíblicas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em figuras, gestos e narrativas bíblicas. |
 
-## 📕 Semana 8 – **Iconoclastia: legado teológico**
+**Termo central:** Portal românico.
 
-**Tema central:** A crise iconoclasta definiu para sempre a relação entre imagem e fé no cristianismo.
+## Semana 9 - Revisão
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 8.1 | **Predomínio da pintura sacra** | Identificar a pintura como o meio artístico dominante na tradição oriental. |
-| 8.2 | **Ícones restaurados após a crise** | Estudar os ícones pós-iconoclastia como expressão de fé regulamentada. |
-| 8.3 | **Definição teológica da imagem cristã** | Discernir o lugar correto das imagens à luz da verdade bíblica reformada. |
+Revisar os termos, as obras, os artistas e os elementos visuais estudados no bimestre.
 
-**Conceitos da semana:** Sacro, Regulamentação, Discernimento
+- 1.1 A ponte bizantina para a Idade Média
+- 2.1 A arte islâmica medieval
+- 3.1 A arte insular e os manuscritos
+- 4.1 O Renascimento Carolíngio
+- 5.1 A arte Otoniana
+- 6.1 A arte Românica e a vida medieval
+- 7.1 A arquitetura Românica
+- 8.1 As imagens da arte Românica
 
----
+## Semana 10 - Provas
 
-## Semana 9 – **Revisão do Módulo 1**
+Avaliar a identificação cronológica dos períodos, das obras e dos elementos visuais estudados.
+# 2º bimestre
 
-## Semana 10 – **Prova do Módulo 1**
+**Eixo histórico:** Gótico e transição italiana.
 
----
+**Resultado esperado:** Nomear os elementos da catedral gótica e observar a passagem para o volume, a emoção e o espaço pictórico.
 
-## 📗 Semana 11 – **Arte Islâmica: contexto e cosmovisão**
+## Semana 11 - A arte Gótica e as cidades medievais
 
-**Tema central:** A arte islâmica nasce de uma cosmovisão que enfatiza a transcendência divina e rejeita a representação humana.
+**Tema central:** A arte Gótica e as cidades medievais.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 11.1 | **Arte Islâmica e as formas de arte** | Compreender o contexto histórico da expansão islâmica e seu impacto na arte. |
-| 11.2 | **Impérios islâmicos como produtores de arte** | Reconhecer os impérios islâmicos como produtores de uma arte refinada e distinta. |
-| 11.3 | **Transcendência e evitação da figura humana** | Entender por que a arte islâmica evita representar a figura humana. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 11.1 | **A arte Gótica e as cidades medievais** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arte gótica e as cidades medievais. |
+| 11.2 | **Catedrais, ofícios e vida urbana** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em catedrais, ofícios e vida urbana. |
+| 11.3 | **Luz e altura no espaço gótico** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em luz e altura no espaço gótico. |
 
-**Conceitos da semana:** Expansão, Transcendência, Aniconismo
+**Termo central:** Arte Gótica.
 
----
+## Semana 12 - A arquitetura Gótica
 
-## 📘 Semana 12 – **Arte Islâmica: ornamentação e materiais**
+**Tema central:** A arquitetura Gótica.
 
-**Tema central:** A ornamentação islâmica substitui a figura humana por padrões geométricos e caligráficos de beleza extraordinária.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 12.1 | **A arquitetura Gótica** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a arquitetura gótica. |
+| 12.2 | **Arcos ogivais e abóbadas de nervuras** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em arcos ogivais e abóbadas de nervuras. |
+| 12.3 | **Arcobotantes e verticalidade** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em arcobotantes e verticalidade. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 12.1 | **Ornamentação religiosa** | Identificar a ornamentação como forma de adoração e expressão da ordem divina. |
-| 12.2 | **Azulejos e caligrafia** | Estudar azulejos e caligrafia como meios de expressão da beleza sagrada. |
-| 12.3 | **Geometria decorativa** | Reconhecer a geometria como linguagem de ordem e infinitude. |
+**Termo central:** Arco ogival.
 
-**Conceitos da semana:** Azulejo, Caligrafia, Geometria
+## Semana 13 - Os vitrais e as fachadas Góticas
 
----
+**Tema central:** Os vitrais e as fachadas Góticas.
 
-## 📙 Semana 13 – **Arte Islâmica: forma e composição**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 13.1 | **Os vitrais e as fachadas Góticas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em os vitrais e as fachadas góticas. |
+| 13.2 | **Rosáceas e narrativas de luz** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em rosáceas e narrativas de luz. |
+| 13.3 | **Chartres e a imagem na catedral** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em chartres e a imagem na catedral. |
 
-**Tema central:** Arabescos e padrões repetitivos expressam a ideia de infinitude e ordem divina.
+**Termo central:** Vitral.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 13.1 | **Arabescos** | Compreender o arabesco como expressão visual de infinitude e continuidade. |
-| 13.2 | **Simetria e padrões repetitivos** | Reconhecer a simetria como reflexo de ordem e harmonia na criação. |
-| 13.3 | **Ordem e repetição como linguagem** | Discernir como a repetição comunica a natureza eterna e imutável do divino. |
+## Semana 14 - A escultura Gótica e o naturalismo
 
-**Conceitos da semana:** Arabesco, Simetria, Infinitude
+**Tema central:** A escultura Gótica e o naturalismo.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 14.1 | **A escultura Gótica e o naturalismo** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a escultura gótica e o naturalismo. |
+| 14.2 | **Corpos, gestos e rostos nas catedrais** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em corpos, gestos e rostos nas catedrais. |
+| 14.3 | **Portais e fachadas como narrativas visuais** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em portais e fachadas como narrativas visuais. |
 
-## 📕 Semana 14 – **Arte Islâmica: arquitetura**
+**Termo central:** Naturalismo.
 
-**Tema central:** As mesquitas representam o espaço sagrado islâmico com grandeza e simplicidade.
+## Semana 15 - Notre-Dame e a polifonia medieval
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 14.1 | **Mesquitas** | Estudar a mesquita como centro da vida religiosa e comunitária islâmica. |
-| 14.2 | **Ausência de escultura figurativa** | Entender a ausência de figuras como decisão teológica, não artística. |
-| 14.3 | **Mesquita Azul** | Conhecer a Mesquita Azul como exemplo de beleza e devoção na arquitetura. |
+**Tema central:** Notre-Dame e a polifonia medieval.
 
-**Conceitos da semana:** Mesquita, Minarete, Devoção
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 15.1 | **Notre-Dame e a polifonia medieval** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em notre-dame e a polifonia medieval. |
+| 15.2 | **A Escola de Notre-Dame e o organum** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a escola de notre-dame e o organum. |
+| 15.3 | **Léonin, Pérotin e as vozes da catedral** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em léonin, pérotin e as vozes da catedral. |
 
----
+**Termo central:** Polifonia.
 
-## 📗 Semana 15 – **Arte Islâmica: obras e legado**
+## Semana 16 - Giotto e a transição para o Renascimento
 
-**Tema central:** O legado islâmico influenciou profundamente a arte europeia medieval.
+**Tema central:** Giotto e a transição para o Renascimento.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 15.1 | **Alhambra** | Estudar a Alhambra como obra-prima da arte islâmica na Europa. |
-| 15.2 | **Influência decorativa na Europa** | Reconhecer a influência dos padrões islâmicos na decoração europeia medieval. |
-| 15.3 | **Arte islâmica e cosmovisão cristã** | Comparar as cosmovisões cristã e islâmica sobre imagem, beleza e adoração. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 16.1 | **Giotto e a transição para o Renascimento** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em giotto e a transição para o renascimento. |
+| 16.2 | **Volume e emoção nas figuras de Giotto** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em volume e emoção nas figuras de giotto. |
+| 16.3 | **A Capela Scrovegni e a narrativa em afresco** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a capela scrovegni e a narrativa em afresco. |
 
-**Conceitos da semana:** Alhambra, Influência, Cosmovisão
+**Termo central:** Volume.
 
----
+## Semana 17 - O Proto-Renascimento italiano
 
-## 📘 Semana 16 – **Arte Românica: contexto e cosmovisão**
+**Tema central:** O Proto-Renascimento italiano.
 
-**Tema central:** A arte românica nasceu numa Europa feudal marcada pela fé, peregrinações e temor a Deus.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 17.1 | **O Proto-Renascimento italiano** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o proto-renascimento italiano. |
+| 17.2 | **Cidades italianas e pintura religiosa** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em cidades italianas e pintura religiosa. |
+| 17.3 | **Espaço, corpo e narrativa antes da perspectiva** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em espaço, corpo e narrativa antes da perspectiva. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 16.1 | **Europa feudal e a arte românica** | Compreender o contexto feudal como cenário da arte românica. |
-| 16.2 | **Peregrinações e centralidade da Igreja** | Reconhecer as peregrinações como motor da construção de igrejas e arte. |
-| 16.3 | **Juízo, eternidade e reverência** | Entender a cosmovisão românica centrada no juízo final e na eternidade. |
+**Termo central:** Proto-Renascimento.
 
-**Conceitos da semana:** Feudal, Peregrinação, Juízo
+## Semana 18 - A pintura de Siena e de Florença
 
----
+**Tema central:** A pintura de Siena e de Florença.
 
-## 📙 Semana 17 – **Arte Românica: materiais e forma**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 18.1 | **A pintura de Siena e de Florença** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a pintura de siena e de florença. |
+| 18.2 | **Duccio, Cimabue e as tradições pictóricas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em duccio, cimabue e as tradições pictóricas. |
+| 18.3 | **Afresco, têmpera e profundidade inicial** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em afresco, têmpera e profundidade inicial. |
 
-**Tema central:** A arte românica usou pedra, afresco e portal para ensinar a fé aos que não sabiam ler.
+**Termo central:** Pintura italiana.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 17.1 | **Catequese visual para iletrados** | Identificar a arte românica como meio de ensino bíblico para o povo comum. |
-| 17.2 | **Pedra, afrescos e portais** | Estudar os materiais da arte românica como veículos da verdade bíblica. |
-| 17.3 | **Figuras rígidas e simbolismo forte** | Compreender as figuras rígidas como expressão de solenidade e reverência. |
+## Semana 19 - Revisão
 
-**Conceitos da semana:** Catequese, Portal, Simbolismo
+Revisar os termos, as obras, os artistas e os elementos visuais estudados no bimestre.
 
----
+- 11.1 A arte Gótica e as cidades medievais
+- 12.1 A arquitetura Gótica
+- 13.1 Os vitrais e as fachadas Góticas
+- 14.1 A escultura Gótica e o naturalismo
+- 15.1 Notre-Dame e a polifonia medieval
+- 16.1 Giotto e a transição para o Renascimento
+- 17.1 O Proto-Renascimento italiano
+- 18.1 A pintura de Siena e de Florença
 
-## 📕 Semana 18 – **Arte Românica: arquitetura e legado**
+## Semana 20 - Provas
 
-**Tema central:** A arquitetura românica expressa solidez, proteção e permanência da fé.
+Avaliar a identificação cronológica dos períodos, das obras e dos elementos visuais estudados.
+# 3º bimestre
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 18.1 | **Igrejas de paredes espessas** | Reconhecer as paredes espessas como símbolo de firmeza e refúgio espiritual. |
-| 18.2 | **Arcos semicirculares** | Estudar o arco semicircular como elemento estrutural e simbólico. |
-| 18.3 | **Catedral de Santiago de Compostela** | Conhecer Santiago de Compostela como destino de peregrinação e arte. |
+**Eixo histórico:** Renascimento italiano.
 
-**Conceitos da semana:** Solidez, Arco, Peregrinação
+**Resultado esperado:** Observar perspectiva, proporção, anatomia, composição e equilíbrio nas obras renascentistas.
 
----
+## Semana 21 - O Primeiro Renascimento italiano
 
-## Semana 19 – **Revisão do Módulo 2**
+**Tema central:** O Primeiro Renascimento italiano.
 
-## Semana 20 – **Prova do Módulo 2**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 21.1 | **O Primeiro Renascimento italiano** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o primeiro renascimento italiano. |
+| 21.2 | **Florença, oficinas e mecenato** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em florença, oficinas e mecenato. |
+| 21.3 | **A Antiguidade como referência visual** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a antiguidade como referência visual. |
 
----
+**Termo central:** Primeiro Renascimento.
 
-## 📗 Semana 21 – **Arte Gótica: contexto e cosmovisão**
+## Semana 22 - A perspectiva no Renascimento
 
-**Tema central:** A arte gótica nasce do crescimento das cidades e de uma nova espiritualidade voltada para a luz.
+**Tema central:** A perspectiva no Renascimento.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 21.1 | **Arte Gótica e o crescimento urbano** | Compreender o contexto urbano como cenário do nascimento da arte gótica. |
-| 21.2 | **Nova espiritualidade urbana** | Reconhecer a mudança de uma fé rural para uma espiritualidade urbana e comunitária. |
-| 21.3 | **Luz como símbolo divino** | Entender a luz como elemento central da cosmovisão gótica e símbolo da presença de Deus. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 22.1 | **A perspectiva no Renascimento** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a perspectiva no renascimento. |
+| 22.2 | **Linhas e ponto de fuga** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em linhas e ponto de fuga. |
+| 22.3 | **Espaço organizado na pintura** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em espaço organizado na pintura. |
 
-**Conceitos da semana:** Gótico, Urbanidade, Luminosidade
+**Termo central:** Perspectiva linear.
 
----
+## Semana 23 - Proporção e corpo humano
 
-## 📘 Semana 22 – **Arte Gótica: função e materiais**
+**Tema central:** Proporção e corpo humano.
 
-**Tema central:** Vitrais e arcos ogivais transformaram a catedral em livro de luz e ensino visual.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 23.1 | **Proporção e corpo humano** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em proporção e corpo humano. |
+| 23.2 | **Anatomia e observação da figura** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em anatomia e observação da figura. |
+| 23.3 | **Contrapposto e equilíbrio na escultura** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em contrapposto e equilíbrio na escultura. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 22.1 | **Inspirar devoção na arte gótica** | Identificar a função da arte gótica como inspiração para a adoração e a oração. |
-| 22.2 | **Vitrais como ensino visual** | Estudar os vitrais como meio de contar histórias bíblicas por meio da luz. |
-| 22.3 | **Arcos ogivais e abóbadas** | Compreender o arco ogival como inovação técnica que permite altura e luminosidade. |
+**Termo central:** Proporção.
 
-**Conceitos da semana:** Vitral, Ogiva, Devoção
+## Semana 24 - Brunelleschi, Donatello e Masaccio
 
----
+**Tema central:** Brunelleschi, Donatello e Masaccio.
 
-## 📙 Semana 23 – **Arte Gótica: forma e composição**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 24.1 | **Brunelleschi, Donatello e Masaccio** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em brunelleschi, donatello e masaccio. |
+| 24.2 | **A cúpula, a escultura e a pintura em perspectiva** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a cúpula, a escultura e a pintura em perspectiva. |
+| 24.3 | **A Trindade e o espaço construído por Masaccio** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a trindade e o espaço construído por masaccio. |
 
-**Tema central:** A verticalidade gótica aponta para o céu e convida o olhar a subir.
+**Termo central:** Perspectiva.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 23.1 | **Verticalidade como expressão visual** | Reconhecer a verticalidade como expressão visual da busca pelo celestial. |
-| 23.2 | **Luminosidade na arte gótica** | Compreender a luz abundante na catedral gótica como símbolo da graça divina. |
-| 23.3 | **Detalhamento crescente** | Estudar o detalhamento crescente como reflexo de uma fé que contempla e medita. |
+## Semana 25 - Botticelli e a composição renascentista
 
-**Conceitos da semana:** Verticalidade, Graça, Contemplação
+**Tema central:** Botticelli e a composição renascentista.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 25.1 | **Botticelli e a composição renascentista** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em botticelli e a composição renascentista. |
+| 25.2 | **Linha, ritmo e figura em A Primavera** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em linha, ritmo e figura em a primavera. |
+| 25.3 | **Beleza, natureza e equilíbrio visual** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em beleza, natureza e equilíbrio visual. |
 
-## 📕 Semana 24 – **Arte Gótica: arquitetura e escultura**
+**Termo central:** Composição.
 
-**Tema central:** A arquitetura e a escultura góticas ensinam pela fachada, pela forma e pela memória.
+## Semana 26 - Leonardo da Vinci e a observação da natureza
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 24.1 | **Fachada gótica** | Identificar a fachada gótica como frente visual que reúne entrada, escultura e ensino. |
-| 24.2 | **Escultura mais natural** | Reconhecer a transição para uma escultura mais naturalista e expressiva. |
-| 24.3 | **Notre-Dame de Paris** | Conhecer Notre-Dame como ícone da arte gótica e da devoção cristã. |
+**Tema central:** Leonardo da Vinci e a observação da natureza.
 
-**Conceitos da semana:** Fachada, Naturalismo, Monumento
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 26.1 | **Leonardo da Vinci e a observação da natureza** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em leonardo da vinci e a observação da natureza. |
+| 26.2 | **Sfumato, luz e estudos anatómicos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em sfumato, luz e estudos anatómicos. |
+| 26.3 | **A Última Ceia e a composição narrativa** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a última ceia e a composição narrativa. |
 
----
+**Termo central:** Sfumato.
 
-## 📗 Semana 25 – **Arte Gótica: obras e legado**
+## Semana 27 - Michelangelo e a figura monumental
 
-**Tema central:** O legado gótico preparou a arte para o naturalismo renascentista.
+**Tema central:** Michelangelo e a figura monumental.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 25.1 | **Catedral de Chartres** | Estudar Chartres como exemplo de integração entre arquitetura, vitral e escultura. |
-| 25.2 | **Preparação para o naturalismo** | Compreender como o gótico abriu caminho para a representação mais fiel da realidade. |
-| 25.3 | **O gótico e a tradição cristã** | Discernir o legado do gótico à luz da cosmovisão cristã reformada. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 27.1 | **Michelangelo e a figura monumental** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em michelangelo e a figura monumental. |
+| 27.2 | **O Davi e a escultura do corpo humano** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o davi e a escultura do corpo humano. |
+| 27.3 | **A Capela Sistina e a pintura em grande escala** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a capela sistina e a pintura em grande escala. |
 
-**Conceitos da semana:** Chartres, Naturalismo, Tradição
+**Termo central:** Figura monumental.
 
----
+## Semana 28 - Rafael e o equilíbrio do Alto Renascimento
 
-## 📘 Semana 26 – **Pré-Renascimento do Norte: contexto e cosmovisão**
+**Tema central:** Rafael e o equilíbrio do Alto Renascimento.
 
-**Tema central:** A burguesia do norte da Europa trouxe uma nova forma de integrar fé e vida cotidiana na arte.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 28.1 | **Rafael e o equilíbrio do Alto Renascimento** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em rafael e o equilíbrio do alto renascimento. |
+| 28.2 | **Harmonia e clareza em A Escola de Atenas** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em harmonia e clareza em a escola de atenas. |
+| 28.3 | **A polifonia renascentista de Josquin des Prez** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a polifonia renascentista de josquin des prez. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 26.1 | **Pré-Renascimento e o contexto artístico** | Compreender o surgimento da burguesia como novo contexto para a arte. |
-| 26.2 | **Pintura a óleo** | Compreender a pintura a óleo como revolução técnica que permitiu detalhes e luminosidade. |
-| 26.3 | **Realismo flamengo** | Reconhecer o realismo flamengo como expressão de observação reverente da criação. |
+**Termo central:** Equilíbrio.
 
-**Conceitos da semana:** Patronato, Pintura a óleo, Realismo
+## Semana 29 - Revisão
 
----
+Revisar os termos, as obras, os artistas e os elementos visuais estudados no bimestre.
 
-## 📙 Semana 27 – **Pré-Renascimento do Norte: materiais e forma**
+- 21.1 O Primeiro Renascimento italiano
+- 22.1 A perspectiva no Renascimento
+- 23.1 Proporção e corpo humano
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 25.1 Botticelli e a composição renascentista
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 27.1 Michelangelo e a figura monumental
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
 
-**Tema central:** A pintura a óleo e o detalhe minucioso revelam uma arte que contempla a criação com reverência.
+## Semana 30 - Provas
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 27.1 | **Óleo sobre madeira** | Estudar a técnica do óleo como revolução que permitiu riqueza de detalhes e luz. |
-| 27.2 | **Pintura detalhada** | Compreender o detalhe como expressão de reverência pela criação de Deus. |
-| 27.3 | **Minúcia e realismo simbólico** | Reconhecer que cada detalhe pintado carregava significado teológico e moral. |
+Avaliar a identificação cronológica dos períodos, das obras e dos elementos visuais estudados.
 
-**Conceitos da semana:** Óleo, Minúcia, Realismo
+# 4º bimestre
 
----
+**Eixo histórico:** Renascimento do Norte e Reforma.
 
-## 📕 Semana 28 – **Pré-Renascimento do Norte: obras e legado**
+**Resultado esperado:** Reconhecer óleo, detalhe, gravura, retrato e a diversidade visual e musical do Norte europeu.
 
-**Tema central:** Jan van Eyck e seus contemporâneos consolidaram uma arte de observação profunda e fé genuína.
+## Semana 31 - O Renascimento do Norte
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 28.1 | **Jan van Eyck** | Conhecer Jan van Eyck como mestre da pintura detalhada e da luz natural. |
-| 28.2 | **Consolidação do realismo** | Identificar a consolidação do realismo como fruto da observação atenta da criação. |
-| 28.3 | **Do detalhe à verdade** | Discernir como a atenção ao detalhe pode servir à revelação da verdade de Deus. |
+**Tema central:** O Renascimento do Norte.
 
-**Conceitos da semana:** Van Eyck, Observação, Verdade
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 31.1 | **O Renascimento do Norte** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o renascimento do norte. |
+| 31.2 | **Cidades comerciais, oficinas e pintura flamenga** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em cidades comerciais, oficinas e pintura flamenga. |
+| 31.3 | **O Norte europeu e o Renascimento italiano** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o norte europeu e o renascimento italiano. |
 
----
+**Termo central:** Renascimento do Norte.
 
-## Semana 29 – **Revisão do Módulo 3**
+## Semana 32 - A pintura a óleo flamenga
 
-## Semana 30 – **Prova do Módulo 3**
+**Tema central:** A pintura a óleo flamenga.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 32.1 | **A pintura a óleo flamenga** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a pintura a óleo flamenga. |
+| 32.2 | **Camadas transparentes, cor e luz** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em camadas transparentes, cor e luz. |
+| 32.3 | **Texturas e detalhes na pintura sobre madeira** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em texturas e detalhes na pintura sobre madeira. |
 
-## 📗 Semana 31 – **Renascimento do Norte: contexto e cosmovisão**
+**Termo central:** Pintura a óleo.
 
-**Tema central:** O Renascimento do Norte uniu humanismo cristão, reformas religiosas e observação detalhada da criação.
+## Semana 33 - Jan van Eyck e o detalhe simbólico
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 31.1 | **Renascimento do Norte** | Compreender o humanismo do norte como valorizacão do ser humano à luz da Escritura. |
-| 31.2 | **Reformas religiosas e cultura** | Reconhecer o impacto das reformas na forma de pensar e produzir arte. |
-| 31.3 | **Observação da natureza** | Entender a observação minuciosa como forma de reverência ao Criador. |
+**Tema central:** Jan van Eyck e o detalhe simbólico.
 
-**Conceitos da semana:** Humanismo, Reforma, Observação
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 33.1 | **Jan van Eyck e o detalhe simbólico** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em jan van eyck e o detalhe simbólico. |
+| 33.2 | **O Casal Arnolfini e o retrato** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o casal arnolfini e o retrato. |
+| 33.3 | **Objetos, espelho e luz na pintura flamenga** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em objetos, espelho e luz na pintura flamenga. |
 
----
+**Termo central:** Detalhe simbólico.
 
-## 📘 Semana 32 – **Renascimento do Norte: função e cosmovisão**
+## Semana 34 - A gravura no Renascimento do Norte
 
-**Tema central:** A arte do norte serviu ao ensino moral e à representação fiel da vida comum.
+**Tema central:** A gravura no Renascimento do Norte.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 32.1 | **Moralidade visual** | Identificar a arte como instrumento de ensino moral na tradição do norte. |
-| 32.2 | **Ensino moral pela arte** | Compreender como obras de arte comunicaram virtudes e advertências. |
-| 32.3 | **Representação da vida na arte** | Reconhecer a vida cotidiana como tema digno de arte e reflexão cristã. |
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 34.1 | **A gravura no Renascimento do Norte** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a gravura no renascimento do norte. |
+| 34.2 | **Xilogravura e gravura em metal** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em xilogravura e gravura em metal. |
+| 34.3 | **Imagens reproduzidas e circulação de ideias** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em imagens reproduzidas e circulação de ideias. |
 
-**Conceitos da semana:** Moralidade, Virtude, Cotidiano
+**Termo central:** Gravura.
 
----
+## Semana 35 - Albrecht Dürer e o desenho gravado
 
-## 📙 Semana 33 – **Renascimento do Norte: materiais e forma**
+**Tema central:** Albrecht Dürer e o desenho gravado.
 
-**Tema central:** Óleo refinado e gravura permitiram precisão e difusão da arte e da verdade.
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 35.1 | **Albrecht Dürer e o desenho gravado** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em albrecht dürer e o desenho gravado. |
+| 35.2 | **Lebre Jovem e a observação da natureza** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em lebre jovem e a observação da natureza. |
+| 35.3 | **Melancolia I e os símbolos na gravura** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em melancolia i e os símbolos na gravura. |
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 33.1 | **Óleo refinado** | Estudar o refinamento da técnica a óleo como busca pela perfeição na representação. |
-| 33.2 | **Gravura, xilogravura e metal** | Compreender a gravura como meio de difusão da arte e do conhecimento. |
-| 33.3 | **Precisão e luz simbólica** | Reconhecer a precisão e a luz como expressões de clareza e verdade. |
+**Termo central:** Gravura de Dürer.
 
-**Conceitos da semana:** Refinamento, Gravura, Difusão
+## Semana 36 - Hans Holbein e o retrato do Norte
 
----
+**Tema central:** Hans Holbein e o retrato do Norte.
 
-## 📕 Semana 34 – **Renascimento do Norte: artistas**
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 36.1 | **Hans Holbein e o retrato do Norte** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em hans holbein e o retrato do norte. |
+| 36.2 | **Os Embaixadores e os objetos simbólicos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em os embaixadores e os objetos simbólicos. |
+| 36.3 | **Precisão, textura e presença no retrato** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em precisão, textura e presença no retrato. |
 
-**Tema central:** Dürer e Holbein usaram a arte como testemunho da verdade e da dignidade humana.
+**Termo central:** Retrato.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 34.1 | **Albrecht Dürer** | Conhecer Dürer como mestre da gravura e defensor da arte como vocação divina. |
-| 34.2 | **Hans Holbein** | Estudar Holbein como retratista que revelou caráter e verdade em cada rosto. |
-| 34.3 | **O artista como testemunha** | Discernir o papel do artista cristão como testemunha da verdade e da beleza. |
+## Semana 37 - A Reforma e as imagens no Norte europeu
 
-**Conceitos da semana:** Dürer, Holbein, Testemunho
+**Tema central:** A Reforma e as imagens no Norte europeu.
 
----
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 37.1 | **A Reforma e as imagens no Norte europeu** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a reforma e as imagens no norte europeu. |
+| 37.2 | **Arte, culto e circulação de gravuras** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em arte, culto e circulação de gravuras. |
+| 37.3 | **O coral luterano e o canto comunitário** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o coral luterano e o canto comunitário. |
 
-## 📗 Semana 35 – **Renascimento do Norte: legado**
+**Termo central:** Reforma.
 
-**Tema central:** O Renascimento do Norte preparou o caminho para o realismo moderno e a arte da Reforma.
+## Semana 38 - O legado dos Renascimentos
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 35.1 | **Base do realismo moderno** | Compreender como a arte do norte lançou os fundamentos do realismo posterior. |
-| 35.2 | **Arte e Reforma Protestante** | Reconhecer a influência da Reforma sobre a produção artística do norte. |
-| 35.3 | **Encerramento do Renascimento do Norte** | Consolidar o aprendizado e preparar a transição para os movimentos seguintes. |
+**Tema central:** O legado dos Renascimentos.
 
-**Conceitos da semana:** Realismo, Reforma, Transição
+| Aula | Título | Objetivo teológico-pedagógico |
+| --- | --- | --- |
+| 38.1 | **O legado dos Renascimentos** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em o legado dos renascimentos. |
+| 38.2 | **Equilíbrio italiano e detalhe do Norte** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em equilíbrio italiano e detalhe do norte. |
+| 38.3 | **A transição do Renascimento para o Maneirismo** | Reconhecer os elementos visuais, os materiais e o contexto histórico presentes em a transição do renascimento para o maneirismo. |
 
----
+**Termo central:** Renascimento.
 
-## 📘 Semana 36 – **Consolidação: visão panorâmica (parte 1)**
+## Semana 39 - Revisão
 
-**Tema central:** Revisão da jornada do ano, conectando os movimentos estudados e suas cosmovisões.
+Revisar os termos, as obras, os artistas e os elementos visuais estudados no bimestre.
 
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 36.1 | **De Bizâncio à Iconoclastia** | Relacionar a arte bizantina à crise iconoclasta como etapas de uma mesma história. |
-| 36.2 | **Do Islã ao Românico** | Comparar as expressões artísticas islâmica e românica e suas cosmovisões. |
-| 36.3 | **Do Gótico ao Pré-Renascimento** | Traçar a evolução da arte gótica até o surgimento do realismo no norte. |
+- 31.1 O Renascimento do Norte
+- 32.1 A pintura a óleo flamenga
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 34.1 A gravura no Renascimento do Norte
+- 35.1 Albrecht Dürer e o desenho gravado
+- 36.1 Hans Holbein e o retrato do Norte
+- 37.1 A Reforma e as imagens no Norte europeu
+- 38.1 O legado dos Renascimentos
 
-**Conceitos da semana:** Conexão, Comparação, Evolução
+## Semana 40 - Provas
 
----
-
-## 📙 Semana 37 – **Consolidação: conexões e contrastes**
-
-**Tema central:** A comparação entre movimentos revela como a arte expressa diferentes visões de Deus e do mundo.
-
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 37.1 | **Cosmovisões comparadas** | Analisar as diferentes cosmovisões presentes nos movimentos estudados. |
-| 37.2 | **Técnicas e materiais comparados** | Comparar técnicas e materiais como expressões de diferentes culturas e crenças. |
-| 37.3 | **A arte como linguagem da fé** | Discernir como cada tradição artística expressou (ou distorceu) a verdade sobre Deus. |
-
-**Conceitos da semana:** Análise, Comparação, Discernimento
-
----
-
-## 📕 Semana 38 – **Encerramento do Volume 2**
-
-**Tema central:** O aluno encerra o ano com visão panorâmica e preparação para o próximo ciclo.
-
-| Aula | Título | Objetivo Teológico-Pedagógico |
-| ---- | ------ | ----------------------------- |
-| 38.1 | **Síntese dos grandes marcos artisticos** | Consolidar os conhecimentos adquiridos ao longo do 3º ano. |
-| 38.2 | **A arte e o cristão reformado** | Reafirmar os critérios bíblicos para avaliar toda forma de arte. |
-| 38.3 | **Introdução ao Renascimento Italiano e Maneirismo** | Despertar expectativa e preparo para os movimentos do Maneirismo ao Realismo. |
-
-**Conceitos da semana:** Consolidação, Critério, Preparação
-
----
-
-## Semana 39 – **Revisão Final**
-
-## Semana 40 – **Prova Final**
+Avaliar a identificação cronológica dos períodos, das obras e dos elementos visuais estudados.

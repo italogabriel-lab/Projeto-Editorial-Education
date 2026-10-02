@@ -2339,7 +2339,7 @@ Avaliar os conhecimentos das aulas da semana 33.
 
 ## Semana 34 – A proporção na arte
 
-**Tema central da semana**, A proporção na arte. A aula 34.1 apresenta o coração do tema. A aula 34.2 desenvolve o grande perto do pequeno. A aula 34.3 desenvolve a proporção do corpo e da casa.
+**Tema central da semana**, A proporção na arte. A aula 34.1 apresenta o coração do tema. A aula 34.2 desenvolve o grande perto do pequeno. A aula 34.3 desenvolve a proporção da árvore e da flor.
 
 ---
 
@@ -2369,16 +2369,16 @@ Avaliar os conhecimentos das aulas da semana 33.
 
 ---
 
-[Belas artes] - Ano 1 - 34.3 A proporção do corpo e da casa
+[Belas artes] - Ano 1 - 34.3 A proporção da árvore e da flor
 
 # Description
 
-**Tema central da semana**, A proporção na arte. **Foco da aula**, segundo desdobramento, A proporção do corpo e da casa.
+**Tema central da semana**, A proporção na arte. **Foco da aula**, segundo desdobramento, A proporção da árvore e da flor.
 
 ## Objetivos
    → Reconheça que proporção é a relação de tamanho entre as partes da imagem.
-   → Observe partes em proporção em imagem simples e organizada.
-   → Narre oralmente a resposta da pergunta, Onde a proporção aparece na imagem?
+   → Observe a proporção entre a árvore e a flor em imagem simples e organizada.
+   → Narre oralmente a resposta da pergunta, Como a proporção aparece na arte?
 
 ---
 
@@ -2392,7 +2392,7 @@ Revisar os conhecimentos das aulas da semana 34.
 
 - 34.1 A proporção na arte
 - 34.2 O grande perto do pequeno
-- 34.3 A proporção do corpo e da casa
+- 34.3 A proporção da árvore e da flor
 
 ---
 
@@ -2406,7 +2406,7 @@ Avaliar os conhecimentos das aulas da semana 34.
 
 - 34.1 A proporção na arte
 - 34.2 O grande perto do pequeno
-- 34.3 A proporção do corpo e da casa
+- 34.3 A proporção da árvore e da flor
 
 ---
 

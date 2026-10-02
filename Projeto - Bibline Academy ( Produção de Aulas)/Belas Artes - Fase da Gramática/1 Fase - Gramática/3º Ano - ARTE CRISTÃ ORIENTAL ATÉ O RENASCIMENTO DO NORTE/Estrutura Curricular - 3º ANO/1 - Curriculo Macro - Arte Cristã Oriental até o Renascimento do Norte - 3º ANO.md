@@ -1,284 +1,307 @@
-# 3º ANO – VOL. 2
+# 3º ano - Belas Artes
 
-**Arte Cristã Oriental até o Renascimento do Norte**
+## Arte Cristã Oriental até o Renascimento do Norte
 
-## Semana 1 – **Arte Bizantina: o Império e a fé** ✅
+## Semana 1 - A ponte bizantina para a Idade Média
 
-- Dia 1: Império Romano do oriente e arte bizantina ✅
-- Dia 2: Constantinopla como centro ✅
-- Dia 3: Cristianismo e transformação da arte pública ✅
+- 1.1 A ponte bizantina para a Idade Média
+- 1.2 Ícones e mosaicos bizantinos
+- 1.3 Constantinopla e o legado cristão oriental
 
 # Semana 1
-Império ✅
-Constantinopla ✅
-Oficialização ✅
+Ícone
 
-## Semana 2 – **Arte Bizantina: teologia visual** ✅
+## Semana 2 - A arte islâmica medieval
 
-- Dia 1: Cristo como centro da arte ✅
-- Dia 2: Arte como ensino da fé ✅
-- Dia 3: Ornamentação litúrgica ✅
+- 2.1 A arte islâmica medieval
+- 2.2 Caligrafia, geometria e arabescos
+- 2.3 Mesquitas, pátios e ornamentação
 
 # Semana 2
-Preeminência ✅
-Instrução ✅
-Ornamentação ✅
+Arabesco
 
-## Semana 3 – **Arte Bizantina: materiais e técnicas** ✅
+## Semana 3 - A arte insular e os manuscritos
 
-- Dia 1: Mosaicos em ouro ✅
-- Dia 2: Têmpera sobre madeira ✅
-- Dia 3: Afrescos bizantinos ✅
+- 3.1 A arte insular e os manuscritos
+- 3.2 Entrelaços e letras ornamentadas
+- 3.3 O Livro de Kells e a imagem bíblica
 
 # Semana 3
-Mosaico ✅
-Têmpera ✅
-Afresco ✅
+Manuscrito iluminado
 
-## Semana 4 – **Arte Bizantina: forma e arquitetura** ✅
+## Semana 4 - O Renascimento Carolíngio
 
-- Dia 1: Frontalidade e hierarquia ✅
-- Dia 2: Fundo dourado e eternidade ✅
-- Dia 3: Igrejas centralizadas ✅
+- 4.1 O Renascimento Carolíngio
+- 4.2 A Capela Palatina de Aachen
+- 4.3 Manuscritos e modelos da arte romana
 
 # Semana 4
-Frontalidade ✅
-Transcendência ✅
-Centralização ✅
+Renascimento Carolíngio
 
-## Semana 5 – **Arte Bizantina: obras e legado** ✅
+## Semana 5 - A arte Otoniana
 
-- Dia 1: Mosaicos de Ravena ✅
-- Dia 2: Basílica de Santa Sofia ✅
-- Dia 3: Legado e influência medieval ✅
+- 5.1 A arte Otoniana
+- 5.2 Manuscritos, metais e marfins
+- 5.3 A Cruz de Gero e a expressão das figuras
 
 # Semana 5
-Patrimônio ✅
-Basílica ✅
-Legado ✅
+Arte Otoniana
 
-## Semana 6 – **Iconoclastia: a crise das imagens** ✅
+## Semana 6 - A arte Românica e a vida medieval
 
-- Dia 1: Conflitos religiosos internos ✅
-- Dia 2: O debate sobre o uso de imagens ✅
-- Dia 3: Defesa dos ícones ✅
+- 6.1 A arte Românica e a vida medieval
+- 6.2 Mosteiros, peregrinações e imagens cristãs
+- 6.3 O canto gregoriano nos espaços românicos
 
 # Semana 6
-Conflito ✅
-Iconoclastia ✅
-Encarnação ✅
+Arte Românica
 
-## Semana 7 – **Iconoclastia: destruição e restauração** ✅
+## Semana 7 - A arquitetura Românica
 
-- Dia 1: Destruição dos ícones ✅
-- Dia 2: Restauração e produção padronizada ✅
-- Dia 3: Estilo rígido e simbólico ✅
+- 7.1 A arquitetura Românica
+- 7.2 Paredes espessas, arcos e abóbadas
+- 7.3 Santiago de Compostela e os caminhos de peregrinação
 
 # Semana 7
-Perseguição ✅
-Cânone ✅
-Simbolismo ✅
+Arco semicircular
 
-## Semana 8 – **Iconoclastia: legado teológico** ✅
+## Semana 8 - As imagens da arte Românica
 
-- Dia 1: Predomínio da pintura sacra ✅
-- Dia 2: Ícones restaurados após a crise ✅
-- Dia 3: Definição teológica da imagem cristã ✅
+- 8.1 As imagens da arte Românica
+- 8.2 Portais, capitéis e afrescos
+- 8.3 Figuras, gestos e narrativas bíblicas
 
 # Semana 8
-Bidimensionalidade ✅
-Restauração ✅
-Idolatria ✅
+Portal românico
 
+9 Revisão
 
-## Semana 9 – **Revisão do Módulo 1**
+10 Provas
 
-- Dia 1: Revisão Arte Bizantina
-- Dia 2: Revisão Iconoclastia
-- Dia 3: Atividades de consolidação
+## Semana 11 - A arte Gótica e as cidades medievais
 
-## Semana 10 – **Prova do Módulo 1**
+- 11.1 A arte Gótica e as cidades medievais
+- 11.2 Catedrais, ofícios e vida urbana
+- 11.3 Luz e altura no espaço gótico
 
-- Dia 1: Preparação
-- Dia 2: Prova
-- Dia 3: Correção e devolutiva
+# Semana 11
+Arte Gótica
 
-## Semana 11 – **Arte Islâmica: contexto e cosmovisão**
+## Semana 12 - A arquitetura Gótica
 
-- Dia 1: Arte Islâmica e as formas de arte
-- Dia 2: Impérios islâmicos como produtores de arte
-- Dia 3: Transcendência e evitação da figura humana
+- 12.1 A arquitetura Gótica
+- 12.2 Arcos ogivais e abóbadas de nervuras
+- 12.3 Arcobotantes e verticalidade
 
-## Semana 12 – **Arte Islâmica: ornamentação e materiais**
+# Semana 12
+Arco ogival
 
-- Dia 1: Ornamentação religiosa
-- Dia 2: Azulejos e caligrafia
-- Dia 3: Geometria decorativa
+## Semana 13 - Os vitrais e as fachadas Góticas
 
-## Semana 13 – **Arte Islâmica: forma e composição**
+- 13.1 Os vitrais e as fachadas Góticas
+- 13.2 Rosáceas e narrativas de luz
+- 13.3 Chartres e a imagem na catedral
 
-- Dia 1: Arabescos
-- Dia 2: Simetria e padrões repetitivos
-- Dia 3: Ordem e repetição como linguagem
+# Semana 13
+Vitral
 
-## Semana 14 – **Arte Islâmica: arquitetura**
+## Semana 14 - A escultura Gótica e o naturalismo
 
-- Dia 1: Mesquitas
-- Dia 2: Ausência de escultura figurativa
-- Dia 3: Mesquita Azul
+- 14.1 A escultura Gótica e o naturalismo
+- 14.2 Corpos, gestos e rostos nas catedrais
+- 14.3 Portais e fachadas como narrativas visuais
 
-## Semana 15 – **Arte Islâmica: obras e legado**
+# Semana 14
+Naturalismo
 
-- Dia 1: Alhambra
-- Dia 2: Influência decorativa na Europa
-- Dia 3: Arte islâmica e cosmovisão cristã
+## Semana 15 - Notre-Dame e a polifonia medieval
 
-## Semana 16 – **Arte Românica: contexto e cosmovisão**
+- 15.1 Notre-Dame e a polifonia medieval
+- 15.2 A Escola de Notre-Dame e o organum
+- 15.3 Léonin, Pérotin e as vozes da catedral
 
-- Dia 1: Europa feudal e a arte românica
-- Dia 2: Peregrinações e centralidade da Igreja
-- Dia 3: Juízo, eternidade e reverência
+# Semana 15
+Polifonia
 
-## Semana 17 – **Arte Românica: materiais e forma**
+## Semana 16 - Giotto e a transição para o Renascimento
 
-- Dia 1: Catequese visual para iletrados
-- Dia 2: Pedra, afrescos e portais
-- Dia 3: Figuras rígidas e simbolismo forte
+- 16.1 Giotto e a transição para o Renascimento
+- 16.2 Volume e emoção nas figuras de Giotto
+- 16.3 A Capela Scrovegni e a narrativa em afresco
 
-## Semana 18 – **Arte Românica: arquitetura e legado**
+# Semana 16
+Volume
 
-- Dia 1: Igrejas de paredes espessas
-- Dia 2: Arcos semicirculares
-- Dia 3: Catedral de Santiago de Compostela
+## Semana 17 - O Proto-Renascimento italiano
 
-## Semana 19 – **Revisão do Módulo 2**
+- 17.1 O Proto-Renascimento italiano
+- 17.2 Cidades italianas e pintura religiosa
+- 17.3 Espaço, corpo e narrativa antes da perspectiva
 
-- Dia 1: Revisão Arte Islâmica
-- Dia 2: Revisão Arte Românica
-- Dia 3: Atividades de consolidação
+# Semana 17
+Proto-Renascimento
 
-## Semana 20 – **Prova do Módulo 2**
+## Semana 18 - A pintura de Siena e de Florença
 
-- Dia 1: Preparação
-- Dia 2: Prova
-- Dia 3: Correção e devolutiva
+- 18.1 A pintura de Siena e de Florença
+- 18.2 Duccio, Cimabue e as tradições pictóricas
+- 18.3 Afresco, têmpera e profundidade inicial
 
-## Semana 21 – **Arte Gótica: contexto e cosmovisão**
+# Semana 18
+Pintura italiana
 
-- Dia 1: Arte Gótica e o crescimento urbano
-- Dia 2: Nova espiritualidade urbana
-- Dia 3: Luz como símbolo divino
+19 Revisão
 
-## Semana 22 – **Arte Gótica: função e materiais**
+20 Provas
 
-- Dia 1: Inspirar devoção na arte gótica
-- Dia 2: Vitrais como ensino visual
-- Dia 3: Arcos ogivais e abóbadas
+## Semana 21 - O Primeiro Renascimento italiano
 
-## Semana 23 – **Arte Gótica: forma e composição**
+- 21.1 O Primeiro Renascimento italiano
+- 21.2 Florença, oficinas e mecenato
+- 21.3 A Antiguidade como referência visual
 
-- Dia 1: Verticalidade como expressão visual
-- Dia 2: Luminosidade na arte gótica
-- Dia 3: Detalhamento crescente
+# Semana 21
+Primeiro Renascimento
 
-## Semana 24 – **Arte Gótica: arquitetura e escultura**
+## Semana 22 - A perspectiva no Renascimento
 
-- Dia 1: Fachada gótica
-- Dia 2: Escultura mais natural
-- Dia 3: Notre-Dame de Paris
+- 22.1 A perspectiva no Renascimento
+- 22.2 Linhas e ponto de fuga
+- 22.3 Espaço organizado na pintura
 
-## Semana 25 – **Arte Gótica: obras e legado**
+# Semana 22
+Perspectiva linear
 
-- Dia 1: Catedral de Chartres
-- Dia 2: Preparação para o naturalismo
-- Dia 3: O gótico e a tradição cristã
+## Semana 23 - Proporção e corpo humano
 
-## Semana 26 – **Pré-Renascimento do Norte: contexto e cosmovisão**
+- 23.1 Proporção e corpo humano
+- 23.2 Anatomia e observação da figura
+- 23.3 Contrapposto e equilíbrio na escultura
 
-- Dia 1: Pré-Renascimento e o contexto artístico
-- Dia 2: Pintura a óleo
-- Dia 3: Realismo flamengo
+# Semana 23
+Proporção
 
-## Semana 27 – **Pré-Renascimento do Norte: materiais e forma**
+## Semana 24 - Brunelleschi, Donatello e Masaccio
 
-- Dia 1: Óleo sobre madeira
-- Dia 2: Pintura detalhada
-- Dia 3: Minúcia e realismo simbólico
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 24.2 A cúpula, a escultura e a pintura em perspectiva
+- 24.3 A Trindade e o espaço construído por Masaccio
 
-## Semana 28 – **Pré-Renascimento do Norte: obras e legado**
+# Semana 24
+Perspectiva
 
-- Dia 1: Jan van Eyck
-- Dia 2: Consolidação do realismo
-- Dia 3: Do detalhe à verdade
+## Semana 25 - Botticelli e a composição renascentista
 
-## Semana 29 – **Revisão do Módulo 3**
+- 25.1 Botticelli e a composição renascentista
+- 25.2 Linha, ritmo e figura em A Primavera
+- 25.3 Beleza, natureza e equilíbrio visual
 
-- Dia 1: Revisão Arte Gótica
-- Dia 2: Revisão Pré-Renascimento do Norte
-- Dia 3: Atividades de consolidação
+# Semana 25
+Composição
 
-## Semana 30 – **Prova do Módulo 3**
+## Semana 26 - Leonardo da Vinci e a observação da natureza
 
-- Dia 1: Preparação
-- Dia 2: Prova
-- Dia 3: Correção e devolutiva
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 26.2 Sfumato, luz e estudos anatómicos
+- 26.3 A Última Ceia e a composição narrativa
 
-## Semana 31 – **Renascimento do Norte: contexto e cosmovisão**
+# Semana 26
+Sfumato
 
-- Dia 1: Renascimento do Norte
-- Dia 2: Reformas religiosas e cultura
-- Dia 3: Observação da natureza
+## Semana 27 - Michelangelo e a figura monumental
 
-## Semana 32 – **Renascimento do Norte: função e cosmovisão**
+- 27.1 Michelangelo e a figura monumental
+- 27.2 O Davi e a escultura do corpo humano
+- 27.3 A Capela Sistina e a pintura em grande escala
 
-- Dia 1: Moralidade visual
-- Dia 2: Ensino moral pela arte
-- Dia 3: Representação da vida na arte
+# Semana 27
+Figura monumental
 
-## Semana 33 – **Renascimento do Norte: materiais e forma**
+## Semana 28 - Rafael e o equilíbrio do Alto Renascimento
 
-- Dia 1: Óleo refinado
-- Dia 2: Gravura, xilogravura e metal
-- Dia 3: Precisão e luz simbólica
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
+- 28.2 Harmonia e clareza em A Escola de Atenas
+- 28.3 A polifonia renascentista de Josquin des Prez
 
-## Semana 34 – **Renascimento do Norte: artistas**
+# Semana 28
+Equilíbrio
 
-- Dia 1: Albrecht Dürer
-- Dia 2: Hans Holbein
-- Dia 3: O artista como testemunha
+29 Revisão
 
-## Semana 35 – **Renascimento do Norte: legado**
+30 Provas
 
-- Dia 1: Base do realismo moderno
-- Dia 2: Arte e Reforma Protestante
-- Dia 3: Encerramento do Renascimento do Norte
+## Semana 31 - O Renascimento do Norte
 
-## Semana 36 – **Consolidação: visão panorâmica (parte 1)**
+- 31.1 O Renascimento do Norte
+- 31.2 Cidades comerciais, oficinas e pintura flamenga
+- 31.3 O Norte europeu e o Renascimento italiano
 
-- Dia 1: De Bizâncio à Iconoclastia
-- Dia 2: Do Islã ao Românico
-- Dia 3: Do Gótico ao Pré-Renascimento
+# Semana 31
+Renascimento do Norte
 
-## Semana 37 – **Consolidação: conexões e contrastes**
+## Semana 32 - A pintura a óleo flamenga
 
-- Dia 1: Cosmovisões comparadas
-- Dia 2: Técnicas e materiais comparados
-- Dia 3: A arte como linguagem da fé
+- 32.1 A pintura a óleo flamenga
+- 32.2 Camadas transparentes, cor e luz
+- 32.3 Texturas e detalhes na pintura sobre madeira
 
-## Semana 38 – **Encerramento do Volume 2**
+# Semana 32
+Pintura a óleo
 
-- Dia 1: Síntese dos grandes marcos artisticos
-- Dia 2: A arte e o cristão reformado
-- Dia 3: Introdução ao Renascimento Italiano e Maneirismo
+## Semana 33 - Jan van Eyck e o detalhe simbólico
 
-## Semana 39 – **Revisão Final**
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 33.2 O Casal Arnolfini e o retrato
+- 33.3 Objetos, espelho e luz na pintura flamenga
 
-- Dia 1: Revisão geral
-- Dia 2: Revisão geral
-- Dia 3: Atividades de consolidação
+# Semana 33
+Detalhe simbólico
 
-## Semana 40 – **Prova Final**
+## Semana 34 - A gravura no Renascimento do Norte
 
-- Dia 1: Preparação
-- Dia 2: Prova
-- Dia 3: Correção e encerramento
+- 34.1 A gravura no Renascimento do Norte
+- 34.2 Xilogravura e gravura em metal
+- 34.3 Imagens reproduzidas e circulação de ideias
+
+# Semana 34
+Gravura
+
+## Semana 35 - Albrecht Dürer e o desenho gravado
+
+- 35.1 Albrecht Dürer e o desenho gravado
+- 35.2 Lebre Jovem e a observação da natureza
+- 35.3 Melancolia I e os símbolos na gravura
+
+# Semana 35
+Gravura de Dürer
+
+## Semana 36 - Hans Holbein e o retrato do Norte
+
+- 36.1 Hans Holbein e o retrato do Norte
+- 36.2 Os Embaixadores e os objetos simbólicos
+- 36.3 Precisão, textura e presença no retrato
+
+# Semana 36
+Retrato
+
+## Semana 37 - A Reforma e as imagens no Norte europeu
+
+- 37.1 A Reforma e as imagens no Norte europeu
+- 37.2 Arte, culto e circulação de gravuras
+- 37.3 O coral luterano e o canto comunitário
+
+# Semana 37
+Reforma
+
+## Semana 38 - O legado dos Renascimentos
+
+- 38.1 O legado dos Renascimentos
+- 38.2 Equilíbrio italiano e detalhe do Norte
+- 38.3 A transição do Renascimento para o Maneirismo
+
+# Semana 38
+Renascimento
+
+39 Revisão
+
+40 Provas

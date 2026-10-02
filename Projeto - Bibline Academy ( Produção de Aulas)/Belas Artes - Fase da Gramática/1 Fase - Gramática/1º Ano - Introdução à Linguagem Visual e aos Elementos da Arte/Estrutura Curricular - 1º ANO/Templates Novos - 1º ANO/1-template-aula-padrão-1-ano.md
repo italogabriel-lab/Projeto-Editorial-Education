@@ -32,7 +32,7 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — plain, sem negrito.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao do Definir.]
 
@@ -76,7 +76,7 @@ Ouça e repita a definição abaixo.
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — idêntica ao Definir.]
 
@@ -177,7 +177,7 @@ Leitura
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
 [Definição curta da semana — plain, sem negrito.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao do Definir.]
 

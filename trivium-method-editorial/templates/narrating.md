@@ -2,9 +2,13 @@
 
 ## Princípio pedagógico
 
-Este é o **quinto e último contato da criança com o tema da semana**, agora pela via da repetição com imagem. O Narrar repete LITERALMENTE o conteúdo do Definir daquela aula — definição curta e parágrafo livre — apresentado com imagem e áudio. As perguntas conduzem a criança a localizar na leitura o que ouviu e leu no Definir. A criança deve narrar com as próprias palavras o que compreendeu.
+Este é o **quinto e último contato da criança com o tema da semana**, agora pela via da repetição com imagem. O Narrar repete LITERALMENTE o conteúdo do Definir daquela aula, definição curta, explicação da palavra-chave e conexão teológica, apresentado com imagem e áudio. As perguntas conduzem a criança a localizar na leitura o que ouviu e leu no Definir. A criança deve narrar com as próprias palavras o que compreendeu.
 
-**Regra absoluta**: o texto do Narrar é literalmente idêntico ao Definir daquela aula. Não inventar texto novo. Não adicionar frases.
+**Padrão do 2º ano**: o bloco final usa heading `Perguntas` e exatamente 2 perguntas direcionadas por aula. Cada resposta deve aparecer explicitamente no texto do Narrar.
+
+**Regra absoluta**: definição e explicação do Narrar são literalmente idênticas ao Definir daquela aula. No 3º ano, a conexão teológica é a única informação adicional e fica junto da imagem. Não inventar texto novo.
+
+**Exceção do 3º ano**: use um único `[+IMAGE_TEXT_ASIDE]`. A conexão teológica semanal fica na linha de `@link_png@`. O MP3 a narra depois da definição e explicação, mas o texto visual após `[MP3\]` mostra somente definição e explicação. Não usar `[+PARAGRAPH]` seguido de `[+IMAGE]`.
 
 Em Belas Artes, o Narrar deve preservar o vocabulário visual da aula. A criança deve responder com base em imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual quando esses termos forem o foco.
 
@@ -25,9 +29,9 @@ Leitura
 
 [MP3/]
 
-#FSH:0b12d715e4c741399594fccb12d4bbe2
+#VOX:
 
-[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Parágrafo livre — plain, sem negrito, literalmente idêntico ao parágrafo livre do Definir.]
+[Definição curta — plain, sem negrito, literalmente idêntica ao Definir.] [Explicação da palavra-chave e conexão teológica — plain, literalmente idênticas ao Definir.]
 
 [MP3\]
 
@@ -35,12 +39,14 @@ Leitura
 
 [Parágrafo livre — com negritos progressivos, literalmente idêntico ao texto visual do Accordion.]
 
+[Conexão teológica da semana, literalmente idêntica ao texto visual do Accordion.]
+
 [-IMAGE_TEXT_ASIDE]
 ```
 
-### Variante B — PARAGRAPH (3º ano)
+### Variante B — PARAGRAPH (legado)
 
-Use esta variante para o 3º ano. O bloco `[+IMAGE]` é obrigatório e permanece depois da leitura, antes das perguntas. O conteúdo do `[+PARAGRAPH]` repete literalmente o Definir daquela aula.
+Esta variante pertence a aulas antigas e não deve ser usada no 3º ano.
 
 ```markdown
 [+PARAGRAPH]

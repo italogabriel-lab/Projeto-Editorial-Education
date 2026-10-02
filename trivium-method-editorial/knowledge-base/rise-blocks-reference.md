@@ -60,7 +60,7 @@ Tema ou pergunta simples da aula.
 
 [MP3/]
 
-#11L:VOICE_ID_AQUI
+#VOX:
 
 Definição curta da aula.
 
@@ -76,9 +76,9 @@ Explicação breve com **termos-chave** em **negrito**.
 ```
 
 **Regras:**
-- O MP3 contém a definição curta e a explicação completa.
+- O MP3 contém a definição curta, a explicação completa e a conexão teológica da semana.
 - O texto visual após `[MP3\]` repete o conteúdo do áudio, com negritos permitidos.
-- O voice ID (`#11L:xxx`) é obrigatório e consistente por ano.
+- O marcador `#VOX:` é obrigatório em todas as aulas. Não incluir voice ID.
 - O `@link_png@` permanece dentro do Accordion.
 
 ---
@@ -126,7 +126,7 @@ Bloco de declaração com áudio para memorização.
 
 [MP3/]
 
-#11L:VOICE_ID_AQUI
+#VOX:
 
 Frase para memorizar.
 
@@ -240,14 +240,14 @@ Terceira pergunta?
 ```
 
 **Regras:**
-- Sempre 3 perguntas.
+- No 2º ano, sempre 2 perguntas direcionadas. Nos demais anos, seguir a quantidade do template específico.
 - Sem numeração explícita (o Rise numera automaticamente).
 
 ---
 
 ## TABS
 
-Bloco com abas nomeadas, cada aba contendo uma imagem e um texto descritivo. Usado no Perceber de aulas de revisão para apresentar imagens lado a lado com análise.
+Bloco com abas nomeadas, cada aba contendo uma imagem e um texto descritivo. Usado no Perceber de aulas de revisão para apresentar imagens lado a lado com análise e, no 2º ano, no Definir como substituto do Accordion.
 
 ```markdown
 [+TABS]

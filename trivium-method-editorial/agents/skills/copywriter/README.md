@@ -73,7 +73,7 @@ O **Copywriter** dá o acabamento final ao conteúdo revisado, otimizando títul
 - ✅ Conexão clara com tema
 
 ### 5. Perguntas (Narrar)
-- ✅ 3 perguntas curtas e diretas
+- ✅ 2 perguntas curtas e diretas no 2º ano
 - ✅ Respostas explícitas no texto
 - ✅ Ajudam a criança a narrar com suas palavras
 
@@ -108,7 +108,7 @@ Arquivo: `final_class.md` — Pronto para publicação!
 - [ ] Conexão com tema
 
 ### **5. Narrar — Perguntas**
-- [ ] 3 perguntas curtas e diretas
+- [ ] 2 perguntas curtas e diretas no 2º ano
 - [ ] Respostas explícitas no texto
 - [ ] Sem perguntas abertas, reflexivas ou inferenciais
 

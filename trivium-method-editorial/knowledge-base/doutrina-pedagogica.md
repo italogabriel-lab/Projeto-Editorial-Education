@@ -35,7 +35,7 @@ A unidade pedagógica é a **semana**, não a aula. Cada semana tem **1 tema cen
 - **`x.2` — Primeiro desdobramento**: explora um ângulo específico do mesmo tema.
 - **`x.3` — Segundo desdobramento**: explora outro ângulo do mesmo tema e fecha a semana.
 
-A definição curta nasce em `x.1` e se repete literalmente em `x.2` e `x.3`. A música ou rima do Recordar é a mesma nas três aulas. Só variam o parágrafo livre do Definir (e a explicação no Accordion) e os exemplos visuais/narrativos de cada aula.
+A definição curta nasce em `x.1` e se repete literalmente em `x.2` e `x.3`. A conexão teológica nasce com o tema central e também se repete literalmente nas três aulas. A música ou rima do Recordar é a mesma nas três aulas. Só varia a explicação da palavra-chave e os exemplos visuais/narrativos de cada aula.
 
 ### Progressão por Palavras-Chave
 

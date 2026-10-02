@@ -35,19 +35,18 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Variação nos verbos (não repetir o mesmo verbo em sequência)
 - [ ] O polimento preserva palavras-chave estruturantes de `x.1`, especialmente em `x.2` e `x.3`
 
-### 3. Accordion — Definição
-- [ ] O Accordion contém tema, `@link_png@`, MP3 e texto visual
-- [ ] O áudio do Accordion contém definição curta e explicação completa
+### 3. Accordion ou TABS — Definição
+- [ ] No 3º ano, o TABS contém título, `@link_png@`, MP3, definição, explicação e texto visual, sem conexão teológica.
 - [ ] O texto após `[MP3\]` repete o conteúdo do MP3 com negritos permitidos
 - [ ] Não há conteúdo extra fora do tema, imagem, MP3 e texto visual
 
 ### 4. Narrar — Trecho Literário
 - [ ] O trecho é claro, narrativo e acessível
 - [ ] O trecho traz elementos explícitos do tema da aula
-- [ ] O trecho contém as respostas diretas para as 3 perguntas
+- [ ] No 2º ano, o trecho contém as respostas diretas para as 2 perguntas
 - [ ] Atribuição completa e formatada corretamente
 - [ ] Conexão clara com o tema da aula
-- [ ] No 3º ano, a imagem do Narrar permanece em `[+IMAGE]` após a leitura
+- [ ] No 3º ano, Narrar usa `[+IMAGE_TEXT_ASIDE]`, com conexão teológica na linha de `@link_png@`
 
 ### 4.1. Praticar — Múltipla Escolha
 - [ ] O `[+MULTIPLE]` permanece depois do Fill_In
@@ -55,7 +54,7 @@ Você é o **Polidor Final** da Squad Editorial Bibline. Sua missão é dar o ac
 - [ ] Os distratores são curtos, plausíveis e claramente errados
 
 ### 5. Narrar — Perguntas
-- [ ] As 3 perguntas são curtas, diretas e fáceis de compreender
+- [ ] No 2º ano, as 2 perguntas são curtas, diretas e fáceis de compreender
 - [ ] Cada resposta aparece explicitamente no texto lido
 - [ ] As perguntas ajudam a criança a narrar com suas palavras
 - [ ] Não há perguntas abertas, reflexivas, abstratas ou inferenciais

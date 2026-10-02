@@ -60,8 +60,8 @@ Levar o aluno a reconhecer que a arte nasce de Deus, acompanha a história human
 | Aula | Título | Função na progressão |
 | --- | --- | --- |
 | 3.1 | A arte como louvor | Coração da semana. Define a arte como resposta adoradora. |
-| 3.2 | Cores que expressam sentimentos | Primeiro desdobramento. Desenvolve a cor como linguagem do coração. |
-| 3.3 | O som da alegria | Segundo desdobramento. Desenvolve a música como expressão de gratidão. |
+| 3.2 | A beleza do louvor na música | Primeiro desdobramento. Desenvolve a beleza da música como linguagem do louvor. |
+| 3.3 | O som do louvor a Deus | Segundo desdobramento. Desenvolve o som como expressão de gratidão dirigida a Deus. |
 
 **Mensagem central**, O artista cristão cria para glorificar a Deus.
 
@@ -115,7 +115,7 @@ Levar o aluno a reconhecer que a arte nasce de Deus, acompanha a história human
 
 ---
 
-## Semana 7, Cores primárias e secundárias
+## Semana 7, O matiz na pintura
 
 **Visão teológica**, A cor fala por contraste, harmonia e simbolismo.
 
@@ -123,9 +123,9 @@ Levar o aluno a reconhecer que a arte nasce de Deus, acompanha a história human
 
 | Aula | Título | Função na progressão |
 | --- | --- | --- |
-| 7.1 | Cores primárias e secundárias | Coração da semana. Define a base da linguagem cromática. |
-| 7.2 | O poder do matiz e da luz | Primeiro desdobramento. Desenvolve variação e intensidade. |
-| 7.3 | O céu como tela divina | Segundo desdobramento. Desenvolve a observação do firmamento. |
+| 7.1 | O matiz na pintura | Coração da semana. Define o matiz como qualidade que distingue uma cor. |
+| 7.2 | Matizes entre cores primárias e secundárias | Primeiro desdobramento. Observa como o matiz diferencia cores em uma pintura. |
+| 7.3 | Matizes do céu em uma paisagem | Segundo desdobramento. Observa os matizes do céu representados em uma paisagem. |
 
 **Mensagem central**, As cores ensinam ordem, significado e contemplação.
 
@@ -526,19 +526,19 @@ Avalie as semanas 21 a 28 com atividades orais, visuais e práticas.
 
 ---
 
-## Semana 37, Arte cristã primitiva e catacumbas
+## Semana 37, Roma e a arte cristã primitiva
 
-**Visão teológica**, A igreja primitiva usa símbolos e imagens simples para confessar a fé e consolar os fiéis.
+**Visão teológica**, Roma organiza poder e memória em imagens públicas, enquanto as comunidades cristãs preservam a fé em catacumbas e símbolos.
 
 **Estrutura do módulo**
 
 | Aula | Título | Função na progressão |
 | --- | --- | --- |
-| 37.1 | Arte cristã primitiva e catacumbas | Coração da semana. Apresenta a arte cristã inicial como testemunho da fé. |
-| 37.2 | O Bom Pastor nas catacumbas | Primeiro desdobramento. Desenvolve o Bom Pastor como imagem de esperança. |
-| 37.3 | Símbolos cristãos nas pinturas | Segundo desdobramento. Desenvolve os símbolos como linguagem de identificação e ensino. |
+| 37.1 | Roma e a arte cristã primitiva | Coração da semana. Apresenta a arte romana e sua transição para a arte cristã. |
+| 37.2 | O retrato romano e o poder | Primeiro desdobramento. Desenvolve o retrato como linguagem pública de memória e poder. |
+| 37.3 | As catacumbas e a memória cristã | Segundo desdobramento. Desenvolve catacumbas e símbolos como memória visual da fé. |
 
-**Mensagem central**, A arte cristã primitiva serve à fé em tempos de prova.
+**Mensagem central**, A arte romana conduz da memória pública à memória cristã preservada nas catacumbas.
 
 ---
 

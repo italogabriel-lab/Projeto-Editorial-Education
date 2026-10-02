@@ -65,11 +65,9 @@ Provas
 
 Revoluções industriais e nacionalismos
 Emoção, natureza e centralidade do indivíduo
-
 Expressão de sentimentos intensos e o sublime
 
 Pintura a óleo e paisagens dramáticas
-
 Movimento, contrastes fortes e atmosferas emocionais
 A natureza como catedral e a paisagem como oração
 
@@ -91,11 +89,9 @@ Provas
 
 Sociedade industrial e questões sociais
 Valorização do cotidiano e observação objetiva
-
 Representar trabalhadores e criticar desigualdades
 
 Pintura realista, cores naturais e composição simples
-
 Gustave Courbet e a dignidade do ordinário
 O legado realista e a preparação para o Impressionismo
 

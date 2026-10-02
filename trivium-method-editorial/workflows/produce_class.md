@@ -36,7 +36,10 @@ Estrutura: `[Base]/Estrutura Curricular/`
    - Palavras-chave estruturantes do tema e da definição de `x.1`, usadas nos exemplos de `x.2` e `x.3`
    - 1 versículo eixo + 2 versículos de apoio (para `x.2` e `x.3`)
    - 3 obras de arte para o Perceber (uma por aula, todas dentro do tema)
-   - 1 música ou rima para o Recordar (compartilhada pelas 3 aulas)
+   - Registrar cada obra no arquivo `4 - Links-para-imagens-perceber` com palavras-chave em inglês e fonte identificada.
+   - Priorizar Openverse com filtro `CC0/PDM`, Rawpixel Public Domain e itens Open Access ou Public Domain. Confirmar a licença na página individual antes de usar.
+   - Para Wikimedia Commons, selecionar apenas arquivos individuais CC0 ou Domínio Público/PDM sem obrigação de atribuição, preferindo CC0; excluir CC BY/CC BY-SA e usar a página direta após conferir direitos. Getty, NGA, Artvee, Louvre, World History Encyclopedia, PICRYL, PublicDomainPictures, Pixabay e Unsplash também exigem verificação da licença específica da obra.
+   - 1 música ou rima para o Recordar (compartilhada pelas 3 aulas). No 3º ano, o título exibido é literalmente o título da aula `x.1`, também em `x.2`, `x.3` e `x.4`
    - 3 trechos literários para o Narrar (um por aula, usar DB de autores da skill)
 5. **Output**: relatório de pesquisa organizado pelos 5 hábitos e por aula da semana
 
@@ -50,11 +53,13 @@ Estrutura: `[Base]/Estrutura Curricular/`
    - `editorial-squad/knowledge-base/guia-de-estilo.md`
    - `editorial-squad/knowledge-base/doutrina-pedagogica.md`
 4. Se a aula é `x.2` ou `x.3`, **ler primeiro `x.1`** da mesma semana e copiar literalmente: definição curta, termo principal e música/rima do Recordar
-5. Extrair palavras-chave do tema e da definição de `x.1` e usá-las no exemplo central, no Definir, no Perceber, no Praticar e no Narrar de `x.2` e `x.3`. No parágrafo livre do Definir, aplicar **progressão de negritos**: `x.1` = negrito no TERMO; `x.2` = negrito no TERMO + KW2 (= resposta do fill-in de `x.2`); `x.3` = negrito no TERMO + KW3 (= resposta do fill-in de `x.3`). No áudio do Accordion e do Narrar, definição curta e explicação plain ficam em uma única linha, separadas por espaço. O texto visual após `[MP3\]` usa a versão bold e pode permanecer em parágrafos.
+5. Extrair palavras-chave do tema e da definição de `x.1` e usá-las no exemplo central, no Definir, no Perceber, no Praticar e no Narrar de `x.2` e `x.3`. No 3º ano, o Definir contém definição curta, explicação e "Veja o vídeo abaixo.", sem conexão teológica. A conexão permanece idêntica em `x.1`, `x.2` e `x.3`, na linha de `@link_png@` do Narrar. O MP3 do Narrar traz definição, explicação e conexão em uma linha, e seu texto visual apresenta somente definição e explicação.
+5.1. **No 3º ano**, substituir o Accordion do Definir por um único `[+TABS]`, com título, `@link_png@`, definição, explicação, MP3 e texto visual, sem conexão teológica, seguido diretamente de `[-TABS]`.
+6. Em cada aula regular, usar o marcador literal `#VOX:` no MP3. Quando `[+IMAGE_LABELED]` tiver apenas um hotspot, usar a coordenada central `49 50`. Revisões `.4` podem manter vários hotspots.
 6. Redigir conteúdo completo dos 5 hábitos baseado no relatório de pesquisa
 7. Garantir: voz ativa, imperativo, frases ≤ 30 palavras, sem `;` `:` `—`
 8. Garantir que Praticar tenha Fill_In, `[+MULTIPLE]` e Atividade Extra, nessa ordem. O Fill_In usa a definição curta da semana com a lacuna na palavra-chave específica da aula: `x.1` no termo central, `x.2` na palavra-chave do desdobramento, `x.3` na palavra-chave do contexto
-9. No 3º ano, garantir que Narrar tenha `[+PARAGRAPH]` para a leitura e `[+IMAGE]` com `@link_png@` antes das perguntas
+9. No 3º ano, garantir que Narrar tenha um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`
 10. **Output**: rascunho da aula
 
 ---
@@ -68,9 +73,10 @@ Estrutura: `[Base]/Estrutura Curricular/`
 5. Formatar com Rise Blocks seguindo o mapeamento exato dos 5 hábitos
 6. Remover metadados, emojis de seção, separadores `---`
 7. Verificar definição curta literalmente idêntica no cabeçalho do Definir e no Recordar, inclusive capitalização. No Accordion, o MP3 contém definição curta e explicação completa, e o texto após `[MP3\]` mantém conteúdo equivalente com negritos permitidos
-8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo e música/rima são idênticos. Apenas o parágrafo livre do Definir, a explicação do Accordion, as imagens, o texto do Narrar e a Atividade Extra devem variar
+8. **Consistência semanal**: se for `x.2` ou `x.3`, comparar com `x.1` e garantir que definição curta, termo, conexão teológica e música/rima são idênticos. Apenas a explicação da palavra-chave, as imagens, o texto específico do Narrar e a Atividade Extra devem variar
 9. **Progressão por palavras-chave**: se for `x.2` ou `x.3`, garantir que palavras-chave de `x.1` aparecem no Definir, Perceber, Praticar e Narrar
 10. **Perspectiva de Belas Artes**: garantir que todo tema seja tratado pela observação de imagem, desenho, forma, linha, cor, textura, espaço, composição, obra de arte ou beleza visual
+10.1. **Revisão `.4`**: escrever o enunciado do Perceber no imperativo, retomando explicitamente o tema central e os elementos visuais da semana. Nunca usar uma fórmula genérica.
 11. Verificar que o `[+MULTIPLE]` permanece no Praticar e que a imagem do Narrar segue o padrão do ano
 12. **Output**: aula formatada com Rise Blocks
 

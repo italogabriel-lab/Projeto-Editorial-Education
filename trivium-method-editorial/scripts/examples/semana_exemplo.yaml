@@ -16,13 +16,14 @@
 
 config:
   ano: 1                                           # 1, 2 ou 3
-  audio_hash: "0b12d715e4c741399594fccb12d4bbe2"  # hash FSH — mesmo para todas as aulas da semana
+  # O marcador padrão de áudio é #VOX:, sem voice ID.
   diretorio_saida: "./output_semana3"              # pasta onde os arquivos .md serão salvos
 
 semana:
   numero: 3
   definicao_curta: "O ponto representa o começo de uma obra de arte."
   nome_musica: "O ponto começa a arte"
+  conexao_teologica: "A arte redimida responde à bondade de Deus com adoração, alegria e beleza ordenada."
 
   # ── Aulas da semana ────────────────────────────────────────────────────────
   aulas:
@@ -36,7 +37,7 @@ semana:
       palavras_negrito:
         - "pontos"
       perceber_frase: "Observe a imagem e veja como um ponto pode iniciar uma obra de arte simples."
-      perceber_hotspot_coords: "40 45"
+      perceber_hotspot_coords: "49 50"
       perceber_hotspot_legenda: "Obra de arte com pontos"
       fill_in_frase: "O _____ representa o começo de uma obra de arte."
       fill_in_resposta: "ponto"
@@ -57,7 +58,7 @@ semana:
         - "ponto"
         - "começo"
       perceber_frase: "Observe a imagem e veja como um ponto pode ser o começo de uma obra de arte."
-      perceber_hotspot_coords: "45 45"
+      perceber_hotspot_coords: "49 50"
       perceber_hotspot_legenda: "Ponto como começo"
       fill_in_frase: "O ponto representa o _____ de uma obra de arte."
       fill_in_resposta: "começo"
@@ -78,7 +79,7 @@ semana:
         - "ponto"
         - "obra de arte"
       perceber_frase: "Observe a imagem e veja o ponto marcando partes da obra de arte com cuidado."
-      perceber_hotspot_coords: "50 45"
+      perceber_hotspot_coords: "49 50"
       perceber_hotspot_legenda: "Ponto na obra de arte"
       fill_in_frase: "O ponto representa o começo de uma _____."
       fill_in_resposta: "obra de arte"

@@ -140,3 +140,8 @@ Use quando o foco for **composição, luz, materialidade, intenção estética**
 ## Output
 
 Um arquivo markdown com o relatório de pesquisa organizado pelos 5 hábitos, pronto para ser consumido pelo Writer (Etapa 2).
+
+
+## Fontes visuais do Perceber
+
+Para cada aula, priorize Getty Collection, Rawpixel Public Domain, National Gallery of Art e Artvee; Wikimedia Commons também pode ser usado como fonte complementar quando previsto no arquivo de links do ano. No Commons, a busca serve apenas para localizar candidatos. Abra a página individual do arquivo e selecione somente itens identificados como CC0 ou Domínio Público/PDM sem obrigação de atribuir autor ou fonte; prefira CC0. Exclua CC BY, CC BY-SA e qualquer licença que exija crédito, compartilhamento pela mesma licença ou outra condição de reutilização. Se status, licença ou direitos forem ambíguos, não use a imagem. PDM é uma marca informativa, não uma licença nem garantia universal; confira avisos de direitos e possíveis direitos de imagem, privacidade, marca ou outros direitos não autorais. Use o link direto da página individual do arquivo, nunca apenas a busca. Registre internamente título, autor, instituição, licença e URL para rastreabilidade; esse registro não cria obrigação externa de atribuição. Pixabay e Unsplash são complementares, e todas as fontes exigem verificação da licença do item específico.

@@ -60,6 +60,23 @@ Arquivos de referência da semana 1:
 
 ---
 
+## 3. Curadoria e licenciamento das imagens do Perceber
+
+Antes de produzir qualquer aula nova, crie ou atualize o arquivo `4 - Links-para-imagens-perceber` do ano. Use palavras-chave em inglês derivadas do tema da aula e mantenha uma busca específica por aula.
+
+A ordem editorial das fontes deve ser:
+
+1. Getty Collection, Rawpixel Public Domain, National Gallery of Art ou Artvee para localizar obras relacionadas ao tema.
+2. Wikimedia Commons como fonte complementar quando previsto no arquivo do ano. Use somente a página individual de arquivos CC0 ou Domínio Público/PDM sem obrigação de atribuição, preferindo CC0; exclua CC BY, CC BY-SA e qualquer condição de crédito ou reutilização. Links de busca são apenas descoberta, não prova de licença.
+3. Louvre como catálogo adicional, usando a página individual somente quando a obra informar Open Access, Public Domain ou licença compatível.
+4. Openverse com o filtro `CC0/PDM`, confirmando a licença na página individual antes do download.
+5. World History Encyclopedia, PICRYL e PublicDomainPictures como buscas adicionais, sempre verificando a licença e os direitos específicos da obra.
+6. Pixabay e Unsplash somente como complementos, com conferência das licenças próprias.
+
+Nunca trate uma busca ou catálogo como autorização automática. Para cada obra selecionada, confirme licença e direitos na página individual, use link direto e registre internamente título, autor, instituição, licença e URL para rastreabilidade. Priorize CC0; PDM é informativo e não garante ausência universal de restrições. Se houver ambiguidade ou possíveis direitos não autorais, não use a imagem. O registro interno não constitui obrigação externa de atribuição.
+
+Em buscas gerais, use o filtro de direitos de uso do Google para Licenças Creative Commons e confirme a licença na página original. Em Met, Smithsonian e Europeana, selecione apenas itens marcados como Open Access, CC0, Public Domain ou sem restrições.
+
 ## 3. Geração de imagens
 
 ### 3.1 Estilo visual padrão (pintura a óleo)
@@ -124,7 +141,7 @@ Refaça exatamente a mesma imagem, mudando apenas a proporção. Defina a propor
 
 ---
 
-## 4. Música — SUNO 5.5
+## 4. Música — SUNO 6.
 
 O nome da música se repete nas aulas 1, 2, 3 e 4 da mesma semana.
 

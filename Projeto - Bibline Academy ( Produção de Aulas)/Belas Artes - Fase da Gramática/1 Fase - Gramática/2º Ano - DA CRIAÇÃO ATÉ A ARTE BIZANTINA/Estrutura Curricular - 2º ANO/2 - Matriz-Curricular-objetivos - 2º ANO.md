@@ -43,15 +43,15 @@ A aula `.2` desenvolve o primeiro subtópico. A aula `.3` desenvolve o segundo s
 
 ## Semana 3, A arte como louvor
 
-**Tema central**, A arte como louvor. A aula 3.1 apresenta a arte como resposta de adoração. A aula 3.2 desenvolve a cor como linguagem do coração. A aula 3.3 desenvolve o som da alegria como expressão de gratidão.
+**Tema central**, A arte como louvor. A aula 3.1 apresenta a arte como resposta de adoração. A aula 3.2 desenvolve a beleza do louvor na música. A aula 3.3 desenvolve o som do louvor a Deus como expressão de gratidão.
 
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
 | 3.1 | A arte como louvor | Compreender a arte como resposta de adoração à bondade de Deus. |
-| 3.2 | Cores que expressam sentimentos | Reconhecer a cor como primeiro desdobramento da linguagem do louvor. |
-| 3.3 | O som da alegria | Entender a música alegre como segundo desdobramento do louvor artístico. |
+| 3.2 | A beleza do louvor na música | Reconhecer a beleza da música como primeiro desdobramento da linguagem do louvor. |
+| 3.3 | O som do louvor a Deus | Entender o som como segundo desdobramento do louvor dirigido a Deus. |
 
-**Conceitos da semana**, Louvor, Cor, Alegria
+**Conceitos da semana**, Louvor, Música, Som
 
 ---
 
@@ -97,17 +97,17 @@ A aula `.2` desenvolve o primeiro subtópico. A aula `.3` desenvolve o segundo s
 
 ---
 
-## Semana 7, Cores primárias e secundárias
+## Semana 7, O matiz na pintura
 
-**Tema central**, Cores primárias e secundárias. A aula 7.1 apresenta a base das cores. A aula 7.2 desenvolve o matiz e a luz. A aula 7.3 desenvolve o céu como tela divina.
+**Tema central**, O matiz na pintura. A aula 7.1 apresenta o matiz como qualidade da cor. A aula 7.2 observa matizes entre cores primárias e secundárias. A aula 7.3 observa os matizes do céu em uma paisagem pintada.
 
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
-| 7.1 | Cores primárias e secundárias | Identificar a estrutura básica da linguagem cromática. |
-| 7.2 | O poder do matiz e da luz | Reconhecer o matiz e a luz como primeiro desdobramento expressivo do tema. |
-| 7.3 | O céu como tela divina | Entender o firmamento como segundo desdobramento da linguagem das cores. |
+| 7.1 | O matiz na pintura | Identificar o matiz como qualidade que distingue uma cor. |
+| 7.2 | Matizes entre cores primárias e secundárias | Reconhecer o matiz em cores primárias e secundárias de uma pintura. |
+| 7.3 | Matizes do céu em uma paisagem | Identificar os matizes do céu representados em uma paisagem. |
 
-**Conceitos da semana**, Cor primária, Matiz, Firmamento
+**Conceitos da semana**, Matiz, Cor primária, Cor secundária
 
 ---
 
@@ -466,17 +466,17 @@ Avalie os objetivos das semanas 21 a 28 com atividades simples, visuais, orais e
 
 ---
 
-## Semana 37, Arte cristã primitiva e catacumbas
+## Semana 37, Roma e a arte cristã primitiva
 
-**Tema central**, Arte cristã primitiva e catacumbas. A aula 37.1 apresenta a arte cristã primitiva como testemunho da fé. A aula 37.2 desenvolve o Bom Pastor nas catacumbas. A aula 37.3 desenvolve os símbolos cristãos nas pinturas.
+**Tema central**, Roma e a arte cristã primitiva. A aula 37.1 apresenta a arte romana como expressão visual de poder, memória e vida pública. A aula 37.2 desenvolve o retrato romano como imagem de poder. A aula 37.3 desenvolve as catacumbas como memória cristã dentro do mundo romano.
 
 | Aula | Título | Objetivo teológico-pedagógico |
 | --- | --- | --- |
-| 37.1 | Arte cristã primitiva e catacumbas | Compreender a arte cristã inicial como expressão simples e corajosa da fé. |
-| 37.2 | O Bom Pastor nas catacumbas | Reconhecer o Bom Pastor como primeiro desdobramento iconográfico do tema. |
-| 37.3 | Símbolos cristãos nas pinturas | Entender os símbolos como segundo desdobramento da linguagem cristã primitiva. |
+| 37.1 | Roma e a arte cristã primitiva | Compreender a arte romana como expressão visual de poder, memória e vida pública. |
+| 37.2 | O retrato romano e o poder | Reconhecer o retrato romano como primeiro desdobramento visual do poder. |
+| 37.3 | As catacumbas e a memória cristã | Entender as catacumbas como segundo desdobramento visual da memória cristã. |
 
-**Conceitos da semana**, Catacumba, Bom Pastor, Símbolo cristão
+**Conceitos da semana**, Arte romana, Poder, Memória
 
 ---
 

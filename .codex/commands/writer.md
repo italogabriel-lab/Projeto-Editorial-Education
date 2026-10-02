@@ -38,7 +38,7 @@ Consulte o Currículo Macro e o Plano Pedagógico. Identifique:
 Se você está redigindo `x.2` ou `x.3`, **leia primeiro** `x.1` da mesma semana e extraia dela:
 - A definição curta literal (vai no cabeçalho do Definir, no Accordion, no Statement_D e no Fill_In)
 - O termo principal
-- A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração
+- A música ou rima do Recordar (`@link_mp3@` + Nome da música) — repetidos sem alteração. No 3º ano, o nome exibido é literalmente o título da aula `x.1`.
 - As palavras-chave estruturantes do tema central e da definição curta de `x.1`
 
 ### 4. Verificar Termos Já Definidos no Ano
@@ -110,19 +110,18 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Primeira linha: definição curta do Recordar em negrito, literalmente a mesma frase do Statement_D e idêntica em `x.1`, `x.2` e `x.3` da mesma semana.
 - Depois da definição, deixar uma linha em branco.
 - Duas frases em prosa direta na MESMA linha, sem "Reconheça que" nem "Observe que". A primeira apresenta o ângulo desta aula dentro do tema da semana. A segunda traz um argumento extra. Separadas por ponto e espaço, sem linha em branco entre elas.
-- Em `x.2` e `x.3`, **só varia esse parágrafo livre** (e a explicação no Accordion). A definição curta em negrito é literal de `x.1`, e o parágrafo livre deve usar palavras-chave do tema central.
-- Deixar linha em branco apenas antes de "Veja o vídeo abaixo."
-- Frase final: "Veja o vídeo abaixo." obrigatória antes do fechamento do parágrafo.
+- Em `x.2` e `x.3`, **só varia a explicação da palavra-chave**. A definição curta em negrito e a conexão teológica são literais de `x.1`, e a explicação deve usar palavras-chave do tema central.
+- No 3º ano, escrever "Veja o vídeo abaixo." após a explicação, sem conexão teológica no Definir. A conexão vai na linha de `@link_png@` do Narrar.
 - Vídeo de abertura logo abaixo do parágrafo: `[+VIDEO][-VIDEO]`
 - Antes do Accordion, escreva literalmente: "Leia o fato e ouça o áudio clicando abaixo.".
-- Accordion: tema, `@link_png@`, MP3 com definição curta e explicação completa em uma única linha, separadas por espaço. Aplicar a mesma linha única ao áudio do Narrar. O tema/pergunta do Accordion pode variar entre as aulas da semana para refletir o ângulo de cada uma.
+- No 3º ano, usar um único TABS com título, `@link_png@`, definição e explicação. A conexão teológica não entra no TABS. No Narrar, o MP3 mantém os três trechos em uma linha, e a conexão fica junto de `@link_png@`.
 - Texto após `[MP3\]`: repetir o mesmo conteúdo do áudio, com a definição curta em negrito e destaques pedagógicos quando necessário.
 - Exemplo (semana 1): em `1.1`, `1.2` e `1.3`, a definição curta é sempre `Arte expressa a beleza criada por Deus com habilidade humana.` O parágrafo livre adapta o foco para expressão, beleza e habilidade respectivamente.
 
 ### Perceber (Observar)
 - A imagem DEVE mostrar o conceito do Definir em ação, em exemplo concreto ou em contexto visual direto
 - Em `x.2` e `x.3`, a imagem e os hotspots devem evidenciar palavras-chave do tema de `x.1`
-- Os 2 hotspots devem apontar para elementos que ilustram diretamente o conceito definido
+- O hotspot único da aula regular deve apontar para o elemento central que ilustra diretamente o conceito definido e usar `49 50`
 - O parágrafo deve ter 1 frase curta, simples e direta
 - O enunciado deve apenas observar a imagem, nomear a obra ou cena principal e indicar o elemento visual central
 - As observações e explicações devem ficar nos hotspots, também em frases curtas
@@ -144,20 +143,21 @@ Em `x.2` e `x.3`, cada hábito deve retomar pelo menos uma palavra-chave literal
 - Múltipla escolha obrigatória logo depois do Fill_In, com heading `Atividade 2`
 - A resposta correta do `[+MULTIPLE]` é a definição curta completa do Definir e do Recordar
 - Os distratores são plausíveis mas errados
-- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo enunciado de atividade prática relacionada ao conceito central
+- Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção." seguido de `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` que peça a reprodução prática de forma, composição, técnica ou detalhe visual específico da aula. Proibido usar enunciado genérico ou pedir somente que a criança escreva uma palavra.
 - Em `x.2` e `x.3`, a Atividade Extra deve usar palavras-chave do tema central e aplicar o ângulo da aula
 - **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ### Narrar (Contextualizar)
 - Trecho literário cristão/puritano/poético entre aspas retas
-- No 3º ano, usar `[+PARAGRAPH]` para a leitura e manter `[+IMAGE]` com `@link_png@` logo após a leitura, antes de `Perguntas`
+- No 3º ano, usar um único `[+IMAGE_TEXT_ASIDE]`, com a conexão teológica na linha de `@link_png@`, nunca `[+PARAGRAPH]` seguido de `[+IMAGE]`
 - Nos demais anos, usar `[+IMAGE_TEXT_ASIDE]` conforme o template
 - O texto DEVE trazer elementos explícitos do tema da aula e do conceito definido
 - Em `x.2` e `x.3`, o texto deve repetir palavras-chave de `x.1` junto ao foco específico da aula
-- O texto DEVE conter as respostas às 3 perguntas em frases claras
+- No 2º ano, o texto DEVE conter as respostas às 2 perguntas em frases claras. Nos demais anos, seguir a quantidade do template específico.
+- No 3º ano, usar 3 perguntas na ordem definição, explicação e conexão teológica. A terceira pergunta deve pedir um dado explícito da frase teológica, sem mencionar "conexão teológica" nem usar pergunta genérica.
 - O texto deve repetir imagens, ações ou objetos ligados ao conceito definido no Definir
 - Atribuição com autor, obra, referência bíblica
-- 3 perguntas curtas, diretas e fáceis de compreender
+- No 2º ano, 2 perguntas curtas, diretas e fáceis de compreender. Nos demais anos, seguir a quantidade do template específico.
 - Cada resposta deve aparecer explicitamente no texto lido
 - As perguntas devem ajudar a criança a narrar com suas palavras o que compreendeu
 - Proibido perguntas abertas, reflexivas, abstratas ou dependentes de inferência

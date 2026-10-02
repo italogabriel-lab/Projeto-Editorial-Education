@@ -96,7 +96,7 @@ Sempre repetir **exatamente** o mesmo conceito:
     
 - MP3 sempre como:
     
-    `[MP3/] #11L:9pDzHy2OpOgeXM8SeL0t TEXTO [MP3\]`
+    `[MP3/] #VOX: TEXTO [MP3\]`
     
 - Narrar sempre com trecho literário cristão, puritano ou poético
     

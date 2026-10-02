@@ -554,8 +554,8 @@ PROXIMAS ACOES:
 <tr><td><code>[+HEADING]</code></td><td>Subtitulos (NUNCA usar H3)</td></tr>
 <tr><td><code>[+ACCORDION]</code></td><td>Definicao expandivel com pergunta, imagem, audio, reflexao</td></tr>
 <tr><td><code>[+VIDEO]</code></td><td>Placeholder de video (sempre vazio)</td></tr>
-<tr><td><code>[MP3/]</code> <code>[MP3\]</code></td><td>Audio com voice ID (#11L:XXXXXXXX)</td></tr>
-<tr><td><code>[+IMAGE_LABELED]</code></td><td>Imagem com 2 hotspots (coordenadas percentuais)</td></tr>
+<tr><td><code>[MP3/]</code> <code>[MP3\]</code></td><td>Áudio com marcador padrão (#VOX:)</td></tr>
+<tr><td><code>[+IMAGE_LABELED]</code></td><td>Aula regular com 1 hotspot central em 49 50</td></tr>
 <tr><td><code>[+STATEMENT_D]</code></td><td>Definicao com audio para memorizacao</td></tr>
 <tr><td><code>[+IMAGE_TEXT_ON]</code></td><td>Imagem com texto sobreposto e audio</td></tr>
 <tr><td><code>[+FILL_IN]</code></td><td>Exercicio de completar lacunas (_____)</td></tr>
@@ -609,9 +609,9 @@ Corpo: "Reconheca que o imperio romano nao desapareceu."
 <ol>
 <li><strong>Titulo H1:</strong> Identico ao Curriculo Macro. Se divergente, REJEITAR.</li>
 <li><strong>Estrutura e Escrita:</strong> Voz ativa, imperativo, sem sinais proibidos, limites de texto.</li>
-<li><strong>Definir:</strong> 3-4 frases, VIDEO, Accordion com estrutura correta, voice ID, reflexao com "Entenda que..."</li>
+<li><strong>Definir:</strong> 3-4 frases, VIDEO, Accordion com estrutura correta, marcador #VOX:, reflexao com "Entenda que..."</li>
 <li><strong>Perceber:</strong> Imperativo, IMAGE_LABELED com exatamente 2 hotspots.</li>
-<li><strong>Recordar:</strong> Statement_D com definicao curta (8-10 palavras), voice ID.</li>
+<li><strong>Recordar:</strong> Statement_D com definicao curta (8-10 palavras), marcador #VOX:.</li>
 <li><strong>Praticar:</strong> Fill_In com enunciado antes, 3-4 lacunas, respostas na ultima linha.</li>
 <li><strong>Narrar:</strong> IMAGE_TEXT_ASIDE com trecho entre aspas retas (2 paragrafos), 3 perguntas.</li>
 <li><strong>Repeticao Consistente:</strong> Definicao identica em 5+ locais.</li>
@@ -1299,7 +1299,7 @@ O que e [Termo]?
 @link_png@
 
 [MP3/]
-#11L:VOICE_ID_AQUI
+#VOX:
 [Definicao em portugues — EXATAMENTE a mesma do Recordar]
 [MP3\]
 
@@ -1319,7 +1319,7 @@ Reflexao
 <li>Frase 4: "Veja o video abaixo." — obrigatoria</li>
 <li>Accordion: definicao aparece <strong>3 vezes</strong> (texto no MP3, texto com negrito, e no Recordar)</li>
 <li>Reflexao SEMPRE comeca com "Entenda que..."</li>
-<li>Voice ID obrigatoria: <code>#11L:XXXXXXXXXXXXXXXXX</code></li>
+<li>Marcador de áudio obrigatório: <code>#VOX:</code></li>
 <li><code>@link_png@</code> vem logo apos a pergunta (antes da definicao)</li>
 </ul>
 
@@ -1387,7 +1387,7 @@ Ouca e repita a definicao abaixo.
 
 [+STATEMENT_D]
 [MP3/]
-#11L:VOICE_ID_AQUI
+#VOX:
 [Definicao CURTA — 8-10 palavras — IDENTICA ao Accordion]
 [MP3\]
 [Definicao CURTA — mesma frase]
@@ -1418,7 +1418,7 @@ Clique abaixo para ouvir a rima sobre [tema da aula].
 
 [+STATEMENT_A]
 [MP3/]
-#11L:VOICE_ID_AQUI
+#VOX:
 [Titulo da rima]
 [Verso 1 rimando com o tema]
 [Verso 2]
@@ -1436,7 +1436,7 @@ Clique abaixo para ouvir a rima sobre [tema da aula].
 <ul>
 <li>Enunciado: "Ouca e repita a definicao abaixo." — EXATO</li>
 <li>Definicao no Statement_D: <strong>8-10 palavras</strong> — IDENTICA a do Accordion</li>
-<li>Voice ID presente e consistente por ano</li>
+<li>Marcador #VOX: presente em todas as aulas</li>
 <li>Variante B (rima) e padrao para 3o ano; Variante A (musica) para demais anos</li>
 </ul>
 
@@ -1568,13 +1568,13 @@ Responda oralmente as perguntas abaixo sobre o texto.
    "Reconheca que... Observe que... [Definicao]. Veja o video abaixo."
 
 2. Definir → Accordion (texto simples, dentro do MP3)
-   "[MP3/] #11L:xxxx [Definicao] [MP3\]"
+   "[MP3/] #VOX: [Definicao] [MP3\]"
 
 3. Definir → Accordion (negrito)
    "[Definicao com palavras-chave em negrito]"
 
 4. Recordar → Statement_D
-   "[MP3/] #11L:xxxx [Definicao CURTA] [MP3\]"
+   "[MP3/] #VOX: [Definicao CURTA] [MP3\]"
 
 5. Praticar → Fill_In (com lacunas)
    "[Definicao com _____ no lugar das respostas]"

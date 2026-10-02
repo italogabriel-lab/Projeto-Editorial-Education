@@ -9,7 +9,7 @@ O que é transcendência?
 
 [MP3/]
 
-#11L:9pDzHy2OpOgeXM8SeL0t
+#VOX:
 
 Transcendência é a elevação acima dos limites comuns, superioridade que aponta para aquilo que ultrapassa o visível e o passageiro.
 

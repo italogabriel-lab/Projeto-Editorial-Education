@@ -58,6 +58,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] **Narrar**: o texto traz elementos explícitos do tema da semana
 - [ ] **Narrar**: o texto e as perguntas retomam palavras-chave do eixo de `x.1`
 - [ ] **Narrar**: as perguntas ajudam a criança a narrar o texto com suas palavras
+- [ ] **Narrar do 3º ano**: há 3 perguntas na ordem definição, explicação e conexão teológica. A terceira pergunta pede um dado literal da frase teológica, sem mencionar "conexão teológica".
 - [ ] Se algum hábito não reforça o tema, **REJEITAR** e devolver ao Writer
 
 ### 0a. Consistência Semanal (verificar quando a aula é `x.2` ou `x.3`)
@@ -65,7 +66,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Definição curta em negrito no cabeçalho do Definir é **literal e idêntica** à de `x.1` da mesma semana
 - [ ] Statement_D do Recordar é idêntico ao de `x.1` (texto, ordem das palavras, capitalização)
 - [ ] Fill_In do Praticar usa a mesma frase da definição da semana (apenas a posição da lacuna pode mudar)
-- [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título)
+- [ ] Nome da música ou rima é o mesmo de `x.1` (`@link_mp3@` + título). No 3º ano, ele é literalmente o título da aula `x.1`, inclusive em `x.4`.
 - [ ] Termo principal é o mesmo de `x.1`
 - [ ] Palavras-chave de `x.1` aparecem no parágrafo livre do Definir, no Perceber, no Praticar e no Narrar
 - [ ] Apenas o parágrafo livre do Definir, a explicação no Accordion, as imagens, o texto do Narrar e a Atividade Extra variam
@@ -114,11 +115,11 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Definição curta do Recordar na primeira linha do Definir, em negrito e literalmente idêntica
 - [ ] Duas frases em prosa direta após a definição curta, sem "Reconheça que" nem "Observe que"
 - [ ] `[+VIDEO][-VIDEO]` presente
-- [ ] Accordion: tema ou pergunta simples da aula
-- [ ] Accordion com `@link_png@`
-- [ ] Accordion e Narrar: áudio dentro de `[MP3/]...[MP3\]` contém definição curta e explicação completa em uma única linha, separadas por espaço
-- [ ] Accordion: texto após `[MP3\]` repete o conteúdo do áudio, podendo manter negritos
-- [ ] Voice ID `#11L:XXXXXXXXXXXXXXXXX` presente no MP3
+- [ ] Accordion, ou TABS nos 2º e 3º anos, com tema ou pergunta simples da aula
+- [ ] Accordion com `@link_png@`, ou um único TABS com `@link_png@` nos 2º e 3º anos
+- [ ] No 3º ano, o TABS contém somente definição e explicação. O MP3 do Narrar inclui também a conexão teológica em uma linha
+- [ ] No 3º ano, o texto após `[MP3\]` do Narrar exibe somente definição e explicação, com negritos
+- [ ] Marcador literal `#VOX:` presente no MP3
 - [ ] Definição dentro do MP3 não começa com o termo perguntado
 - [ ] **Sem emojis** de seção (🟥🟧🟨🟩🟦)
 - [ ] **Sem separadores** `---` entre hábitos
@@ -130,7 +131,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 - [ ] Parágrafo com 1 frase curta, simples e direta
 - [ ] `[+IMAGE_LABELED]` com `@link_png@`
-- [ ] Exatamente **2 hotspots** com coordenadas, título e descrição
+- [ ] Em aula regular, exatamente **1 hotspot** com coordenada central `49 50`, título e descrição
 - [ ] Cada título de hotspot tem 2 a 5 palavras
 - [ ] Cada descrição de hotspot tem apenas 1 frase curta
 - [ ] Observações e explicações ficam nos hotspots, não no enunciado
@@ -141,11 +142,11 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 ### 4. Recordar — Regras Específicas
 
-- [ ] Definir usa `[+PARAGRAPH] Leia o fato e ouça o áudio clicando abaixo. [-PARAGRAPH]` antes do Accordion
+- [ ] Definir usa `[+PARAGRAPH] Leia o fato e ouça o áudio clicando abaixo. [-PARAGRAPH]` antes do Accordion, ou antes dos TABS nos 2º e 3º anos
 - [ ] `[+PARAGRAPH] Ouça e repita o fato abaixo. [-PARAGRAPH]`
 - [ ] Praticar usa `[+PARAGRAPH] Complete o fato abaixo com a palavra correta. [-PARAGRAPH]` antes do Fill_In
 - [ ] Definição CURTA no Statement_D (8-10 palavras)
-- [ ] Voice ID presente
+- [ ] Marcador literal `#VOX:` presente
 - [ ] Definição idêntica ao cabeçalho do Definir
 - [ ] `[+IMAGE_TEXT_ON]` com `@link_png@` + `@link_mp3@`
 
@@ -166,7 +167,7 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 - [ ] Em revisão `.4`, o `## [QUIZ] Praticar` usa 1 `[+FILL_IN]` e 3 `[+MULTIPLE]`, copiadas ou derivadas do `Praticar` de `x.1`, `x.2` e `x.3`
 - [ ] Em revisão `.4`, rejeitar perguntas como "Qual frase resume a semana?", "Qual aula apresentou o coração da semana?" e "Como podemos praticar o tema da semana?"
 - [ ] Atividade extra: `[+PARAGRAPH]` com texto fixo "Acesse o PDF abaixo e faça a atividade com atenção."
-- [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` contendo o enunciado da tarefa no imperativo
+- [ ] `[+ACTIVITY_WORKSHEET]` com `INSTRUCTION=` no imperativo, pedindo a reprodução de forma, composição, técnica ou detalhe visual específico da aula. Rejeitar enunciado genérico ou restrito a escrever uma palavra.
 - [ ] **NÃO usar** `[+ATTACHMENT]` com `@link_pdf@` (padrão descontinuado)
 
 ---
@@ -175,14 +176,14 @@ A unidade pedagógica é a **semana**. Cada semana tem 1 tema central (definido 
 
 - [ ] `[+HEADING] Leitura [-HEADING]`
 - [ ] 1º, 2º, 4º e 5º ano usam `[+IMAGE_TEXT_ASIDE]` com trecho entre aspas retas
-- [ ] 3º ano usa `[+PARAGRAPH]` na leitura e mantém `[+IMAGE]` com `@link_png@` antes de `Perguntas`
+- [ ] 3º ano usa exclusivamente `[+IMAGE_TEXT_ASIDE]`, com conexão teológica na linha de `@link_png@`
 - [ ] Trecho dividido em **2 parágrafos** (separados por linha em branco)
 - [ ] Trecho literário cristão, puritano ou poético
 - [ ] Texto traz elementos explícitos do tema da aula e do conceito definido
-- [ ] Texto contém, em frases claras, as respostas diretas para as 3 perguntas
+- [ ] No 2º ano, o texto contém, em frases claras, as respostas diretas para as 2 perguntas
 - [ ] Atribuição em **linha única** com **negrito** e *itálico*
 - [ ] `[+HEADING] Perguntas [-HEADING]`
-- [ ] 3 perguntas com interrogação
+- [ ] No 2º ano, exatamente 2 perguntas com interrogação
 - [ ] 1 linha de espaço entre perguntas
 - [ ] Perguntas curtas, diretas e fáceis de compreender
 - [ ] Cada resposta aparece explicitamente no texto lido
