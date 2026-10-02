@@ -8,7 +8,7 @@
 
 [UMA ÚNICA FRASE direta e objetiva. Negritos progressivos: em x.1 somente o **TERMO** em negrito; em x.2 o **TERMO** e a **KW2** (= resposta do fill-in de x.2); em x.3 o **TERMO** e a **KW3** (= resposta do fill-in de x.3).]
 
-[Conexão teológica da semana, ligada ao tema e literalmente idêntica em x.1, x.2 e x.3. Veja o vídeo abaixo.]
+[Veja o vídeo abaixo.]
 
 [-PARAGRAPH]
 
@@ -26,9 +26,9 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 [-PARAGRAPH]
 
-[+ACCORDION]
+[+TABS]
 
-[Pergunta simples derivada do tema da aula — ex: "O que é [TERMO]?"]
+[Título da aula x.N]
 
 @link_png@
 
@@ -46,7 +46,7 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 [Conexão teológica da semana, literalmente idêntica ao Definir.]
 
-[-ACCORDION]
+[-TABS]
 
 ## Perceber
 
@@ -62,7 +62,7 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 --
 
-[X1] [Y1]
+49 50
 
 [Rótulo do hotspot 1]
 
@@ -72,7 +72,7 @@ Leia o fato e ouça o áudio clicando abaixo.
 
 [+PARAGRAPH]
 
-Ouça e repita a definição abaixo.
+Ouça e repita o fato abaixo.
 
 [-PARAGRAPH]
 
@@ -108,7 +108,7 @@ Clique abaixo para ouvir a música.
 
 @link_mp3@
 
-[Nome da música conforme o tema central da semana]
+[Título da aula x.1 da semana]
 
 [-IMAGE_TEXT_ON]
 
@@ -163,7 +163,7 @@ Acesse o PDF abaixo e faça a atividade com atenção.
 
 [+ACTIVITY_WORKSHEET]
 
-INSTRUCTION=[Instrução prática curta, com verbo no imperativo.]
+INSTRUCTION=[Peça que a criança reproduza uma forma, composição, técnica ou detalhe visual específico da aula. Não use enunciado genérico.]
 
 [-ACTIVITY_WORKSHEET]
 
@@ -177,21 +177,19 @@ Leitura
 
 [+IMAGE_TEXT_ASIDE]
 
-@link_png@
+@link_png@ [Conexão teológica da semana, ligada ao tema e literalmente idêntica em x.1, x.2 e x.3.]
 
 [MP3/]
 
 #VOX:
 
-[Definição curta da semana — plain, sem negrito.] [Explicação da palavra-chave — plain, sem negrito, literalmente idêntica ao Definir.] [Conexão teológica da semana — plain, literalmente idêntica ao Definir.]
+[Definição curta da semana — plain, sem negrito.] [Explicação da palavra-chave e conexão teológica — plain, literalmente idênticas ao Definir.]
 
 [MP3\]
 
 **[Definição curta da semana.]**
 
-[Explicação da palavra-chave com negritos progressivos, literalmente idêntica ao Definir.]
-
-[Conexão teológica da semana, literalmente idêntica ao Definir.]
+[Explicação da palavra-chave com negritos progressivos, literalmente idênticas ao Definir.]
 
 [-IMAGE_TEXT_ASIDE]
 
@@ -209,10 +207,10 @@ Responda oralmente as perguntas abaixo sobre o texto.
 
 [+LIST_NUMBERED]
 
-[Pergunta 1 — derivada do vocabulário do parágrafo livre. A resposta deve aparecer explicitamente no texto. Formatos: "O que [TERMO] [VERBO]?", "Como [TERMO] [VERBO]?", "Onde [TERMO] aparece?", "Para que [TERMO] [VERBO]?"]
+[Pergunta 1 — retirada da definição curta. A resposta deve aparecer literalmente na primeira frase da leitura.]
 
-[Pergunta 2 — derivada de outra palavra-chave ou do contexto histórico/visual da aula. A resposta deve aparecer no texto. Formatos válidos iguais à pergunta 1.]
+[Pergunta 2 — retirada da explicação da palavra-chave. A resposta deve aparecer literalmente na segunda frase da leitura.]
 
-[Pergunta 3 — derivada do contexto cultural, técnico ou comparativo da aula. A resposta deve aparecer no texto. Formatos válidos iguais às demais.]
+[Pergunta 3 — retirada da conexão teológica. Pergunte por um dado explícito da terceira frase, sem dizer "conexão teológica" nem usar pergunta genérica.]
 
 [-LIST_NUMBERED]

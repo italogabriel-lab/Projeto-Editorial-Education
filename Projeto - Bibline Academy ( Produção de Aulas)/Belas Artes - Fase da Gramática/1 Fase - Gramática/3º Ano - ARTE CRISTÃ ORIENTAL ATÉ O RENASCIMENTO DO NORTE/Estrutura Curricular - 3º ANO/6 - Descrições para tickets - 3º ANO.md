@@ -1,43 +1,41 @@
-# Descrições para tickets – Belas Artes – 3º Ano
+# Descrições para tickets - Belas Artes - 3º ano
 
-> Arquivo de referência para copiar e colar a descrição de cada aula nos issues do GitHub.
+> Arquivo para criação de issues das aulas regulares, revisões e provas. Os títulos reproduzem literalmente o Currículo Macro.
 
----
+## Semana 1 - A ponte bizantina para a Idade Média
 
-## Semana 1 – Arte Bizantina: o Império e a fé
-
----
-
-[Belas artes] - Ano 3 - 1.1 Império Romano do oriente e arte bizantina
+[Belas artes] - Ano 3 - 1.1 A ponte bizantina para a Idade Média
 
 # Description
 
 ## Objetivos
-   → Reconheça a divisão do Império Romano e a sobrevivência do lado oriental.
-   → Identifique que essa herança gerou uma das tradições artísticas mais ricas (mosaicos, ícones).
-   → Compreenda que Deus preservou esse império para que a arte servisse à proclamação da fé.
+
+→ Identifique os elementos visuais e o contexto histórico de a ponte bizantina para a idade média.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie ícone no vocabulário da história da arte.
 
 ---
-
-[Belas artes] - Ano 3 - 1.2 Constantinopla como centro
+[Belas artes] - Ano 3 - 1.2 Ícones e mosaicos bizantinos
 
 # Description
 
 ## Objetivos
-   → Observe a posição estratégica de Constantinopla entre dois continentes.
-   → Reconheça a cidade como grande centro irradiador de arte e arquitetura (cúpulas).
-   → Entenda que Deus determinou os tempos e os limites para que ali florescesse a beleza cristã.
+
+→ Identifique os elementos visuais e o contexto histórico de ícones e mosaicos bizantinos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie ícone no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 1.3 Cristianismo e transformação da arte pública
+[Belas artes] - Ano 3 - 1.3 Constantinopla e o legado cristão oriental
 
 # Description
 
 ## Objetivos
-   → Identifique a oficialização da fé cristã e a sua saída das catacumbas.
-   → Compreenda como a arte mudou de escala e função, tornando-se monumental.
-   → Valorize a arte grandiosa que passou a proclamar publicamente a soberania de Cristo.
+
+→ Identifique os elementos visuais e o contexto histórico de constantinopla e o legado cristão oriental.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie ícone no vocabulário da história da arte.
 
 ---
 
@@ -45,68 +43,66 @@
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 1
+## Objetivos
 
-## 1ª Semana: **Arte Bizantina: o Império e a fé**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 1.1 Império Romano do oriente e arte bizantina
-
-- 1.2 Constantinopla como centro
-
-- 1.3 Cristianismo e transformação da arte pública
-
----
-
-[Belas artes] - Ano 3 - 1.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 1
-
-## 1ª Semana: **Arte Bizantina: o Império e a fé**
-
-- 1.1 Império Romano do oriente e arte bizantina
-
-- 1.2 Constantinopla como centro
-
-- 1.3 Cristianismo e transformação da arte pública
+- 1.1 A ponte bizantina para a Idade Média
+- 1.2 Ícones e mosaicos bizantinos
+- 1.3 Constantinopla e o legado cristão oriental
 
 ---
 
-## Semana 2 – Arte Bizantina: teologia visual
-
----
-
-[Belas artes] - Ano 3 - 2.1 Cristo como centro da arte
+[Belas artes] - Ano 3 - 1.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe como Cristo ocupa o lugar central nos mosaicos e ícones.
-   → Reconheça a preeminência de Cristo como princípio artístico e teológico.
-   → Compreenda que toda arte cristã legítima aponta para o Salvador.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 1.1 A ponte bizantina para a Idade Média
+- 1.2 Ícones e mosaicos bizantinos
+- 1.3 Constantinopla e o legado cristão oriental
 
 ---
 
-[Belas artes] - Ano 3 - 2.2 Arte como ensino da fé
+## Semana 2 - A arte islâmica medieval
+
+[Belas artes] - Ano 3 - 2.1 A arte islâmica medieval
 
 # Description
 
 ## Objetivos
-   → Identifique cenas bíblicas representadas nos mosaicos e pinturas.
-   → Perceba que a arte serviu de Bíblia visual para os que não sabiam ler.
-   → Valorize o ensino visual como ferramenta legítima de instrução.
+
+→ Identifique os elementos visuais e o contexto histórico de a arte islâmica medieval.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arabesco no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 2.3 Ornamentação litúrgica
+[Belas artes] - Ano 3 - 2.2 Caligrafia, geometria e arabescos
 
 # Description
 
 ## Objetivos
-   → Observe a riqueza dos interiores das igrejas bizantinas.
-   → Reconheça que a ornamentação expressa reverência, não vaidade.
-   → Discirna entre decoração que glorifica a Deus e excesso que distrai da verdade.
+
+→ Identifique os elementos visuais e o contexto histórico de caligrafia, geometria e arabescos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arabesco no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 2.3 Mesquitas, pátios e ornamentação
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de mesquitas, pátios e ornamentação.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arabesco no vocabulário da história da arte.
 
 ---
 
@@ -114,68 +110,66 @@ Avaliar os conhecimentos das aulas da semana 1
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 2
+## Objetivos
 
-## 2ª Semana: **Arte Bizantina: teologia visual**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 2.1 Cristo como centro da arte
-
-- 2.2 Arte como ensino da fé
-
-- 2.3 Ornamentação litúrgica
-
----
-
-[Belas artes] - Ano 3 - 2.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 2
-
-## 2ª Semana: **Arte Bizantina: teologia visual**
-
-- 2.1 Cristo como centro da arte
-
-- 2.2 Arte como ensino da fé
-
-- 2.3 Ornamentação litúrgica
+- 2.1 A arte islâmica medieval
+- 2.2 Caligrafia, geometria e arabescos
+- 2.3 Mesquitas, pátios e ornamentação
 
 ---
 
-## Semana 3 – Arte Bizantina: materiais e técnicas
-
----
-
-[Belas artes] - Ano 3 - 3.1 Mosaicos em ouro
+[Belas artes] - Ano 3 - 2.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe tesselas douradas e como refletem a luz.
-   → Compreenda o ouro como símbolo de glória e eternidade.
-   → Relacione a paciência do artesão com a virtude da diligência.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 2.1 A arte islâmica medieval
+- 2.2 Caligrafia, geometria e arabescos
+- 2.3 Mesquitas, pátios e ornamentação
 
 ---
 
-[Belas artes] - Ano 3 - 3.2 Têmpera sobre madeira
+## Semana 3 - A arte insular e os manuscritos
+
+[Belas artes] - Ano 3 - 3.1 A arte insular e os manuscritos
 
 # Description
 
 ## Objetivos
-   → Identifique a têmpera como tinta feita com pigmento e gema de ovo.
-   → Reconheça a madeira como suporte dos ícones sagrados.
-   → Perceba a preparação do material como ato de reverência.
+
+→ Identifique os elementos visuais e o contexto histórico de a arte insular e os manuscritos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie manuscrito iluminado no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 3.3 Afrescos bizantinos
+[Belas artes] - Ano 3 - 3.2 Entrelaços e letras ornamentadas
 
 # Description
 
 ## Objetivos
-   → Observe afrescos cobrindo tetos e paredes de igrejas.
-   → Compreenda que o afresco narra a fé inteira em imagens.
-   → Valorize a habilidade técnica como dom de Deus.
+
+→ Identifique os elementos visuais e o contexto histórico de entrelaços e letras ornamentadas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie manuscrito iluminado no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 3.3 O Livro de Kells e a imagem bíblica
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o livro de kells e a imagem bíblica.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie manuscrito iluminado no vocabulário da história da arte.
 
 ---
 
@@ -183,68 +177,66 @@ Avaliar os conhecimentos das aulas da semana 2
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 3
+## Objetivos
 
-## 3ª Semana: **Arte Bizantina: materiais e técnicas**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 3.1 Mosaicos em ouro
-
-- 3.2 Têmpera sobre madeira
-
-- 3.3 Afrescos bizantinos
-
----
-
-[Belas artes] - Ano 3 - 3.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 3
-
-## 3ª Semana: **Arte Bizantina: materiais e técnicas**
-
-- 3.1 Mosaicos em ouro
-
-- 3.2 Têmpera sobre madeira
-
-- 3.3 Afrescos bizantinos
+- 3.1 A arte insular e os manuscritos
+- 3.2 Entrelaços e letras ornamentadas
+- 3.3 O Livro de Kells e a imagem bíblica
 
 ---
 
-## Semana 4 – Arte Bizantina: forma e arquitetura
-
----
-
-[Belas artes] - Ano 3 - 4.1 Frontalidade e hierarquia
+[Belas artes] - Ano 3 - 3.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a posição frontal e fixa das figuras nos ícones.
-   → Compreenda a frontalidade como linguagem de autoridade eterna.
-   → Discirna entre hierarquia visual legítima e exaltação do poder humano.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 3.1 A arte insular e os manuscritos
+- 3.2 Entrelaços e letras ornamentadas
+- 3.3 O Livro de Kells e a imagem bíblica
 
 ---
 
-[Belas artes] - Ano 3 - 4.2 Fundo dourado e eternidade
+## Semana 4 - O Renascimento Carolíngio
+
+[Belas artes] - Ano 3 - 4.1 O Renascimento Carolíngio
 
 # Description
 
 ## Objetivos
-   → Identifique o fundo dourado como ausência de espaço terreno.
-   → Reconheça o ouro como símbolo da glória celestial.
-   → Perceba que a arte bizantina buscou representar o eterno, não o temporal.
+
+→ Identifique os elementos visuais e o contexto histórico de o renascimento carolíngio.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento carolíngio no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 4.3 Igrejas centralizadas
+[Belas artes] - Ano 3 - 4.2 A Capela Palatina de Aachen
 
 # Description
 
 ## Objetivos
-   → Observe a planta centralizada das igrejas bizantinas.
-   → Compreenda a cúpula como representação do céu.
-   → Relacione espaço, luz e ordem como expressões da soberania divina.
+
+→ Identifique os elementos visuais e o contexto histórico de a capela palatina de aachen.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento carolíngio no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 4.3 Manuscritos e modelos da arte romana
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de manuscritos e modelos da arte romana.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento carolíngio no vocabulário da história da arte.
 
 ---
 
@@ -252,68 +244,66 @@ Avaliar os conhecimentos das aulas da semana 3
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 4
+## Objetivos
 
-## 4ª Semana: **Arte Bizantina: forma e arquitetura**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 4.1 Frontalidade e hierarquia
-
-- 4.2 Fundo dourado e eternidade
-
-- 4.3 Igrejas centralizadas
-
----
-
-[Belas artes] - Ano 3 - 4.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 4
-
-## 4ª Semana: **Arte Bizantina: forma e arquitetura**
-
-- 4.1 Frontalidade e hierarquia
-
-- 4.2 Fundo dourado e eternidade
-
-- 4.3 Igrejas centralizadas
+- 4.1 O Renascimento Carolíngio
+- 4.2 A Capela Palatina de Aachen
+- 4.3 Manuscritos e modelos da arte romana
 
 ---
 
-## Semana 5 – Arte Bizantina: obras e legado
-
----
-
-[Belas artes] - Ano 3 - 5.1 Mosaicos de Ravena
+[Belas artes] - Ano 3 - 4.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe os mosaicos de Ravena e sua riqueza cromática.
-   → Identifique cenas bíblicas e figuras imperiais nas composições.
-   → Compreenda Ravena como ponto de encontro entre Roma e Bizâncio.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 4.1 O Renascimento Carolíngio
+- 4.2 A Capela Palatina de Aachen
+- 4.3 Manuscritos e modelos da arte romana
 
 ---
 
-[Belas artes] - Ano 3 - 5.2 Basílica de Santa Sofia
+## Semana 5 - A arte Otoniana
+
+[Belas artes] - Ano 3 - 5.1 A arte Otoniana
 
 # Description
 
 ## Objetivos
-   → Conheça a história da construção de Santa Sofia por Justiniano.
-   → Observe a cúpula que parece flutuar sobre o espaço.
-   → Reconheça a grandeza da obra e discirna que Deus não habita em templos feitos por mãos.
+
+→ Identifique os elementos visuais e o contexto histórico de a arte otoniana.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte otoniana no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 5.3 Legado e influência medieval
+[Belas artes] - Ano 3 - 5.2 Manuscritos, metais e marfins
 
 # Description
 
 ## Objetivos
-   → Trace a influência bizantina na arte românica, gótica e iconográfica.
-   → Reconheça que a arte bizantina definiu a linguagem visual do cristianismo oriental.
-   → Prepare-se para estudar a crise que essa tradição enfrentou: a Iconoclastia.
+
+→ Identifique os elementos visuais e o contexto histórico de manuscritos, metais e marfins.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte otoniana no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 5.3 A Cruz de Gero e a expressão das figuras
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a cruz de gero e a expressão das figuras.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte otoniana no vocabulário da história da arte.
 
 ---
 
@@ -321,68 +311,66 @@ Avaliar os conhecimentos das aulas da semana 4
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 5
+## Objetivos
 
-## 5ª Semana: **Arte Bizantina: obras e legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 5.1 Mosaicos de Ravena
-
-- 5.2 Basílica de Santa Sofia
-
-- 5.3 Legado e influência medieval
-
----
-
-[Belas artes] - Ano 3 - 5.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 5
-
-## 5ª Semana: **Arte Bizantina: obras e legado**
-
-- 5.1 Mosaicos de Ravena
-
-- 5.2 Basílica de Santa Sofia
-
-- 5.3 Legado e influência medieval
+- 5.1 A arte Otoniana
+- 5.2 Manuscritos, metais e marfins
+- 5.3 A Cruz de Gero e a expressão das figuras
 
 ---
 
-## Semana 6 – Iconoclastia: a crise das imagens
-
----
-
-[Belas artes] - Ano 3 - 6.1 Conflitos religiosos internos
+[Belas artes] - Ano 3 - 5.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça que a Igreja bizantina enfrentou divisões internas graves.
-   → Identifique imperadores e bispos como protagonistas do conflito.
-   → Compreenda que a questão das imagens era teológica, não meramente estética.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 5.1 A arte Otoniana
+- 5.2 Manuscritos, metais e marfins
+- 5.3 A Cruz de Gero e a expressão das figuras
 
 ---
 
-[Belas artes] - Ano 3 - 6.2 O debate sobre o uso de imagens
+## Semana 6 - A arte Românica e a vida medieval
+
+[Belas artes] - Ano 3 - 6.1 A arte Românica e a vida medieval
 
 # Description
 
 ## Objetivos
-   → Analise os argumentos dos iconoclastas: as imagens podem se tornar ídolos.
-   → Analise os argumentos dos iconófilos: as imagens ensinam e preservam a memória da fé.
-   → Discirna entre os dois lados com base na Escritura.
+
+→ Identifique os elementos visuais e o contexto histórico de a arte românica e a vida medieval.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte românica no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 6.3 Defesa dos ícones
+[Belas artes] - Ano 3 - 6.2 Mosteiros, peregrinações e imagens cristãs
 
 # Description
 
 ## Objetivos
-   → Conheça João Damasceno como defensor dos ícones.
-   → Entenda os argumentos da encarnação usados para justificar as imagens.
-   → Avalie a defesa à luz do segundo mandamento e da tradição reformada.
+
+→ Identifique os elementos visuais e o contexto histórico de mosteiros, peregrinações e imagens cristãs.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte românica no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 6.3 O canto gregoriano nos espaços românicos
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o canto gregoriano nos espaços românicos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte românica no vocabulário da história da arte.
 
 ---
 
@@ -390,68 +378,66 @@ Avaliar os conhecimentos das aulas da semana 5
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 6
+## Objetivos
 
-## 6ª Semana: **Iconoclastia: a crise das imagens**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 6.1 Conflitos religiosos internos
-
-- 6.2 O debate sobre o uso de imagens
-
-- 6.3 Defesa dos ícones
-
----
-
-[Belas artes] - Ano 3 - 6.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 6
-
-## 6ª Semana: **Iconoclastia: a crise das imagens**
-
-- 6.1 Conflitos religiosos internos
-
-- 6.2 O debate sobre o uso de imagens
-
-- 6.3 Defesa dos ícones
+- 6.1 A arte Românica e a vida medieval
+- 6.2 Mosteiros, peregrinações e imagens cristãs
+- 6.3 O canto gregoriano nos espaços românicos
 
 ---
 
-## Semana 7 – Iconoclastia: destruição e restauração
-
----
-
-[Belas artes] - Ano 3 - 7.1 Destruição dos ícones
+[Belas artes] - Ano 3 - 6.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça a violência da destruição e seus efeitos sobre a arte.
-   → Identifique reis reformadores do Antigo Testamento que destruíram ídolos.
-   → Compreenda que a arte pode ser removida quando se torna objeto de adoração.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 6.1 A arte Românica e a vida medieval
+- 6.2 Mosteiros, peregrinações e imagens cristãs
+- 6.3 O canto gregoriano nos espaços românicos
 
 ---
 
-[Belas artes] - Ano 3 - 7.2 Restauração e produção padronizada
+## Semana 7 - A arquitetura Românica
+
+[Belas artes] - Ano 3 - 7.1 A arquitetura Românica
 
 # Description
 
 ## Objetivos
-   → Observe como os ícones voltaram com regras teológicas estritas.
-   → Identifique os cânones que regularam poses, cores e composições.
-   → Entenda que a regulamentação buscou proteger a fé da idolatria.
+
+→ Identifique os elementos visuais e o contexto histórico de a arquitetura românica.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco semicircular no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 7.3 Estilo rígido e simbólico
+[Belas artes] - Ano 3 - 7.2 Paredes espessas, arcos e abóbadas
 
 # Description
 
 ## Objetivos
-   → Reconheça o estilo padronizado dos ícones pós-crise.
-   → Compreenda que a rigidez estilística reflete uma decisão teológica.
-   → Discirna entre tradição artística legítima e engessamento da expressão.
+
+→ Identifique os elementos visuais e o contexto histórico de paredes espessas, arcos e abóbadas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco semicircular no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 7.3 Santiago de Compostela e os caminhos de peregrinação
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de santiago de compostela e os caminhos de peregrinação.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco semicircular no vocabulário da história da arte.
 
 ---
 
@@ -459,68 +445,66 @@ Avaliar os conhecimentos das aulas da semana 6
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 7
+## Objetivos
 
-## 7ª Semana: **Iconoclastia: destruição e restauração**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 7.1 Destruição dos ícones
-
-- 7.2 Restauração e produção padronizada
-
-- 7.3 Estilo rígido e simbólico
-
----
-
-[Belas artes] - Ano 3 - 7.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 7
-
-## 7ª Semana: **Iconoclastia: destruição e restauração**
-
-- 7.1 Destruição dos ícones
-
-- 7.2 Restauração e produção padronizada
-
-- 7.3 Estilo rígido e simbólico
+- 7.1 A arquitetura Românica
+- 7.2 Paredes espessas, arcos e abóbadas
+- 7.3 Santiago de Compostela e os caminhos de peregrinação
 
 ---
 
-## Semana 8 – Iconoclastia: legado teológico
-
----
-
-[Belas artes] - Ano 3 - 8.1 Predomínio da pintura sacra
+[Belas artes] - Ano 3 - 7.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Identifique a pintura como o principal meio artístico da tradição oriental.
-   → Observe como a escultura foi praticamente abandonada por razões teológicas.
-   → Compreenda que a escolha do meio artístico reflete convicções de fé.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 7.1 A arquitetura Românica
+- 7.2 Paredes espessas, arcos e abóbadas
+- 7.3 Santiago de Compostela e os caminhos de peregrinação
 
 ---
 
-[Belas artes] - Ano 3 - 8.2 Ícones restaurados após a crise
+## Semana 8 - As imagens da arte Românica
+
+[Belas artes] - Ano 3 - 8.1 As imagens da arte Românica
 
 # Description
 
 ## Objetivos
-   → Estude ícones pós-iconoclastia e suas características padronizadas.
-   → Reconheça a rigidez como proteção contra o desvio da adoração.
-   → Compare a liberdade artística ocidental com o cânone oriental.
+
+→ Identifique os elementos visuais e o contexto histórico de as imagens da arte românica.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie portal românico no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 8.3 Definição teológica da imagem cristã
+[Belas artes] - Ano 3 - 8.2 Portais, capitéis e afrescos
 
 # Description
 
 ## Objetivos
-   → Afirme o segundo mandamento como base para avaliar o uso de imagens.
-   → Reconheça a posição reformada: a imagem instrui mas não recebe culto.
-   → Prepare-se para conhecer uma tradição que rejeitou toda representação humana.
+
+→ Identifique os elementos visuais e o contexto histórico de portais, capitéis e afrescos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie portal românico no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 8.3 Figuras, gestos e narrativas bíblicas
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de figuras, gestos e narrativas bíblicas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie portal românico no vocabulário da história da arte.
 
 ---
 
@@ -528,220 +512,109 @@ Avaliar os conhecimentos das aulas da semana 7
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 8
+## Objetivos
 
-## 8ª Semana: **Iconoclastia: legado teológico**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 8.1 Predomínio da pintura sacra
-
-- 8.2 Ícones restaurados após a crise
-
-- 8.3 Definição teológica da imagem cristã
-
----
-
-[Belas artes] - Ano 3 - 8.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 8
-
-## 8ª Semana: **Iconoclastia: legado teológico**
-
-- 8.1 Predomínio da pintura sacra
-
-- 8.2 Ícones restaurados após a crise
-
-- 8.3 Definição teológica da imagem cristã
+- 8.1 As imagens da arte Românica
+- 8.2 Portais, capitéis e afrescos
+- 8.3 Figuras, gestos e narrativas bíblicas
 
 ---
 
-## Semana 9 – Revisão do Módulo 1
-
----
-
-[Belas artes] - Ano 3 - 9 Revisão
-
-# Description
-
-# Revisão do 1º Bimestre
-
-## 1ª Semana: **Arte Bizantina: o Império e a fé**
-
-- 1.1 Império Romano do oriente e arte bizantina
-
-- 1.2 Constantinopla como centro
-
-- 1.3 Cristianismo e transformação da arte pública
-
-## 2ª Semana: **Arte Bizantina: teologia visual**
-
-- 2.1 Cristo como centro da arte
-
-- 2.2 Arte como ensino da fé
-
-- 2.3 Ornamentação litúrgica
-
-## 3ª Semana: **Arte Bizantina: materiais e técnicas**
-
-- 3.1 Mosaicos em ouro
-
-- 3.2 Têmpera sobre madeira
-
-- 3.3 Afrescos bizantinos
-
-## 4ª Semana: **Arte Bizantina: forma e arquitetura**
-
-- 4.1 Frontalidade e hierarquia
-
-- 4.2 Fundo dourado e eternidade
-
-- 4.3 Igrejas centralizadas
-
-## 5ª Semana: **Arte Bizantina: obras e legado**
-
-- 5.1 Mosaicos de Ravena
-
-- 5.2 Basílica de Santa Sofia
-
-- 5.3 Legado e influência medieval
-
-## 6ª Semana: **Iconoclastia: a crise das imagens**
-
-- 6.1 Conflitos religiosos internos
-
-- 6.2 O debate sobre o uso de imagens
-
-- 6.3 Defesa dos ícones
-
-## 7ª Semana: **Iconoclastia: destruição e restauração**
-
-- 7.1 Destruição dos ícones
-
-- 7.2 Restauração e produção padronizada
-
-- 7.3 Estilo rígido e simbólico
-
-## 8ª Semana: **Iconoclastia: legado teológico**
-
-- 8.1 Predomínio da pintura sacra
-
-- 8.2 Ícones restaurados após a crise
-
-- 8.3 Definição teológica da imagem cristã
-
----
-
-## Semana 10 – Prova do Módulo 1
-
----
-
-[Belas artes] - Ano 3 - 10 Prova 
-
-# Description
-
-# Prova do 1º Bimestre
-
-## 1ª Semana: **Arte Bizantina: o Império e a fé**
-
-- 1.1 Império Romano do oriente e arte bizantina
-
-- 1.2 Constantinopla como centro
-
-- 1.3 Cristianismo e transformação da arte pública
-
-## 2ª Semana: **Arte Bizantina: teologia visual**
-
-- 2.1 Cristo como centro da arte
-
-- 2.2 Arte como ensino da fé
-
-- 2.3 Ornamentação litúrgica
-
-## 3ª Semana: **Arte Bizantina: materiais e técnicas**
-
-- 3.1 Mosaicos em ouro
-
-- 3.2 Têmpera sobre madeira
-
-- 3.3 Afrescos bizantinos
-
-## 4ª Semana: **Arte Bizantina: forma e arquitetura**
-
-- 4.1 Frontalidade e hierarquia
-
-- 4.2 Fundo dourado e eternidade
-
-- 4.3 Igrejas centralizadas
-
-## 5ª Semana: **Arte Bizantina: obras e legado**
-
-- 5.1 Mosaicos de Ravena
-
-- 5.2 Basílica de Santa Sofia
-
-- 5.3 Legado e influência medieval
-
-## 6ª Semana: **Iconoclastia: a crise das imagens**
-
-- 6.1 Conflitos religiosos internos
-
-- 6.2 O debate sobre o uso de imagens
-
-- 6.3 Defesa dos ícones
-
-## 7ª Semana: **Iconoclastia: destruição e restauração**
-
-- 7.1 Destruição dos ícones
-
-- 7.2 Restauração e produção padronizada
-
-- 7.3 Estilo rígido e simbólico
-
-## 8ª Semana: **Iconoclastia: legado teológico**
-
-- 8.1 Predomínio da pintura sacra
-
-- 8.2 Ícones restaurados após a crise
-
-- 8.3 Definição teológica da imagem cristã
-
----
-
-## Semana 11 – Arte Islâmica: contexto e cosmovisão
-
----
-
-[Belas artes] - Ano 3 - 11.1 Arte Islâmica e as formas de arte
+[Belas artes] - Ano 3 - 8.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça o contexto histórico da expansão islâmica no século VII.
-   → Identifique a rapidez da expansão e seu impacto cultural.
-   → Compreenda que diferentes civilizações produzem diferentes formas de arte.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 8.1 As imagens da arte Românica
+- 8.2 Portais, capitéis e afrescos
+- 8.3 Figuras, gestos e narrativas bíblicas
 
 ---
 
-[Belas artes] - Ano 3 - 11.2 Impérios islâmicos como produtores de arte
+## Semana 9 - Revisão bimestral
+
+[Belas artes] - Ano 3 - 9.1 Revisão bimestral
 
 # Description
 
 ## Objetivos
-   → Observe a extensão dos impérios islâmicos do Norte da África à Ásia.
-   → Reconheça a sofisticação cultural dessas civilizações.
-   → Entenda que a arte floresce onde há prosperidade e organização social.
+
+→ Retome cronologicamente os oito temas do 1º bimestre.
+→ Relacione períodos, obras, artistas, técnicas e elementos visuais.
+
+- 1.1 A ponte bizantina para a Idade Média
+- 2.1 A arte islâmica medieval
+- 3.1 A arte insular e os manuscritos
+- 4.1 O Renascimento Carolíngio
+- 5.1 A arte Otoniana
+- 6.1 A arte Românica e a vida medieval
+- 7.1 A arquitetura Românica
+- 8.1 As imagens da arte Românica
 
 ---
 
-[Belas artes] - Ano 3 - 11.3 Transcendência e evitação da figura humana
+## Semana 10 - Prova bimestral
+
+[Belas artes] - Ano 3 - 10.1 Prova bimestral
 
 # Description
 
 ## Objetivos
-   → Compreenda a ênfase islâmica na distância absoluta entre Deus e o homem.
-   → Identifique a proibição da representação figurativa como decisão teológica.
-   → Compare com a cosmovisão cristã: Deus se fez visível na encarnação de Cristo.
+
+→ Avalie os conteúdos estudados no 1º bimestre.
+
+- 1.1 A ponte bizantina para a Idade Média
+- 2.1 A arte islâmica medieval
+- 3.1 A arte insular e os manuscritos
+- 4.1 O Renascimento Carolíngio
+- 5.1 A arte Otoniana
+- 6.1 A arte Românica e a vida medieval
+- 7.1 A arquitetura Românica
+- 8.1 As imagens da arte Românica
+
+---
+
+## Semana 11 - A arte Gótica e as cidades medievais
+
+[Belas artes] - Ano 3 - 11.1 A arte Gótica e as cidades medievais
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a arte gótica e as cidades medievais.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte gótica no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 11.2 Catedrais, ofícios e vida urbana
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de catedrais, ofícios e vida urbana.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte gótica no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 11.3 Luz e altura no espaço gótico
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de luz e altura no espaço gótico.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arte gótica no vocabulário da história da arte.
 
 ---
 
@@ -749,68 +622,66 @@ Avaliar os conhecimentos das aulas da semana 8
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 11
+## Objetivos
 
-## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 11.1 Arte Islâmica e as formas de arte
-
-- 11.2 Impérios islâmicos como produtores de arte
-
-- 11.3 Transcendência e evitação da figura humana
-
----
-
-[Belas artes] - Ano 3 - 11.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 11
-
-## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
-
-- 11.1 Arte Islâmica e as formas de arte
-
-- 11.2 Impérios islâmicos como produtores de arte
-
-- 11.3 Transcendência e evitação da figura humana
+- 11.1 A arte Gótica e as cidades medievais
+- 11.2 Catedrais, ofícios e vida urbana
+- 11.3 Luz e altura no espaço gótico
 
 ---
 
-## Semana 12 – Arte Islâmica: ornamentação e materiais
-
----
-
-[Belas artes] - Ano 3 - 12.1 Ornamentação religiosa
+[Belas artes] - Ano 3 - 11.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe padrões ornamentais em mesquitas e palácios.
-   → Reconheça que a ornamentação substitui a figuração por razões teológicas.
-   → Compreenda a ornamentação como forma de expressar a ordem divina.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 11.1 A arte Gótica e as cidades medievais
+- 11.2 Catedrais, ofícios e vida urbana
+- 11.3 Luz e altura no espaço gótico
 
 ---
 
-[Belas artes] - Ano 3 - 12.2 Azulejos e caligrafia
+## Semana 12 - A arquitetura Gótica
+
+[Belas artes] - Ano 3 - 12.1 A arquitetura Gótica
 
 # Description
 
 ## Objetivos
-   → Estude azulejos com padrões geométricos e florais.
-   → Identifique a caligrafia árabe como arte que transforma a palavra em beleza.
-   → Perceba que a Palavra escrita ocupa o lugar que a imagem ocupa no cristianismo.
+
+→ Identifique os elementos visuais e o contexto histórico de a arquitetura gótica.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco ogival no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 12.3 Geometria decorativa
+[Belas artes] - Ano 3 - 12.2 Arcos ogivais e abóbadas de nervuras
 
 # Description
 
 ## Objetivos
-   → Observe padrões geométricos complexos e sua repetição infinita.
-   → Compreenda a geometria como expressão de ordem e permanência.
-   → Relacione simetria e repetição com o conceito de ordem divina na criação.
+
+→ Identifique os elementos visuais e o contexto histórico de arcos ogivais e abóbadas de nervuras.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco ogival no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 12.3 Arcobotantes e verticalidade
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de arcobotantes e verticalidade.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie arco ogival no vocabulário da história da arte.
 
 ---
 
@@ -818,52 +689,66 @@ Avaliar os conhecimentos das aulas da semana 11
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 12
+## Objetivos
 
-## 12ª Semana: **Arte Islâmica: ornamentação e materiais**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 12.1 Ornamentação religiosa
-
-- 12.2 Azulejos e caligrafia
-
-- 12.3 Geometria decorativa
-
----
-
-## Semana 13 – Arte Islâmica: forma e composição
+- 12.1 A arquitetura Gótica
+- 12.2 Arcos ogivais e abóbadas de nervuras
+- 12.3 Arcobotantes e verticalidade
 
 ---
 
-[Belas artes] - Ano 3 - 13.1 Arabescos
+[Belas artes] - Ano 3 - 12.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe arabescos em diferentes contextos artísticos islâmicos.
-   → Identifique o padrão contínuo sem início nem fim.
-   → Compreenda o arabesco como metáfora visual da infinitude.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 12.1 A arquitetura Gótica
+- 12.2 Arcos ogivais e abóbadas de nervuras
+- 12.3 Arcobotantes e verticalidade
 
 ---
 
-[Belas artes] - Ano 3 - 13.2 Simetria e padrões repetitivos
+## Semana 13 - Os vitrais e as fachadas Góticas
+
+[Belas artes] - Ano 3 - 13.1 Os vitrais e as fachadas Góticas
 
 # Description
 
 ## Objetivos
-   → Estude padrões simétricos em azulejos, tapetes e mesquitas.
-   → Reconheça a simetria como expressão de ordem e equilíbrio.
-   → Relacione simetria com o caráter ordenado do Criador.
+
+→ Identifique os elementos visuais e o contexto histórico de os vitrais e as fachadas góticas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie vitral no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 13.3 Ordem e repetição como linguagem
+[Belas artes] - Ano 3 - 13.2 Rosáceas e narrativas de luz
 
 # Description
 
 ## Objetivos
-   → Compreenda a repetição como linguagem visual do eterno.
-   → Discirna entre a ideia de um Deus impessoal e a revelação bíblica de um Deus pessoal.
-   → Valorize a beleza da ordem sem perder a dimensão relacional da fé cristã.
+
+→ Identifique os elementos visuais e o contexto histórico de rosáceas e narrativas de luz.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie vitral no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 13.3 Chartres e a imagem na catedral
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de chartres e a imagem na catedral.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie vitral no vocabulário da história da arte.
 
 ---
 
@@ -871,68 +756,66 @@ Revisar os conhecimentos das aulas da semana 12
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 13
+## Objetivos
 
-## 13ª Semana: **Arte Islâmica: forma e composição**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 13.1 Arabescos
-
-- 13.2 Simetria e padrões repetitivos
-
-- 13.3 Ordem e repetição como linguagem
-
----
-
-[Belas artes] - Ano 3 - 13.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 13
-
-## 13ª Semana: **Arte Islâmica: forma e composição**
-
-- 13.1 Arabescos
-
-- 13.2 Simetria e padrões repetitivos
-
-- 13.3 Ordem e repetição como linguagem
+- 13.1 Os vitrais e as fachadas Góticas
+- 13.2 Rosáceas e narrativas de luz
+- 13.3 Chartres e a imagem na catedral
 
 ---
 
-## Semana 14 – Arte Islâmica: arquitetura
-
----
-
-[Belas artes] - Ano 3 - 14.1 Mesquitas
+[Belas artes] - Ano 3 - 13.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a planta de uma mesquita e seus elementos: pátio, sala de oração, minarete.
-   → Identifique a função comunitária e devocional do espaço.
-   → Compare com a função do templo bíblico e da igreja cristã.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 13.1 Os vitrais e as fachadas Góticas
+- 13.2 Rosáceas e narrativas de luz
+- 13.3 Chartres e a imagem na catedral
 
 ---
 
-[Belas artes] - Ano 3 - 14.2 Ausência de escultura figurativa
+## Semana 14 - A escultura Gótica e o naturalismo
+
+[Belas artes] - Ano 3 - 14.1 A escultura Gótica e o naturalismo
 
 # Description
 
 ## Objetivos
-   → Reconheça que mesquitas não contêm esculturas nem pinturas figurativas.
-   → Compreenda essa ausência como expressão da teologia islâmica.
-   → Compare com a tradição cristã que permite (e debate) a representação.
+
+→ Identifique os elementos visuais e o contexto histórico de a escultura gótica e o naturalismo.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie naturalismo no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 14.3 Mesquita Azul
+[Belas artes] - Ano 3 - 14.2 Corpos, gestos e rostos nas catedrais
 
 # Description
 
 ## Objetivos
-   → Conheça a Mesquita Azul de Istambul e seus milhares de azulejos.
-   → Observe a harmonia entre arquitetura, cor e ornamentação.
-   → Discirna entre admiração estética e concordância teológica.
+
+→ Identifique os elementos visuais e o contexto histórico de corpos, gestos e rostos nas catedrais.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie naturalismo no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 14.3 Portais e fachadas como narrativas visuais
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de portais e fachadas como narrativas visuais.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie naturalismo no vocabulário da história da arte.
 
 ---
 
@@ -940,68 +823,66 @@ Avaliar os conhecimentos das aulas da semana 13
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 14
+## Objetivos
 
-## 14ª Semana: **Arte Islâmica: arquitetura**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 14.1 Mesquitas
-
-- 14.2 Ausência de escultura figurativa
-
-- 14.3 Mesquita Azul
-
----
-
-[Belas artes] - Ano 3 - 14.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 14
-
-## 14ª Semana: **Arte Islâmica: arquitetura**
-
-- 14.1 Mesquitas
-
-- 14.2 Ausência de escultura figurativa
-
-- 14.3 Mesquita Azul
+- 14.1 A escultura Gótica e o naturalismo
+- 14.2 Corpos, gestos e rostos nas catedrais
+- 14.3 Portais e fachadas como narrativas visuais
 
 ---
 
-## Semana 15 – Arte Islâmica: obras e legado
-
----
-
-[Belas artes] - Ano 3 - 15.1 Alhambra
+[Belas artes] - Ano 3 - 14.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe os pátios, fontes e azulejos da Alhambra.
-   → Identifique a harmonia entre água, luz e padrão geométrico.
-   → Compreenda a Alhambra como síntese da beleza islâmica.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 14.1 A escultura Gótica e o naturalismo
+- 14.2 Corpos, gestos e rostos nas catedrais
+- 14.3 Portais e fachadas como narrativas visuais
 
 ---
 
-[Belas artes] - Ano 3 - 15.2 Influência decorativa na Europa
+## Semana 15 - Notre-Dame e a polifonia medieval
+
+[Belas artes] - Ano 3 - 15.1 Notre-Dame e a polifonia medieval
 
 # Description
 
 ## Objetivos
-   → Identifique padrões islâmicos em objetos e edifícios europeus.
-   → Reconheça que culturas se influenciam mesmo em conflito.
-   → Compreenda a arte como ponte entre civilizações.
+
+→ Identifique os elementos visuais e o contexto histórico de notre-dame e a polifonia medieval.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie polifonia no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 15.3 Arte islâmica e cosmovisão cristã
+[Belas artes] - Ano 3 - 15.2 A Escola de Notre-Dame e o organum
 
 # Description
 
 ## Objetivos
-   → Compare a proibição islâmica de figuras com a tradição cristã.
-   → Afirme a encarnação como fundamento para a representação.
-   → Discirna o que pode ser apreciado e o que deve ser avaliado criticamente.
+
+→ Identifique os elementos visuais e o contexto histórico de a escola de notre-dame e o organum.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie polifonia no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 15.3 Léonin, Pérotin e as vozes da catedral
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de léonin, pérotin e as vozes da catedral.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie polifonia no vocabulário da história da arte.
 
 ---
 
@@ -1009,68 +890,66 @@ Avaliar os conhecimentos das aulas da semana 14
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 15
+## Objetivos
 
-## 15ª Semana: **Arte Islâmica: obras e legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 15.1 Alhambra
-
-- 15.2 Influência decorativa na Europa
-
-- 15.3 Arte islâmica e cosmovisão cristã
-
----
-
-[Belas artes] - Ano 3 - 15.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 15
-
-## 15ª Semana: **Arte Islâmica: obras e legado**
-
-- 15.1 Alhambra
-
-- 15.2 Influência decorativa na Europa
-
-- 15.3 Arte islâmica e cosmovisão cristã
+- 15.1 Notre-Dame e a polifonia medieval
+- 15.2 A Escola de Notre-Dame e o organum
+- 15.3 Léonin, Pérotin e as vozes da catedral
 
 ---
 
-## Semana 16 – Arte Românica: contexto e cosmovisão
-
----
-
-[Belas artes] - Ano 3 - 16.1 Europa feudal e a arte românica
+[Belas artes] - Ano 3 - 15.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça a estrutura feudal: senhor, vassalo, servo.
-   → Identifique a Igreja como centro espiritual e cultural.
-   → Compreenda que a arte reflete o contexto social em que nasce.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 15.1 Notre-Dame e a polifonia medieval
+- 15.2 A Escola de Notre-Dame e o organum
+- 15.3 Léonin, Pérotin e as vozes da catedral
 
 ---
 
-[Belas artes] - Ano 3 - 16.2 Peregrinações e centralidade da Igreja
+## Semana 16 - Giotto e a transição para o Renascimento
+
+[Belas artes] - Ano 3 - 16.1 Giotto e a transição para o Renascimento
 
 # Description
 
 ## Objetivos
-   → Observe os caminhos de peregrinação medievais.
-   → Identifique igrejas construídas ao longo dessas rotas.
-   → Compreenda que a peregrinação motivou a construção e a arte.
+
+→ Identifique os elementos visuais e o contexto histórico de giotto e a transição para o renascimento.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie volume no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 16.3 Juízo, eternidade e reverência
+[Belas artes] - Ano 3 - 16.2 Volume e emoção nas figuras de Giotto
 
 # Description
 
 ## Objetivos
-   → Identifique representações do juízo final na arte românica.
-   → Reconheça a sobriedade e o temor como marcas do período.
-   → Discirna entre terror e reverência legítima diante de Deus.
+
+→ Identifique os elementos visuais e o contexto histórico de volume e emoção nas figuras de giotto.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie volume no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 16.3 A Capela Scrovegni e a narrativa em afresco
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a capela scrovegni e a narrativa em afresco.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie volume no vocabulário da história da arte.
 
 ---
 
@@ -1078,68 +957,66 @@ Avaliar os conhecimentos das aulas da semana 15
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 16
+## Objetivos
 
-## 16ª Semana: **Arte Românica: contexto e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 16.1 Europa feudal e a arte românica
-
-- 16.2 Peregrinações e centralidade da Igreja
-
-- 16.3 Juízo, eternidade e reverência
-
----
-
-[Belas artes] - Ano 3 - 16.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 16
-
-## 16ª Semana: **Arte Românica: contexto e cosmovisão**
-
-- 16.1 Europa feudal e a arte românica
-
-- 16.2 Peregrinações e centralidade da Igreja
-
-- 16.3 Juízo, eternidade e reverência
+- 16.1 Giotto e a transição para o Renascimento
+- 16.2 Volume e emoção nas figuras de Giotto
+- 16.3 A Capela Scrovegni e a narrativa em afresco
 
 ---
 
-## Semana 17 – Arte Românica: materiais e forma
-
----
-
-[Belas artes] - Ano 3 - 17.1 Catequese visual para iletrados
+[Belas artes] - Ano 3 - 16.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Compreenda que a maioria do povo medieval não sabia ler.
-   → Identifique a arte como meio de ensino da fé.
-   → Valorize a criatividade usada para comunicar verdades complexas.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 16.1 Giotto e a transição para o Renascimento
+- 16.2 Volume e emoção nas figuras de Giotto
+- 16.3 A Capela Scrovegni e a narrativa em afresco
 
 ---
 
-[Belas artes] - Ano 3 - 17.2 Pedra, afrescos e portais
+## Semana 17 - O Proto-Renascimento italiano
+
+[Belas artes] - Ano 3 - 17.1 O Proto-Renascimento italiano
 
 # Description
 
 ## Objetivos
-   → Observe os tímpanos esculpidos nos portais das igrejas.
-   → Identifique cenas bíblicas representadas em pedra e afresco.
-   → Compreenda o portal como "porta de entrada" para a verdade.
+
+→ Identifique os elementos visuais e o contexto histórico de o proto-renascimento italiano.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proto-renascimento no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 17.3 Figuras rígidas e simbolismo forte
+[Belas artes] - Ano 3 - 17.2 Cidades italianas e pintura religiosa
 
 # Description
 
 ## Objetivos
-   → Observe a rigidez das figuras românicas: frontalidade, proporções simplificadas.
-   → Reconheça que a rigidez não era falta de habilidade, mas escolha didática.
-   → Identifique símbolos recorrentes e seus significados.
+
+→ Identifique os elementos visuais e o contexto histórico de cidades italianas e pintura religiosa.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proto-renascimento no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 17.3 Espaço, corpo e narrativa antes da perspectiva
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de espaço, corpo e narrativa antes da perspectiva.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proto-renascimento no vocabulário da história da arte.
 
 ---
 
@@ -1147,68 +1024,66 @@ Avaliar os conhecimentos das aulas da semana 16
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 17
+## Objetivos
 
-## 17ª Semana: **Arte Românica: materiais e forma**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 17.1 Catequese visual para iletrados
-
-- 17.2 Pedra, afrescos e portais
-
-- 17.3 Figuras rígidas e simbolismo forte
-
----
-
-[Belas artes] - Ano 3 - 17.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 17
-
-## 17ª Semana: **Arte Românica: materiais e forma**
-
-- 17.1 Catequese visual para iletrados
-
-- 17.2 Pedra, afrescos e portais
-
-- 17.3 Figuras rígidas e simbolismo forte
+- 17.1 O Proto-Renascimento italiano
+- 17.2 Cidades italianas e pintura religiosa
+- 17.3 Espaço, corpo e narrativa antes da perspectiva
 
 ---
 
-## Semana 18 – Arte Românica: arquitetura e legado
-
----
-
-[Belas artes] - Ano 3 - 18.1 Igrejas de paredes espessas
+[Belas artes] - Ano 3 - 17.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a espessura das paredes românicas e suas poucas janelas.
-   → Reconheça a solidez como símbolo de proteção e firmeza.
-   → Compare com o Salmo 46: Deus é nosso refúgio e fortaleza.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 17.1 O Proto-Renascimento italiano
+- 17.2 Cidades italianas e pintura religiosa
+- 17.3 Espaço, corpo e narrativa antes da perspectiva
 
 ---
 
-[Belas artes] - Ano 3 - 18.2 Arcos semicirculares
+## Semana 18 - A pintura de Siena e de Florença
+
+[Belas artes] - Ano 3 - 18.1 A pintura de Siena e de Florença
 
 # Description
 
 ## Objetivos
-   → Identifique o arco semicircular como marca da arquitetura românica.
-   → Compreenda sua função estrutural: distribuir peso e dar estabilidade.
-   → Perceba o arco como símbolo de permanência e solidez.
+
+→ Identifique os elementos visuais e o contexto histórico de a pintura de siena e de florença.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura italiana no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 18.3 Catedral de Santiago de Compostela
+[Belas artes] - Ano 3 - 18.2 Duccio, Cimabue e as tradições pictóricas
 
 # Description
 
 ## Objetivos
-   → Conheça a história de Santiago como destino de peregrinação.
-   → Observe os elementos românicas da catedral.
-   → Compreenda a peregrinação como expressão de fé e o caminho como metáfora da vida cristã.
+
+→ Identifique os elementos visuais e o contexto histórico de duccio, cimabue e as tradições pictóricas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura italiana no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 18.3 Afresco, têmpera e profundidade inicial
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de afresco, têmpera e profundidade inicial.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura italiana no vocabulário da história da arte.
 
 ---
 
@@ -1216,220 +1091,109 @@ Avaliar os conhecimentos das aulas da semana 17
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 18
+## Objetivos
 
-## 18ª Semana: **Arte Românica: arquitetura e legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 18.1 Igrejas de paredes espessas
-
-- 18.2 Arcos semicirculares
-
-- 18.3 Catedral de Santiago de Compostela
-
----
-
-[Belas artes] - Ano 3 - 18.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 18
-
-## 18ª Semana: **Arte Românica: arquitetura e legado**
-
-- 18.1 Igrejas de paredes espessas
-
-- 18.2 Arcos semicirculares
-
-- 18.3 Catedral de Santiago de Compostela
+- 18.1 A pintura de Siena e de Florença
+- 18.2 Duccio, Cimabue e as tradições pictóricas
+- 18.3 Afresco, têmpera e profundidade inicial
 
 ---
 
-## Semana 19 – Revisão do Módulo 2
-
----
-
-[Belas artes] - Ano 3 - 19 Revisão
-
-# Description
-
-# Revisão do 2º Bimestre
-
-## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
-
-- 11.1 Arte Islâmica e as formas de arte
-
-- 11.2 Impérios islâmicos como produtores de arte
-
-- 11.3 Transcendência e evitação da figura humana
-
-## 12ª Semana: **Arte Islâmica: ornamentação e materiais**
-
-- 12.1 Ornamentação religiosa
-
-- 12.2 Azulejos e caligrafia
-
-- 12.3 Geometria decorativa
-
-## 13ª Semana: **Arte Islâmica: forma e composição**
-
-- 13.1 Arabescos
-
-- 13.2 Simetria e padrões repetitivos
-
-- 13.3 Ordem e repetição como linguagem
-
-## 14ª Semana: **Arte Islâmica: arquitetura**
-
-- 14.1 Mesquitas
-
-- 14.2 Ausência de escultura figurativa
-
-- 14.3 Mesquita Azul
-
-## 15ª Semana: **Arte Islâmica: obras e legado**
-
-- 15.1 Alhambra
-
-- 15.2 Influência decorativa na Europa
-
-- 15.3 Arte islâmica e cosmovisão cristã
-
-## 16ª Semana: **Arte Românica: contexto e cosmovisão**
-
-- 16.1 Europa feudal e a arte românica
-
-- 16.2 Peregrinações e centralidade da Igreja
-
-- 16.3 Juízo, eternidade e reverência
-
-## 17ª Semana: **Arte Românica: materiais e forma**
-
-- 17.1 Catequese visual para iletrados
-
-- 17.2 Pedra, afrescos e portais
-
-- 17.3 Figuras rígidas e simbolismo forte
-
-## 18ª Semana: **Arte Românica: arquitetura e legado**
-
-- 18.1 Igrejas de paredes espessas
-
-- 18.2 Arcos semicirculares
-
-- 18.3 Catedral de Santiago de Compostela
-
----
-
-## Semana 20 – Prova do Módulo 2
-
----
-
-[Belas artes] - Ano 3 - 20 Prova
-
-# Description
-
-# Prova do 2º Bimestre
-
-## 11ª Semana: **Arte Islâmica: contexto e cosmovisão**
-
-- 11.1 Arte Islâmica e as formas de arte
-
-- 11.2 Impérios islâmicos como produtores de arte
-
-- 11.3 Transcendência e evitação da figura humana
-
-## 12ª Semana: **Arte Islâmica: ornamentação e materiais**
-
-- 12.1 Ornamentação religiosa
-
-- 12.2 Azulejos e caligrafia
-
-- 12.3 Geometria decorativa
-
-## 13ª Semana: **Arte Islâmica: forma e composição**
-
-- 13.1 Arabescos
-
-- 13.2 Simetria e padrões repetitivos
-
-- 13.3 Ordem e repetição como linguagem
-
-## 14ª Semana: **Arte Islâmica: arquitetura**
-
-- 14.1 Mesquitas
-
-- 14.2 Ausência de escultura figurativa
-
-- 14.3 Mesquita Azul
-
-## 15ª Semana: **Arte Islâmica: obras e legado**
-
-- 15.1 Alhambra
-
-- 15.2 Influência decorativa na Europa
-
-- 15.3 Arte islâmica e cosmovisão cristã
-
-## 16ª Semana: **Arte Românica: contexto e cosmovisão**
-
-- 16.1 Europa feudal e a arte românica
-
-- 16.2 Peregrinações e centralidade da Igreja
-
-- 16.3 Juízo, eternidade e reverência
-
-## 17ª Semana: **Arte Românica: materiais e forma**
-
-- 17.1 Catequese visual para iletrados
-
-- 17.2 Pedra, afrescos e portais
-
-- 17.3 Figuras rígidas e simbolismo forte
-
-## 18ª Semana: **Arte Românica: arquitetura e legado**
-
-- 18.1 Igrejas de paredes espessas
-
-- 18.2 Arcos semicirculares
-
-- 18.3 Catedral de Santiago de Compostela
-
----
-
-## Semana 21 – Arte Gótica: contexto e cosmovisão
-
----
-
-[Belas artes] - Ano 3 - 21.1 Arte Gótica e o crescimento urbano
+[Belas artes] - Ano 3 - 18.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça o crescimento urbano como fato histórico transformador.
-   → Identifique a catedral como centro da cidade medieval.
-   → Compreenda que a arte responde às mudanças sociais.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 18.1 A pintura de Siena e de Florença
+- 18.2 Duccio, Cimabue e as tradições pictóricas
+- 18.3 Afresco, têmpera e profundidade inicial
 
 ---
 
-[Belas artes] - Ano 3 - 21.2 Nova espiritualidade urbana
+## Semana 19 - Revisão bimestral
+
+[Belas artes] - Ano 3 - 19.1 Revisão bimestral
 
 # Description
 
 ## Objetivos
-   → Observe a transição de uma fé monástica para uma fé comunitária.
-   → Reconheça o papel das universidades e ordens mendicantes.
-   → Entenda que a arte gótica expressa uma fé mais aberta e luminosa.
+
+→ Retome cronologicamente os oito temas do 2º bimestre.
+→ Relacione períodos, obras, artistas, técnicas e elementos visuais.
+
+- 11.1 A arte Gótica e as cidades medievais
+- 12.1 A arquitetura Gótica
+- 13.1 Os vitrais e as fachadas Góticas
+- 14.1 A escultura Gótica e o naturalismo
+- 15.1 Notre-Dame e a polifonia medieval
+- 16.1 Giotto e a transição para o Renascimento
+- 17.1 O Proto-Renascimento italiano
+- 18.1 A pintura de Siena e de Florença
 
 ---
 
-[Belas artes] - Ano 3 - 21.3 Luz como símbolo divino
+## Semana 20 - Prova bimestral
+
+[Belas artes] - Ano 3 - 20.1 Prova bimestral
 
 # Description
 
 ## Objetivos
-   → Identifique a luz como elemento central da arte gótica.
-   → Compreenda a luz como símbolo da presença e graça de Deus.
-   → Discirna entre o símbolo (luz na catedral) e a realidade (Cristo como Luz).
+
+→ Avalie os conteúdos estudados no 2º bimestre.
+
+- 11.1 A arte Gótica e as cidades medievais
+- 12.1 A arquitetura Gótica
+- 13.1 Os vitrais e as fachadas Góticas
+- 14.1 A escultura Gótica e o naturalismo
+- 15.1 Notre-Dame e a polifonia medieval
+- 16.1 Giotto e a transição para o Renascimento
+- 17.1 O Proto-Renascimento italiano
+- 18.1 A pintura de Siena e de Florença
+
+---
+
+## Semana 21 - O Primeiro Renascimento italiano
+
+[Belas artes] - Ano 3 - 21.1 O Primeiro Renascimento italiano
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o primeiro renascimento italiano.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie primeiro renascimento no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 21.2 Florença, oficinas e mecenato
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de florença, oficinas e mecenato.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie primeiro renascimento no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 21.3 A Antiguidade como referência visual
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a antiguidade como referência visual.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie primeiro renascimento no vocabulário da história da arte.
 
 ---
 
@@ -1437,68 +1201,66 @@ Avaliar os conhecimentos das aulas da semana 18
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 21
+## Objetivos
 
-## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 21.1 Arte Gótica e o crescimento urbano
-
-- 21.2 Nova espiritualidade urbana
-
-- 21.3 Luz como símbolo divino
-
----
-
-[Belas artes] - Ano 3 - 21.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 21
-
-## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
-
-- 21.1 Arte Gótica e o crescimento urbano
-
-- 21.2 Nova espiritualidade urbana
-
-- 21.3 Luz como símbolo divino
+- 21.1 O Primeiro Renascimento italiano
+- 21.2 Florença, oficinas e mecenato
+- 21.3 A Antiguidade como referência visual
 
 ---
 
-## Semana 22 – Arte Gótica: função e materiais
-
----
-
-[Belas artes] - Ano 3 - 22.1 Inspirar devoção na arte gótica
+[Belas artes] - Ano 3 - 21.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe o efeito emocional de entrar numa catedral gótica.
-   → Reconheça a intenção de provocar admiração e reverência.
-   → Discirna entre admiração estética e adoração verdadeira.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 21.1 O Primeiro Renascimento italiano
+- 21.2 Florença, oficinas e mecenato
+- 21.3 A Antiguidade como referência visual
 
 ---
 
-[Belas artes] - Ano 3 - 22.2 Vitrais como ensino visual
+## Semana 22 - A perspectiva no Renascimento
+
+[Belas artes] - Ano 3 - 22.1 A perspectiva no Renascimento
 
 # Description
 
 ## Objetivos
-   → Estude vitrais específicos e identifique suas narrativas bíblicas.
-   → Compreenda como a luz atravessando o vidro cria uma experiência de contemplação.
-   → Compare o ensino visual com a leitura direta da Escritura.
+
+→ Identifique os elementos visuais e o contexto histórico de a perspectiva no renascimento.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva linear no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 22.3 Arcos ogivais e abóbadas
+[Belas artes] - Ano 3 - 22.2 Linhas e ponto de fuga
 
 # Description
 
 ## Objetivos
-   → Identifique o arco ogival como marca da arquitetura gótica.
-   → Compreenda como a ogiva distribui peso e permite paredes mais finas.
-   → Reconheça que a engenharia serviu à teologia: mais abertura = mais luz.
+
+→ Identifique os elementos visuais e o contexto histórico de linhas e ponto de fuga.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva linear no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 22.3 Espaço organizado na pintura
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de espaço organizado na pintura.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva linear no vocabulário da história da arte.
 
 ---
 
@@ -1506,68 +1268,66 @@ Avaliar os conhecimentos das aulas da semana 21
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 22
+## Objetivos
 
-## 22ª Semana: **Arte Gótica: função e materiais**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 22.1 Inspirar devoção na arte gótica
-
-- 22.2 Vitrais como ensino visual
-
-- 22.3 Arcos ogivais e abóbadas
-
----
-
-[Belas artes] - Ano 3 - 22.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 22
-
-## 22ª Semana: **Arte Gótica: função e materiais**
-
-- 22.1 Inspirar devoção na arte gótica
-
-- 22.2 Vitrais como ensino visual
-
-- 22.3 Arcos ogivais e abóbadas
+- 22.1 A perspectiva no Renascimento
+- 22.2 Linhas e ponto de fuga
+- 22.3 Espaço organizado na pintura
 
 ---
 
-## Semana 23 – Arte Gótica: forma e composição
-
----
-
-[Belas artes] - Ano 3 - 23.1 Verticalidade como expressão visual
+[Belas artes] - Ano 3 - 22.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a altura extrema das naves góticas.
-   → Compreenda a verticalidade como linguagem visual: o olhar sobe.
-   → Relacione com Colossenses 3:1 — buscar as coisas do Alto.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 22.1 A perspectiva no Renascimento
+- 22.2 Linhas e ponto de fuga
+- 22.3 Espaço organizado na pintura
 
 ---
 
-[Belas artes] - Ano 3 - 23.2 Luminosidade na arte gótica
+## Semana 23 - Proporção e corpo humano
+
+[Belas artes] - Ano 3 - 23.1 Proporção e corpo humano
 
 # Description
 
 ## Objetivos
-   → Identifique como a luz entra pelas grandes janelas e rosáceas.
-   → Perceba a diferença entre a sombra românica e a luz gótica.
-   → Reconheça a luz como símbolo de revelação e graça.
+
+→ Identifique os elementos visuais e o contexto histórico de proporção e corpo humano.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proporção no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 23.3 Detalhamento crescente
+[Belas artes] - Ano 3 - 23.2 Anatomia e observação da figura
 
 # Description
 
 ## Objetivos
-   → Observe o detalhamento de esculturas, capitéis e ornamentos.
-   → Compreenda o detalhe como expressão de cuidado e contemplação.
-   → Relacione o olhar atento com a meditação cristã na criação.
+
+→ Identifique os elementos visuais e o contexto histórico de anatomia e observação da figura.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proporção no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 23.3 Contrapposto e equilíbrio na escultura
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de contrapposto e equilíbrio na escultura.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie proporção no vocabulário da história da arte.
 
 ---
 
@@ -1575,68 +1335,66 @@ Avaliar os conhecimentos das aulas da semana 22
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 23
+## Objetivos
 
-## 23ª Semana: **Arte Gótica: forma e composição**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 23.1 Verticalidade como expressão visual
-
-- 23.2 Luminosidade na arte gótica
-
-- 23.3 Detalhamento crescente
-
----
-
-[Belas artes] - Ano 3 - 23.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 23
-
-## 23ª Semana: **Arte Gótica: forma e composição**
-
-- 23.1 Verticalidade como expressão visual
-
-- 23.2 Luminosidade na arte gótica
-
-- 23.3 Detalhamento crescente
+- 23.1 Proporção e corpo humano
+- 23.2 Anatomia e observação da figura
+- 23.3 Contrapposto e equilíbrio na escultura
 
 ---
 
-## Semana 24 – Arte Gótica: arquitetura e escultura
-
----
-
-[Belas artes] - Ano 3 - 24.1 Fachada gótica
+[Belas artes] - Ano 3 - 23.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a frente principal de uma igreja gótica.
-   → Identifique portais, esculturas e janelas como elementos de ensino visual.
-   → Compreenda a fachada como primeiro contato entre o povo e a mensagem da obra.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 23.1 Proporção e corpo humano
+- 23.2 Anatomia e observação da figura
+- 23.3 Contrapposto e equilíbrio na escultura
 
 ---
 
-[Belas artes] - Ano 3 - 24.2 Escultura mais natural
+## Semana 24 - Brunelleschi, Donatello e Masaccio
+
+[Belas artes] - Ano 3 - 24.1 Brunelleschi, Donatello e Masaccio
 
 # Description
 
 ## Objetivos
-   → Compare esculturas românicas (rígidas) com góticas (mais naturais).
-   → Identifique rostos expressivos e gestos humanos nas esculturas.
-   → Reconheça a transição como preparação para o Renascimento.
+
+→ Identifique os elementos visuais e o contexto histórico de brunelleschi, donatello e masaccio.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 24.3 Notre-Dame de Paris
+[Belas artes] - Ano 3 - 24.2 A cúpula, a escultura e a pintura em perspectiva
 
 # Description
 
 ## Objetivos
-   → Conheça a história de Notre-Dame e sua construção.
-   → Observe a fachada e seus elementos narrativos.
-   → Compreenda Notre-Dame como símbolo da fé e da arte de uma civilização.
+
+→ Identifique os elementos visuais e o contexto histórico de a cúpula, a escultura e a pintura em perspectiva.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 24.3 A Trindade e o espaço construído por Masaccio
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a trindade e o espaço construído por masaccio.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie perspectiva no vocabulário da história da arte.
 
 ---
 
@@ -1644,68 +1402,66 @@ Avaliar os conhecimentos das aulas da semana 23
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 24
+## Objetivos
 
-## 24ª Semana: **Arte Gótica: arquitetura e escultura**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 24.1 Fachada gótica
-
-- 24.2 Escultura mais natural
-
-- 24.3 Notre-Dame de Paris
-
----
-
-[Belas artes] - Ano 3 - 24.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 24
-
-## 24ª Semana: **Arte Gótica: arquitetura e escultura**
-
-- 24.1 Fachada gótica
-
-- 24.2 Escultura mais natural
-
-- 24.3 Notre-Dame de Paris
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 24.2 A cúpula, a escultura e a pintura em perspectiva
+- 24.3 A Trindade e o espaço construído por Masaccio
 
 ---
 
-## Semana 25 – Arte Gótica: obras e legado
-
----
-
-[Belas artes] - Ano 3 - 25.1 Catedral de Chartres
+[Belas artes] - Ano 3 - 24.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe Chartres como obra completa: arquitetura, vitrais, escultura.
-   → Identifique a narrativa bíblica nos vitrais de Chartres.
-   → Compreenda Chartres como ponto alto da arte gótica.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 24.2 A cúpula, a escultura e a pintura em perspectiva
+- 24.3 A Trindade e o espaço construído por Masaccio
 
 ---
 
-[Belas artes] - Ano 3 - 25.2 Preparação para o naturalismo
+## Semana 25 - Botticelli e a composição renascentista
+
+[Belas artes] - Ano 3 - 25.1 Botticelli e a composição renascentista
 
 # Description
 
 ## Objetivos
-   → Reconheça como o detalhamento gótico preparou o olhar naturalista.
-   → Identifique a progressão: rigidez românica → naturalismo gótico → realismo.
-   → Compreenda que cada período artístico prepara o seguinte.
+
+→ Identifique os elementos visuais e o contexto histórico de botticelli e a composição renascentista.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie composição no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 25.3 O gótico e a tradição cristã
+[Belas artes] - Ano 3 - 25.2 Linha, ritmo e figura em A Primavera
 
 # Description
 
 ## Objetivos
-   → Avalie o legado gótico com discernimento reformado.
-   → Reconheça virtudes: beleza, ensino, excelência técnica.
-   → Identifique riscos: substituição da Palavra pela imagem, adoração do espaço.
+
+→ Identifique os elementos visuais e o contexto histórico de linha, ritmo e figura em a primavera.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie composição no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 25.3 Beleza, natureza e equilíbrio visual
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de beleza, natureza e equilíbrio visual.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie composição no vocabulário da história da arte.
 
 ---
 
@@ -1713,68 +1469,66 @@ Avaliar os conhecimentos das aulas da semana 24
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 25
+## Objetivos
 
-## 25ª Semana: **Arte Gótica: obras e legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 25.1 Catedral de Chartres
-
-- 25.2 Preparação para o naturalismo
-
-- 25.3 O gótico e a tradição cristã
-
----
-
-[Belas artes] - Ano 3 - 25.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 25
-
-## 25ª Semana: **Arte Gótica: obras e legado**
-
-- 25.1 Catedral de Chartres
-
-- 25.2 Preparação para o naturalismo
-
-- 25.3 O gótico e a tradição cristã
+- 25.1 Botticelli e a composição renascentista
+- 25.2 Linha, ritmo e figura em A Primavera
+- 25.3 Beleza, natureza e equilíbrio visual
 
 ---
 
-## Semana 26 – Pré-Renascimento do Norte: contexto e cosmovisão
-
----
-
-[Belas artes] - Ano 3 - 26.1 Pré-Renascimento e o contexto artístico
+[Belas artes] - Ano 3 - 25.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça a burguesia como classe que valorizava o trabalho e o comércio.
-   → Identifique as diferenças entre mecenato aristocrático e patronato burguês.
-   → Compreenda que a arte acompanha as mudanças sociais.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 25.1 Botticelli e a composição renascentista
+- 25.2 Linha, ritmo e figura em A Primavera
+- 25.3 Beleza, natureza e equilíbrio visual
 
 ---
 
-[Belas artes] - Ano 3 - 26.2 Pintura a óleo
+## Semana 26 - Leonardo da Vinci e a observação da natureza
+
+[Belas artes] - Ano 3 - 26.1 Leonardo da Vinci e a observação da natureza
 
 # Description
 
 ## Objetivos
-   → Compreenda a técnica do óleo como revolução artística no norte europeu.
-   → Identifique camadas translúcidas, reflexos e riqueza de detalhes.
-   → Perceba que a excelência técnica pode servir à beleza e à glória de Deus.
+
+→ Identifique os elementos visuais e o contexto histórico de leonardo da vinci e a observação da natureza.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie sfumato no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 26.3 Realismo flamengo
+[Belas artes] - Ano 3 - 26.2 Sfumato, luz e estudos anatómicos
 
 # Description
 
 ## Objetivos
-   → Reconheça o realismo como marca da pintura flamenga.
-   → Identifique reflexos, texturas e observação minuciosa da criação.
-   → Relacione o olhar atento do artista com reverência pela obra de Deus.
+
+→ Identifique os elementos visuais e o contexto histórico de sfumato, luz e estudos anatómicos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie sfumato no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 26.3 A Última Ceia e a composição narrativa
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a última ceia e a composição narrativa.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie sfumato no vocabulário da história da arte.
 
 ---
 
@@ -1782,68 +1536,66 @@ Avaliar os conhecimentos das aulas da semana 25
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 26
+## Objetivos
 
-## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 26.1 Pré-Renascimento e o contexto artístico
-
-- 26.2 Pintura a óleo
-
-- 26.3 Realismo flamengo
-
----
-
-[Belas artes] - Ano 3 - 26.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 26
-
-## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
-
-- 26.1 Pré-Renascimento e o contexto artístico
-
-- 26.2 Pintura a óleo
-
-- 26.3 Realismo flamengo
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 26.2 Sfumato, luz e estudos anatómicos
+- 26.3 A Última Ceia e a composição narrativa
 
 ---
 
-## Semana 27 – Pré-Renascimento do Norte: materiais e forma
-
----
-
-[Belas artes] - Ano 3 - 27.1 Óleo sobre madeira
+[Belas artes] - Ano 3 - 26.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Compreenda a técnica do óleo: camadas translúcidas sobre painel de madeira.
-   → Compare com a têmpera: o óleo permite mais detalhes e luminosidade.
-   → Reconheça que técnicas novas abrem possibilidades artísticas e expressivas.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 26.2 Sfumato, luz e estudos anatómicos
+- 26.3 A Última Ceia e a composição narrativa
 
 ---
 
-[Belas artes] - Ano 3 - 27.2 Pintura detalhada
+## Semana 27 - Michelangelo e a figura monumental
+
+[Belas artes] - Ano 3 - 27.1 Michelangelo e a figura monumental
 
 # Description
 
 ## Objetivos
-   → Observe detalhes em pinturas do norte: reflexos, texturas, luz.
-   → Identifique a paciência do artista como virtude refletida na obra.
-   → Relacione o detalhe com o mandamento de considerar os lírios.
+
+→ Identifique os elementos visuais e o contexto histórico de michelangelo e a figura monumental.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie figura monumental no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 27.3 Minúcia e realismo simbólico
+[Belas artes] - Ano 3 - 27.2 O Davi e a escultura do corpo humano
 
 # Description
 
 ## Objetivos
-   → Identifique símbolos escondidos em pinturas aparentemente realistas.
-   → Compreenda que um espelho, uma vela ou uma flor podia representar verdade teológica.
-   → Descubra que o realismo do norte é simbólico: o visível aponta para o invisível.
+
+→ Identifique os elementos visuais e o contexto histórico de o davi e a escultura do corpo humano.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie figura monumental no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 27.3 A Capela Sistina e a pintura em grande escala
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a capela sistina e a pintura em grande escala.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie figura monumental no vocabulário da história da arte.
 
 ---
 
@@ -1851,68 +1603,66 @@ Avaliar os conhecimentos das aulas da semana 26
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 27
+## Objetivos
 
-## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 27.1 Óleo sobre madeira
-
-- 27.2 Pintura detalhada
-
-- 27.3 Minúcia e realismo simbólico
-
----
-
-[Belas artes] - Ano 3 - 27.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 27
-
-## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
-
-- 27.1 Óleo sobre madeira
-
-- 27.2 Pintura detalhada
-
-- 27.3 Minúcia e realismo simbólico
+- 27.1 Michelangelo e a figura monumental
+- 27.2 O Davi e a escultura do corpo humano
+- 27.3 A Capela Sistina e a pintura em grande escala
 
 ---
 
-## Semana 28 – Pré-Renascimento do Norte: obras e legado
-
----
-
-[Belas artes] - Ano 3 - 28.1 Jan van Eyck
+[Belas artes] - Ano 3 - 27.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Conheça O Casal Arnolfini e seus detalhes simbólicos.
-   → Identifique a técnica de van Eyck: camadas de óleo, luz natural, reflexos.
-   → Reconheça van Eyck como fundador de uma tradição de realismo no norte.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 27.1 Michelangelo e a figura monumental
+- 27.2 O Davi e a escultura do corpo humano
+- 27.3 A Capela Sistina e a pintura em grande escala
 
 ---
 
-[Belas artes] - Ano 3 - 28.2 Consolidação do realismo
+## Semana 28 - Rafael e o equilíbrio do Alto Renascimento
+
+[Belas artes] - Ano 3 - 28.1 Rafael e o equilíbrio do Alto Renascimento
 
 # Description
 
 ## Objetivos
-   → Observe como o realismo do norte difere do idealismo italiano.
-   → Identifique a ênfase na verdade visual como valor artístico.
-   → Compreenda que o realismo é escolha estética e teológica.
+
+→ Identifique os elementos visuais e o contexto histórico de rafael e o equilíbrio do alto renascimento.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie equilíbrio no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 28.3 Do detalhe à verdade
+[Belas artes] - Ano 3 - 28.2 Harmonia e clareza em A Escola de Atenas
 
 # Description
 
 ## Objetivos
-   → Reflita sobre a relação entre observação e conhecimento.
-   → Reconheça que ver com atenção é dom e responsabilidade.
-   → Discirna que a verdade última não está no detalhe, mas no Deus que o criou.
+
+→ Identifique os elementos visuais e o contexto histórico de harmonia e clareza em a escola de atenas.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie equilíbrio no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 28.3 A polifonia renascentista de Josquin des Prez
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a polifonia renascentista de josquin des prez.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie equilíbrio no vocabulário da história da arte.
 
 ---
 
@@ -1920,220 +1670,109 @@ Avaliar os conhecimentos das aulas da semana 27
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 28
+## Objetivos
 
-## 28ª Semana: **Pré-Renascimento do Norte: obras e legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 28.1 Jan van Eyck
-
-- 28.2 Consolidação do realismo
-
-- 28.3 Do detalhe à verdade
-
----
-
-[Belas artes] - Ano 3 - 28.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 28
-
-## 28ª Semana: **Pré-Renascimento do Norte: obras e legado**
-
-- 28.1 Jan van Eyck
-
-- 28.2 Consolidação do realismo
-
-- 28.3 Do detalhe à verdade
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
+- 28.2 Harmonia e clareza em A Escola de Atenas
+- 28.3 A polifonia renascentista de Josquin des Prez
 
 ---
 
-## Semana 29 – Revisão do Módulo 3
-
----
-
-[Belas artes] - Ano 3 - 29 Revisão
-
-# Description
-
-# Revisão do 3º Bimestre
-
-## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
-
-- 21.1 Arte Gótica e o crescimento urbano
-
-- 21.2 Nova espiritualidade urbana
-
-- 21.3 Luz como símbolo divino
-
-## 22ª Semana: **Arte Gótica: função e materiais**
-
-- 22.1 Inspirar devoção na arte gótica
-
-- 22.2 Vitrais como ensino visual
-
-- 22.3 Arcos ogivais e abóbadas
-
-## 23ª Semana: **Arte Gótica: forma e composição**
-
-- 23.1 Verticalidade como expressão visual
-
-- 23.2 Luminosidade na arte gótica
-
-- 23.3 Detalhamento crescente
-
-## 24ª Semana: **Arte Gótica: arquitetura e escultura**
-
-- 24.1 Fachada gótica
-
-- 24.2 Escultura mais natural
-
-- 24.3 Notre-Dame de Paris
-
-## 25ª Semana: **Arte Gótica: obras e legado**
-
-- 25.1 Catedral de Chartres
-
-- 25.2 Preparação para o naturalismo
-
-- 25.3 O gótico e a tradição cristã
-
-## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
-
-- 26.1 Pré-Renascimento e o contexto artístico
-
-- 26.2 Pintura a óleo
-
-- 26.3 Realismo flamengo
-
-## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
-
-- 27.1 Óleo sobre madeira
-
-- 27.2 Pintura detalhada
-
-- 27.3 Minúcia e realismo simbólico
-
-## 28ª Semana: **Pré-Renascimento do Norte: obras e legado**
-
-- 28.1 Jan van Eyck
-
-- 28.2 Consolidação do realismo
-
-- 28.3 Do detalhe à verdade
-
----
-
-## Semana 30 – Prova do Módulo 3
-
----
-
-[Belas artes] - Ano 3 - 30 Prova
-
-# Description
-
-# Prova do 3º Bimestre
-
-## 21ª Semana: **Arte Gótica: contexto e cosmovisão**
-
-- 21.1 Arte Gótica e o crescimento urbano
-
-- 21.2 Nova espiritualidade urbana
-
-- 21.3 Luz como símbolo divino
-
-## 22ª Semana: **Arte Gótica: função e materiais**
-
-- 22.1 Inspirar devoção na arte gótica
-
-- 22.2 Vitrais como ensino visual
-
-- 22.3 Arcos ogivais e abóbadas
-
-## 23ª Semana: **Arte Gótica: forma e composição**
-
-- 23.1 Verticalidade como expressão visual
-
-- 23.2 Luminosidade na arte gótica
-
-- 23.3 Detalhamento crescente
-
-## 24ª Semana: **Arte Gótica: arquitetura e escultura**
-
-- 24.1 Fachada gótica
-
-- 24.2 Escultura mais natural
-
-- 24.3 Notre-Dame de Paris
-
-## 25ª Semana: **Arte Gótica: obras e legado**
-
-- 25.1 Catedral de Chartres
-
-- 25.2 Preparação para o naturalismo
-
-- 25.3 O gótico e a tradição cristã
-
-## 26ª Semana: **Pré-Renascimento do Norte: contexto e cosmovisão**
-
-- 26.1 Pré-Renascimento e o contexto artístico
-
-- 26.2 Pintura a óleo
-
-- 26.3 Realismo flamengo
-
-## 27ª Semana: **Pré-Renascimento do Norte: materiais e forma**
-
-- 27.1 Óleo sobre madeira
-
-- 27.2 Pintura detalhada
-
-- 27.3 Minúcia e realismo simbólico
-
-## 28ª Semana: **Pré-Renascimento do Norte: obras e legado**
-
-- 28.1 Jan van Eyck
-
-- 28.2 Consolidação do realismo
-
-- 28.3 Do detalhe à verdade
-
----
-
-## Semana 31 – Renascimento do Norte: contexto e cosmovisão
-
----
-
-[Belas artes] - Ano 3 - 31.1 Renascimento do Norte
+[Belas artes] - Ano 3 - 28.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Conheça Erasmo de Roterdã e o ideal de "Ad Fontes".
-   → Compreenda que o estudo sério das línguas e textos serviu à fé.
-   → Reconheça que a mente iluminada pela verdade glorifica a Deus.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
+- 28.2 Harmonia e clareza em A Escola de Atenas
+- 28.3 A polifonia renascentista de Josquin des Prez
 
 ---
 
-[Belas artes] - Ano 3 - 31.2 Reformas religiosas e cultura
+## Semana 29 - Revisão bimestral
+
+[Belas artes] - Ano 3 - 29.1 Revisão bimestral
 
 # Description
 
 ## Objetivos
-   → Identifique o clima de insatisfação com a corrupção religiosa.
-   → Compreenda como a arte começou a criticar vícios e superstições.
-   → Relacione a busca pela verdade teológica com a busca pela verdade artística.
+
+→ Retome cronologicamente os oito temas do 3º bimestre.
+→ Relacione períodos, obras, artistas, técnicas e elementos visuais.
+
+- 21.1 O Primeiro Renascimento italiano
+- 22.1 A perspectiva no Renascimento
+- 23.1 Proporção e corpo humano
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 25.1 Botticelli e a composição renascentista
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 27.1 Michelangelo e a figura monumental
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
 
 ---
 
-[Belas artes] - Ano 3 - 31.3 Observação da natureza
+## Semana 30 - Prova bimestral
+
+[Belas artes] - Ano 3 - 30.1 Prova bimestral
 
 # Description
 
 ## Objetivos
-   → Observe estudos de natureza de Dürer (plantas, animais).
-   → Reconheça a precisão científica como ato de reverência ao Criador.
-   → Entenda que "ler o mundo" corretamente exige atenção e fidelidade.
+
+→ Avalie os conteúdos estudados no 3º bimestre.
+
+- 21.1 O Primeiro Renascimento italiano
+- 22.1 A perspectiva no Renascimento
+- 23.1 Proporção e corpo humano
+- 24.1 Brunelleschi, Donatello e Masaccio
+- 25.1 Botticelli e a composição renascentista
+- 26.1 Leonardo da Vinci e a observação da natureza
+- 27.1 Michelangelo e a figura monumental
+- 28.1 Rafael e o equilíbrio do Alto Renascimento
+
+---
+
+## Semana 31 - O Renascimento do Norte
+
+[Belas artes] - Ano 3 - 31.1 O Renascimento do Norte
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o renascimento do norte.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento do norte no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 31.2 Cidades comerciais, oficinas e pintura flamenga
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de cidades comerciais, oficinas e pintura flamenga.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento do norte no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 31.3 O Norte europeu e o Renascimento italiano
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o norte europeu e o renascimento italiano.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento do norte no vocabulário da história da arte.
 
 ---
 
@@ -2141,52 +1780,66 @@ Avaliar os conhecimentos das aulas da semana 28
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 31
+## Objetivos
 
-## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 31.1 Renascimento do Norte
-
-- 31.2 Reformas religiosas e cultura
-
-- 31.3 Observação da natureza
-
----
-
-## Semana 32 – Renascimento do Norte: função e cosmovisão
+- 31.1 O Renascimento do Norte
+- 31.2 Cidades comerciais, oficinas e pintura flamenga
+- 31.3 O Norte europeu e o Renascimento italiano
 
 ---
 
-[Belas artes] - Ano 3 - 32.1 Moralidade visual
+[Belas artes] - Ano 3 - 31.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe obras de Bosch que mostram o pecado e o inferno.
-   → Compreenda a intenção de chocar e advertir o espectador.
-   → Discirna a teologia do juízo presente nessas imagens.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 31.1 O Renascimento do Norte
+- 31.2 Cidades comerciais, oficinas e pintura flamenga
+- 31.3 O Norte europeu e o Renascimento italiano
 
 ---
 
-[Belas artes] - Ano 3 - 32.2 Ensino moral pela arte
+## Semana 32 - A pintura a óleo flamenga
+
+[Belas artes] - Ano 3 - 32.1 A pintura a óleo flamenga
 
 # Description
 
 ## Objetivos
-   → Estude pinturas que ilustram provérbios flamengos.
-   → Identifique a sabedoria popular traduzida em imagem.
-   → Reconheça que a arte servia para educar o comportamento.
+
+→ Identifique os elementos visuais e o contexto histórico de a pintura a óleo flamenga.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura a óleo no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 32.3 Representação da vida na arte
+[Belas artes] - Ano 3 - 32.2 Camadas transparentes, cor e luz
 
 # Description
 
 ## Objetivos
-   → Observe cenas de camponeses, festas e trabalho.
-   → Compreenda que a Reforma trouxe dignidade à vida comum (não apenas à vida religiosa).
-   → Valorize a honestidade de retratar a vida como ela é.
+
+→ Identifique os elementos visuais e o contexto histórico de camadas transparentes, cor e luz.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura a óleo no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 32.3 Texturas e detalhes na pintura sobre madeira
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de texturas e detalhes na pintura sobre madeira.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie pintura a óleo no vocabulário da história da arte.
 
 ---
 
@@ -2194,52 +1847,66 @@ Revisar os conhecimentos das aulas da semana 31
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 32
+## Objetivos
 
-## 32ª Semana: **Renascimento do Norte: função e cosmovisão**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 32.1 Moralidade visual
-
-- 32.2 Ensino moral pela arte
-
-- 32.3 Representação da vida na arte
-
----
-
-## Semana 33 – Renascimento do Norte: materiais e forma
+- 32.1 A pintura a óleo flamenga
+- 32.2 Camadas transparentes, cor e luz
+- 32.3 Texturas e detalhes na pintura sobre madeira
 
 ---
 
-[Belas artes] - Ano 3 - 33.1 Óleo refinado
+[Belas artes] - Ano 3 - 32.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Observe a diferença entre o esfumato italiano e a nitidez do norte.
-   → Compreenda que o óleo permite "pintar a luz".
-   → Valorize a excelência técnica como mordomia do talento.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 32.1 A pintura a óleo flamenga
+- 32.2 Camadas transparentes, cor e luz
+- 32.3 Texturas e detalhes na pintura sobre madeira
 
 ---
 
-[Belas artes] - Ano 3 - 33.2 Gravura, xilogravura e metal
+## Semana 33 - Jan van Eyck e o detalhe simbólico
+
+[Belas artes] - Ano 3 - 33.1 Jan van Eyck e o detalhe simbólico
 
 # Description
 
 ## Objetivos
-   → Entenda o processo de gravura: matriz, tinta, impressão.
-   → Reconheça o impacto social: arte barata e portátil.
-   → Identifique a gravura como veículo de ideias teológicas (especialmente na Reforma).
+
+→ Identifique os elementos visuais e o contexto histórico de jan van eyck e o detalhe simbólico.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie detalhe simbólico no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 33.3 Precisão e luz simbólica
+[Belas artes] - Ano 3 - 33.2 O Casal Arnolfini e o retrato
 
 # Description
 
 ## Objetivos
-   → Observe gravuras de Dürer (Apocalipse, Paixão).
-   → Compreenda como linhas pretas podem criar volume, luz e drama.
-   → Reconheça que a limitação de cor exige maior domínio da forma.
+
+→ Identifique os elementos visuais e o contexto histórico de o casal arnolfini e o retrato.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie detalhe simbólico no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 33.3 Objetos, espelho e luz na pintura flamenga
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de objetos, espelho e luz na pintura flamenga.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie detalhe simbólico no vocabulário da história da arte.
 
 ---
 
@@ -2247,68 +1914,66 @@ Revisar os conhecimentos das aulas da semana 32
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 33
+## Objetivos
 
-## 33ª Semana: **Renascimento do Norte: materiais e forma**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 33.1 Óleo refinado
-
-- 33.2 Gravura, xilogravura e metal
-
-- 33.3 Precisão e luz simbólica
-
----
-
-[Belas artes] - Ano 3 - 33.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 33
-
-## 33ª Semana: **Renascimento do Norte: materiais e forma**
-
-- 33.1 Óleo refinado
-
-- 33.2 Gravura, xilogravura e metal
-
-- 33.3 Precisão e luz simbólica
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 33.2 O Casal Arnolfini e o retrato
+- 33.3 Objetos, espelho e luz na pintura flamenga
 
 ---
 
-## Semana 34 – Renascimento do Norte: artistas
-
----
-
-[Belas artes] - Ano 3 - 34.1 Albrecht Dürer
+[Belas artes] - Ano 3 - 33.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Conheça a versatilidade de Dürer: pintor, gravador, teórico.
-   → Identifique sua adesão à Reforma e como isso influenciou sua arte (ex: Os Quatro Apóstolos).
-   → Valorize o intelectual cristão que une fé e cultura.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 33.2 O Casal Arnolfini e o retrato
+- 33.3 Objetos, espelho e luz na pintura flamenga
 
 ---
 
-[Belas artes] - Ano 3 - 34.2 Hans Holbein
+## Semana 34 - A gravura no Renascimento do Norte
+
+[Belas artes] - Ano 3 - 34.1 A gravura no Renascimento do Norte
 
 # Description
 
 ## Objetivos
-   → Observe os retratos de Holbein (Erasmo, Thomas More, Henrique VIII).
-   → Reconheça a capacidade de capturar a psicologia e o caráter além da aparência.
-   → Compreenda o retrato como afirmação da dignidade e individualidade humana.
+
+→ Identifique os elementos visuais e o contexto histórico de a gravura no renascimento do norte.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 34.3 O artista como testemunha
+[Belas artes] - Ano 3 - 34.2 Xilogravura e gravura em metal
 
 # Description
 
 ## Objetivos
-   → Discuta o chamado do artista para servir à verdade em seu tempo.
-   → Relacione com a vocação de cada cristão de ser testemunha.
-   → Conclua que a arte não é fuga da realidade, mas compromisso com ela.
+
+→ Identifique os elementos visuais e o contexto histórico de xilogravura e gravura em metal.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 34.3 Imagens reproduzidas e circulação de ideias
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de imagens reproduzidas e circulação de ideias.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura no vocabulário da história da arte.
 
 ---
 
@@ -2316,68 +1981,66 @@ Avaliar os conhecimentos das aulas da semana 33
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 34
+## Objetivos
 
-## 34ª Semana: **Renascimento do Norte: artistas**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 34.1 Albrecht Dürer
-
-- 34.2 Hans Holbein
-
-- 34.3 O artista como testemunha
-
----
-
-[Belas artes] - Ano 3 - 34.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 34
-
-## 34ª Semana: **Renascimento do Norte: artistas**
-
-- 34.1 Albrecht Dürer
-
-- 34.2 Hans Holbein
-
-- 34.3 O artista como testemunha
+- 34.1 A gravura no Renascimento do Norte
+- 34.2 Xilogravura e gravura em metal
+- 34.3 Imagens reproduzidas e circulação de ideias
 
 ---
 
-## Semana 35 – Renascimento do Norte: legado
-
----
-
-[Belas artes] - Ano 3 - 35.1 Base do realismo moderno
+[Belas artes] - Ano 3 - 34.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Reconheça que o olhar atento do norte fundou o realismo moderno.
-   → Identifique a paisagem e a natureza morta como gêneros que nasceram aqui.
-   → Valorize a representação do mundo visível.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 34.1 A gravura no Renascimento do Norte
+- 34.2 Xilogravura e gravura em metal
+- 34.3 Imagens reproduzidas e circulação de ideias
 
 ---
 
-[Belas artes] - Ano 3 - 35.2 Arte e Reforma Protestante
+## Semana 35 - Albrecht Dürer e o desenho gravado
+
+[Belas artes] - Ano 3 - 35.1 Albrecht Dürer e o desenho gravado
 
 # Description
 
 ## Objetivos
-   → Compreenda como a Reforma valorizou a vocação secular.
-   → Entenda que o artista não precisa pintar santos para servir a Deus.
-   → Celebre a liberdade de pintar a criação de Deus.
+
+→ Identifique os elementos visuais e o contexto histórico de albrecht dürer e o desenho gravado.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura de dürer no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 35.3 Encerramento do Renascimento do Norte
+[Belas artes] - Ano 3 - 35.2 Lebre Jovem e a observação da natureza
 
 # Description
 
 ## Objetivos
-   → Revise as principais contribuições do período (óleo, gravura, realismo).
-   → Prepare o aluno para entender que a arte continuará evoluindo.
-   → Conclua com a doxologia: Glória a Deus por toda beleza.
+
+→ Identifique os elementos visuais e o contexto histórico de lebre jovem e a observação da natureza.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura de dürer no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 35.3 Melancolia I e os símbolos na gravura
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de melancolia i e os símbolos na gravura.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie gravura de dürer no vocabulário da história da arte.
 
 ---
 
@@ -2385,68 +2048,66 @@ Avaliar os conhecimentos das aulas da semana 34
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 35
+## Objetivos
 
-## 35ª Semana: **Renascimento do Norte: legado**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 35.1 Base do realismo moderno
-
-- 35.2 Arte e Reforma Protestante
-
-- 35.3 Encerramento do Renascimento do Norte
-
----
-
-[Belas artes] - Ano 3 - 35.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 35
-
-## 35ª Semana: **Renascimento do Norte: legado**
-
-- 35.1 Base do realismo moderno
-
-- 35.2 Arte e Reforma Protestante
-
-- 35.3 Encerramento do Renascimento do Norte
+- 35.1 Albrecht Dürer e o desenho gravado
+- 35.2 Lebre Jovem e a observação da natureza
+- 35.3 Melancolia I e os símbolos na gravura
 
 ---
 
-## Semana 36 – Consolidação: visão panorâmica (parte 1)
-
----
-
-[Belas artes] - Ano 3 - 36.1 De Bizâncio à Iconoclastia
+[Belas artes] - Ano 3 - 35.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Revise a arte oriental e a crise das imagens (Bizâncio e Iconoclastia).
-   → Conecte os pontos históricos e teológicos dos módulos 1 e 2.
-   → Consolide o aprendizado com discernimento reformado.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 35.1 Albrecht Dürer e o desenho gravado
+- 35.2 Lebre Jovem e a observação da natureza
+- 35.3 Melancolia I e os símbolos na gravura
 
 ---
 
-[Belas artes] - Ano 3 - 36.2 Do Islã ao Românico
+## Semana 36 - Hans Holbein e o retrato do Norte
+
+[Belas artes] - Ano 3 - 36.1 Hans Holbein e o retrato do Norte
 
 # Description
 
 ## Objetivos
-   → Revise a arte não-figurativa islâmica e a arte monástica românica.
-   → Compare cosmovisões e linguagens artísticas distintas.
-   → Fortaleça a capacidade de análise comparativa.
+
+→ Identifique os elementos visuais e o contexto histórico de hans holbein e o retrato do norte.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie retrato no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 36.3 Do Gótico ao Pré-Renascimento
+[Belas artes] - Ano 3 - 36.2 Os Embaixadores e os objetos simbólicos
 
 # Description
 
 ## Objetivos
-   → Revise a arte das catedrais góticas e o despertar do realismo no norte.
-   → Trace a linha de desenvolvimento da arte cristã medieval.
-   → Prepare-se para a síntese final do ano letivo.
+
+→ Identifique os elementos visuais e o contexto histórico de os embaixadores e os objetos simbólicos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie retrato no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 36.3 Precisão, textura e presença no retrato
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de precisão, textura e presença no retrato.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie retrato no vocabulário da história da arte.
 
 ---
 
@@ -2454,68 +2115,66 @@ Avaliar os conhecimentos das aulas da semana 35
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 36
+## Objetivos
 
-## 36ª Semana: **Consolidação: visão panorâmica (parte 1)**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 36.1 De Bizâncio à Iconoclastia
-
-- 36.2 Do Islã ao Românico
-
-- 36.3 Do Gótico ao Pré-Renascimento
-
----
-
-[Belas artes] - Ano 3 - 36.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 36
-
-## 36ª Semana: **Consolidação: visão panorâmica (parte 1)**
-
-- 36.1 De Bizâncio à Iconoclastia
-
-- 36.2 Do Islã ao Românico
-
-- 36.3 Do Gótico ao Pré-Renascimento
+- 36.1 Hans Holbein e o retrato do Norte
+- 36.2 Os Embaixadores e os objetos simbólicos
+- 36.3 Precisão, textura e presença no retrato
 
 ---
 
-## Semana 37 – Consolidação: conexões e contrastes
-
----
-
-[Belas artes] - Ano 3 - 37.1 Cosmovisões comparadas
+[Belas artes] - Ano 3 - 36.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Contraste Teocentrismo bizantino, Aniconismo islâmico e Humanismo cristão.
-   → Exercite o discernimento crítico e teológico entre cosmovisões.
-   → Prove os espíritos à luz da Escritura.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 36.1 Hans Holbein e o retrato do Norte
+- 36.2 Os Embaixadores e os objetos simbólicos
+- 36.3 Precisão, textura e presença no retrato
 
 ---
 
-[Belas artes] - Ano 3 - 37.2 Técnicas e materiais comparados
+## Semana 37 - A Reforma e as imagens no Norte europeu
+
+[Belas artes] - Ano 3 - 37.1 A Reforma e as imagens no Norte europeu
 
 # Description
 
 ## Objetivos
-   → Compare técnicas e materiais: Mosaico vs. Afresco vs. Vitral vs. Óleo/Gravura.
-   → Reconheça como cada técnica serviu à expressão de uma cosmovisão.
-   → Valorize a diversidade de meios artísticos como dons da criação.
+
+→ Identifique os elementos visuais e o contexto histórico de a reforma e as imagens no norte europeu.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie reforma no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 37.3 A arte como linguagem da fé
+[Belas artes] - Ano 3 - 37.2 Arte, culto e circulação de gravuras
 
 # Description
 
 ## Objetivos
-   → Compreenda como cada período expressou sua fé através da arte.
-   → Reconheça a arte como linguagem da fé ao longo da história.
-   → Afirme que Cristo permanece o mesmo ontem, hoje e para sempre.
+
+→ Identifique os elementos visuais e o contexto histórico de arte, culto e circulação de gravuras.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie reforma no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 37.3 O coral luterano e o canto comunitário
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de o coral luterano e o canto comunitário.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie reforma no vocabulário da história da arte.
 
 ---
 
@@ -2523,68 +2182,66 @@ Avaliar os conhecimentos das aulas da semana 36
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 37
+## Objetivos
 
-## 37ª Semana: **Consolidação: conexões e contrastes**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 37.1 Cosmovisões comparadas
-
-- 37.2 Técnicas e materiais comparados
-
-- 37.3 A arte como linguagem da fé
-
----
-
-[Belas artes] - Ano 3 - 37.5 Provas
-
-# Description
-
-Avaliar os conhecimentos das aulas da semana 37
-
-## 37ª Semana: **Consolidação: conexões e contrastes**
-
-- 37.1 Cosmovisões comparadas
-
-- 37.2 Técnicas e materiais comparados
-
-- 37.3 A arte como linguagem da fé
+- 37.1 A Reforma e as imagens no Norte europeu
+- 37.2 Arte, culto e circulação de gravuras
+- 37.3 O coral luterano e o canto comunitário
 
 ---
 
-## Semana 38 – Encerramento do Volume 2
-
----
-
-[Belas artes] - Ano 3 - 38.1 Síntese dos grandes marcos artisticos
+[Belas artes] - Ano 3 - 37.5 Prova semanal
 
 # Description
 
 ## Objetivos
-   → Sintetize os grandes marcos e lições do 3º Ano.
-   → Reconheça o caminho percorrido de Bizâncio ao Renascimento do Norte.
-   → Agradeça pelo aprendizado e pela beleza contemplada.
+
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
+
+- 37.1 A Reforma e as imagens no Norte europeu
+- 37.2 Arte, culto e circulação de gravuras
+- 37.3 O coral luterano e o canto comunitário
 
 ---
 
-[Belas artes] - Ano 3 - 38.2 A arte e o cristão reformado
+## Semana 38 - O legado dos Renascimentos
+
+[Belas artes] - Ano 3 - 38.1 O legado dos Renascimentos
 
 # Description
 
 ## Objetivos
-   → Aplique os princípios aprendidos: como viver a fé no mundo das artes hoje.
-   → Cresça na graça e no conhecimento de Cristo.
-   → Reconheça a vocação de apreciador sábio e, quem sabe, criador fiel.
+
+→ Identifique os elementos visuais e o contexto histórico de o legado dos renascimentos.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento no vocabulário da história da arte.
 
 ---
 
-[Belas artes] - Ano 3 - 38.3 Introdução ao Renascimento Italiano e Maneirismo
+[Belas artes] - Ano 3 - 38.2 Equilíbrio italiano e detalhe do Norte
 
 # Description
 
 ## Objetivos
-   → Olhe adiante para o Impressionismo e os próximos capítulos da história da arte.
-   → Compreenda que a jornada artística continua.
-   → Encerre com a doxologia: Soli Deo Gloria.
+
+→ Identifique os elementos visuais e o contexto histórico de equilíbrio italiano e detalhe do norte.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento no vocabulário da história da arte.
+
+---
+
+[Belas artes] - Ano 3 - 38.3 A transição do Renascimento para o Maneirismo
+
+# Description
+
+## Objetivos
+
+→ Identifique os elementos visuais e o contexto histórico de a transição do renascimento para o maneirismo.
+→ Observe formas, materiais, espaço, composição, obra ou edifício ligados ao tema.
+→ Nomeie renascimento no vocabulário da história da arte.
 
 ---
 
@@ -2592,181 +2249,69 @@ Avaliar os conhecimentos das aulas da semana 37
 
 # Description
 
-Revisar os conhecimentos das aulas da semana 38
+## Objetivos
 
-## 38ª Semana: **Encerramento do Volume 2**
+→ Retome os conceitos das três aulas da semana.
+→ Relacione as imagens, os termos e as obras estudadas.
 
-- 38.1 Síntese dos grandes marcos artisticos
-
-- 38.2 A arte e o cristão reformado
-
-- 38.3 Introdução ao Renascimento Italiano e Maneirismo
+- 38.1 O legado dos Renascimentos
+- 38.2 Equilíbrio italiano e detalhe do Norte
+- 38.3 A transição do Renascimento para o Maneirismo
 
 ---
 
-[Belas artes] - Ano 3 - 38.5 Provas
+[Belas artes] - Ano 3 - 38.5 Prova semanal
 
 # Description
 
-Avaliar os conhecimentos das aulas da semana 38
+## Objetivos
 
-## 38ª Semana: **Encerramento do Volume 2**
+→ Verifique a identificação do tema, do termo central e dos exemplos visuais da semana.
 
-- 38.1 Síntese dos grandes marcos artisticos
-
-- 38.2 A arte e o cristão reformado
-
-- 38.3 Introdução ao Renascimento Italiano e Maneirismo
-
-
-## Semana 39 – Revisão Final
+- 38.1 O legado dos Renascimentos
+- 38.2 Equilíbrio italiano e detalhe do Norte
+- 38.3 A transição do Renascimento para o Maneirismo
 
 ---
 
-[Belas artes] - Ano 3 - 39 Revisão
+## Semana 39 - Revisão bimestral
+
+[Belas artes] - Ano 3 - 39.1 Revisão bimestral
 
 # Description
 
-# Revisão Final
+## Objetivos
 
-## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
+→ Retome cronologicamente os oito temas do 4º bimestre.
+→ Relacione períodos, obras, artistas, técnicas e elementos visuais.
 
-- 31.1 Renascimento do Norte
-
-- 31.2 Reformas religiosas e cultura
-
-- 31.3 Observação da natureza
-
-## 32ª Semana: **Renascimento do Norte: função e cosmovisão**
-
-- 32.1 Moralidade visual
-
-- 32.2 Ensino moral pela arte
-
-- 32.3 Representação da vida na arte
-
-## 33ª Semana: **Renascimento do Norte: materiais e forma**
-
-- 33.1 Óleo refinado
-
-- 33.2 Gravura, xilogravura e metal
-
-- 33.3 Precisão e luz simbólica
-
-## 34ª Semana: **Renascimento do Norte: artistas**
-
-- 34.1 Albrecht Dürer
-
-- 34.2 Hans Holbein
-
-- 34.3 O artista como testemunha
-
-## 35ª Semana: **Renascimento do Norte: legado**
-
-- 35.1 Base do realismo moderno
-
-- 35.2 Arte e Reforma Protestante
-
-- 35.3 Encerramento do Renascimento do Norte
-
-## 36ª Semana: **Consolidação: visão panorâmica (parte 1)**
-
-- 36.1 De Bizâncio à Iconoclastia
-
-- 36.2 Do Islã ao Românico
-
-- 36.3 Do Gótico ao Pré-Renascimento
-
-## 37ª Semana: **Consolidação: conexões e contrastes**
-
-- 37.1 Cosmovisões comparadas
-
-- 37.2 Técnicas e materiais comparados
-
-- 37.3 A arte como linguagem da fé
-
-## 38ª Semana: **Encerramento do Volume 2**
-
-- 38.1 Síntese dos grandes marcos artisticos
-
-- 38.2 A arte e o cristão reformado
-
-- 38.3 Introdução ao Renascimento Italiano e Maneirismo
+- 31.1 O Renascimento do Norte
+- 32.1 A pintura a óleo flamenga
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 34.1 A gravura no Renascimento do Norte
+- 35.1 Albrecht Dürer e o desenho gravado
+- 36.1 Hans Holbein e o retrato do Norte
+- 37.1 A Reforma e as imagens no Norte europeu
+- 38.1 O legado dos Renascimentos
 
 ---
+## Semana 40 - Prova bimestral
 
-## Semana 40 – Prova Final
-
----
-
-[Belas artes] - Ano 3 - 40 Prova
+[Belas artes] - Ano 3 - 40.1 Prova bimestral
 
 # Description
 
-# Prova Final
+## Objetivos
 
-## 31ª Semana: **Renascimento do Norte: contexto e cosmovisão**
+→ Avalie os conteúdos estudados no 4º bimestre.
 
-- 31.1 Renascimento do Norte
-
-- 31.2 Reformas religiosas e cultura
-
-- 31.3 Observação da natureza
-
-## 32ª Semana: **Renascimento do Norte: função e cosmovisão**
-
-- 32.1 Moralidade visual
-
-- 32.2 Ensino moral pela arte
-
-- 32.3 Representação da vida na arte
-
-## 33ª Semana: **Renascimento do Norte: materiais e forma**
-
-- 33.1 Óleo refinado
-
-- 33.2 Gravura, xilogravura e metal
-
-- 33.3 Precisão e luz simbólica
-
-## 34ª Semana: **Renascimento do Norte: artistas**
-
-- 34.1 Albrecht Dürer
-
-- 34.2 Hans Holbein
-
-- 34.3 O artista como testemunha
-
-## 35ª Semana: **Renascimento do Norte: legado**
-
-- 35.1 Base do realismo moderno
-
-- 35.2 Arte e Reforma Protestante
-
-- 35.3 Encerramento do Renascimento do Norte
-
-## 36ª Semana: **Consolidação: visão panorâmica (parte 1)**
-
-- 36.1 De Bizâncio à Iconoclastia
-
-- 36.2 Do Islã ao Românico
-
-- 36.3 Do Gótico ao Pré-Renascimento
-
-## 37ª Semana: **Consolidação: conexões e contrastes**
-
-- 37.1 Cosmovisões comparadas
-
-- 37.2 Técnicas e materiais comparados
-
-- 37.3 A arte como linguagem da fé
-
-## 38ª Semana: **Encerramento do Volume 2**
-
-- 38.1 Síntese dos grandes marcos artisticos
-
-- 38.2 A arte e o cristão reformado
-
-- 38.3 Introdução ao Renascimento Italiano e Maneirismo
+- 31.1 O Renascimento do Norte
+- 32.1 A pintura a óleo flamenga
+- 33.1 Jan van Eyck e o detalhe simbólico
+- 34.1 A gravura no Renascimento do Norte
+- 35.1 Albrecht Dürer e o desenho gravado
+- 36.1 Hans Holbein e o retrato do Norte
+- 37.1 A Reforma e as imagens no Norte europeu
+- 38.1 O legado dos Renascimentos
 
 ---

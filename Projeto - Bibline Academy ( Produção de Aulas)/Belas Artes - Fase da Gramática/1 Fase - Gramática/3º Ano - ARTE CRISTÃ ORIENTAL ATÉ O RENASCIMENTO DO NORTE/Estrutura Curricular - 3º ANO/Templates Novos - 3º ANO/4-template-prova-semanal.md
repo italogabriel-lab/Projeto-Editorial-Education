@@ -2,7 +2,7 @@
 
 [CANVAS_QUIZ]
 
-<!-- Prova semanal x.5 — 9 questões de 10 pontos, separadas por 8 linhas --.
+<!-- Prova semanal x.5 — 10 questões de 10 pontos, separadas por 9 linhas --.
 Use os FILL_IN progressivos e os MULTIPLE das aulas x.1, x.2 e x.3 como referência direta.
 Proibido: "Qual frase resume melhor a semana?", "Qual foi o termo da semana?" ou perguntas estruturais. -->
 
@@ -85,3 +85,13 @@ MULTIPLE_CHOICE 10
 [Resposta correta] [=] true
 [Distrator] [=]
 [Outro distrator] [=]
+
+--
+
+MULTIPLE_CHOICE 10
+
+[Pergunta temática adicional, derivada do Praticar de uma das aulas da semana?]
+
+[Resposta correta, literal e temática] [=] true
+[Distrator plausível] [=]
+[Outro distrator temático] [=]

@@ -1,6 +1,7 @@
 # Referências de Arte e Música - 3º Ano
 **Período:** Da Arte Cristã Oriental até o Renascimento do Norte
 
+
 ## 1. Arte Românica e Islâmica (Idade Média Central)
 - **Artistas Visuais:** Arquitetos e pedreiros medievais anônimos.
 - **Obras de Arte Visuais:** 
